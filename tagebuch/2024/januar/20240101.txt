@@ -153,10 +153,19 @@ schamanisches Interface mit Pädo-Wunschbrunnen detected
 
 abstract class SchamanicInterface
 {
-  void dreinSchlagen
-  void sexuellBedrängen
-  void ICD10 G40.2
-  void 
+  abstract void dreinSchlagen()
+  abstract void sexuellBedrängen
+  abstract void ICD10 G40.2
+  abstract void Pawlow              // <- das impliziert vermutlich meist ein auftragskiller team
+  
+[DELETED]
+wie urs blum immer die geisteskranke margrit und georg vorgeschaltet hat scheine ich auch vorgeschaltet zu sein, 
+HYPOTHESE: und bevor die über das schamansiche interface jüngere vergewaltigen können müssen die an mir vorbei, für mcih mähsig toll, aber die jüngeren würde es beschützen
+
+Mon Jan  1 08:03:29 AM CET 2024
+leibe geisteskranke offiziere und zürich-versichrungs-blackhats, könntet ihr bitte euren bescheuerten cyber-krieg ohne mich führen im 2024, danke
+
+  
 
 
 
