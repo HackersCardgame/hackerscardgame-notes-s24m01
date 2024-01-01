@@ -153,10 +153,13 @@ schamanisches Interface mit Pädo-Wunschbrunnen detected
 
 abstract class SchamanicInterface
 {
-  abstract void dreinSchlagen()
-  abstract void sexuellBedrängen
-  abstract void ICD10 G40.2
-  abstract void Pawlow              // <- das impliziert vermutlich meist ein auftragskiller team
+  abstract void dreinSchlagen(){}
+  abstract void sexuellBedrängen(){}
+  abstract void ICD10_G40_2(){}
+  abstract void Pawlow(){}              // <- das impliziert vermutlich meist ein auftragskiller team
+  abstract void kettenReaktionVerursachen(){}
+  abstract void SprengfallenDruhungenGegenMarcJr(){}
+  abstract void ...(){}
   
 [DELETED]
 wie urs blum immer die geisteskranke margrit und georg vorgeschaltet hat scheine ich auch vorgeschaltet zu sein, 
