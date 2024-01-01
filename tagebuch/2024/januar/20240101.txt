@@ -161,14 +161,25 @@ abstract class SchamanicInterface
   abstract void SprengfallenDruhungenGegenMarcJr(){}
   abstract void ...(){}
   
-[DELETED]
+[DELETED] [REBUILT]
 wie urs blum immer die geisteskranke margrit und georg vorgeschaltet hat scheine ich auch vorgeschaltet zu sein, 
 HYPOTHESE: und bevor die über das schamansiche interface jüngere vergewaltigen können müssen die an mir vorbei, für mcih mähsig toll, aber die jüngeren würde es beschützen
 
 Mon Jan  1 08:03:29 AM CET 2024
 leibe geisteskranke offiziere und zürich-versichrungs-blackhats, könntet ihr bitte euren bescheuerten cyber-krieg ohne mich führen im 2024, danke
 
-  
+dann wäre das mongo-development-terror-netzwerk vermutlich an der abstrakten klasse am ändernungen am machen (z.B HTL/FHA/FHNW ic01 und ia03?)
+
+dann gäbe es auch ein dem SchamanischenInterface übergelagertes "sicherheits-system" dass verhinder dass man cyber-vergewaltigungen verhindert
+-> also "what teddy saw" um es als kunst auszudrücken
+
+abstract class aboveSchamanicInterface      // <- dieses ding hätte völlig ein anderes ziel als jüngere und kinder zu cyber-vergewaltigen
+{
+  abstract 
+
+}
+
+
 
 
 
