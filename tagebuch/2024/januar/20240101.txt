@@ -159,7 +159,9 @@ abstract class SchamanicInterface
   abstract void Pawlow(){}              // <- das impliziert vermutlich meist ein auftragskiller team
   abstract void kettenReaktionVerursachen(){}
   abstract void SprengfallenDruhungenGegenMarcJr(){}
+  abstract void menschenAusDemUmfeldTriggern(){}    // also das wäre in Telegram vermutlich relativ einfach, deshalb hat Jake "Reverse Targeting" gesagt
   abstract void ...(){}
+
   
 [DELETED] [REBUILT]
 wie urs blum immer die geisteskranke margrit und georg vorgeschaltet hat scheine ich auch vorgeschaltet zu sein, 
