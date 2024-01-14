@@ -1,0 +1,1 @@
+Efiflash Z370AOG5.F15
