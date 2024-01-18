@@ -63,7 +63,7 @@ vertuschungsfunktion bzw. inhaltliche disassembly protection der Zürich Versich
  | [1] [LOCK]
  | [2] ICD10 F44.x
  | [3] sprengfallendrohungen + ICD10 G40.2 (allenfalls zeitglich bei anständigem Polizei-Personal)
- | 
+ | [4] geflügelschere gepflanzt durch geschenk von dominik brändli an simon mülebach + ICD10 G40.2
  | 
  v
 
