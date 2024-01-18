@@ -125,6 +125,7 @@ wir wenn claudine udn ich das nicht im militär bekommen haben, dann hätte man 
 1x f[c] Pawlow
 1x f[c] ICD10 G40.2
 1x f[c] Medulla Oblangata
+1x f[c] ICD10 F44.x
 
 somit wäre es allenfalls mal spannend so die belegungspläne von operattionssälen so um 1980 oder z.B. die patienten-liste von Myrtha Pfisterer im KSA zu sichern
 
