@@ -27,3 +27,8 @@ dann ist auch ein neuuraink [BLOCKED] neurologen manipulations-team [LOCK] und e
 
 Sat Jan 20 05:32:55 PM CET 2024
 
+somit falls das FEDPOL grad mitliest chattr +a auf alle netzwerke bzw. logs
+
+Sat Jan 20 05:33:19 PM CET 2024
+
+
