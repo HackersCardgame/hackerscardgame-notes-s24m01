@@ -13,3 +13,29 @@ und das ist eingentlich eine richtig lustige Pointe, ich VERMUTE Herr Urs Offizi
 -=[ Mon Jan 22 07:36:40 AM CET 2024 ]=-
     ================================
 
+dann wurde auch wieder "Schrödingers Verwahrlungsartikel" gegen mich aktiviert
+
+Explanation:
+p1: Montag sei Kontrolltag für den Verwahrlosungs-Artikel
+p2: wenn nicht aufgeräumt sei, dann räume man mich wegen Verwahrlungs wieder in die Psychiatrie und behandle mich mit Intelligenz-verblödungs-Medikamenten
+p3: Wohnung Saugen
+
+p3: wenn ich aber saugen würde, dann würde man mir den Prozess machen wegen Lärmbelästigung und dann käme ich auch in die Psychiatre
+
+Aus wiedersprüchlichem folgt beliebiges (B)
+
+A: p1+p2 => p3
+¬A: p3 
+
+A ∧ ¬A ⊨ B
+
+B: hmmmmm, ich könnte noch eine Pizza machen
+
+    ================================
+-=[ Mon Jan 22 07:45:42 AM CET 2024 ]=-
+    ================================
+
+
+
+
+
