@@ -54,3 +54,15 @@ und mit triebtäter meine ich logischerweise nicht diejenigen die keine triebtä
 -=[ Thu Jan 25 01:33:20 PM CET 2024 ]=-
     ================================
 
+dann wieder zu den spannenderen Themen
+
+Sprache ist Diskrete Mathematik
+Benutzt man Slang ist es immer noch Diskrete Mathematik
+Verwurschtelt man wie ich Buchstaben-Suppe ist es immer noch Diskrete Mathematik
+
+aber dennoch binomial(1000,3) <- sehr vorsichtig geschätzt
+
+    ================================
+-=[ Thu Jan 25 01:42:47 PM CET 2024 ]=-
+    ================================
+
