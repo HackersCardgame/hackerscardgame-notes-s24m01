@@ -53,3 +53,12 @@ RECHTLICH: Vorerst Spekulation
 -=[ Fri Jan 26 06:43:25 AM CET 2024 ]=-
     ================================
 
+
+das ist wieder mal irgend so eine ALL AT ONCE malware, auch windows und linux ausdrucken geht nicht, bzw auf windows ist der xServer für WSL2 sabotiert worden
+
+    ================================
+-=[ Fri Jan 26 06:45:26 AM CET 2024 ]=-
+    ================================
+
+
+
