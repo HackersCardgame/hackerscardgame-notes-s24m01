@@ -1,3 +1,3 @@
 #!/bin/bash
 
-N-ZA-Mn-za-m]'
+'[A-Za-z] [N-ZA-Mn-za-m]'
