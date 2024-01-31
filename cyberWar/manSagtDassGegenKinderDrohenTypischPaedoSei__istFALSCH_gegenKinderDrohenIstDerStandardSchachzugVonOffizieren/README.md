@@ -16,10 +16,9 @@
 DIE HTL hat ein Blackhat Team welches Publizistik verhindern soll, kamera, sendeinfrasturktur etc bei relevanten personen proektiv schon mal mit cybersprengfallen ausstattet, kann man denen ausweichen gibts körperverletzungen egal ob man den autistenhelm trägt oder nicht
   
 
-ilautsprecher aurf 2 bienen 
-                     ------ <- militärsiches neuralink glasfaser netzwerk, WTF
+somit wäre es interessant, wer von der HTL z.b. bei dem SRF oder Aargauer Zeitung arbeitet ...
 
-Lautsprecher auf 2 Beinen
+das wäre durchaus etwas was FEDPOL mal mit Wikileaks besprechen sollte, wie bereits erwähnt, ich bin nicht hitler, ich will nciht hilter sein, ist nur meine SUBJEKTIVE MEINUNG, rechtsentscheidungen müssen andere treffen
 
 
 
