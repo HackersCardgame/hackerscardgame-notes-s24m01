@@ -16,3 +16,10 @@ also die Armee raubt alle passwörter von politikern, bzw. ich bin ja nicht mal 
 -=[ Thu Feb 1 08:18:35 AM CET 2024 ]=-
     ================================
 
+
+dann ist die Malware mit zugriff auch auf handy, raumüberwachung, neuralink so programmiert, dass sie eine sequenz von ähnlcihen fehlern hat (m163) karte, und dann bei 80% wo man die sabotage durch die ch-army beweisen könnte diesen debugging-handlungs-strang abbricht und den nächsten aktiviert dass man das rein THEORETISCH nie beweisen könnte, also wenn man ein schlechter nerd wäre
+
+    ================================
+-=[ Thu Feb 1 08:28:41 AM CET 2024 ]=-
+    ================================
+
