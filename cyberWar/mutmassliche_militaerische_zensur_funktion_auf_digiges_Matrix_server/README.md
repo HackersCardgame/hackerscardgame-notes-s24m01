@@ -8,4 +8,11 @@ und ein 40MB video sollte jetzt für das jahr 2024 überhaupt kein problem mehr 
 
 und ist so gemacht, dass es wie ein technischer Fehler aussieht
 
+Matrix client wechseln geht grad nciht mehr, weil irgendwie torzt restore key ich nicht mehr einloggen kann
+
+also die Armee raubt alle passwörter von politikern, bzw. ich bin ja nicht mal richtig politiker nur PETZE nicht politiker
+
+    ================================
+-=[ Thu Feb 1 08:18:35 AM CET 2024 ]=-
+    ================================
 
