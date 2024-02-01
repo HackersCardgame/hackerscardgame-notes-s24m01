@@ -23,3 +23,6 @@ dann ist die Malware mit zugriff auch auf handy, raumüberwachung, neuralink so 
 -=[ Thu Feb 1 08:28:41 AM CET 2024 ]=-
     ================================
 
+dannn versuche ich zu beweisen, dass das kein fehler von mir ist, halte die app offen, dann wird meine hand direkt über medulla spinals neuralink dazu gseteuert die app zu shcliessen, um dann weider die blaming the user karte gegen mich zu aktivieren
+
+
