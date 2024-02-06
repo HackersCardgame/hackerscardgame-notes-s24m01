@@ -157,4 +157,6 @@ hier wird jetzt scheinbar der druch von der zürich rechtsverdreher und zensur s
     ==============================
 -=[ Tue Feb 6 05:04:53 PM CET 2024 ]=-
     ==============================
+dann der drucker in einen state (statemchine geschaltet wo er generell blockert, software mässig)
+
 
