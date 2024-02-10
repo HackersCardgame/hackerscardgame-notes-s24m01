@@ -30,7 +30,7 @@ Equinix, Hardbrücke ZH, grossen ISP's (wie SwissCom, CablecomUPC, ...) eigene R
 
 .svg "Schweizer Armee" [1] hab mal eine Grafik gemacht, aber kurz danach bin ich wieder in der Psychiatrie Königsfelden neben dem militärischen Übungsgelände in Brugg gelandet worden [2]. Ich hatte auch mal einen Professor für Windows-Batch-Scripte und Datenbanke, der mal mit dem "Kämpfer" (das ist die Formulierung für die gedeckt-getarnte Militär-Kleidung in der CH-Army) in den Unterricht gekommen. Er hat dann damit angegeben, dass er für das WEF in Davos die Glasfaser-Netzwerke für die Luftabwehr macht. In der Schweiz sind so Luft-Militär-Zeugs die Leute mit dem Blauen Peret. Ausserdem hat er auch erzählt, dass er irgend so etwas höheres bei der UPC-Cablecom sei, also weiteres Indiz dafür, dass die zivilen Netzwerke von militärischen Glasfaser-Netzwerk unterwandert wurde.
 
-Ich hab dann gedacht, wenn jemand weiss, ob die [HG] [Würg] Glasfaser-Netzwerke der CH-Army auch am Global Assessionation Grid der US-Army angeschlossen sind, dann wäre er das, weil oft kommt der Amerikansiche Präsident ja auch ans WEF. Ich hab das dann dem FEDPOL und dem Parlament getwittert, kurz darauf waren ALLE meine Tweets weg, und es gab nicht mal eine Meldung von Twitter bzw. X [Schmerzimplantat in Marc jr. linken Gehörgang aktiviert worden] weshalb das gelöscht wurde
+Ich hab dann gedacht, wenn jemand weiss, ob die [HG] [Würg] Glasfaser-Netzwerke der CH-Army auch am Global Assessionation Grid der US-Army angeschlossen sind, dann wäre er das, weil oft kommt der Amerikansiche Präsident ja auch ans WEF. Ich hab das dann dem FEDPOL und dem Parlament getwittert, kurz darauf waren ALLE meine Tweets weg, und es gab nicht mal eine Meldung von Twitter bzw. X [Schmerzimplantat in Marc jr. linken Gehörgang aktiviert worden] weshalb das gelöscht wurde. [Global Assesionation Grid] [Bild Eagle Vision One] [Bild Zimmerwald, Onyx]
 
 [Melationin Metabolismus jetzt bei mir aktivert worden]
 
@@ -39,4 +39,22 @@ Ich hab dann gedacht, wenn jemand weiss, ob die [HG] [Würg] Glasfaser-Netzwerke
 [1] [DISSO] [Chemitrode linkes Ohr] [jemand droht mit HG] [induziertes ICD10 G40.2 <- etwa ab hier sollte ich jeweils meinen AutistenHelm holen, aber ich hasse das Ding] [Pawlow Stimuli + CyberWürgekette]
 
 [2] "ich mach di chalt"
+
+
+Aber wie immer weiche ich wieder mal vom Thema ab, das Thema war ja eigentlich "esoterischer Windows-Mausgesten-Zauberei-Hexerei-Wunschbrunnen". Mausgesten kann man relativ einfach auswerten, z.B. jeweils 1. und 2. Ableitung (Wendepunkte) für beide Achsen in eine "Excel"-Tabelle eintragen. [DEMONSTRATION Mouse-Tracker]
+
+Mausgesten Auswertung wurde von Facebook gemacht [Artikel Facebook Mausgesten] zwecks "Marketing", aber vermutlich nicht nur von Facebook. Ausserdem kann man das auch an diversen anderen Stellen abgreifen
+
+* Körper-Telemetrie mit dem Militärischen Waffentracking System [Hackaday Bewegungsfelder]
+* direkt in der Maus
+* auf dem USB Bus z.B über IntelME Hardware Backdoors
+* im BetriebsSystem
+* im Browser <- also der Zuckerberg wäre nur hier gewesen
+* nicht abschilessend
+
+
+
+
+
+
 
