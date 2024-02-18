@@ -117,5 +117,17 @@ Fragen:
     ==============================
 
 
+    ==============================
+-=[ Sun Feb 18 10:42:13 PM CET 2024 ]=-
+    ==============================
+
+dann wurde jetzt das mail, bzw. der ausdruck, bzw. im gesendete mails geöscht, dass ich diese gefärdungsmeldung gemacht habe
+
+=> auswerten Hostpoint logfiles, sowohl smtp als auch imap
+
+    ==============================
+-=[ Sun Feb 18 10:42:52 PM CET 2024 ]=-
+    ==============================
+
 
 
