@@ -96,3 +96,26 @@ GOTT SEGNE PAPIER UND STIFT
 -=[ Sun Feb 18 06:22:49 AM CET 2024 ]=-
     ==============================
 
+
+    ==============================
+-=[ Sun Feb 18 08:14:53 AM CET 2024 ]=-
+    ==============================
+
+
+dann VERMUTE ich, dass das Neuralink glasfaser netzwerk der CH-Army die Überwachungs-Daten IMMER inklusive den Paralellen EEG / Neuralink Daten des überwachten abspeichert
+
+Fragen:
+* wie sieht das mit einer lesenden und einer schreibende Elektrode aus wie beim 1950 Stimoceiver
+* wie sieht das mit 10 Elektroden aus wie bei einem Berger EEG
+* wie sieht das mit 100 elektroden aus wie z.B. bei Neuronexus oder EEG tissuse die nur aufgeleget werden
+* wie sehti das mit 1000 Elektroden wie bei neuralink aus
+* -> kann man das umschreiben von 1 auf 1000 elektroden oder umgekerht
+* Gibt es da File-Fromate die allenfalls sogar global normiert wären 
+
+    ==============================
+-=[ Sun Feb 18 08:17:38 AM CET 2024 ]=-
+    ==============================
+
+
+
+
