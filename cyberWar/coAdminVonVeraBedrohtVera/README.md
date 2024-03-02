@@ -18,6 +18,14 @@ ERBITTE AMTSHILFE VON FEDPOL, INTERPOL und EUROPOL
 
 dann hat der user GO eine automated censorship infrastruktur welche einen SD-Card von mir zercybert wo ich die beweise damit sichern möchte
 
+marc@debian:~/hackerscardgame-notes-s24m01$ figlet WICHTIG :
+__        _____ ____ _   _ _____ ___ ____     
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___|  _ 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _  (_)
+  \ V  V /  | | |___|  _  | | |  | | |_| |  _ 
+   \_/\_/  |___\____|_| |_| |_| |___\____| (_)
+                                              
+
 censorship STUXNET per User/Kanal, erkennt wenn man beweismittel sichert
 
     ==============================
