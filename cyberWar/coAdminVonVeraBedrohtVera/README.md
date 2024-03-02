@@ -42,3 +42,14 @@ dann auch der screenshot der jetzt in diesem git commit ist wurde abgefangen
 -=[ Sat Mar 2 09:42:19 PM CET 2024 ]=-
     ==============================
 
+ich denke das ist etwas wie ein interaktiver remote debuuger, der auch zuhört was ich sage und dann wenn ich etwas rausgefunden habe und petze das grad sofort vertuscht
+
+also KONZEPTWISSEN:
+
+Remote-Debugger zwecks Sabotage der Zeugen und Opfer mit Interaktiven Raumüberwachung um sie als Spinner darstellen zu können, heisst dann schaeun die blackhats dass sie acuh immer richtier und amtspersonen dabei haben um den zeugen als spinner darzustellen
+
+    ==============================
+-=[ Sat Mar 2 09:46:55 PM CET 2024 ]=-
+    ==============================
+
+
