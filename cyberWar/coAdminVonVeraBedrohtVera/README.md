@@ -36,3 +36,9 @@ der herr urs blum verschleiert somit intel hardware backdoors wo die CH-Army sch
 -=[ Sat Mar 2 09:41:33 PM CET 2024 ]=-
     ==============================
 
+dann auch der screenshot der jetzt in diesem git commit ist wurde abgefangen
+
+    ==============================
+-=[ Sat Mar 2 09:42:19 PM CET 2024 ]=-
+    ==============================
+
