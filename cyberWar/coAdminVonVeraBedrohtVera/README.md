@@ -81,3 +81,6 @@ urs blum: das ist von herr dr. schleusener mit seinem rüchaltebefehl befohlen w
 -=[ Sat Mar 2 10:00:14 PM CET 2024 ]=-
     ==============================
 
+datenträger zerstören können die immer, die funktion auf intelME AX.25 Frequenz-Hopping Backdoors aktivieren die aber nur wenn es um Mord oder Millionen Straftaten geht
+
+
