@@ -44,6 +44,13 @@ dann auch der screenshot der jetzt in diesem git commit ist wurde abgefangen
 
 ich denke das ist etwas wie ein interaktiver remote debuuger, der auch zuhört was ich sage und dann wenn ich etwas rausgefunden habe und petze das grad sofort vertuscht
 
+marc@debian:~/hackerscardgame-notes-s24m01$ figlet WICHTIG :
+__        _____ ____ _   _ _____ ___ ____     
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___|  _ 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _  (_)
+  \ V  V /  | | |___|  _  | | |  | | |_| |  _ 
+   \_/\_/  |___\____|_| |_| |_| |___\____| (_)
+                                              
 also KONZEPTWISSEN:
 
 Remote-Debugger zwecks Sabotage der Zeugen und Opfer mit Interaktiven Raumüberwachung um sie als Spinner darstellen zu können, heisst dann schaeun die blackhats dass sie acuh immer richtier und amtspersonen dabei haben um den zeugen als spinner darzustellen
