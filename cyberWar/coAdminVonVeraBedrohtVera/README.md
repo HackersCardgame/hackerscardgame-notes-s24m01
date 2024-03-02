@@ -15,3 +15,12 @@ also wenn der urs blum mit sprengfallen droht was allenfalls auch philipp blum m
 
 ERBITTE AMTSHILFE VON FEDPOL, INTERPOL und EUROPOL
 
+
+dann hat der user GO eine automated censorship infrastruktur welche einen SD-Card von mir zercybert wo ich die beweise damit sichern möchte
+
+censorship STUXNET per User/Kanal, erkennt wenn man beweismittel sichert
+
+    ==============================
+-=[ Sat Mar 2 09:26:01 PM CET 2024 ]=-
+    ==============================
+
