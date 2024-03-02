@@ -24,3 +24,16 @@ censorship STUXNET per User/Kanal, erkennt wenn man beweismittel sichert
 -=[ Sat Mar 2 09:26:01 PM CET 2024 ]=-
     ==============================
 
+    ==============================
+-=[ Sat Mar 2 09:28:28 PM CET 2024 ]=-
+    ==============================
+
+suizid versuch gegen marc jr landolt aktiviert worden durch urs blum, und medulla spinalis typo override [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] 
+
+Androhung von massenmord druch urs blum um den git commmit abzufangen
+
+    ==============================
+-=[ Sat Mar 2 09:29:11 PM CET 2024 ]=-
+    ==============================
+
+
