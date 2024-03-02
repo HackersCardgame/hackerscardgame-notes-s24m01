@@ -35,5 +35,15 @@ Androhung von massenmord druch urs blum um den git commmit abzufangen
     ==============================
 -=[ Sat Mar 2 09:29:11 PM CET 2024 ]=-
     ==============================
+urs lbum bekommt access auf den intel me hardware backdoor wenn er sprengfallen aktivieret und kann dann marc jr landolt körperverletzungen  zufügen
 
+    ==============================
+-=[ Sat Mar 2 09:33:37 PM CET 2024 ]=-
+    ==============================
+
+dann urs blum fügt sprengfallendrohungen ein, damit die obigen tätern die grad aufgeflogen sind sich unterdessen verdrücken können bzw. könnten
+
+    ==============================
+-=[ Sat Mar 2 09:40:08 PM CET 2024 ]=-
+    ==============================
 
