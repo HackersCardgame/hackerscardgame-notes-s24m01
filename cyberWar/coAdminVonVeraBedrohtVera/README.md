@@ -1,0 +1,17 @@
+    ==============================
+-=[ Sat Mar 2 08:50:57 PM CET 2024 ]=-
+    ==============================
+
+ich Vermute mal der Co Admin "GO" in Vera Maria Wolfseders kanal bedroht nicht nur vera sondern auch mich, der screenshot nach meinem video wo sie zynishc sagt "deine Schöne stimme marc jr." [LOCK] [UB] [UNLOCK] -- ungehört: "wäre ja schade wenn der schönen stimme etwas passieiren würde" wäre somit der auftrag von GO gewesen. sie sagt sie sei psychologin / psychiaterin. sieht dass mien video anderen hilft, hat den auftrag mich und vera zu sabotieren. chat export im selben verzeichnis, bzw. funktioniert scheeinbar der chat export in telegram grad bei dem benutzer / in nciht, sie wäre ein mitgliet eines Blackhat terrornetzwerks
+
+dann technisch zu meinem fall, da hat es eine vorprogrammierte exit strategie, dass das induzierte Bronchitis wegen dme rauchen sei, wenn ich aber am morgen nicht rauche schatet das ein sobald ich telegram öffne und in telegram selbsthilfe-gruppen arbeit leiste
+
+
+[UB] urs blum droht jetzt wieder mit sprengfallen
+-=[ Sat Mar 2 08:56:26 PM CET 2024 ]=-
+und scheinbar kann dieses Terrornetzwerk die Lara in den Suizid modus schalten: screenshot  grad jetzt: Screenshot from 2024-03-02 20-55-20.png
+
+also wenn der urs blum mit sprengfallen droht was allenfalls auch philipp blum mit urs blums sprachsynthese ist, dann werdne menschen in telegram in den suizid modus gehsclatet
+
+ERBITTE AMTSHILFE VON FEDPOL, INTERPOL und EUROPOL
+
