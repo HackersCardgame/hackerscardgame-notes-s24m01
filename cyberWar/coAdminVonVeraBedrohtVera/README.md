@@ -28,22 +28,11 @@ censorship STUXNET per User/Kanal, erkennt wenn man beweismittel sichert
 -=[ Sat Mar 2 09:28:28 PM CET 2024 ]=-
     ==============================
 
-suizid versuch gegen marc jr landolt aktiviert worden durch urs blum, und medulla spinalis typo override [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] [UB] 
+es wurden jetzt sogar mehrere datenträger sabotiert, owohl ich im offline modus bin und kein netzwekr angeschlossen ist.
 
-Androhung von massenmord druch urs blum um den git commmit abzufangen
-
-    ==============================
--=[ Sat Mar 2 09:29:11 PM CET 2024 ]=-
-    ==============================
-urs lbum bekommt access auf den intel me hardware backdoor wenn er sprengfallen aktivieret und kann dann marc jr landolt körperverletzungen  zufügen
+der herr urs blum verschleiert somit intel hardware backdoors wo die CH-Army scheinbar drauf zugriff hat mit sprengfallendrohungen und schaltet bei den zeugen und opfern zeitglcih icd10 G40.2 und körperverletzungen ien
 
     ==============================
--=[ Sat Mar 2 09:33:37 PM CET 2024 ]=-
-    ==============================
-
-dann urs blum fügt sprengfallendrohungen ein, damit die obigen tätern die grad aufgeflogen sind sich unterdessen verdrücken können bzw. könnten
-
-    ==============================
--=[ Sat Mar 2 09:40:08 PM CET 2024 ]=-
+-=[ Sat Mar 2 09:41:33 PM CET 2024 ]=-
     ==============================
 
