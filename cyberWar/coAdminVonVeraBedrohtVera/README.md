@@ -67,4 +67,17 @@ Remote-Debugger zwecks Sabotage der Zeugen und Opfer mit Interaktiven Raumüberw
 -=[ Sat Mar 2 09:46:55 PM CET 2024 ]=-
     ==============================
 
+multiuser endpoint gui sabtage hardwrae backdoor
+
+    ==============================
+-=[ Sat Mar 2 09:55:46 PM CET 2024 ]=-
+    ==============================
+
+dann auch ncoh ein rückhaltebefehl in der sync binary, um vor dem zurück schreiben und entfernen des beweismittel datenträgers noch eine hinlatete taktik zu habne um ncoh paar minunten mehr für zensur zu haben 
+
+urs blum: das ist von herr dr. schleusener mit seinem rüchaltebefehl befohlen wprden, cih urs blum befolge nur berfehel
+
+    ==============================
+-=[ Sat Mar 2 10:00:14 PM CET 2024 ]=-
+    ==============================
 
