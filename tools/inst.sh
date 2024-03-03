@@ -3,4 +3,4 @@ apt-get update
 apt-get upgrade
 apt-get purge firefox-esr
 apt-get install git vim sudo gnome-boxes figlet inkscape gedit mixxx 
-apt-get install libvirt-daemon-system
+apt-get install libvirt-daemon-system tesseract tesseract-ocr-eng tesseract-ocr-deu
