@@ -91,6 +91,17 @@ fi
 #==============================================================================
 echo -e "Usage:
 ------
+
+
+./tesseract_with_dir.sh sort/ target/ png
+
+
+
+
+
+
+------
+
 Enter ${red}sudo ${0} sourceDIR targetDIR fileType${default} 
 eg.   ${red2}sudo ${0} ./fotos ./sorted/fotos jpg${default} "
 echo
