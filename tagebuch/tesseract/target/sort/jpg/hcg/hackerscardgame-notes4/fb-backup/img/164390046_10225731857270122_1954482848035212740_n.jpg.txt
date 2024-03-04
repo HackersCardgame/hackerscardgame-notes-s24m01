@@ -1,0 +1,37 @@
+Activities FE Boxes» Mar28 13:06 © o-
+
+‘
+
+Actnities _&) FretoxESR
+
+var bestVa
+forivar 4
+
+return moves
+
+function isTncheck(p!
+moves = possibleMoy
+
+forivar i=0; icmove
+Lf (board {moves {1}
+etum
+
+function minimax (dept
+ri
+
+if(resetCounter) Ly
+
+else instances
+
+var bestMove = [[0
+
+(depth < 1) retur hh
+
+var mo. hut fle
+
+var bestValue=
+ivar 1 = 0;
+
+return move:
+
+foe eumaatinea ss ae

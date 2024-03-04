@@ -1,0 +1,42 @@
+DESKTOP-4129ANI: ~/hacl
+
+Delta compression using up to 4 threads
+
+compressing objects: 160% (11/11), done
+
+Miriting objects: 100% (11/11), 1.66 KiB | 1.66 MiB/s, done
+
+otal 11 (delta 7), reused @ (delta 0)
+
+To https: //gitlab.com/HackersCardgame/hackerscardgame-notes3
+df15a88..b2ed6f4 master -> master
+
+$ cp_/mnt/d/disk/hackerscardgame-notes3/* . -rvu
+mnt, t/d/disk/hackerscardgame- notes3/generics/familien-wappen-landolt-aarau.jpg’ -> ‘./generics/familien-wappen-landolt-a
+-ipe"
+t/d/di sk/hackerscardgame-notes3/rC3/chellenge-fmilien-wappen-in-unicode-maximal-datensparsam. svg
+je-fmiLien-wappen-in-unicode-maximal - datensparsam. svg"
+$ git add -A & git commit -m ” 8& git push
+[master 12b94ac]
+2 files changed, 7519 insertions
+create mode 100755 generics/familien-wappen-landolt-aarau. jpg
+create mode 100755 rC3/chellenge-fmilien-wappen-in-unicode-maximal-datensparsam. svg
+for ‘https://gitlab.com’: hackerscardgame
+for "https: //hackerscardgame@gitlab.com
+redirecting to https: //gitlab.com/HackersCardgame/hackerscardgame-notes3.git/
+ng objects: 9, done.
+objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+compressing objects: 160% (6/6), done
+liriting objects: 100% (6/6), 466.46 KiB | 21.20 MiB/s, done
+Total 6 (delta 2), reused @ (delta @)
+To https: //gitlab.com/HackersCardgame/hackerscardgame-notes3
+b2ed6F4..12b94ac_ master -> master
+q $ ping salt.ch
+PING salt.ch (213.55.192.1@) 56(84) bytes of data.
+
+[abgeschaltet?
+
+Fiige noch etwas zu deinem
+Beitrag hinzu
+

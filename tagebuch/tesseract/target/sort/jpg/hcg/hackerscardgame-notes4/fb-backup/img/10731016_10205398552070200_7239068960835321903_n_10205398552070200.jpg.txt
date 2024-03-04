@@ -1,0 +1,172 @@
+[NanoBeamM2 400] - Site Survey - Chromium,
+
+(& bepS://192.168.179.21/survey.cgi?iface=athO
+
+ccsD4E-8401-10
+58.60:8F36.72.27
+A4526F-7B8F-71
+OC'S4:A54A:A185
+DéD184Fe:A5:88
+sc97.2688.8C8F
+0021-16-60 6:30
+8426:1557.0859
+08:9607:60850
+00:24:¢8:58:08:00
+SC-C7:A6-28:ACS5
+00:187-£8:9093
+oo2a:ces8e7:30
+oo-tF:41.08:07:41
+OCSH:A5:A4:78:14
+00:2642:80.26:80
+S4BE-F75858:52
+2465:11D1:08:aD
+08.9607:4F-1F-B8
+00:24:¢8:675A90
+58:60:8F' 80:98:06
+00259C:DatsE0
+Fe40F2C5:16#0
+€0:25:08:C0:AFDA
+DoDs20114s8
+FEMS F6-0848:0
+00:23:75:1D #350
+2CSS-ESBS:AF-AE
+oo.c0:ca 71.7850
+OCSH:ASFEF2C4
+00:262:68:2a.04
+4494FC:8658:04
+00:13:10:3F'36:26,
+00.0F:c3:05.08:18
+oonicroc74:27
+
+‘Selectable SSID's must be visible and have com
+
+ZyNEL3239hur
+jistalder
+
+rle-36550
+
+YETNET_45679
+bppb-58506
+
+TNCAPBBBCEF
+Yss-25429
+
+hhmo-84846
+
+wwe
+
+-znw-88420
+
+FFRITZIBox Fon WLAN 7390,
+CCORNELIA-PC_Network_1
+oc-26870
+
+YETNET_32859
+icz-47345
+
+YETNET_45043,
+
+FFRITZIBox Fon WLAN 7380
+heh
+
+peu-75340
+W-Lan-Leibundgut
+saint-malo
+
+YeTNET_42122
+
+Peries
+
+KFTO7538
+
+ZyXELOB4BEO
+
+on-61640
+H-Print-AE-Photosmart 5520
+20008
+
+YETNET_46192
+
+Garage
+
+NETGEAR_ting
+
+Srbija
+
+WirelessHome
+
+921-92
+901-92
+941-96
+801-92
+
+“741-92
+
+851-92
+86 1-92
+811-3
+871-92
+911-92
+88 1-92
+781-92
+771-92
+911-92
+911-92
+921-92
+921-92
+931-96
+921-92
+941-96
+921-92
+911-92
+911-92
+931-96
++90 1-92
+93 1-96
+“751-92
+891-92
+95 1-96
+871-92
+851-92
+821-92
+761-92
+921-92
+
+2437 6
+2.462 u
+2.462 a
+2.462 a
+2.462 a
+2.462 ua
+2are B
+2437 6
+2.452 8
+2.467 2
+2a a
+2437 6
+2422 3
+2437 6
+2a a
+2437 6
+2a a
+2a 1
+2a a
+2437 6
+2.462 a
+2437 6
+2a a
+2.452 8
+2.462 u
+2are B
+2.452 8
+2437 6
+2a a
+2a a
+2437 6
+2.462 a
+2.462 a
+2a 1
+2a a
+
+Lockto AP || Select || Scan
+

@@ -1,0 +1,8 @@
+ConducTHOR ResisTHOR
+
+IinducTHOR CapectTHOR
+
+i x
+
+TransformaTHOR TransisTHOR
+

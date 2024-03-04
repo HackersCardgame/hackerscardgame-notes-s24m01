@@ -1,0 +1,12 @@
+Are you sure you want to
+downgrade from Developer to Free?
+
+You will remain on the Developer plan until June 12, 2018
+
+‘When your Free plan takes effect on that date:
+
+You will no longer be able to access your private
+repositories or create new ones.
+
+Junderstand, downgrade my plan
+

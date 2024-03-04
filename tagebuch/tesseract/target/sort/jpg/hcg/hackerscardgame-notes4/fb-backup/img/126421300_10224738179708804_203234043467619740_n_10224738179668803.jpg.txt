@@ -1,0 +1,40 @@
+i
+Y Marc{LAN|WAN)  @® MarcjrLandott | | @® (3)3d-Suchero. | F mimikama on | Gates, Mikrochi  @ rfidtracking 3D | RFIDRTLS Passive! |) FileRFIDChipo’ | HITACHIGLOB! | I TweetDeck «© (960) Researcher By BE © iiegistdertein + =
+
+me ACKADAY
+
+HOME BLOG HACKADAY.IO TINDIE HACKADAYPRIZE SUBMIT ABOUT November 20, 2020
+
+BEWEGUNGSFELDER IS A
+WIRELESS IMU MOTION
+CAPTURING SYSTEM
+
+by: Moritz Walter ® 24.Comments
+
+fy ‘September 13, 2016
+
+Roig gene dhe me mA
+MoCap one step further with a freely configurable motion capturing system based on strap-on, WiFi-
+
+‘The Bewegungsfelder system consists of multiple, ESP8266-powered standalone IMU sensor nodes and a
+
+motion capturing server. Attached to a person’s body (or anything else) the nodes wirelessly stream the NEVER MISS A HACK
+output of their onboard MPU60S0 6-axis accelerometer/gyroscope to a central motion capturing server.
+
+‘A server application translates the incoming data into skeletal animations, visualizes them as a live preview
+and stores the MoCap data for later use. Because the sensor nodes are entirely seltcontained, they fyoa=
+can be easily reconfigured to any skeletal topology, be it a human, a cat, or an industrial robot.
+
+Sa eg
+toca ox]
+
+Re}
+mt
+
+‘Mme =eao-F=a@ee eet,
+
+Os
+
+cen
+* @408 P3120
+

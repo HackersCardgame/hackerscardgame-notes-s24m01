@@ -1,0 +1,13 @@
+marc@debian: /var/www/htmt
+
+ae Edit View Search Terminal Help
+marc@debian: /var/www/html$ which cat
+
+/bin/cat
+
+marc@debian: /var/www/html$ file /bin/cat
+
+/bin/cat: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-lin
+ux-x86-64.s0.2, for GNU/Linux 2.6.32, BuildID[shal]=8a5ac6fc8d1a22b34798b7896be48428086d5df1, stripped
+
+‘marc@debian: /var/www/html$

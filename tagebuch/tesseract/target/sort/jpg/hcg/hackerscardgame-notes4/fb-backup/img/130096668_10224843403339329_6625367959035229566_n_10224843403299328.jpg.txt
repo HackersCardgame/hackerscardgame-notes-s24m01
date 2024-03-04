@@ -1,0 +1,117 @@
+c ee O & 192.168.192.234 /zabbix/screens. et=1
+
+rein penny wry < © 2
+IBICMP response time [avg] 0 0 °
+
+ox
+
+www.twitter.com: Ping (1h)
+
+Sa
+i ICMP response time
+
+10.1ms 21.61ms
+
+marclandolt.ch: Ping (1h)
+
+at Is My IP? Neuenburgerstr
+
+“Or ¥
+
+Sa py ere z * . *
+HICMPresponsetime [avg] 13.9ms 10.8ms 22.05ms_61.8ms
+
+facebook.com: Ping (1h)
+
+as 1s
+10 10
+os os
+oc : — : =
+last. min avg max min avg last min avg max
+HEICMP loss aval 0% 0% 0% 0% 0% 0% WICMP loss lavgl 0% 0% 0% 0%
+CMP ping faval 1 at 1 1 1 1 CMP ping faval 1 1 1 1
+
+CMP responsetime [avg] _26.9ms__24ms__37.07ms__114.4ms
+
+168.192.1: Traffic on interface wan-wan1 (1h)
+
+last min 9
+incoming traffic on interface wan-wanl [avg] 58 Mbps 43.05 Mbps 91.37 Mbps
+IH Outgoing traffic on interface wan-wanl [avg] 59.71 Mbps 14.79 Mbps 82.96 Mbps
+
+192.168, 192.1: Traffic on interface lan-lan1 (1h)
+
+4Mbps
+2Mbps
+bps et SS
+
+12-0
+
+last min
+
+avg
+Hi incomingtraffic on interface lan-lanl [avg 23.83 Kbps 248bps 19.59Kbps 163.:
+
+[Outgoing traffic on interface lan-lanl [avg] S15.55Kbps 48 bps 251.2 Kbps
+
+CMP response time
+
+1050
+105
+105
+aio
+
+I Incoming traffic on interface lan-lan3
+IH Outgoing traffic on interface lan-lan3
+
+11.3ms —21.53ms
+
+192.168, 192.234: Disk space usage / (1h)
+
+192.168, 192.1: Traffic on interface lan-lan3 (1h)
+
+aas
+ai:zo
+nies
+
+last
+favg] 57.64 Mbps
+fava] 53.36 Mbps
+
+11:30
+113s
+1:40
+1ias
+
+CMP responsetime [avg] _14.9ms__11.8ms__22.64ms__79.2ms
+
+192.168.192.1: Traffic on interface wan-wan2 (1h)
+300 Kbps
+
+200 Kbps
+1100 Kbps
+
+Obps
+
+last min avg
+incoming traffic on interface wan-wan2 [avg] 287.1 Kbps Obps 58.44 Kbps
+Hi Outgoing traffic on interface wan-wan2 [avg] 156.57Kbps Obps 50.08 Kbps
+
+192.168, 192.1: Traffic on interface lan-lan4 (1h)
+
+10s
+nao
+nas
+120
+
+1:30
+1135
+1:40
+ris
+
+ae
+
+last min wg max
+Hi incoming traffic on interface lan-lana [avg] 776bps © Sbps 597.33 bps 10.3Kbps
+H Outgoing traffic on interface lan-land [avg] = 80 bps. 16 bps © 2.13Kbps 38.3 Kbps
+

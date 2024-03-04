@@ -1,0 +1,9 @@
+Hellbanning
+
+Wrong Google Query:
+"hell banning Facebook"
+
+Correct Google Query:
+"hell banning Facebook
+-site:facebook.com"
+

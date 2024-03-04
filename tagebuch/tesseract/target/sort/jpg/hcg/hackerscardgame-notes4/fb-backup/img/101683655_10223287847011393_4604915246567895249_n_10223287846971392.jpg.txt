@@ -1,0 +1,43 @@
+Scanning - Crafting Interpreters - Mozilla Firefox x
+
+EA Neuenbi: | ¥ #Zrythm | w Verfolgu | Age Reducti | Ml couchso: | @ Skype | @@ (1209)Z« | totalitar.de | ¥ Home/ 1 | @@ (1159)Cc | fl Myconsi | w Diskussi: | {J Tweetd: | w Tweets | W Marc[LA | ¥ BIT-OF | G compile: | @™Scann x | +
+
+> ¢@ vw craflinginterpretars:confscaining html a Ln0e @ Oe =
+With that in place, our application shell is ready. Once we have a Scanner class
+with a scanTokens() method, we can start running it. Before we get to that,
+let’s talk about these mysterious “tokens”.
+Tokens and Lexemes 4.2
+Here's a line of Lox code: |
+var language = "Lox";
+
+Here, var is the keyword for declaring a variable. That three-character
+sequence ‘v’ ‘a’ ‘r’ means something. If we yank three letters out of the middle of
+Language, like gua, those don’t mean anything on their own.
+
+That's what lexical analysis is about. Our job is to scan through the list of
+characters and group them together into the smallest sequences that still
+represent something. Each of these blobs of characters is called a lexeme. In
+that example line of code, the lexemes are:
+
+[var] Ceneosee) F] Fox]
+
+The lexemes are only the raw substrings of the source code. However, in the
+process of recognizing them, we also stumble upon some other useful
+information. Things like:
+
+Lexeme type 421
+
+Keywords are part of the shape of the language’s grammar, so the parser often
+has code like, “If the next token is while then do...” That means the parser
+wants to know not just that it has a lexeme for some word, but that it has a
+reserved word, and which keyword it is.
+
+The parser could categorize tokens from the raw lexeme by comparing the After all, string comparison ends up looking at
+
+strings, but that's slow and kind of ugly. Instead, at the point that we recognize individual characters, and isn’t that the
+ane rioee
+
+NE. Sn Sera
+
+a
+

@@ -1,0 +1,31 @@
+Andern der eigenen Argumentation ist vielleicht deshalb so schwer,
+weil so Inkonsistenzen im eigenen eignen Dogmenraum entstehen.
+
+Diese Inkonsistenzen wiirden dann sofort auch von Artgenossen
+angeprangert werden. Dadurch verliert man in Disskussionen
+
+ein Stiick an Souverenitat, die man doch hatte mit dem alten
+Argumentationspfad, und fiir die Liicken im alten Argumentationspfad
+hatte man geniigend Ausreden parat, so dass man sich nur selten
+
+die Blésse geben musste mit offensichtlichen Liicken.
+
+Aber was, wenn die Anderung dazu fiihrte, dass der Dogemenraum
+koherenter wird, wenn die Anderung dazu fiihrte, dass man weniger
+Inkonsistenzen mit Ausreden beschénigen miisste?
+
+Leute die zu Extremismus tendieren, Leute die ihre alten
+Argumentationen mit viel mehr Pathos vertreten, fallt es denen
+schwerer, ihre Inkonsistenzen durch das Andern einiger ihrer
+Argumente zu verbessern?
+
+Vermutlich ist es wie bei Software, eine gréssere Anderung zu
+
+machen ist anstrengend und Fehler behaftet und kann schlimmstenfalls
+dazu fiihren, dass man nochmals von vorne anfangen muss,
+
+weil man irgendwo die Ubersicht verloren hat, aber dort gibt
+
+es ja zum Gliick den
+
+git reset --hard <REF>

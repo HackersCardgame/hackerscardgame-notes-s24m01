@@ -1,0 +1,205 @@
+w He | @ ust] G xb |@@ |S om |@
+
+CS @ 192,168.192.234/Zabbix
+
+BB Registrierungs-Editor
+
+Datei Bearbeiten Ansicht Favoriten Hilfe
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ Windows NT\CurrentVersion\Winlogon
+
+1 Ports
+ Prefetcher
+
+Print
+
+Profileist
+ ProfileNetification
+1) ProfileService
+
+© related.dese
+
+© RemoteRegistry
+© Schedule
+
+© Secedit
+
+“Sensor
+
+setup
+| SoftwareProtectionPlatform
+© spp
+| sRUM
+LH Superfetch
+© Svchost
+© SystemRestore
+“Terminal Server
+TileDataModel
+| Time Zones
+~ TokenBroker
+| Tacing
+(vac
+© Update
+© VersionsList
+Virtualization
+VolatileNotifications
+© WoemPert
+©) WiFiDirectAPl
+© Windows
+Winlogon
+| AltemateShells
+| AutoLogonChecked
+GPExtensions
+UserDefaults
+
+( VolatileUserMgrkey
+
+Name
+| 28) Standard)
+
+28] AutoLogonSID
+‘AutoRestarshell
+
+Bil psckarouna
+
+Bi cacheat agonscadnt
+
+| 28] DebugServerCommand
+DisableBackButton
+
+DisableCad
+DisableLockWorkstation
+EnableFirstLogonAnimation
+EnableSiHostintegration
+ForceUnlockLogon
+IsConnectedAutoLogon
+LastLogOffEndTimePerfCounter
+28) LastUsedUsername
+
+| 22) LegalNoticeCaption
+| 28) LegalNoticeText
+PasswordExpiryWarning
+
+| 22) powerdownAftershutdown
+
+a8) PreCreateKnownFolders
+28) ReportBootOk
+| 28}scremoveoption
+
+8|Sheliciical
+| 28|Shellinfrastructure
+ShutdownFlage
+sitostCrtcal
+sitostReadyTimeOut
+siHostRestartCountLimit
+siHostRestartTimeGap
+28 Userinit
+
+| 28) VMApplet
+
+| 28) WinstationsDisabled
+
+Typ
+
+REG_SZ
+REG_SZ
+REG_DWORD
+REG_SZ
+REG_SZ
+REG_SZ
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_QWORD
+REG_SZ
+REG_SZ
+REG_SZ
+REG_DWORD
+REG_SZ
+REG_SZ
+REG_SZ
+REG_SZ
+REG_SZ
+REG_DWORD
+REG_SZ
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_DWORD
+REG_SZ
+REG_SZ
+REG_SZ
+
+Daten
+(Wert nicht festgelegt)
+$-1-5-21-1828531114-3751907984-4168072637-1001
+x00000001 (1)
+
+000
+
+10
+
+‘000000001 (1)
+
+00000001 (1)
+
+0x00000000 (0)
+
+00000001 (1)
+
+x00000001 (1)
+
+00000000 (0)
+
+‘000000000 (0)
+
+0x79640a743de (8341911192540)
+
+000000008 (5)
+
+°
+{9520A1A4-1780-4FF6-BD18-167343C5AF 16}
+1
+
+0
+
+Explorer.exe
+
+00000000 (0)
+
+sihostexe
+
+oxg000002b (2147483691)
+
+x00000000 (0)
+
+00000000 (0)
+
+‘000000000 (0)
+
+‘900000000 (0)
+C\Windows\system32\userinit.exe,
+SystemPropertiesPerformance.exe /pagefile
+
+bzw.
+ht als
+
+facher
+‘laudine
+
+e hat
+um,
+
+zt suizid®
+
+sind
+equenzen
+
+Zeile 236, Spalte 6 100%
+
+Windows (CRLF

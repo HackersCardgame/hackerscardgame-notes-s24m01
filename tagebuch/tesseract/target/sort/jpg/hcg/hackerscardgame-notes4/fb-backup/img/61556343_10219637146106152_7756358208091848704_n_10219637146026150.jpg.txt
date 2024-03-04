@@ -1,0 +1,44 @@
+braindef /jamulus ‘
+
+Current Branches Build History Pull Requests > Build #3
+
+VY master Update travisyml
+
+-© Commit 58ed373 7
+
+t) Compare £470783. .58ed373 2
+
+ Branchmaster 2
+
+@ Marc Landolt
+
+Build jobs
+
+v #31 & <> Compiler C+
+
+Vv #32 G  «P Xcode: xcode7.2 C+
+vo #33 Bec
+
+-o- #3 passed
+
+© Ran for 11 min3 sec
+© Total time 21 min 33 sec
+
+[ about an hour from now
+
+View config
+
+no environment variables set
+no environment variables set
+
+no environment variables set
+
+More options
+
+Restart build
+
+© 2min 50 sec iC)
+© 7Tmin 51sec
+
+© 10min 52sec
+

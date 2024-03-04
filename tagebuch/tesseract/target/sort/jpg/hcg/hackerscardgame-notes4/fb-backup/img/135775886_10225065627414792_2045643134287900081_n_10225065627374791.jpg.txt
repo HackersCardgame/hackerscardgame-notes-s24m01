@@ -1,0 +1,58 @@
+Tée| Metrics
+
+# Home
+
+4 Users
+
+& Servers
+
+News  BiiSources £8 Services
+
+A Traffic  @ Performance 5F Onion Services & Applications
+
+The Tor Project is working with Simply Secure to improve the experience of the Tor Metrics website. @@ Want to collaborate?
+
+Home » Servers
+
+Servers
+
+Country and ISP diversity are approximated by resolving IP addresses to a country code and an autonomous system. We process the capabilities and properties relays and
+bridges reported to directory authorities.
+
+Relays and bridges  Relaysbyrelayflag Relaysbytorversion —Relaysbyplatform — Relays by|P version _Bridges by IP version
+
+Total consensus weights across bandwidth authorities Monthly uptimeofrelays Network churn rate by relayflag Network bubble graphs
+
+Number of relays
+
+tt i
+
+Startdate: 07.12.2020 °
+
+6 000-
+
+End date: 05.01.2021 °
+
+4.000- | Update graph
+= hatays
+
+— Bridges
+
+Download graph as PNG or PDF.
+2 000- Download data as CSV.
+
+Learn more about the CSV data format or howto
+reproduce the graph data.
+
+2020'12.08 2020°12-13 2020°12-20 2020'12.27 2021.01.03
+
+‘The Tor Project - htps:/imetrcs torproject.org/
+
+<> Development
+
+I Research
+
+nNOS
+
+@ About
+

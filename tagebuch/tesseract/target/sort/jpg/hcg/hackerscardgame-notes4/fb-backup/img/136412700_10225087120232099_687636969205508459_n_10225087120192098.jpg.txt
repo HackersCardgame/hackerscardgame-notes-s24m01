@@ -1,0 +1,43 @@
+P 2) Marc Ir
+
+driver
+
+‘ Cc a OQ & bttpsy/github.com/ai ND®O
+
+B master ~ |B tbranch QO tags Go to file Add file ~ About a
+
+Simple driver for 10moons T503 tablet
+
+@ aiex-s-v Use absolute path for config fae77a4 on 1 Jan 2020 23 commits forlina
+gitignore Initial commit 12 months ago Eyl ikesaine
+DB LICENSE Initial commit 3B MIT License
+[) READMEmd Initial commit
+DB config.yami Initial commit Releases
+No releases published
+DB driver.py Use absolute path for config 12 months ago Li
+D)_ requirements.txt Initial commit
+Packages
+READMEmd No packages published
+¢10moons-driver Languages
+——_—_—__———,
+Simple driver for 10moons T503 tablet for linux © Python 100.0%
+About
+
+Driver which provides basic functionality for 1moons 1503 tablet:
+
+OH buttons on the tablet it:
+
+ijonine
+
+PePressure sensitivity
+
+Tablet has 4096 levels in both axes and 2047 levels of pressure.
+
+How to use
+
+Clone or download this repository.
+
+git clone https://github.com/alex-s-v/1emoons-driver.git
+
+Then install all dependencies listed in requirements.txt file either using python virtual environments or not.
+

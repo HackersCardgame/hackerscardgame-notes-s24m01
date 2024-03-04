@@ -1,0 +1,43 @@
+BA Nevenburgerstrasses-10: Cust: X Jim = x
+
+€ ee OG Git.0x8.ch/zabbix/screens.php?ddreset=1 “OW NOS =
+
+VAN s1s1),q Monitoring inventory Reports Q Bshare 2? WO
+
+Screens screens |v
+
+All screens | UPC-Monitoring
+
+Filer a
+Zoom: Sm 16m 30m th 2h 3h 6h 12h 1d 3d 7d 14d 1m 3m 6m ty All 2021-02-09 06:13 - 2021-02-09 09:13 (now!)
+< <=] >
+ex ty 8m 4m 7d 1d 12h 1h Sm | 5m th 12h 1d 7d 1m 6m ty »» ah fixed
+192.168.192.234: DNS-Times (3h)
+100 ms
+to 192,168.192.1; Traffic on interface wan-wan2 (3h) 192.168.192.234: Traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet (3h)
+ite 20 Mbps 150 Mbps
+60 ms
+ome 15 Mbps 100 Mbps
+20 ms : 10 Mbps
+ue aa 0.5 Mbps 50 Mbps
+Ss 5 § 5 5 5 5 8S 5 5 §S 8 8 i a a mE eee ee ere ee ee as te oie
+last min avg max q q q 8
+ablecoml avg. «ms 3s &7ms_ 25ms 8 8 8 8
+[icablecom2 [avg]. 4ms 3ms—72ms_35.ms last min ag lee
+[icablecom3 [avg] 4ms 3s 653ms_25.ms Bi incoming traffic on interface wan-wan2 [avg] 33.06 Kbps 208 bps 59.37 Kbps. 1.6 Ml Incomingtraffic on interface Qualcomm Atheros ARG151 v2.0 Gigabit Ethernet [avg] 5.82!
+[icablecom4 [avg] 10s 3ms © 485ms_ 12ms Hi Outgoing traffic on interface wan-wan2 [avg] 29.83 Kbps 88 bps 22778kbps 1.8 Il Outgoingtraffic on interface Qualcomm Atheros ARG151 2.0 Gigabit Ethernet [avg] 6.371
+jooge DNS [avg] 4ms 3ms 7:58ms 29ms
+BiHomerouter [avgl 15ms 3ms 10.98ms 89 ms
+wwwupe.ch: Ping (3h) google.com: Ping (3h) www. hostpoint.ch: Ping (3h)
+150 150 150
+100 100
+0 30
+a a rt a a a Rn gy a Re gn RR Es
+last =o min avg max last min avg max last. min avg max
+ICMP loss [avg] 100% 100% 100% 100% ICMP loss [avg] 100% 0% 50% 100% ICMP loss favg] 100% 0% 52.3% 100%
+ICMP ping tava) ° ° ° ° BIcMP ping tava) 0 0 OS 1 Bic ping lava) 0 0 0.477 1
+TICMP response time [aval ° ° ° ° TDICMP response time [aval 0 0 7.97ms 35.7ms TICMP response time [aval 0 0 7.06ms 30.4ms
+www:twitter.com: Ping (3h) marclandolt.ch: Ping (3h) facebook.com: Ping (3h)
+150 150 150 .
+
+09.02.2021
