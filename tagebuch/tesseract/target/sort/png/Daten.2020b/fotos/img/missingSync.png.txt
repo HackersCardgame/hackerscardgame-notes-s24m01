@@ -1,0 +1,82 @@
+BIGIOI Fi connecing ro the mac Apps x \[ Ioonmload xende 4 Apple bx \ @ Nach insalinion von Lon fl © adyekdmanager cor fipte 3 Never Tab, Bimarisspace
+
+© S _& hnteos://support.markspace.com/index.php wis
+
+[Ba] Diese Seite taut Soll sleubersetzt werden? x
+walid SQL: SELECT “ticketwordid*, ‘contents’ FROM “swticketwords’s WHERE ‘contents’ IN (",'Hallo' /Missing' 'sync' ,'uses' iPhoto’ ‘APT’ ‘that ,'is' ‘not’ ,'anymore' ‘part’ of ,'the' operating’ system’ the' log’ tells’ 'me:' |-------snip----—--
+',‘Synchronisierung' mit ,',,HTC' Vision“ bei’ '311011','15:06' 'wird' ' gestartet' ,/Plug-In' 'Fotos' 'wird'  gestartet' /Photos' /kann' ‘nicht ,'exportieren' weil’ |iPhoto' nicht ,'installiert ist’ ‘oder’ ‘nicht’  geéffnet' ;wurde' /Plug-In' 'Fotos' 'wurde' nicht’ 'abgeschlossen' -------snip-------
+‘and’ ‘dont think ''that , it’ is','cool' ;to' ‘buy’ 'additiona!' 'software' if ,1i' ,bought ,'the' ,license' ,'for' ‘missing’ 'sync' ‘best’ ,'regards' 'Marc' Missing! 'sync' uses' 'iPhoto' | APT',"); (Illegal mix of collations for operation ' IN ')Invalid SQL: INSERT IGNORE INTO ‘swticketpostindex*
+‘ticketwordid’ , “ticketpostid® , “insubject") SELECT DISTINCT ticketwordid, '1367967’, '0' FROM “swticketwords’s WHERE ‘contents’ IN (‘Hallo’, 'Missing’, 'sync’, ‘iPhoto’, ‘anymore’, ‘part’, ‘operating’, 'system’, 'tells', 'Synchronisierung', ',,HTC'’, 'Vision“', '311011','15:06', 'wird’, 'gestartet',
+'Fotos', ‘wird’, 'gestartet’, ‘Photos’, 'kann', ‘nicht’, 'exportieren’, ‘weil’, ‘iPhoto’, ‘nicht, 'installiert’, 'oder’, 'nicht’, 'gedffnet' , 'wurde', 'Fotos', ‘wurde’, 'nicht’, 'abgeschlossen', ‘cool’, ‘additional’, 'software', 'bought, ‘license’, 'missing' , ‘sync’, ‘Marc’, Missing’, 'sync', ‘iPhoto’, ‘Missing’, 'sync’, iPhoto’);
+-gal mix of collations for operation ' IN ')
+
+ota | oauseh | spat | rancat | ane | BARRE
+
+mark Space Products Services ‘Support About Store =
+
+Support Center
+I scoconcente» supmita Tote» Techical Susnon
+
+Logged Submit a Ticket:
+2008 C marcendcieSh Your ticket has been submitted to our Department successfully. One of our support
+@ My Account personnel will get back to you with more information shortly.
+
+Change Password
+& Ticket Information
+
+Ticket ID: 820886
+
+SI — epartent: Technical Support
+
+Full Name: 2009@marclandolt.ch
+Email: 2009@marclandolt.ch
+
+Knowledgebase
+Please Complete this Technical Support Form
+
+Mark/Space Product:
+‘Choose the Product for
+which you'd like
+assistance:
+
+‘Computer Operating
+
+‘System:
+Which computer Mac OS 10.7 (Lion)
+
+Missing Sync for Android
+
+operating system is,
+installed?
+
+Device Operating
+‘System Version:
+Choose the OS and
+Version currently
+installed on Device with
+which you are syncing
+Mark/Space
+‘Software Version:
+Please indicate the
+VERSION number of
+your Mark/Space
+Software
+
+Handheld Device
+Manufacturer:
+Indicate the HTC
+
+Manufacturer of your
+
+handheld device
+
+Handheld Device
+
+Model Number:
+
+Indicate the Model 12.56.60.25U_26.10.04.03_M
+
+Android
+
+1.6.2
+

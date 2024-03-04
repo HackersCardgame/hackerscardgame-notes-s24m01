@@ -1,0 +1,36 @@
+LaTex
+dvips
+Bibtex
+Makeindex
+Dvi Viewer
+PS Viewer
+PdflaTex
+Dvipdfm
+ps2pdf
+
+Pdf Viewer
+metapost
+ghostscript
+Asymptote
+
+Latexmk
+
+Configure Texmaker
+
+Commands (% : filename without extension - @ : line number)
+latex -interaction=nonstopmode %.tex
+dvips -0 %.ps %.dvi
+bibtex %.aux
+makeindex % idx
+okular % dvi
+okular %.ps
+pdflatex -interaction=nonstopmode %.tex
+dvipdfm %.dvi
+ps2pdf %.ps
+* Built-in Viewer _ External Viewer okular %.pdf
+mpost --interaction nonstopmode
+gs
+asy %.asy
+
+2 "$pdflatex=q/pdflatex -interaction=nonstopmodey" -pdf %.tex
+

@@ -1,0 +1,17 @@
+Bo aeo &
+
+Menu 1: tétel Meniielem (sajét kmyezetem
+
+Menu 2 : defi LaTex tartalom
+Menu 3 : megj
+
+Menu 4: pid ‘%sajatkomyezetem
+
+Menu 6:
+Menu
+Menu 8:
+Menu 9:
+Menu 10:
+
+0 || @ cancel
+

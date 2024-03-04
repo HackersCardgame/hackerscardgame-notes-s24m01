@@ -1,0 +1,46 @@
+MovieID (tconst): tt2527336
+
+Origintal Titel: Star Wars: Episode VIII - The Last Jedi
+Primary Title: Star Wars: The Last Jedi
+
+Year: 2017
+
+MovieRanking (averageRating): 7.4
+
+Box0fficeMojo Filename: starwars8.htm
+
+Max US Screens: 4232
+
+Max UK Screens: 723 -- [723, 0, @, 665, 0, 452, 274, 0, 94, 0, 64, 5, 1]
+marc@debian :~/Daten.2017/code/shrikey/python/pciNG$ python3 pciNG.py -t "Star.Wars.The.Last.Jedi.2017.BDRip.x264-SPARKS"
+
+7 /
+7 7
+/ / 7
+7
+- >>> [PCI \+[pHASE . COMBOGEN. INTERFACE] <<< -
+
+>>>ReLeaSe: Star.Wars.The.Last.Jedi.2017.BDRip.x264-SPARKS
+
+>>>SECTION: DIVX.RET
+
+>>>CONTENT: Star.Wars.The.Last.Jedi
+
+LINES COUNT: 4881481
+Anbiguous Name: selecting the best match
+
+MovieID (tconst): tt2527336
+Origintal Titel: Star Wars: Episode VIII - The Last Jedi
+Primary Title: Star Wars: The Last Jedi
+
+Year: 2017
+
+MovieRanking (averageRating): 7.4
+
+Box0fficeMojo Filename: starwars8.htm
+
+Max US Screens: 4232
+
+Max UK Screens: 723 -- [723, 0, @, 665, 0, 452, 274, 0, 94, 0, 64, 5, 1]
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG$
+

@@ -1,0 +1,25 @@
+fg) Convert to Html
+
+e
+x
+
+Html options Input File: >/MWLere/derivation/derivation.tex
+Alignment: Center vy Browser: konqueror
+Create index: | Yes v
+Navigation : | Icons v
+Title: Titre
+
+Footnote: [Hello world
+
+Images options
+
+Images width: "700 3
+Launch Close
+LaTeX options LaTeX to Him conversion tool
+Copyright 2004.2006 PBrachet & J Ambiard
+Number of compilations: (1
+Tocdepth = 2 oO I E
+Start Index : 3
+
+Content name: Sommaire
+

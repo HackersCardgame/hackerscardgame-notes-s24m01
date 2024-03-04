@@ -1,0 +1,25 @@
+sudo fgrep dev -ir * |grep random
+
+* pam_usb v0.5.0
+
+* Authentication request for user "marc" (sudo)
+* Device "seven" is connected (good).
+
+* Performing one time pad verification...
+
+* Regenerating new pads...
+
+* Access granted.
+
+[sudo] password for marc:
+
+src/pad.c: int devrandom;
+
+src/pad.c: devrandom = open("/dev/random", O_RDONLY) ;
+
+src/pad.c: if (devrandom < 0 || read(devrandom, &seed, sizeof seed) != sizeof seed) {
+src/pad.c: log_debug("/dev/random seeding failed...\n");
+
+src/pad.c: if (devrandom > 0)
+
+src/pad.c close (devrandom) ;

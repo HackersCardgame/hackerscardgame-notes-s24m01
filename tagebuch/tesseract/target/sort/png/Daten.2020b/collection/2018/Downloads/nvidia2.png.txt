@@ -1,0 +1,13 @@
+NVIDIA GPU Model Half-precision (16-bit) Floating Point Performance
+
+GeForce GTX Titan X Maxwell N/A
+GeForce GTX 1080 Ti sss than 0.177 TFLOPS
+GeForce Titan Xp less than 0.190 TFLOPS
+GeForce Titan V 110 TFLOPS
+Tesla k80 N/A
+
+Tesla P100* 18.7 ~ 21.2 TFLOPS
+‘Quadro GP100 20.7 TFLOPS
+Tesla V100* 112~ 125 TFLOPS
+
++ Exact value depends upon PCI-Express or SXM2 SKU

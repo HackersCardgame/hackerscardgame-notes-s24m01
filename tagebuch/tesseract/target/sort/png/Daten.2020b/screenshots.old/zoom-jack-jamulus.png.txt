@@ -1,0 +1,46 @@
+General
+
+© video
+
+Chat
+
+Virtual Background
+
+Recording
+
+Profile
+
+Statistics
+
+Feedback
+
+e0eeo0d
+
+Accessi
+
+ity
+
+Settings
+
+Speaker
+Test Speaker _ Jack sink (PulseAudio JACK Sink) +
+Click Test Speaker to make sure you can hear others
+Output Level:
+
+Output Volume: @
+
+Microphone
+
+Please speak to your microphone. If you can not see the volume indicator
+blinking, select a different mic.
+
+Select Mic: | Jack source (PulseAudio JACK Source) +|
+
+Input Level: ——=
+Input Volume:
+
+Automatically adjust volume
+
+‘Automatically join audio by computer when joi
+
+Mute my microphone when joining a meeting

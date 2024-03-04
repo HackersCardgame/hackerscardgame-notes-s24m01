@@ -1,0 +1,28 @@
+[Background ¥] 1.0
+
+Stereo, 44100H2
+
+32-bit oat
+Tie [$0
+
+hagunt| 20]
+6g 8} 00!
+
+X[Narration wv] 10
+
+Mono, 44100H2
+
+32-bit float os-
+Mute_[_ Solo
+9
+L R
+9
+
+X[label Track ¥
+
+First Narraion
+
+Second
+
+Third
+

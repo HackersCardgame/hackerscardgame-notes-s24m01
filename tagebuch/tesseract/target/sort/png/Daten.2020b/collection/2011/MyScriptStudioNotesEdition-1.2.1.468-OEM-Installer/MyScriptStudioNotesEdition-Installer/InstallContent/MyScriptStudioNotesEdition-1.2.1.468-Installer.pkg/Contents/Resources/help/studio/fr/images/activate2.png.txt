@@ -1,0 +1,26 @@
+ition Merc: ae
+
+o
+
+Sile serveur est trop chargé, défaillant, ou siles options de sécurité empéchent la
+‘communication, il se peut que I'activation automatique ne soit pas possible.
+Dans ce cas, vous pouvez utiliser la procédure d'activation manuelle qi
+décompose en quatre étapes:
+
+1. Cliquez sur le bouton OK de cette fenétre.
+
+2. Un fichier texte contenant votre code, un identifiant unique pour votre
+machine et un code produit sera ainsi créé, Si vous faites cette action sur un
+systéme sans connexion internet, copiez ce fichier sur une autre machine et
+envoyez-le depuis cette derniére.
+
+3, Copiez ces informations dans un courrier électronique et envoyez-le & notre
+service d'activation [VO
+‘support<activation.studio.support@visionobjects.com>]. Celui-ci créera un
+fichier d'activation et vous le renverra par courrier électronique. Ce fichier ne peut
+tre utilisé que sur une seule machine : celle depuis laquelle le fichier texte a été
+
+4, Double cliquez sur le fichier ‘licence.lc’ en pice jointe du courrier
+‘lectronique. Une application est alors lancée, qui se charge d'activer votre
+logiciel.
+

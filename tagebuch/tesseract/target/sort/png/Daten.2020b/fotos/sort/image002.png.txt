@@ -1,0 +1,16 @@
+@ inte) PRONOGD UT Net... 192.168.14.177L... Local Area Connection 00:50:56:8C:00:05  Up/Up tue
+© tex) PRONO00 UT Net. Local Area Connection-doS Packet Scheduler-0000, Up/Up tue
+© tena) PROM000 UT Net Local Area Connection.MFP LightWeigh Fiter-0000 00:50:56:80:00:05 Up/Up tue
+© Wicroson ISATAP Adapter ‘satap F4FFE9S6-D188-4F57-ASSE-EB1D62856220) 00:00:00:00:00:00:0... Up/Down true
+© RAS Async Adapter Local Area Connection 10 2UsSS4EFF — Up/Up tue
+© Software Loopback nerf... 127.00.118 Loopback Pseudo-Iterface 1 Up/Up tue
+© wanttinor cxev2) Local Area Connection*2 00:00:00:00:00:00:0... Up/Down tue
+° Local Area Connection &-doS Packet Scheduler-0000 6498:20824153  Up/Up tue
+° Local Area Connection 6 64:98:20824153  Up/Up tue
+° Local Area Connection*&-GoS Packet Scheduler-0000, 6498:20824183  Up/Up tue
+° Local Area Connection 2 Up/Up tue
+° Local Area Connection*7 6498:20824183  Up/Up tue
+° Local Area Connection*7-doS Packet Scheduler-0000, 64:98:20824153  Up/Up tue
+° Local Area Connection § Up/Up tue
+° Local Area Connection* 4 Up/Up tue
+° Local Area Connection* Up/Up tue

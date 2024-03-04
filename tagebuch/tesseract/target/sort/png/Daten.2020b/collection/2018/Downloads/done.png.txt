@@ -1,0 +1,113 @@
+mainjs
+
+x
+liienthat Save
+
+Open»
+
+on ifit-schw:
+
+mainjs index.html
+
+Lye
+2 * @package Helix3 Framework|
+
+3 * @author JoomShaper http://www. joomshaper. com
+
+4 * @copyright Copyright (c) 2010 - 2016 JoomShaper
+
+5 * @license http://ww.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+
+6 ¥/
+
+7
+
+8
+
+9
+
+10
+
+11 jquery(function ($) {
+
+12
+
+13
+
+14// inserted by landev to close menu on each click except on the menu bar hamburger
+15 $(‘html').click(function( event ) {
+
+16 console. log("event = "+event.target.className) ;
+
+17 if (event.target.className != "fa fa-bars") {
+
+18 $(' .of f-canvas-menu-init').removeClass('offcanvas');
+19 }
+
+203);
+
+21
+
+22 // inserted by landev to scroll from everywhere to everywhere
+23 $(document) . ready ( function(){
+24 $("a").on('click', function(event) {
+
+25 if (this.hash ‘yt
+
+26 event. preventDefault();
+
+27 var hash = this.hash;
+
+28 $(‘html, body').animate({
+
+29 scrollTop: $(hash) .offset().top
+
+30 }, 800, function(){
+
+31 window. location.hash = hash;
+
+32 i;
+
+33 +
+
+340 W)s
+
+353);
+
+36
+
+37
+
+38
+
+39 // eeeRHEREHEDE START Helix 1.4 JS 9 HebBeBEBHOBED 77
+
+90 _// cee Bb pbe BBS Be BE Spe BES BEBE S ROBES OBESE BE SEEBEBREBERE 77
+
+41
+
+42 //Default
+
+43 if (typeof sp_offanimation ‘undefined’ || sp_offanimation 4
+44 sp_offanimation = ‘default’;
+
+45 +
+
+46
+
+47 if (sp_offanimation == ‘default') {
+
+48 $("#of fcanvas-toggler').on(‘click', function (event) {
+
+49 event. preventDefault();
+
+50 $(' of f-canvas-menu-init').addClass(‘offcanvas');
+
+51 i;
+
+52
+
+53 $(‘<div class="offcanvas-overlay"></div>' ).insertBefore(' .offcanvas-menu');
+54 $(.close-offcanvas._.offcanvas-overlav').on(‘click'. function (event) {
+
+JavaScript ~ Tab Width: 8 ~ Ln2,Col29  ~ INS

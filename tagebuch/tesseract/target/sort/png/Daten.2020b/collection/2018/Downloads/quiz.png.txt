@@ -1,0 +1,13 @@
+Exercise 5: A smaller rowboat
+
+In the traditional version of this puzzle the robot can only fit one thing on the boat with
+it. The state space is still the same, but fewer transitions are possible. Use the state
+transition diagram below to find a path from the initial state to the final one (we
+
+suggest drawing this out to really try).
+Your task is now to calculate the length of the shortest path to get from NNNN to FFFF.
+
+Please type your answer as the number of transitions in the shortest path. (just a
+single number like "12",) (Hint: Using a paper and a pen might help when doing this
+
+exercise.)

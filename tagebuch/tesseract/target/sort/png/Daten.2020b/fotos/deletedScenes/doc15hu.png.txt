@@ -1,0 +1,15 @@
+File Type Line «Message
+> |foo.tex|Error __|line 10|! Undefined control sequence. \sectiun
+foo.tex Warning ine 1 | Label(s) may have changed. Rerun to get cross-references right.
+
+} Undefined control sequence.
+
+1.10 \sectiun
+
+{egy fejezet}
+
+The control sequence at the end of the top line
+
+of your error message was never \def'ed. If you have
+misspelled it (e.g., “\hobx’), type “I' and the correct
+

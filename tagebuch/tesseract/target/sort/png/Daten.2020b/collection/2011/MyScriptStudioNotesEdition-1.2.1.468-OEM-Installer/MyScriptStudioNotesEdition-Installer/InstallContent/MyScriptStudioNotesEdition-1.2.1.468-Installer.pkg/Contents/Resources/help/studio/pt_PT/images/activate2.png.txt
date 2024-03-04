@@ -1,0 +1,24 @@
+cco Monel i a
+
+o
+
+Poderd ser impossivel activa automaticamente porque o servidor pode estar em
+baixo ou ocupado, ou as configuracées de seguranca podem impedir a
+‘comunicagdo com o servidor. Nesse caso, pode utilizar o procedimento de
+activacdo manual, composto por quatro passos:
+
+1. Clique no botio OK nesta caixa de didlogo.
+
+2. Isto cria um ficheiro de texto que contém o seu cédigo, um identificador Unico
+para 2 sua maquina e um cédigo de produto. Se isto for criado numa maquina
+‘sem ligacdo 8 Internet, copie este texto para outra méquina e envie-o a partir da
+
+3, Copie esta informacao para uma mensagem de e-mail  envie para o nosso
+servigo de activacdo em VO
+support<activation.studio.support@visionobjects.com>. Criaremos um ficheiro
+de activago que Ihe sera enviado por e-mail. Este ficheiro s6 pode ser utilizado
+numa maquina - a maquina onde foi criada a solicitacéo original.
+
+4, Clique duas vezes no ficheiro licence.lic anexado 20 e-mail. Isto abre uma
+pequens aplicagdo que activa o software de reconhecimento de escrita.
+

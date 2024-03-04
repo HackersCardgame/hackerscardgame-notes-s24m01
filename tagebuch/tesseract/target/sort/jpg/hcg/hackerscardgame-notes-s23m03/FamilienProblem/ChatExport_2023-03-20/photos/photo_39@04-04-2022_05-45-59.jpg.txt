@@ -1,0 +1,20 @@
+0.1
+
+Item 6 Item 37 Item 40
+100 6
+0 0
+1 16 31 46 61 76 1 16 31 46 61 76 1 16 31 46 61 76
+0.4 —_> 02
+_AA ; IRS ; ol \y
+0 0
+1 16 31 46 61 76 1 16 31 46 61 76 1 16 31 46 61 76
+
+Abbildung 23: Die Entwicklung von Item 6 (,,In Bezug auf meine persénlichen Ziele erlebte ich
+
+mich heute als erfolgreich vs. erfolglos“), Item 37 (Auspragung der ,,Beschwer-
+den“) und Item 40 (,,Heute habe ich mich meinen Problemen hilflos ausgeliefert
+gefihlt). Darunter die Ausprigung der dynamischen Komplexitat dieser Items
+(Berechnung in einem Gleitfenster von 7 Messpunkten [= Tagen] Breite). Die bei-
+den zusatzlichen Kurven im unteren Teil der Diagramme (hellblau) reprasentieren
+ein 95 % (untere Linie) und ein 99 % (obere Linie) Konfidenzintervall mit einem
+Gedichtnishorizont von 21 Messpunkten.

@@ -1,0 +1,24 @@
+Bf veruce Aee rs a
+
+Eventuell it die automatische Aktivierung nicht maglich, weil der Server
+heruntergefahren wurde oder Uberlastet ist oder weil Sicherheitseinstellungen die
+Kommunikation mit dem Server unterbinden. In diesem Fall konnen Sie den
+‘manuellen Aktivierungsvorgang verwenden, der in vier Schritten ausgefuhrt wird:
+
+1. Klicken Sie auf die Schaltflache "OK" in diesem Dialogfeld.
+
+2.So wird eine Textdatei erste, die Ihren Code (cin eindeutiges Kennzeichen fur
+Ihren Computer) und einen Produktcode enthalt. Wenn Sie diese Datei auf einem
+‘Computer ohne Internetverbindung erstellen, kopieren Sie diesen Text auf einen
+‘anderen Computer und senden Sie ihn von dort aus.
+
+3, Kopieren Sie diese Informationen in eine E-Mail-Nachricht und senden Sie
+diese an unseren Aktivierungsdienst unter VO
+‘support<activation.studio.support@visionobjects.com>. Wir erstellen dann eine
+Aktivierungsdatei und senden Ihnen diese per E-Mail. Diese Datei kann nur auf
+‘einem Computer verwendet werden: auf dem Computer, auf dem die
+Original-Anfrage erstellt wurde.
+
+4, Doppelklicken Sie auf die Datei licence.lic im Anhang der E-Mail. So wird ein
+Kleines Programm geéffnet, das die Handschrifterkennungssoftware aktiviert.
+

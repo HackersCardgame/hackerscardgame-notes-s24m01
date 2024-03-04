@@ -1,0 +1,17 @@
+Model: Assembly
+asad belongs t.many ats
+
+Model: Part
+a.nd belongs, tomy
+
+asm
+es Ca
+[icra [ns |
+
+class Assembly < ActiveRecord: :Base
+has_and_belongs_to_many :parts
+end
+
+class Part < ActiveRecord: :Base
+has_and_belongs_to_many :assemblies
+end

@@ -1,0 +1,18 @@
+ee NS
+
+192.168179.4 Taf on nteface roalcom Corpration Netink BCMS77E5 Giga cthemet Pe (2h)
+Mbps
+
+mbps
+mbps
+amps
+2bps
+obps
+z z
+
+1 Incoming traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCIe
+luting trafic en Interface Broadcom Corporation NetLink BCMS7785 GigableEthemet PCIe
+
+252.168.179.4 Taff on nteface Qualeamm Atheros QCAOSES /ARSSES Wireless Network Adapter (2h)
+‘skbps t
+

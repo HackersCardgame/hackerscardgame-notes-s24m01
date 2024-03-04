@@ -1,0 +1,32 @@
+12 ooniprobe -s
+
+1s cd =
+a5 mkdir my_decks:
+
+17 ooniresources --update-inputs --update-geoip
+18 oonideckgen -o my_decks/
+
+/ust/local/bin/ooniprobe -i /root/my_decks/web-full. yam)
+
+echo"
+
+24 start ooniproble 4x per day (crontab entry)?"
+25 read input
+
+26 if echo $input |grep -iq ay
+
+then
+
+26 (crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59.) +1)) $(( ( RANDOM % 23.) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+
+80 (crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) + 1 )) $(( ( RANDOM % 25) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+
+52 (crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) + 1 )) $(( ( RANDOM % 25 ) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+
+54 (crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) + 1 )) $(( ( RANDOM % 25) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+
+oo fh
+o7  ~/installation-scripts/tor/ooni-probe/venv/bin/ooniprobe -i ~/my_decks/web-full.yamL
+38
+
+LLL" »

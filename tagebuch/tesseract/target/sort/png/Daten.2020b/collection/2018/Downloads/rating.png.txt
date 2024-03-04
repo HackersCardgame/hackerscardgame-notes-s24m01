@@ -1,0 +1,32 @@
+marc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb$ head title.ratings.tsv
+tconst averageRating  numVotes
+
+ttoe00001 5.8 1354
+
+ttoeoeee2 6.5 157
+
+ttoeoee03 6.6 939
+
+ttoeeeee4 6.4 93
+
+ttoeeeeeS 6.2 1624
+
+tteo0006 5.6 79
+
+tt0000007 5.5 545
+
+ttoeeeeos 5.6 1447
+
+tteeeG09 5.4 62
+
+Imarc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb$ 1s
+
+get.sh name.basics.tsv old title.akas.tsv title.basics.tsv title.crew.tsv title.episode.tsv title.principals.tsv  title.ratings.tsv
+Imarc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb$ grep $(grep -P "\tThe Matrix\t" title.basics.tsv |grep movie |cut -d$'\t' -fl) title.ratings.tsv
+tt0133093 8.7 1383154
+
+Imarc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb$ 1s
+
+get.sh name.basics.tsv old title.akas.tsv title.basics.tsv title.crew.tsv title.episode.tsv title.principals.tsv title.ratings.tsv
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb$
+

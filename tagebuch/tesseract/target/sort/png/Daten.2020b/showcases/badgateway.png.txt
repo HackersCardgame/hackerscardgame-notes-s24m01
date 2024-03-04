@@ -1,0 +1,15 @@
+ea
+
+s://www.ncbi.nlm.nih.gov/pubmed/29878051?fbclid=IwARIMjA8Wo5tWDVd_ML
+
+Bad Gateway!
+
+The proxy server received an invalid response from an upstream server.
+The proxy server could not handle the request GET /pubmed/29878051.
+Reason: Error reading from remote server
+
+If you think this is a server error, please contact the webmaster.
+Error 502
+
+www.ncbi.nlm.nih.gov
+Apache

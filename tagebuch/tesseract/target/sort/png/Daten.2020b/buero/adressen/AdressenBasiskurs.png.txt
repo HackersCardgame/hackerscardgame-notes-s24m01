@@ -1,0 +1,30 @@
+ADRESSLISTE BASISKURS AG 123.96
+
+NAME VORNAME _|VULGO STRASSE PLZ |ORT TEL ABTEILUNG GEBDAT
+|Bianc Claude Eule Weissenbihlweg 23a 3007|Bern 031 372 28 41 |Schdftland 25.11.68
+|Brauchii Katrin Strolch Schlattacher 9 5627/Besenbiiren 056 / 666 10 1 |Wohlen 9.11.78)
+|Eroyan Simon Niagara (Alte Bahnhofstrasse 6 5610/Wohlen 056 / 622'82'62|Wohlen 24.06.79
+Frank Renate Séla Jean-Marie Musy 26 1700|Fribourg 037 28 4003 |Adler Aarau 7.04.74
+Graf Marco Marabu Heldaustr. 18 9470|Buchs SG 081 756 51 09 |Alvier, Buchs SG 18.04.78
+|Henzi Martina Konfetti Im Bohnacker 27 4108|Witterswil 061 721 38 05 |Waldchutz 15.05.79
+|Hettich Urban Sibir Blumeneggstr. 31 9403|Goldach 071 841 95 28 |Seebuebe Goldach 2.03.78
+| Huber Roland Triller Haggenstr.11 9650|Nesslau 071 994 23 69 |Yberg Toggenburg 6.07.79
+|Jaggi Gregor Triem Zieglerstr. 64 3007|Bern 031 381 96 49 6.04.73
+Jaggi Andreas Pinsel . Murgenthalerstrasse 416 4854|Fulenbach 063 / 46'17'08 |St. Georg Wolfwil SO 25.07.79
+Kiener Rico Sprint Hertensteinstrasse 32 5415|Nussbaumen 056 / 282'42'59|Nussbaumen St. Peter 22.09.79
+[Koller Marco Smile Firstenlandstr.57 9500|Wil SG 4 071 911 24 10 |Pfadfinder Wil SG 2.07.79
+[Landolt Marc Floppy Rainstrasse 13 5024 |Kiittigen 062 / 827'24'39|Aarau Adler 17.06.78
+|Miiller André ‘Split Vorderdorfstrasse 58 5704|Egliswil 062 / 775'24'42|Hallwyl 11.03.78
+Miller Carina Topas Zieglerstr. 64 3007/|Bern 031 381 96 49 8.11.74
+[Rast Esther Dorfstr. 2 8444/|Henggart 052 316 14 32 7.01.72
+|Rinderknecht__|Matthias Asterix Birkenweg 4 5415|Nussbaumen 056 / 282'59'88|Nussbaumen St. Peter |__ 23.03.79
+Rohrer Fred Wiff Im Giessen 1 9470|Buchs SG 081 756 52 84 |Alvier Buchs SG 31.10.77)
+Claudia Marabu Unterdorfstr.18 5707|Seengen 062 777 29 72 |Hallwyl 12.04.78
+Reto Siiferli Platteweg 16 5024 |Kiittigen 062 / 827'24'43|Aarau St. Georg 26.10.79
+S Urs Sulla Frohlichstrasse 3 5000)|Aarau 062 / 824'40'82|Aarau St. Georg 13.05.79
+Schmidt Matthia Chrottli Herrenau 9650)Nesslau 071 994 16 25 |Yberg Toggenburg 30.12.79
+Signer Roger Mammon Unterstr. 39 9230|Flawil 071 393 49 80 |St. Otmar St. Gallen 10.07.78
+\Volmer Thomas Mango Kernstr. 3 8403/Winterthur 052 203 56 27 |Gofers 14.04.72
+|Ziircher Martina Chafer Delfterstr. 34 5004 /Aarau 062 824 48 59 |Adler Aarau 23.01.77
+
+15.10.96

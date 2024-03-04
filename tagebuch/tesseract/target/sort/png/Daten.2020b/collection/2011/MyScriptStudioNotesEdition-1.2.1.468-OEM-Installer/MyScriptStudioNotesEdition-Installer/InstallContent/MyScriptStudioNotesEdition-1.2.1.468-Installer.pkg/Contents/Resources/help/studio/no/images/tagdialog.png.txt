@@ -1,0 +1,5 @@
+Organiser:
+
+Merk av i rutene ved siden av hver tag hvis du vil tiordne tagger ti de valate
+objektene,
+

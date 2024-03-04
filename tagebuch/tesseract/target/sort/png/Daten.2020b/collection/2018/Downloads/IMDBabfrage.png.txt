@@ -1,0 +1,71 @@
+/Daten.2017/code/shrikey/python/pciNG/imdb$ ./movieYear.sh Elysium
+
+tt@091005 movie Elysium Elysium @ 1986 \N 118 Drama,War tt@356577 movie Elysium Elysium © 2003 \N 85 Action,Animation, Fantasy tt0632663 tvEpisode Elysium Elysium @ 2005 \N \N
+Drama tt1366864 short Elysium Elysium 0 2008 \N 25 Drama,Short tt1370367 video Elysium Elysium @ 2010 \N 93 Drama tt1391674 short Elysium Elysium @ 2008 \N 12 Drama, Short, Th|
+riller tt1535108 movie Elysium Elysium @ 2013 \N 109 Action,Drama,Sci-Fi tt1783264 movie Elysium Elysium @ 2010 \N \N Drama tt1852780 short Elysium Elysium @ 2011 \N 7 Drama,
+Short tt1920915 video Elysium Elysium 0 2010 \N 17 Adventure,Fantasy,Sci-Fi tt2813434 short Elysium Elysium @ 2013 \N 21 Drama,Short tt2882218 tvEpisode Elysium Elysium 0 201
+3 \N \N Talk-Show tt3253424 tvEpisode Elysium Elysium @ 2013 \N \N Talk-Show tt3293742 short Elysium Elysium @ 2013 \N \N Short tt3608660 short Elysium Elysium @ 2013 \N 5 Sh
+ort tt4093742 tvEpisode Elysium Elysium @ 2014 \N \N Action,Adventure,Fantasy tt4626854 tvEpisode Elysium Elysium @ 2013 \N \N Comedy tt5002388 tvEpisode Elysium Elysium ® 20
+15 \N \N News tt5316574 tvEpisode Elysium Elysium 0 2014 \N \N Comedy tt5913214 tvEpisode Elysium Elysium 0 2016 \N 24 Action,Adventure,Animation tt6147678 tvMovie Elysium El
+ysium @ 2006 \N \N Music tt6904824 tvEpisode Elysium Elysium @ 2013 \N \N Comedy tt7136916 tvEpisode Elysium Elysium @ 2017 \N \N Adventure,Fantasy tt7215332 tvEpisode Elysiu
+m Elysium @ 2013 \N \N Comedy, Talk-Show
+
+imdb ID:
+tto091005
+
+Year:
+
+1986
+
+marc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb$ vim movieYear.sh
+
+marc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb$ . /movieYear.sh Elysium
+
+tt0091005, movie Elysium Elysium 0 1986 \N 118 Drama, War
+
+tt0356577 movie Elysium Elysium 0 2003 = \N 85 Action, Animation, Fantasy
+tt0632663 tvEpisode Elysium Elysium 0 2005 = \N \N Drama
+
+tt1366864 short Elysium Elysium 0 2008 = \N 25 Drama, Short
+
+tt1370367 video Elysium Elysium 0 2010 = \N 93 Drama
+
+tt1391674 short Elysium Elysium 0 2008 += \N 2 Drama, Short , Thriller
+tt1535108 movie Elysium Elysium 0 2013 \N 109 = Action, Drama, Sci-Fi
+tt1783264 movie Elysium Elysium 0 2010 = \N \N Drama
+
+tt1852780 short Elysium Elysium 0 2011 = \N 7 Drama, Short
+
+tt1920915 video Elysium Elysium 0 2010 = \N V7 Adventure, Fantasy, Sci-Fi
+tt2813434 short Elysium Elysium 0 2013 \N 21 Drama, Short
+
+tt2882218 tvEpisode Elysium Elysium 0 2013 \N \N Talk-Show
+tt3253424 tvEpisode Elysium Elysium 0 2013 \N \N Talk-Show
+tt3293742 short Elysium Elysium 0 2013 \N \N Short
+
+tt3608660 short Elysium Elysium 0 2013 \N 5 Short
+
+tt4093742 tvEpisode Elysium Elysium 0 2014 \N \N Action, Adventure, Fantasy
+tt4626854 tvEpisode Elysium Elysium 0 2013 \N \N Comedy
+
+tt5002388 tvEpisode Elysium Elysium 0 2015 \N \N News
+
+tt5316574 tvEpisode Elysium Elysium 0 2014 \N \N Comedy
+
+tt5913214 tvEpisode Elysium Elysium 0 2016 = \N 24 Action, Adventure, Animation
+tt6147678 tvMovie Elysium Elysium 0 2006 = \N \N Music
+
+tt6904824 tvEpisode Elysium Elysium 0 2013 \N \N Comedy
+
+tt7136916 tvEpisode Elysium Elysium 0 2017 \N \N Adventure, Fantasy
+tt7215332 tvEpisode Elysium Elysium 0 2013 \N \N Comedy , Talk-Show
+imdb ID:
+
+tto091005
+
+Year:
+
+1986
+
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb$
+

@@ -1,0 +1,20 @@
+x[MyLP
+
+Stereo, 4410082
+32-bit float
+
+Mute [| Solo
+
+9
+9
+
+label Tack
+
+First Song
+
+Second Song
+
+Third Song
+
+Fourth Song
+

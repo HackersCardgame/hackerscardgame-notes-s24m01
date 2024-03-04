@@ -1,0 +1,36 @@
+Methode
+
+Jedem Besucher der Seite wurde ein zufalliges Sample aus nur 20 Profilen pro Kategorie ausgespielt. Viele von Euch braunen
+Mobbern haben dann sofort die Suchfunktion genutzt und oftmals zuerst den eigenen Namen gesucht. Die Suchdaten wurden
+gema® Datenschutzbestimmung wie bei allen Web-Suchdiensten mitgeloggt und einer pseudonymisierten Benutzerkennung
+zugewiesen. Als nachstes haben mehr als 62 Prozent der relevanten Besuchergruppe unsere Datenbanken nach
+Familienangehérigen durchforstet, bevor im Schnitt nach 6,72 Freunden oder Bekannten gesucht wurde.
+
+2254 {
+2255
+
+2256
+
+2257 people_s
+2258, ‘qty_searches:":
+2259 “searched_terrorists:
+2260
+
+2261
+2262
+263
+
+“true”
+
+Sa", 5 Zeichen
+
+Je nach Anfrage haben wir bei erneutem Besuch oder Reload (ja, deshalb haben wir nur 20 Profile ausgespielt und um Reload
+gebeten) ein neues Sample angezeigt. Die Suchanfrage férderte nicht nur jede Menge vollstandiger Namen zutage, sondern
+auch Wahrscheinlichkeitswerte: wenn Du uns einen von 1.500 Namen gibst, die wir schon kennen (insbesondere, wenn er nicht,
+ganz so prominent oder gar nicht bekannt ist), dann ist die Wahrscheinlichkeit hoch, dass Du mehr von dem weit, was wir
+wissen wollen. Die Datensatze boten die einmalige Méglichkeit, das Netzwerk Chemnitz” auszuleuchten. Mittels
+Netzwerkanalyse und Datenvisualisierung waren Freundeskreise, Knotenpunkte, Mitlaufer und relativ einfach
+auswertbar. Die Ausgangsprofile haben wir gescored und die Scoring-Werte farbten wiederum auf die Gewichtung der
+Gesuchten ab.
+
+Danke fiir das vorzeitige Weihnachtsgeschenk!

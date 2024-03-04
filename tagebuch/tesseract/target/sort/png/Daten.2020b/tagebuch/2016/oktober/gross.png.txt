@@ -1,0 +1,35 @@
+oder ein Keterenztyp (eine Klasse oder Interface).
+Optional kann eine Variable bei Deklaration durch einen Ausdruck zur Laufzeit mit einem Wert initialisiert werden.
+
+Mit dem ebenfalls optionalen Schlusselwort final wird verhindert, dass der Wert einer Variablen nach dessen Deklaration geandert werden kann; lediglich eine erstmalige Zuweisu
+Instanzvariablen ist méglich.
+
+Die Syntax einer Variablendeklaration:
+[ final ] [private|protected|public] Datentyp VARIABLENNAME [ = Ausdruck ] ;
+
+zum Beispiel:
+
+public class Beispiel {
+static {
+int i = 0;
+// etwas Sinnvolles mit i anstellen
+}
+public void machwas() {
+long grosseGanzeZahl;
+String name;
+final float PI = 3.1415;
+boolean [] wahrheitswerte = new boolean[10];
+// etwas Sinnvolles mit grosseGanzeZahl, name und PI anstellen
+// Die Zuweisung PI = 1; verursacht einen Compilerfehler
+// Ein Zugriff auf i verursacht einen Compilerfehler
+for (int i=0; i < wahrheitswerte.Length; i++) {
+// hier existiert i (ein anderes als obiges im static Block)
+t
+}
+}
+
+Sichtbarkeits- und Zugriffsmodifizierer [Bearbeiten]
+
+Die drei Schlusselwérter private , protected und public dienen der Modifikation der Sichtbarkeit und des Zugriffs.
+
+e Drivate erlaubt nur der eigenen Klasse den Ziinqrift

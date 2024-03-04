@@ -1,0 +1,38 @@
+sind die beiden anderen hoch spezialisierte Datenbanken zu sehr speziellen Themengebieten (bestimmte Malaria-
+Ereger, resp. Daten die durch einen bestimmten DNA-Chip erhoben wurden).
+
+per ee Os core:
+= Cm ceroatze Sennen
+| Tt
+Sa —
+ore: |, [ore
+a a
+2 wom |
+k
+tors ww Score
+aa sBotsece
+pers: se J oors:
+Ea sabonenee
+
+Illustration 6: Der Kern des GUS Schemas zeigt die Beziehungen zwischen
+
+Protein, RNA und DNA-Daten (links).
+
+Zentral im Schema von GUS ist, dass kommentierte
+Sequenzen von DNA, RNA und Proteinen gespeichert
+werden kénnen. Wobei die natiirliche biologische
+Ordnung eingehalten wird: So ist die DNA der RNA
+und diese den Proteinen tibergeordnet (Die Protein
+Relation bezieht sich mit einem Fremdschliissel auf die
+RNA Relation). Die Datenbank ist so angelegt, dass
+die Informationen von den bekanntesten Biotech-
+Datenbanken bezogen werden kénnen, wie z.B. von der
+International Nucleotide | Sequence —_ Database
+Collaboration (GenBank, DDBJ und EMBL) von
+SWISS-PROT und dbEST.
+
+GUS legt viel Wert darauf, dass alle diese Daten
+ausfiihrlich kommentieren und nachbearbeiten werden
+kénnen. So glauben die Entwickler von GUS, dass
+nicht die grundlegenden Daten selber, sondern va.
+deren manuelle Uberarbeitung in der Zukunft die

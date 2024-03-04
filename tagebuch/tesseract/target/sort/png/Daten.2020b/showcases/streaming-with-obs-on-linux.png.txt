@@ -1,0 +1,25 @@
+Output
+
+J Audio
+
+Be vice
+
+f
+fiaeg Hotkeys
+%, Advanced
+
+Settings
+
+Stream Type Custom Streaming Server
+
+URL |rtmp://live-api.facebook.com:80/rtmp/
+
+Stream key
+
+|| Show |
+
+Use authentication
+
+v
+
+| @cancet |

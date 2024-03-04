@@ -1,0 +1,54 @@
+NetRange
+CIDR:
+Originas
+NetNane
+NetHandle
+Parent
+NetType
+RegDate
+Updated
+Ret
+
+OrgName
+Orgid
+Address
+city
+StateProv
+PostalCode
+Country
+RegDate
+Updated
+Ret
+
+65.52.0.0 - 65,55.255.255
+65.52.0.0/14
+
+NICROSOFT-1BLK
+NET-65-52-0-0-1
+
+NET-65-0-0-0-0
+
+Direct Assignment
+
+2001-02-14
+
+2012-03-20
+http://whois.arin.net/rest/net/NET-65
+
+Microsoft Corp
+MSFT.
+
+One Microsoft Way
+
+Redmond
+
+Wa
+
+98052
+
+us
+
+1998-07-10
+
+2011-04-26
+http://whois.arin.net/rest/org/MSFT

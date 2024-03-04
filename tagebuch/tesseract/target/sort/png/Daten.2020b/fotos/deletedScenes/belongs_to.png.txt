@@ -1,0 +1,10 @@
+Model: Order
+beonge to xetomer
+
+customer_id
+
+3
+
+class Order < ActiveRecord
+belongs_to :customer
+end

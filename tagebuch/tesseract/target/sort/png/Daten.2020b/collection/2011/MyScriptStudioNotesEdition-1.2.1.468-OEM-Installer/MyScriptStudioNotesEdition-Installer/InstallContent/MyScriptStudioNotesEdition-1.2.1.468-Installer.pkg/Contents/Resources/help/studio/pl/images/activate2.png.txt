@@ -1,0 +1,26 @@
+Need: es i ae
+
+o
+
+‘Automatyczna aktywacja moze nie byé mozliwa, poniewa2 serwer moze byé
+uszkodzony lub zajety bad ustawienia zabezpieczefi moga uniemosliwiaé
+facanosé zserwerem, W takiejsytuacji mozna wykonaé procedure recane)
+aktywacji, ozona z caterech krokéwe
+
+1. Klin przycisk OK w tym oknie dialogowym.
+
+2. Spowoduje to utworzenie pliku tekstowego zawierajacego tw6j kod,
+niepowtarzalny identyfikator dla danego komputera oraz kod produktu. W
+przypadku utworzenia pliku na komputerze bez polaczenia internetowego,
+‘skopiuj ten tekst na inny komputer i wyélijzniego.
+
+3, Skopiuj te informacje do wiadomoéci e-mail i wyélj na nasz serwer aktywacji
+nna adres VO support<activation studio.support @visionobjects.com>. Utworzymy
+plik aktywacyjny i odeélemy Ci go za poérednictwem poczty. Plik ten mozna
+‘wykorzystaé tylko na jednym komputerze— na tym, na ktérym utworzona zostala
+proba.
+
+4. Kliknij dwukrotnie plik licencelic, zalaczony do wiadomosci. Spowoduje to
+‘otwarcie niewielkiej aplikacj, kt6ra aktywuje oprogramowanie rozpoznajace
+pismo odreczne.
+

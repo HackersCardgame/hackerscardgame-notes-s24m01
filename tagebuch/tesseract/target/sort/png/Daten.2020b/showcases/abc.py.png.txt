@@ -1,0 +1,27 @@
+ma rc@debian 3
+
+real Om3.
+user Om3.
+sys mo.
+marc@debian:
+
+~$ time python3 a.py
+
+383s
+372s
+008s
+~$ time python3 b.py
+
+real Om15.131s
+user 0m15.132s
+
+sys mo.
+marc@debian:
+real Om3.
+user Om3.
+sys mo.
+
+marc@debian:
+
+000s
+~$ time python3 c.py

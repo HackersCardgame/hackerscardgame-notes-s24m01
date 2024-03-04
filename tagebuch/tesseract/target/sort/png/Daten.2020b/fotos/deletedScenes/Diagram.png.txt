@@ -1,0 +1,16 @@
+Swisscom
+
+213.3.242.0/23
+GW: 213.3.242.151
+
+Yetnet
+
+91.138.20.0/22
+GW: 91.138.20.1
+
+Cisco Kabelmodem ADSL Router
+
+Cisco UBR Cisco 1812 Router
+
+Intern
+192.168.179.0/22

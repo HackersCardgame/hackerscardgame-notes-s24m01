@@ -1,0 +1,29 @@
+eu
+15
+16
+a7
+a1
+a0
+220
+et
+222
+223
+2s
+225
+
+<div clas:
+label for:
+textarea cols="30"
+</div>
+
+"row">
+
+rows='
+
+5
+
+name='
+
+form-comment >KORQERESE *</Label>
+
+"comment" id="form-comment* class="text full"></textarea>

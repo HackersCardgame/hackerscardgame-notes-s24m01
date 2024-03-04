@@ -1,0 +1,17 @@
+(@ Halinnoi tuntomerkeja
+Poista
+Poista nykyinen tuntomerkki
+
+ikki tuntomerkit.
+
+(B Nimes asiakirja uudelleen
+Jt pois muistiinpanoistas
+[i Poistatiedostoja levyita
+
+B Ve.
+Tallenna nimella..
+
+ Tulosta...
+
+(i Usiasokija
+

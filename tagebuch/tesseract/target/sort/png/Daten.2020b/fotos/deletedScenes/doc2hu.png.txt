@@ -1,0 +1,38 @@
+Gyorsinditas
+
+Dokumentumosztdly [article
+
+Egyéb beéllitésok
+
+Bettiméret
+Oldalmeéret
+Kédolés
+Szerz6
+
+cim
+
+babel csomag
+
+landscape ss—<CS~sts—S
+draft
+
+final
+oneside
+apt
+a4paper
+
+(latina
+
+‘greek
+icelandic
+
+ian
+
+|) geometry csomag Jeft=2cm,right=2cm,top=2cm, bottor
+
+\v) AMS csomagok
+
+| makeidx csomag _ graphicx csomag
+
+¥ OK || @ Cancel
+

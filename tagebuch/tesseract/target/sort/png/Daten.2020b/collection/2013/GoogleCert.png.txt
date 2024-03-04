@@ -1,0 +1,61 @@
+Mail kann die Identitat von ,googlemail
+Uberpriifen.
+
+\
+es) Das Zertifikat fur diesen Server ist ungiltig. Evt. werden Sie mit einem
+
+Server verbunden, der vorgibt, ,googlemail-imap.|.google.com* zu sein, und
+Ihre vertraulichen Daten missbraucht. Méchten Sie trotzdem mit diesem
+Server verbunden werden?
+
+C Beim Verbinden mit ,googlemail-imap..goo ..." immer ,imap.googlemail.com" vertrauen.
+
+Zertifikat
+
+imap..google.com* nicht
+
+Ey Eauifax Secure Cerificate Authority
+% [5 Google Internet Authority
+% Fi imap.googlemal.com
+
+y Vertrauen
+
+bei Verwendung dieses Zeriflats: (System-Standards ver) (@)
+Secure Sockets Layer (Sst). (ein wer esgeegt
+
+X.509-Standard-Policy (Kein Wert festgelegt (i)
+
+y Details
+
+Land
+Bundesland
+
+or
+
+Organisation
+Allgemeiner Name
+
+Land
+Organisation
+Allgemeiner Name
+
+imap.googlemail.com
+
+Ausgestellt von: Google Internet Authority
+Ablaufdatum: Dienstag, 31. Dezember 2013 16:58:50 Schweiz
+
+© Dieses Zertifiat ist nicht giltig (Hostname stimmt nicht Uberein)..
+
+us
+California
+
+Mountain View
+Google Inc
+imap.googlemail.com
+
+us
+Google Inc
+Google Internet Authority
+
+(0) (Zentifikat ausblenden ) (Abbrechen)) (Werbinden))
+

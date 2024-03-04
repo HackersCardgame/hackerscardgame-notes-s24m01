@@ -1,0 +1,49 @@
+AUGLO 1A
+Hand:
+
+Kehlkopf Implantat
+
++umgebende Elektronik, z.B. TV, Monitor, Toaster
+
+n2
+Person n
+Person self
+
+Video RX
+Bild-Kanal 1 => wir gehen davon aus, dass immer nur einer
+der redundanten Kandle verwendet wird, denn
+t hat 2 TV Sendungen
+Bild-Kanal n wird erahnen weshalb... grundsatzlich etwas wie FrequenzHopping denkbar
+
+Handy Kamery, Laptop Kamera, Kamera im Toaster oder in der LED Lamp
+
+RetinaCCD => Frequenz(en) kénnte man mit einem St6rSender jammen
+
+ev. inklusive Nacht-Sicht mit Restlichtverstarker oder Infrarot CAM)
+
+Denkbar auch z.B. ein Implantat im Sehzentrum / Sehnerv, schlechtere Auflésung zu erwarten
+Positionsdaten TX
+
+GPS Position KoortinatenUrsprung, z.B. Hand, Laptop, TV, Toaster, Leuchtstoffrore.
+
+(je nach dem werden merere benétigt, Vektoralgebra 3+, ausser Gerat hat selber nehrere
+a: Blickrichtung => benétigt fiir Augmented Reality, erhéht Glaubwiirdigket
+
+6: Positionsdaten linke Hand
+
+é: Positionsdaten heehee Hand
+
+Boal ev. sogar der einzelne Finger, RFID < mm?
+
+|Kehlkopf Implantat
+Jumgebende Elektronik, z.B.
+TV, Monitor, Toaster
+Person 2
+Person n
+Person self
+
+= Video RX
+
+'Bild- Kanal 1
+=> wir gehen davon aus, dass immer nur einer
+

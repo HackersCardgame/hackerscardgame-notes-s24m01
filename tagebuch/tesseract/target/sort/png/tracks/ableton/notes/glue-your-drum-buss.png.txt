@@ -1,0 +1,20 @@
+GLUE YOUR DRUM BUSS
+
+CP A.
+
+(EEA) 200 (een (ae)
+
+You can ‘Glue’ your Drum Buss together by using
+Compression, Reverb, and Saturation.
+
+Compression will introduce common similarities between
+each element in terms of dynamics.
+
+Reverb will introduce a sense of space, which all
+elements will sit in.
+
+Saturation will introduce shared harmonics between each
+element, which will make the sound thicker, while also
+increasing headroom with perceived loudness.
+
+PausePlayRepeat.com

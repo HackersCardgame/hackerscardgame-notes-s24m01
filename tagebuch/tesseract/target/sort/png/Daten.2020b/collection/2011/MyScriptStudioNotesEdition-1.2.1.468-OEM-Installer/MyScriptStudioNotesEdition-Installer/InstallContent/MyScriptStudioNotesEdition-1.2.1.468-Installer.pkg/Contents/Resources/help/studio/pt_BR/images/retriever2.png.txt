@@ -1,0 +1,19 @@
+ MySerpt nthe
+
+MyScript InkRetriever
+‘Sobre_| Confguracles de reauperasio | Configuracies do dispositive
+
+‘Configuracdes de armazenamento de tints
+
+Escolha a pasta de armazenamento dos arquivos de tinta:
+
+(C:\Users\adrienne Documents MyScript Documents notes ink Devices
+
+CConfiguragées avancadas
+Remover arquives de dsposiive apés o descarregamento
+“Substturarquivs existentes com 0 mesmo nome
+
+Examinar todos os dispositives USB
+
+{nidar automaticamente apés 0 inicio do Windows
+

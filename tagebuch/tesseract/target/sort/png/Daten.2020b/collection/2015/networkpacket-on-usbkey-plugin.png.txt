@@ -1,0 +1,237 @@
+ono 2201.
+33404 3167.
+33405 3167.
+33406 3167.
+33407 3167.
+33408 3167.
+33409 3167.
+33410 3167.
+33411 3167.
+33412 3168.
+33413 3168.
+33414 3168.
+33415 3168.
+33416 3168.
+33417 3168.
+33419 3168.
+33422 3169.
+33423 3169.
+33424 3169.
+33425 3169.
+33427 3170.
+33431 3174.
+
+> Frame 33213:
+peEthernet II, Src: HonHaiPr_19:9:
+
+CIO 2900 194-100. 1
+
+8370376 192.
+8372316 192.
+8373216 192.
+8401376 192.
+8417856 173.
+8465626 173.
+8867106 173.
+8893526 173.
+0166606 173.
+0170796 173.
+0170976 192.
+0176486 173.
+0176636 173.
+0176696 192.
+6176996 192.
+2274066 192.
+2365686 173.
+3036856 173.
+3413906 192.
+6185696 192.
+6224806 192.
+
+168.
+168.
+168.
+168.
+194.
+194.
+194.
+194.
+194.
+194.
+168.
+194.
+194.
+168.
+168.
+168.
+194.
+194.
+168.
+168.
+168.
+
+1.44
+1.44
+1.44
+1.44
+116.81
+116.81
+116.81
+116.81
+116.81
+116.81
+1.44
+116.81
+116.81
+1.44
+1.44
+1.44
+116.81
+116.81
+1.44
+1.44
+1.44
+
+APD e LI LEO OL
+
+173.
+173.
+173.
+173.
+192.
+192.
+192.
+192.
+192.
+192.
+173.
+192.
+192.
+173.
+224.
+173.
+192.
+192.
+173.
+224.
+224.
+
+194.
+194.
+194.
+194.
+168.
+168.
+168.
+168.
+168.
+168.
+194.
+168.
+168.
+194.
+0.0.
+194.
+168.
+168.
+194.
+0.0.
+0.0.
+
+116.81
+116.81
+116.81
+116.81
+1.44
+1.44
+1.44
+1.44
+1.44
+1.44
+116.81
+1.44
+1.44
+116.81
+251
+116.81
+1.44
+1.44
+116.81
+251
+251
+
+Ar
+TLSv1.2
+TLSv1.2
+TLSv1.2
+TLSv1.2
+TcP
+TcP
+TcP
+TcP
+TLSv1.2
+ssL
+TcP
+TLSv1.2
+ssL
+TCP
+MONS
+ssL
+TcP
+ssL
+TCP
+MONS
+MONS
+
+OD OD ei LARRY Segment
+722 [SSL segment of a reassembled PDU]
+72 Change Cipher Spec
+111 Encrypted Handshake Message
+722 [SSL segment of a reassembled PDU]
+66 443-46523 [ACK] Seq=138 Ack=575 Win=43648 Len=@ TSval=2387224796 TSecr=51474710
+66 443-46524 [ACK] Seq=138 Ack=575 Win=43648 Len=@ TSval=2387214984 TSecr=51474710
+66 443-46523 [ACK] Seq=138 Ack=1231 Win=44928 Len=9 TSval=2387224841 TSecr=51474710
+66 443-46524 [ACK] Seq=138 Ack=1231 Win=44928 Len=@ TSval=2387215027 TSecr=51474711
+573 [SSL segment of a reassembled PDU]
+1383 [SSL segment of a reassembled PDU]
+66 46523+443 [ACK] Seq=1231 Ack=1962 Win=34304 Len=9 TSval=51474755 TSecr=2387224970
+1434 [SSL segment of a reassembled PDU]
+375 [SSL segment of a reassembled PDU]
+66 46524-443 [ACK] Seq=1231 Ack=1815 Win=35968 Len=9 TSval=51474756 TSecr=2387215154
+82 Standard query @x6600 PTR pgpkey-hkp. tcp.local, "QM" question
+768 [SSL segment of a reassembled PDU]
+66 443~46524 [ACK] Seq=1815 Ack=1933 Win=46336 Len=9 TSval=2387216375 TSecr=51475058
+949 [SSL segment of a reassembled PDU]
+66 46524+443 [ACK] Seq=1933 Ack=2698 Win=38656 Len=9 TSval=51475087 TSecr=2387216441
+82 Standard query @x6600 PTR pgpkey-hkp. tcp.local, "QM" question
+82 Standard query @x8008 PTR pgpkey-hkp. tcp.local, "QM" question
+
+60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+
+(14:2d:2)
+
+19:92:ed), Dst: Broadcast (ff:ff:ff:f
+
+f: FF)
+
+pInternet Protocol Version 4, Src: 192.168.1.44 (192.168.1.44), Dst: 192.168.1.255 (192.168.1.255)
+
+bUser Datagram Protocol, Src Po!
+>Canon BJNP, Scanner Command:
+
+ooo ff ff ff ff ff fF 14 2d
+0010 00 2c f2 b2 40 00 40 11
+0020 01 ff 21 a4 21 a4 00 18
+
+Discover
+
+0030 09 00 00 G0 00 G0 G8 GO 0 a0 40 OO
+
+27 19 92 ed 08 00 45 00
+3 92 cO a8 @1 2c co aB
+a5 5e 42 4a 4e 50 02 O1
+
+8612 (8612), Dst Port: 8612 (8612)
+
+<*BINP..
+

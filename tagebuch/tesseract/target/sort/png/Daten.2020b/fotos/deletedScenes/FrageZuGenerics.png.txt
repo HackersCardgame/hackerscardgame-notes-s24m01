@@ -1,0 +1,43 @@
+va_> import java.util.ArrayList;
+
+import java.util. Comparator;
+import java.util.List;
+
+o fre
+
+* Class that sorts step by step
+* @param args not used here
+
+*f
+
+public class StepBubbleSort {
+
+public static <T> void stepC(List<T> list, Comparator<? super T> comp) {
+
+forcint i-O; iclist.sizeQ-1; i++) Us das ist mir unklae
+{¢Cconp.conpareclist.get(i), Ust.getctsi>-0) Ly Gon Collections abgeschaut
+
+Object temp = list.getCi);
+list.setCi, List.getCi+1);
+
+Llist.setCi+1, (Ttemp); //Eclipse: Type Safety: uncheck cast from object T
+} —___
+I ‘
+; d U ( C
+\>s den wurde ich gerne losuerden
+, QO
+public static void step(ArrayList List, Comparator comp) /fEclipse: Comparator is a raw type. References to generic type ArrayList<E> should be parameterized ~~
+/fEclipse: Comparator is a raw type. References to generic type Comparator<T> should be parameterized S
+f
+for(int i=8; i<list.size()-1; i++) $
+Object first = list.get(i); Cc?
+Object second = 1ist.getCi+1); Q
+if(comp.compare(first, second)>@) //Type Safety: The method compare(Objcet, Object bleongs to the raw type Comparator.
+ff References to generic type Comparator<T> shold be parameterized
+‘ OQ
+Object temp = 1list.get(1);
+List.set(i, List.get(i+1)); //Type safety: The method setCint, Object) belongs to the raw type ArrayList. (Nh
+list.setCi+l, temp); ff References to generictype Arrayist<E> should be parameterized x
+}
+} >)
+| ( a

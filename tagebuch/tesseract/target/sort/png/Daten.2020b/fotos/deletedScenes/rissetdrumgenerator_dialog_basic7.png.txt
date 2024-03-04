@@ -1,0 +1,19 @@
+Risset Drum generator by Steven Jones, after Jean Claude Risset
+Released under terms of the GNU General Public License version 2
+Produces 2 realistic drum sound consisting of three components;
+
+a sine wave ring-modulated by narrow band noise, an enharmonic
+tone, and a relatively strong sine wave at the fundamental
+
+Frequency [Hz]:
+Decay [seconds]:
+
+Center frequency of noise [Hz]:
+Width of noise band [Hz]:
+
+‘Amount of noise in mix [percent]:
+
+400
+
+0
+

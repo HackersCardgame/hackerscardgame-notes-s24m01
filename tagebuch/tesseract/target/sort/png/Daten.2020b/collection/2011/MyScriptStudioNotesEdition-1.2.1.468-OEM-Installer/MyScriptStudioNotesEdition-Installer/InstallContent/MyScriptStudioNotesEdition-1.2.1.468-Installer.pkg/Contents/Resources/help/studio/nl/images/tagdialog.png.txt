@@ -1,0 +1,5 @@
+Labels beheren.
+
+Cm labels toe te wizen aan de momenteel eselecteerde items, gebrut
+selectievakjes naast ek label. " we
+

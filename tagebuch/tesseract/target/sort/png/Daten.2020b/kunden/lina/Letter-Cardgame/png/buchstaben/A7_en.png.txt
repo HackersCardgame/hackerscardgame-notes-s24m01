@@ -1,0 +1,33 @@
+TITLE / TITEL
+
+7
+
+[ auiect
+
+: +observerCollection
++registerObserver(observer)
+
++unregisterObserver(observer)
+| +notifyObservers() )
+
+L\
+
+notifyObservers()
+for observer in observerCollection
+ConcreteObserverA call observer.notify()
++notify()
+
+ConcreteObserverB
+
+Inventor: xxxx Year: ~xxxx
+For example the distribution of intelligence in
+society, but you could also take the size of men, the
+number of households with kitchen mixer ... but you
+would have to find out whether it is really normal
+distribution, even paranormal distribution or just
+random or conicidence
+
+Use Cases
+Statistics, check plausibilities of statements or
+other data
+

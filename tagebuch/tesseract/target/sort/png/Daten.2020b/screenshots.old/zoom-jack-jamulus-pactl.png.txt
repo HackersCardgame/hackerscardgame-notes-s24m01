@@ -1,0 +1,14 @@
+A marc@debian: ~
+
+marc@debian:~$ cat add-default-audio-sink.sh
+'#! /bin/bash
+
+pactl load-module module-jack-sink channels=2
+pactl load-module module-jack-source channels=2
+
+Mixxx &
+
+jamulus -c 192.168.192.234:6543 &
+/usr/bin/guitarix &
+marc@debian:~$ ff
+

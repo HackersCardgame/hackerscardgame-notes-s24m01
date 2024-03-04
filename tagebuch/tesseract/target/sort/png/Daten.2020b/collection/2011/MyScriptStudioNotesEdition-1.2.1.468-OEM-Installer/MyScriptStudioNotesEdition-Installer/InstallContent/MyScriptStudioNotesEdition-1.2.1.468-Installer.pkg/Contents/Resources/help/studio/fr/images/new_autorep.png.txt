@@ -1,0 +1,12 @@
+2
+2
+=
+
+‘Tapez ou sélectionnez un mot et une valeur de remplacement :
+
+Fy Deere (ab) 7
+
+Remplacer par
+
+Exporter...
+

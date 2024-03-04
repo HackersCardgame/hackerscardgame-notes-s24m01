@@ -1,0 +1,23 @@
+Menuet Ais i ae
+
+Det kan vara oméjligt att aktivera automatiskt p§ grund av att servern kan vara
+rere eller upptagen, eller 8 kan sakerhetsinstallningarma ferhindra
+kommunikation med servern I det fallet kan du anvanda den manuella
+~aktiveringsprocedur som bestar av fyra steg:
+
+1 Klicka pé knappen OK iden har dialogrutan.
+
+2. Detta skapar en texfil som innehiller din kod, en unik identifierare for din
+maskin och en produktkod. Om du skapar detta p en maskin utan
+Intemetanslutning, kopiera denna tex tillen annan maskin och skicka den
+darifin,
+
+3. Kopiera den hér informationen till et e-postmeddelande och skicka det till vir
+aktiveringstjanst pS VO support <activation studio.support@visionobjects.com>.
+Vi kommer att skapa en aktiveringsfil och skicks den tillbaka til dig via e-post.
+Den har filen kan endast anvéndas p en maskin - maskinen dar den ursprungliga,
+begéran skapades.
+
+4. Dubbelklicka pé filen licence lc som bifogas e-postmeddelandet. Detta oppnar
+«tt itet program som aktiverar igenkanningsprogrammet for handskrift.
+

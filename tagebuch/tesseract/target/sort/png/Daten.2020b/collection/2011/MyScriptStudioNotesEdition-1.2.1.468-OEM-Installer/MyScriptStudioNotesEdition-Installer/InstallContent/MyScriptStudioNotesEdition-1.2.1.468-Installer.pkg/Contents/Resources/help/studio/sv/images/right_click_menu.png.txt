@@ -1,0 +1,14 @@
+“5 (@ Hanters taggar
+
+Te bortalla taggar
+Te bort nuvarandetagg
+[Dep om dokument
+Exkludera frén mina anteckningar..
+[ig Radera filer frén disk.
+
+@ Exportera
+& Spara som.
+
+@ Skriv ut..
+[a Nytt dokument
+

@@ -1,0 +1,8 @@
+Q *** No Ident response
+* Error from server: Closing Link: 127.0.0.1 (*** Banned )
+
+[irc.glassbilen.ne: *** Banned Tor exit server detected. See www.sectoor.de/tor.php?ip=163.172.151.210 (2018/7/14 23.13)
+* Connection failure: Remote host closed connection####*
+
+al
+

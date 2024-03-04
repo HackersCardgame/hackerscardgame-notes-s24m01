@@ -1,0 +1,35 @@
+return moves;
+
+}
+
+//(WMP: braucht viel ressourcen wenn das bei jedem Zug aufgerufen wird => wird nur in der obersten instanz aufgerufen
+function isInCheck(player) {
+Moves = possibleMoves(-player)
+
+for(var i=0; i<moves.length; i++)
+if (board[moves[i] [1] [0]*8+moves [i] [1] [1]]==100*player)
+return true;
+
+return false;
+
+}
+
+var instances=0;
+
+//minmax algorithm that does the game
+function minimax(depth, player, init, resetCounter)
+{
+
+if(resetCounter) instances=0;
+
+else instances+=1;
+
+var bestMove = [[0,0],[0,0]];
+
+if(depth < 1) return evaluateBoard() ;
+
+var moves = shuffle(possibleMoves (player) ) ;
+
+var bestValue=-1000000*player
+for(var i + i < moves.length; i++)
+

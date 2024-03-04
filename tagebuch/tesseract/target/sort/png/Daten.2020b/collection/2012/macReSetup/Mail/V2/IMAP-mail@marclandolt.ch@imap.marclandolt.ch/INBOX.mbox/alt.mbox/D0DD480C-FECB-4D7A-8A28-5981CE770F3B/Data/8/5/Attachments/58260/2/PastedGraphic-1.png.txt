@@ -1,0 +1,16 @@
+‘tests=BAYES_99, DKIM_SIGNED, DNS_FROM_OPENWHOTS ,
+FH_DATE_PAST_ZOXX, FREEMATL_FROM, HTML_MESSAGE,,
+SEX_CC_COMBO_1, SEX_CC_PORN_2, SPF_NEUTRAL
+X-Spam-Report: ---~ Start der SpamAssassin Auswertung
+1.1 DNS_FROMLOPENMHOTS BL: Envelope sender listed in bl.open-nhois.org.
+0.2 BAYES_99 BODY: Bayesian span probability is 99 to 100%
+[score: 0.9995]
+FH_DATE_PAST_20XX The date is grossly in the future.
+FREEMATL_FROM From-address is freenail donain
+SPF_NEUTRAL SPF: sender does not match SPF record (neutral)
+DKIM_STGNED Domain Keys Identified Mail: message has a signature
+HIML_MESSAGE BODY: HTML included in message
+SEX_CC_PORN_2 Typical sexmail (2)
+SEX_CC_COMBO_1 Combo SEX.CC (1)
+Ende der SpamAssassin Auswertung
+

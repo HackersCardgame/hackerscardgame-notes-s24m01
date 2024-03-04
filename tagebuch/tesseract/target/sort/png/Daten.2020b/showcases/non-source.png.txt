@@ -1,0 +1,57 @@
+a a a a a,
+o marc@debian: :~/skypeforlinux-stable-bin$ cat PKGBUILD
+# Maintainer: mark.blakeney at bullet-systems dot net
+ty Original Maintainer: Jameson Pugh <imntreal@gmail.com>
+_pkgname=skypeforlinux
+2 pkgname= $ pkgname-stable-bin
+ pkgver= 8.34.0.78
+; Pkgrel= 1
+| pnkgdesc="Skype for Linux - Stable/Release Version"
+S arch=("x86_ 64")
+url= "http://www. skype. com"
+"License=("custom")
+, depends= ("gtk3" "Libxss" "gconf" “alsa-lib" "lLibxtst" "Libsecret" "nss" "“glibc>=2.28-4")
+" optdepends= ("gnome- keyring")
+" makedepends= ("asar")
+"conflicts= ("$_ pkgname" "$ pkgname-bin" "$ pkgname-preview-bin" "$ pkgname-beta-bin" "skype")
+"provides=("$ pkaname" "skype"
+source=(
+
+"https://repo.skype.com/deb/pool/main/s/$ pkgname/${_pkgname} ${pkgver} amd64.deb"
+
+» sha256sums=( 'e017fa5f3b78104b18c9e3ec00a678e513095cd4129a83b301f 2b2cOdbb606a5' )
+
+> package() {
+tar -xJC "$pkgdir" -f data.tar.xz
+install -d "$pkgdir/usr/share/licenses/$pkgname"
+v "$Spkgdir/usr/share/$ pkgname/LICENSES.chromium.html" \
+"$pkgdir/usr/share/licenses/$pkgname/"
+
+: rm -rf "$pkgdir/opt"
+
+7 Replace all 16px tray icons with 32px.
+L _p="/usr/share/skypeforlinux/resources"
+P cd "$pkgdir/$_p"
+
+Pasar extract app.asar tmp
+
+P ocd _tmp/images/tray
+
+~ find . -iname '*@2x.png' | while read f; do
+I cp $f ${f//@2x/}
+
+~ done
+
+~ cd "“$pkgdir/$ p"
+
+C asar pack _tmp app.asar
+
+C orm -rf tmp
+
+Dy ~
+
+# vim:set ts=2 sw=2 et:
+marc@debian:~/skypeforlinux-stable-bin$ Jj
+
+tail. ~/VGALCH.4UL9/ CUUC/ PI too/pesid uUliaiit -a
+nhian A 1&8 f_AR pnrnnaricr #AQ _IIittiinti: CMD Titan Ian 90 1f+982+12 WTS JOO veh FA vwRR FA vwRR FA CNII/Il ir

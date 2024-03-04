@@ -1,0 +1,106 @@
+SOL TED
+23/683
+24/719
+23/679
+24/713
+23/689
+23/711
+24/756
+23/721
+23/715
+24/7167
+23/725
+23/693
+23/703
+24/729
+23/692
+22/683
+22/673
+23/709
+22/669
+23/703
+22/679
+22/715
+23/767
+22/725
+22/701
+23/746
+22/711
+22/701
+
+binant
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+[iWatch]
+
+BN FE SE EE EE EE ETI EI EIEN
+
+IN_CREATE /tmp/mail.RxXXXXVLRC40
+
+/tmp /mail. RxXXXXVLRC40 is deleted
+
+IN CREATE /tmp/mail. XXxxiGVJqr
+
+/tmp /mail. XXXxxiGVJgr is deleted
+
+IN_CLOSE_WRITE /tmp/mail.XxxxiGVJqr
+
+IN_CREATE /var/tmp/etilqs_SYPBilLJdk ibTBG
+/var/tmp/etilgs SYPBilLJdkibTBG is deleted
+IN_CLOSE_WRITE /var/tmp/etilqs_SYPBill Jdk ibTBG
+IN_CREATE /run/shm/.org. chromium. Chromium. QMnKNS
+/run/shm/.org.chromium.Chromium.QMnKNS is deleted
+IN_CLOSE_WRITE /run/shm/.org. chromium. Chromium. QHnKNS
+IN CREATE /tmp/mail.RqXXXX9ZmEdY
+
+IN_CLOSE_WRITE /tmp/mail.RqXXXX9ZmEdY
+
+/tmp /mail. RqXXXX9ZmEdY is deleted
+
+/home/marc/mbox is changed
+
+IN_CLOSE_WRITE /tmp/mail.RxXXXXVLRC4o
+
+INCREATE /tmp/mail.RxXXXXGW6LrP
+
+/tmp /mail. RxXXXXGW6LrP is deleted
+
+IN_CREATE /tmp/mail. XXxXhv2W50
+
+/tmp /mail.XXXxXhv2W50 is deleted
+
+IN_CLOSE_WRITE /tmp/mail.XXxXhv2W50
+
+IN_CREATE /run/shm/.org. chromium. Chromium.FXgGle
+/run/shm/.org.chromium.Chromium.FXgGle is deleted
+IN_CLOSE_WRITE /run/shm/.org.chromium.Chromium.FXgGle
+IN_CREATE /var/tmp/etilqs_z4KDzfXxiodCcHy7
+/var/tmp/etilgs_z4KDzfxiodCcHy7 is deleted
+IN_CLOSE_WRITE /var/tmp/etilqs_z4kDzfxiedCcHy7
+
+: INCREATE /var/tmp/etilgs_Xk93bszio3X6PrI

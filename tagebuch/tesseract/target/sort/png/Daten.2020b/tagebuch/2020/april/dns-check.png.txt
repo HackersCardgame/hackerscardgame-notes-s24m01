@@ -1,0 +1,35 @@
+Acti
+
+Mon 17:52 a”) &
+Neuenburgerstrasse6-10: Configuration of items - Mozilla Firefox x
+@ Skype | =» Ident’ | W Home | w Einw: | RH Live | MB untiti | 2 (4)Fo | 59) | @ 559) | PN Kalil | fe UBS’ | UPC’ | EA Neue | D Vigor | hackers: | A Serve | A Serve | 6 TorP: | EA Neue: | EA New Ne x | @ New” | Q instal | +
+
+€ ea 92.168.192.234/zabbix/items. php?filter_set=1&hostid=10105 160% ) | s+ w L,INOG OW =
+
+Host group | ‘yf search Select Type all L Type of information | all 5 State all 5
+Host Select Update interval (in sec) History (in days) Status all 7
+Application Select Trends (in days) Triggers all 7
+Name like Template — all 7
+Key like
+
+Subfilter affects only filtered data
+
+INTERVAL
+601 905
+Wizard Name a Triggers Key Interval History Trends Type Applications Status
+
+cablecom1 dns_check.sh["{HOST.CONN}","62.2.17.61"] 1m 30s 90d 365d External check Enabled
+
+1m 30s 90d 365d External check Enabled
+
+cablecom3 dns_check.sh["{HOST.CONN}","62.2.17.60"] 1m 30s 90d 365d External check Enabled
+
+cablecom4 dns_check.sh["{HOST.CONN}","62.2.24.162"] 1m 30s 90d 365d External check Enabled
+
+Google DNS dns_check.sh["{HOST.CONN}","8.8.8.8"] 1m 30s 90d 365d External check Enabled
+
+Homerouter dns_check.sh["{HOST.CONN}","192.168.0.1"] im 90d 365d External check Enabled
+
+Displaying 6 of 6 found
+
+0 selected

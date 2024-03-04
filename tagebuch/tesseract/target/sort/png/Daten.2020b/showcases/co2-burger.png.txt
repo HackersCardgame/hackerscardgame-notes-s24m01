@@ -1,0 +1,48 @@
+Salat
+
+H20: 2L
+CO2: ??kg
+W: ??kW
+Fossil: ??kW
+10g
+
+Kase
+
+H20: 100L
+CO2: ??kg
+W: 2??kW
+Fossil: ??7kW
+10g
+
+Fleisch
+
+H20: 2250L
+CO2: ??kg
+W: ??kW
+Fossil: ?7kW
+10g
+
+Brotchen
+
+H20: 35L
+CO2: ??kg
+W: ??kW
+Fossil: ?7kW
+50g
+
+Tomate
+
+H20: 1L
+CO2: ??kg
+W: ??kW
+Fossil: ?7kW
+10g
+
+Ketchup
+
+H20: 1L
+CO2: ??kg
+W: 2?7kW.
+Fossil: ?7kW
+10g
+

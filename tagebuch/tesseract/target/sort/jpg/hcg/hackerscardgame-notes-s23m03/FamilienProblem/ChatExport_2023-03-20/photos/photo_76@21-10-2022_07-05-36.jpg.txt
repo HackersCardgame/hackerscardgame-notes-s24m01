@@ -1,0 +1,47 @@
+National Library of Medicine
+
+PubMed eo»
+
+save || Enal
+
+> Ethics inf Technol. 2018:20(3}:219-232. di: 10,1007/s10676-018-9466-4, Epub 2018 Jul 30,
+
+Brainjacking in deep brain stimulation and autonomy
+
+Jonathan Pugh * 9, Laure Pye
+
+2, anders Sandberg 3, Tipu Aziz, Julian Savulescu
+
+Affiliations + expand
+PMID: 30595661 PMCID: PMIC6290799 DO: 10.1007/s10676-018-9466-4
+Free PMC article
+
+Abstract
+
+;Brainjacking' refers to the exercise of unauthorized control of another's electronic brain implant.
+Whilst the possibilty of hacking a Brain-Computer Interface (BCI) has already been proven in both
+‘experimental and real-life settings, there is reason to believe that it will soon be possible to interfere
+with the software settings of the Implanted Pulse Generators (IPGs) that play a central role in Deep
+Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical concerns pertaining to privacy and
+physical or psychological harm, we claim thatthe possibility of brainjacking DBS raises particularly
+profound concerns about individual autonomy, since the possibilty of hacking such devices raises the
+prospect of third parties exerting influence over the neural circuits underpinning the subjec's
+cognitive, emotional and motivational states. However, although it seems natural to assume that
+brainjacking represents @ profound threat to individual autonomy, we suggest thatthe implications of
+brainjacking for individual autonomy are complicated by the fact that technologies targeted by
+brainjacking often serve to enhance certain aspects of the user's autonomy. The difficulty of
+ascertaining the implications of brainjacking DBS for individual autonomy is exacerbated by the varied
+Lundetstandings of autonomy in the neuroethical and philosophical literature. In this paper, we seek to
+
+send to
+
+€ Title & authors
+
+Abstract
+
+Figures
+
+Similar articles
+
+References
+

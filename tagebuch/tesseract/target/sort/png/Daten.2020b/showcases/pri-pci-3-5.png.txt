@@ -1,0 +1,606 @@
+File View Settings Help
+& Disconnect » + Join
+
+a
+
++ All Chats
+~ asdf
+4@ #lubuntu
++ Hpic30
+iF)
+
+48 #pci30
+
+as
+
+[21:37:28]
+1:37:33]
+[21:37:41]
+(21:37:5:
+[21:38:09]
+[21:38:13]
+
+[21:38:40]
+[21:38:43]
+[21:38:59]
+[21:39:01]
+[21:39:14]
+
+]
+
+[21:40:12]
+[21:40:27]
+[21:41:09]
+
+[21:41:34]
+[21:41:40]
+[21:41:44]
+[21:41:56]
+[21:41:56]
+1:42:04]
+1:42:51]
+1:43:21]
+[21:43:53]
+[21:44:17]
+[21:44:52]
+[21:45:47]
+
+[21:49:12]
+[21:50:52]
+[21:50:58]
+[21:51:22]
+[21:51:23
+
+landev (+Shi) ~
+
+Part
+
+<borls>
+<borls>
+<borls>
+<borls>
+<borls>
+<landev>
+
+<borls>
+<landev>
+<borls>
+<landev>
+<borls>
+<landev>
+<borls>
+<borls>
+<borls>
+<borls>
+<borls>
+<landev>
+
+<borls>
+<borls>
+<landev>
+<landev>
+<borls>
+<landev>
+<landev>
+<borls>
+<borls>
+<borls>
+<borls>
+<landev>
+
+<stalefish>
+
+<borls>
+<borls>
+
+<stalefish>
+
+<stalefish> ?
+
+<borls>
+<landev>
+<landev>
+<borls>
+<borls>
+<borls>
+<borls>
+<landev>
+<landev>
+
+and | wanted to keep it seperate from the real repo where you are working on
+
+so you dont get any file conflicts
+
+or he was touching anything what he shouldnt
+
+just to keep it seperate *
+
+in that repo there is a dir with the cfg files, nothing more
+
+ok, so in this case we have different systems to test, this would really be good if the developer would know about that, because in this case we can have problems because of the
+changes of the code or the different config files in the db
+
+what do you mean?
+
+have you tested the new version from today with the test config files or wiht your private files?
+
+no from the one in the main pri repo
+
+because i can do whatever i want, i can not reporduce the error
+
+onlything what changed in the cfg file was a user password
+
+its running since 10h whitout any error, without any crash
+
+the only thing what different with yours and our server is that we get udp triggers
+
+whats*
+
+so if you would like to receive those as well | need to forward them to your server
+
+maybe it will crash then as well ‘=
+
+because thats the only thing whats different
+
+and i feel bad if it does not work, and even more if i can not reproduce, and if you have some different config files this could explain why i can not reproduce, mine is running since 10h
+and i sent several thousend udps to it, no problem, no crash
+
+you didnt had the tvmaze error yesterday as well *
+
+and | could repoduce it
+
+no, inever had this error
+
+and i also cannot reproduce
+
+| gave you yesterday how you could reproduce it
+
+but this didnt work
+
+the thing i saw i already fixed, that was caused by a bad formulated sql query and this one i fixet today
+
+well all | know is that | dont keep something from you or whatever you just suggested
+
+suggest*
+
+Im trying to test everything and help where ever | can
+
+keeping things from you doesnt make sense
+
+well that you have additional configs really really would be something i need to know, since if try to find the bug and dont know anything about that, how can ifind the bug ifi dont
+even know that they exist?
+
+is the revision# built in by now? so i could tell you what version irun. it just took 1.8sec for a movie and ‘test’ isn't working so i cant ‘call’ the tvmaze error
+stalefish: | didnt restart it on groot | think
+
+just on nebula
+
+ok. any idea why ‘test’ is gone! ‘=
+
+2
+
+probably Im hiding it :) \
+
+boris, still not answered my question
+
+is the database and the system where you test the new code complete identical with my repo or is the database different?
+Irun the same cfg files as in the repo!
+
+already told you ‘>
+
+not the updated ones
+
+only change is a password in a cfg file
+
+ok
+
+so lets scroll back 4h where i suggested to make a teamviewer session on this machine for me to find the bug
+
+| Nicks
+
+~ 2 3Users
+
+borls
+landev
+stalefish
+
+aR,
+
+@ (85) Talk| Harald Lesct
+Cc a
+GitLab
+
+® Projec
+
+B Repository
+
+O) Issues
+
+@ Operations
+
+O wiki
+
+% Ship
+
+« Collapse si
+
+Projects ~
+
+2
+
+x Twitter
+
+Groups ¥
+
+Search with C
+
+Activity
+
+Milestones
+
+x Oru
+
+mp says he stopped x | 9 (87)Quantenmechanik|| x | (87) Chilled: A Liquid Dn x
+
+‘ogle or enter address
+
+Snippets lu
+
+tvma
+
+ERROR
+ERROR
+ERROR
+ERROR
+
+R lookupTum. 2 Se.
+R lookupTum 712 e.
+R lookupTum e.
+
+R checkTunaze -p
+
+do
+
+Opened 1 week ago by #$%$ landev
+
+ze errors -- causes slow down
+
+release
+
+content
+
+tine 2019-0
+
+dupeT ype noDupe
+
+section GAMES . EN. WINDOWS . EXTERNAL
+neral Blacklists : [None, None, None]
+
+parsed u Vuser@5’. fuser@i
+
+all Site: ZP BBR BBR-TBS
+
+sites zP BRW DI
+
+pre 7
+
+skipped
+
+ruser@2’, ’user@3’, ’userB4? 1
+BRW DNS DOM DUN GP HA JC KOH MF MUN
+DOM DUN GP HH KOH MF MWN RATS RFA ZH
+
+BBR BBR-T
+User Blacklist [None, Non
+userd3 IZ GAME
+AME / i GAME
+
+, None]
+ZGAMES-8
+
+ZGAMES-8
+
+190918:
+
+/GAMES-0
+/GAMES-@
+
+be
+be 85525279
+
+be 5928
+
+he " 2 TUMAZE AIR
+
+he 2 2 TUMAZE AIRDATE,
+heck 2 TUMAZE AIRDATE,
+heck 2 TUMAZE AIRDATE,
+check! AIRDATE,
+check!
+
+check!
+checkTunaze
+lookupTum
+lookupTum
+
+>
++
++
++
+>
++
++
++
+
+future
+future
+futui
+future
+Gould
+
+Gould
+
+- Could
+- NO TUMAZ
+- NO 2
+- NO
+- NO
+checkTunaze -p: - NO
+checkTunaze -p: - NO
+checkTunaze pi NO
+
+checkTuna: 5
+checkTunaze -p:
+checkTunaze -p:
+
+ATRDAT
+AIRDATE,
+AIRDATE-
+AIRDATE-
+AIRDATE-
+AIRDATE-
+AIRDATE-
+
+maybe 3
+maybe
+maybe
+maybe
+maybe
+maybe
+maybe
+
+episode future
+episode i future
+episode future
+episode future
+episode future
+episode future
+episode future
+
+Go
+
+Start the udpServer and send a lot of tv releases + random to the server (by udp)
+
+(2) Facebook
+
+Owner
+
+x
+
+Showallactivity » | Create merge request
+
+‘tg tvmaze errors -- cause:
+
+ov
+
+Search or jump to...
+
+x
+
+Todo
+
+Assignee Edit
+kp landev
+
+pg @landev
+
+Milestone Edit
+None
+
+Time tracking C)
+
+o estimate or time 5}
+
+Due date Edit
+None
+Labels Edit
+
+Confidentiality Edit
+on
+
+Lock issue Edit
+6 Unlocked
+
+2 participants
+a
+
+Notifications
+Reference: pri/pri35#15 %
+
+Moveissue
+
+Activities
+
+@) Terminal ~
+
+2019/c
+2019/c
+2019/c
+2019/c
+2019/c
+2019/c
+2019/c
+2019/c
+
+/pri35-betrayd/tests/old/series/tv-bluray,
+
+‘tyv-un:
+‘tyv-un:
+/pri35- tv-un
+/pri35-betra
+/pri3s-
+/pri35-betra
+
+2019/c
+2019/c
+Daten.2019/c
+Daten.2019/c
+2019/c
+2019/c
+2019/c
+Daten.2019/c
+Daten.2019/c
+Daten.2019/c
+Daten.2019/c
+
+/pri3s-
+/pri35-betra
+
+nt 119,819,574 byte:
+otal is 155,555,
+
+marc@debian: ~/pri35/pci/server
+
+File Edit arch Terminal Help
+
+python3 pirssit
+~/pri35/pci/server$
+
+ster.py $i
+iin $(cat /
+
+NIT TEST s_ FOR PIRSSITESTER:
+
+UNIT TEST s_ FOR PIRSSITESTE
+
+UNIT TEST s_ FOR PIRSSITESTE
+
+UNIT TEST s_ FOR PIRSSITESTER:
+
+stoppe python3 pirssit:
+
+~/pri35/pci/server$ ff
+
+1t
+
+Fri21:55¢
+
+stTvBr.sh
+
+‘tv-bluray/tv.br. 1080. output
+
+mment
+
+sh
+‘TvwebOutput. sh
+
+python
+
+Dom
+
+>
+>
+>
+>
+>
+>
+
+content
+tim
+
+dup
+dupe
+
+FRENCH. HDTV
+
+>s
+
+tion
+
+nw_us . EXTERNAL
+
+Doom
+
+info titl
+info premiere
+
+nnel
+Blacklists
+
+EXTERNAL
+info titl
+info premiere
+inf re
+info
+
+inf
+
+inf
+
+info
+
+inf
+
+ro5',
+t
+DVN EF EPH EXN G4Y
+
+‘watchdog
+
+\+==[ PHASE. rELEASE. iNTERFACE] +
+Marvels .Runaways .SO2E05 . FRENCH. HDTV. x2
+Marvels . Runaway:
+2019-06-21 21:54:01
+
+yu
+releaseDupe
+
+2019-06-17 16:42:29 Marvels.Runaways.SO
+
+TV.x264.HDTV.SD.FR.Drama-Action-Science-Fiction.Scri
+Marvel's Runawa!
+2017-11-21
+2018-12-21
+
+Running
+
+20172)
+
+Script
+Hulu
+
+[None, None, Noni
+[‘user-template’
+
+TE77
+
+Marvel's Runaways 20172)
+
+2017-11-21
+
+Fiction
+
+rol',
+
+BOOM BRW CAVE CP CW DNS
+
+GP HH JB KOH MF SITEL TPB ZH
+
+brw ef
+
+brw ef
+
+a5a azp bae ban bbr bbr-tbs b
+mf tpb
+
+m cave cp cw

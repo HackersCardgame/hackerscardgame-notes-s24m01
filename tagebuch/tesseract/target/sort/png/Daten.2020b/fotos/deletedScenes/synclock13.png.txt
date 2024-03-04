@@ -1,0 +1,12 @@
+[x[audior v] 1.0
+Mono, 44100H2 1
+32-bit float 0.05
+
+ol-10
+
+[xawo2 +] Lo
+Mono, 44100H2
+32-bit float 0.0-
+
+O}-1.0
+

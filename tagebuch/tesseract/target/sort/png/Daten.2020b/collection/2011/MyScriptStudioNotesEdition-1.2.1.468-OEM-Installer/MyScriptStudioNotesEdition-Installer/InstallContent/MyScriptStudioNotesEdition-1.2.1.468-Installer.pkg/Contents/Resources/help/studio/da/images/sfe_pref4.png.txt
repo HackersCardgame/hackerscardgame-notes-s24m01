@@ -1,0 +1,2 @@
+Offer the tutorial video at application startup.
+

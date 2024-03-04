@@ -1,0 +1,17 @@
+ MySerpt nthe
+
+MyScript InkRetriever
+Tnfo | Instlingen voor het ophalen | Apparaatinstlingen
+
+LInktopslaginstelingen
+Kies de opslagmap van het inktbestand:
+
+(C:\Users\adrienne Documents MyScript Documents notes ink Devices
+
+Geavanceerde instelingen
+‘Bestanden wissen van het apparaatna het downloaden
+-Bestaande bestanden met dezelfde naam overschrijven
+[EI USB-apparaat scannen
+
+‘Automatisch starten bij opstarten Window's
+

@@ -1,0 +1,11 @@
+‘Auto Duck
+
+‘Auto Duck by Markus Meyer
+
+Duckamount: “12 dB ‘Maximum pause: 1 seconds
+
+Outer fade down length: 0.5 seconds Outer fade up length: 0.5 seconds
+
+Inner fade down length: 0 seconds Inner fade up length: 0 seconds
+Threshold: 30 dB
+

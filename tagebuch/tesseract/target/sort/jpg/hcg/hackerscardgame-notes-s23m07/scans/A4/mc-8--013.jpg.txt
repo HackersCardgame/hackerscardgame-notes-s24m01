@@ -1,0 +1,71 @@
+1 of 7
+
+| Undeliverable: EXIT
+
+Subject: Undeliverable: EXIT. |
+From: <postmaster@ksa.ch
+Date: 12/7/22, 17:45 |
+To: <mail@marclandolt.ch>
+Return-Path: <> |
+Delivered-To: mail@marclan| olt.ch)
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.213]) by
+popimap018.mail.hostpoint.| ternal with LMTP id IL/EMxbDkGOPjgAAQBAvQA:P1
+(envelope-from <>) for <mail marclandolt.ch>; Wed, 07 Dec 2022 17:45:10 +0100
+Received: from mxin013.mail,hostpoint.ch ([10.4.2.213]) by mail-
+
+P id It EMxbDkGOPjgAAQBAvQA (envelope-from <>) for
+<mail@marclandolt.ch>; Wed, 07 Dec 2022 17:45:10 +0100
+
+Received: from Mabe | i m.com ([138.188.176.135]
+
+¥ind13.mail.hostpoint.ch with esmtps (TLS1.2) tls
+TLS_ECDHE_RSA_WITH_AES 256.G M_SHA384 (Exim 4.95 (FreeBSD)) id 1p2xxXi-
+000OkV-OD for mail@marclandolt. h; Wed, 07 Dec 2022 17:45:10 +0100
+
+ed, 7 Dec 2022 17:45:10 +0100
+DKIM-Signature: v=1; a= a-sha256; c=relaxed/relaxed; d=ksa.ch; s=doris;
+t=1670431510; bh=X9hOg Bvajsi jujIDNiLQPRtk73letyzPlAv9aP8L4=;
+
+b=ONzCt330GYH7}d3i}qxVJDBIBEt 3u9EJudjZd7bEKqVnnnbRTGQslvK6]QLVr6 7F
+Ax +I/E8vLSAKpLgnYPPRUZMbMps dov4WKz+k3r9VGT/PIFMS/ht8ZQQRsog2N Lit
+nWTOIYONLIC29hxgODIfsORPT6LW zy2kKb8bn3XLgdp5 LilLgnwAkaQd9RsDBPJmx
+x3G+RIf6lCusVJQzbCmS3rALZ6K6 3VhvjhM9EF RAljf7 p62AUSORPKZIFZZIH1qQa
+YDmg/q2ig1QhDIzU47aeQNgegih WHOKDx6TIIZ23MYNQX9MXM1LZ/oXgf9toxnbCEC
+RFvKingGTAT+w== I)
+
+DKIM-Signature: v=1; a=rsa-sh 256; c=relaxed/relaxed; d=ksa.ch; s=doris;
+t=1670431509; bh=X9hOgS8vaJS PJujIDniLQPRtk73letyzPlAv9aP8L4=;
+h=From:To:Date:|n-Reply-To:Refer nces:Subject;
+
+b=EfuDINHHbZrOjMMIOW8hSU/dh DV +t3tX5w39ZZdw/obo9FhLGm/Hz8xsfcQbxFL +
+FAOzmpbFLGtYLZtMW1N7dJUEdg GzMwTjW-+b9cEmiq6dX03c+2Qs875zeBldlc58aM
+/kU/areHYh4HBRKYIhp10JZE zZLfy\ dnRGOx1elx7 Qzv8rqPBvCROhrjhECOzrLoct
+hee | i 6tv6AHI84COBkfrN7 DLuiboF EFF X8uNQIskrL
+QsRhqOxzV1kOKZDLzdf2eDnVAdl xqU4geosfl DEfLhnnEtFUzktSFYMUKQbQKZ2nD
+KOeKSHANOFGMW== |
+
+MIME-Version: 1.0 | |
+Content-Type: multipart/report, eport-type=delivery-status, boundary="6f32fc4a-
+
+Message-ID: <11355c63-9382- 643-8893-22e7e1f845f5@sc005568.ksaintra.ch>
+1 20-f3be-9cb7b76656f1@marclandolt.ch>
+References: <b85c9c8daald4b : s8bdead6cet721342@infsge1303.health.root.loc>
+<c0885969-77d6-d2aa-e3f9-58d £8e3a286@marclandolt.ch>
+
+«186440 3daf4Bbeb6462eef1823230b@infsge1303.health.root.loc= <770f1916-
+c2d2-7fb6-d8a3-a87e83026046
+f3be-9cb7b76656f1@marclandolt.ch>
+Auto-Submitted: auto-replied
+X-SM-outgoing: yes iH}
+X-SM-smarthost: 138.188.176.113
+X-Whitelisted-By: white.mail.abusix.dnslist
+XVs-State: BOUNCE
+
+X-Hostpoint-Spambox: NO
+
+|
+
+|
+| | I 12/7/22, 17::
+
+ok eee bee rt

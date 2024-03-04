@@ -1,0 +1,101 @@
+Visualization Functions
+
+Function Name
+
+rxHistogram
+
+rxLinePlot
+
+rxLorenz
+
+rxRocCurve
+
+6
+6
+
+Description
+
+Creates a histogram from data.
+
+Creates a line plot from data.
+
+Computes a Lorenz curve which can be plotted
+
+Computes and plots ROC curves from actual and predicted data,
+
+Analysis Functions for Descriptive Statistics and Cross-Tabulations
+
+Function Name
+
+rxQuantile
+
+rxSummary
+
+rxCrossTabs
+
+rxCube
+
+ryxMarainals
+
+Description
+
+sorting.
+
+by group computations to xdf fle not supported
+
+Formula-based cross-tabulation of data.
+
+69/90/96
+
+supported.
+
+Marninal eummaries of croce-tahilatiane.
+
+Help
+
+See package
+
+See package
+
+See package
+
+See package
+
+Computes approximate quantiles for xf files and data frames without
+
+Basic summary statistics of data, including computations by group. Writing
+
+Alternative formula-based cross-tabulation designed for efficient
+representation returning ‘cube’ results, Writing output to xdf file not
+
+Help
+
+See
+package
+See
+package
+
+See
+
+package
+
+See
+
+package
+
+<< Share
+
+IN THIS ARTICLE
+Data Analysis Functions
+Compute Context Functions
+Data Source Functions
+
+HPC and Distributed Computing
+Functions
+
+Utility Functions
+
+See All Functions and Help
+Files
+
+|s this page helpful?

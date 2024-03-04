@@ -1,0 +1,9 @@
+Using Cached Configuration
+
+Nagios Process
+
+Configuration Logic
+4
+
+Object Precache Fie
+

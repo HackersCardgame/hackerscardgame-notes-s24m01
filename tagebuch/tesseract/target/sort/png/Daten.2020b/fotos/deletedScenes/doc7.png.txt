@@ -1,0 +1,21 @@
+Quick Tabular 2
+
+Ic Ic I Ir]
+1 center center left right
+2 span
+3 aa bb cc dd
+Num of Columns 4 Num of Rows 3
+Columns Rows
+Column: (4 > row:(3 >
+Alignment Right SBepWacer
+J Merge columns:(1  $)->(2 ©
+Left Border: | v
+—— Apply to all rows
+Apply to all columns a
+|Y Bottom Border (last row)
+Right Border (last column) - || v
+
+__) Add vertical margin for each row
+
+A OK | @ Cancel
+

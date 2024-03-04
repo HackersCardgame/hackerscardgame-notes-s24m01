@@ -1,0 +1,29 @@
+[MSSQL Management Studio
+
+Es gibt allerdings auch Szenarien, in denen man der Administratoren-Gruppe absichtlich die sa
+Rechte vorher entzogen hat (Best Security Practice). Hier wird es etwas schwieriger, aber nicht
+unméglich.
+
+Alsallererstes startet man eine Eingabeaufforderung mit Administratorrechten. Dann muss man
+den MSSQL Server im Single-User Mode starten. Das lasst sich mittels des folgenden Kommandos
+bewerkstelligen: NET START MSSQLSINSTANZNAME /m (den Dienst naturlich zuvor erst einmal
+beenden). Zu guter Letzt hilft das Kommando sqlemd (bzw. osql), welches sich standardma®ig im
+Verzeichnis C:\Program Files\Microsoft SQL Server\100\Tools\Binn befindet.
+
+sqlomd -E -S SERVER\INSTANZNAME -Q “ALTER LOGIN sa ENABLE”
+Reaktiviert den deaktivierten Account.
+
+sqlomd -E -S SERVER\INSTANZNAME -Q “ALTER LOGIN sa WITH PASSWORD = ‘newPassword’
+UNLOCK”
+Entsperrt ihn und weist ein neues Passwort 2u.
+
+sqlomd -E -S SERVER\INSTANZNAME -Q “ALTER LOGIN sa WITH CHECK_POLICY = OFF”
+Erméglicht es, die Password Policy fur den Account sa fur immer ausschalten, damit man sich 2.8.
+selbst nicht aus Versehen irgendwann mal wieder aussperrt...
+
+Der Switch -€ baut eine vertrauenswiirtige Verbindung auf. Man kann sqlcmd auch ohne -Q:starten
+und einzelne SQL Befehle von Hand in die Konsole eintippen. Man darf dann nur nicht das GO in
+der letzten Zeile vergessen, damit die Befehle auch tatsachlich ausgefihrt werden.
+
+Sollte es dberhaupt keinen sysadmin-fahigen User mehr geben, wiinsche ich ggf. viel Spa mit
+einer (Re-) Installation der SQL-Serverinstanz..

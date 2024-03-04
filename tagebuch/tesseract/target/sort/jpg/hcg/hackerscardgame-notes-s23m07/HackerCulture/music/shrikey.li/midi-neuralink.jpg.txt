@@ -1,0 +1,55 @@
+electro-music. com iiieciiaiie  r
+
+Gax Or
+
+iccom/forum/post-451709.htm|
+
+Front Page | Radio | Media | Forum | Wi
+
+rag Blcalendar Gisearch [Memberlist [)Usergroups [I Links
+
+Wregister |&) profile Log in to check your private messages [|Login [J Chat Room
+
+4 Live at electro-music.com radio 1"#e vist the chet
+
+host / artist show at your time
+today> Muied Lumens Frequencies 11:00 PM [ 23:00 ]
+
+Forum index » DIY Hardware and Software » Microcontrollers and Programmable Logic
+
+Brain chip midi controller
+
+Moderators: State Machine View new posts in the last week
+Page 1 of 1 [6 Posts] Mark the topic unread :: View previous topic :: View next topic
+
+View unread posts
+
+Elflimo
+
+Joined: Apr 25,
+2022
+
+Posts: 2
+
+Location: Tarragona
+
+Back to top
+
+Ti bosted: Mon Apr 25820221222 aril Post cubject: @l) Bramichup radicontroler (Bansie) ®
+
+Since Elon Musk said his neuralink coud stream music directly into your brain, I thought;
+
+Why not the oppositte? Stream music from your brain nto a midi controller?
+
+My idea is to use 16 binary outputs from the chip input to trigger the 16 channels. Additionally you'd use 16 + other 16 analog outputs to send information about the note (12 range parts) and
+the octave (10 range parts)
+
+I know this is possible because of this video: https://www.youtube.com/watch?v=qSKBtEBRWi4
+
+What are your thoughts? What software/hardware woud you need to transform the brain signal to a midi signal?
+
+A new era of electronic music production is ahead of us, and it would a good thing to develop this idea in the mean time.
+Last edited by Elfimo on Mon Apr 25, 2022 2:45 pm; edited 1 time in total
+
+(Brotie) SF pu)
+

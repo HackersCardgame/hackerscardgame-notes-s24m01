@@ -1,0 +1,159 @@
+Activities
+
+erminal +
+
+File Edit View Search Terminal Help
+
+Comedy
+9398398
+ndara ane ga
+
+Adult
+tt9399102
+nd of Shark
+
+tt9399400
+n da Pausoa
+Documentary
+tt9399560
+
+Action
+9399830
+
+Short, Sport
+9399878
+
+Music, Short
+tt9402448
+e Your Voice
+
+tt9402906
+
+Music, Short
+tt9403402
+Gun
+
+Action
+
+Action, Short
+
+video
+
+kita! Kekka,
+
+video
+
+movie
+
+movie
+
+video
+
+video
+
+video
+
+Deriheru
+o-ten ni
+
+A Biting
+
+Adventure, Documentary, Short
+
+Wed 01:53
+
+marc@debian: ~/Daten.2019/code/pri35/pci
+
+naisho de naka dashi honban sekkusu suru koto ni naru 11
+
+Kind of Shark
+
+Muga deitzen da Pausoa
+
+Withdrawal
+
+Charlotte vs. Paige - Divas Title Match
+
+s. Paige - Divas Title Match
+
+Jon Langston: When It Comes to Loving You
+
+n: When It Comes to Loving You
+
+Leviton
+
+‘Use Your Voice with Decora Smart’ Commercial
+
+with Decora Smart' Commercial
+
+video
+
+& Jonita Gandhi: OMG Ponnu
+
+movie
+
+Sid Sriram & Jonita Gandhi: OMG Ponnu
+
+Boy with
+
+a Gun
+
+yondara ane ga kita! Kekka, o-ten ni naisho de naka dashi honban sekkusu suru koto ni naru 11
+
+1
+
+2017
+
+1987
+
+2018
+
+2014
+
+2018
+
+2018
+
+2018
+
+113
+
+17
+
+79
+
+aM Or
+
+Deriheru yo
+
+A Biting Ki
+
+Muga deitze
+
+Withdrawal
+
+Charlotte v
+
+Jon Langsto
+
+Leviton 'Us
+
+Sid Sriram
+
+Boy with a
+
+63604 rows in set (0.238 sec)
+
+MariaDB [pci]> select count(*) from basics where primaryTitle like "%it%";
+
+$---------- +
+| count(*) |
+$---------- +
+| 63604 |
+$---------- +
+
+1 row in set
+
+(0.210 sec)
+
+MariaDB [pci]>

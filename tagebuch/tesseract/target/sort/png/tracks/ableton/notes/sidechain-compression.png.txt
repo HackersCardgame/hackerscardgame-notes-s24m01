@@ -1,0 +1,10 @@
+SIDECHAIN COMPRESSION
+
+When using Ableton’s Compressors, you can click on the
+arrow in the top left to open up the sidechain menu.
+
+You can enable the EQ section which causes the
+Compressor to be triggered by a specific band of
+frequencies instead of the complete signal.
+
+PausePlayRepeat.com

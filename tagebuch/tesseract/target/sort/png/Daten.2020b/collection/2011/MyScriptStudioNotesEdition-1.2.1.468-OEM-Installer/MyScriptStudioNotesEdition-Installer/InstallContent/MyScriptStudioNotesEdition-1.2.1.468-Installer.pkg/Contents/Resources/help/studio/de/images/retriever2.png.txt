@@ -1,0 +1,20 @@
+& Mécriptinkericverr ye
+
+MyScript InkRetriever
+
+Uber | Abrufeinstelungen
+
+‘Tintenspeichereinstelungen
+
+Speicherordher fir Tintendatel auswahien:
+
+(C:\Users ladrienne\Documents MyScrint Documents notes\ink Devices
+
+Erweiterte Einstellungen
+Dateien nach dem Herunterladen auf dem Gerat léschen
+\Vorhandene Dateien mit dentischem Namen Uberschreiben
+
+Jedes USB-Gerat durchsuchen
+
+‘Automatisch beim Start von Windows starten
+

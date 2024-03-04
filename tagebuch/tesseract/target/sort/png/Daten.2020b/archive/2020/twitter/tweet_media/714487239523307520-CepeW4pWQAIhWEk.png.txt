@@ -1,0 +1,40 @@
+sudo debugfs -R "stat /home/marc/folder" /dev/sdal
+
+Inode: 12936545 Type: directory Node: 0755 Flags: 0x80000
+Generation: 3974960819 Version: 0x00000000:00000002
+1000 Group: 1000 Size: 4096
+© Directory ACL: 0
+2 Blockcount: 8
+Address: 8 Nuaber: @ Size: 0
+
+(0x56 957a3:79267¢28 -- Mon Mar 28 18:11:15 2016
+(0x56 95561:2c2b5080 -- Mon Har 28 37 2016
+(0x56 957a3:79267¢28 -- Mon Har 28 45 2016
+
++ 0x5692143: 134bB6cc -- Mon Mar 26 14:19:15 2016
+
+Size of extra inode fields: 32
+EXTENTS:
+
+(0):51397594
+
+Leno)
+
+sudo debugfs -R "stat /home/marc/folder/file.txt" /dev/sdal
+
+Inode: 12917223 Type: regular Mode: 0644 Flags: 6x80000
+Generation: 3974967807 Version: 0x00000000:00000001
+User: 1000 Group: 1000 Size: 9110
+File ACL: © Directory ACL: ©
+Links: 1 Blockcount: 24
+Address: 0 Nun
+
+(0x56957a3:79267¢28,
+(0x56 957a3:764a0b54
+10x56 957a3: 78325690,
+70x36 95703: 76aa0b54
+
+Thode Fields?
+
+Mar~28-18:11'15 2016)
+

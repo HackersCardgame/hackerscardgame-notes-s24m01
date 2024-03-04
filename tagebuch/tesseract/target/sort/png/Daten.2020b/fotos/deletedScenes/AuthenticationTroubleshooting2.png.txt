@@ -1,0 +1,27 @@
+Add Task Repos
+
+Bugalla Repository Settings a
+
+Example: hitpsfougs.ecipse orgibugs (do not include
+indexeg)
+
+Server:
+
+Labet C+;
+‘Anonymous Access
+
+User ® ]
+Password Cc +4
+
+220
+
+Repository Version:
+Character Encoding: © Defaut (UTF-8)
+Other: Bios F
+
+= Hp Authentication,
+Enabled
+
+~ Proxy Server Configuration
+% Use InstllUpdate setings (default)
+

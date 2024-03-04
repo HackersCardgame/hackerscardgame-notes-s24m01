@@ -1,0 +1,14 @@
+4.0
+
+3.0
+
+2.0
+
+Total
+
+0 im
+
+Sun ton Tue Wed Thu Fri Sat Sun
+
+Max Hosts: 10 Average Hosts:0.0 Curent Hosts:0.0
+‘Max Services: 10 Average Services: 1.0 Current Services: 1.0

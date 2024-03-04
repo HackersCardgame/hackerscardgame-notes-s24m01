@@ -1,0 +1,10 @@
+Transient Shaping with
+Beats Mode
+
+When playing with loops inside Ableton Live, try playing with Beats
+mode. When Beats mode is selected, change the Transient Looping mode to
+Off (->|), and adjust the amount to taste. Lowering the amount will give you
+
+more of the initial transient, giving you a tighter feel.
+
+PausePlayRepeat.com

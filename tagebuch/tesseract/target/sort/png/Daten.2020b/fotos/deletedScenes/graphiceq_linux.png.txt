@@ -1,0 +1,24 @@
+a Equalization x
+
+Equalization, by Martyn Shaw & Mitch Golden
+
+20 dB
+
+10 de
+
+AP ee
+10 de
+20 dB
+
+20H2 'S0H2 100Hz 200Hz 400Hz 1000Hz 3000 Hz 10000 Hz
+
+O Draw curves © Graphic EQ B-spline | > Length of filter: 7p 402
+
+o
+
+Select curve: custom
+
+Save As. | Delete | Flat
+
+Preview OQ cance Sox
+

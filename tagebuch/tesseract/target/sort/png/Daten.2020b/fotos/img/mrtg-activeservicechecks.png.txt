@@ -1,0 +1,8 @@
+96.0
+| ne
+£ a0
+© 24.0
+oe 4 6 8 10 12 44 16 18 20 22 0 2 4 6 8 10
+Mex 930 Avange 720 Comat 60
+
+Max On-Demand Checks:00 Average On-Demand Checks:00 Current On-Demand Checks: 0.0

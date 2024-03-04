@@ -1,0 +1,14 @@
+my (@w) = split( "-", $last_rel );
+my $c = Q@w;
+my $vgrp = $wl $c - 1];
+print "\e[1;30m - >\e[0;". $e . "m>\e[1;"_. $c . "m>\e[0;37m Adding \e[1;37m$vgrp \e[0;37mvirtually into\e[1;37m GAMs-GROUPS\e[Om\n";
+print " - >>> Adding $vgrp virtually into GAME-GROUPS\n" if $CONFIG{COLOR} eq 0;
+for my $n ( keys “rules ) {
+if ( $rules{$n}{name} =~ /(CLONE\.*|GAMES)/ ) {
+$rent = $rules{$n}{rent};
+for my $m ( keys %{ $rules{$n}{rules}{$rent} } ) {
+if ( $rules{$n}{rules}{$rent}{$m} =~ /\(\?\<\=\-\)/ ) {
+if ( substr( $rules{$n}{rules}{$rent}{$m}, -1) eq ")" ) {
+chop $rules{$n}{rules}{$rent}{$m};
+$rules{$n}{rules}{$rent}{$m} .= "| (?<=-)$vgrp\$)";
+

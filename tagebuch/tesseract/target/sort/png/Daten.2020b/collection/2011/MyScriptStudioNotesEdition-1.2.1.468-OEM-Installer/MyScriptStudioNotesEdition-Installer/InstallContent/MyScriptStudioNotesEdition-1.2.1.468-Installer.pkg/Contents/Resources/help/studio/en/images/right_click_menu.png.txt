@@ -1,0 +1,7 @@
+Remove all tags
+Remove current tag
+
+[@ Rename document
+Exclude from my notes...
+[i Delete files from disk...
+

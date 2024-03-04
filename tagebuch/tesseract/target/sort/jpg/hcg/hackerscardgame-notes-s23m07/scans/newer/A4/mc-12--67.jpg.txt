@@ -1,0 +1,77 @@
+[Case-Nr: 32557667] Hostpoint Support Ticket - Fetteinlagerung im Hinter [...]
+
+Betreff: [Case-Nr.: 32557667] Hostpoint Support Ticket - Fetteinlagerung im Hinter [...]
+
+Von: Hostpoint Support <support@hostpoint.ch>
+
+Datum: 23.06.2023, 02:36
+
+An: "Marc jr. Landolt" <mail@marclandolt.ch>
+
+Return-Path: <>
+
+Delivered-To: mail@marclandolt.ch
+
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.216]) by popimap018.mail. hostpoint.internal with
+LMTP id QCQOODHpIGTTHQEASBAVQA:P 1 (envelope-from <>) for <mail@marclandolt.ch>; Fri, 23 Jun
+2023 02:37:05 +0200
+
+Received: from mxin016.mail.hostpoint.ch ([10.4.2.216]) by mail-lb1.adm.hostpoint.ch with LMTP id
+QC9OODHpIGTTHQEAQBAVOA (envelope-from <>) for <mail@marclandolt.ch>; Fri, 23 Jun 2023
+02:37:05 +0200
+
+Received: from mail.adm.hostpoint.ch ([2a00:d70:0:a::e0]) by mxin016.mail.hostpoint.ch with esmtps
+(TLS1.3) tls TLS_AES_256_GCM_SHA384 (Exim 4.95 (FreeBSD)) id 1qCUnR-O000sE-Sb for
+mail@marclandolt.ch; Fri, 23 Jun 2023 02:37:05 +0200
+
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch; s=20221128-
+ticket-rsa-1024; h=In-Reply-To:Date:Subject: Message-ID:To:From:MIME-Version:Content-Transfer-
+Encoding:Content-Type:From: Sender:Reply-To:Subject:Date:Message-ID:To:Cc;
+bh=my/QkCcgmTMhW5sgvyhQn3w2nJRxcoP7DQCgUeg5QXwe; t=1687480625; x=1688344625;
+b=Ex2JQFFSA161In3F+2jh4c1A0f9LvjSTOT/g6/mgUn/QMKjYtOr/dfDCCieOlwYmgwOaUSjOCHRF
+KJrLO/bqWGrDg5b9Ad0jm5zk1lykLt+9sPtiinzr+rCvpPiV9DOVA9AO8bjfyNv6CZoFrdFg+iWuD
+TBqwvd7F5T/69EY/nJg=;
+
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch; s=20221128-
+ticket-rsa; h=In-Reply-To:Date:Subject: Message-ID: To:From:MIME-Version:Content-Transfer-
+Encoding:Content-Type:From:Sender: Reply-To:Subject:Date:Message-ID:To:Cc;
+bh=my/QkCcgmTMhW5sgvyhQn3w2nJRxcoP7 DQCgUeg5QXwe; t=1687480625; x=1688344625;
+b=Feo9Zoige/eQ1dTx2zCOlhzM2LaR30Qgo TASrGo9QEBlys3oll3yBMLY5pQ75AmnyYZidMr6RPx9
+km+smluD3gXxh6ZFwKWo/HO09jD7FIJSFOMkOKttCPiurbWAkz7d1Jvx48xNTfpEWgeRfcbWpzkucr
+XMyMxUKePrWd0FqrQrat+dNv234yFLZVLivwLZGhDSFzPz58Ug80Te9XyY17 7lohQrKhPRs5+y2/EU
+XZ/UGMnsaHmLTWOnV3S30J7OnrhAmFkKNPdOMbaxXWvntbr7 GGEwpfp6ICCMCEkY10kmoLq1czanGd6
+SHBfG8U+PTDDHc8qlOTwZREAalpgP20Qg68w==;
+
+DKIM-Signature: v=1; a=ed25519-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch; s=20221128-
+ticket-ed25519; h=In-Reply-To:Date:Subject: Message-ID:To:From:MIME-Version:Content-Transfer-
+Encoding:Content-Type:From: Sender:Reply-To:Subject: Date: Message-ID:To:Cc;
+bh=my/QkCcgmTMhW5sgvyhQn3w2nJRxcoP7 DQCgUeg5QxXw=; t=1687480625; x=1688344625;
+b=mjxmsFpYkxdrXPr592p8AcKAQqj4PwsDTbDfpg2Qy8pJId96qaAMSK3XE/RydA3Q3ASo4|kVeM8
+aVYCFU8izDQ==
+
+Received: from otrs3 by mail.adm.hostpoint.ch with local (Exim 4.95 (FreeBSD)) id 1qCUnR-000096-
+PF for mail@marclandolt.ch; Fri, 23 Jun 2023 02:37:05 +0200
+
+Content-Type: text/plain; charset="utf-8"
+
+Content-Disposition: inline
+
+Content-Transfer-Encoding: quoted-printable
+
+MIME-Version: 1.0
+
+Organisation: Hostpoint AG
+
+Auto-Submitted: auto-generated
+
+X-Loop: yes
+
+Nachricht-ID: <1687480603.690080.893095254 @ticket.hostpoint.ch>
+
+Precedence: bulk
+
+In-Reply-To: <7fe39192-577a-cccc-53e6-820216187c78@marclandolt.ch>
+
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+
+1 von 3 23.06.2023, 02:43

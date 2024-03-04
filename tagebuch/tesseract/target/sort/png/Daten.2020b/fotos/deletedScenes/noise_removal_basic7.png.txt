@@ -1,0 +1,18 @@
+Noise Removal [=<]
+Note Removal by Dominic Mazon
+step
+
+Selecta few seconds of just noise so Audacity knows what to fiter out,
+then dick Get Noise Profle:
+
+‘Get Noise Profile
+
+Step 2
+
+Select all ofthe audio you want filtered, choose how much noise you want
+filtered out, and then cick OK’ to remove noise.
+
+‘Noise reduction (26): 24 Q
+Frequency smoothing (Hz): 150 0)
+Attack/decay time (secs): 0.15 0
+

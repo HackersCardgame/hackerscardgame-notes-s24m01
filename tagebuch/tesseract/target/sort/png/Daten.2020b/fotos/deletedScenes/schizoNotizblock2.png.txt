@@ -1,0 +1,16 @@
+schizo Notizpapier
+
+Fragmentpersonlichkeit A
+
+Fragmentpersonlichkeit B
+
+BELLCOLOR 7
+
+Erweiterungsblock
+
+Fragmentpersonlichkeit C
+
+Fragmentpersonlichkeit D
+
+BELLCOLOR 7
+

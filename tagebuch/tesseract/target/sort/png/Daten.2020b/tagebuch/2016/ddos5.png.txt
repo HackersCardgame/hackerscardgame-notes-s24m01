@@ -1,0 +1,15 @@
+Local node: 192,168,179,3-b: Traffic on interface eth1 (6h)
+
+as bps
+
+so Mbps
+
+Sbps
+
+obps
+SEGSEEP8ERPSEFP22R22 R228 =
+
+last min ag max]
+coming traffic on interface tht fave] 4.07Mbps 1017 Kbps 434Mbps 13.2)
+WOutgoingtratic on interface ethi [avg] 426Mbps 40.1 Kbps 441 MEps 13.29 M)
+

@@ -1,0 +1,21 @@
+Es gibt also insgesamt 4 mdgliche Rochadeztige: Kurze Rochade - Konigsfliigel: 0-0
+
+e Ke1—c1 und Ta1—d1 (lange weif$e Rochade)
+e Ke1—g1 und Th1i-f1 (kurze weif$e Rochade)
+e Ke8—c8 und Ta8—d8 (lange schwarze Rochade)
+e Ke8—g8 und Th8-f8 (kurze schwarze Rochade)
+
+Eine Rochade kann nur dann ausgefuhrt werden, wenn
+
+1. der K6nig noch nicht gezogen wurde,
+
+2. der beteiligte Turm noch nicht gezogen wurde,
+
+a b cadet gih
+
+3. zwischen dem KG6nig und dem beteiligten Turm keine andere Figur steht, -
+Lange Rochade - Damenflligel: 0-0-0
+
+4. der Konig Uber kein Feld ziehen muss, das durch eine feindliche Figur bedroht wird,
+
+5. der K6nig vor und nach Ausftihrung der Rochade nicht im Schach steht.

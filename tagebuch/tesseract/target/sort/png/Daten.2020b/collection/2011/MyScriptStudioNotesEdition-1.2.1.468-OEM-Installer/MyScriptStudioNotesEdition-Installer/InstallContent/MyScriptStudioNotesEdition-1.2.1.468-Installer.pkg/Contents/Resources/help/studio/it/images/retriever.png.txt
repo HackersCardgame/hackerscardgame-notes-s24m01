@@ -1,0 +1,15 @@
+MyScript InkRetriever
+
+Info su | Impostazionidirecupero_|_Impostazioni dispositive
+
+MyScrintInkRetriever ti aiuta a trasferire decumenti dai tuoi dspositiv i scrttura USB al tuo computer.
+Fai cic sul pulsante Successivo per avviare la configurazione.
+
+\erifica felenco di ispositivi compatibil
+
+"Non mostrare questa pagina al prossimo avvio (Successive >>]
+
+Copyright Vision Objects 2003-2010 wu. visionebiects.com
+
+=z
+

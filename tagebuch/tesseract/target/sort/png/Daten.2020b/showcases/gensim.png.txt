@@ -1,0 +1,32 @@
+marc@debian:~/Daten.2019/code/deepLearning$ python suchen.py --bin data/forum4.txt.bin --positive gott
+data/forum4.txt.bin
+/usr/local/lib/python2. 7/dist-packages/gensim/matutils.py:737: FutureWarning: Conversion of the second argument of issubdtype fro
+m ‘int’ to ‘np.signedinteger’ is deprecated. In future, it will be treated as ‘np.int64 == np.dtype(int).type”
+if np.issubdtype(vec.dtype, np.int):
+
+) schizos
+Jesus
+Ischizophrenie
+lengel
+
+hilfe
+
+welt
+Ichristus
+wolf
+‘Imenschen
+Iron
+
+Ischluss
+geist
+
+Inamen
+
+himmel
+lantwort
+
+‘mann
+
+doris
+krankheit
+

@@ -1,0 +1,7 @@
+88.0
+
+i 22.0
+oe 6 8 10 12 14 46 18 20 22 0 2 4 6 8 10 12 44
+Mu Hows 440 Avetge Hosts 420” Coe Hons 20
+
+Max Services: 850 Average Services:60.0 Current Services: 530

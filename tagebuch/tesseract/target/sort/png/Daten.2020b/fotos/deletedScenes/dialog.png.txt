@@ -1,0 +1,34 @@
+sustomize Perspective — Java
+Shorteuts |Conmands
+
+Select the shortouts that you want to see added as cascade itens to the following submenus. The
+selections made will only affect the current perspective (Teva)
+
+Submenus Shorteuts:
+
+New Y Shorteut Description
+AIW2 Class Disgran
+FF mz Sequence Diagran
+
+Shortect Eategrter
+Hove
+ElechinseDetabese
+Electineedodcing Frame
+Eletepend degree
+Esti Diagres
+CET etal Cree
+Flecensies
+Bloeneral,
+ts Elreghica toasting Fl
+Citeewte
+oui
+(Jere Ra Debus
+Eine
+[Jere Ba ter Tenplates
+Hodeing
+
+[Plug-in Development
+sw
+
+@
+

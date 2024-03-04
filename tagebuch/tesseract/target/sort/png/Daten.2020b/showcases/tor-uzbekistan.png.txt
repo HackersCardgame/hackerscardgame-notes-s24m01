@@ -1,0 +1,20 @@
+Tor Network Settings
+
+(Tor is censored in my country
+
+Select a built-in bridge ®
+
+®)Request a bridge from torproject.org
+
+Request a Bridge...
+
+Provide a bridge | know
+
+(Cluse a proxy to connect to the Internet ®
+
+For assistance, visit torproject.org/about/contact.htmi#support
+
+Quit Back
+
+Connect
+

@@ -1,0 +1,6 @@
+Content type
+Text
+Shape
+
+Freeform drawing
+

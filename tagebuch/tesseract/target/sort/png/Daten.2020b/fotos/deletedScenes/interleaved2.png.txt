@@ -1,0 +1,123 @@
+ee
+
+mG Me mi
+‘verane Processrtoad lll 02-01-2001 22.00:05
+Dive C:five Space PENDING | WA
+Paged Memonse PENDING NA
+Physical MemorUse PENDING | WA
+
+eine (GE 02-01-2001 22.808
+
+PING PENDING!) wa
+
+Physical Memon Use PENDING N/A
+PENDING) NA
+
+aged Memon Use
+Dive C:fie aca SKE 0.042001 22:26:05
+fvetane Procassortoad PENDING) | NA
+
+BING PENDING!) A
+PENDING) NA
+
+Freer ifareeey
+Paged Memowtse GK 00-2001 22:26:05
+PENDING | wa
+
+Drive C: Free Space
+‘Average Processor Load PENDING WA
+
+PING PENDING!) wa
+
+(GUI 02-01-2001 22:28:00
+
+Physical Memony Use
+Paged Memon Use PENDING) | NA
+Diive C:Free Space PENDING NIA
+‘Averane Processor Load PENDING |) NA
+
+ee
+040 4m 2
+(040n 3m 58st
+040h am s8st
+(040 3m 58st
+00h 4m 2s
+
+040h am s6st
+040h am s8st
+(040h 3m 58st
+00h 4m 2s
+
+(040 3m 58st
+
+04Gh am 56st
+(040 3m 58st
+00h 4m 2s
+
+(040 3m Sas
+040h am 56st
+
+04 oh am sas
+40h 4m 4
+
+040m Sas
+40h am 56st
+(040 am Sas
+
+18
+08
+08
+08
+48
+
+08
+08
+08
+48
+08
+
+08
+08
+48
+oe
+08
+
+08
+48
+oe
+08
+08
+
+Lead ole 4-min avg=9.8%, 6-min avg=14.2%, 1S-min avg=14.0%
+Service check scheduled for Wed Aug 1 22:96:04 2001
+Service check scheduled for Wed Aug 1 22:98:49 2004
+Service check scheduled for Wed Aug 1:22:97:21 2004
+6, RTA
+
+PING ok: Packet lose
+
+20 ms
+
+Service check scheduled for Wed Aug 1 22:96:06 2004
+Service check scheduled for Wed Aug 1 22:98:45 2004
+Service check scheduled for Wed Aug 1 22:97:29 2004
+Disk space ok- 2358 MB (78%) of 2096 MB used
+
+Service check scheduled for Wed Aug 1 22:96:08 2004
+
+Senvive check scheduled for Wed Aug 1 22:98:47 2004
+Service check scheduled for Wed Aug 1 22:97:25 2001
+Paged memory ok- 534.4 MB (66%) of 042 MB used
+Service check scheduled for Wed Aug 1 22:96:10 2004
+Service check scheduled for Wed Aug 1 22:98:49 2004
+
+Serie check scheduled for Wed Aug 1 22:97:27 2004
+Physical memory ok- 360.6 MB G86) of 611.4 MB used
+Service check scheduled for Wed Aug 1 22:96:12 2004
+Service check scheduled for Wed Aug 1 22:98:21 2004
+Service check scheduled for Wed Aug 1 22:97:20 2004
+
+Since the service checks are interleaved,
+the load imposed on remote servers by the
+checks at any alven time are somewhat
+balanced,

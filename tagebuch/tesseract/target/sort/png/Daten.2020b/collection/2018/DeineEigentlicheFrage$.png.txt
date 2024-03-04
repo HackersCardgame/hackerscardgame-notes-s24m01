@@ -1,0 +1,16 @@
+my $test = <<"END_TXt";
+DOX DIVX.RET
+XXXXXX
+
+PS3. XBOX360
+END_TXt
+
+print ($test) ;
+my $test2 = <<'END Text’;
+DOX DIVX.RET
+XXXXXX
+XXX
+ASDFASDFASDFASDFSYQ)
+END_TeXt
+
+print ($test2);

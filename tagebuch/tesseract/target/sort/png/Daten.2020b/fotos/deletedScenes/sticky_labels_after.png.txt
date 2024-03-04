@@ -1,0 +1,11 @@
+[Audio 1
+Mono, 44100H2
+22-bit foat
+
+X[audo2
+Mone, 44100H2
+s2-b fst
+
+[Labelib |!
+Labelib le
+

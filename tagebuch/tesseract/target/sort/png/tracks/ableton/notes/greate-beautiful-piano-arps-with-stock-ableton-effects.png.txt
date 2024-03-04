@@ -1,0 +1,13 @@
+CREATE BEAUTIFUL PIANO ARPS
+
+First Start by loading your favorite piano sound followed
+by Ableton’s Arpeggiator located under MIDI effects.
+Increase the rate and steps.
+
+Next add Note Length, also located under MIDI effects.
+Increase the length and gate.
+
+Finally, load up Velocity under MIDI effects.
+Decrease the Drive and Out Hi, Increase Out Low and Random.
+
+PausePlayRepeat.com

@@ -1,0 +1,87 @@
+https://0x8.ch/chess,js/ - Mozilla Firefox x
+
+< eto | Face | HI Hori: | a RAM | @ BBC Sch | ¥ (*)T | Schedul | D Vigor | €) Live- | Twits | MW doci | Schedul | @ Maki | Ven | bie Hach | [B] Such | 4 Nol | cfg/o | & Find) | Marc | HE) Hori: | Chess / | https x | >+v
+4/7 ¢ @ | View-source:https://0x8.ch/chess.js/ - © vy) LJINOoOoO =
+<html>
+<head>
+
+neta charset="UTF-8">
+<title>chess / Schach</title>
+
+<script sre="_/GUIfunctions. js" charset="UTF-8"></script>
+
+<script sre="./importExport.js" charset="UTF-8"></script>
+<script sre="./undo. js" charset="UTF-8"></script>
+
+<script sre="./timer.js" charset
+
+UTF-8"></script>
+
+<script sre="_/move. js" charset="UTF-8"></script>
+<script sre="_/minimax. js" charset="UTF-8"></script>
+<script _/chessRules.js" charset="UTF-8"></script>
+<script _/parallel.js” charset="UTF-8"></script>
+
+<script sre="_/modal. js" charset="UTF-8"></script>
+
+<script sre="./minimax.naster.js" charset
+
+<script sre="_/alphabetaWithMemory. js" charset="UTF-8"></script>
+<script sre="_/node. js" charset="UTF-8"></script>
+
+"UTF-8"></script>
+
+<!--<script src="./minimax.worker. js" charset="UTF-8"></script>-->
+
+<script src="./alphabeta. js" charset="UTF-8"></script>-->
+<link rel="stylesheet" href="_/css/style.css">
+<link rel="stylesheet" href="_/css/modal.css">
+
+</head>
+
+<body style="font-family:Consolas Monaco, Lucida Console, Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono, Courier New, monospace; ">
+
+<div>
+<!--<hl>Schach mit Mini-Max Algorithmus<br> (bzw. Alpha-Beta Algorithmus)<br></hI>-->
+<button style='width:300;' readonly>Select Recursions:</button><input ide"depth" style="width: 100; background-color: lightblue' value="5"></input><br>
+<button style='width:200;' readonly>Select Algi:</button><select style='width:200;background-color:lightblue’ id="algorithn">
+
+<option value="ninimax">Minimax</option>
+
+<option value="alphabeta">Alpha-Beta</option>
+
+<option value="negascout" selected>negaScout</option>
+
+<option value="alphabetamomiry" >Alpha-Beta with menory</option>
+
+<option value="ntdf"omtdf (not working yet)</option>
+</select><br>
+<button style='width:200;' readonly>calc.Moves:</button><input id=" instances" style='width:200;background-color: tomato’ readonly></input><br><br>
+
+<button id="Losthhite" class="lost" style='width:490; '></button><br>
+<button class="Legend"></button><button class="Legend">1</button><button class="Legend">2</button><button class="Legend">3</button><button clas:
+
+"Legend">4</button><button class="Legend">5</button><button class=" Legend">6</button><button class="Legend">7</button><bu
+
+<button "Legend">A</button>cbutton id=f00>x</button>cbutton id=f01>a</button>cbutton id=f02>4</button>cbutton id=f03>x</button>cbutton id=f04>v</button>cbutton id=f05>4</button>cbutton id=f06>a</button>cbutton id=f07>x</button>cbutton class="Legend">A</button>
+<button "Legend">B</button>cbutton id=f10>a</button>cbutton id=fll>a</button>cbutton id=f12>a</button>cbutton id=f13>a</button>cbutton id=f14>a</button>cbutton id=f15>a</button>cbutton id=f16>a</button>cbutton id=f17>a</button>cbutton class="Legend">B</button>
+<button "Legend">C</button>cbutton id=f20></button>cbutton id=f21></button>cbutton id=f22></button>cbutton id=f23></button>cbutton id=f24></button>cbutton id=f25></button>cbutton id=f26></button>cbutton id=f27></button>cbutton class="Legend">C</button>cbr>
+<button "Legend">D</button>cbutton id=f30></button>cbutton id=f31></button>cbutton id=f32></button>cbutton id=f33></button>cbutton id=f34></button>cbutton id=f35></button>cbutton id=f36></button>cbutton id=f37></button>cbutton class="Legend">D</button>cbr>
+<button "Legend">E</button>cbutton id=f40></button>cbutton id=f41></button>cbutton id=f42></button>cbutton id=f43></button>cbutton id=f44></button>cbutton id=f45></button>cbutton id=f46></button>cbutton id=f47></button>cbutton class="Legend">E</button>cbr>
+<button "Legend">F</button>cbutton id=f50></button>cbutton id=f51></button>cbutton id=f52></button>cbutton id=f53></button>cbutton id=f54></button>cbutton id=f55></button>cbutton id=f56></button>cbutton id=f57></button>cbutton class="Legend">F</button><br>
+<button "Legend">G</button>cbutton id=f60>s</button>cbutton id=f61>s</button>cbutton id=f62>a</button>cbutton id=f63>s</button>cbutton id=f64>s</button>cbutton id=T65>s</button>cbutton id=f66>s</button>cbutton id=f67>s</button>cbutton class=" Legend">G</button>,
+<button "Legend">H</button>cbutton id=f70>u</button>cbutton id=f71>/</button>cbutton id=t72>1</button>cbutton id=t73>x</button>cbutton id=f74>0</button>cbutton id=t75>x</button>cbutton id=t76>'</button>cbutton id=t77>u</button><button class="Legend">H</button>
+
+<button class="Legend"></button><button class="Legend">1</button><button class="Legend">2</button><button class=" Legend">3</button><button clas:
+<button id="LostBlack" class="lost" style='width:490; '></button><br><br>
+<div>
+
+"legend">4</button><button clas:
+
+"Legend">5</button><button class="Legend">6</button><button class=" Legend">7</button><bu'
+
+The Modal Dialogbox selecting pawn replacement -->
+<div id="select" class="nodal">
+
+<div class="nodalcontent">
+

@@ -1,0 +1,28 @@
+Audacity Preferences
+
+eves
+eyo
+Recording
+Quality
+
+Tracks
+‘Import / Export
+Projects
+Libraries
+‘Spectrograms
+Directories
+‘Warnings
+Effects
+
+Display
+rgonomic order of audio 1/0 buttons
+‘Show How to get Help' message at program start up
+
+‘Meter Waveform dB range: |-60 dB (PCM range of 10 bit samples) 3
+
+Closing last window guits Audacity
+[F1geep on completion of longer activities
+
+Modes
+[Ficleanspeech Mode (Customized GUI)
+

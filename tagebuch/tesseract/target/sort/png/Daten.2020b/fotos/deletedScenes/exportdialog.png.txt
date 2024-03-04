@@ -1,0 +1,9 @@
+Savein: Desktop
+
+‘Other uncompressed fies
+AIFF (Apple) signed 16 bit PCM
+WAV (Wicrosoft signed 16 bit PCM
+
+[AMIR (narow band) Fies (FFmpeg)
+‘WMA (version 2) Fles (FFmpeg)
+(Custom FFmpeg Export

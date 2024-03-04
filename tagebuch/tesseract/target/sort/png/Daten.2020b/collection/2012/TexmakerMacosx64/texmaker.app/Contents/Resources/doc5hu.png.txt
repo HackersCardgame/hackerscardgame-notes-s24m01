@@ -1,0 +1,12 @@
+‘Szerkezet
+
+v- (>) foo.tex
++ LABELS
+egy cimke
+BLOCKS
+¥-[P) elsé rész
+¥-(S) elsé fejezet
+egy alfejezet
+(S| egy mask fejezet
+
+BSG e/\m

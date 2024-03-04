@@ -1,0 +1,40 @@
+System Panel Anschluss (20-3-polig PANEL)
+Dieser Anschluss unterstiitzt mehrere am Gehause befestigte Funktionen.
+
+2
+mh
+3
+2
+=
+3
+ral
+=
+Z
+8
+a
+g
+x
+a
+3
+
+z lo
+tig ZEssa
+aa 3
+Gago 23333
+aaao 2G G BE [CHASSIS
+
+. Gece eE
+tausot 4 a
+ae 4
+gu36-a 4 &
+Basan
+gage 2 ¢ LU
+ao/2 |
+Tr
+|
+
+|HDD_LED]} RESET |] PLED|
+
+STRIX Z270E GAMING System panel connector
+
+power

@@ -1,0 +1,26 @@
+Recording
+Quality
+Interface
+Tracks
+‘Import / Export
+Projects
+Libraries
+‘Spectrograms
+Directories
+‘Warnings
+Effects
+Keyboard
+‘Mouse
+
+Effects Preview
+
+Length of previen: 3 seconds
+
+cutPreview
+Preview before cutregion: 1
+Preview after cut region: 1
+Seek Tme when playing
+
+‘Shortperd: 1 seconds
+Long period: 15 seconds
+

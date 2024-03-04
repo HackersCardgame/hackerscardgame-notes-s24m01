@@ -1,0 +1,17 @@
+B conver
+
+(B Gestisci etichette
+Rimuovi tutte le etichette
+Rimuovietichetta corrente
+
+| [@ Rinomina documento
+Escludi dalle note personal.
+[i Elimina file dal disco...
+
+@ Export.
+Salva come...
+
+& Stampa.
+
+[Nuovo documento
+

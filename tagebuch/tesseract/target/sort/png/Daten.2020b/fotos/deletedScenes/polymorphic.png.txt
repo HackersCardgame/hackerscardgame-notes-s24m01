@@ -1,0 +1,31 @@
+Model: Employee
+has many cts, 8 =>
+
+_
+
+Model: Picture
+belongs. to images, lymorphic => rue
+
+[aT reser}
+
+imageable id
+repoane-yee [sero |
+
+Model: Product
+[= [ror
+
+class Picture < ActiveRecord: :Base
+belongs_to :imageable, :polymorphic => true
+end
+
+class Employee < ActiveRecord
+has_many :pictures, :as
+end
+
+ase
+:imageable
+
+class Product < ActiveRecord
+has_many :pictures, :as =>
+end
+

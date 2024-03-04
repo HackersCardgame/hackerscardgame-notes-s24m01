@@ -1,0 +1,12 @@
+& wie nite i
+MyScript InkRetriever
+aaa orienta axon
+
+‘Configuracdes de armazenamento de arquivo
+
+Prefixo do nome de arquivo: |MobilePen
+
+COrientacSo de unidade de base
+
+[Descarregar tinta
+

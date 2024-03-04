@@ -1,0 +1,62 @@
+Activities Terminal + Wed 02:04 aw” Or
+marc@debian: ~/Daten.2019/code/pri35/pci x
+
+File Edit View Search Terminal Help
+
+| tt9187352 | movie | 4uU | 4uU | 9 | | | | Horror
+
+| tt9191438 | movie | 27 | 27 | 9 | | | | Musical
+
+| tt9192986 | movie | 11 | 11 | 9 | 2019 | | | Documentary
+
+| tt9285064 | movie | 4H | 4H | 0 | 2019 | | | Thriller |
+
+| tt9293690 | movie | Ma | Ma | 9 | 2018 | | 72 | Drama, Horror
+
+| tt9321978 | video | 14 | 14 | 9 | 2018 | | 4 | Drama,Music, Short
+
+| tt9340886 | movie | GB | GB | 9 | | | | Drama
+
+bona ane fo ---------- os fone e eee eee --------- $--------- fo ---------- $--------- eo fon ne 2-222 ee eee eee eee eee ee +
+
+410 rows in set (0.129 sec)
+
+MariaDB [pci]> select * from basics where primaryTitle like "%PX'
+
+tconst titleType | primaryTitle originalTitle isAdult | startYear | endYear | runtimeMinu
+tes | genres
+- === +
+
+tt0087867 | movie PX PX ic) 1982 90
+Drama
+
+tt8457912 | video ScpX-263 ScpX-263 1 2018 132
+Adult
+
+tt8805476 | video ScpX-288 ScpX-288 1 2018 268
+Adult
+
+tt8811758 | video Twenty One Pilots: TOPxMM (the MUTEMATH sessions) Twenty One Pilots: TOPxMM (the MUTEMATH sessions) ic} 2016 26
+Documentary ,Music, Short
+
+tt8825158 | video ScpX-264 ScpX-264 1 2018 185
+Adult
+
+tt8831010 | video ScpX-095 ScpX-095 1 2016 184
+Adult
+
+tt9126110 | video MxPx: Responsibility MxPx: Responsibility (0) 2000
+Music, Short
+
+tt9155272 | video ScPx-014 ScPx-014 1 2015 220
+Adult
+
+tt9202552 | movie MxPx - Both Ends Burning MxPx - Both Ends Burning (0) 2011 76
+Documentary
+
+tt9386302 | video ScpX-321 ScpX-321 1 2018 259
+Adult
+
+10 rows in set (0.193 sec)
+
+MariaDB [pci]> J

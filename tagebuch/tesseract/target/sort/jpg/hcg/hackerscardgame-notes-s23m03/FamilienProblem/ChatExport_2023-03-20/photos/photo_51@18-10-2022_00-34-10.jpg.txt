@@ -1,0 +1,25 @@
+@ | Nautral Language
+x Processing
+
+US PUILIVUT Oe voucuw IysIvos vel
+wissen nichts. Wir registrieren,
+berechnen und Ziehen unsere
+olge!
+
+https://Ox8.ch/HackersCardgame_2.0
+Natural Language Processing analysiert mit
+Vektoren bzw. mit Linearer Algebra welche
+Worter nahe beieinander sind. Wer das mal
+mit seinen Tagebiichern ausprobieren méchte
+und sich mit Programmieren auskennt
+empfehle ich mal mit GENSIM bisschen zu
+probieren.
+
+Fur die Anderen, dieser Talk erklart das
+relativ gut:
+
+https://media.ccc.de/v/30C3_- _5377_- de -
+_saal_6_-_ 201312271245 _-
+
+_uberwachen_und_sprache_ -_josch
+

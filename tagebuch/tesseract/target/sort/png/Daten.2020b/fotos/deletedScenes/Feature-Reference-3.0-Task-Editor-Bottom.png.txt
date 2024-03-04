@@ -1,0 +1,27 @@
+G. Bug 18 Product Development ® @ @ 3|Q| ©
+
+¥ Description @
+The label needs to move to the left rather than the top of the input box.
+
+> Duplicate Detection
+
+= Comments ()
+fb 1: David Shepherd, Jan 29, 2009 12:08 AM
+fb 2:Tom, Jan 29, 2009 12:11 AM
+fh 3:Tom, Jan 29, 2009 12:12 AM
+
+= @ 4: David Shepherd, Jan 29, 2009 1:36PM?
+Thanks Tom! I've updated the button UI and it looks great.
+
+New Comment
+
+~ Actions + People
+@ Leave as NEW Assigned to: David Shepherd <david.shepherd@te
+(© Accept (change status to ASSIGNED) Reporter, Tom <tormtasktop@gmail.com>
+OResolveas [Complete ~ QA Contact
+
+© Duplicate of Add CC:
+
+© Reassign to
+(© Reassign to default assignee
+

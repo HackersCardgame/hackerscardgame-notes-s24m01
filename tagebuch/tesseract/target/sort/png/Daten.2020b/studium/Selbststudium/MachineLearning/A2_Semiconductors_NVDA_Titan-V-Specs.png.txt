@@ -1,0 +1,14 @@
+NVIDIA's Titan Series Product
+Specifications
+
+Titan X Titan X Titan V
+
+Maxwell Pascal Volta
+CUDA Cores 3,072 3,584 5,120
+Tensor Cores 0 0 640
+Memory 7GB 10GB 12GB
+TeraFLOPS (FP32) 7 12 110
+Price $999 $1,299 $3,000
+
+Market Realist
+

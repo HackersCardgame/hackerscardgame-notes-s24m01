@@ -1,0 +1,23 @@
+JIOS
+9984
+9985
+9986
+9987
+9988
+9989
+9990
+9991
+9992
+9993
+9994
+9995,
+9996
+9997
+9998
+9999
+10000
+
+real OmO.041s
+user Om0.028s
+sys Qm0.008s
+narc@debian:~$ time for i in $(seq 1 10000); do echo $i; done

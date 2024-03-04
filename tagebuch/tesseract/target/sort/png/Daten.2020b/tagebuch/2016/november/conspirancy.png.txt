@@ -1,0 +1,30 @@
+Fri 18:50
+J Miitary-bac
+
+CULTURE CARS REVIEWS LONGFORM VIDEO MORE
+
+pnovoceapay \\
+
+Military-backed surveillance prototype can read
+people's actions on video
+
+by Adi Robertson | @thedextriarchy |
+
+fnan= -
+
+PERSON1 DRAG
+
+om
+
+NOW TRENDING TRENDING
+
+AGENT Pl: AGENT Pa: AGENT Pa
+MANIPULATION BEND-OVER: CHANGE-POSTURE DRAG: MANIPULATION stor:
+PATIENT Bag. PATIENT
+
+start-frame, end-frame, agent, object, verb, probability, importance, observed
+
+390, 740, PERSON1, met rer 1,000, 1, 1
+
+2, 1133, PERSON1, BAG2, “HAUL”, 0.966, 4,0
+

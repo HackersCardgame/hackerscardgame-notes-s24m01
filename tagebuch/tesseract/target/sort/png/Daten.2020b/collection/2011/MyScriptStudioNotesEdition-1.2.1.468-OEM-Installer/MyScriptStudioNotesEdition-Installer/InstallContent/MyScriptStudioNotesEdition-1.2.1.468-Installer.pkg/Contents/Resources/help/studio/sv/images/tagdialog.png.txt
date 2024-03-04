@@ -1,0 +1,5 @@
+Hantera
+
+For att tldela tagger til de aktuelt valda objekten, anvandikryssningsrutora bredvid
+varje toga.
+

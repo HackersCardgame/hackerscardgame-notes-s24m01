@@ -1,0 +1,57 @@
+TRE RENN GHIE: BALL
+
+Delivery has failed to these recipients or groups:
+
+Claudine.blum@ksa.ch (claudine:blum@ksa.ch)
+Your message couldn't be delivered because you don't have permission to send to this
+recipient. Ask the recipient's email admin to grant you permission and then try again.
+
+Diagnostic information for administrators:
+Generating server: Sc005568.ksaintra.ch
+
+Claudine.blum@ksa.ch
+Remote Server returned '550 5.7.129 RESOLVER.RST. RestrictedToRecipientsPermission:
+not authorized to send to recipient because the sender isn't on the recipient's list of
+senders to accept mail from! .
+
+Original message headers: ?
+
+Received: from $¢005568.ksaintra.ch (10.137.241.38) by $C005568.ksaintra.ch
+(10.137.241.38) with Microsoft SMTP Server (version=TLS1 2,
+sopnersTLS ECDHE RSA WITH AES 128 CBC SHA256 P256) id 15.1.2507.16; Wed, 7
+Dec 2022 17:45:08 +0100 y
+Received: from mail.swisscom.com (138.188.176.137) by sc005568.ksaintra.ch
+(10.137.241.38) with Microsoft SMTP Server (version=TLS1 2,
+
+for <claudine.blum@ksa. ch>; Wed, 7 Dec 2022 17:45:08 +0100
+Authentication-Results: itoper. local;
+
+Received: from mxout014.mail.hostpoint.ch (mxout014.mail.hostpoint.ch [217.26.49.174])
+by sgQ07452.sharedit.ch with ESMTP id 3m7wgukr4y-1
+(version=TLSv1, 2 cipher=ECDHE -RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+
+(envelope- from <mail@marclandolt.ch>).
+id 1p2xXf - QOOApN-KG; See
+Wed, ‘07 Dec 2022 17:45:07 +0100 1 :
+
+Received: from mob - 194-230-160-192.cgf\. sunrise. net ([194.230.160.192] helo=[192.168.11.171])
+by asmtp014.mail.hostpoint.ch,with esmtpsa (TLS1.3) tls TLS_AES 256 GCM SHA384
+(Exim 4.95 (FreeBSD) ) 7
+
+j (envelope- from <mail@marclandalt.ch>)
+
+id 1p2xXf-OOONLF-5b; ve
+Wed, 07 Dec 2022 17:45:07 +0100
+
+X-Authenticated-Sender-Id: mail@marclandolt.ch :
+
+Content-Type: ‘multipart/mixed;
+boundary="---......... 06SJLKNpsOObLM410ghtCba4" ;
+
+Message-ID: <9a01C336 -Sbda-12e0- f3be-9cb7b76656f1@marclandolt . ch
+
+Date: Wed, 7 Dec 2022 17:45:06 +0100
+
+MIME-Version: 1.0
+
+12/7/22, 17:54

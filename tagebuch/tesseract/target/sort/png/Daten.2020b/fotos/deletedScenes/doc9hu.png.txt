@@ -1,0 +1,10 @@
+Valasszon egy képfajlt
+
+Fajl |home/foo/foo.eps
+
+“figure” kémyezet hasznélata
+
+Felirat_ [ez egy felirat \Felil_v)
+
+Elhelyezés hbtp )
+

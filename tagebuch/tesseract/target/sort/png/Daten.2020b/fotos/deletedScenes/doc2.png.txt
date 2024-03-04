@@ -1,0 +1,34 @@
+Document Class
+
+Other Options
+
+Typeface Size
+Paper Size
+Encoding
+‘Author
+
+Title
+
+__) babel Package
+
+_) geometry Package
+v) AMS Packages
+
+Quick Start do ©
++
+Tandscape A
+draft
+final a 4d
+oneside
+1opt v
+adpaper ae
+latin +
+english
+farsi
+finnish —
+fran
+
+‘cm right=2cm top=2cm bottom
+_) makeidx Package _| graphicx Package
+OK | @ Cancel
+

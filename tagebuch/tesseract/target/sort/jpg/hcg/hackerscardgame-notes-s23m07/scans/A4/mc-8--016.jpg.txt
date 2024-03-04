@@ -1,0 +1,59 @@
+oe RO MANAAY VLAN. DAIL ’
+
+Authentication-Results: itoper.local:; spf=pass smtp.mailfrom=mail@marclandolt.ch:
+dmarc=none
+
+(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT) for:
+<claudine.blum@ksa.ch>; Wed, 07 Dec 2022 17:45:08 +0100
+
+Received: from [10.0.2.44] (helo=asmtp014. mail.hostpoint.ch) by
+mxout014.mail.hostpoint.ch with esmtps (TLS1.3) tls TLS_AES_256 GCM SHA384
+(Exim 4.95 (FreeBSD)) (envelope-from <mail@marclandolt.ch>) id 1p2xXf-OOOApN-KG;
+Wed, 07 Dec 2022 17:45:07 +0100
+
+Received: from mob-194-230-160-192.cgn.sunrise.net ([194.230.160.192]
+helo=[192.168.11.171]) by asmtp014.mail.hostpoint.ch with esmtpsa (TLS1.3) tls
+TLS_AES_256_GCM_SHA384 (Exim 4.95 (FreeBSD)) (envelope-from
+<mail@marclandolt.ch>) id 1p2xXf-OOONLF-5b: Wed, 07 Dec 2022 17:45:07 +0100
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+
+Content-Type: multipart/mixed: boundary="----------.- 06S)IkNpsOObLM410ghtCbd4"
+Message-ID: <9a01¢336-5bda-12e0-f3be-9cb7b76656f1@marclandolt chs
+MIME-Version: 1.0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+Thunderbird/102,3.3
+
+References: Teng codaald4beaBbdeadécef721342 @infsge1303,health.root loc
+$60885969-77d6-d2aa-e3f9-58dbf8e3a286@marclandolt cho
+
+Sp 86440 3daf48beb6462eef1823230b@infsge1 303, health root loce <770f1916-
+C2d2-7fb6-d8a3-a87e83026d46@marclandolt.ch=
+
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+In-Reply-To: <770f1916-c2d2-7fb6-d8a3-a87e83026d46@marclandolt.ch>
+X-Proofpoint-ORIG-GUID: rhYPZsYSlajcKYEa-W5yX1aGK2wm4z26
+X-Proofpoint-GUID: rhYPZsYSlajcKYEa-W5yX1laGK2wm4726
+
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.545,18.0.923
+definitions=2022-12-07_08:2022-12-07,2022-12.07 signatures=0
+
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 adultscore=0
+mlxlogscore=999 suspectscore=0 malwarescore=0 phishscore=0 bulkscore=0
+mlxscore=0 spamscore=0 Classifier=spam adjust=0 reason=mIx scancount=1
+engine=8.12.0-2210170000 definitions=main-2212070145
+
+Hallo Claudine
+
+Mir ist jetzt auch klar weshalb Du, Urs, Brandli mir den Alkaida Terroristen angehangt habt, bzw.
+war Exekutive ja der Polizist Michael Ritter. Mit meiner Verhaftung erhilet der CIA Zugriff auf
+mich denn die Amerikaner haben schon um 2005 eine Abmachung mit den meisten Landern gemacht dass
+sie Zugriff auf alle Haftlinge bekommen.
+
+Urs Blum sein Aufenthalt in USA war kein ComputerKurs, das war ein NSA/CIA Briefing fur
+Wirtschaftsspionage durch die USA in der Schweiz.
+
+Dann diese Suizid Trigger die Du mir ankonditioniert hast wurden immer dann aktiviert, wenn Urs
+Blum und Gabriel Riela von der Ziirich Versicherung aufgeflogen waren.
+
+of7 | 12/7/22, 17:54

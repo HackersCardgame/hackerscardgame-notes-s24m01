@@ -1,0 +1,22 @@
+T=remote_smtp_dane H=pukzh2.cleanmail.ch [195.141.89.98]
+X=TLS1.3:TLS_AES 256 GCM _SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 4Qkf185zjbzlq6nH" QT=3@s
+
+2023-@6-18T19:19:18.232+02:0@ mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:18 1qAw35-@@@JUH-Kp -> info-ts@pukzh.ch R=smtp_router
+T=remote_smtp_dane H=pukzh2.cleanmail.ch [195.141.89.98]
+X=TLS1.3:TLS AES 256 GCM _SHA384:256 CV=yes K C="25@ 2.0.@ Ok: 2164854 bytes
+queued as 4Qkf185zjbzlq6nH" QT=30s
+
+2023-06-18T19:19:19.899+02:0@ mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:19 1qgAw35-Q@@JUH-Kp => praxis@hochstrasser-recht.ch
+R=smtp_router T=remote_smtp_dane H=mx.netzone.ch [212.243.197.35]
+X=TLS1.3:TLS AES 256 GCM SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 5883B16250" QT=32s
+
+Die Mail konnte nicht an endo@uk-bonn.de zugestellt werden.
+
+2023-06-18T23:59:25.672+02:00 mxout@17.mail.hostpoint.ch exim-mxout[4625]:
+2023-06-18 23:59:25 1qAw35-@@@JUH-Kp == endo@uk-bonn.de R=smtp_router
+T=remote_smtp_dane defer (-54): retry time not reached for any host for
+"uk-bonn.de'

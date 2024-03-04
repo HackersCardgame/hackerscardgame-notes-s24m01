@@ -1,0 +1,31 @@
+Servers
+Java EE Servers
+& Tomcat 55
+
+Add Server.
+
+Server Name: Tomcat 5.5
+
+Server Type Tomcat 55
+
+Connection [Startup | Platform |“ Deployment | Classes
+
+Sources
+
+Javadoc
+
+Catalina Home, /usr/share/tomcat5.5
+Catalina Base: /var/lib/tomcat5.5
+
+Credentials of an existing user in the "manager" role
+Username manager
+
+Password: show,
+
+Server Port: 8180}
+Shutdown Port: 008}
+
+(Enable HTTP Monitor
+
+Note: Changes will take affect the next time you start the server
+

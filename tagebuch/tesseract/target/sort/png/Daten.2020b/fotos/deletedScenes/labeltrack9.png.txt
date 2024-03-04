@@ -1,0 +1,18 @@
+°
+
+[lintewiew ~~] 10
+Mono, 44100H2
+
+32-bit float
+
+| Mute | Solo
+
+1.0
+
+|
+[ellabel Track ¥]
+
+‘Question 7
+
+“Answer 1
+

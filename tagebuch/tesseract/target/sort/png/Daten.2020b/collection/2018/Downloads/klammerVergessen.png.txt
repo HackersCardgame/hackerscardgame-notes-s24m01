@@ -1,0 +1,17 @@
+e rule K-1
+jc rule UFC
+> rule K-1
+> rule UFC
+143¢143
+
+tv.x264
+tv.x264
+
+tv.x264
+tv.x264
+
+“K-1[._] $WWE-GROUPS !1080p
+“UFC[._] $WWE-GROUPS !Countdown !Preliminary !DVDRip !1080p
+
+“K-1[._ $WWE-GROUPS !1080p
+“UFC[._ $WWE-GROUPS !Countdown !Preliminary !DVDRip !1080p

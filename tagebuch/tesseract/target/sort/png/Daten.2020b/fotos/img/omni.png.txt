@@ -1,0 +1,11 @@
+Allow Flash
+Allow This Session
+
+Whitelist This Website
+
+Resources Panel
+
+Disable FlashControl
+
+Preferences
+

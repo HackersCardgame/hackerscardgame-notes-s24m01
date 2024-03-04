@@ -1,0 +1,8 @@
+20
+_ 3.
+£ a0
+* 43.0
+oe 4 6 8 10 12 44 16 18 20 22 0 2 4 6 8 10
+Mex 500 Average 40 Comet so
+
+‘Max On-Demand Checks: 45.0 Average On-Demand Checks: 10.0 Current On-Demand Checks: 10.0

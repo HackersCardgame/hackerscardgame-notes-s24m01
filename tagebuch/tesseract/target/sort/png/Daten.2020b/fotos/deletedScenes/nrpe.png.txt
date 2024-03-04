@@ -1,0 +1,10 @@
+Nagios
+
+eheck_dik | —>
+
+check load | —»
+
+Monitoring Host
+
+Remote Linux/Unix Host
+

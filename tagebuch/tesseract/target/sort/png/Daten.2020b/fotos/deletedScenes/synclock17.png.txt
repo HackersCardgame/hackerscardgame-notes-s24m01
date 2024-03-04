@@ -1,0 +1,16 @@
+[x/Audiol [1.0
+‘Mono, 44100H2 1}
+16-bit PCM OG
+
+|-1.07
+
+[xauio2 +] 10
+Mono, 44100%2
+16-bit PCM
+
+©] -1.0)
+[luster Track ¥] I
+O|
+
+Label 1 J Two
+

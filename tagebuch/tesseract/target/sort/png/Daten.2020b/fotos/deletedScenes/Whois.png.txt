@@ -1,0 +1,62 @@
+This is the RIPE Database query service.
+The objects are in RPSL format.
+
+‘The RIPE Database is subject to Terms and Conditions.
+See http://www. ripe. net/db/support/db-terms-conditions. pdf
+
+er0nre
+
+Note: this output has been filtered.
+
+To receive output for a database update, use the "
+
+flag.
+% Information related to '91.198.12.0 - 91.198.12.255'
+
+91.198.12.0 - 91.198.12.255.
+PRIMEVISION-NET
+Prime Vision AG
+cH
+
+‘ORG-PVA4-RIPE
+PVAR1-RIPE
+PVAR1-RIPE
+ASSIGNED PI
+RIPE-NCC-END-HNT
+MNT-PRIMEVISION
+RIPE-NCC-END-HNT
+MNT-PRIMEVISION
+MNT-PRIMEVISION
+source: RIPE # Filtered
+
+organisation: — ORG-PVA4-RIPE
+
+org-name Prime Vision AG
+OTHER
+
+CH-4863 Aarburg
+
+MNT-PRIMEVISION
+
+MNT-PRIMEVISION
+
+RIPE # Filtered
+
+Prime Vision AG Role Account
+CH-4663 Aarburg
+
+DL3126-RIPE
+
+DL3126-RIPE
+
+PVAR1-RIPE
+
+RIPE # Filtered
+
+91.198.12..0/24
+Prime Vision AG
+AS13030
+MNT-INIT7-NOC
+RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.38 (WHOIS4)

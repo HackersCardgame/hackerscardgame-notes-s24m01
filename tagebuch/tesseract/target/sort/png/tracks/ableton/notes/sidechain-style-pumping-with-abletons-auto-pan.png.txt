@@ -1,0 +1,19 @@
+SIDECHAIN STYLE PUMPING
+WITH ABLETON’S AUTO PAN
+
+‘CO Auto Pan
+
+Gi
+
+[Hz |
+
+Start by loading Ableton’s Auto Pan located under audio effects.
+
+Set the Phase to 0
+Set the Shape to Saw
+Sync the Rate to 1/4 notes (or any other division)
+Enable Invert
+Adjust the Amount control
+Use the Shape control to adjust the severity of the effect
+
+PausePlayRepeat.com

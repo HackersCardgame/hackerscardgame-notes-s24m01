@@ -1,0 +1,14 @@
+9g \section{elso fejezet}
+
+10 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+semper. Sed congue condimentum lectus quis scelerisque.
+sit amet accumsan nisl commodo.
+
+G|/\subsection{egy alfejezet}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+semper. Sed congue condimentum lectus quis scelerisque.
+sit amet accumsan nisl commodo.
+
+13 \section{egy masik fejezet}
+14 \end{document}
+

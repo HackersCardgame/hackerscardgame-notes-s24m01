@@ -1,0 +1,41 @@
+ZABBIX Hep Gx suppor | Pit | Profle | Logout
+ieee iad cumen noe [A [Se We}
+
+Dashboard” Overview Web Latestdata Triggers Events Graphs aps" Discovery services rT] Search |
+
+History: Dashboard» Custom screens » Dashboad » Custom screens » Dashboard
+
+‘CREEN
+
+Traffoc-01 Screens [Local node: Waffoc 01
+
+] Group [Local node: Netwak
+
+(Zoom: th hh Gh 12h 1d 7d Lad Im Sm 6m Ly Al
+<
+[ee Av Son mm 74
+
+4 12 af ARH A Zu GoW ww
+
+Local node: 192.168.179.1: Traffic on interface WAN2 (12h)
+
+1SMbps
+10 Mbps
+Mops
+
+OD SS SS PE Ee SSS e2eee2ee2eeee22eeeee2e2e22282°e28
+
+la min ag | last min ave
+
+incoming traffic on interface WAN2 [avg] 243.95 Kbps _1.57Kbps 998.72 Kbps. 14 Ml Incomingtraffic on interface LAN [avg] 50.46 Kbps 30.95 Kbps 77.06
+
+Hi Outgoing traffic on interface WAN2 avg) 39.76 Kbps 20.33 Kbps 61.97 Kbps | MOutgoingtraffic on interface LAN avg) 2529Kbps. «7 Kbps. 1.01
+
+loca node: 192.168.1 40: Traffic on interface Broadcom Corporation NetLirk BCMS77E5 Gigabit Ethemet PCIe 12h] ts (ese mie Sh Gears Clay (AD) : Local node: 192.168.179.3-b: Traffic on interface eth1 (12h)
+
+HPSSHRBSERERERSRER HN RRA SS |
+E last, min avg max 3 last min a
+I Incoming traffic on interface Broadcom Corporation NetLink BCM57785 Gigabit Ethemet PCle avg] Oe oe Go ioe “| Mlincomingtraffic on interface ethl [avg] 9.06Mbps 438.06 Kbps 6.598
+BH Gutguing ratte on interface Broadcom Corporation NSLMKSCHS7785 Gigabt heme Pcie | WICMPpIng | lavgl «180985 HiOutgoingtrafte on terface eth [avg] odeMbops s98.41 Kops S628
+
+7 ,

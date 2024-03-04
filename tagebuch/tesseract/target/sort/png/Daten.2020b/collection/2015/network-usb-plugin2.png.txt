@@ -1,0 +1,26 @@
+36859 3415. 369940¢ 192. 44 255.255.255.255 upp 79 Source Destination port: 1124
+36920 3428.021540¢ 192. 44 255.255.255.255 upp 57 Source 8 Destination port: 3289
+36921 3428.021618¢ 192. 44 255.255.255.255 upp 60 Source 8 Destination port: 3289
+36924 3429.024277¢ 192. 44 255.255.255.255 upp 79 Source Destination port: 1124
+36925 3429.024344¢ 192. 44 255.255.255.255 upp 79 Source Destination port: 1124
+36998 3522.819859¢ 192. 44 255.255.255.255 upp 57 Source 8 Destination port: 3289
+36999 3522.819911¢ 192. 44 255.255.255.255 upp 60 Source 8 Destination port: 3289
+37000 3523.822820¢ 192. 44 1124
+
+255.255.255.255 upp 79 Source Destination port
+
+37001 3523
+
+>Frame 37061: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface @
+pEthernet II, Src: Compalin_9a:71 (8:a9:63:9a:7b:44), Dst: Broadcast (ff:ff:ff:f
+pInternet Protocol Version 4, Src: 192.168.1.44 (192.168.1.44), Dst: 255.255.255.255 (255.255.255.255)
+pUser Datagram Protocol, Src Port: 38735 (38735), Dst Port: 1124 (1124)
+
+pData (37 bytes)
+
+e000 ff ff ff ff ff ff f8 a9 63 9a 7b 44 08 00 45 00
+0010 00 41 83 bl 40 00 40 11 £5 26 cO a8 Ol 2c ff ff
+0020 ff ff 97 4f 04 64 00 2d fc cO O2 0 O1 O2 00 00
+0030 00 1d 25 00 16 73 74 64 2d 73 63 61 Ge 2d 64 69
+0040 73 63 6f 76 65 72 79 2d 61 6c 6c O2 00 O1 00 scovery- all.
+

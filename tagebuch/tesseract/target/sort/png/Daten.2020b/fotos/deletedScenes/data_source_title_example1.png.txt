@@ -1,0 +1,14 @@
+RT creation/resolution
+200
+
+100
+
+Week 05 Week 07 Week 09 Week 11 ‘Week 13. Week 15
+From 2008/01/19 15:30:04 To 2008/04/19 15:30:04
+
+WRT tickets created
+
+Now: 74.24 Avg: 81.43 Min: 17.13 Max: 148.09
+WAT tickets resolved
+
+Now: 86.59 Avg: 82.77 Min: 4.48 «= Max: (175.98

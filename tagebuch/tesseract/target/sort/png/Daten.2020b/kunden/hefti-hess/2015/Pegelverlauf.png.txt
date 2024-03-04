@@ -1,0 +1,27 @@
+Typ DD 11 0650 DD 11M.0650
+
+Durchgangsdose Durchgangsdose
+Frequenzbereich 5-862 MHz 5-862 MHz
+Durchgangsdimpfung 7
+Anschlussdimpfung 10.48 10 dB
+
+Abschlusswiederstand
+J restl. Energie vernichten
+" damit es keine Reflexionen
+gibt
+
+O®@
+
+50MHz
+
+600MHz
+
+1000MHz
+
+Dampfung 5 MHz 1,9 dB/100m. 1,9 dB/100m 1,9 dB/100m. 1,9 d8/100m
+Dampfung 50 MHz 5,7 dB/100m 5,7 dB/100m. 5,7 dB/100m 5,7 dB/100m.
+Dampfung 600 MHz 20,5 dB/100m 20,5 dB/100m_ 20,5 dB/100m_ 20,5 dB/100m
+
+Dampfung 1000 MHz 26,7 dB/100m 26,7 dB/100m. 26,7 dB/100m 26,7 dB/100m
+Dampfung 2200 MHz 40,6 dB/100m 40,5 dB/100m. 40,6 dB/100m_ 40,6 dB/100m
+

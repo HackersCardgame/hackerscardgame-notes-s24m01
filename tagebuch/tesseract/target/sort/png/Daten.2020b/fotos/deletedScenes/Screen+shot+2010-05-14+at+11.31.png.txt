@@ -1,0 +1,37 @@
+‘Mevices /CIM WMI ‘Templates /Device Zenoss server time: 21
+
+Performance Template
+
+{Name |Devce = tt—CS=s‘SS~<‘<;
+
+[Target Class |Products.ZenModel Device SCS
+[Description
+indows template that requires
+
+Save|
+
+[Select: All None
+
+‘Name ‘Source ‘Source Type
+IC) PetosMemory SELECT AvallableKBytes, CacheBytes, PagesPerSec FROM Win32_PerfRawData_PerfOS_Memory WMI
+C.Processor SELECT LoadPercentage FROM Win32_Processor wnt
+|CisysUpTime SELECT LastBootUpTime FROM Win32_OperatingSystem wn
+
+Enabled
+
+|C.cPU Utiization over 20 MinMaxThreshold Processor_LoadPercentage_avg Warning True
+
+‘Name ‘Twe Data Points Severity Enabled
+
+[Select: All None
+
+Coru CPU Urtization over 90, LoadPercentage_avg percentage 100
+[7 C.Memory Utiization memoryAvailableKBytes, CacheBytes percentage 100
+[2 CPeaing PagesPerSec page/sec 100
+
+[a ca tie wi
+
+500
+500
+500
+

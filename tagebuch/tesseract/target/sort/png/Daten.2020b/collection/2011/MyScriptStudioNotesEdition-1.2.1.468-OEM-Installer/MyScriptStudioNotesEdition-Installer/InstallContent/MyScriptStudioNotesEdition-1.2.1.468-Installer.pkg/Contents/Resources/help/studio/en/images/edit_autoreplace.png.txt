@@ -1,0 +1,12 @@
+2
+
+Enter or select a word and replacement value:
+
+Mic [Fike Coin]
+
+UB
+
+Mike Collings
+
+Export...
+

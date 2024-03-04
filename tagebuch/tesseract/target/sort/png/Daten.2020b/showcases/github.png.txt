@@ -1,0 +1,8 @@
+marc@deblan:~/music-source-Tinal-versions$ git push -v
+
+Pushing to https://github.com/braindef/music-source-final-versions
+
+‘fatal: unable to access ‘https://github.com/braindef/music-source-final-versions
+/*: Problem with the SSL CA cert (path? access rights?)
+marc@debian:~/music-source-final-versions$ |
+

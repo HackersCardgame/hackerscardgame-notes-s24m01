@@ -1,0 +1,6 @@
+Auto replacements
+
+Enter or select a word:
+
+bibl
+

@@ -1,0 +1,25 @@
+‘Audacity Preferences
+eves
+eyo
+Recording
+Quality
+Sette
+Trade
+‘Import / Export
+‘Projects
+tareres
+Srecores
+Warns
+tree
+
+ors
+von
+Display:
+‘Minimum Frequency (Hz): 0
+teooroenio
+Gain (dB): 20
+‘Range (dB): 80
+
+Frequency gain (d8/dec): 0
+(F)show the spectrum using grayscale colors
+

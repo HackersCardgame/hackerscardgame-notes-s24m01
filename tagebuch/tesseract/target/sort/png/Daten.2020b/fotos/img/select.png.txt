@@ -1,0 +1,18 @@
+e280 Selection
+
+Extension
+
+tes | Kind | Date
+
+Contains: ‘action
+
+Starts with: [Not Specified
+
+Ends with: [Not Specified
+
+Ignore case
+
+FH extend selection items selected
+
+(C Select) (Close) (Select & Close)
+

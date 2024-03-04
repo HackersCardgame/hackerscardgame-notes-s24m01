@@ -1,0 +1,13 @@
+Time (ms)
+
+1000
+
+100
+
+10
+
+Standard Deviation of 1e6 Elements
+
+Numpy Optimised Cython
+Pure Python Cython - naive Cython calling C
+

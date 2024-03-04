@@ -1,0 +1,71 @@
+Smack Debug Window —- Total connections: 1
+
+jatul@jabber orgiSmack | Stack info
+
+AllPackets | Raw Sent Packets | Raw Received Packets | Ad-hoo message
+
+Information
+
+Timestame Message
+42:25:01 An) %y |lo Sent (class-org.jivesot.
+
+ia
+Wvs2ke-t
+
+Type To
+set
+
+From
+
+112.26.02 AM| ©) | Ti lia Sent (class=org jvesof.
+
+Wvs2ke-2
+
+et
+
+Wvs2ke-3
+
+avaiable
+
+&
+&
+
+12:25:02 AM Presence Sent
+
+42:25:02 AM *y lia Received (class=org jv
+
+12:25:12 AM Presence Sert
+
+Wvs2ke-1
+
+vs2Ke-4
+
+resut
+
+avaiable spa,
+
+12:25:13 AM Presence Received
+
+Wvs2Ke-4
+
+avaiable
+
+12:25:13 AM Message Received
+
+oun.
+
+Received
+
+oster">
+
+<group>Friends</group>
+</iten>
+</query>
+Ap
+
+<
+
+-2" frow="jatul jabber. org/Smack" type="result">
+
+<item jid="gdoubiak@jabber. org” name="Gato" subscription="bo!
+

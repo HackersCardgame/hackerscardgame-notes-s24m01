@@ -1,0 +1,13 @@
+| is | 30 45
+
+[xlinteview v] 10
+Mono, 44100H2
+
+32-bit float
+
+| Mute | Soio_|
+
+0.0
+
+[ellabel Track ¥]
+

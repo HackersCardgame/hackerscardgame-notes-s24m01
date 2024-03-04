@@ -1,0 +1,37 @@
+marc@debian: ~
+File Edit View Search Terminal Help
+marc@debian:~$ whois kath-zdw.ch
+
+whois: This information is subject to an Acceptable Use Policy.
+See https://www.nic.ch/terms/aup/
+
+Domain name:
+kath-zdw.ch
+
+Holder of domain name:
+Remo Marty
+Feithierenstrasse 134
+CH-3952 Susten
+Switzerland
+
+Technical contact:
+hosttech GmbH
+Seestrasse 15a
+CH-8805 Richterswil
+Switzerland
+
+Registrar:
+hosttech GmbH
+
+First registration date:
+
+2011-01-11
+
+DNSSEC:N
+
+Name servers:
+
+ns1.speed-host.ch [176.10.127.73]
+ns2.speed-host.ch [176.10.100.134]
+
+marc@debian:~$ If

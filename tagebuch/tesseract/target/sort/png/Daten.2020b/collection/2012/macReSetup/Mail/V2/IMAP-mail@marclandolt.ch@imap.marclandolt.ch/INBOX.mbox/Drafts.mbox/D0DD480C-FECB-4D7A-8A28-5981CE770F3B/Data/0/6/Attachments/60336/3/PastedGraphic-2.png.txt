@@ -1,0 +1,73 @@
+== ea E eas Internet Performance Test
+
+upc cablecom
+
+Mit diesem Test Uberprifen Sie die Leistung Ihrer Verbindung zum Server hi
+
+pc-cablecom.ch.
+
+Wir bendtigen einige Angaben zu Ihrem Internetanschluss. Zur statistischen Auswertung der Messergebnisse analysieren wir Ihre Angaben und
+
+Zugriffsdaten. Fur den Test muss Ihr Browser Java, JavaScript und Cookies unterstiitzen.
+
+Hinweis: Mit den Mobile Performance Test Anwendungen fur iPhone, Android, Symbian (Nokia) und Windows Mobile 7 kénnen Sie auch die
+
+Leistung Ihrer Mobiltelefonverbindungen Uberprifen..
+
+‘Verbindungsangaben
+‘Anschlussart:
+
+[_ Kabelnetz Kabel TV, CATV) 3]
+Geschwindaket
+[_ 50'000/5'000 3]
+
+Verbunden uber
+[_LAN-Kabel zu Router/Modem/Switch
+
+‘Zuhause
+Land
+
+{Schweiz S
+Postleitzahl
+
+5022
+Ontschatt:
+
+Rombach
+
+Einstellungen zur Messung
+‘Anzahl Messungen
+
+{_ Einzelmessung
+
+[one
+
+Referenzserver
+hsi.upc-cablecom.ch
+
+62.2.16.12
+
+91.138.24,251
+
+Client
+
+ip: 7848219915275430912
+
+Resultate——_________Mehe Details
+Download-Datenrate:
+
+20.631 kbit/s
+(entspricht 2.578 kByte/s)
+
+Upload-Datenrate:
+
+1.291 kbit/s
+(entspricht 161 kByte/s)
+
+Antwortzeit:
+
+21ms
+(0,021 sek)
+
+Daten erfolgreich gespeichert.
+

@@ -1,0 +1,70 @@
+Re: [Case-Nr.: 32552802] Chemitrode an meinem Hals, geziindet durch unbekannt in Olten
+
+Betreff: Re: [Case-Nr.: 32552802] Chemitrode an meinem Hals, geziindet durch unbekannt in Olten
+Von: Hostpoint Support <support@hostpoint.ch>
+
+Datum: 20.06.2023, 14:23
+
+An: "Marc jr. Landolt" <mail@marclandolt.ch>
+
+Return-Path: <support@hostpoint.ch>
+
+Delivered-To: mail@marclandolt.ch
+
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.221]) by popimap018.mail.hostpoint.internal
+with LMTP id KDseJDeakWTGZAAA9BAVOA:P1 (envelope-from <support@hostpoint.ch>) for
+<mail@marclandolt.ch>; Tue, 20 Jun 2023 14:23:19 +0200
+
+Received: from mxin021.mail.hostpoint.ch ({10.4.2.221]) by mail-lb1.adm.hostpoint.ch with LMTP
+id KDseJDeakWTGZAAASBAVQOA (envelope-from <support@hostpoint.ch>) for
+<mail@marclandolt.ch>; Tue, 20 Jun 2023 14:23:19 +0200
+
+Received: from mail.adm.hostpoint.ch ([2a00:d70:0:a::e0]) by mxin021.mail.hostpoint.ch with
+esmtps (TLS1.3) tls TLS_AES 256 GCM_SHA384 (Exim 4.95 (FreeBSD)) (envelope-from
+<support@hostpoint.ch>) id 1qBaOF-0006mG-I6 for mail@marciandolt.ch; Tue, 20 Jun 2023
+14:23:19 +0200
+
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch; s=20221128-
+ticket-rsa-1024; h=Content-Type:References: In-Reply-To:Date:Subject:From:To:Message-ID:MIME-
+Version:From:Sender:Reply-To :Subject:Date: Message-ID:To:Cc;
+bh=lAXnp1itvjBt82YrfxJu9vXrmeGxgiWIR6eyLSotdFwO=; t=1687263799; x=1688127799;
+b=IUxntSpeTpQ5NL+jci3igaBV3 DdrblYfkoeV1TXT TuF5cbkLtsTj369d U60pEroBgct+KhrOFdAR
+dJ66+aqbloV7rAUtblls4JtP9aBYxt5N1uZoYTePIZ6TVZv3vm1qbBOst4U5mcGKwrFJCKtVKhSqL
+sWfhLSDgC9AEIm/A7JE=;
+
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch; s=20221128-
+ticket-rsa; h=Content-Type:References:In-Reply-To: Date:Subject:From:To:Message-ID:MIME-
+Version:From:Sender:Reply-To:Subject: Date: Message-ID:To:Cc;
+
+bh=IAXnp1tvjBt82YrfxJ u9vXrmeGxgiWIR6eyLSotdFwO=; t=1687263799; x=1688127799;
+b=aPHNel4f0AiG9YaiSZNPHMF8B7iGBFswWXel+ETUEbkqFHY
++2Jfhb85|PEcsITFZDlybJktRIrSNsWJXTqc+Kpp/33f4mv7afn/zvHbv/giZkRSDrAwxLS4fUpwg
+6CHSa8r1vr53clV1sF/XhGa4LHAh6Jnykz/OiRmHgfg3kuoMOlOdKK7sDI/a3xpE9NmcJv3Cky/B
+hZ04FO0Q/f+1Nj8zrOvV0+Y9cXJVuKX7hsZPm/X3yA6h4Kxsu2tpHYd orpYG42YG8qYQ51vHYsKOW
+scGNZTYidxfLZ3Ze69/W7kOBN17EiLV+POTx4B91E2KHDig6px7 R6qtije6OdaSg==;
+DKIM-Signature: v=1; a=ed25519-sha256; q=dns/txt; c=relaxed/relaxed; d=hostpoint.ch;
+$=20221128-ticket-ed25519; h=Content-Type:References: In-Reply-
+To:Date:Subject:From:To:Message-ID:MIME-Version:From:Sender:Reply-To :Subject:Date:Message-
+ID:To:Cc; bh=|AXnp1tvjBt82YrfxJu9vXrmeGxgiWIR6eyLSotdFwO=; t=1687263799; x=1688127799;
+b=soYXu59gzmxOkvPd5jwUE2dsChgRBulMug+wlEF+kzZrYmekNSSawp//QAnTRLPBh7HP84PcJ9Z
+i9+lvwpRGCQ==;
+
+Received: from otrs3 by mail.adm.hostpoint.ch with local (Exim 4.95 (FreeBSD)) (envelope-from
+<support@hostpoint.ch>) id 1qBaOF-O00GBu-En for mail@marciandolt.ch; Tue, 20 Jun 2023
+14:23:19 +0200
+
+MIME-Version: 1.0
+
+Nachricht-ID: <1687263798.643553.832804392 @ticket.hostpoint.ch>
+
+Organisation: Hostpoint AG
+
+In-Reply-To: <bd9a526d-ef83-dcbe-4804-fade6f7b9dab@marclandolt.ch>
+
+Referenzen: <bd9a526d-ef83-dcbe-4804-fade6f7b9dab@marclandolt.ch> <513441fe-bf42-0748-
+fb6d-49ba518dd55c@marclandolt.ch> <1687174799.574946.501622385 @ticket.hostpoint.ch>
+
+Content-Type: multipart/mixed; boundary="---------- =_1687263798-38934-3"
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+
+von 2 22.06.2023, 13:15

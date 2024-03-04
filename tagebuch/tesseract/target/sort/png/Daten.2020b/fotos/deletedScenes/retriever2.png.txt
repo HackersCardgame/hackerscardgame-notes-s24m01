@@ -1,0 +1,15 @@
+Se Mise tet, rr
+MyScript InkRetriever
+Acercade | Ajustesderecuperacién | Ajustes del dispositive
+
+-Ajustes de almacenamiento de tints
+Elja la carpeta de archivos de tinta:
+:\Users adrienne Documents MyScrint Documents\notes\Ink Devices
+
+Ajustes avanzedos:
+Borrar archivos del dispositive después de descargarios:
+Reemplazar archivos existentes con el mismo nombre
+Examinar todos los dispositives USB
+
+[Ejecutar autométicamente al nar Windows
+

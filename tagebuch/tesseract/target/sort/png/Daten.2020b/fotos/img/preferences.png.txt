@@ -1,0 +1,34 @@
+8.00 Preferences
+
+Interface Settings
+
+Show: MApplications _[¥ Audio Devices
+MiVideo Player Radio Devices
+Mashboard — Mi System Audio
+
+Remote Control
+
+M Allow control from remote speakers
+
+Control Script: [ Automat is}
+
+Remotely control supported sources using an
+AppleTV Remote or Keyspan Express Remote.
+
+Automatically Transmit To
+
+(Computer
+O Macmini
+
+Play Local Audio Through
+
+Default System Output is}
+
+At Startup
+
+M Automatically check for software updates
+
+‘Automatic checks include both version and usage
+data that aid us in supporting Airfoil. All data is
+entirely anonymous.
+

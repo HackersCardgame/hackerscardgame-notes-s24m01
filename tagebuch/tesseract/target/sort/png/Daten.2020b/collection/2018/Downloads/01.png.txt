@@ -1,0 +1,34 @@
+marc@debian:~/Daten.2017/code/deepLearning$ python suchen.py --bin data/forum4.txt.bin --positive feinstoffliche
+data/forumd.txt.bin
+
+Persoenlichkeits
+
+nutritiv
+
+Chemischen
+
+Austausches
+
+lat
+
+autistischen
+
+mehrerer
+
+Fauna
+
+Hegel
+betaeubt
+Kosmetik
+Ideenflucht
+Verlangsamung
+reinigt
+anzuhaengen
+menschlichen
+moralischen
+Deutsches
+individueller
+
+marc@debial
+
+-/Daten.2017/code/deepLearning$ §

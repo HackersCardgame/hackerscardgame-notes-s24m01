@@ -1,0 +1,18 @@
+@Article{,
+
+author = {The author},
+
+title = {the title},
+
+journal = {The Texmaker news},
+
+year = {2011},
+OPTkey = {+},
+OPTvolume = {+},
+oPTnunber = {+},
+OPTpages = {+},
+oPTmonth = {+},
+OPtnote = {+},
+
+oPTannote = {+}
+}

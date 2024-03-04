@@ -1,0 +1,18 @@
+root@tor:~# tail -f /var/log/tor/log
+May 22 06:48:36.008 [notice] We now have enough directory information to build circuits.
+
+[
+May 22 06:48:36.008 [notice] Bootstrapped 80%: Connecting to the Tor network
+May 22 06:48:37.008 [notice] Bootstrapped 85%: Finishing handshake with first hop
+May 22 06:48:37.008 [notice] Bootstrapped 90%: Establishing a Tor circuit
+May 22 06:48: [notice] Tor has successfully opened a circuit. Looks like client functionality is working
+May 22 06:48: [notice] Bootstrapped 100%: Done
+
+May 22 06:48: [notice] Now checking whether ORPort 91.138.4.61:9001 and DirPort 91.138.4.61:9030 are reachable... (this may take up
+to 20 minutes -- look for log messages indicating success
+
+May 22 06:48:38.008 [notice] Self-testing indicates your DirPort is reachable from the outside. Excellent.
+
+May 22 06:48:39.008 [notice] Self-testing indicates your ORPort is reachable from the outside. Excellent. Publishing server descriptor
+May 22 06:48:40.008 [notice] Performing bandwidth self-test...done.
+

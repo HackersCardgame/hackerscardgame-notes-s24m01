@@ -1,0 +1,15 @@
+[x interview +]
+Mono, 44100H2
+32-bit float
+| Mute | Solo |
+
+LO
+
+0.0-
+
+laa
+
+[label Track ¥]
+
+‘Question T
+

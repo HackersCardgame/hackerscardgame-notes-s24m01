@@ -1,0 +1,28 @@
+Erfasste Zahlungen
+
+Q IBAN, Kontonummer, Name des Empfangers, Zahlungsgrund oder Buchungstext
+
+Sortiert nach Zeitraum Betrag Status Belastungskonto  Wahrung Zahlungsart
+Neueste zue™. Letzte 90Tagé Betrag * Alle 7 alle 7 alle 7 alle
+Alle zurlicksetzen
+Pendente Autrage
+U UPC SCHWEIZ GMBH 06.06.2019, VOLLVISIERT cHr 131.90 ;
+upe Mare Landolt un., CHF UBS Privatkonto :
+01-069935-3
+U UBS AG,ZUG -EN FAVEUR DE 06.06.2019, VOLLVISIERT cH 40.00 ;
+salt Mare Landolt un., CHF UBS Privatkonto :
+01-005292-2
+H HELSANA VERSICHERUNGEN A 06.06.2019, VOLLVISIERT cHEA22.75 3
+helsana Mare Landolt un., CHF UBS Privatkonto :
+01-096700-2
+
+B BRACK. CH AG 06.06.2019, VOLLVISIERT cur 560.65
+
+rack Marc Landolt jun., CHF UBS Privatkonto
+01-036738-5
+
+A ALLIANZ SUISSE VERSICHERU... 06.06.2019, VOLLVISIERT cHr 200.90 ;
+Allianz Marc Landolt jun., CHF UBS Privatkonto .
+01-000145-6
+
+Total CHF 1,356.20

@@ -1,0 +1,15 @@
+EASY STRUMMING EFFECT
+WITH ABLETON’S ARPEGGIATOR
+
+‘© Arpeggiator
+
+Start by loading Ableton’s Arpeggiator located under MIDI
+effects.
+
+Change the Style to‘Random Once’
+Increase the Repeat to‘1’
+
+Change the Sync/Free rate to ‘Free’
+Play with the Rate to taste
+
+PausePlayRepeat.com

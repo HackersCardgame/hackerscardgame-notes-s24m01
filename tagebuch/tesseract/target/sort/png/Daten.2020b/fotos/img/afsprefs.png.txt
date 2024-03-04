@@ -1,0 +1,9 @@
+General
+
+M Start Airfoil Speakers at login
+™M Float above other applications
+
+co
+
+C)Require password to connect:
+

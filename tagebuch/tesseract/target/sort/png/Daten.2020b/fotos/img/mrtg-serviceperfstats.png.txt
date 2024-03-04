@@ -1,0 +1,16 @@
+3600.0
+
+2700.0
+
+1800.0
+
+Nilliseconds
+
+900.0
+
+0.0
+
+46 8 10 12 14 16 18 20 22 0 2 4 ~6 8 10
+
+Max Letency: 32030 Average Letency: 4630 Current Latency: 816.0
+‘Max Execution Time: 3498.0 Average Execution Time: 31630 Curent Execution Time: 3185.0

@@ -1,0 +1,50 @@
+scytt-secure-logger/IHLIRD-PARTY. txt: (bouncy Castle Licence) Bouncy Castle Provider (org.bouncycastle
+
+marc@debian:~/post-e-voting/source-code$ fgrep -r "//" * [grep -v TODO |grep java |grep TODO
+marc@debian:~/post-e-voting/source-code$ fgrep -r "//" * |grep java |grep TODO
+
+maven -generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/EC2RetentionStrategy. java:
+maven-generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/EC2Cloud. java:
+
+maven -generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/ssh/EC2UnixLauncher. java:
+maven-generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/ssh/EC2UnixLauncher. java:
+as c:\tmp
+
+maven -generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/one/OneSlaveTemplate. java:
+maven -generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/one/OneSlaveTemplate. java:
+maven -generic-conf/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/one/OneEC2Cloud. java:
+
+Deprov-jdkison:1.59 - http://www.bouncycastte.org/)jova.ntmt)
+
+// Tob0: really think about the right strategy here
+// 7000: record the output somewhere
+
+// T0D0: parse the version number. maven-enforcer-plugin might help
+
+7/ T0b0: on Windows with ec2-sshd, this scp command ends up just putting slave. jar
+
+// T0b0: Include more filters
+7/ T0b0: Improve filtering mecanism
+7/ 7000: record the output somewhere
+
+maven-generic-conf/extlibs/jmeter -maven-plugin/src/test/java/com/lazerycode/jmeter/JMeterMojoTest.java://T0D0 write tests for JMeterMojo
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/configuration/JMeterArgumentsArray.java:  //T0DO we should support this rather than expecting people to m
+
+odify thier jmeter.properties
+
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/configuration/JMeterArgumentsArray.java:  //TO0DO we should support this rather than expecting people to m
+
+odify thier jmeter.properties
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/ErrorScanner. java:
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/ErrorScanner. java:
+
+//70D0: where would such an element come from?
+//70D0: where would such an element come from?
+
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/JMeterAbstractMojo.java:  // T0D0: what is an error?
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/JMeterAbstractMojo. java: // 70D0 Check if we really need to do this
+
+maven-generic-conf/extlibs/jmeter-maven-plugin/src/main/java/com/lazerycode/jmeter/JMeterMojo. java:
+marc@debian:~/post-e-voting/source-code$
+
+// 700: may not work if SecurityManager is enabled. Needs

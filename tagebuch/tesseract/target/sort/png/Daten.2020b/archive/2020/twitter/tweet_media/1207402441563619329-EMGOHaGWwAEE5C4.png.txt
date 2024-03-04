@@ -1,0 +1,39 @@
+From Me <mail@marclandolt.ch> te * Reply | Reply All | - Forward | é Archive | @ Junk |B elete | More »
+
+‘Subject Bug-Repport, Informatik Unterricht 2125
+“To schule@ksab.chk, medias ivb.ph@thnw.ch
+
+‘uten Abend
+
+ich bin donals in die 6E2 Aarau gegangen. wir hatten dort mit Macs gearbeitet, unser danalige Lehrer (Ruedi Berger) hat uns dann auch so Dinge wie RAM (Randon Access Memory) erklArt und uns geagt dass das Zufallsspeicher heissen wirde. 190
+‘wirde das Randon in diesen Kontext *beliebig® also "beliebig zugreifbarer Speicher= heissen.
+
+Denlss den Abschnitt “Hands On” aus der Hacker Ethik hier weinen/unseren Senf do
+
+state windows oder mac 2u Lernen wire es unserer Meinung besser fur das erlernen von Konzeptwissen sich ait Linux auseinander 2u setzen. Mir ist bewusst, dass beim Kanton cher Windows Gblich ist, selbst Asylanten werden in Windows und Word
+‘rurse geschickt, wo sie dann nur Produkte-wissen lernen, nicht aber das den Produkt zugrundeliegenden Konzeptwissen.
+
+Dies fuhr einerseits zu einer Abhinigkeit gogeniber den Produkt und den Lieferante andererseits installiert es auch 2u gevisse generalisierte Verhaltensmuster (Jch will nicht Gleichschattuung sagen, aber so etwas in diese Richtung)
+De GFMW bietet einen Linux Stick [1] was unserer Meinung nach den Kindern besser helfen wirde mit EDV-Mitteln aurecht 2u komen und die Chance eines AbNSnigkedteverhaltntsses verringert.
+
+Ich hab noch ein Screenshot beigetegt yon eines Beispiel Projekt, das aan
+‘Schatern parattet zum erlernen des Alphabetes nachen.
+
+sal in ein paar Stunden machen Kénnte: eine eigene Schriftart (yay...) Dazu bendtigt man Linux, Inkscape und Fentforge und das Koante man auch mit jingeren
+
+Es ware super toll, wenn sie diese Mail an alle Infornatik-Lehrer weiterleiten Kinnten, fir Fragen stehe ich gerne zur Verfigung bav. die Inedas der FAW wire da vermutlich noch ein bisschen besser geeignet als Anlaufstelle als ich.
+
+(1) tps: /Aane medias. ch/thenen/Lernstich/indes.cfa
+
+it freundlichen Grisse
+
+fare Landott
+‘itt. dip. Iformather HE
+ievenburgerstrasse 6
+S00s Aarau
+
+078 674 15 32
+
+> tattachment:schulenpng 449K Bsave |v
+
+com is up to date ‘Unread: 0 Total: 3375

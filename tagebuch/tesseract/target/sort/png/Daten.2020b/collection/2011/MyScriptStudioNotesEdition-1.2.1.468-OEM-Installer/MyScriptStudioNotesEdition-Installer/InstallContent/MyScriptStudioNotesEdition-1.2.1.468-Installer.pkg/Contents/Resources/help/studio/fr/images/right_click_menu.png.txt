@@ -1,0 +1,15 @@
+(B Geter es etiquettes
+Enlever toutes les etiquettes
+Enlever 'éiquette courante
+
+(@ Renommerle document
+Retirer de mes notes.
+(B Supprimer es fichiers du disque...
+
+@ Exporter.
+Enregistrer sous.
+
+@ Imprimer.
+
+(Nouveau document
+

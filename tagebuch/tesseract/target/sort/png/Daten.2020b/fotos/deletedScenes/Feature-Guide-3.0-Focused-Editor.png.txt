@@ -1,0 +1,13 @@
+eer 8 SB t-te ero-
+
+® private final IPropertyChangeListener Ss
+® public TaskTrimWidget () <(
+
+© private void setTrimVisible (boolean vie?)
+IWorkbenchWindow window = PlatformU:
+if (window instanceof WorkbenchWindo
+IWindowTrim trim = ( (WorkbenchWi:
+
+if (trim != null) ¢
+((WorkbenchWindow) window) .o
+

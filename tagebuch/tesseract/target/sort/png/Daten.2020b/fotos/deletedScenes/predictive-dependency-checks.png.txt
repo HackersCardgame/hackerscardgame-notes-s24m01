@@ -1,0 +1,14 @@
+Nagios
+
+Parent-Child Relationship
+Host Dependency
+Parallel Host Check
+
+up
+
+Not uP
+
+DOWN
+
+UNREACHABLE
+

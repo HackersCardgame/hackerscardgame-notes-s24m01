@@ -1,0 +1,62 @@
+€ C QO localhost/patrik.p!
+
+#= Apps @ Debian.org © Latest
+
+Funky Function
+
+® github.jpg
+
+£5]
+van
+
+Edit View Search Terminal Help
+
+>
+<hl>Funky Function</hi1><br>
+
+< method="GE tion="<?php
+
+< t . an enter
+< t ni name="star
+< t ni name= r
+</ >
+<?php
+function star($string){
+result: 4
+($i i < strlen($string); $i
+resul result string[$i]
+}
+result;
+}
+function [four($string) {
+result -
+(str¥en($string) 4)
+max 4;
+{
+max strlen($string) ;
+($140; $i max; $i++) {
+result result string[$i];
+result;
+
+( (6 GET['star']))I {
+echo [star GET['enter']);
+( ($_GET['fs0P/])) {
+
+echo four($_
+
+marc@debian: ~
+
+echo $_SERVER[ ‘PHP
+/><br>
+
+alu />
+value="four" />
+
+($ GET enter] )) @)
+
+ELF']?>">
+
+13,0-1
+
+ALL
+

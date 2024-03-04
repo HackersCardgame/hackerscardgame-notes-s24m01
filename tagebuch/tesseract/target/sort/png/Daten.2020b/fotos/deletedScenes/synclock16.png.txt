@@ -1,0 +1,12 @@
+[x[Audior vy 10
+
+Mono, 4410042
+
+32-bit float 0.0-) ae
+o|-1.0
+
+[xaudo2 +] 10
+Mono, 44100Hz 1
+32-bit oat
+
+|-1.0)

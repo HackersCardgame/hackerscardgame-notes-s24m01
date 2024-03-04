@@ -1,0 +1,42 @@
+Activities | > Terminal o 3
+
+mnt/home/marc/Daten.2014/myLife/Tagebuch/2001/Disketten/2001/Novem...
+
+rch Terminal Help y/nyquist/seq.1sp'
+
+tmpfs on /run/shm type tmpts (rw,nosuid,nodev ,noexec, relatime,size=789620k) lacity/nyquist /nyqmisc .1sp
+lbinfmt_misc on /proc/sys/fs/binfmt_misc type binfmt_misc ,(rw,nosuid,nodev,noexec
+,telatime)
+/dev/sdclon /dat type ext4 (ro,relatime,data=ordered
+/dev/sdal. on /mnt type ext4 (rw, relatime,data-ordered) ten.2014/myLife/Schizophrenie: fauxpasStaat
+narc@kalir/mnt/home$ (Ls ten .2014/myLife/Schizophrenie: fauxpasStaat~
+: 013/myLife/Schizophrenie: .htaccess
+is/mnt/home$ @13/myLife/Schizophrenie: .htpasswd
+is/mnt/homes ten.2014/myLi fe/Schizophrenie:' IV-Ant rag.pdf
+is/mnt/homes ten.2014/myLife/Schizophrenie: .~Lock.kann ein Aufenthalt in eine
+L:/mnt/home$ .cdmarc/ hen -KLinik: Menschen: hel fen -doc#
+/wnt/home/marc$ cd Daten .2014/myLife/Tagebuch/2001 £6328 14/mybiifa7/Schizophtenier /Tagesptanfods
+2001/ , 20016/ ten.2014/myLife/Tagebuch/200: evaluateWordcount ish
+/mnt/home/marc$ cd Daten.2014/myLi fe/Tagebuch/2001/Disketten/2001/ ten.2014/myLife/Tagebuch/2000: evaluator
+is/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001/Disketten/2001$ 1s ten.2014/myLafe/Tagebuch/2000:myfiles.txt
+) Oktober September . . ten. 2014/myLife/Tagebuch/2000: Wordcount .txt
+:/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001/Disketten/2001$ cd Novelllg13/mybite/Tagebuch/2001/Dezembers 13 txt
+‘ | . 013/myLi fe/Tagebuch/2001/Disketten/2001/November
+/mnt/home /narc/Daten, 2014 /myLife/Tagebuch/2001/Disketten/2001/November fil o13/myl ife/Tagebuch/2001 /Disket ten/2001 /November
+E | . 013/myLi fe/Tagebuch/2001/Disketten/2001/November
+:/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001/Disketten/2001/Novemberll.g13/myLite/Tagebuch/2001/Disketten/2001 /November
+. | . 013/myLi fe/Tagebuch/2001/Disketten/2001/November
+:/mnt/home/marc/Daten. 2014 /nyLife/Tagebuch/2001/Disketten/2001/November lif] 3/myLite/Tagebuch/2001/Disketten/2001 /November
+013/myLi fe/Tagebuch/2001/Disketten/2001/November:
+*7dat/Daten.2013/bin/Audacity/Audacity.app/Contents/Resources/Audacjonty in Daten.2013/m{fLite/Tagebuch/2001/Disketten/2001 /November
+udacityAU.icns! lonty in Daten .2013/myLife/Tagebuch/2001/Disketten/2001/November
+*/dat /Daten.2013/bin/Audacity/Audacity.
+es/EQDefaultCurves. xml!
+*/dat /Daten.2013/bin/Audacity/Audacity.
+AudacityMP3.icns'
+*/dat /Daten .2013/bin/Audacity/Audacity.app/Contents/Mac0S' -> > /mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/MacOS
+*/dat /Daten .2013/bin/Audacity/Audacity .app/Contents/MacO0S/Audacity' -> > /mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/MacOS/Audacity
+*/dat /Daten .2013/bin/Audacity/Audacity .app/Contents/Mac0S/Audacity.sh' -> */mnt/home/Daten .2013/bin/Audacity/Audacity .app/Contents/Mac0S/Audacity .sh
+*/dat /Daten .2013/bin/Audacity/Audacity .app/Contents/PkgInfo' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/PkgInfo
+*/dat /Daten .2013/bin/Audacity/Audacity .app/Contents/Info.plist' -> > /mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/Info.plist
+marc@kali:/mnt/home/marc$ ff

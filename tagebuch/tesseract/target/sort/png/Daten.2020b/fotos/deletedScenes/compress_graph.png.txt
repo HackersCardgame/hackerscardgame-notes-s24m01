@@ -1,0 +1,24 @@
+-15
+
+an
+©
+
+Output (peak dB)
+%
+
+Nv
+N
+
+ro)
+i)
+
+-30 -27 -24 -21 7-18-1% -12 0
+ae input (peak “8)
+
+Threshold Threshold
+-18dB (peak) -18dB (RMS)
+
+—— Compression at 4:1 Threhold -18dB based on RMS
+— Compression at 4:1 Threhold -18dB based on peak
+
+(Measurements taken from compressing sine waves)

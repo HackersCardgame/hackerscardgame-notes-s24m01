@@ -1,0 +1,18 @@
+Sy Serpt ntc ccrrrrrr
+
+MyScript InkRetriever
+Om | Nedlastingsinnstilinger | Enhetsinnstilinger
+
+nnstlinger for notatlagring
+\Velg mappe for agring av notatfl:
+
+[C:\Users\adrienne Documents MyScript Documents notes_\Ink Devices
+
+Avanserte innstlinger
+
+‘lett flene fra enheten etter nedlasting
+(Overshriv eksisterende fler med samme navn
+‘Sok p§ alle USB-enheter
+
+‘Start automatsk nr Windows starter opp
+

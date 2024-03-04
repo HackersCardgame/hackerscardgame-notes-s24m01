@@ -1,0 +1,39 @@
+6796683 7753333
+
+Kundennummer
+Verkaufercode
+Referenz
+Web-Referenz
+Versandart
+Anonyme Lieferung
+Lieferadresse
+
+30.10.14 475.00
+
+58008
+INT
+
+Internet Best. vom 30.10.14
+Web20rder 701836, 05:20:00
+Post - Rechnung
+
+Nein
+
+Landolt Mare
+
+Rombachtali 13,
+
+5022 Rombach
+
+Sendungen 30.10.14, Priority , 8.54 kg
+99.37 115923.05669008
+
+Artikeiname Menge Preis Summe (Position)
+
+Delock USBS.0 Grafikkarte:VGA bis 2048x1152 1 98.00 98.00
+
+HD WO Purple 3.5" 27B SATA-II 1 99.00 99.00
+
+Ubiquiti NPE-M2-400:Powerbeam,2.4Ghz-Bridge 2 139.00 278.00
+
+Netzkabel 250V / 2.54, 1.8m, 3 pollg 2 0.00 0.00

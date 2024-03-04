@@ -1,0 +1,34 @@
+LoadFile(unixTimestamp)
+
+//alert("loadFile") ;
+//Hinweis, allenfalls fetch und promise verwenden
+
+var xhttpr = new XMLHttpRequest ();
+
+var filename = this. getFilenameByTimestamp(this.stringID, unixTimestamp*1000)
+
+for(var i=0; icthis.xhr.length; i++)
+if (this.xhr[i].filename == filename)
+
+console. log("this.xhr[i].file==file");
+return null;
+
+t
+this.nFiles++;
+var me = this;
+
+alert (me.nFiles) ;
+xhttpr.open('POST', filename, true)
+xhttpr. filename = filename;
+xhttpr.onload = function () {
+me. count++;
+//alert (me.count +"?2"+ me.nFiles);
+if (me.count==me.nFiles) {
+me. createArray();
+printarray();
+me.grapher.startup();
+
+t
+}; //nier darf man keine parameter ibergeben wie (this.xhr[i], msg) sonst funktioniert das bléde XMLHttpRequest nicht richtig
+xhttpr.send(null);
+return xhttpr;

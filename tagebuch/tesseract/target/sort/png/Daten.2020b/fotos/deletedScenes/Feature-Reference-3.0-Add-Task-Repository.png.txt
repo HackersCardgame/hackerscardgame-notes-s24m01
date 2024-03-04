@@ -1,0 +1,43 @@
+BS A Tsk epost
+
+connectors.
+
+Select a task repository type
+You can connect to an existing account using one of the installed
+
+£ Bugzilla (supports uncustomized 218-32)
+
+XTRA (supy
+AY Trac (sup
+@Web Temy
+XPXPlanner
+
+2 Pope Takeo
+
+ere x=}
+
+Bugzilla Repository Settings
+Example: https://bugs.eclipse.org/bugs (do not include index.cgi)
+
+Server _https://bugs.eclipse.org/bugs
+
+3
+
+® (4
+
+Label: Eclipse.org
+‘Anonymous Access
+
+UserIO;_[mikkersten@tasktop.com
+
+Validate Settings | Cre Local
+O, Bugzta
+O.Eclpseorg
+G.Tesktop Public
+Dvir
+
+® Oy Tec
+
+O. Eclipse Outner (Google Code)
+
+Gres

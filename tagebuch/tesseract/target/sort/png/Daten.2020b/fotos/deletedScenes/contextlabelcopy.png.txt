@@ -1,0 +1,21 @@
+oO
+
+1s
+
+[linewiew ~~] 10
+Mono, 44100H2
+
+32-bit float
+
+| Mute | Solo
+
+0.0
+
+[ellabel Tack
+
+|
+aa
+|
+
+[Restor
+

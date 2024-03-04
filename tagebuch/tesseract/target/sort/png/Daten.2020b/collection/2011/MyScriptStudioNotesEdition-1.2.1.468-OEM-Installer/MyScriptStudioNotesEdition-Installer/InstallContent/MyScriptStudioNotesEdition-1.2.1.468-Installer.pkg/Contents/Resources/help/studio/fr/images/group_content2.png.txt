@@ -1,0 +1,4 @@
+Ne pas grouper
+Grouper par date
+Grouper par emplacement
+

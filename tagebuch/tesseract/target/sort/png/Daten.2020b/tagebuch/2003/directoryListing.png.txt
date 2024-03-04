@@ -1,0 +1,104 @@
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+-/Daten
+./Daten
+
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+.2015
+marc@debian
+marc@debian
+marc@debii
+
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+-old/Daten
+
+-2013/myLife/
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+-2009/Private
+
+Tagebuch/2003
+Daten/00-Leben/02-Tagebuch/2003
+Daten/00-Leben/02-Tagebuch/2003/011003.txt
+Daten/00-Leben/2-Tagebuch/2003/drogen210303.txt
+Daten/GRERYM/ 02 -Tagebuch/2003/060703 - Grabschistory.txt
+Daten/00-Leben/02-Tagebuch/2003/Juli
+Daten/00-Leben/02-Tagebuch/2003/Juli/2.txt
+Daten/00-Leben/02-Tagebuch/2003/180303.txt
+Daten/00-Leben/02-Tagebuch/2003/190503- ABB-Fingersuggestion. txt
+Daten/00-Leben/02-Tagebuch/2003/April
+Daten/00-Leben/02-Tagebuch/2003/April/Blums. txt
+Daten/00-Leben/02-Tagebuch/2003/April/250403. txt
+Daten/00-Leben/02-Tagebuch/2003/April/der worte folgende tat.txt
+Daten/00-Leben/02-Tagebuch/2003/April/Familie Blum.doc
+Daten/00-Leben/@2-Tagebuch/2003/190503 - ABB - Fingersuggestion.txt
+Daten/00-Leben/02-Tagebuch/2003/060703-Grabschistory.txt
+Daten/00-Leben/02-Tagebuch/2003/080802.txt
+Daten/00-Leben/02-Tagebuch/2003/170303.txt
+
+/disk/2gb/1gb1$ nautilus ./Daten.2017/Daten.2015/Daten.2009/Private Daten/00-Leben/02-Tagebuch/2003
+/disk/2gb/1gb1$ nautilus Daten.2017/Daten.2015/Daten.2009/Private Daten/00-Leben/02-Tagebuch/2003
+
+disk/2gb/1gb1$ find
+
+. -type f | grep "Tagebuch/2003"

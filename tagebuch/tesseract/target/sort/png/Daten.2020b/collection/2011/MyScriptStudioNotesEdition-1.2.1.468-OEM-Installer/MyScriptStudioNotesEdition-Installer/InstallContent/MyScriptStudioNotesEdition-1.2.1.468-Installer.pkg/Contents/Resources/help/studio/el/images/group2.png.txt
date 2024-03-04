@@ -1,0 +1,13 @@
+Date of departure
+! an
+
+Mal
+$
+
+[month BOXED CHARACTERS (1 * 1)
+Group: date
+Character set: [Diats]
+Dictionaries: [No dictionary]
+
+Language: en_US
+

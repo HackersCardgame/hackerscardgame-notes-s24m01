@@ -1,0 +1,23 @@
+xNarration¥] 1.0
+
+Mono, 44100H2
+
+32-bit float 0.5,
+Mate_[_ Solo
+oO
+L R
+o
+
+Background ¥] 1.0
+
+Stereo, 44100H2
+32-bit float
+
+Mute_[_ Solo
+
+[Label Track T
+
+First Narraion Third
+
+| [secona
+

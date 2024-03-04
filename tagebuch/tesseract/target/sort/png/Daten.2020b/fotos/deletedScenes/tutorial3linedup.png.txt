@@ -1,0 +1,26 @@
+[Narration ¥
+
+Mono, 44100H2
+
+32-bit float
+Nien | ESobo
+9
+L -o.54
+9
+-1.0
+X[Background ¥] 1.0
+
+Stereo, 44100H2
+
+32-bit float
+iig.5 | 10}
+‘9 0.0-
+
+X[label Track ¥
+
+First Narraion
+
+Second
+
+! Third
+

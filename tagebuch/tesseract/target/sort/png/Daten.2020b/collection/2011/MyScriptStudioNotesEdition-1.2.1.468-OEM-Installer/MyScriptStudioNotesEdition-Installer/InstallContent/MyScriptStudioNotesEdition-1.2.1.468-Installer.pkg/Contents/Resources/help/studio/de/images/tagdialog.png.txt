@@ -1,0 +1,5 @@
+Markierungen verwalten
+
+\Wenn Sie den gegenniartig ausgewahlten Elementen Markierungen zuweisen méchten,
+vverwenden Sie die Kontrolkastchen neben den Markierungen.
+

@@ -1,0 +1,39 @@
+Alle zurticksetzen
+
+Pendente Autrage a
+
+R REALIT TREUHAND AG 09.10.2019, VOLLVISIERT cue 30.00 ;
+velokaefig Marc Landolt jun., CHF UBS Privatkonto .
+01-048536-0
+
+M Marc und Margrit Landolt <& 09.10.2019, VOLLVISIERT cue 1'050.00 ;
+Miete = Marc Landolt jun., CHF UBS Privatkonto .
+cH7780940000021131231
+
+H HOSTPOINT AG 09.10.2019, VOLLVISIERT cue 15.00 ;
+0x8.ch Marc Landolt jun., CHF UBS Privatkonto .
+01-099990-2
+
+H HOSTPOINT AG 09.10.2019, VOLLVISIERT cue 30.00 ;
+0x8.ch Marc Landolt jun., CHF UBS Privatkonto .
+01-099990-2
+
+H HELSANA VERSICHERUNGEN A 09.10.2019, VOLLVISIERT cH 422.75:
+helsana Marc Landolt jun., CHF UBS Privatkonto .
+01-096700-2
+
+H HELSANA VERSICHERUNGEN A 09.10.2019, VOLLVISIERT cue 23.40 ¢
+helsana Marc Landolt jun., CHF UBS Privatkonto .
+01-096700-2
+
+H HELSANA VERSICHERUNGEN A 09.10.2019, VOLLVISIERT cue 35.50
+helsana Marc Landolt jun., CHF UBS Privatkonto .
+01-096700-2
+
+H HELSANA VERSICHERUNGEN A 09.10.2019, VOLLVISIERT cHe 26.45 s
+helsana Marc Landolt jun., CHF UBS Privatkonto .
+01-096700-2
+
+Total CHE 1'633.10
+
+‘Ausgefinrte Autrage oa

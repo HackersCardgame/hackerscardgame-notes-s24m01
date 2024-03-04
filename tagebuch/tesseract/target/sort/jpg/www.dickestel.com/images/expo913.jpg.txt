@@ -1,0 +1,3 @@
+. = a
+AA ramnae
+PY TU thAAL

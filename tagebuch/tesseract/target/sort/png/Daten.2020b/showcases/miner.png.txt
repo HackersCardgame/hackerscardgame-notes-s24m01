@@ -1,0 +1,39 @@
+marc@debian: ~
+
+File Edit View Search Terminal Help
+B2_A3_S1 global_4 2 2018.txt screenshot1.png
+B2_A3_S1 global_4 22 2018.txt screenshot2.png
+B2_A3_S1 global_4 23 2018.txt stringList.txt
+B2_A3_S1 global_4 24 2018.txt strings.png
+B2_A3_S1 global_4 25 2018.txt year.html
+B2_A3_S1 global 4 26 2018.txt
+root@debian:/home/toni# cd .s/
+
+root@debian: /home/toni/.s# 1s
+
+config.json miner
+
+root@debian:/home/toni/.s# cat config.json
+
+{
+
+"algo": "cryptonight",
+
+background": false,
+
+colors": true,
+
+retries": 5,
+retry-pause":
+donate-level
+syslog": false,
+log-file": null,
+print-time": 60,
+
+: false,
+max -cpu-usag
+cpu-priority": 3,
+threads": null,
+pools": [
+
+root@debian: /home/toni/.s# Ij

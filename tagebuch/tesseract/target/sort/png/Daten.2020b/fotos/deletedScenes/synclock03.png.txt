@@ -1,0 +1,11 @@
+[x[Audion wy 1
+Mono, 44100Hz |
+32-bit float OG
+
+|-1.07
+[Audio
+Mono, 44100%2
+32-bit oat,
+
+©|-1.0)
+

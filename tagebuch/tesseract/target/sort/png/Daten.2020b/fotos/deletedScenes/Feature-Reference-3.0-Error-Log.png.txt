@@ -1,0 +1,23 @@
+Copy
+Clear Log Viewer
+Delete Log
+
+‘Open Log
+Restore Log
+
+BoxP wp
+
+jorkspace Log Export Log...
+
+type filter text Import Log...
+
+Message Plug-in
+@ Failed to retrieve default libraries for C:\Apps\jdld 6. org.ecli
+@ The modifications made to the secure storage by an_org.ecli
+@ Failed to retrieve default libraries for C:\Apps\jdld 6. org.ecl
+@ Failed to retrieve default libraries for C:\Program File org.ec|
+
+i New keyring password generated. org.ec
+@ Failed to retrieve default brates for C:\Program File orgeclipsejdtlaunching — 2009-01-05 16.1634 ~
+i ,
+

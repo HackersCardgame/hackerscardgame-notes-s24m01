@@ -1,0 +1,19 @@
+-60dB 4808 3608
+
+2408 128 ‘ode
+
+Threshold: ———$$$$$-- = - 19 aa
+
+2 Floor; ——9—$———$$$= -70 aa
+
+Ratio: ——Q——— 31
+Attack Time: Q—$=$$—=$=—=—= 0.2 secs
+Decay Time: {Q——$$==—=—= 2.0 secs
+
+M Make-up gain for OdB after compre:
+
+9 (Compress based on Peaks
+
+Cnet) GED
+A
+

@@ -1,0 +1,72 @@
+sthicttie
+cisco
+
+Products & Services
+
+How to Buy
+
+Training & Events
+
+ge] Login | Account | Register
+
+My Cisco | ~
+
+Partners
+
+Smart Call Home
+
+HOME
+PRODUCTS & SERVICES
+SERVICES
+TECHNICAL SERVICES
+CISCO SMARTNET SERVICE
+‘Smart Call Home
+Services Literature
+
+Gain Higher Availability and
+Operational Efficiency
+
+‘Smart Call Home enabled devices
+perform proactive diagnostics on their
+‘own components to provide real-time
+alerts and remediation advice when an
+Issue Is detected.
+
+Cisco Smart Call Home is an award-winning, embedded
+‘Support feature avallable on a broad range of Cisco
+‘products. This proactive support capabilly is provided at
+‘no additional cost when you have an active SMARTnet
+‘Service, SP Base, Unied Computing Support Service, or
+‘Mission Criical Support Service contract for the designated
+products.
+
+Related Tools
+
+‘Servioe Finder
+
+Related Links
+
+'SMARTnet Service
+
+‘SP Base Service
+
+Unies Services
+‘Service Awards & Cortfiations
+
+How Doos Smart Call Home
+Really Work?
+Find out how the Smart Call Home
+
+Real-Time Troubleshooting in
+Action
+
+‘Michael DeDeoker, Network
+‘Administrator, CCIE Warner
+Pacific Insurance Services (2:13
+min)
+
+Application Technical Documentation
+‘Smart Gall Home Web. ‘B managing Cisco UCS-C Series Rack
+
+‘Servers with Smari CallHome (POF - 1.1
+MB)

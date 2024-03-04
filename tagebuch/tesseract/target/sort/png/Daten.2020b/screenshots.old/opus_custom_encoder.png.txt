@@ -1,0 +1,16 @@
+OE Centos ~ Vv) iad NICOTINE Few issues: Vo | viceoanaly | Ley benringer | ma otuben Ane | Alesis“ MUNIN | & KRartentste | ma GV) Thome | ay thomanh | Gg bestenunc | EY BRAK | NX? amutus ~ | &# oboe/apps | kg Jamulus/jo | pus: pus & oT
+€ ecm s:/mF4.xiph.org/jenkins/view/opus/job/opus/ws/doc/html/group__opus__custom.html#ga8d6683d0b9f2990a: 8 -UOR noes Bow =
+
+eG Opus audio codec (RFC 6716): API and operations manual
+OPUS: 3.1-20-906a65154
+
+Opus Custom
+
+‘Opus Custom is an optional part of the Opus specification and reference implementation which uses a distinct API from the regular API and supports frame sizes that are not normally supported. Use of Opus Custom is for all but very special applications for which a frame size different from 2.5, 5, 10, or 20 ms is
+
+needed (for either complexity or latency reasons) and where interoperability is less important. More.
+
+Typedets
+
+typedef struct OpusCustomEncoder_OpusCustomEncoder
+Contains the state of an encoder. More.

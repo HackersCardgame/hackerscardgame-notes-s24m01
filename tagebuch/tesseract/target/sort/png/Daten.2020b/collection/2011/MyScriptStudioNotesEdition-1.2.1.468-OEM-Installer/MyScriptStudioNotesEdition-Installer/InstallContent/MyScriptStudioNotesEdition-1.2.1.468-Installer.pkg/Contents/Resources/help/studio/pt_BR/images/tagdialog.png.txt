@@ -1,0 +1,5 @@
+Gerenciar identificadores
+
+Para atrbuiridentificadores aos itens atualmente selecionades, use as caixas de
+selecSo que esto perto de cada respective identificador.
+

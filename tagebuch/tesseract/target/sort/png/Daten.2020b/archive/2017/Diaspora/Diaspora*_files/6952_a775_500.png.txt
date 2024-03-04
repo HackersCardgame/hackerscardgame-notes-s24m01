@@ -1,0 +1,53 @@
+| can help you with your cable Internet problem,
+sir. What operating system are you using?
+
+Ubuntu Linu-- | mean, Windows 7. And oh, | already
+
+did Windows Update and a full virus
+Great! Can you browse the Internet at all?
+
+scan,
+
+$ ping wow google.com
+*c
+
+18 packets transmitted, Oreceive
+$ traceroute www.google.com
+——_—__ 2 —
+a
+oe
+
+vee
+
+BC
+
+$
+
+100% packet loss
+
+Z—
+Z—
+
+Nope, Internet Explorer times aut on
+‘And have you tried rebooting your machine?
+
+every website.
+
+$ uptime
+15:07:27 up 62 days, 10:45, 4users, le
+
+average: 0.26, 0.23, 0.24
+
+Rebooted it twice before I called you. Also power-
+cycled my cable modem and my gateway router.
+
+&
+
+KT
+
+How to Get Technical Support.
+
+5
+2
+i
+

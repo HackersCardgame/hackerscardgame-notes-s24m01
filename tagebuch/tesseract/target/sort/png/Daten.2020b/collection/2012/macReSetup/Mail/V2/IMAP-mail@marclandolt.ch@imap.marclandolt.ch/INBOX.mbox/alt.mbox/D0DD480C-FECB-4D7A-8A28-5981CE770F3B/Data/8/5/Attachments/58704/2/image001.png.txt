@@ -1,0 +1,7 @@
+_ceneat_|
+
+-Connection: i
+Using: [IWeemLocator (Namespaces)
+
+Retuming: [IWoemServices [=] Completion: [Synchronous 1
+

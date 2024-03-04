@@ -1,0 +1,18 @@
+Sy Serpt nt cre
+
+MyScript InkRetriever
+
+Aproposde | Paramétres derécupération | Paramétres du périphérique
+
+Paramétres de stockage diencre
+CChoisissez le dossier de stockage du fichier dencre :
+:\Users adrienne Documents MyScrint Documents\notes\Ink Devices
+
+Paramatres avancés
+Effacer les fichiers du périphérique aprés le téléchargement
+Ecraser les fichiers existants du méme nom
+
+‘Examiner tous les périphériques USB
+
+Lancer automatiquement au démarrage de Windows
+

@@ -1,0 +1,719 @@
+File View Settings Help
+
+a
+
++ All Chats
+~ asdf
+4@ #lubuntu
++ Hpic30
+iF)
+
+48 #pci30
+
+& Disconnect » + Join
+
+as
+
+[16:23:34]
+[16:27:24]
+
+[16:30:00]
+[16:31:02]
+[16:31:04]
+[16:31:09]
+[16:31:32]
+[16:31:53]
+[16:31:54]
+[16:31:56]
+[16:32:10]
+
+[16:36:41
+[16:36:4
+[16:36:4
+[16:45:10
+[16:48:00]
+
+}
+]
+]
+[16:36:14]
+]
+]
+1]
+
+[16:51:10]
+[16:52:35]
+[16:53:37]
+[16:57:00]
+[16:57:04]
+[17:01:25]
+[20:23:41]
+
+landev (+Shi) ~
+
+Part
+
+<borls>
+<borls>
+<borls>
+<borls>
+<borls>
+<borls>
+poe
+<landev>
+<landev>
+<landev>
+<borls>
+<borls>
+<landev>
+<borls>
+<borls>
+<borls>
+<landev>
+<borls>
+<landev>
+<borls>
+<borls>
+<borls>
+<landev>
+<borls>
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+<borls>
+<borls>
+<borls>
+<landev>
+<landev>
+
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+<landev>
+
+6:
+[16:11:42] +OK ZRjv81j3GIP.4fki.14GdyM.ApbL6/29ke100TFHc/HIdi. OAQNve/pYaeQ..2t1jaOnRZfh,
+[6:
+[16:11:47] +OK PlcMP.9CtmMO7sxGb.RKc4O1cNV2V.JkWthOHqlwO0yZcesOYhBng.w6chH
+[16:11:50] +OK nldbxOuD7K/1MS1jLOOFDg20czq0a0qHnP/O
+
+[16:13:21]
+
+Playback Complete.
+
+Mode #pci30 +knst wehavenokey by irc.de.link-net.org
+
+Channel ##pci30 created on 2018-07-26 02:55:33 UTC
+
+The key for #pci30 has been set.
+
++OK H5YxmlyOXc50X.6Nn.foASHOajtew/F6q2k.
+
+uups
+
+have you run ./dbconfigfiles.sh and imported the watchdog user?
+
+yes
+
+its working for some time but then it crashes
+
+for how long?
+
+one time for 30mins
+
+other time for 10
+
+other time for thr
+
+but at least it restars
+
+no
+
+here it does not do that,
+
+because it cant bind
+
+the watchdog tries to kill and restart it
+
+but somehow the process is still open and therefor it cant bind
+
+are you on head of master?
+
+yes
+
+here i have no problem, it works since hours
+
+could it be, that you still have anoter udpserver open?
+
+end the server
+
+then type fg
+
+and when then the server pops up again, then there is still a instance running
+
+fg = ForderGround
+
+iwill be away now
+
+ok
+
+Iwill let it run
+
+and see if it crashes again
+
+and if it crashes make a ps -x without killing it, and copy the content or screenshot of ps -x to issues
+
+maybe later we can do a teamviewer session so that i can debug on the system, if we go over your computer and you enter the password then you can unplug the net if you fear that i do
+
+something bad
+
+another thing you can try is to completely delete the pci35 dir and clone everything new from the git, maybe there is a bug in your repo
+
+and maybe you need to rebuild your database completely with the script, maybe you have a bug there
+i did again some tests here, i can not brick it here.
+
+and have you started it with /startServer.sh?
+
+boris?
+
+ok i ready must go now
+
+boris im back
+
+39] +OK ZwodAlytDdd/iBQDf.NzrJUOPZ70G0j6uEHOP/UYWOXsIOu.zh/KJ.kXjSH/9Dw3V1vt6yELHPm3N.JFVZEOa4BNFLlepAsOhr3kr/82InA/IESTE1t67Fi0
+
+:45] +OK IBOE/IphgSe0zRoaDOAx0/viu.NtvOke4XB1TmTgTOnuSRbOnGRis/elhZP.o3FCm1K7Rhx/
+
+| Nicks
+
+=) ° 2 3Users
+
+borls
+landev
+stalefish
+
+ae,
+
+@ (85) Talk| Harald Lesch - x
+
+€ ea
+
+Twitter x
+
+groot.dnsfor.me
+
+Groups ¥ Activity Milestones Snippets
+
+® Projec
+B Repository
+
+O) Issues 2 3
+
+List 5
+
+>
+
+Board 3
+
+>
+
+>
+
+>
+
+>
+
+Milestones 3
+
+>
+
+>
+
+2 >
+
+i) >
+
+>
+
+>
+
+>
+
+ERROR
+
+ERROR
+
+Operations ERROR
+
+ERROR
+© wiki
+& Snip|
+
+release
+content
+dupeT ype
+
+neral Blacklist
+
+parsed u
+all Site:
+pre
+
+skipped
+
+User Blacklist
+
+userd3
+AME
+
+be
+be
+
+be
+
+he
+
+he
+
+he
+
+he
+
+check!
+check!
+check!
+checkTunaze
+lookupTum
+lookupTum
+
+R lookupTum.
+
+R lookupTum
+
+R lookupTum
+
+checkTuna:
+checkTunaze -
+checkTuna
+
+R checkTumaze -
+
+do
+
+https://groot.dnsfor.me::
+
+checkTunaze
+checkTunaze-
+checkTunaze-
+
+Go
+
+@ Trump says he stopped
+
+P:
+P:
+P:
+P:
+P:
+P:
+
+x
+
+432/pri/pri35/uploads/51293fbf85c50ceOccf1b877f084306/tvmaze-error.png
+
+tvmaze errors -- causes slow down (#15). Issues - pri / pri35- GitLab - Mozilla Firefox
+
+@ (87) Quantenmechanik| x
+
+Opened 1 week ago by $i landev
+
+@ (87) Chilled: A Liquid Dn x
+
+tvmaze errors -- causes slow down
+
+19-81
+
+noDupe
+GAMES . EN. WINDOWS . EXTERNAL
+[None, None, None]
+
+t
+
+BBR BBR-T
+[None, Non
+
+vuser@5’, Puser@i
+
+ruser@2’, ’user@3’, ’userB4? 1
+ZP BBR BBR-TBS BRW DNS DOM DUN GP Hii JC KOH ME MUN
+zP BRW DNS DOM DUN GP HH KOH MF MWN RATS RFA ZH
+
+, None]
+
+IZ GAME 7GAMES-0 /GAMES-0
+
+i GAME 7GAMES-B S /GAMES-@
+
+190918:
+
+85525279
+
+5928
+
+TUMAZE AIR
+TUMAZE AIRDATE,
+TUMAZE AIRDATE,
+TUMAZE AIRDATE,
+
+AIRDATE, future
+future
+futui
+future
+
+Gould
+Gould
+
+- Could
+
+- NO
+- NO
+- NO
+- NO
+- NO
+- NO
+
+NO
+
+TUMAZE AIRDATE, maybe 3
+
+ZE AIRDATE, maybe
+AIRDATE, maybe
+AIRDATE, maybe
+AIRDATE, maybe
+AIRDATE, maybe
+AIRDATE, maybe
+
+episode future
+episode i future
+episode future
+episode future
+episode future
+episode future
+episode future
+
+Showallactivity » | Create merge request
+
+‘alot of tv releases + random to the server (by udp)
+
+(1) Facebook x
+
+‘@ tvmaze errors -- causes. X | +
+
+~ Ow
+
+Owner
+
+Todo
+
+Assignee Edit
+kp landev
+
+pg @landev
+
+Milestone Edit
+None
+
+Time tracking C)
+
+o estimate or time 5}
+
+Due date Edit
+None
+Labels Edit
+
+Confidentiality Edit
+on
+
+Lock issue Edit
+6 Unlocked
+
+2 participants
+a
+
+Notifications
+Reference: pri/pri35#15 %
+
+Moveissue
+
+Activities © FirefoxESR ~
+
+2019/c
+2019/c
+2019/c
+2019/c
+
+2019/c
+2019/c
+2019/c
+2019/c
+
+Daten.2019/c
+
+Daten.2019/c
+
+Daten.2019/c
+
+Daten.2019/c
+2019/c
+
+Daten.2019/c
+2019/c
+
+Daten. 2019/m
+
+Daten. 2019/m
+
+Daten. 2019/musik/DJ-Controller/Mixxx/Numark-Party-Mi:
+
+Daten.2019/s|
+
+nt 120,18
+otal i
+
+UNIT TESTS
+
+/pri35-watchdog
+/pri35-watch
+/pri35-watchd
+/pri35-watch
+
+ests/old/
+
+/pri35-watchdog
+/pri35-watch
+/pri35-watch
+/pri35-watch
+/pri35-watch
+/pri35-watchdoc
+/pri35-watch
+/pri35-watch
+/pri35-watchd
+/pri35-watch
+
+watchd
+
+Wu
+
+Wu
+
+howe
+1083 byte:
+
+156,548,
+
+a)
+
+receive
+42, 452
+
+FOR PIRSSITESTE!
+
+UNIT TEST s_ FOR PIRSSITESTER:
+
+UNIT TESTS
+
+FOR PIRSSITESTE!
+
+UNIT TEST s_ FOR PIRSSITESTE
+
+UNIT TESTS
+
+[1]+  stoppe
+
+FOR PIRSSITESTER:
+
+python3 pirssit
+
+~/pri35/pci/server$ []
+
+s/old/swedish/test
+
+175,307 bytes
+1,300.64
+
+/tv-unsort
+
+/tv-web/
+
+/tv-web/t
+/tv-web/testTvWeboutput. sh
+/tv-web/tv.web.output
+
+h/
+
+roups
+ri
+sh
+
+m:
+
+915,303.35 byt
+
+ster.py $i
+
+d/fails3.txt
+
+scripts.j
+
+- >>> parsed us
+
+ro4',
+
+- >>
+Dom Doom
+
+proc
+
+Fri 21:09 ©
+
+>
+
+a5a,
+
+f, ml
+
+au,
+
+dup.
+
+na.Latina.B.
+
+‘u
+
+benchmark
+
+ing
+
+mwn,
+
+az
+
+05",
+
+it
+
+receive
+
+ifis
+
+notifiec
+
+receive
+
+receive
+
+ifis
+
+receive
+
+Boobs
+
+DVN EF EPH EXN G4Y
+
+ASA AZP BAE BAN BBR BBR-TBS
+GP HH JB KOH MF SITEL
+
+a5a azp bi
+y gp hh jb
+[None,
+
+ifs
+
+2019-06-17 16
+
+1080p .MP4-KTR
+1080p. EN. EXTERNAL
+
+/
+
+ffi
+
+ban
+
+oh mf
+None
+
+‘userol',
+
+bbr bb
+
+None]
+
+0. 37531208992004395:
+
+43:26 Tr
+
+‘usero2',
+
+BOOM BRW CAVE CP CW DNS
+TE2 TPB
+
+ZH
+
+m brw
+
+cav
+
+maybe asynchronus (that means the answer comes later)
+
+p, bae,
+vn, ef, eph, exn,
+
+nj,
+
+rb,
+
+ban,
+
+pn,
+
+bbr-tb
+jot,
+qui
+
+pb, tt, tvt, us, w42, zh
+
+bbr,
+
+boom,
+
+brw,
+
+cave,
+
+cp,
+
+cw,
+
+, hh, hln, hr, hsr, id, jb, jc,
+
+r
+
+t
+
+rfa,
+
+Fc,
+
+sil,
+
+tb,
+
+cp cw ¢

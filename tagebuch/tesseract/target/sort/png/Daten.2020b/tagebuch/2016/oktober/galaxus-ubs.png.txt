@@ -1,0 +1,42 @@
+Konto
+
+Einzahlung far
+
+Zugunsten von
+
+Zahlungsdetails
+
+Betrag
+
+Referenz-Nr
+
+usfhrungsdatum
+Buchung
+
+Buchungstext
+
+Buchung
+
+Avisierung
+
+01-004571-0
+
+CREDIT SUISSE AG
+ZUERICH
+Galaxus
+
+CHF 55.00
+94 34551 00045 98830 00752 76471
+28.10.2016
+
+Hand-Mixer
+Einzelbuchung
+
+Ohne Avisierung
+
+Status
+
+Auttragsnummer
+
+Q volivisiert
+9931301T16907306

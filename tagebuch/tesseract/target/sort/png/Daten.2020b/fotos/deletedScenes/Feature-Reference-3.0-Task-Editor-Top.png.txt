@@ -1,0 +1,33 @@
+G. Bug 18 Product Development ® @ @ 3|Q| ©
+
+‘move the search label to the left of the input box
+© PA Status: NEW Bug: 18 Opened: Jan 28, 2009 Modified: Jan 29, 2009 6:33 PM
+
+¥ Attributes
+
+Resolution:
+
+All
+Product: TestProduct, Al
+Component: ‘TestComponent ‘unspecified
+Pa ‘trivial
+a
+
+Priority: vi
+Target milestone:
+Depends on (Sub...
+URL:
+
+Keywords:
+
+Status Whiteboard:
+
+% Estimated Time: 0.00 Current Estimate: 0.0
+
+Remaining: 0.00
+
+~ Attachments (1)
+
+Name Description
+IB) button designpng Button graphic
+

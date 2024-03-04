@@ -1,0 +1,10 @@
+' If no rule matches, i would add these results to a file to improve pic-dev
+
+sub printnomatch {
+my $rel = shift;
+if ( $extrainfo ne '"" ) {
+print "$extrainfo\n";
+
+! print "\e[1;30m - X\e[0;37mX\e[1;37mX\e[Om nomatch \e[1;30m:\e[0;37m $rel\e[Om\n\n" if $CONFIG{COLOR} eq 1;
+| print " - XXX nomatch : $rel\n\n" if $CONFIG{COLOR} eq 0
+}

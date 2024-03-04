@@ -1,0 +1,43 @@
+Activities | > Terminal Mon 04:59 o 3
+
+mnt/home/marc/Daten.2014/myLife/Tagebuch/2001/November
+
+ch Terminal Help y/nyquist/seq.1sp'
+Hacity/nyquist /nyqmisc .1sp'
+i: /mnt/home/marc/Daten.2014/myLife/Tagebuch/2001/Disketten/2001/November|
+
+i:/mnt/home/marc/Daten, 2014/myLife/Tagebuch/2001/Disketten/2001/November|
+
+i P In ten.2014/myLife/Schizophrenie: fauxpasStaat
+/mnt/home/marc/Daten.2014/myLife/Tagebuch/2001/Disketten/2001/November fl ren .2014/myLife/Schizophrenie: fauxpasStaat~
+
+¢ . ¢ 013/myLife/Schizophrenie: .htaccess
+:/mnt/home/marc/Daten. 2014/myLife/Tagebuch/2001/Disketten/2001$ 1s 913/myLife/Schizophrenie: .htpasswd
+Oktober | September [ 3 ten. 2014/myLife/Schizophrenie: IV-Antrag.pdf
+/mnt/home/marc/Daten. 2014/myLife/Tagebuch/2001/Disketten/2001$ cd,,.... [Miten.2014/myLife/Schizophrenie: .~lock.Kann ein Aufenthalt in eine|
+i:/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001/Disketten$ 1s len Klinik’ Menschen: hel fen -doc#
+2001 difficultLetten, txt P ¢ ten .2014/myLife/Schizophrenie: Tagesplan-ods
+Inarc@kalis/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001/Disketten$ cd... ten.2014/myLife/Tagebuch/2000: /evaluatelWordcount :sh
+narc@kalit/mnt/home/marc/Daten. 2014/myLife/Tagebuch/2001$ 1s ten.2014/myLife/Tagebuch/2000: evaluator
+Disketten November: ten.2014/myLife/Tagebuch/2000: myfiles.txt
+qualmete ord semate sth pictobe ‘ten.2014/myLife/Tagebuch/2000: Wordcount .txt
+i evaluator, September 013/myLife/Tagebuch/2001/Dezembers 13.txt
+blumsHacker-f-strich.png Januar . + txt (013/myLi fe/Tagebuch/2001/Disketten/2001/November
+claudine mail, traffic, txt  kollegenVonClaudine.txt Wordcount .txt 013/myLife/Tagebuch/2001/Disketten/2001 /November
+Dezember» myfiles.txt (013/myLi fe/Tagebuch/2001/Disketten/2001/November
+Inarc@kalis/mnt/home/marc/Daten. 2014 /myLife/Tagebuch/2001$ cd November/ 013/myLife/Tagebuch/2001/Disket ten/2001/November
+Imarc@kali:/mnt/home/marc/Daten. 2014/myLife/Tagebuch/2001/November$ Ls 013/myLi fe/Tagebuch/2001 /Disket ten/2001/November
+SbctyDatbh. tet 013/myLife/Tagebuch/2001/Disket ten/2001/November
+narc@kalit/mnt/home/marc/Daten. 2014/myLife/Tagebuch/2001/November$ ff 013/myi fe/Tagebuch/2001 /Disket ten/2001/November
+*/dat/Daten.2013/bin/Audacity/Audacity .app/Contents/Resources/Audacjonty in Daten.2013/myLite/Tagebuch/2001/Disketten/2001/November
+udacityAU.icns! only in Daten.2013/myLife/Tagebuch/2001/Disketten/2001/November
+*/dat /Daten.2013/bin/Audacity/Audacity. d
+es/EQDefaultCurves.xml'
+*/dat /Daten.2013/bin/Audacity/Audacity.
+AudacityMP3.icns'
+*/dat /Daten.2013/bin/Audacity/Audacity.app/Contents/MacOS' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/Mac0S
+*/dat /Daten.2013/bin/Audacity/Audacity.app/Contents/MacOS/Audacity' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/MacOS/Audacity
+*/dat /Daten .2013/bin/Audacity/Audacity.app/Contents/MacOS/Audacity.sh' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/MacOS/Audacity .sh
+*/dat /Daten.2013/bin/Audacity/Audacity.app/Contents/PkgInfo' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/PkgInfo
+*/dat /Daten .2013/bin/Audacity/Audacity.app/Contents/Info.plist' -> */mnt/home/Daten.2013/bin/Audacity/Audacity .app/Contents/Info.plist
+marc@kali:/mnt/home/marc$ ff

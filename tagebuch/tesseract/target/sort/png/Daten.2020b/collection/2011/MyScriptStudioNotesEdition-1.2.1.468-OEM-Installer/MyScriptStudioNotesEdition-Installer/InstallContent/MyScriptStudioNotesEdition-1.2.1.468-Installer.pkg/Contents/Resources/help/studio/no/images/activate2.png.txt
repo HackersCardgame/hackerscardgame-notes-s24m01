@@ -1,0 +1,24 @@
+LCC
+
+o
+
+Det kan vaere umulig & aktivere automatisk fordi serveren er nede eller opptatt,
+<llerfordisikkerhetsinnstillingene forhindrer kommunikasjon med serveren. 158
+fall kan du bruke den manuelle aktiveringsprosessen, som bestir av fire
+
+1. Klikk OK i denne dialogboksen.
+
+2. Dette oppretter en tekstfil med koden din, en unik identifikator for maskinen
+‘0g en produktkode. Hvis du oppretterfilen p en maskin uten
+Intemett-tilkobling, ma du kopiere denne teksten til en annen maskin og sende
+den derfra.
+
+3. Kopier denne informasjonen tl en e-postmelding, og send den til
+~aktiveringstjenesten vir p8 VO
+support<activation.studio.support@visionobjects.com>. Vi lager en aktiveringsfil
+‘0g sender den tlbake til deg via e-post. Denne filen kan bare brukes p én maskin
+—maskinen der foresporselen opprinnelig ble opprettet.
+
+4, Dobbeltklikkfilen "licence.lc” som ligger vedlagt e-postmeldingen. Dette
+4pner et lite program som aktiverer programvaren for handskriftgjenkjenning.
+

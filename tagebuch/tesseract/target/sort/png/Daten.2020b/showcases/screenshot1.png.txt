@@ -1,0 +1,31 @@
+marc@debian: ~/Daten.2017/code/shrikey/python
+File Edit View Search Terminal Help
+pci-dev-new.py needs a parameter
+
+- /. -
+a 7 J _ 7 _ 7 a
+_/ 7 7 J 7 7 _
+/ 7 J 7 7 7 _
+7 : / 7 J 7
+/ 7. \ \ /
+- <<< =[PCI-3.0.1a1]/ \+[pHASE. cOMBOGEN. INTERFACE ]+====\__/=: >>> -
+
+usage: pci-dev-new.py [-h] [--test TEST] [--login LOGIN] [--debug] [--version]
+
+python3 pci-dev-new.py --test Novitiate.2017.1080p.BluRay.X264-AMIABLE to
+classify the file into sections and decite to push to which Server
+
+optional arguments:
+
+-h, --help show this help message and exit
+
+--test TEST tests given parameter for section and destinations
+--login LOGIN logsin given parameter into ppFTP
+
+--debug shows debugging information
+
+--version shows version
+
+marc@debian:~/Daten.2017/code/shrikey/python$ python3 pci-dev-new.py --version
+PCI-DEV-NEW Version: 3.0.1al
+marc@debian:~/Daten.2017/code/shrikey/python$ If

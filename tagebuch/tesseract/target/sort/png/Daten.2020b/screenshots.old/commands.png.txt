@@ -1,0 +1,154 @@
+Q
+
+marc@debian:~/pri42/bin$ cd ..
+
+marc@debiat
+
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+if
+
+marc@debian:~/pri42/src$
+
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+
+~/pri42$ cd src/
+marc@debian:~/pri42/src$ fgrep -r
+
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+cl
+
+2 == "-d"
+isSite(c2))
+
+isSite(c2) && c3
+del" && isSite(c3))
+
+2
+2 add"
+isSite(c2)
+isSite(c2)
+isSite(c2)
+isSite(c2)
+isSite(c2)
+
+)
+
+)
+
+&&
+&&
+&&
+&&
+&&
+
+server/commandParser .cpp
+
+//TODO; maybe try catch in tcpserver.cpp
+
+ ~/pria2/sre
+
+//T0D0: additional check for block other passwords
+
+isInVector(c3,
+isInVector(c3,
+isInVector(c3,
+isInVector(c3,
+isInVector(c3,
+
+courier")
+
+CommandParser: :
+
+CommandParser: :
+
+CommandParse
+
+parameterWithModifier) ) //TODO:
+
+parameterWithModifier) && c4
+parameterWithModifier) && c4
+parameterWithoutModifier) && c4
+parameterWithModifier) )
+
+maybe check if parameter with modifier, what with blacklist */1/2
+

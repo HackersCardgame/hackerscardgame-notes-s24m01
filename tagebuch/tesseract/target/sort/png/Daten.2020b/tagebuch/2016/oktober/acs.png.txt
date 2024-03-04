@@ -1,0 +1,38 @@
+Fernzugriff auf Konfiguration [searbeiten | Quelitext bearbeiten]
+Im DSL-Breitbandmarkt stellt TR-069 den dominierenden Anschaltstandard fur Zugangsgerate dar. Die technischen Spezifikationen (TR-069) werden vom Broadband Forum veréffentlicht.
+Das Protokoll umfasst Methoden fr die Autokonfiguration als auch zur (An-)Steuerung anderer CPE-Funktionen in einem einheitlichen Framework. Dabei werden verschiedene Arten von CPEs unterschieden. Beim
+
+Grundtyp handelt es sich um Breitband-/DSL-Ausrustung, wie z. B. DSL-Router.
+
+Mit dem Markterfolg von Breitbandzugangen zum Internet steigt die Anzahl sonstiger Zugangsgerate (2. B. neben Modems und Routern auch Residential Gateways,
+TR-069 im TCP/IP-Protokollstapel
+
+Set-Top-Boxen, Spielkonsolen, IP-Telefone und IP-TV-Streaminglésungen)
+
+Da sich die Komplexitat dieser Geraite erhoht, uberfordert deren Konfiguration viele Benutzer. Daher wurde mit TR-069 ein Protokoll entworfen, das einem
+(EWES) aes Providers aufnehmen NU UES
+
+Zugangsprovider die Fernwartung dieser Geréite erméglicht. Via TR-069 kénnen Endgeréte Kontakt zum [Nit
+
+und automatisch konfiguriert werden. Transport Ter
+
+Neben dem TR-069-Kernstandard fur DSL-Router gibt es Nebenstandards fur andere Endgerate hinter der NAT/Firewall des DSL-Routers - und mit dem Zugriff auf Internet IP (IPv4, IPv6)
+
+diese. Das Broadband Forum méchte den Standard TR-069 auch auf Glasfaser-Technologien und Femtocell-Router ausdehnen. Token Token
+Netzzugang Ethernet FDDI
+
+Bus Ring
+
+emia CPE contol
+‘wa TOGO
+
+ACS Nothbound
+
+a terse
+j— BRAS broadband Network
+CPE
+088 /Senioe
+joe? ber
+Configurator ers (ous0me
+
+Manager Bae Fquppmert)

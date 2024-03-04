@@ -1,0 +1,12 @@
+Host Dependencies
+
+NOTIFICATION
+FAILURE OPTIONS:
+‘downunreachable
+
+NOTIFICATION FAILURE
+OPTIONS: down
+
+NOTIFICATION
+FAILURE OPTIONS:
+‘down.unreachablo

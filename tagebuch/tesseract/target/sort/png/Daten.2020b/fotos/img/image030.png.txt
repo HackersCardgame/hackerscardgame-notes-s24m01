@@ -1,0 +1,7 @@
+@#) Placez ces syllabes dans Il'ordre pour reconstituer le mot a trouver.
+
+Je suis un objet permettant de monter ou de descendre.
+
+Attention, je ne suis pas un escalier ! Je suis une...
+
+é elle ch

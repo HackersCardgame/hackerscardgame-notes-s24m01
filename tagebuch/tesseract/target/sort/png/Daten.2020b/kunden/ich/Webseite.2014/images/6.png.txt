@@ -1,0 +1,22 @@
+Steuerwerk
+
++ uc Tac
+te rr
+.
+4) uc
+Eq uc iro
+Befehlsregister “
+Operationsteil Adressieil
+perationst ss ; i ( )
+TC} instruction Pointer
+¥
+‘Adressberechnung,
+
+Decodierer >|
+
+Rechenwerk
+
+VO Steuerung
+
+Neue Adresse
+Instruction

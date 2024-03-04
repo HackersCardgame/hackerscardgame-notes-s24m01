@@ -1,0 +1,44 @@
+Devices) )Fu
+
+Q
+
+» @discovered (4)
+» @UTTP (0)
+
+> @kvm (0)
+
+» Onetwork (4)
+
+» @Ping (0)
+
+> @Power (0)
+
+> @Printer (2)
+
+» @server (5)
+
+Ocrours
+Osysreus 0)
+
+rocanons @)
+
+Apps © Debian.org © LatestNews © Help
+
+o v A I~] © [setect~ ‘@ Refresh ~| Actions ~
+192,188.11 192.168.11 ‘[Discovered Production
+192.168.179.105 192.168.179.105 [ServeriLinux Production
+192.168.179.110 192.168.179.110 Production
+192.168.179.152 192.168.179.152 Production
+192.168.179.135 192.168.179.135 Production
+192.188.179.153 192.188.179.151 Production
+192.168.179.224 492.168.179.224 Production
+192.168.179.245 192.168.179.245 Production
+BRNOOIBASTESEDC 192.188.1244 Production
+BRN_058243 192.168.179.244 Primer Production
+Cisco ianered.ch 192.168.179.1 Production
+BCom 182.188.122 Production
+NaneBieamiv2 400 192.168.179.20 —etwork Production
+NaneBieamiv2 400 192.168.179.21Network Production
+zenoss 192.168.178.146 [ServerlLinux Production
+
+Commands ~

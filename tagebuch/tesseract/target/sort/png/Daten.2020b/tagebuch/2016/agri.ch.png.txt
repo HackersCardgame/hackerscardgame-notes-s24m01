@@ -1,0 +1,47 @@
+Domain name:
+agri.ch
+
+Holder of domain name:
+Green.ch AG
+
+Operation Center Server SOC
+Badstrasse 50
+
+CH-5200 Brugg
+
+Switzerland
+
+Contractual Language: German
+
+Technical contact:
+
+Green.ch AG
+
+Operation Center Server SOC
+Badstrasse 50
+
+CH-5200 Brugg
+
+Switzerland
+
+Registrar:
+InterNetX GmbH
+
+First registration date
+before 1996-01-01
+
+DNSSEC:N
+Name servers:
+dnsl.agrinet.ch [81,.221.250.11]
+
+dns2.agrinet.ch [81,.221.252.11]
+claude@debian:~$ ff
+
+dnsl.agrinet.ch [2a01:2a8:2001:250::
+
+dns2.agrinet.ch [2a01:2a8:2001:252::
+
+11)
+
+11)
+

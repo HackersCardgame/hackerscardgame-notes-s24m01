@@ -1,0 +1,12 @@
+NVIDIA GPU Model Double-precision (64-bit) Floating Point Performance
+
+GeForce GTX Titan X Maxwell up to 0.206 TFLOPS
+GeForce GTX 1080 Ti up to 0.355 TFLOPS
+GeForce Titan Xp up to 0.380 TFLOPS
+GeForce Titan V up to 6.875 TFLOPS
+Tesla k80 1.87+ TFLOPS
+Tesla P100* 4.7 ~5.3 TFLOPS
+‘Quadro GP100 5.2 TFLOPS
+Tesla V100* 7~7.8 TFLOPS
+
++ Exact value depends upon PCI-Express or SXM2 SKU

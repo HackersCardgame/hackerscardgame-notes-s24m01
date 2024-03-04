@@ -1,0 +1,30 @@
+TCPDUMP(8) System Manager's Manual TCPDUMP (8)
+
+NAME
+tcpdump - dump traffic on a network
+SYNOPSIS
+tcpdump [ -AbdDefhHIIKLLnNOpqRstuUvxx# ] [ -B buffer size ]
+[ -¢ count ]
+{ -¢ file size ] [ -G rotate seconds ] [ -F file ]
+( -i interface ] [ -j tstamp type ] [ -m module ] [ -M secy
+[ --number ] [ -Q inJoutjinout ]
+( -r file ] [ -v file ] [ -s snaplen ] [ -T type ] [ -w
+( -W filecount ] A
+[ -E spi@ipaddr algo:secret,... ]
+( -y datalinktype ] [ -z postrotate-command ] [ -Z use
+[ --time-stamp-precision=tstamp precision ]
+[ --immediate-mode ] [ --version |
+( expression ]
+DESCRIPTION
+
+Tcpdump prints out a description of the contents of packets on a network >.
+that match the boolean expression; the description is preceded by a time stamp,
+printed, by default, as hours, minutes, seconds, and fractions of a second since mid-
+night. ‘It can also be run with the -w flag, which causes it to save the packet data
+to a file for later analysis, and/or with the -r flag, which causes it to read from a
+saved packet file rather than to read packets from a network interface (please note
+tepdump is protected via an enforcing apparmor(7) profile in Ubuntu which limits the
+files tcpdump may access). It can also be run with the -V flag, which causes it to
+read a list of saved packet files. In all cases, only packets that match expression
+will be processed by tcpdump.
+

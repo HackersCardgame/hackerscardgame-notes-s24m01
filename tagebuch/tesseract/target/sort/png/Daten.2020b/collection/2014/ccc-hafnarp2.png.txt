@@ -1,0 +1,462 @@
+Reconstructing
+narratives
+
+Jacob, Laura Poitras
+Surveillance, cryptography,
+terrorism, malware, economic
+espionage, assassination,
+interventions, intelligence
+services, political prisoners,
+policing, transparency, justice
+and you,
+
+Global Civil Society
+Under Attack
+Michael Carbone
+
+‘An update to our Reports from
+the Frontlines talk at OHM
+
+2013, we will provide the
+latest stories and figures from
+‘Access digital security
+helpline that provides security
+incident response and
+
+[Im Sommer 2014 wurde die
+‘sogenannte Digitale ,Agenda”
+vorgestellt, die als
+_netzpoitisches
+
+Regierungsprogramm”
+bezeichnet wurde, Aus
+
+Long war tactics
+Sacha van Geffen
+Referring tothe seminal tlk
+Dymaxion gave atthe closing
+lof the NoisySquare at OHM in
+2013, Ths talk wil explore
+‘what has happened and what
+has notin the mean time on
+the "battle ground”. An
+‘overview will be presented on
+
+The automobile as
+massive data gathering
+source and the
+consequences for
+individual privacy
+Volkmar
+
+We report about a LOAD e. V.
+
+study regarding data collection
+of cars, future developments,
+ff this technolney field how
+
+Doing right by sources,
+done right
+
+Sarah Harrison, gracefire
+Whistleblowing is becoming a
+progressively popular topic
+‘and ways to technically
+‘support anonymous
+‘submissions by journalistic
+sources are being increasingly
+siscussed and developed.
+
+Checks & (Im-)balances?
+MHerz
+
+The global surveillance
+‘scandal has shown during the
+last year that attitudes and
+behavior towards surveillance,
+Internet usage and data
+security are global topics,
+wiich are nevertheless
+‘embedded in culture-specific
+
+Trackography
+Maria Xynou, Claudio & vecna
+Have you ever wondered wo
+is watching while you are
+reading your favourite media
+‘online? Whether we are
+reading the Guardian, the New
+York Times or any other news
+website, third party trackers
+are collecting data about our
+
+Das Transparenzportal
+Hamburg
+
+Lothar Hotz
+
+|Iim Vortrag wird die technische
+Umsetzung des
+Transparenzportals Hamburg
+vorgestellt.
+
+Deine Rechte sind in
+diesen
+Freihandelsabkommen.
+nicht verfiigbar
+Katharina Nocun
+
+Die Kritikam
+Freihandelsabkommen TTIP
+‘und CETA auf die
+‘Chlorhhnchen 2u
+beschranken, greift viel zu
+
+Security Analysis of
+Estonia's Internet
+Voting System
+
+J. Alex Halderman
+
+Estonia is the only country in
+the world that relies on
+Internet voting in a significant
+way for legally-binding
+national elections — up to
+[30% of all voters cast their
+
+Hardware & Makin;
+
+Correcting copywrongs
+Julia Reda
+
+‘After years of debate, EU
+‘copyright law is finally being
+revisited, The Commission will
+present a proposal for reform
+Within 4 months of 313. And
+it's high time: There has never
+been a bigger discrepancy
+between the technical
+
+IFG - Mit freundlichen
+GriiBen
+
+‘Stefan Wehrmeyer
+
+Die interessantesten
+IFG-Geschichten des Jahres
+mit Anfragen und
+‘Ablehnungen, Klagen und
+Kampagnen, AuBerdem: wie
+wir mit Hilfe des Journalismus
+der Informationsfreiheit
+
+Paypals War on Terror
+the.no
+
+We are the PayPal 14, For the
+last several years weve been
+restricted in what we could or
+couldnt say about our court
+‘case, Our sentencing is on
+December 4th, ending the
+legal restrictions on what we
+‘can share about our story.
+
+Encrypting the Web
+‘sdschoen
+
+‘As we continue to lear just
+how untrustworthy networks
+are, our determination to
+‘encrypt all Internet traffic
+‘grows. EFF and our colleagues
+‘are working on several fronts
+‘to help and push toward this
+goal. In this presentation, wel
+
+Telescope Making
+Madonius
+
+In this talkan introduction to
+‘amateur telescope making
+(ATM) willbe provided.
+Starting from grinding the
+mirror, testing it and building
+the telescope around it.
+
+Internet of toilets
+tbsprs
+
+Atolet isa toilets toilet.
+was a tole. Nowadays
+hackers discover larger
+interest in doing more with
+toilets then just what they
+were designed fr inthe ist
+place. Within the “Internet of
+things" scene the sanitarian
+Seer
+
+Low Cost High Speed
+Photography
+
+polygon
+
+Capturing the splash of a
+water balloon, the snap of a
+‘mouse trap or the impact of a
+bullet reuits in exciting
+pictures. Best ofall, it doesn't
+require expensive equipment.
+This tlk covers the theory of
+
+The Maker movement
+meets patent law
+
+Natalia Lukaszewice
+
+‘The Maker movement and
+patent law are lke two planets
+moving onthe orbit of
+innovations. Occasionally, they
+collide .. cause the Maker
+planet moves too fast. But,
+backon the Earth, Encounters
+
+‘Towards General
+Purpose Reconfigurable
+‘Computing on Novena
+stars, Andy Isaacson
+
+‘The Novena open source
+laptop contains a FPGA, but
+free software support for
+FPGAs slacking and requires,
+root access to the hardware.
+‘Our workis on providing a
+
+How! Learned to Stop
+Reinventing and Love
+the Wheels
+
+Andreas Biimaier
+
+‘An introduction to the Robot
+‘Operating System (ROS) for
+the home/hackerspace
+roboticist if it physically
+interacts with the world
+through code, cal it robot).
+
+Let’s build our own.
+personalized open
+textile production line
+Hong Phuc Dang
+
+The talkis about our project to
+develop software and
+hardware tools fora fair and
+‘environment friendly garment
+and textile production and
+how we break down the locks
+
+Safer playing with
+lasers
+
+Sarah
+
+How to play with lasers
+without injuring Yourself and
+‘others and how to design the
+safety circuits ofa laser
+system.
+
+MegaCode to facility
+gates
+
+Kévin Redon
+
+How do garage gate remotes
+work? It turns out the ones
+from MegaCode simply send a
+individual fixed code. And with
+little efforts if was possibly to
+clone them, send arbitrary
+‘codes, and record them all.
+
+Damn Vulnerable
+Chemical Process
+‘Marmusha
+
+‘So you want to author a next
+‘Stuxnet (or even cooler than
+that). Here isthe success
+recipe: forget what you have
+known about cyber security.
+When an attack transitions
+from control ofa digital
+
+Fernvale: An Open
+Hardware and Software
+Platform, Based on the
+(nominally) Closed-
+Source MT6260 SoC
+bunnie, Xobs
+
+We introduce Fermvale, a
+reverse-engineered, open
+hardware and software
+blatform based oon
+
+Forging the USB armory
+Andrea Barisani
+
+‘The presentation will cover the
+journey that we have taken to
+‘develop the USB armory board
+from scratch, explaining the
+lessons learned and its
+prospected applications.
+
+Why do we need an
+open food information
+platform
+
+Alexis
+
+We from EveryCook are
+building an open source
+‘computerized cooking device.
+[At 29C3 I presented the idea
+of digital cooking and people
+{gave me an awesome
+
+Podcasting mit Podlove
+Tim Pritlove
+
+Das Podlove-Projekt machte
+‘das Publizieren von Podcasts
+mit eigener Software und
+neuen Standards und
+‘Spezifikationen auf eine neve
+Ebene heben. Tim Pritlove
+{rt in den Podlove Publisher,
+
+‘den Podlove Web Player und
+
+‘The eXperimental
+Robot Project
+
+‘Norbert Braun
+
+The talkis on the
+‘experimental Robot Project
+(RP), a project to develop an
+‘open-hardware humanoid
+robot. More precisely, we are
+focusing on the distinguishing
+feature of a <i>humanoid</i>
+
+Mr Beam goes
+Kickstarter
+
+Teja
+
+Mr Beam was started as a
+hobby project aiming to get
+more experience in 3D
+printing. For fun we put it on
+Kickstarter and ended up in
+kind ofa roller coaster.
+
+410 Jahre
+OpenstreetMap
+
+Thomas Skowron
+
+‘eit nun Uber 10 Jahren gibt es
+‘OpenstreetMap. Besonders in
+den letzten del Jahren war die
+Entwicklung iberwaltigend,
+‘sowohl was die Datenlage als
+‘auch das gesamte Okosystem
+anbelangt. Wir wollen zeigen,
+
+‘CAESAR and NORX
+Philipp Jovanovic, aumasson
+“Nearly all of the symmetric
+‘encryption modes you learned
+about in school, textbooks,
+‘and Wikipedia are (potentially)
+insecure." - Matthew Green
+In recent history, we saw time
+and again (to some extent
+‘atastrophic) failures of
+|
+
+‘Space Hacker
+Karsten Becker, Robert
+
+[At the 25C3 we first presented
+‘our vision of sending a rover to
+the moon, We'e stil n the
+pursuit of doing this and are
+closer than ever. Many things
+have happened in the past 5
+years and we want to share
+‘our story with you. But this
+
+Diamonds are a
+quantum computer's
+best friend
+
+‘Nicolas Wahe!
+
+‘The next revolution in data
+processing is Quantum
+‘computing. Ths talkis an
+entertaining “tour de force”
+starting with a brief
+introduction to the fascinating
+
+‘Source Code and Cross-
+Domain Authorship
+Attribution
+
+Aylin, greenie
+
+Stylometry isthe study of
+linguistic style found in text.
+Stylometry existed long before
+‘computers but now the field is.
+dominated by artificial
+intelligence techniques.
+
+Rocket science - how
+hard can it be?
+
+David Madlener
+
+Three years have elapsed
+since the call fora “Hacker
+‘Space Program” during the
+‘Chaos Communication Camp
+2011. In this lecture we will
+review the basics of space
+flight, discuss common,
+
+Let's build a quantum
+‘computer!
+
+Andreas Dewes
+
+{will explain why quantum
+‘computing is interesting, how
+it works and what you actually
+need to build a working
+‘quantum computer. I will use
+the superconducting two-qubit.
+‘quantum processor! built
+

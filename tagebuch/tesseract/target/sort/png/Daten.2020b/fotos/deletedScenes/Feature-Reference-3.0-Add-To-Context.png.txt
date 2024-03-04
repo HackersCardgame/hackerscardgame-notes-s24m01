@@ -1,0 +1,4 @@
+42a Porgeclipseamylyn.tasks.core [dev.eclipse.org]
+
+Big >stc/org/eclipse/myiyn/intemal/tasks/core
+

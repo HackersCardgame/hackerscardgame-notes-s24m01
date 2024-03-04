@@ -1,0 +1,50 @@
+Subject: Pfanne neu von Brack.ch
+
+2023-06-22T21:21:12.675+02:00 mxout@17.mail.hostpoint.ch exim-mxout [96765]:
+2023-06-22 21:21:12 1qgCPrk-@@@BIW-Kp <= mail@marclandolt.ch
+H=(asmtp@12.mail.hostpoint.ch) [10.0.2.45] P=esmtps
+X=TLS1.3:TLS_AES 256 GCM_SHA384:256 CV=no K S=168719
+id=37939ab4-a560-9f1a-87a1-4ae3aae221d7@marclandolt:.. ch
+2023-06~22T21:21:12.966+02:08 mxout@17.mail.hostpoint.ch exim-mxout [43438]:
+2023-06-22 21:21:12 igCPrk-@@@BIW-Kp => marc. landolt@@x8.ch R=smtp_ router
+
+Ts PENGwE _smtp_dane H=mx1.mail.hostpoint.ch [2a00:d7@:0:e::200]
+
+X=TLSi.3:TLS_AES_ 256: GCM_SHA384:256 CV=dane K C="256- 169958 byte chunk, total
+171@90\\n250 OK id=1qCPrk-@@@I2G-RZ" QT=@s
+
+2623-06-227T21:21:13.469+62:06 mxout@17.mail.hostpoint.ch exim- mxout [43438]:
+2023-06-22 21:21:13 1gCPrk-@@@BIW-Kp => household@dkbhousehold.ch R=smtp_router
+T=remote_smtp_dane H=dkbhousehold-ch.mail.protection.outlook.com [104.47.22.74]
+X=TLS1. 2: ECDHE-RSA-~AES256-GCM-SHA384:256 CV=yes K C="258 2.6.6
+<37939ab4-a560-9f1a-87a1-4ae3aae221d7@marclandolt.ch>
+[Internalid=26358214301839, Hostname=DB5P195MB2426. EURP195.PROD.OUTLOOK.COM]
+178866 bytes in 0.082, 2128.684 KB/sec Queued mail for delivery" QT=@s
+2023-06-22721:21:13.469+62:00 mxout0i7.mail.hostpoint.ch exim-mxout [43438]:
+2023-06-22 21:21:13 1gCPrk-@0@BIW-Kp Completed
+
+Subject: Re: Pfanne neu von Brack.ch
+
+2023-06-25702:08:57.688+82:69 mxout@i3.mail.hostpoint.ch exim-mxout [94140]:
+2023-96-25 @2:68:57 igDDII- “@OON7) - LR <= mail@marclandolt.ch
+
+H= (aSHtpels.. mail. hostpoint.ch) (16.6.2.44] P=esmtps
+
+X=TLS1.3:TLS_AES 256 _GCM_SHA384:256 CV=no K S=4596
+
+id=bde43e@5 -53e5-41a1-84ce-5a054554d6e4@marclandolt.ch
+2023-06-25702:08:57.950+02:00 mxout@13.mail.hostpoint.ch exim-mxout[88866]:
+2023-06-25 02:08:57 1qDDJJ-@@@N7I-LR => marc.landolt@@x8.ch R=smtp_router
+T=remote_ smtp dane H=mx2.mail.hostpoint.ch [2a00:d70:0:e::201]
+X=TLS1.3:TLS_AES_256_GCM_SHA384:256 CV=dane K C="25@- 4721 byte chunk, total
+4721\\n25@ OK id=1qDDI3-@6@Bh5-Rz"“ QT=@s
+
+2023-06-25702:68:58.616+02:0@ mxout@13.mail.hostpoint.ch exim-mxout [88866]:
+2023-26-25 02:08:58 1qDDJJ-@@@N7I-LR => household@dkbhousehold.ch R=smtp_router
+T=remote_smtp_dane H=dkbhousehold-ch.mail.protection.outlook.com [104.47.22.10]
+X=TLS1. 2: ECDHE-RSA-AES256-GCM-SHA384:256 CV=yes K C="259 2.6.0
+<bde43e@5-53e5-41a1-94ce-5a@54554d6e4@marclandolt.cn>
+[InternalId=33509334844443, Hostname=AS2P195MB2217. EURP195.PROD.OUTLOOK.COM]
+12939 bytes in @.132, 95.530 KB/sec Queued mail for delivery" QT=@s
+2023-26-25T02:08:58.616+02:08 mxout@13.mail.hostpoint.ch exim-mxout[838866]:
+2023-06-25 62:08:58 1qDDI5J-O@@N75-LR Completed

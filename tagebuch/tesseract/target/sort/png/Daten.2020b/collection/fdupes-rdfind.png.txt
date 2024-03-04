@@ -1,0 +1,4 @@
+Thu 00:00 Thu 12:00
+
+high disk usage
+Di Used cur: 49.25% avg: 79.72 max: 94,18%
