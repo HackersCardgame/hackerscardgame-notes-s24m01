@@ -1,0 +1,10 @@
+File: TN-C-S-earthing-EN.svg
+w
+
+Generator or
+transformer
+
+|
+Consumer,
+
+Earth

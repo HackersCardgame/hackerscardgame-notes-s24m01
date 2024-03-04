@@ -1,0 +1,17 @@
++ $idSsalt$hashed , the printable form of a password hash as produced by crypt (C), where $id is the algorithm used. Other Unix-like systems
+may have different values, like Net8SDZ. Key stretching is used to increase password cracking difficulty, using by default 1000 rounds of modified
+MD5,©! 64 rounds of Blowfish, 5000 rounds of SHA-256 or SHA-512.'°! The number of rounds may be varied for Blowfish 7, or for SHA-256 and
+‘SHA-512 by using $A$rounds=X$ . where "A" and "X" are the algorithm IDs and the number of rounds. Common id values include:!”!
+
+© $15 -MD5
+
+© $28, $2a$, $2b$ —berypt
+
++ $58 —SHA256
+
++ $65 —SHAS12
+
++ Sy$ —yescrypt
+
+os | aaa
+

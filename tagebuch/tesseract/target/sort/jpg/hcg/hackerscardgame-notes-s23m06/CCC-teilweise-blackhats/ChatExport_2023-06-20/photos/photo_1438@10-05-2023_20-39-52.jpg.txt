@@ -1,0 +1,10 @@
+pi@Fuck-Up ~]§ 1s /dev/sd*
+
+dev/sda /dev/sdal /dev/sdb /dev/sdb1 /dev/sdb2
+
+pi@Fuck-Up ~]$ sudo smartctl -T permissive -a /dev/sdb2
+
+sudo] Passwort fir pi:
+
+martctl 7.3 2022-02-28" 15338" [x86_64/1inux/611: 261-MANJARO]’ (local build)
+‘opyright (C) 2002-22,.Bruce Allen, Christian Franke, www.smartmontools.org

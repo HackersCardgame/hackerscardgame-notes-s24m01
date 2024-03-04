@@ -1,0 +1,20 @@
+_*—— Dendriten
+
+Aktivierungsfunktion
+Bs, ( ie mit Synapsen v1 Ww
+\
+gy
+
+—<~& Axon 3 P
+5 » (a We (Sue me +b | f Ausgabe y!
+/ oy PV >
+
+\ a : <
+
+= fing 7 Wn t Bias
+
+>, tn | b
+a
+» Gewichte
+
+Abb. 1: Links: Nervenzelle (Neuron), Rechts: kunstliches Neuron (Perzeptron). Quelle: Nina Schaaf

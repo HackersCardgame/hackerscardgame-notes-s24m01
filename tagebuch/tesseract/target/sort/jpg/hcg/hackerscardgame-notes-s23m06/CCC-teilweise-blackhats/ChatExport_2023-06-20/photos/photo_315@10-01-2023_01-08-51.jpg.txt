@@ -1,0 +1,53 @@
+‘mare@windows:~/speech x
+
+File Edit View Search Terminal Help
+
+parcewindows: speec)$ pip_search deepspeech german
+& https://pypi-org/search/?q=deepspeech+german &
+
+Package Version Released | Description
+& deepspeech 0.9.3 10-12-2620 | A Library for running inference on a DeepSpeech model
+® oernan 0.1.0 16-11-2619 | Preprocess German texts for serious NLP
+® deepspeech-gpu 0.9.3 10-12-2626 | A Library for running inference on a DeepSpeech model
+deepspeech-cli 0.2.3 30-04-2022
+® jeeves-deepspeech 0.1.4 27-02-2018 | Deepspeech STT plugin for jeeves
+& asr-deepspeech 0.3.2 23-09-2022 | ASRDeepspeech (English / Japanese)
+deepspeech-server 3.0.1 12-07-2622 | server for mozilla deepspeech
+® deepspeech-tflite 0.9.3 10-12-2028 | A Library for running inference on a DeepSpeech model
+® neon-stt-plugin-coqui 0.0.2a9 06-07-2022 | A Polyglot stt plugin for Neon
+® german-nouns 1.2.5 17-07-2622 | A List of ~100,000 German nouns and their grammatical properties compiled from
+
+WiktionaryDE as CSV file, Plus a module to Look up the data and parse compound words
+
+@ german-lenmatizer @.1.1 30-07-2019 | A Python package (using a Docker image under the hood) to Lenmatize German texts
+ german-foodenoji a 11-11-2021 | Decorate German text with food specific enojis
+german_normalize 1.2 12-09-2017 | Normalize 4 6 i 6 -> a(e) o(e) u(e) ss (DIN 5007)
+spych 0.0.5 30-68-2622 | Python wrapper for the deepspeech Library
+® rhasspy-asr-deepspeech-hermes 0.5.0 01-04-2021
+® chasspy-asr-deepspeech 0.4.1 01-04-2021
+neon-stt-plugin-deepspeech-stream-local | 2.0.0 26-19-2022 | A Deepspeech Streaming stt plugin for Neon
+® recogpipe 0.1.0 98-06-2020 | DeepSpeech as a (Docker) Service for IBus
+® oerman-gender- finder 1.0.0 8-08-2022 | Find the gender of @ german word
+® plover-german-syllatype 1.3.1 24-11-2022 | German Syllatype Layout for Plover
+rbpy-rb-german 0.0.10 13-10-2621 | German version of ReaderBench Library written in python
+B® spacy-gernan-preprocess 0.0.2 24-11-2018 | A small package for preprocessing german text
+® german-gender- finder 1.0.6 8-08-2022 | Find the gender of a german word
+NL-Formatter 1.0.1 68-19-2021 | An easy to use package for parsing media and transforming it for your Machine Learning
+
+projects
+
+ stt-sample- inspector 1 8-04-2622 | Inspect, modify, and add metadata to DeepSpeech (speech-to-text) datasets in CSV format.
+ automatic-speech-recognition 4 24-03-2020 | Distill the Automatic Speech Recognition (TensorFlow)
+
+listener al 12-06-2626 | DeepSpeech as a (Docker) Service for IBus
+® pydeepspeech z, 26-02-2022 | Mozilla's DeepSpeech transcriber in a pip installable package
+ sentence-embedding-evaluation-gernan +12 20-11-2022 | Sentence embedding evaluation for German
+
+invenio-subjects-ddc-german 1.31 31-01-2022 | DDC subject terms for InvenioRDN
+
+deepasr 2 13-01-2022 | Keras(Tensorflow) implementations of Automatic Speech Recognition
+® audiomate 8 3-68-2020 | Audiomate is a Library for working with audio datasets
+B® askbob 4 29-63-2021 | A customisable, federated, privacy-safe voice assistant deployable on low-power devices.
+® dragonfire e 30-07-2018 | Dragonfire is an open source virtual assistant project for Ubuntu based Linux
+Cay Hoo MOMS S- TARRBORBOBLHNST AR Ae Oo ous ©
+

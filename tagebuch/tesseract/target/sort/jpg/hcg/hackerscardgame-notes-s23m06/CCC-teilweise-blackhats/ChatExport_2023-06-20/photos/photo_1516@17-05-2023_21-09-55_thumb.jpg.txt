@@ -1,0 +1,33 @@
+‘A) OPT 6.78
+
+B) OPT 2.78
+
+C) OPT 1.38
+
+D) OPT 350M
+
+E) GALACTICA 6.78
+
+F) GALACTICA 1.38
+
+G) GALACTICA 125m
+
+H) Pythia-6.98-deduped
+
+I) Pythia-2.8B-deduped
+
+3) Pythia-1.4B-deduped
+
+K) Pythia-41M-deduped
+
+L) Manually specify a Hugging Face model
+M) Do not download a model
+Input> A
+
+Downloading the model to models/facebook_
+100%|
+100%|
+
+100%|
+100%|
+

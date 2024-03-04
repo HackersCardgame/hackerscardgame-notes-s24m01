@@ -1,0 +1,9 @@
+Wir haben die Tasks mit “xTaskCreate() * erstellt und anschlieBend den Scheduler mit
+
+“vTaskStartScheduler() ° gestartet. Der Scheduler wird dann die Tasks ausfiihren und die
+LEDs blinken lassen.
+
+Das war unser Beispiel fiir Threading in Microchip Studio mit FreeRTOS. Natiirlich gibt es
+
+noch viele weitere Méglichkeiten und Funktionen, die du in deinem eigenen Projekt nutzen
+kannst.

@@ -1,0 +1,12 @@
+marc@windoof:~/hackerscardgame-notes-s23m@5$ apt-cache search ngerman
+
+wngerman - New German orthography wordlist
+
+wogerman - Traditional German wordlist
+
+forensics-extra - Forensics Environment - extra console components (metapackage)
+ingerman - New German orthography dictionary for ispell
+
+iogerman - Traditional German orthography dictionary for ispell
+marc@windoof:~/hackerscardgame-notes-s23m05$
+

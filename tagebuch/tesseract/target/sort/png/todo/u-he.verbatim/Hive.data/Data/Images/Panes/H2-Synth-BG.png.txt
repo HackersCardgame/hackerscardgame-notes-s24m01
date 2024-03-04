@@ -1,0 +1,19 @@
+y OSC1 ee ~ SUB1 : SS CAEN SUB2 y OSC2
+
+y y, y
+Y FILTER1 os Sy FILTER2
+@o@ — o@e
+__ a mS — Jo’
+Nv
+( @@ ( @@
+. 4 . 4
+
+vAMP1 @ yMOD1 © _ vLFO1 vLFO2 © (3) vAMP2 ©
+
+= @ om @ 60 oo m® m®é
+
+FUNCTION1 @ @ @ SHAPEA@ SHAPEB @ SHAPEC@ SHAPED @ FUNCTION 2 @ @ @
+Ge Ge
+ss i _ | 6h
+SC i= cae |
+

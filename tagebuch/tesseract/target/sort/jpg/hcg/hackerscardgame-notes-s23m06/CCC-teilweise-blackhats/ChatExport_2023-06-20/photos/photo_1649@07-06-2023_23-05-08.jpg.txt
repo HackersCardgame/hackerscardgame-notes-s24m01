@@ -1,0 +1,18 @@
+tiirmchenbauer tom
+it is also wrong
+You are correct. The code | provided is still wrong. The echo
+command needs to be enclosed in quotes, otherwise the shell will
+interpret the $file variable as a command.
+
+Here is a corrected version of the code that will list all the files in
+the current directory:
+
+for file in ; do
+echo "$file"
+done
+
+This will iterate over all the files in the current directory and print
+their names.
+
+I hope this helps! Let me know if you have any other questions.
+23:01

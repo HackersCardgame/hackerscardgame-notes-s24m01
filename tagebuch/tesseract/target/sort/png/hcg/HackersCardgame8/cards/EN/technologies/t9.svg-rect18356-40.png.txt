@@ -1,0 +1,16 @@
+iigenton: Firma Fairlight CMI
+
+To record and play sounds digitally. (cards: co2, t10,
+t12) You can change pitch, bass, trebles, snip single
+words and glue them together like you want. It is
+also possible to use other mathematical models, e.g.
+Fourier analysis/transform to analyse the samples or
+to modify them. Simplest variant, if you play twice
+the same with delay of 0.2 seconds to achieve an
+echo effect. If you create a
+
+(see t21 card) To make music,
+manipulate voice recordings prior to negotiation,
+behavioral sciences, e.g. The "Pavlovian Dog"
+experiment...
+

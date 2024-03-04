@@ -1,0 +1,30 @@
+zeyassh@dv14: ~
+
+File Edit View Search Terminal Help
+
+zeyassh@dv14:~$ rdfind ~/Documents
+Now scanning "/home/zeyassh/Documents", found 6 files.
+Now have 6 files in total.
+
+Removed 0 files due to nonunique device and inode.
+Now removing files with zero size from list...removed 1 files
+
+Total size is 35 bytes or 35 B
+
+Now sorting on size:removed 1 files due to unique sizes from list.4 files left.
+
+Now eliminating candidates based on first bytes:removed © files from list.4 files lef
+ft.
+
+Now eliminating candidates based on last bytes:removed © files from list.4 files left
+
+Now eliminating candidates based on md5 checksum:removed @ files from list.4 files le
+1a
+
+It seems like you have 4 files that are not unique
+
+Totally, 8 B can be reduced.
+
+Now making results file results.txt
+
+zeyassh@dv14:~-$ ff

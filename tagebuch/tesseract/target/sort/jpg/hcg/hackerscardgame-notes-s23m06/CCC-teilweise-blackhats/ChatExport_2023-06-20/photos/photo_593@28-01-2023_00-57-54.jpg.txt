@@ -1,0 +1,6 @@
+Dendriten — Aktivierungsfunktion
+mit Synapsen
+
+Gewichte
+
+Abb, 1: Links; Nervenzelle (Neuron), Rechts: kUnstliches Neuron (Perzeptron). Quelle: Nina Schaaf

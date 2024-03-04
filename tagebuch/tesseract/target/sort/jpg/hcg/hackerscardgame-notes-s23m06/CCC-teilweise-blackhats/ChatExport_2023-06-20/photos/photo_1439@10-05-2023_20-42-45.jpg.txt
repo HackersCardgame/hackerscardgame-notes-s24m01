@@ -1,0 +1,8 @@
+eel See een er SR See ne
+
+[pi@Fuck-Up ~]$ sudo smartctl -T permissive -a /dev/sdb
+
+[sudo] Passwort fir pi:
+
+smartctl 7.3 2022-02-28 15338 [x86_64-linux-6.1.26-1-MANJARO] (local build)
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org

@@ -1,0 +1,43 @@
+‘|
+
+Evoid system init()
+t
+
+timer_init();
+
+meu_init();
+
+int pin = 1;
+
+/* PORT setting on PB7 */ i
+
+// Set pin direction to output i IN
+
+//LED_set_level(false); il
+VPORTB.OUT & ~(1 << pin); |
+
+//.€0_set_dir(PORT_DIR OUT); |
+VPORTB.DIR |= (1 << pin); ili
+
+prev_millis = millis();
+
+1158803
+bs
+evoid Livetea()
+{
+if (widlis() - prev. miilis >= 1000) ¢
+prev.millis = millis();
+int pin = 15
+VPORTB.OUT *= 1 << pin; // Unschalten an Pin PBL
+?
+?
+
+ta mcu_init(void)
+
+t
+
+(On AVR devices a11 peripherals are enable from power on reset, this
+* disables all peripherals to save power. Driver shall enable
+
+* peripheral if used */
+

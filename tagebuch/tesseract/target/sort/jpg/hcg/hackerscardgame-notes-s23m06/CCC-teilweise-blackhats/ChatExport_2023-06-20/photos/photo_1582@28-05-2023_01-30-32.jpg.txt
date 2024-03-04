@@ -1,0 +1,16 @@
+Das Knobelspiel
+
+Spieler A hat links die drei Schalter S,; bis S3, Spieler B rechts S, bis Ss. Beide decken
+ihre Schaltschieber zu. Dann verstellen Sie jeweils einen von x nach y. Driickt man jetzt
+den Taster, so sieht man, wer gewonnen hat (oder, da& es unentschieden ausge-
+gangen ist). Das Spiel folgt den uralten Knobel-Regeln: Die Schere ist dem Papier
+Uberlegen, denn sie schneidet es. Das Papier gewinnt gegen den Stein, denn es kann
+ihn einwickeln. Der Stein ist mehr wert als die Schere, denn sie wird erst durch ihn
+geschartt.
+
+{_# tt
+
+Ublicherweise knobelt man auf diese Weise ja mit Faust (Stein), Handflache (Papier)
+und Fingern (Schere). Elektronisch ist es weit reizvoller, da hat Rainer Koller recht.
+
+92

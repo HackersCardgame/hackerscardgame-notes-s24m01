@@ -1,0 +1,24 @@
+”
+8)
+°
+°)
+5
+»
+°)
+")
+D
+2) Pythta-1.aB-deduped
+1) Pythta-aion-deduped
+
+1) Hanually specify a Mugging Face model
+) Do not download a model
+
+Inputs 1
+‘Type the nase of your desired Mugging Face eodel in the format organizatfon/nane.
+Examples:
+
+facebook/opt-1.3
+EteutherAt/pythia-1.4b-deduped
+
+“Input> chharLesontire/agsl-vicu
+

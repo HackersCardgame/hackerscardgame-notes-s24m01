@@ -1,0 +1,39 @@
+OB 192168:1177rewallamid=Firewall,
+
+yallo
+Come
+
+© connected devices
+
+© advanced settings
+
+Wireless
+Security
+> Firewall
+
+> MAC filtering
+
+> IP and port fitering
+DHCP
+Tools
+
+Lightring
+
+2 namin
+
+© Logout | Language | Enis)
+
+Firewall settings
+
+| © Your settings have been updated.
+
+‘This page allows the configuration of frewall options.
+Itisrecommended that firewall protection is always enabled.
+
+IPvé6 firewall
+
+Firewall protection O) Enabled
+Block fragmented IP packets [7] Enabled
+Port scan detection Enabled
+IP food detection © Enabled
+

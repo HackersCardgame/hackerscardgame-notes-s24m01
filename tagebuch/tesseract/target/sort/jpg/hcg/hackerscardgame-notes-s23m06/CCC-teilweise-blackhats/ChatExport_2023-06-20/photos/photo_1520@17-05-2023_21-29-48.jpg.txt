@@ -1,0 +1,7 @@
+Download custom model or LORA
+
+Enter the Hugging Face username/model path, for instance: facebook/galactica-125m. To specify a branch, add i
+facebook/galactica-125m:main
+
+chharlesonfire/gaml-vicuna-7b-4bit
+

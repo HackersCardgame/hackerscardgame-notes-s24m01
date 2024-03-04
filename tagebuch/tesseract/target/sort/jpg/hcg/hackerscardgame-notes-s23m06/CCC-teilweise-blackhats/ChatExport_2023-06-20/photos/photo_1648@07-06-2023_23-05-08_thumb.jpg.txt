@@ -1,0 +1,20 @@
+‘trmehenbauer tom
+‘tis wrong that doesn't lst the files
+
+‘You are correct. The code | provided does not list the les.
+
+apologize for the mistake.
+
+Here isa corrected version of the code that wil ist all the files in
+the current directory:
+
+for Fite in ; do
+‘echo $file
+one
+
+‘This wll iterate over all the les in the current directory and print
+theirnames.
+
+I nope this helps! Let me know Ifyou have any other questions,
+2259
+

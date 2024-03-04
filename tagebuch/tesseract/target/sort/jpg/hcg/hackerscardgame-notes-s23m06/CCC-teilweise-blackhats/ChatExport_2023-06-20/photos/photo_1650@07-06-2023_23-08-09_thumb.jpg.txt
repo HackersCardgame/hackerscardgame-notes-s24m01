@@ -1,0 +1,19 @@
+‘turmenenbauer tom
+{ook at three last answers you gave me. ARE YOU TOLLING ME.
+
+| apologize forthe confusion. The third answer | provided is correct.
+
+The frst two answers were wrong because | did not enclose the
+
+‘echo eommand in quotes.
+
+Here isthe code again:
+for file in; do
+
+‘echo "SFLte
+one
+
+‘This wil terate over al the files the current directory an print
+their names.
+
+‘hope this helpst 2307

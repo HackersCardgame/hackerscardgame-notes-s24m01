@@ -1,0 +1,17 @@
+Frequenz / Wellenlange berechnen
+
+Was soll berechnet werden ?
+
+Wellenlange =O
+
+Frequenz ©
+Eingabe Entrage os
+Elektrische Wellen im Raum v|
+
+Wellenlange
+
+Dezimalstellen |2
+
+Resuttat
+Frequenz 1,5 GHz
+

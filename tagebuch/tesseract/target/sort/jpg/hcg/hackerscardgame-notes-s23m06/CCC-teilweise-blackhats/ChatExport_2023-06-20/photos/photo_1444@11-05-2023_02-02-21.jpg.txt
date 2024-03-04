@@ -1,0 +1,7 @@
+marc@windoof :~/hackerscardgame-notes-s23m05$
+marc@windoof:~/hackerscardgame-notes-s23m95$ cat /mnt/e/hcg/minkorrekt/wnget .sh
+for i in $(seq 1 108)
+do
+
+wget -rl1 https: //minkorrekt.de/page/$i/ &
+done

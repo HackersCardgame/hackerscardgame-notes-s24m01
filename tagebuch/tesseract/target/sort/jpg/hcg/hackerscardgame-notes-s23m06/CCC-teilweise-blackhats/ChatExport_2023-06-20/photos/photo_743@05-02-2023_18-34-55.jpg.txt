@@ -1,0 +1,20 @@
++ HoughCircles()
+
+void
+
+joughCircles ( InputArray image,
+OutputArray circles,
+
+int method,
+double dp,
+
+double minDist,
+double paramt = 190 ,
+double param2 = 100 ,
+int minRadius
+
+int maxRadius = 0
+
+Python:
+
+cv.HoughCircles( image, method, dp, minDist[, circles[, param‘, param2[, minRadius[, maxRadius]]}]])-> circles

@@ -1,0 +1,52 @@
+“Thete are some exceptions to thal, but the CFAA in the United Slates, the Computer Fraud and Abuse Act you
+know, sso draconan for regular people, and the NSA ges o do something ie intercepting 7 baion people a
+‘ay long with no problem. andthe rest of us are not even alowed io experiment for mprovig te secur of our
+cn ives without being putin prison or under tiveal of serious inatment, and that | inka realy mportant
+point
+
+So the TURMOIL system ia survestnce system, and It's a dragnet surveitance system thats a general
+warrant dragnet surveilance# there ever was one
+
+‘And now we shot he Bish over tis when we started our revolution, We called them “general wis of
+assistance” These were generaled warrants which we consiered to bea tyranny, And TURMOIL isthe cgtal
+version of general wi of assistance system And the general wi of assistance ise snot clear ft even
+‘ess, because t's not clear tome that a judge would understand anying at | just sa
+
+faplause
+
+Otay, so now we're going o get scary. So that's ust the passive stuf There ess anctner system that's called
+TURBINE and we revealed about his system i he Spiege!pubscation loday as well So TURMOIL is deep
+packet inspection, then TURBINE is deep packe nection. And its the system tat combined together wn the
+things - wth TURAL and TURBINE you cn create a platform which they have consolidated which they call
+GFIRE GFIRE is essentaly away to pogranmateay look a tnngs thal fw across the ntemel thal ey see
+win TURMOIL and then using TURBINE they're abe to actualy inect packets fo tr to do attacks, and
+Sescribe some of hose atlacks in deta in 3 moment
+
+Bul essematy the interesting hing about QFRE ais is thal they have ating thas called a BE So it you
+have for exampie a large number of systems where you canal them. you might sy, "Hey, wha ae you dong on
+thal backbone?” “Hey, whats going on wih these systems?” And they coud say. wel, you know, me ald for
+access, wete doing is, Is al legal, ecetera.GFIRE has iis really neat ite deal which sha hey
+Compromise other people's rouers and then redirect bough them 30 that hey can beal the speed of ight
+
+‘Ad how they do that i that hey have a passive sensor thats nearby a hing thal they can inject fom. ang when
+they see that ining sees a selector thats interesting 1o them ori doing a thing thal hey would sk fo tamper
+win in some way then they take a packel, they encapsulate te packet. they send itt the BRM, which might be
+{your home router potently and then that home router decapsuiates that packet and sends tout And because
+that's ver close fo you, and lets say youre visting Yahoo, then the Yahoo packet wil not beat you. Tats
+they wil not beat the NSA or GCHO. So is a race condition. And 80 they basealy are able fo contr his whole
+system and then locale alacksn that process
+
+So that's a pretty — pretty scary stu, actualy And while t's a dgta thing, | hink it's important to understand
+thal his wha Jeflerson takes abou! when he talked about tyranny This urnkey tyranny. and t's not has
+coming i's actualy here's ust merely a queston about whether or not tey'use in away tal we think sa
+good way or nota good way
+
+Cone of he scariest parts about this tha fortis system or these sels of systems to eis. we have Been kept
+\inerable So Its the case thal he Chinese, lhe Russians. people here wis to bul hs system, there's
+nothing that stops them And infact the NSA has in a Meral sense retarded the process by which we would
+Secute the interet ecause establishes a hegemony of power, tel power in secret fo do these things. And a
+factve seen evdence that shows tha here are o many compromises taking place between tne dilerent Five
+Eyes sna inetigence groups hat hey actualy have Ist that explain,“ you see tis Back dooton the
+
+on ®
+

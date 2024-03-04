@@ -1,0 +1,18 @@
+Jef process(testfile):
+img = cv2.imread(testfile)
+
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+‘#blurred = cv2.medianBlur(gray, 5) #cv2.bilateralFilter(gray, 10,
+blurred = gray
+
+50,50)
+
+minDist = 30
+
+param ~ 70 #500
+
+paran2 = 55 #200 smaller value-> more false circles
+minRadius = 5
+
+maxRadius = 60 #10

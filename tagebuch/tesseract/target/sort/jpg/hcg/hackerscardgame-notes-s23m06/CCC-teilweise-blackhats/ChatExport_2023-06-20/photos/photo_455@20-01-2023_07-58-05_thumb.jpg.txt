@@ -1,0 +1,11 @@
+OBB me
++++STRECKENINFO+++
+Derzeit ist zw. Freilassing und Salzburg Liefering kein
+Zugverkehr méglich.
+Grund dafiir ist eine technische Stérung in einem
+Nachbarland. Der Fernverkehr wird umgeleitet. Busse
+fahren fiir den Nahverkehr zw. Freilassing und Salzburg
+Taxham.
+#OBBStreckeninfo
+
+0. Jan, 2023 - 4.410 Mal

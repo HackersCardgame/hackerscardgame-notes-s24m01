@@ -1,0 +1,7 @@
+Trivia [Bearbeiten | Quelitext bearbeiten ]
+
+In Anspielung auf die Robotergesetze nach Asimov enthalt die robots.txt von last.fm diese Zeilen:1
+
+»Disallow: /narming/humans
+Disallow: /ignoring/numan/orders
+Disallow: /harm/to/self*

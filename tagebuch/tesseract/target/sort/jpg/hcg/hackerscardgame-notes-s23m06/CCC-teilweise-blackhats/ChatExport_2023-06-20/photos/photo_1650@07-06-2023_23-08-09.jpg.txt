@@ -1,0 +1,18 @@
+tirmchenbauer tom
+
+look at three last answers you gave me. ARE YOU TOLLING ME.
+
+| apologize for the confusion. The third answer | provided is correct.
+The first two answers were wrong because | did not enclose the
+echo command in quotes.
+
+Here is the code again:
+for file in ; do
+
+echo "$file"
+done
+
+This will iterate over all the files in the current directory and print
+their names.
+
+| hope this helps! 23:07

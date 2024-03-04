@@ -1,0 +1,6 @@
+Kurzzeichen | Zusammensetzung in % | Arbetstemperaturin°C | Anwendung
+PbSn4o | 60.Po, 408n 28 Feinblecne
+SnéoP | 60.Sa, 40 PD 103 Verzinnen
+Snb0PvCU | 50 Sn, 49 Pb, 1 Cu 0 Elektrogerte
+Sn6OPAg | 60 Sa, 96 Pb, 4Ag 180 Elektronik
+

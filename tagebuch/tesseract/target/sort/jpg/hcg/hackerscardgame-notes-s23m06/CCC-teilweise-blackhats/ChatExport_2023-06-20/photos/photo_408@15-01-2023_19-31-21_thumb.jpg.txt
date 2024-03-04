@@ -1,0 +1,18 @@
+average by source
+
+Kernenergie
+Geothermie
+Biomasse
+
+Kohle
+Windenergie
+Solarenergie
+Wasserkraft
+Pumpspeicher
+Batteriespeicher
+Erdgas
+
+ol
+
+unbekannt
+

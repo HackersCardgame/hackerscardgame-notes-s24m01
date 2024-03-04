@@ -1,0 +1,20 @@
+3291154 (3c7'1bf323812)
+Firmware: NRZ-2020-133/DE (Nov 29 2020)
+
+Ubersicht » Aktuelle Werte
+
+65 Sekunden seit der letzten Messung.
+
+Sensor Parameter Wert
+
+SDS011 PM2.5 31.1 pg/ms
+SDS011 PM10 33.2 yg/im*
+DHT22 Temperatur 142°C
+
+DHT22 rel. Luftfeuchte 83.0 %
+
+WiFi Signal -59 dBm
+WiFi Qualitat 82%
+
+© Open Knowledge Lab Stuttgart a.o. (Code for Germany) (Ein Problem melden)
+

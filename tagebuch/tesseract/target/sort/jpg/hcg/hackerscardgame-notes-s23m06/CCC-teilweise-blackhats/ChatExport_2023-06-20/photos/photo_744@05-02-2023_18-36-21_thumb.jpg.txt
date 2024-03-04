@@ -1,0 +1,23 @@
+‘Sure Impcove ti question Follow
+
+1 Answer Senet. agnest score (etn
+
+‘Currently the only implemented method in eoughearelss() Is Cv_HOUGH GRADIENT.
+0,
+
+[parant -reers tothe edge threshold that wil be used by the Canny edge detector (applied 10a
+‘grayscale image). veanny/() accepts two tesholds and is internal invoked by
+[ewoughcireles() Therefore the higher (rst threshold is setto param (passed as argument
+‘io evougheiretes()) and the lower (second) threshold is set to haf ofthis value.
+
+S24)
+
+pina ts the valve for accumulator threshold. This value is used in the accumulator plane that
+‘must be reached so that a line is retrieved,
+
+| would recommend you to read this hook, whichis in my opinion the best one describing Opency.
+
+| hope this helps.
+
+‘Save improve ts acer Flow ‘edt May 201101838 arawored May, 2011 1810
+

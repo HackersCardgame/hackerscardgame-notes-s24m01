@@ -1,0 +1,26 @@
+@ avant
+
+% coogi
+
+1B Google! Google! Se Googie! > Sonicw [EJMIDIKs)  @ Whats @ Alters: G@ Review © Schizols OxB.ehfot)W Startse, @LVerschi = Vigenér  — Vigenes
+
+© & bitpsi/omnisecure bern tfupload indler Wernerpd e
+
+= + Atematezoom +
+
+CHES CTF 2018 / AES - Challenges: Resultate
+
+Unser Angriff (2018) ist auch mit viel weniger Powertraces erfolgreich.
+* Non-Portability Challenge (Angriff gegen gleiches Device): meistens geniigt 1 Powertrace
+* Portability-Challenge (Angriff gegen neues Device):
+
++ immer erfolgreich mit 5 Powertraces
+
++ in mehr als der Halfte der Falle gentigen 2 Powertraces
+
+Der Angriff verbindet maschinelles Lernen mit einem SAT-Solver (,,konventionelles* Verfahren).
++ Das neuronale Netz erlaubt Riickschliisse auf Implementierungseigenschaften.
+
+Details: [3]
+
+BiVigene

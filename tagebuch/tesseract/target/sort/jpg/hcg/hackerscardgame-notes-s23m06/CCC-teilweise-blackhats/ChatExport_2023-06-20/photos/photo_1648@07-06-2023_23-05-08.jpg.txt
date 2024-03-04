@@ -1,0 +1,19 @@
+urmchenbauer tom
+it is wrong that doesn't list the files
+
+You are correct. The code | provided does not list the files. |
+apologize for the mistake.
+
+Here is a corrected version of the code that will list all the files in
+the current directory:
+
+for file in ; do
+echo $file
+done
+
+This will iterate over all the files in the current directory and print
+their names.
+
+I hope this helps! Let me know if you have any other questions.
+22:
+

@@ -1,0 +1,19 @@
+fot Fandcauges( ina)
+print, "Findcaugesting)")
+Clucles » {)
+
+H circles = cv2.foughCizclesting, cv2.HOUGH GRADIENT, dp-1, mindiste1, minkadius-1,
+circles = np-round|(cizcles{@]-astypeline))
+
+y chucles = circlesinp.lessort((etreles[:, 1, eteelest=, 9101
+
+snovratiuse30)
+
+ernel = cv2.getstructuringeloment(cv2.MORPHLELLIPSE, (5,5))
+‘opening = ev2.marphologyEx{ img, c¥2.HORPH_OPEN, kernel, Eterations=1)
+
+4 Find contours and filter using contour area ond aspect ratio
+ents = cv2.findcontours(opening, €v2.RETR_EXTERVAL, v2, HAIN_APPROK_SINPLE)
+ents + ents[0] Af lenjents) = 2 else ent3(t]
+
+‘mera ‘a Geers

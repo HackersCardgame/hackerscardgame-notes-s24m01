@@ -1,0 +1,2 @@
+n=1
+IF n>1 THEN PN

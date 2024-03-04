@@ -1,0 +1,10 @@
+Julian sagte am August 25, 2016 um 11:11 Uhr
+
+Beim Erstellen vom mda File hats wohl ein Problem gegeben. Weder [TIz®
+
+noch [ilaen2000 nehmen das File an (,Unable to open item for playback
+
+(Unsupported format or corrupted file (array access out of range))*). Mit VLC gehts
+aber der ist ja bekannt dafur auch defekte Files zu ofinen.
+
+Kommentiere {

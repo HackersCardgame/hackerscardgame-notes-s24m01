@@ -1,0 +1,55 @@
+‘Stable Diffusion Ut - Easy Diffusion
+
+Easy/DIFUSION sete py concice | 2 seckes | Hep kcormuny | F wnatsinee | @ ADK ATONE
+
+ee ee EERE re rorve ater [SII completed ana
+futty owt
+
+& fluffy owl, Evening, detailed and intricate
+
+Seed: 5881
+
+Idance Scale: 7.5, Mi
+kground, disfigured face,
+
+Inference Steps
+rmark, em
+
+Lucid Mic 10, VAE:¥ 2 Nogative Prompt:
+round, towres, bad anatomy, dist ropped head, gross quality, F
+
+“ Processed 2 images in
+
+‘background, lowres, bad anatomy, disfigured body, cropped head,
+gross quality c]
+
+Initial image (ime2img) (optional)
+
+& Browse F Draw
+
+Image Modifiers @:
+
+detailed
+evening and
+intrlcate
+ne)
+Surprise Met
+— Image Settings lak
+Image Settings
+Seed: s880056 (§i@ Random
+© umber of images: 2 Gorn) 4 (opal
+Model: etdretnstucihn. 0 ve
+Custom VAE:_sae-Re-nee-040000-ema-pruned v ©
+Sampler: euler Ancestral ve
+image size: s(t) v ony
+Inference Steps: 50
+Guidance Seale — 75
+Hypernetwork: None .
+Output Format: peg w
+JPEG Quallly: =D 95
+Render Settings
+1@ Show ative preview
+Fix incorrect faces and eyes ines oF
+© Scale up by a ~ wien AN aps y
+
+@® show only the corrected/upscaled image

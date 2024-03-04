@@ -1,0 +1,18 @@
+invencor
+
+The inventor of the programming language Smalltalk
+was the first who used objects in software
+development, But Gutenberg and the letters of his
+printing presses was another example of templates.
+A class can be a single template for part of a
+complete software, e.g. "Name, address, location,
+phone, ..." would be a template for a person in an
+address database.
+
+Simplification/standardization through "pre- printed
+(software) templates", so in (especially
+when they use things like tl card) after a while you
+would recognize the general behavior of the class or
+the design-pattern (dp4) that makes it much easier
+to defend yourself against such attacks.
+

@@ -1,0 +1,6 @@
+‘Download custom model or LoRA.
+“Enler the Hugging Face useriamelmodel path, for instance! faceboolipalacica-125m. To spec a branch, add
+acebookigaactica-125m main
+
+chharlesonfire/gami-vicuna-7b-abit
+

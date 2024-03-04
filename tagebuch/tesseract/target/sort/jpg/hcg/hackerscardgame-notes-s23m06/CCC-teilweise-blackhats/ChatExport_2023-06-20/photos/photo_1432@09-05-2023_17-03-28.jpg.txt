@@ -1,0 +1,28 @@
+BARRACUDA
+P COMPUTE J
+
+BarraCuda
+ST8000DM004
+
+; acc
+il li i : ia IVI A
+
+PN: 20X18 937564876463
+
+A > Seaegwern
+
+FW: 0001 ne:
+LUD 001/ 000 0.0 0 BRE
+WWN: 5000c500cD0AD289
+
+PSID: ZNNG H2S7MYANRRDCHSSENXMXOFD7Z5xJ
+
+HDD sold as component of OEM solution and not for resale.
+
+The product warranty does not cover HDD if removed from
+OEM solution.
+
+ROO 8
+
+a
+

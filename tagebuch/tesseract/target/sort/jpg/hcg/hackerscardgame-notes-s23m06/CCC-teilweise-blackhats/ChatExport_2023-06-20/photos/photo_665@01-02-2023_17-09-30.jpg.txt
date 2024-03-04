@@ -1,0 +1,4 @@
+marc@debian:~/disk$ sudo cat /etc/shadow |grep marc
+marc : $6$ .ay2OHXI721SDM@z$aiYF30. el 90SMpyyz . / JQ. JQPF59QxDAp1A8qC Jm. gx9s sANqBajFqZmaEhca41fBoLncAl3DXre0aSuz0k/ 30: 19237:
+smarc@debian:~/disk$
+

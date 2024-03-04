@@ -1,0 +1,6 @@
+Kurzzeichen | Zusammensetzung in % | Arbeitstemperaturin-C | Anwendung
+PoSr40 | 60,4050 235 Feinbleche
+Sne0P | 60a, 40P 183 Verzinnen
+Snsopbcu | 50S0,49Pb, 160 | 190 Elekrogerate
+Sne0PbAG | 60Sa26Pb4Ae [100 Eeleronie
+

@@ -1,0 +1,13 @@
+bonsi@gpu:~/oobabooga_linux$ ./start_linux.sh
+bin /home/bonsi /oobabooga_linux/installer_files/env/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cpu.so
+/home/bonsi /oobabooga_linux/installer_files/env/lib/python3.10/site-packages/bitsandbytes/cextension.py:33: UserWarning: The installed version
+t optimizers, 8-bit multiplication, and GPU quantization are unavailable.
+warn("The installed version of bitsandbytes was compiled without GPU support. "
+INFO: Loading chharlesonfire_ggml-vicuna-7b-4bit...
+ERROR:Failed to load GPTQ-for-LLaMa
+ERROR:See https: //github.com/oobabooga/text-generat ion-webui /blob/main/docs /GPTQ-models-(4-bi t-mode) .md
+
+Done!
+
+Per er One ae iyilen eeeeane eh fl
+

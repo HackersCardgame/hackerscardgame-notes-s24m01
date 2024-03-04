@@ -1,0 +1,30 @@
+Connection Settings
+
+Configure Proxy Access to the Internet
+O No proxy
+
+© Auto-detect proxy settings for this network
+
+Use system proxy settings
+
+©wanual proxy configuration
+
+HTTP Proxy | 45.92.108.112 |port 8080
+
+@) Also use this proxy for HTTPS
+
+HTTPS Proxy) 45.92.108.112 Port) 8080
+
+SOCKS Host Port 0)
+
+SOCKS v4 © SOCKS v5
+
+© Automatic proxy configuration URL
+
+Reload
+
+No proxy for
+
+Example: .mozilla.org, net.nz, 192.168.1.0/24
+Connections to localhost, 127.0.0.1/8, and ::1 are never proxied.
+

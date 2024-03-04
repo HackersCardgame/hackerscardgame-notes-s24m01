@@ -1,0 +1,35 @@
+Die Atmosphare der Erde hat ein Volumen von etwa 5,15 x 10418
+m*3 und eine Masse von etwa 5,15 x 1018 kg '. Die spezifische
+Warmekapazitat von trockener Luft bei konstantem Druck
+betragt etwa 1,005 kJ/kg K*.
+
+Um die gesamte Masse der Atmosphare um 1°C zu kiihlen,
+benstigen wir die Energie, die durch das Produkt aus der Masse
+der Atmosphare, der spezifischen Warmekapazitat und der
+
+‘Temperaturanderung gegeben ist.
+
+Energie = Masse x spezifische Warmekapazitat x
+
+‘Temperaturanderung
+Energie = 5,15 x 1018 kg x 1,005 ki/kg Kx1K
+
+Dies ergibt eine Energie von etwa 5,18 x 10°21 kJ oder etwa 1,44 x
+10%18 kWh.
+
+Zum Vergleich: Der globale Energieverbrauch lag im Jahr 2019
+bei etwa 1,57 x 1014 kWh. Dies bedeutet, dass die Energie, die
+bendtigt wird, um die gesamte Atmosphare um 1°C zu kihlen,
+etwa 9200-mal so hoch ist wie der gesamte globale
+
+Energieverbrauch in einem Jahr.
+
+Bitte beachten Sie, dass dies eine sehr vereinfachte Berechnung
+ist und in der Praxis viele andere Faktoren beriicksichtigt werden
+miissen, einschlieBlich der Tatsache, dass die spezifische
+Warmekapazitat von Luft mit der Temperatur und dem Druck
+variiert. AuBerdem wiirde eine solche massive Abkihlung der
+Atmosphare erhebliche Auswirkungen auf das globale Klima und
+die Umwelt haben.
+
+&?

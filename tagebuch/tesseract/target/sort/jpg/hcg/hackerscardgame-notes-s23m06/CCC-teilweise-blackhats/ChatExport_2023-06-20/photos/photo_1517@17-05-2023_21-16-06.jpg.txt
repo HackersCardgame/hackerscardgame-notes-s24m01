@@ -1,0 +1,30 @@
+I tried this fix and then I tried downloading the model from hugging face inside of the web gui
+(running cpu mode) without the model argument (which works but doesn't show any models), and
+then tried putting the name of the model directory directly or just the name like you originally had
+and got something like this either way: Starting the web UI... C:\Users\user\Desktop
+
+\oobabooga -windows\oobabooga-windows\installer_files\env\lib\site-packages
+\bitsandbytes\cextension.py:31: Userwarning: The installed version of
+bitsandbytes was compiled without GPU support. 8-bit optimizers and GPU
+quantization are unavailable. warn("The installed version of bitsandbytes was
+compiled without GPU support. " Loading \anon8231489123_gpt4-x-alpaca-13b-
+
+native-4bit-128g\gpt -x-alpaca-13b-native-4bit-128g... Traceback (most recent
+
+call last): File "C:\Users\user\Desktop\oobabooga-windows\oobabooga -windows
+\text-generation-webui\server.py", line 905, in <module> shared.model,
+shared.tokenizer = load_model(shared.model_name) File "C:\Users\user\Desktop
+\oobabooga -windows\oobabooga-windows\text -generation-webui\modules
+\models.py", line 125, in load_model from modules.GPTQ_loader import
+load_quantized File "C:\Users\user\Desktop\oobabooga -windows\oobabooga-windows
+\text -generation-webui\modules\GPTQ_loader.py", line 14, in <module> import
+llama_inference_offload ModuleNotFoundError: No module named
+‘llama_inference_offload' Press any key to continue
+
+However the gui works without adding the --model argument, but breaks whenever I add the model
+argument
+
+I think I'll try to manually install the model instead of auto-downloading it again and maybe this will
+cause your fix to work, but I figure it was worth mentioning
+
+Thank you

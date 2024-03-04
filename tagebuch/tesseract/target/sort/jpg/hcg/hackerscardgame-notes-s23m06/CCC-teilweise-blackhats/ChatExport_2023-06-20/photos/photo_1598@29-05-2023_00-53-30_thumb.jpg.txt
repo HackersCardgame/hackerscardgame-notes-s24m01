@@ -1,0 +1,7 @@
+» CrWebngine (if using Ot 5, 5.13.2 oF newer. oF
+
+alternatively QHWEBK (5.12) - This is not recommended due to known security issues in CHL you
+‘most tikely want to use qutebrowser wih the default QWebEngine backend (based on Chromium) instead.
+Quoting the ARE ess poe: (The latest ARTRET release is based on fan} ofd RB revision with
+‘known unpatched vulnerable. Please use it carey and avoid visting untrusted websites and using it for
+transmission of sonstve data.

@@ -1,0 +1,9 @@
+© hitps://mediathekviewweb.de/##query=>22 Ide David Crosby
+
+The proxy server is refusing connections
+
+An error occurred during a connection to mediathekviewweb.de.
+
++ Check the proxy settings to make sure that they are correct.
+
++ Contact your network administrator to make sure the proxy server is working.

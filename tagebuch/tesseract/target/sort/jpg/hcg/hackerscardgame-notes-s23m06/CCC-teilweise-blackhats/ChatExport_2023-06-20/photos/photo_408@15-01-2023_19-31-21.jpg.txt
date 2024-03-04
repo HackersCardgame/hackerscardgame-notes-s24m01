@@ -1,0 +1,19 @@
+average by source
+
+kernenergie
+Geothermie
+Biomasse
+
+Kohle
+Windenergie
+Solarenergie
+Wasserkraft
+Pumpspeicher
+Batteriespeicher
+Erdgas
+
+o
+
+unbekannt
+
+Stromerzeugung |co-Emssionen

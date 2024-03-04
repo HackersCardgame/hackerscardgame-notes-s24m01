@@ -1,0 +1,9 @@
+[pi@Fuck-Up ~]S sudo smartctl -T permissive -
+
+[sudo] Passwort fur pi:
+smartct] 7.3 2022-02-28 15338 [x86_64-1inux-6.1.26-1-MANJARO] (local build)
+
+Copyright (C) 2092-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+Idev/ sdb
+

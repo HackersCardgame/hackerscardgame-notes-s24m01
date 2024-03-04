@@ -1,0 +1,33 @@
+General | Sharing ] Security ] Web Sharing
+
+Access-based Enumeration Customize
+
+Access-based Enumeration makes visible only those files or
+folders that the user has the rights to access. When
+Access-based Enumeration is enabled. Windows will not
+display files or folders that the user does not have rights to
+access
+
+[ Apply this folder's setting to all existing shared folders o
+computer
+
+imeenton: CIA? Year: ~????
+Depending on the _ authorization (or the security
+clearance) of a user, folders are shown or not shown ina
+Windows Netzwork. The same principle maybe applies to
+websites, youtube, facebook, twitter and maybe even
+github... if you look at the m50 card the same system
+"could" be used to split societi into two+ separate
+groups, and there would be even some triggers known to
+some of the older groups to start a civil war between this
+two groups.
+
+Maybe explaining Access Based Ennumeration++ to
+the society would deescalate this problem a bit.
+
+So update your people with this knowledge. | learned
+about Access Based Ennumeration at ABB
+Technikerschule Baden, hopefully only the students not
+yet joined the dark side, some of thier parents...
+unfortunately did. SELECT * FROM ABBTS < 1970.
+

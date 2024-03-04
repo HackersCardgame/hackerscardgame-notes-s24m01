@@ -1,0 +1,29 @@
+Lied this fix and then I tried downloading the model from hugging face inside of the web gul
+{running cpu mode) without the model argument (which works but doesn’t show any models), and
+‘then tried putting the name of the model directory directly or just the name like you originally had
+‘and got something like this either way: Starting the web UI... C:\Users\user\Desktop
+
+\oobabooga-windows\oobabooga-windows\installer_files\env\1ib\site-packag
+\bitsandbytes\cextension.py:31: Userwarning: The installed version of
+bitsandbytes was compiled without GPU support. 6-bit optimizers and GPU
+quantization are unavailable. warn("The installed version of bitsandbytes was
+compiled without GPU support. " Loading \anona231489123_gpt4-x-alpaca-13b-
+native-4bit-1289\gpt-x-alpaca-13b-native-abit-1289... Traceback (most recent
+call last): File "C:\Users\user\Desktop\oobabooga-windows\oobabooga-windows
+\text-generation-webut\server.py", Line 985, in <module> shared.model,
+
+shared. tokenizer = load_model(shared.model_nane) File "C:\Users\user\Desktop
+\oobabooga-windows\oobabooga-windows\text-generation-webui\modules
+\nodsls.py", Line 125, in load_model from modules.GPTQ loader import
+Joad_quantized File "C:\Users\user\Desktop\oobabooga-windows\oobabooga-windows
+\text-generation-webui\modules\GPTQ_loader.py", line 14, in <module> import
+Liama_inference offload ModuleNotFounderror: No module named
+‘Lama_inference_offload’ Press any key to continue .
+
+Howover the gul works without adding the ~model argument, but breaks whenever I add the model
+argument
+
+[think Pi try to manually install the model instead of auto-downloading it again and maybe this will
+‘cause your fh to work, but I figure it was worth mentioning
+
+Thank you

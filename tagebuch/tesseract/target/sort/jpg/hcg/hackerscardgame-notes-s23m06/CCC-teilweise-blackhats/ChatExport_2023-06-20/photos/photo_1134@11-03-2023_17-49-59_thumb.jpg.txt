@@ -1,0 +1,19 @@
+File:TN-C-S-earthing-EN.svg
+
+w F
+
+Generator or
+transformer
+
+La
+
+J L2
+
+L3
+
+N
+PE
+
+|
+
+Earth Consumer |

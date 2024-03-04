@@ -1,0 +1,17 @@
+3:57 elapsed ( /O @rrors)
+
+=; 3:58 elapsed 1/0/0 errors)
+
+t block
+
+ght. cleaning up
+
+cad =~ lH AC
+
+(cd ~l|# badblocks wvys /dev/sda
+bad blocks in read-write mode
+to 4044974
+
+pattern Oxaa: done
+compar ing: Poo .92% done, 13:59:52 elapsed. (0/0/0 errors)
+

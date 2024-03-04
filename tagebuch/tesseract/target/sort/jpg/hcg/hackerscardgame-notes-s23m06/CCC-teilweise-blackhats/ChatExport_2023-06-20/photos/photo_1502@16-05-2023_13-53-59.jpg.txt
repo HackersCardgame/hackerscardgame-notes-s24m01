@@ -1,0 +1,9 @@
+# dragon fursuit, river of lava, photorealistic, full body, f/1.8, soft focus
+
+Seed: 192 50, Guidance Scale: 75, Model: the_ally/theallysMixiV_v10, Negative Prompt: bad eyes, b
+sample, mark, empty background, di ‘cropped, simple background, lowres, bad anatomy, disigured body, cropped head, gross quality
+Prompt
+
+i, fll body #8, soft focus
+Processed 4 Images In minute 31 seconds
+

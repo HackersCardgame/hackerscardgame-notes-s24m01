@@ -1,0 +1,74 @@
+~* Clear all statistics
+
+444444444 4
+
+Input
+IPTV #1
+
+IPTV #1
+
+IPTV #2
+
+IPTV #3
+
+IPTV #4
+
+Silicon Labs Si2168 #4 : DVB-T #0
+Silicon Labs Si2168 #3 : DVB-T #0
+Panasonic MN88472 #2 : DVB-C #0
+Panasonic MN88472 #1 : DVB-C #0
+Sony CXD2837ER DVB-T/T2/C demod...
+
+Stream
+servus in stv
+
+kodi.m3u - Bild in kodi...
+kodi.m3u - ARD-alpha...
+kodi.m3u - one HD in...
+kodi.m3u - Welt der W...
+
+474M#z in DVB-T Net
+
+522MHz in DVB-T Net...
+442MHz in DVB-C Ne...
+546MHz in DVB-C Ne...
+634MHz in DVB-T Net...
+
+Weight
+Em)
+300
+300
+300
+300
+500
+Em)
+Em)
+Em)
+Em)
+
+PID list
+
+0,1,16,17,18,20,256,2...
+0,1,16,17,20,33,34,48...
+0,1,16,17,20,480,481.,...
+0,1,16,17,20,480,481.,...
+
+0,1,16,17,20,256,257,
+0,1,16,17,18,100,110,
+0,1,16,17,18,1100,111.
+
+0,1,16,17,18,101,102,...
+0,1,16,17,18,102,103,...
+0,1,16,17,18,2100,211...
+
+Bandwidth (kb/s)
+"6196
+"4165
+"4187
+"4920
+"4481
+"22671
+"22561
+"17053
+"50019
+"21097

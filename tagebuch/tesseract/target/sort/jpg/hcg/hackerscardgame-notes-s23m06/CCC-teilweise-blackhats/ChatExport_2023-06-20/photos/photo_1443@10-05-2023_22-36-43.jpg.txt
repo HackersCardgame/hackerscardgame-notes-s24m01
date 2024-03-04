@@ -1,0 +1,17 @@
+51% done. 3:54 elapsed (
+Gin dome. 3:56 elapsed. (357/0/0 errors)
+Oi% done. 3:57 elapsed. (359/0/0 errors)
+@©.01% done. 3:58 elapsed. (361/0/0 errors)
+rerrupted at block 361
+
+Terrupt caught. cleaning up
+
+iot@sysresccd l# AC
+
+Otesysresccd ~ji# badblocks wvs /dev/sda
+necking for bad blocks in read-write mode
+
+block 0 to 4044974
+ng with pattern Oxaa:
+
+HB 2.77% done, 13:29 elapsed. (0/0/0 er rors)

@@ -1,0 +1,30 @@
+Active DHCPv6 Leases
+
+Host IPv6 address DUID Lease time remaining
+
+There are no active leases
+
+Wireless
+
+radioO
+
+Type: Cypress CYW43455 802.11bgn
+Channel: 1 (0.000 GHz)
+Bitrate: -
+
+.@ SSID: OpenWrt
+Mode: Master
+
+Wireless is disablea
+
+Associated Stations
+
+Network MAC address Host Signal / Noise
+
+No information available
+
+Static Lease
+
+RX Rate / TX Rate
+
+Powered by LuCl openwrt-22.03 branch (git-22.361.69894-438c598) / OpenWrt 22.03.3 r20028-43d71ad93e

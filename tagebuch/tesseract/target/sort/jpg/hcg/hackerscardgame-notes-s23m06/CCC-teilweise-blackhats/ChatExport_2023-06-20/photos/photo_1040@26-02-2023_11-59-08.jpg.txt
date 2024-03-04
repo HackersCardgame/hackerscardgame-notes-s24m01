@@ -1,0 +1,28 @@
+Flash operations
+
+Actions Configuration
+
+Backup
+Click "Generate archive" to download a tar archive of the current configuration files.
+
+Restore
+
+To restore configuration files, you can upload a previously generated backup archive here. To reset the firmware to its initial
+state, click "Perform reset" (only possible with squashfs images).
+
+] No file selected Upload archive
+
+Restore backup: [Browse...
+
+Flash new firmware image
+
+Upload a sysupgrade-compatible image here to replace the running firmware. Check "Keep settings” to retain the current
+configuration (requires a compatible firmware image).
+
+Keep settings:
+
+Image: (Browse...] No file selec
+
+: ==
+
+Powered by LuCl openwrt-18.06 branch (git-20.356.64372-1259bb1) / OpenWrt 18.06.4 r7808-ef686b7292

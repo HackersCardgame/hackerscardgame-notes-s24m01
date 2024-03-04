@@ -1,0 +1,45 @@
+Um die Aussagen zu analysieren und festzustellen, ob sie
+konsistent sind oder welche Schlussfolgerungen wir daraus
+ziehen konnen, kénnen wir sie in eine Wahrheitstabelle eintragen.
+Es gibt insgesamt 2°3 = 8 mégliche Kombinationen von
+Wahrheitswerten fir die Variablen S, A und P. Wir werden die
+Wahrheitswerte firr die einzeInen Aussagen F[t], F[2] und FI3]
+berechnen und dann feststellen, ob es eine Kombination von
+
+Wahrheitswerten gibt, bei der die gesamte Formel F wahr ist.
+
+Hier ist die Wahrheitstabelle:
+
+s A P 7s FEA FI2] FIST F
+tT |t |t le F t iT F
+tT |t |e Je F sy F F
+tT Je [tT fe F F T F
+tT |e |e fe F F iT F
+Fo[t |r |r T T : T
+Fo[t |e [tr F 7 F F
+Fle |r tr 7, T aE 7
+Fo ole |e [tT F rf t F
+Legende:
+
+T: True (Wahr)
+F: False (Falsch)
+
+Wie aus der Wahrheitstabelle ersichtlich ist, gibt es zwei
+Kombinationen von Wahrheitswerten (Zeilen 5 und 7), bei denen
+
+die gesamte Forme! F wahr ist:
+
+4. Sokrates war kein groBer Philosoph (F), Aristoteles hatte
+Recht mit seiner Einschatzung des Platon (T), und Platon
+hatte Recht mit seiner Einschatzung des Sokrates (T).
+
+2. Sokrates war kein groBer Philosoph (F), Aristoteles hatte nicht
+Recht mit seiner Einschatzung des Platon (F), und Platon
+hatte Recht mit seiner Einschatzung des Sokrates (T).
+
+In beiden Fallen war Sokrates kein groBer Philosoph, und Platon
+hatte Recht mit seiner Einschatzung des Sokrates. Die
+Einschatzung von Aristoteles Uber Platon kann jedoch entweder
+
+wahr oder falsch sein.
+

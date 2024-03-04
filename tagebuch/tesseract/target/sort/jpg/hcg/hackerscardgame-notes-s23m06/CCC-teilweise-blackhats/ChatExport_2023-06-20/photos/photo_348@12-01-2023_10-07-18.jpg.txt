@@ -1,0 +1,40 @@
+Fae! @Fae Ove race w wok rede sto BUSS Bove Bush) MBit Buy ED ply) EBVST) btw Opry Sw wi Top asm
+
+«oe © B dips:fasecuritysitecom/forensicsisimstring
+
+[Network Forensics Home][Home]
+
+This provides an overview of the string similarity using different methods.
+
+ein The results are then:
+String 1: Levenshtein 60
+| NeediemanWunch 60
+- ‘Smith-Waterman 100
+Metrix 2 ‘Smith-Waterman Gotoh 100
+String 2: Smith-Waterman Goch sg
+Windowed Affine
+Jaro 87
+[aro Winkle] 92
+=
+Block Distance 40
++ Loss of insignificant words: "loans and accounts” Cosine Similarity 58
+and "loans accounts”. Try
++ Small change Euclidean Distance 23
+account”. Try
++ Rearrangment of words: “loans and accounts” and Ch#pman Length Deviation 60
+“accounts and loans”. Try Overlap Coetticient 100
+
++ Punctuation: “fishing, "camping"; and ‘forest$” and
+‘ishing camping and forest”. Try
++ Case: "Loan Account and Dealing” "LOAN ACCOUNT
+
+Spacing:
+
+Dealing”. Try
+
++ Spacing: "LoanAccountDealing” "Load, Account,
+Dealing”. Try
+
+Here is another test:
+eiTeieict Ph olaiht brown fox” and "The slow braen
+

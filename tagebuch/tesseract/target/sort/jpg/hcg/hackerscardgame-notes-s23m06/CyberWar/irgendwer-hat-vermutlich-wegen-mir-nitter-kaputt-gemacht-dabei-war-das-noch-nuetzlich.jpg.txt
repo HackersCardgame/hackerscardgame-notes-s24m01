@@ -1,0 +1,73 @@
+An error has occured in one of your routes.
+
+Detail: /home/ubuntu/nitter/src/nitter.nim(61) nitter
+/nome/ubuntu/ nimble’ pkgs/jester-#baca3fijester-nim(511) serve
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1956) runForever
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1653) poll
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1394) runOnce
+/home/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(234) processPendingCallbacks
+Jhome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asynemacro .nim(28) getGraphUserNimAsyncContinue
+Jnome/ubuntu/nitter/src/api.nim(13) getGraphUserlter
+
+/nome/ubuntu/nitter/src/experimental/parser/graphql nim(7) parseGraphUser
+
+Jnome/ubuntu/ nimble’ pkgs/jsony-#ea8 1 1be/jsony.nim(590) fromJson
+
+Jnome/ubuntu/ nimble/pkgs/jsony-#ea811be jsony.nim(45) parseHook
+
+[[reraised from:
+
+/nome‘ubuntu/nitter/src/nitter:nim(61) nitter
+
+Jnome/ubuntu/.nimble/pkgs/jester-#baca3fijester.nim(511) serve
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch.nim(1956) runForever
+/nome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1653) poll
+/nome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1394) runOnce
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(234) processPendingCallbacks
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asynemacro .nim(28) getCachedUserNimAsyncContinue
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncmacro.nim(131) getCachedUserlter
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncfutures.nim(389) read
+
+q
+
+[[reraised from.
+
+/home/ubuntu/nitter/src/nitter-nim(61) nitter
+
+/nome/ubuntu/ nimble/pkgs/jester-#baca3fijester.nim(511) serve
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch.nim(1956) runForever
+/nome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1653) poll
+Jhome/ubuntu/.choosenimtoolchains/nim-1.6.10/lib/pure/asynedispatch nim(1394) runOnce
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(234) processPendingCallbacks
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asynemacro.nim(28) fetchProfileNimAsyncContinue
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asynemacro.nim(131) fetchProfilelter
+Jnome/ubuntu/.choosenimytoolchains/nim-1.6.10/lib/pure/asyncfutures.nim(389) read
+
+q
+
+[[reraised from.
+
+/home/ubuntu/nitter/src/nitter-nim(61) nitter
+
+Jhome/ubuntu/ nimble/pkgs/jester-#baca3fijester.nim(511) serve
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch.nim(1956) runForever
+nome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1653) poll
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(1394) runOnce
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch nim(234) processPendingCallbacks
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asynemacro.nim(28) showTimelineNimAsyncContinue
+Jnome/ubuntu/.chooseninytoolchains/nim-1.6.10/lib/pure/asyncmacro.nim(131) showTimelinelter
+Jnome/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncfutures.nim(389) read
+
+q
+
+[[reraised from.
+
+/nome/ubuntu/nitter/src/nitter-nim(61) nitter
+
+/nome/ubuntu/.nimble/pkgs/jester-#baca3fijester-nim(511) serve
+/home/ubuntu/.choosenim/toolchains/nim-1.6.10/lib/pure/asyncdispatch.nim(1956) runForever
+
+Jhome/ubuntu/ choosenim toolchains/nim-1.6.10/lib/pure/a
+
+Q Suche
+

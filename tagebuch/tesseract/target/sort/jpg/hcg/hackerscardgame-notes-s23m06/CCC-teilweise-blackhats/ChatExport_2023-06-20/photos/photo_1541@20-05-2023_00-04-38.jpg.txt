@@ -1,0 +1,23 @@
+torre exit node set x|maQ
+
+Q Alle [) Bilder Shopping J Videos ff] Biicher_—: Mehr Suchfilter
+
+Ungefahr 21'700 Ergebnisse (0.42 Sekunden)
+
+Tipp:Begrenze die Suche auf deutschsprachige Ergebnisse. Du kannst deine
+Suchsprache in den Einstellungen andern.
+
+Open the folder where you have installed Tor,
+browse through browser > Tor browser > Tor >
+data. There you will find a file named "torre."
+Open the file with Notepad. At the end of the
+document, on a new line, write this: ExitNodes
+{US}. For example, if you want your exit node
+to be in China, type {CN}. 073.2023
+
+wikiHow
+https:/Awww.wikihow.com > ... » Internet Browsers
+
+How to Set a Specific Country in a Tor Browser - wikiHow
+
+@ Informationen zu hervorgehobenen Snippets + fl Feedback geben

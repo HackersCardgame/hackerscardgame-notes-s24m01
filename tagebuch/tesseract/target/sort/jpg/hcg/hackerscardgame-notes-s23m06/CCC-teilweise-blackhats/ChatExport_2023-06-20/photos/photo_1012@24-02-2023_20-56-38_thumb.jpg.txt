@@ -1,0 +1,18 @@
+| sepheaen aa
+
+|o0 have the same issue - installed from Rp imager.
+
+‘ealmonte32 3d
+@HorolsTD @stophaaim
+
+{can install Anthias via instaling raspbian OS ite and running the bash script perfectly fne,
+‘0 | will assume these Issues you guys are having are with the balenaOS version?
+
+oF
+
+sstepheam 4
+
+{’s the image trom Rp Imager the anthias rpi image
+
+°¢
+

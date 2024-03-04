@@ -1,0 +1,20 @@
+return img
+
+Jef FindGauges (img) :
+print ("FindGauges(img)")
+circles = []
+id circles = cv2.ffoughcircles (img, cv2.HOUGH_GRADIENT, dp=1, minDist=1, minRadius=1, maxRadius=30)
+it circles = np.round(circles[Q].astype(int))
+id circles circles[np.lexsort((circles[:, 1], circles[:, ®]))]
+
+fT
+
+kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5,5))
+opening = cv2.morphologyEx(img, cv2.MORPH_OPEN, kernel, iterations=1)
+
+# Find contours and filter using contour area and aspect ratio
+
+cnts = cv2.findContours(opening, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+cnts = cnts[@] if len(cnts) == 2 else cnts[1]
+
+for c in cnts:

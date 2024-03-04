@@ -1,0 +1,8 @@
+152,3 W 0,203 EUR/kWh
+
+Verbrauch inkl. Smartstuff Energiepreis
+
+112,1 W
+
+Netzimport
+
