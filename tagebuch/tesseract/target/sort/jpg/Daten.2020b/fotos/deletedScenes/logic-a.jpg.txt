@@ -1,0 +1,39 @@
+© autocam::gui::ImagePanel
+
+1 = panett
+
+1
+ autocam::gui::MainForm
+
+4 <mainForn
+2 autocam:
+
+4.2 = Setimages
+
+Images
+QTimer autocam::dataobjects::Autocamimages | |
+4 timer i
++ autocam
+L 4 -autocam 4
+thread ~autocam
+Ei TimerThread Ej Autocam 1
+1 1 1
+z ata ~ autocam
+4 -timesetings i ee
+‘am
+5 autocam:: imeSettings “sere
+1 <timeSettings 1
+i 4 settings
+© autocam::dataobjects::Time 4
+timeist Settings
+48 timetist
+1 1
+4 -receiverSettngs il tebeledeinds
+1
+El autocam::dataohjocts:ReceiverSettings 2 autocam::dataobjects::ServerSettings
+1 =recsiverList 1.4
+autocam::dataobjects:
+4. -metaSettings
+jetaSettings
+
+E autocamMain

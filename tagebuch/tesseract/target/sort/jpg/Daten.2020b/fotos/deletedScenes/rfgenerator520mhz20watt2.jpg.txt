@@ -1,0 +1,24 @@
+TEST CIRCUIT
+
+2in
+
+Lengin = 8,@1.5 silver plates copper wire,
+Wigth = 4, length = 12 (7.6 tglass-epoxy,€5= 4.7)
+100, 1/27, ¢1.5 siner plates copper wre,
+
+3D, BT, $0.8 enameled wire.
+
+220pF, 330pF, 22WpF, 4 /UUpH, 1YAE in paeiel
+
++Vee
+
+$0,1T,1P
+
+to oF 0 20pF.
+
+NOTES: 91.9 silver plated copper wire exceot Ly and La.
+Dimension in mil-meter
+D. tamer chamater of coil ferrite bead
+T. Turn number of coi
+P. Pitch of coil
+Fe: Ferrite bead

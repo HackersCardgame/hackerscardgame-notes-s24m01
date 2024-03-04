@@ -1,0 +1,11 @@
+"
+:
+
+HEAR \TALY
+TAY-WA4X-- 8. -450
+c 6 uF sS2
+Un3000Voc Usto 4500
+-25+85°C NO PCB
+
+96-46
+

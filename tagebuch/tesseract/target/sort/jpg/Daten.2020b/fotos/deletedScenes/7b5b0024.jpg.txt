@@ -1,0 +1,38 @@
+Swisscom - Registration 24,09,10 20:47
+
+$ swisscom
+
+Swisscom Login
+Benutzername marc. jun. landolt
+
+Passwort
+
+Zustellung Identifikations-Code (bei vergessenem Passwort)
+Sicherheitsfrage:
+
+Personliche Angaben
+
+Adresse Herr
+Mare Landolt
+Rombachtali 13
+5022 Rombach
+
+Geburtsdatum 17.06.1978
+Kontakt 079 291 07 87
+
+Ihr Internet-Abonnement
+
+Abonnement DSL Max + Service Package«Classic»
+
+(Registriert am 08.04.2010, Seriennummer 1281514500)
+Kosten CHF 69.- / Monat
+
+Verrechnung Auf Telefonnummer 079 291 07 87
+
+Weitere Angaben
+
+Router
+Benutzername: admin
+Passwort: 513vbrnou
+
+https: //sam.sso. bluewin.ch/registration/adsl_registration;enter_login Seite Lvon 1

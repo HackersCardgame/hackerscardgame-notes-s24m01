@@ -1,0 +1,28 @@
+AOL:
+
+Préférences
+
+version: 4.5.0.2948
+
+Affichage || Stylo |[ Marqueur || A propos
+
+cr)
+
+-Epaisseur du trait
+
+Moyen
+
+Epais
+
+e
+
+moe
+
+‘@
+
+(G) {| Stylo sensible a la pression
+
+Réglages par défaut) (7 @
+
+@ Gere)
+

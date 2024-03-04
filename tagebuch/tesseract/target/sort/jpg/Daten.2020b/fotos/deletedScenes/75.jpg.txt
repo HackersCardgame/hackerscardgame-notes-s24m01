@@ -1,0 +1,196 @@
+- Generate a key pair
+Name
+
+E-Mail
+
+Comment (optional)
+
+Expiration
+Never +
+Key size:
+1024 v
+Algorithm:
+OSA & ElGamal -
+
+OK | [ Expert mode | { Cancel
+
+Abbifdung 1: KGPG dient als grafisches Frontend zu
+
+GPG. In diesem Dialog erzeugt der User einen neuen
+Schliissel. Leider orientiert sich die Oberflache viel
+zu sehr am Kommandozeilen-Original.
+
+Auch die tollste Anwendung ist fiir die
+meisten Benutzer nur ein Werkzeug und
+kein Selbstzweck. Statt sich auf die Ha-
+ken und Osen der Schliisselerzeugung
+zu konzentrieren, braucht das Programm
+einen anderen Fokus. Der User will nur
+eine Aufgabe erledigen — dabei sollte ihn
+das Programm so weit wie méglich un-
+terstiitzen und nicht behindern.
+
+Von Microsoft stammt der Name ,,Acti-
+vity-Based Planning“. Wer diesem De-
+signprinzip folgt, stellt zundchst eine Lis-
+te von Aufgaben zusammen, die der
+Benutzer erledigen will, und baut das
+Userinterface dann passend zu diesen
+Ablaufen. Herk6mmliche GUIs stapeln
+dagegen atomare Operationen und er-
+warten, dass der Benutzer die wichtigen
+Stellen selbst findet. Dabei jagen sie ihn
+durch uniibersichtliche Meniis und ver-
+wotrene Dialoge.
+
+Activity-Based Planning
+
+Aktivitatsorientiertes Planen richtet sich
+danach, wie die Anwender ihre Wiinsche
+auern. Sie setzen sich Ziele wie ,,Meine
+Patientenakte muss vertraulich bleiben“
+oder ,,Ich will sichergehen, dass die Per-
+son/Firma, mit der ich gerade rede, auch
+die ist, die sie vorgibt zu sein“. Niemand
+denkt ,,Ich will ein X.509v3-Zertifikat zu-
+sammen mit Triple-DES-Verschliisselung
+verwenden, um meinen Kommunikations-
+kanal abzusichern“.
+
+Eine weitere Lehre daraus: Statt mit dem
+Vokabular der Security-Experten zu jon-
+glieren, muss Software Sicherheitsaufga-
+ben mit den Worten prdsentieren, in de-
+nen der Anwender denkt und die er ver-
+steht. Nur so haben die User auch eine
+Chance, zu begreifen, was sie gerade
+machen, und werden die vorhandenen
+Sicherheitsfeatures auch nutzen.
+
+Auf die Schliisselerzeugung angewandt,
+bedeutet dies: Es gibt zwei Aktivitdten,
+einmal einen Schliissel zum Schutz von
+E-Mail erzeugen und einmal einen zum
+Schutz der Websurfer - genauer gesagt,
+einen Key fiir eimen SSL-Server. Das hier-
+zu passende Interface lasst den User zu-
+erst wahlen, welche dieser Aktivitaten
+er plant, und fragt anschlie&end nach
+Name und E-Mail-Adresse beziehungs-
+weise der Webserver-Domdne. Aber so-
+gar das geht noch besser: Ist der Dialog
+Teil der zu schiitzenden Anwendung,
+kann er sich die Fragen nach Namen und
+Adressen sparen oder wenigstens die be-
+kannten Daten vorab ausfiillen.
+
+Selbst fiir Stand-alone-Programme gilt
+keine Ausrede, alle Daten vom User er-
+neut zu verlangen, wenn diese bereits in
+»/etc/passwd« oder der Konfiguration ei-
+nes E-Mail-Programms vorliegen. Durch
+die Vielzahl an Mail-Clients unter Linux
+ist Zweiteres eine Herausforderung fiir
+die Entwickler, der sich zu stellen durch-
+aus lohnt. Selbst wenn der User die von
+dem Programm vorab ausgefiillten Daten
+nicht verwendet, ist der Schritt hilfreich:
+Er gibt ihm eine Vorlage, was das Pro-
+gramm erwartet, statt ihn mit einem lee-
+ren Eingabefeld allein zu lassen.
+
+Aktivitatsorientierte Designs sind sorg-
+faltig zu planen. Sie miissen die Aufga-
+benstellung der meisten Anwender ab-
+decken, ohne Benutzer abzuschrecken
+oder sie in das Korsett eines festen Ab-
+laufs zu zwangen,
+den sie gar nicht
+wollen. Schlecht
+formulierte Aufga-
+ben zwingen den
+User gar, den Pro-
+grammentwurf zu
+analysieren sowie
+zu raten, welcher
+Knopf zum Ziel
+
+Please inset your full name.
+
+Your name will be part of the new key to make it easier for
+others to identify keys.
+
+Your Name:
+
+zahlreiche der interaktiven Telefondiens-
+te von Fluglinien, Banken und anderen
+Firmen im Internet.
+
+Braucht ein Wizard mehr als drei oder
+vier Schritte, um einen Schliissel zu er-
+zeugen, dann ist ein Redesign fallig. GPA
+(GNU Privacy Assistant), der zur selben
+Programmkategorie gehdrt wie KGPG, be-
+nutzte urspriinglich ein beinahe identi-
+sches Dialogfenster wie KGPG. In jiinge-
+ren Versionen lést ein Wizard diesen Di-
+alog ab - einer der Schritte ist in Abbil-
+dung 2 zu sehen. Leider beschrankt der
+Wizard sich darauf, die unverstaéndlichen
+Eingabefelder des Dialogfensters in zahl-
+reiche kleine Stiicke zu zersagen. Zu den
+Stinden des Originals gesellt sich damit
+Langzeitfolter.
+
+Ausweg fiir Profis
+
+Die Liste der vorgegebenen Handlungen
+kann nie jeden User gliicklich machen.
+Statt die verbleibenden Anwender und
+deren Spezialwiinsche zu gangeln, muss
+ihnen das GUI die Méglichkeit anbieten,
+einen Schliissel ganz nach ihren Wiin-
+schen anzulegen. Selbst die Telefondiens-
+te erlauben etwas Vergleichbares und
+stellen bei Bedarf zu dem menschlichen
+Hotline-Mitarbeiter durch, der alle Son-
+derfalle aufnimmt.
+
+Taktisch klug ist es daher, zusatzlich ein
+alternatives Interface vorzuhalten. Hinter
+der Bezeichnung »Expertenmodus« oder
+»advanced mode« 6ffnen sich den Po-
+wer-Usern dann alle Optionen und alle
+Details - wie KGPG einfach auf die Kom-
+mandozeile zuriickzugreifen, das ist aller-
+dings keine gute Idee.
+
+Es ist jedoch nur eine Minderheit, die
+diesem Grad an Konfigurierbarkeit etwas
+abgewinnt; sie jammert zwar laut, wenn
+sie ihren Lieblingsalgorithmus und ihre
+
+fiihrt. Besonders
+verwirrend geben
+sich zum Beispiel
+
+Abbildung 2: Einer von zu vielen Schritten beim Erzeugen eines Schliissels mit
+GPA. Es geniigt nicht, normale Dialoge durch Wizards zu ersetzen und die alten
+Eingabefelder neu anzuordnen.
+
+.
+o
+ao}
+c
+g
+=
+iS
+<x
+
+Sec-Usability
+
+al
+ul
+
+Attacken abwehren_
+

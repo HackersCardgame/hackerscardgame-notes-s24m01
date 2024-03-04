@@ -1,0 +1,40 @@
+macO8 10.12/10.13
+
+VST 3, AAX, AU compatible host
+application for using as plug-in
+
+VST 3, VST 2, AAX compatible host
+application for using as plug-in
+
+» 64-bit Intel or AMD multi-core processor (Intel i5 or faster recommended)
+» 4 GB RAM (8.GB or more recommended) * 115 GB free HD space
+= » 1440 x 900 display resolution (1920 x 1080 recommended)
+* Graphics card with DirectX 10 and WODM 1.1 support (Windows only)
+* OS-compatible audio hardware*
+An internet connection is required for activation, account setup and
+personal/product registration. A download is required for the installation.
+
+*AS10-compatible audio hardware is recommended for low-latency performance.
+
+For recommended systems and support of future operating systems,
+please refer to the Support section on our website www.steinberg.net.
+
+Steinberg. Cubase, Absolute, Dorico. HALion, Nuendo, WaveLab, Cubasis, VST, ASIO and other Steinberg product and
+
+~ technology names are trademarks or registered trademarks of Stemberg Media Technologies GmbH, registered in
+~ Europe and other countries. Windows ts a registered trademark of Microsoft Corporation in the United States and
+
+Sather countnes. Macintosh, Mac, iPad, macOS, Mac OS and OS X are trademarks of Apple Inc.. registered in the US.
+
+and ather countries. Intel and Intel Care are trademarks or registered trademarks of Intel Corporation in the US.
+
+ws i i ae i ayy perre
+
+a — aia '
+
+steinberg
+
+; www .steinderg net
+
+ea
+

@@ -1,0 +1,34 @@
+Herr
+
+Marc Landolt
+Rainstrasse 13
+5024 Kittigen
+
+hat an der Berufsschule Aarau folgenden Kurs besucht:
+
+Windows
+Programmierung mit C++
+
+Kursnummer: 183
+Kursdauer: 21.04.1999 — 26.05.1999
+
+Anzahl Lektionen: 15 (5 Abende a 3 Lektionen)
+
+KURSINHALT
+
+- GUI
+
+Dokumente, Views, Dialoge
+
+Eingaben weiter verarbeiten
+
+Microsoft Foundation Class (MFC) — ein Uberblick
+
+Aarau, 26.05.1999
+
+Abteilung Weiterbildung und Kurse
+Der Kursleiter
+
+Jiirg Werner Link /
+
+ship

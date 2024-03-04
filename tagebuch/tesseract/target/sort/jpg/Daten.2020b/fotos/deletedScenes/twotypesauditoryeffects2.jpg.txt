@@ -1,0 +1,14 @@
+ENNOLD AT 50 pS
+a
+
+PULSB=POWRK MRKIHOLD
+
+Ti
+.
+
+2 ao so ec sco 120 +40 160
+PULSE SIcls DI ps
+Fig.2. RF sound threshold versus pulse
+
+duration PRR is 800 Hz (from
+13}.

@@ -1,0 +1,10 @@
+OUTLINE DRAWING
+
+@ EMITTER (CASE)
+® aase
+® COLLECTOR
+
+T-8E
+
+Dimensions in mm
+

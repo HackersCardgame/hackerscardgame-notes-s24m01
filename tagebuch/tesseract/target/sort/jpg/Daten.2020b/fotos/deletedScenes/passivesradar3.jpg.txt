@@ -1,0 +1,23 @@
+Advanged ORION / TRUMPET
+
+Trumpet
+« Betreiber: USAF
+
+Ziele: RADAR (ELINT)
+Umlaufbahn: Molniya
+(39000x1 300, 63°)
+Starts: 5.94, 7.95 und 11.97.
+Antennendurehm.: ~150 m
+
+Advanced ORION
+
+* Betreiber: USAP
+
+Ziele: RADAR (ELINT)
+Umlaufbahn: GEO
+
+Starts: 5.95 und 9.5.98
+Antennendurchm.: ~120 m
+
+ische Hochschule, ZOrich
+

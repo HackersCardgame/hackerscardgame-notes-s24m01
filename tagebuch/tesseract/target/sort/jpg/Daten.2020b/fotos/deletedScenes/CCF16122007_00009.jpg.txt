@@ -1,0 +1,55 @@
+oF ABB Technikerschule, Baden
+
+es
+Saas Ps Eidg. anerkannte héhere Fachschule fur Technik
+
+Teilaufgabe D: Telefonkabel Seite 2 /2
+20.8.07
+
+D1. (3 P.) Kabelwiderstand Rcu, lsolationswiderstand R;:
+a) (0.5 P.) Wie gross ist der Kabelwiderstand Rou?
+
+b) (1 P.) Wie gross ist der Isolationswiderstand Ri? Nehmen Sie dazu an, dass nur
+der Isolationsbereich zwischen den beiden Leitern schwach leitet (Hohe d,
+Lange a - d).
+
+c) (1.5 P.) Welchen Einfluss haben die beiden Widerstande auf die Empfanger-
+spannung Ue? Berechnen Sie die Empfangerspannung Ue fir die beiden Falle
+- senden mit Spannungsquelle Us;
+- senden mit Stromquelle ls.
+
+D2. (1.5 P.) Kabelinduktivitat L:
+a) (1 P.) Wie sieht das magnetische Feld der beiden Leiter aus?
+Skizzieren Sie die beiden Leiter und zeichnen Sie mindestens 5 Feldlinien ein.
+
+b) (0.5 P.) Wie gross ist die Kabelinduktivitat L? Finden Sie die entsprechende For-
+mel (Kollege, Buch, Internet) und berechnen Sie L.
+
+D3. (1.5 P.) Kabelkapazitat C:
+Vernachlassigen Sie bei dieser Aufgabe, dass Luft eine tiefere Permittivitatszahl e, hat
+als die Isolation.
+
+a) (1 P.) Wie sieht das elektrische Feld der beiden Leiter aus?
+Skizzieren Sie die beiden Leiter und zeichnen Sie mindestens 5 Feldlinien ein.
+
+b) (0.5 P.) Wie gross ist die Kabelkapazitat C? Finden Sie die entsprechende Formel
+(Kollege, Buch, Internet) und berechnen Sie C.
+
+D4. (4P.) Einfluss des Kabels bei verschiedenen Frequenzen:
+
+Ersatz- ———— 3
+schaltung: r Ils} Ro L he | '
+s © Ai R; E
+
+ee Kabel”
+
+a) (2 P.) f= 1 kHz: Welchen Einfluss hat das Kabel auf die Empfangerspannung Ue?
+Berechnen Sie den Betrag der Empfangerspannung Uz fir die beiden Falle
+- senden mit Spannungsquelle Us;
+- senden mit Stromquelle Is.
+
+b) (2 P.) f= 1 MHz: Welchen Einfluss hat das Kabel auf die Empfangerspannung Ue?
+Berechnen Sie den Betrag der Empfangerspannung Ug ftir die beiden Falle
+- senden mit Spannungsquelle Us;
+- senden mit Stromquelle Is.
+

@@ -1,0 +1,43 @@
+GESTELLUNG FREI OHNE Einfuhrliste Definitiv
+
+Domizil
+CH001281 BASEL POST
+Annahmedatum: 01.12.2010, 14:53 Version 1 55153806.1
+Postverkehr
+Importeur: Erzeugungsland: DE
+Landolt Marc Positionen: 1
+Rombachtali 13 Baca tick 1
+CH 5022 Rombach ana
+Sped-Nr/TIN: 7081 Rohmasse gesamt: 0.0
+Empfanger: MWST-Wert gesamt. 90
+Landolt Mare Konto Zolt: 9339-4 Swiss Post Int Bern
+Rombachtali 13 Konto MWST: 9339-4 Swiss Post Int Bern
+CH 5022 Rombach ‘
+Sped-Nr/TIN: 7084 eaneport:
+Postverkehr
+
+Spediteur:
+Swiss Post International Logistics
+Postdeklarant Nr. 727
+Post-Passage 11
+
+CH 4002 Basel Vorpapiere (Art, Nummer, zusditzliche Angaben):
+Sped-Nr./TIN: 7081 Identifikation Postverkehr, 3018587235, ---
+Nr.: 0070811003119788
+
+Ref.: 150.1012.01/03473
+
+Veraniagungsart Post: reduziert zollfrei
+Postverkehrsart: Paketpostverkehr
+Besichtigungscode: nein
+
+1 (1) FREI OHNE
+x 9898.9898
+(0 Handelswaren  Praterenz: DE * Veranlagungstyp: Normalveranlagung a
+Rohmasse: 0.0 Stat. Wert: 0 Zollansatz: 0.00
+MWST-Wert: 90 MWST [%]: 1.6".
+
+Packsticke (Art, Anzahl, Nummer):
+Packung/Packstiick, 1, 3018587235
+
+Seite 1 von 1

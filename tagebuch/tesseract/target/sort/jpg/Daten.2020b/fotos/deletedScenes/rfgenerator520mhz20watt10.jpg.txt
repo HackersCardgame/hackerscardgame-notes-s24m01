@@ -1,0 +1,32 @@
+TEST CIRCUIT
+
+aD,6T.2P
+
++Vec
+
+Zm=500
+HH Zo=409
+
+10 20pF
+
+FB
+
+Fi
+
+220pF_|6 fre
+io |
+
+[10
+wot
+5 oT oo
+
+FEC: O.4mmé enameled wite 8T on D = dun, = 13mm Bakelite S: Coll diansiors in millimeter
+DB: Inner diameter af coi
+
+FB: Ferrite ness
+Cl: 680F., 3300DF, 4700pF, 33H in parallel T: Turn number of coi!
+P: Pitch of cot
+
+C2: 3300p, 470008. 334 in parallel
+‘Material of microstrip line: H = 1.6mm Teflon glass (eg~ 2.7)
+

@@ -1,0 +1,207 @@
+80
+
+.
+®
+a=}
+=
+@
+=
+S
+<
+
+Attacken abwehren
+
+ren, oder die Farben haben wenigstens
+konfigurierbar zu sein.
+
+Optische Hilfen kénnen sogar auf das
+Fehlen von Sicherheit hinweisen, auch
+wenn es ziemlich schwer ist, ausgerech-
+net das Nicht-Vorhandensein einer Ei-
+genschaft hervorzuheben. Eingabefelder
+fiir PasswGrter in Dialogboxen und Web-
+seiten zeigen in der Regel Sternchen an-
+statt der eingetippten Zeichen. Das er-
+weckt den Eindruck, das Passwort bliebe
+geheim und sei irgendwie geschiitzt.
+
+Liicken zeigen
+
+In Wahrheit verhindert es nur, dass der
+Sitznachbar zufallig einen Blick darauf
+erhascht. Wirkliche Angreifer héren die
+Daten auf dem Netzwerk ab, wo sie das
+Passwort oft genug unverschliisselt vor-
+finden. Ironischerweise zeigen die meis-
+ten Webseiten eine eingetippte Kreditkar-
+tennummer im Klartext, iibertragen sie
+aber geschiitzt per SSL.
+
+Die logische Folgerung lautet, Passwor-
+ter im Klartext auf dem Bildschirm zu
+zeigen, wenn der Client sie ebenfalls im
+Klartext an der Server sendet (Abbildung
+11). Das Programm sagt dem User damit
+unmissverstandlich, dass es sein Pass-
+wort nicht schiitzt. Viele Anwender wer-
+den zwar darauf nervés reagieren, genau
+dies will die Aktion aber auch erreichen.
+Wenn dem Anwender jemand iiber die
+Schulter blicken kann, ist es sowieso kei-
+ne gute Idee, auf geheime, passwortge-
+schiitzte Daten zuzugreifen.
+
+Um den Benutzer nicht véllig im Unge-
+wissen zu lassen, empfiehlt sich ein Er-
+klarungstext, zum Beispiel in Form eines
+Tooltipps. Diese Kombination warnt deut-
+
+EQUIFAX
+Don't Let Identity Thieves
+Ruin Your Credit
+
+" Personal Solutions Member Login |
+Username:
+
+User
+
+Password
+
+Password
+
+Abbildung 11: In diesem ungeschiitzten Login-Bild-
+schirm erkennt der Benutzer sofort, dass sein Pass~
+wort im Klartext durch die Leitung wandert.
+
+lich und gibt dem User das notwendige
+Hintergrundwissen, um eine fundierte Ent-
+scheidung zu fallen.
+
+Designbeispiel: TLS mit
+Passwort
+
+Das Designbeispiel fiir visuelle Hinweise
+
+bezieht sich auf TLS-PSK, also auf TLS
+
+mit Passwort-Authentifizierung (Trans-
+port Layer Security with Pre-shared Keys,
+
+{7]). Das Verfahren braucht mindestens
+
+folgende GUI-Funktionen:
+
+@ eine Anzeige, dass TLS-PSK aktiv ist,
+also Client und Server sich erfolgreich
+gegenseitig authentifiziert haben;
+
+@® eine nicht falschbare Eingabeméglich-
+keit fiir das Benutzerpasswort. Eine
+Verwechslung mit Passworteingabe-
+feldern in Webseiten oder Ahnlichem
+muss ausgeschlossen sein;
+
+@ eine nicht falschbare Verbindung zwi-
+schen der TLS-PSK-Authentifizierung
+und der Webseite, die der Browser ge-
+schiitzt geladen hat.
+
+Die erste Forderung erfiillt eine eigene
+Hintergrundfarbe in der URL-Zeile. Etli-
+che Browser verwenden bereits Gelb fiir
+herkémmliches SSL/TLS. Fiir TLS-PSK
+kommt zum Beispiel Hellblau in Frage,
+um die Mechanismen zu unterscheiden.
+Fur die anderen beiden Anforderungen
+geniigt kein herkOmmliches Popup-Fens-
+ter, das aus jeder Quelle stammen kénn-
+te. Besser ist es, die hellblaue URL-Zeile
+herauszuzoomen (animiert) und dann in
+einen blau gefarbten oder blau umrande-
+ten Passwort-Eingabedialog zu verwan-
+deln. Nach der erfolgreichen Authentifi-
+zierung zoomt das Feld wieder zuriick.
+
+Enge Verbindung
+
+Dieser Ablauf verdeutlicht sogar Erst-
+anwendern die direkte Verbindung zwi-
+schen dem hellblauen Hintergrund der
+URL-Zeile und der TLS-PSK-Sicherheit.
+Der Benutzer muss sich nur noch eines
+merken: Wenn die blaue Farbe und der
+grafische Effekt fehlen, hér auf!
+
+Zudem ist der Authentifizierungsmecha-
+nismus ein integraler Bestandteil eines
+notwendigen Ablaufs. Implementiert ihn
+der Browser so, wie gerade beschrieben,
+dann funktioniert TLS-PSK nicht, ohne
+den User durch das Security-Interface zu
+leiten - anders als beim herkémmlichen
+
+Sicherheitstest bei SSL/TLS, welchen der
+User beliebig umgehen kann.
+
+Heutige GUIs beweisen an vielen Stellen
+grofen Nachholbedarf, wenn es darum
+geht, ihren Anwendern zu helfen. In si-
+cherheitsrelevanten Abldufen ist diese
+Hilfe besonders wichtig, weil den Benut-
+zern meist das Hintergrundwissen fehlt.
+Ausgerechnet hier versagen etliche Pro-
+gramme. Die Tipps aus dieser Serie ver-
+bessern diese Situation: Oftmals geniigt
+bereits eine geschicktere Formulierung,
+aber auch ausgefeilte grafische Tricks an
+der richtigen Stelle tragen dazu bei, die
+theoretisch mégliche Sicherheit tatsach-
+lich umzusetzen. (fjl) a
+
+Infos
+
+[1] Ellen Langer, Arthur Blank und Benzion
+Chanowitz, ,, The mindlessness of osten-
+sibly thoughtful action - The role of place-
+bic information in interpersonal interac-
+tion’: ,, Journal of Personality and Social
+Psychology”, Vol. 36, Nr. 6, S. 635
+
+[2] Carsten de Dreu und Christopher McCusker,
+»Gain-Loss Frames and Cooperation in Two-
+Person Social Dilemmas - A Transformatio-
+nal Analysis”: ,, Journal of Personality and
+Social Psychology”, Vol. 72, Nr. 5, $. 1093
+
+[3] Amos Tversky und Daniel Kahneman, ,,The
+framing of decisions and the psychology of
+choice”: ,,Science“, Vol. 211, Nr. 4481, $. 453
+
+[4] Dawn Wilson, Robert Kaplan und Lawrence
+Schneiderman, ,,Framing of decisions and
+selection of alternatives in health care”:
+Social Behaviour”, Nr. 2, $. 51
+
+[5] Robert Cialdini, ,,Influence: Science and
+Practice”
+
+[6] Timothy Brooks und Melanie Green, ,,Per-
+suasion: Psychological Insights and Per-
+spectives"
+
+[7] RFC 4279, ,,Pre-Shared Key Ciphersuites
+for Transport Layer Security (TLS):
+[http://www.ietf.org/rfc/rfc4279.txt]
+
+Der Autor
+
+Peter Gutmann ist Wissenschaftler im Depart-
+ment of Computer Science der University of
+Auckland, Neuseeland. Er arbeitet an Design und
+Analyse kryptographischer Sicherheitsarchitek-
+turen, ist Koautor von PGP und hat viele Be-
+richte und RFCs zu Sicherheitsthemen verdffent-
+licht. Von ihm stammen auBerdem das Open-
+Source-Sicherheits-Toolkit Cryptlib sowie das
+Buch ,,Cryptographic Security Architecture De-
+sign and Verification” (Springer Verlag, 2003).

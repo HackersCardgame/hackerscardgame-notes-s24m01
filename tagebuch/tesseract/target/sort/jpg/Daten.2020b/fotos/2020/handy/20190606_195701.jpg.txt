@@ -1,0 +1,67 @@
+Hauptseite
+
+Systeminformati¢gen
+
+Hersteller
+
+Produktname
+
+SKU-Nummer
+Notebook-Seriennnummer
+
+UUID (Universal Unique Identifier)
+Nummer fiir Systemverfolgung
+Garantiebeginn
+Systemkonfigurations-ID
+
+Geben Sie die Feature-Byte-Daten ein
+Geben Sie die Build-ID ein
+
+System-|ID
+
+Systemplatinen-CT
+
+Aktuelle System-BIlOS-Version
+Aktuelles BlIOS-Ver6dffentlichungsdatum
+Grafik-BIOS-Revision
+Tastaturcontroller-Revision
+Prozessortyp
+
+MicroCode-Revision
+
+Sicherheit
+
+Erweitert )
+HP Computer Setup
+
+Hewlett-Packard
+
+HP ProBook 650 G1
+
+H5G81EA#UUZ
+
+CNU420BPX5
+FF80FB73A822E41198DD6C8B4205E0FF
+CNU420BPX5
+06/26/2014
+
+A3009DD10303
+3X47676J6S6b7H7M7Q7W7jaBaqawce.7f
+13WWCYAW601#SUUZ#HDUUZ
+
+1993
+
+PEBJKO001X6069T
+
+L77 Ver. 01.36
+
+04/25/2016
+
+INTEL 2175
+
+ieee
+
+Intel(R) Core(TM) i5-4200M CPU
+
+16
+

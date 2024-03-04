@@ -1,0 +1,21 @@
+‘Activities _G) Terminal ~ ‘Mon 06:08
+
+dew Be
+
+#1 /bin/bash
+do opt-get install cclive epgi23 ¥
+ekdir voit in
+cd work ingOit
+for | in $(cat ../list.txt): doo liye $izdone
+IFS-$'\n # make newlines the only separator
+
+for \ in $(1s): do vortoh $42 done
+
+echo Bitte [°W//C8] driicken
+read
+
+sout="#transcode{acode:
+
+p3, veodec=dunay}:s tandard{acces: muxeraw,dste$L mp3)" vlc: //quit &
+sawn, youtube
+

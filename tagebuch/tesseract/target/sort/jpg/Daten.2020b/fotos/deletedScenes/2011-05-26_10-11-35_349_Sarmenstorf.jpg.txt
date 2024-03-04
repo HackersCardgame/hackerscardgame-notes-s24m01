@@ -1,0 +1,7 @@
+pes " STR RRR RTS A IS RA
+
+- —
+
+Shift
+
+More Characters Space

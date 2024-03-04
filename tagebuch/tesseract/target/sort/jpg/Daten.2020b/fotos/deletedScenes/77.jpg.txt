@@ -1,0 +1,184 @@
+cher sein, auch das Richtige zu tun, oh-
+ne durch mehrfaches Textstudium zu er-
+griinden, was »OK« hier bedeutet.
+
+Zu guter Letzt verzichtet das Dialogfens-
+ter auf den iiblichen »Schlie&en«-Button.
+Dieser Trick vermeidet, dass der User mit
+einem blinden Klick in die rechte obere
+Ecke das Fenster loswird und sich spda-
+ter wundert, warum sich sein Programm
+iiber einen fehlenden Schliissel beklagt.
+
+Offentlichkeitsarbeit
+
+Der nachste Schritt (Abbildung 4) infor-
+miert den Anwender dariiber, dass sein
+Schliissel fertig ist und das Programm
+ihn gespeichert hat. Damit steht er fiir
+die weitere Benutzung bereit. Wieder
+gibt der Default-Button den sinnvollen
+Weg vor, namlich den Schliissel anderen
+Nutzern zuganglich zu machen. Sollte
+sich der Benutzer dagegen entscheiden,
+landet er in einem Expertenmodus-Dia-
+logfenster. Dort erfahrt er, dass er sich
+nun selbst um die Key-Distribution kiim-
+mern muss und etwa einen Schliissel-
+
+Ihr neuer Schlissel steht zur Benutzung bereit.
+
+Abbifdung 6: Zum Abschluss informiert der Wizard,
+dass alles gut gegangen ist.
+
+export in Textform auf seine Homepage
+stellen kann.
+
+Der letzte Schritt in Abbildung 6 teilt
+dem Benutzer schlieflich mit, dass sein
+Schliissel nun bereitliegt. Bei diesem In-
+terface reicht es sogar aus, dass der User
+dreimal auf [Enter] driickt, ohne sich die
+Miihe zu machen, den Text in den Dia-
+logfenstern zu lesen.
+
+Je nach der konkreten Situation braucht
+dieser Dialog als weiteren Schritt eventu-
+ell ein Eingabefeld fiir ein Passwort oder
+eine PIN, um damit den neuen Key zu
+schiitzen. Unnotig ist das, wenn der Key
+in einem USB-Security-Token oder auf
+einer Smartcard landet, welche bereits
+PIN-geschiitzt sind, oder wenn der User
+
+bei dem Start der Applikation bereits ein
+Master-Passwort eingetippt hat (im Sinne
+eines Personal Security Environment oder
+Passwort-Safes).
+
+Gerade bei so schwierigen Themen wie
+der Computersicherheit muss Software
+die Sprache ihrer Benutzer sprechen. Sie
+brauchen die Motivation sowie die Fa-
+higkeit, den Inhalt einer Sicherheitsmel-
+dung zu verstehen. Vielen Entwicklern
+fallt es aber schwer, aus ihrer Insiderpo-
+sition heraus zu beurteilen, wie unver-
+standlich ihre Schépfungen fiir technisch
+nicht versierte Anwender ausfallen.
+
+Die Sprache der Anwender
+
+Am einfachsten ist diese Sprachhiirde zu
+iiberwinden, wenn die Entwickler ihre
+kiinftigen Anwender fragen, was diese
+wirklich vom Interface erwarten. Dum-
+merweise stellt sich in der Praxis heraus,
+dass es viele Formulierungen fiir identi-
+sche Aufgaben gibt. Wer seine Untersu-
+chung auf ein oder zwei User begrenzt,
+erreicht eventuell das Gegenteil und ver-
+
+Psycholo: Dialog
+Sozialpsychologen haben herausgefunden, dass
+
+eine Anfrage weit mehr Erfolgsaussichten hat,
+wenn ihr eine Erklarung beiliegt [1]. Den User
+einfach nur zu fragen, ob er ein ungilltiges SSL-
+Zertifikat akzeptiert, geniigt nicht. Steht im
+Dialogfenster zusatzlich ,,Das ungiiltige Zerti-
+fikat kénnte es Kriminellen ermdglichen, Geld
+von Ihrem Konto zu stehlen“, dann haben Be-
+nutzer eine gréBere Chance, die Situation kor-
+| rekt zu beurteilen.
+
+Dieser Text profitiert noch von einer anderen
+interessanten Erkenntnis der Psychologen: Die
+Angst, etwas zu verlieren, motiviert mehr als
+die Aussicht, etwas zu gewinnen ([21, [31).
+Der Mechanismus funktioniert verbliiffend ein-
+fach: Wenn zum Beispiel ein Arzt seinem Pati-
+
+Mitmach-Effekt klappt auch bei Sicherheitssoftware.
+
+Abbildung 7: Einen Teil der Stiihle besetzen viele Theater mit Profi-Applaudie~
+
+rern, um die Besucher an passenden Stellen zum Jubeln anzuregen. Dieser
+
+enten sagt, ,,Falls Sie das Rauchen nicht aufge-
+ben, haben Sie fiinf Jahre weniger zu leben”,
+dann erreicht er damit mehr als mit der positi-
+ven Formulierung ,,Wenn Sie das Rauchen auf-
+geben, haben Sie fiinf Jahre mehr zu leben”
+[4]. Auf den Webbrowser iibertragen, bedeu-
+tet das: Lieber warnen, jemand kénnte Geld
+stehlen, als zu beteuern, dass ein giiltiges Zer-
+tifikat fiir ein sicheres Konto sorgt.
+
+Offene Fragen statt Wunsch nach Bestatigung
+
+User denken intensiver nach, wenn das Pro-
+gramm ihnen eine Frage stellt, als wenn es nur
+eine Zusage erwartet. ,,Etwas ist schief gelau-
+fen. Wollen Sie fortfahren?” ist im Grunde nur
+eine Beteuerung, die sich als Frage tarnt. Bes-
+ser ist deshalb: ,,Wol-
+len Sie sich mit der
+Website  verbinden,
+obwohl dies Kriminel-
+len erlauben kénnte,
+Geld von Ihrem Konto
+zu stehlen?”
+
+GUls kénnen auch
+von dem Phdnomen
+der sozialen Bestati-
+gung profitieren. Vie-
+le Menschen tendie-
+ren dazu, Dinge zu
+tun, nur weil andere
+es auch tun. Die an-
+
+deren kénnen eine Autoritét oder auch eine
+groBe Menschenmenge sein. Dieser Trick ist |
+weithin bekannt und wird oft verwendet. In je-
+dem Spendentopf befindet sich vorab schon
+Geld, im Theater sitzen professionelle Applau-
+dierer, und TV-Serien spielen die Lacher an der
+passenden Stelle von Band ab.
+
+Obwohl Schauspieler und Zuschauer die Lacher
+von Band nicht mégen, funktioniert der Trick
+zuverldssig. Die Lacher sind offenkundig nicht
+echt, und die meisten Zuschauer glauben, dass
+sie sich davon nicht beeinflussen lassen. Den-
+noch lésen sie die gewiinschte Reaktion aus
+und eignen sich als soziale Bestatigung. Das
+gilt auch fiir die oben genannten Mechanismen: |
+Egal, ob man an sie glaubt oder nicht, sie funk-
+tionieren in der Praxis.
+
+Klug getextet
+
+Soziale Bestatigung hilft dem User bei der Ent-
+scheidung, etwa bei einer sicherheitsrelevanten
+Frage: ,,Fiir die meisten Anwender ist XYZ die
+beste Wahl, wobei XYZ die sicherste und ver-
+niinftigste Variante ist. Selbst wenn spater ein-
+mal dieser Hinweis in einem anderen Programm
+fehit, weiB der Anwender, welche Entscheidung
+verniinftig ist.
+
+Wer mehr iiber dieses Forschungsfeld erfahren
+will, findet in [5] und [6] einen guten Ein-
+stieg. Hoffentlich kommen Phisher nicht auf
+die Idee, solche Biicher zu studieren.
+
+Anwender
+
+Sec-Usability
+
+77
+
+Attacken abwehren
+

@@ -1,0 +1,54 @@
+on n ABB Technikerschule, Baden
+SS xr Eidg. anerkannte hdhere Fachschule flr Technik
+
+LA (Leitende Aufgabe) Software Engineering Seite 4 von 5
+
+Aufgabenstellung
+
+Es ist mittels Java ein FMS zu entwickeln das die Navigation eines Flugzeugs
+realisiert:
+
+e Die Benutzerschnittstelle muss als GUI realisiert werden.
+
+e Ejingaben:
+o Alle Waypoints einer Route (gemass Tabelle)
+o Fluggeschwindigkeit (z.B. 280 Knoten)
+Np eine Lar alle Lea's
+e Ausgaben: Kor “\
+
+o Jeweils zwischen zwei Waypoints (also pro Leg):
+« Steuerkurs
+» Distanz (in [NM] = nautische Meilen)
+« Flugzeit (in Minuten)
+
+o Fur die gesamte Route:
+# Reisedistanz (in [NM] = nautische Meilen)
+= Reisezeit (in Minuten)
+
+e Programmieren Sie objektorientiert, also mit Klassen und Objekten.
+
+Optional: Waypoints und Routen sollen in einem File abspeichert werden.
+XML - SDOM
+
+Abgabedokumentation
+
+Folgende Dokumente sind abzugeben:
+e Paketdiagramm
+Klassendiagramm
+Anwendungsfalldiagramm
+Aktivitatsdiagramm wichtiger Ablaufe (Z.B.: Bedienung)
+Sequenzdiagramm eines wichtigen Ablaufs (Z.B.: die Berechnung)
+Sourcecode ausgedruckt
+o mit Word
+o Schrift: Courier new
+o Grésse: 6 Pixel
+o A4 Quer falls Zeilenumbruch
+e Sourcecode auf CD
+Ein Printscreen des laufenden Programms
+Ein Bericht (ca. 1-2 A4 Seiten), der folgende Punkte umfassen soll:
+o Testbericht
+o Erfahrungen
+o Erkenntnisse
+o Stolpersteine
+
+M. Bontognali

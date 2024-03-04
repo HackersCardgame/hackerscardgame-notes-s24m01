@@ -1,0 +1,121 @@
+Rechnernetze
+
+Das Computing-Grid fir den Teilchenbeschleuniger
+
+Grenzdimensionen
+
+Bernhard Schone
+
+In der Nahe von Genf entsteht das gréBte physikalische
+Experiment aller Zeiten, der Teilchenbeschleuniger Large Hadron
+Collider. Die dort anfallenden Datenmengen miissen nicht nur
+gefiltert, konvertiert und analysiert werden, sondern gleichzeitig
+tausenden von Wissenschaftlern in aller Welt zur Verfigung
+stehen. Dazu hat das CERN zusammen mit anderen
+Organisationen das groBte Rechen- und Speicher-Grid
+
+aus der Taufe gehoben.
+
+iner der wenigen Orte, an denen
+E man Informationstechnik der an-
+deren Dimension —_bewundern
+kann, ist das CERN, das Europiiische
+Zentrum eilchenphysik (Centre
+
+Zwar muss etwa auch der amerika-
+nische Nachrichtendienst NSA (Na-
+tional Security Agency) gigantische
+Bit-Mengen speichern, um all die
+Telefon- und Inter-
+
+Européen de la Recherche Nucleaire)
+Dort bereitet sich das hauseigene Re
+chenzentrum auf gewaltige Rechenauf.
+gaben und Datenmengen vor, die an-
+
+netverbindungen zu _ konservieren.
+Doch die Tore dieser Institution blei-
+ben fiir Besucher leider genauso ver-
+sperrt wie die Rechenzentren der
+
+fallen, wenn der weltgrifte Teilchen-
+beschleuniger, der Large Hadron Colli-
+der (LHC), am CERN in Betrieb geht
+
+iX 5/2006
+
+auf deren Grob-
+rechnern das US-Militér Atomexplo-
+sionen simuliert.
+
+Dagegen macht das CERN aus sei-
+ner Tatigkeit kein Geheimnis und hat
+das institutseigene Besucherzentrum
+erst jiingst modernisiert und erweitert.
+Ausgewihlte Besuchergruppen diirfen
+sogar das Rechenzentrum. betreten,
+einen Ort, der schon vielen Rechnern
+eine Heimat geboten hat: Mainframes,
+Vektorrechnern und Unix-Servern j
+licher Art. ,,Von den letzten Sun-S:
+temen trennen wir uns gerade“, so Dr.
+Wolfgang von Riiden, Leiter der IT-
+Abteilung,
+
+An deren Stelle entsteht einer der
+gr6Bten Linux-Cluster der Welt
+soll den Ausgangspunkt fiir ein fiinf
+stufiges, weltweit verteiltes Speicher-
+und Rechen-Grid, das LHC Compu-
+ting Grid (LCG) bilden, das Forscher
+aller Linder mit Daten und Rechenpo-
+wer versorgt, sobald der LHC seine
+Arbeit aufgenommen hat. Physiker aus
+aller Welt werden dann versuchen, die
+Gesetze der kleinsten Materieteilchen
+zu erforschen.
+
+Dazu haben sie einen 27 km langen
+Beschleunigerring in die Genfer Erde
+gebuddelt. Genauer gesagt in die Erde
+zwischen Frankreich und der Schweiz.
+Je nachdem, wie man rechnet, hat das
+Ganze mindestens | bis 2,5 Milliarden
+Euro gekostet, viele Sachspenden und
+die Arbeitsleistung der Wissenschaftler
+in den Partnerinstituten nicht mitge-
+rechnet. Als Lohn der Miihen sollen
+spektakulire Erkenntnisse und der eine
+andere Nobelpreis winken.
+
+Ahnlich kolossal wie die Dimensio-
+nen des Experiments sind die dabei an-
+fallenden Datenmengen. Wenn in den
+vier Detektoren ALICE, ATLAS,
+CMS und LHCb - der gréBte ist so
+hoch wie ein achtstéckiges Haus — pro
+Sekunde 40 Millionen mal (40 MHz)
+Atomkerne aufeinanderprallen (siche
+Kasten ,,Der Large Hadron Collider“),
+entstehen Datenmengen, die alles bis-
+her Dagewesene tibertreffen.
+
+Nach den bisherigen Kalkulationen
+der Forscher wird der LHC eine Milliar-
+de Ereignisse pro Sekunde erzeugen, bei
+jedem Zusammensto8 entstehen wiede-
+rum mehr als 100 neue Teilchen. Daraus
+entsteht ein Datenstrom von einer Mil-
+lion GByte/s oder | Petabyte/s.
+
+Beim gegenwirtigen Stand der
+hnik wiire es vollkommen illuso-
+risch, die Rechen- und Speichersyste-
+me direkt mit den Messdaten der vier
+GroBexperimente zu fiittern. Daher
+gibt es bereits innerhalb der Experi-
+mente spezielle Rechner, die in drei
+Stufen eine erste Auswahl der Ereig-
+nisse von | aus 10 Millionen treffen
+
+99

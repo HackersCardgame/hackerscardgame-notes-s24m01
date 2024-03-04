@@ -1,0 +1,137 @@
+Grid-Knoten, die sowohl garantierte
+Rechenleistung als auch Speicherkapa-
+zitait zur Verfiigung stellen. Jeder ein-
+zelne besteht aus einem Rechen-Clus-
+ter mit jeweils mehreren tausend CPUs
+sowie Disk- und Bandsystemen mit
+mehreren Petabyte Kapazitat. Insge-
+samt erfordern Analysen und Simula-
+tionen der vier LHC-Experimente im
+Referenzjahr 2008 (Beginn der Analy-
+sen) im Tier! iiber 60 000 kSI2k (1000
+SPECint2000) — das entspricht etwa
+60 000 Pentium-4-CPUs mit 3 GHz -,
+iiber 32 Petabyte Disk- und ebensoviel
+Bandkapazitiit.
+
+Den deutschen Tierl-Knoten bildet
+das GridKa (Grid am Forschungszen-
+trum Karlsruhe). Karlsruhe plant, bis
+dahin fiir das LCG eine Rechenkapa-
+zitit von knapp 10 000 kSI2k sowie
+iiber | PByte auf Disks und 4,2 PByte
+auf aktiven Tapes zur Verfiigung zu
+stellen.
+
+Reservierte
+10-Gigabit-Links
+
+Fiir die schnelle Weiterleitung der
+Datenfracht zwischen den Instituten
+sorgen die nationalen und internationa-
+len Wissenschaftsnetze, ein separater
+Teil des Internet fiir die Vernetzung
+nicht-kommerzieller__Forschungsein-
+richtungen. Das CERN ist direkt mit
+dem im Juni 2005 in Betrieb genom-
+menen  Europiiischen —_ Backbone
+GEANT2 verve al aus Dark
+
+Biind
+1)
+
+Uber erstere lassen sich per Wellenliin-
+gen-Multiplexing 10 GBit/s pro Wel-
+Ienliinge und Faser iibertragen.
+
+Vom GEANT2 gehen die Daten
+
+ge Tierl-Zentrum zuriick, denn nur
+hier stehen die Bandspeicher fir die
+Langzeitspeicherung. Das CERN kann
+bei Bedarf ebenfalls auf diese Daten
+
+zum einen iiber die daran -
+nen nationalen Netze (National Rese-
+arch and Education Networks, NREN)
+an die anderen europiiischen Tierl-
+Knoten CNAF (Bologna), IN2P3
+(Lyon), GridKa (Karlsruhe), SARA
+(Amsterdam), NorduGrid (Skandin
+vien), PIC (Barcelona) und RAL (Di
+cot, UK). Uber den Backbone des trans-
+atlantischen LHCnet gelangen sie zum
+anderen durch das kanadische CA*net4
+zum Knoten TRIUMF in Vancouver
+sowie in das US-amerikanische ESnet,
+von hier aus zu den Knoten Brookhaven
+(Upton, NY) und Fermilab (Batavia, Ili-
+nois) sowie tiber das ASnet zum ASCC
+in Taipeh. Fiir die gesamte Tier0-Tierl-
+Vernetzung sind in allen beteiligten
+Netzen mehrere 10-GBit-
+
+ugreifen. Die Experi wer-
+den aus Sicherheitsgriinden mehrfach,
+in unterschiedlichen Tier1- und Tier2-
+Zentren vorgehalten.
+
+Fiir die Verteilung der Daten an die
+deutschen Tier2-Zentren ist das GridKa
+indig. Die Anbindung sowohl ans
+GEANT2 als auch an die Tier2-Zentren
+sowie deren Anbindung an die Tier3-
+Standorte tibernimmt das deutsche For-
+schungsnetz X-WIN, das Anfang 2006
+das Wissenschaftsnetz G-WIN abléste.
+Karlsruhe selbst ist momentan iiber eine
+10-GBit-Leitung _angeschlossen, ab
+2008 sollen es 20 GBit/s sein.
+
+Weitere 1000 Institute, die Berech-
+nungen mit den CERN-Daten vorneh-
+men, stellen das Tier3 dar, die lokalen
+Al von etwa 8000
+
+Links reserviert und bilden das Optical
+Private Network (OPN) des LCG.
+
+Etwa einhundert Universititsrechen-
+zentren in 40 Lindern bilden das Tier2.
+Sie stellen weitere garantierte Rechen-
+kapazittit und so genannten Managed
+Disk Storage — hauptsiichlich fiir Simu-
+lationen und Analysen durch Endbenut-
+zer — bereit. AuBerdem gewihren sie
+anderen LCG-Zentren (Tier3) Zugang
+zum Grid und sorgen fiir ausreichend
+Netzwerkbandbreite fiir den Datenaus-
+tausch mit den Tierl-Knoten.
+
+Sind die jeweiligen Berechnungen
+im Tier2 abgeschlossen, geben sie die
+
+i und durch
+
+Fiber (
+und gemieteten ane besteht.
+
+erzeugten Datensiitze an das zustiindi-
+
+Wissenschaftlern das Tier4. Denn je
+nachdem, was bei der betreffenden
+Kollision passiert ist, interessieren
+sich unterschiedliche Wissenschaftler
+fiir das Ereignis. Die betreffenden
+Gruppen kénnen sich die Daten ko-
+pieren und mit ihren Formeln weiter-
+bearbeiten. Oft reicht dazu ein Desk-
+top-PC aus.
+
+LHC-Computing
+fiir zu Hause
+Neben dem LCG setzt das CERN
+
+noch auf ein weiteres Rechnernetz,
+nimlich das seiner Freunde. Die stel-
+

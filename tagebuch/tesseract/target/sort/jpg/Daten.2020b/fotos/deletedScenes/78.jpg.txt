@@ -1,0 +1,208 @@
+L
+a
+bc)
+[=
+g
+=
+€
+<=
+
+78
+
+Attacken abwehren
+
+_ Sec-Usability
+
+wirrt andere Anwender. Besser ist es al-
+so, eine Liste mit Vorschlagen der User
+anzulegen und eine gréfsere Gruppe ab-
+stimmen zu lassen.
+
+Eine Studie zeigte, dass Benutzern mit
+Interfaces, die aus solchen Abstimmun-
+gen entstanden sind, zwei- bis fiinfmal
+weniger Fehler unterlaufen als bei her-
+kémmlichen GUIs mit technischer Ter-
+minologie. Dieselbe Studie untersuchte
+auch die Fehlerraten nach langerer Ge-
+wohnungsphase: Mit der Zeit glichen sie
+sich an. Das zeigt, dass User irgendwann
+jedes GUI erlernen. Sie haben aber kaum
+eine Chance, sobald das technisch for-
+mulierte Programm wieder einen neuen
+Dialog hervorbringt - was gerade in kri-
+tischen Situationen der Fall ist.
+
+Handbiicher
+
+Abnliches gilt fiir Hilfetexte und Hand-
+biicher. Auch hier kann es sich lohnen,
+die Texte nicht ausgerechnet von Sicher-
+heitsspezialisten verfassen zu lassen. Die
+Wortwahl und die Gedankengange sind
+fiir die Leser dann eher nachvollziehbar.
+Die Fachleute sollten erst am Schluss auf
+inhaltliche Korrektheit priifen.
+
+Zur richtigen Ansprache der Benutzer
+gehrt es auch, die Botschaft optimal zu
+vermitteln. Statt wild in den Fenstern he-
+rumzuklicken, sollen die User schlieg-
+lich die Textbotschaften lesen und ver-
+stehen. Anders als beim reinen Interface-
+Design hat das Vermitteln von Botschaf-
+ten eine lange wissenschaftliche Tradi-
+tion (siehe Kasten ,,Psychologie im Dia-
+fog“), von der Werbung und Politik seit
+langem profitieren.
+
+Keine Na-und-Fragen
+
+Ein einfacher Test gibt Aufschluss iiber
+die Qualitét einer Botschaft. Solange als
+Antwort ,, Warum?“ oder ,,Na und?“ még-
+lich sind, ist der Text faul. Ein Programm
+kénnte sagen: ,,Die Serveridentifikation
+hat sich seit der letzten Verbindung ge-
+dndert.“ Na und? ,,Das kénnte ein fal-
+scher Server sein, welcher sich fiir den
+richtigen ausgibt, oder der richtige wur-
+de neu installiert.“ Na und? ,,Wenn dies
+ein falscher Server ist, kénnten Krimi-
+nelle jede Information missbrauchen, die
+Sie eingeben. Sind Sie sicher, dass Sie
+fortfahren wollen?“ Damit wei der User
+
+endlich, warum ihn das Programm mit
+diesem Dialog stért. .
+
+Die ,,Warum“- und die ,,Na und“-Fragen
+passen zwar nicht immer (meist passt
+nur eine), aber wenn der Dialogentwurf
+einer dieser Priifungen nicht standhalt,
+ist fast immer ein Redesign fallig.
+
+Designbeispiel:
+Schliissel gedndert
+
+Als Designbeispiel fiir ,,Spreche die Spra-
+che der Anwender“ eignet sich ein Warn-
+dialog, der auf einen gednderten Server-
+Key verweist. Dieser Key ist in der Regel
+mit der Identitat des Servers verkniipft.
+Viele Anwendungen zeigen in dieser Si-
+tuation entweder zu wenige Informatio-
+nen (,,Der Schliissel hat sich gedndert.
+Fortfahren?“), zu viele (besonders X.509-
+Jargon, mit dem kein Normalanwender
+etwas anzufangen weif) oder gar die fal-
+schen Informationen (,,Der Himmel stiirzt
+ein, lauf weg“).
+
+Nicht nachahmen
+
+Ein denkbar schlechtes Vorbild liefert
+der Internet Explorer (Abbildung 8). Je-
+der Normalanwender versteht hier nur
+noch Bahnhof - obwohl diese Fassung
+schon besser ausfallt als dltere Versio-
+nen. Selbst ein vorsichtiger Zeitgenosse,
+der mit einem Klick auf »View Certifi-
+cate« nach den Hintergriinden fahndet,
+ist verloren. Er weif nicht, wonach er in
+der Menge an Infos Ausschau halten
+soll. Au&Serdem ist dieser Schritt reich-
+lich sinnlos: Kann die SSL-Implementie-
+tung das Zertifikat nicht verifizieren,
+dann gilt dessen Inhalt als nicht vertrau-
+enswiirdig. Jeder einzelne Ein-
+
+kannten CA stammen. Ohne die Hilfe
+durch den Dialog kennt kein Anwender
+diese Unterschiede.
+
+Der Dialog in Abbildung 8 erspart dem
+Entwickler Arbeit, weil er lediglich ein
+Fenster entwirft, das vermeintlich auf je-
+de Situation passt. Das fordert den User
+aber geradezu dazu auf, das Problem zu
+ignorieren und fortzufahren. Das einzige
+Gute an diesem Fenster ist »No« als De-
+fault-Aktion. Der Anwender muss im-
+merhin die Maus auf »Yes« bewegen, um
+das Fenster loszuwerden.
+
+Verstandlicher Wunsch
+
+Aus der Perspektive des Benutzers ist der
+Wunsch, das Fenster ohne Umschweife
+loszuwerden, nur verstandlich. Er verbin-
+det sich mit einem Server, den er bereits
+hdufig benutzt hat und den er braucht,
+um seinen Job zu erledigen. Seine natiir-
+liche Reaktion ist es, alles aus dem Weg
+zu rdumen, was ihn hierbei behindert.
+Fiir ihn reduziert sich dieser Zertifikats-
+dialog zu: ,,Wollen Sie, dass diese Mel-
+dung verschwindet?“
+
+Der Dialog miisste wenigstens, wie oben
+beschrieben, die Hintergriinde verdeut-
+lichen. ,,Die Server-Identifikation hat sich
+seit der letzten Verbindung gedndert. Es
+k6nnte ein falscher Server sein, der sich
+fiir den richtigen ausgibt, oder der rich-
+tige wurde neu installiert. Wenn es ein
+falscher Server ist, kénnten Kriminelle
+jede Information missbrauchen, die Sie
+eingeben. Sind Sie sicher, dass Sie fort-
+fahren wollen?“
+
+Je nach den méglichen Folgen eines fal-
+schen Servers sollte es die Anwendung
+erlauben, mit reduziertem Funktionsum-
+
+trag k6nnte gefalscht sein -
+und das so geschickt, dass er
+den User gezielt austrickst.
+
+Der Autor dieses Dialogs un-
+ternahm keinen Versuch, die
+Schwere des Fehlers zu beur-
+teilen. Ein Zertifikat ist einen
+Tag nach seinem Ablaufda-
+tum weniger kritisch als ei-
+nes, das seine Giiltigkeit be-
+reits vor einem Jahr verloren
+hat. Noch schlimmer sind Zer-
+
+Yes
+
+x
+Infoimation you exchange with this site cannot be viewed or
+
+changed by others. However, there is a problem with the site's
+security cettificate,
+
+The secutity cettificate was issued by a company you have
+nat chosen to trust. View the certificate to determine whether
+you want to trust the certifying authority,
+
+© The security certificate date is valid,
+
+The name on the security certificate is invalid or does not
+Taatch the name of the site
+
+Do you want to proceed?
+
+View Certificate:
+
+tifikate, die fiir eine andere
+Domane gelten, oder gar sol-
+
+che, welche von einer unbe- — Erklarung
+
+Abbildung 8: Die Zeritifikatswarnung des Internet Explorer ver-
+wirrt User. Sie packt zu viele Informationen mit unzureichenden
+
+en in ein Fenster.

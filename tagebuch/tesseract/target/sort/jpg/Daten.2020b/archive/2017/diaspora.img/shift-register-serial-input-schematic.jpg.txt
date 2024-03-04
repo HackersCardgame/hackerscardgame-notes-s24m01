@@ -1,0 +1,6 @@
+&-bit Shift Register
+Serial Input
+
+Q A 4 Parallel Output
+
+www. interfacebus.com

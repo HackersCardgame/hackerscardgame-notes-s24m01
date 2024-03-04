@@ -1,0 +1,21 @@
+Medical Imaging
+Public Software
+
+aius isa free software (GNU GPL 2) bul
+
+in collaboration with the community
+
+generates 3D medical imaging reconstruction
+
+based on a sequence of 20 DICOM files
+‘acquired with CT or MAl equipments, providing
+
+Curren version: 2.0.0 Beta S
+‘Aalble for GNU Linus MS Windows
+Note: MacOS x (only 32bRs
+
+First Steps
+
+Contribute!
+
+Cdebian-med

@@ -1,0 +1,14 @@
+Formule générale|Nom de la formule générale (nom de la fonction chimique)| Exemple
+MO Oxyde métallique Fe203
+xo Oxyde non-métallique Oz
+MOH Hydroxyde (base hydroxylée) Ca(OH)2
+HX ‘Acide binaire (hydracide) HCl
+HXO Acide ternaire (oxacide) H3P04
+WX Sel binaire (sel d'hydracide) KCI
+xO, Sel ternaire (sel d'oxacide) Ala(SO4)3.
+
+Oxydes: Se Acides: Sels:
+MO et XO HX et HXO MX et MXO
+
+‘MOH
+

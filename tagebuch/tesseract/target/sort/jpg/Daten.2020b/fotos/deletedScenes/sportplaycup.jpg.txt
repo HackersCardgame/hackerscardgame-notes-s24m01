@@ -1,0 +1,58 @@
+Ausgabe: 01.01-1
+
+fTurnier-Tag__[TumierLokal/ Ont Tel Nummer] Zet_| Jan_| Feb. | Mare
+7 [Montag Tell, Butzberg 07636428 26] 20.00 | 07 05. 0
+7, [Dienstag _ |Bahnhofli Pub, Boswil (0796794343 ] 20.00 | 02._| 06. | Xxx
+7 [Mittwoch —_|Rest. Staditurm (Gilard), Aarau (062-8226767| 2000 | 10._| 07, oF
+1. [Donnerstag [Musik Kneipe Onkel Sam, Oberentfelde | 062- 7233022 | 20.00 | 04. | 01. | XxX
+1 |Fretag | Storchenast, Schonenwerd (079-686 4351] 20.00 | 05. ©. 0
+7. [Freitag Lowen, Affoltern (034-435 1201 { 20.00 | 05. 0. O
+7. |Fretag _|Rest. Rustica, Oberkum (079-657 64 42] 20.00 | 05 0. o
+7 [Samstag__[Frohsinn, Teufenthal 062-7621 20 14.00 | 06 03. 03.
+7. [Samstag |Dartcenter, Melingen 056 -47066 40 20.00 | XxX | 03. 03.
+1 [Samstag [Billard-Center, Allschwil (061 -482.0634| 14.00 | 06 03. 03.
+7.|Sonntag _ [Flamingo Bar, Niederwil 056-621 6362 | 14.00 | 07 04. 04.
+2 [Montag [Bahnhof Pub, Boswil 079-679.4343] 2000 | 06 72 12
+2, |Dienstag _ |Storchenast, Schénenwerd 079-686 4351] 20.00 | 08. | 13] Xxx
+2, [uittwoch [Musik Kneipe Onkel Sam, Oberentfelden | 062-723 3022 | 20.00 | 03. 14 Ta.
+2, [Donnerstag [Tel Batzberg 076-304 2826 | 20.00 | 11 08. [XxX
+2 [Freitag [Rest Posth, Kappel 062-216 27 26 | 20.00 [0130.07.09 08.
+2. [Freitag |Rest. Lowen, Windisch 056-441 12.76 | 19.30 | 02 = | 09. 08.
+2 [Freitag _[Hallenminigolt, Alschwil/ Basel (061 - 481 08 00] 20.00 | 05. 09. 08.
+2 [Samstag [Rest Frohsinn, Magenwil (062-896 7808] 1400 | _XxX | 10. 70
+2 [Samstag _|Musik Kneipe Onkel Sam, Oberentfelden | 062-723 3022] 20.00 | — 06. 70. i}
+2 [Samstag [Double in Bar, Mnchenstein 061-411 22.98] 14.00 | 20. 70: 70
+2 [Sonntag Rest. Schoneck, Melingen 056-491 1050] 14.00] 14 i 7
+3 [Montag —_JAmeisi Bar, Birmard 056-225 7763] 1930 | Ts. 7 73
+3. [Montag | Storchenast, Schonenwerd 079 -6864351| 20.00 | 15. 79. 73
+3.[Dienstag _ [Bahnhofii Pub, Boswil 079-6794343] 2000 | 16. | 20. | XxX
+3. |Mittwoch [Shooter Saloon, Niedereflnsbach (062 -8443300] 1830 | 17 21 2
+3, |Mittwoch Tel, Batzberg 076-364 28.26 | 2000 | 17 a [2
+3. [Donnerstag [Musik Kneipe Onkel Sam, Oberentfelde | 062-723 30 23 | 20.00 | 18. 15. | xxx
+3.|Fretag _|Rest. Stadtturm (Billard), Aarau 062 -8226767 | 20.00 | 10 76. cy
+3 [Freitag [Bar Traube, Turgi 056-223 1003] 19.30 19. 16 76
+3, [Samstag |Frohsinn, Teufenthal (062-7621 20 14.00 | 20 7. 7
+3. [Samstag |Dartcenter, Melingen “[056-47066 40] 20.00 | 20. 7. 17.
+3 [Samstag |Flash, Neuenhof 078-677 3724 | 24.00 | 27. 1. 7
+3 [Sonntag |Rest. Kreuz, Obererinsbach (062-844 44 40] 14.00 | 21 76 78
+3 [Sonntag [Rest Rustica, Oberkulm 079-657 6442] 14.00 | 21 7% 18.
+% [Montag [Rest Frohsinn, Lupfig 056-451 276] 10.30 | 22. 2. 26.
+4, [Montag [Double In Bar, Manchenstemn 061-411 2298] 20.00 | 22. 26. 26.
+4. [Dienstag _ |Storchenast, Schénenwerd 079 -686.4351| 20.00 | 23. | 27. | xxx
+4, |Mittwoch —_|Rest. Frohsinn, Magenwil (062-896 1808] 20.00 | 24 2B. Ey
+4, [Donnerstag [Tel Batzberg (076-304 28 26 | 20.00 | 25. 22. | XxX
+4 |Fretag [Rest Pésti, Kappel (062-216 27 26| 20.00 | 26 23. 23.
+4 [Freitag _|Hallenminigolf, Alschwil/ Basel (061-481 0800 20.00 | 26 23. 23
+4 [Samstag [Musik Kneipe Onkel Sam, Oberentfelden | 062 - 728.30 22 | 20.00 | 27 24 24
+4, [Sonntag __|Bahnhofi Pub, Boswil 079-6794343| 1400 | 26. BB. 2.
+
+'$3] “37.03. 007 [Rest Frotisinn, Maganwil ~~ ~~] 062 785671808] 14.00 7 *** 44,00 Uhr
+
+[Musik Kneipe Onkel Sam, Oberentfekden | 0627233022 | 20.00 1
+
+Ligafinal 2/00
+Ligafinal 1/01
+
+Sportplay Cup |
+
+2000 / 2001

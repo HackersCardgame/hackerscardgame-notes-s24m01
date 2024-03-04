@@ -1,0 +1,32 @@
+narc@kalai:~/Downloads/jcryptools telnet 192.168.179.2
+Trying 192.168.179.2.
+
+Connected to 192.168.179.
+Escape character is ‘*]'.
+
+NBG-419liv2 login: admin
+assword:
+
+BusyBox v1.12. 6 CST) built-in shelL (ash)
+Enter ‘help’ for a list of built-in conmands.
+
+# busybox
+BusyBox v1.12.1 (2013-08-26 17: CST) multi-catt b:
+Copyright(C) 1998-2008 Erik Andersen, Rob Landley, Denys VLasenko
+and others. Licensed under GPLv2.
+
+See source distribution for full notice.
+
+Usage: busybox [function] [argunents]...
+‘or: function [argunents]...
+
+BusyBox is a milti-call binary that combines many conmon Unix
+utilities into a single executable. Most people will create a
+‘ink to busybox for each function they wish to use and BusyBox
+will act Like whatever it was invoked as!
+
+Currently defined functions:
+L_[L ash, basenane, bretl, cat, chmod, chpasswd, cp, crond, cut, date, echo, expr, fdisk, find, free, grep,
+halt, ‘head, hexcunp, ‘hostnane, ifconfig, init, init, insmod, kill, killalt, klogd, logger, ‘login, Logread,
+1s, Isnod, 'ndev, mkdir, mknod, mount, ping, ping’, poweroff, printf, ps, pwd, reboot, rm, ranod, route, sed,
+

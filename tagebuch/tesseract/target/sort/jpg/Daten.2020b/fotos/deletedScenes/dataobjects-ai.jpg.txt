@@ -1,0 +1,17 @@
+= Setimages
+
+EReceiverSettings E MetaSettings Elimage _
+i” 1 1+ | -receiversetings 1 | ~meteSetings
+EiReceiver
+=recelverList
+1
+1
+moma 1
+2 Settings = Fi
+| Autocamimages
+4.0 -timetist
+1 = serverSetings
+o) “timeSettings 4
+
+2 ServerSettings
+timetist 1.2 1 | STimesettings

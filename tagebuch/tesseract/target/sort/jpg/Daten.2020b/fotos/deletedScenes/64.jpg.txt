@@ -1,0 +1,109 @@
+Anwender
+
+64
+
+Attacken abwehren
+
+[@photocase,com
+
+Kaum ein Anwender verschltisselt seine E-Mail, Phishing funktioniert super, und HTTPS-Seiten mit falschen
+Zertifikaten schrecken keinen. Viele Entwickler sehen nur die Anwender in der Verantwortung, dabei fehit es
+an benutzbarer Software. Teil 1 der Usability-Serie untersucht die Hintergriinde fiir diese Situation. peter utmann
+
+Wer Software e kelt, muss von Be-
+ginn an deren Sicherheit einplanen. Si-
+cherheitsexperten beklagen gern und zu
+Recht, dass Programmierer jegliche Se-
+curity nachtrdglich in ihre Applikationen
+klopfen. Ironischerweise tappt die Sicher-
+heits-Community in eine dhnliche Falle:
+Statt die Benutzbarkeit von Anfang an
+zu beriicksichtigen, folgt Usability friihes-
+tens an zweiter Stelle hinter der techni-
+schen Sicherheit.
+
+Das traurige Ergebnis: In den 90er-Jahren
+entstanden Sicherheitsfunktionen, welche
+niemand benétigte. Bei den heute gras-
+sierenden Viren, Wiirmern und Phishern
+ware diese Sicherheit notwendig, dum-
+merweise kann sie niemand benutzen.
+Um das zu andern, miissen die Entwick-
+ler Usability-Prinzipien von den ersten
+Design-Uberlegungen bis in die Beta-Pha-
+se hinein standig berticksichtigen.
+Sicherheits-Usability unterscheidet sich
+von den gew6dhnlichen Anforderungen
+an die Benutzbarkeit einer Software. Eine
+
+Software funktioniert korrekt, wenn alle
+Dinge, die geschehen sollen, tatsachlich
+geschehen. Sicher ist ein Programm erst
+dann, wenn alles, was nicht passieren
+soll, wirklich nicht passiert. Sicherheits-
+entwickler interessieren sich fiir die zwei-
+te, die Marketingabteilung eher fiir die
+erste Anforderung.
+
+Ein sicheres Gefiihl
+
+Wahrend sich der Anwender sicher fiih-
+len will und vom Programm nur erwar-
+tet, dass es seinen Vorstellungen von ei-
+nem sicheren Ablauf entspricht, muss
+sich die Applikation in jeder Situation si-
+cher verhalten und per Default Schaden
+vom Benutzer abwenden. Wie die pas-
+senden Sicherheitsfunktionen aussehen
+miissen, hangt zundchst von der Umge-
+bung ab, in der sie arbeiten.
+
+Die vergangenen zehn oder 15 Jahren
+haben viele Versuche mit Internetsicher-
+heit gesehen, in jiingerer Zeit kamen so-
+
+gar Usability-Tests dazu. Dabei hat sich
+herausgestellt, dass etliche gut gemeinte
+Mechanismen in der Praxis versagen.
+
+Schlechte Erziehung
+
+Eine ambitionierte, allerdings praktisch
+unwirksame Mafnahme ist das Schulen
+der Benutzer. Die User haben inzwischen
+recht viel tiber Sicherheit gelernt, leider
+das Falsche. Konditionierung ware der
+treffendere Begriff: Wann immer jemand
+online geht, dann bombardiert ihn sein
+Rechner mit Fehlermeldungen, Warnun-
+gen und Popup-Fenstern, DNS-Fehlern, vo-
+riibergehenden Netzwerkausfallen, ASP-
+Warnungen eines Webservers, Javascript-
+Problemen, fehlenden Plugins, unerreich-
+baren Servern, falschen oder abgelaufe-
+nen Zertifikaten, PHP-Fehlermeldungen
+bei dem Versuch, auf ein MySQL-Back-
+end zuzugreifen, und vielem mehr.
+
+Viele Meldungen warnen nicht einmal
+vor echten Fehlern, sondern scheinen
+absichtlich den Benutzer zu argern. Un-
+klar ist zum Beispiel, wovor Abbildung
+ic warnen will: Der Anwender nutzt sei-
+nen Webbrowser, also ist es offensicht-
+lich, dass er Daten iiber das Internet sen-
+det. Keine Textverarbeitung wiirde auf
+die Idee kommen, die Rechtschreibprii-
+fung mit einer Warnmeldung einzulei-
+ten. Konqueror und Firefox (Abbildung
+ja und 1b) sind immerhin etwas deutli-
+cher in der Problembeschreibung.
+
+Alle drei Warnungen enthalten aber kei-
+nen Hinweis darauf, welche Daten der
+Browser sendet. Sie erscheinen, egal, ob
+der Benutzer sein Onlinebanking-Pass-
+wort mitteilt oder auf Ebay nach billigem
+Fischfutter angelt. Diese und viele ahn-
+lich sinnlose Popup-Warnungen konditi-
+onieren den Benutzer geradezu, Warn-

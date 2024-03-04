@@ -1,0 +1,195 @@
+j Warnung: Ihre Daten werden unverschliisselt iiber das Netz ubertragen.
+
+Méchten Sie den Vorgang wirklich fortsetzen?
+(C) Diese Nachfrage nicht mehr anzeigen
+
+|_Unverschlisselt senden
+
+8 Abbrechen j
+
+) Die von Ihnen eingegebenen Informationen werden uber eine unverschlusselte
+Verbindung gesendet und kénnen leicht von Dritten gelesen werden.
+
+Sind Sie sicher, dass Sie diese Informationen senden wollen?
+
+© Warnen, wenn Informationen unverschlusselt abgesendet werden.
+
+el
+
+x
+
+Abbildung 1a: Konqueror sagt immerhin deutlich, wo aus seiner Sicht das Problem
+liegt: Der Benutzer ist dabei, Daten unverschliisselt zu versenden.
+
+| 3) When you send information to the Internet. it might be
+i| possible for others to see that information. Do you want
+to continue?
+
+¥ Inthe future, do not show this message.
+
+Abbildung ic: Ein Beispiel fiir hoffnungslos iiber-
+triebene Warnmeldungen. Der Anwender hat einen
+Knopf gedriickt, schon belastigt ihn sein Browser
+mit einem Hinweis, dass er genau dies getan hat.
+
+meldungen zu ignorieren. Praktischer-
+weise hat der Internet Explorer per De-
+fault sogar die Option »Diese Meldung
+nicht mehr zeigen« ausgewahlt. Offen-
+bar war den Entwicklern sehr wohl be-
+wusst, dass die Anwender solche War-
+nungen nicht haben wollen. Die User
+lernen aus den haufigen Meldungen nur
+Folgendes: Jedes Problem verschwindet,
+wenn sie »OK« oder »Cancel« klicken
+oder es spdter erneut versuchen.
+
+Wichtige Warnungen
+
+Jeder Browser bemerkt typische Angriffe
+auf SSL-geschiitzte Verbindungen, wenn
+sich der Webserver nicht korrekt mit ei-
+nem vertrauenswiirdigen Zertifikat aus-
+weist. Also warnt er den Benutzer. Diese
+Warnung unterscheidet sich jedoch aus
+Sicht des Users nicht von der Flut nutz-
+loser Hinweise, die er in der Vergangen-
+heit so erfolgreich ignoriert hat. Zu allem
+
+[Security
+
+our rates reconciliation system.
+| and transmit the form over the internet to
+
+complete, these details are transferred to an offline databas
+mnechenisin, and deleted from the site. &t na stage are your ©
+
+Abbildung 2: Diese Zertifikatswarnung hielt Benutzer nicht davon ab, tausende
+Dollar an Steuerschulden mit ihrer Kredikartennummer zu begleichen.
+
+Our site is hosted on a secure server where software encrypts the credit card number into
+‘ou can enter your credit card number ona secure form
+ure server without risk of an intermediary
+obtaining your credit card information. ‘Your credit card details are temporarily stored on the
+secure server until your payment is completed and confirmed. After your payment is
+
+complete form at the affine site, bud rather held in @ truncated form for reconciliation
+purposes only
+
+card details held ina
+
+Uberfluss sind die meisten Zertifikats-
+warnungen noch False Positives - sie rea-
+gieren auf keinen Angriff, sondern sind
+auf Fehler des Servers zuriickzuftihren.
+Kein Wunder, dass die Benutzer SSL-War-
+nungen ignorieren.
+
+Wie weit diese unheilvolle Konditionie-
+rung geht, bewies kiirzlich eine Bank,
+die versehentlich ein falsches Zertifikat
+auf ihrem Onlinebanking-Server instal-
+lierte. Von 300 Usern, die in der Zeit den
+Dienst aufriefen, brach nur ein einziger
+die Verbindung ab. Datenschutzbeden-
+ken verhinderten leider, die Reaktionen
+der anderen User genauer zu untersu-
+chen. Eine informelle Befragung deutete
+aber darauf hin, dass die Benutzer die
+Zertifikatswarnung fiir eines der iiblichen
+vortibergehenden Probleme hielten, dem
+sie wie gewohnt auswichen.
+Psychologen bezeichnen diese Herange-
+hensweise als Urteilsheuristik: eine Faust-
+regel, die auch unter gro&er Unsicherheit
+schnelle und 6konomische Urteile er-
+méglicht. Sprich: Statt neu iiber ein Pro-
+blem nachzudenken, bleibt der Anwen-
+der bei einer Entscheidung, welche in
+der Vergangenheit ausreichend erfolg-
+reich war, selbst wenn er damit gelegent-
+lich falsch liegt. Einer der Bankkunden
+beschrieb es ziemlich treffend: ,,Hotmail
+macht das auch haufig, ich warte dann
+kurz, und es funktioniert wieder.“
+
+Ein dhnlicher Fall
+betraf eine staatli-
+che Webseite in
+Neuseeland, iiber
+die Biirger viele
+tausend Dollar Ver-
+mégenssteuer ab-
+fiihren. Die Benut-
+
+9 a Seoure transter
+
+zer ignorierten das
+gro&e rote Kreuz
+liber der Grafik
+| des Thawte-Zerti-
+fikats (Abbildung
+2) sowie den Hin-
+
+Abbildung 1b: Bei Mozilla Firefox arbeitet die Checkbox anders als bei IE und Kon-
+queror: Der User muss explizit anwahlen, dass er solche Warnungen haben will.
+
+weis, dass das Zertifikat ungiiltig ist. Es
+dauerte zwei Monate, bis ein Sicherheits-
+experte auf die Seite stief&§ und die Ad-
+mins auf ihren Fehler hinwies (das Zerti-
+fikat war abgelaufen). In einem weiteren
+Fall verwendete eine gréfere US-Genos-
+senschaftsbank ein ungiiltiges Zertifikat.
+Hier dauerte es iiber ein Jahr, bis jemand
+davon Notiz nahm.
+
+Es geniigte einer weiteren US-Bank so-
+gar, ganz auf Zertifikate zu verzichten
+und stattdessen einfach auf die Webseite
+zu schreiben, dass alles in Ordnung sei -
+die Kunden hat selbst das nicht gestort.
+Mediziner kennen das als Placebo-Ef-
+fekt. Diese Beispiele weisen deutlich da-
+rauf hin: Zertifikate verlieren im Umfeld
+zahlreicher False-Positive-Warnungen ih-
+re Schutzfunktion gegentiber Man-in-the-
+Middle-Angriffen. Sie sind in der Praxis
+daher fast unwirksam.
+
+Eine unerwiinschte Benutzer-Konditionie-
+rung ist nachtraglich kaum noch zu kor-
+rigieren. Psychologen haben in etlichen
+Studien bestatigt, dass Menschen ein ein-
+mal angenommenes falsches Verhaltens-
+muster sogar dann beibehalten, wenn die-
+sem eindeutige und tiberwdltigende Be-
+weise widersprechen [1].
+
+Es kommt noch schlimmer
+
+Es hat ganze zehn Jahre nach der Einfiih-
+rung von SSL gedauert, bis Mitte 2005
+endlich eine ernst zu nehmende Studie
+die Wirksamkeit von Zertifikaten unter-
+suchte [2]. Die Zielgruppe waren Infor-
+matikstudenten im Hauptstudium. Selbst
+diese weit tiberdurchschnittlich compu-
+ter-erfahrenen Anwender liefen sich von
+ungiiltigen Zertifikaten keineswegs aus
+der Ruhe bringen.
+
+Zusatzlich zeigt sich ein tiberraschender
+Effekt: Dieselben User, die jedes ungiil-
+tige Zertifikat frohlich akzeptierten, wei-
+gerten sich, ihre Daten an eine Seite zu
+iibermitteln, die ganz ohne SSL arbeitet.
+
+{_ Sec-Usability
+
+Attacken abwehren
+
+Anwender
+
+65
+

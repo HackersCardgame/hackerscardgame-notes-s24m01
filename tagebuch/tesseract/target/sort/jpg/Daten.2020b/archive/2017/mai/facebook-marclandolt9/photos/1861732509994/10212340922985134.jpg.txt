@@ -1,0 +1,16 @@
+Inventor: Niklas Luhmann Year: ~1914
+Ein System kann aus mehrerern Elementen oder mehreren
+Teil-Systemen bestehen. Die Elemente eines Systems
+haben untereinander Verbindungen (Relationen [R]) und
+die Konditionierende [K] auf eine Relation sagt wie
+diese Verbindungen sein dirfen. Z.B. Gesetzestexte,
+Die Bibel, die Tora, der Koran, das Kapital von Karl
+Marx. Niklas Luhmann galt als fihrend, diese Grafik
+ist aus seinem Buch Soziale Systene.
+
+Use Cases
+
+Un 2u verstehen wie Beziehungsnetzwerke, Soziale-,
+Mechanische-, Biologische-, Informatik-Systeme oder
+Programme / Software funktionieren
+

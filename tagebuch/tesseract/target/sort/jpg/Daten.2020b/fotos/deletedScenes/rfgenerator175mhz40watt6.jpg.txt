@@ -1,0 +1,14 @@
+100,1/2T 100,2T,3P Zour
+oR.
+10 300F
+|
+To ¢5pF To A8pF to sopF |
+|
+cy. O0suF
+Gi: TBOpF, AO3uF, 0.08uF, 33uF in parte +V¥ee
+
+Notes All coils are made from 1 Smig iver plated cooper wire
+Coil dimensions in eillimeter
+D> Inner diameter of coil
+T. Turn numberof coil
+Pitch of eo

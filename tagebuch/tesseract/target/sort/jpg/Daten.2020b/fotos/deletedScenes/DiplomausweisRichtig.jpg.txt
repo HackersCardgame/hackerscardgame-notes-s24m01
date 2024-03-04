@@ -1,0 +1,50 @@
+ABB Technikerschule, Baden
+Hohere Fachschule HF
+
+* fur eidg. anerkannte Bildungsgange
+
+me
+ve
+
+Diplomprifungsausweis
+
+Name : Landolt Vorname : Marc
+Geb.-Datum : 17.06.1978 Burgerort : Aarau
+hat den dreijahrigen berufsbegleitenden, eidgenéssisch anerkannten Bildungsgang an
+
+der ABB Technikerschule absolviert und nach erfolgreichem Bestehen der Prifungen
+das Diplom erhalten als
+
+Dipl. Informatiker HF
+
+Semesterarbeit (Projektstudium)
+Thema : Entwickeln eines Dokumenten-Managementsystems 56
+
+Note
+
+Diplomarbeit (Durchschnittsnote der schriftlichen und mindlichen Diplompriifung)
+Thema : Implementieren funktionaler Erweiterungen im 5.6
+GUTOR Document Register
+
+Unterrichtsfacher
+
+Betriebssystem MS Windows 5-5
+Digitaltechnik no
+Projektmanagement 5.6
+Scripting
+Softwareengineering 5.2
+Betriebssysteme Unix/Linux 59
+Betriebswirtschaftslehre 5.4
+Ubertragungstechnologie 5,1
+Webengineering 5.1
+Datenbanken 4.8
+IT Security 5.5
+Monitoring von IT-Infrastrukturen 6.9:
+Netzwerktechnologien 5.4
+Notenskala : 6 sehr gut, 5 gut, 4 geni 3 iigend, 2 schwach, 1
+Fir die ABB Technikerschule Der Prasident Der Rektor
+Baden, 13.11.2009 des Schulrates
+
+ee 2
+
+Renato Merz Urs Keller

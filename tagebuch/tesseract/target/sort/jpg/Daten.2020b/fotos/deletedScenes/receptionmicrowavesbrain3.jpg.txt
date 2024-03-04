@@ -1,0 +1,12 @@
+>
+
+rot
+° 04 0.8 12
+
+INHOMOGENEOUS
+
+HOMOGENEOUS
+
+a a
+16 20 24 28
+FREQUENCY (GHz)

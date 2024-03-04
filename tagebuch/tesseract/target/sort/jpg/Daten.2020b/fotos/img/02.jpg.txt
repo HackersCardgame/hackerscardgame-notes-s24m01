@@ -1,0 +1,170 @@
+Rechnernetze
+Etwa ein Dutzend Techniker kiimmern
+
+- sich um das Systemmanagement und
+
+Gi-ARBCT lassen defekte Rechner oder Platten
+
+© 2007 soll am CERN der neve Tei-
+chenbeschleuniger Large Hadron
+Collider in Betrieb gehen, der
+Unmengen an Daten fir weltweite
+Analysen und Simulationen produ-
+ziert,
+
+@ Eigens dofir hat das CERN mit
+Partnerorganisationen ein Grid ins
+Leben gerufen, das die Datenmen-
+gen und Rechenanforderungen
+bewaltigen kann,
+
+@ Dazu sind in 5 Ebenen uber 1000
+
+Institute Uber eigens dafir entwi-
+ckelte Netze zusammengeschaltet.
+
+und unwichtige Daten aus dem Strom
+filtern. Die von den Rechnern fiir rele-
+vant erachteten Daten von 100 Ereig-
+nissen pro Sekunde gehen mit
+2. GByte/s vom Ring in das ein paar
+Kilometer entfernte. CERN
+
+von den Lieferanten austauschen.
+
+Zur Zeit sind die Rechner mit je-
+weils zwei Single-Core-Prozessoren
+ausgestattet, verfiigen iiber jeweils
+2 GByte Hauptspeicher. Der niichste
+Schwung Server wird mit jeweils zwei
+Dualcore-Prozessoren ausgeriistet sein,
+der darauffolgende mit zwei Prozesso-
+ren mit je vier Kernen. Das macht
+dann acht nutzbare CPUs pro Rechner.
+Bis 2008 soll der Cluster iiber 40 000
+CPUs verfiigen.
+
+Um die Rechenleistung der Cluster-
+Knoten voll ausschépfen zu kénnen,
+wird die Anbindung der Rechner an das
+Institutsnetz auf ein Gigabit steigen und
+der Backbone des Netzes mit vielfachen
+10-GBit-Leitungen ausgestattet. ,,Infini-
+band haben wir auch, allerdings nur in
+einem kleinen Cluster, der Berechnun-
+
+Abbildung ergibt.“ Bei den Messdaten
+der CERN-Experimente sind es vor
+allem Grtlich und zeitlich variierende
+Kalibrierungen der Sensoren, die in die
+Rohdaten eingearbeitet werden miis-
+sen, sowie die Umwandlung einzelner
+Messpunkte in Teilchenspuren (Re-
+kontruktion).
+
+Stufe 1 -
+Zur Auswertung verteilt
+
+Die Bilder der Ereignisse wandern,
+nach Themen klassifiziert, zur Analyse
+in die nachste Stufe des Grid, das so
+genannte Tierl. Denn fiir die Auswer-
+tung der Daten ist das Genfer Rechen-
+zentrum trotz seiner exorbitanten Di-
+mensionen zwei Nummern zu klein.
+Wenn alle vier Experimente laufen, ist
+der Datendurchsatz derart hoch, dass
+es nur mit Miihe gelingt, sie tiberhaupt
+
+gen zur Qi der
+Theorie der starken Kernkriifte zwi-
+
+Eine Analyse
+vor Ort wiirde
+
+ae ee anstellt*, so von Riiden.
+des Rech-
+
+zentrum.
+
+Stufe 0 - Der Genfer
+Linux-Cluster
+
+Dort werden sie weiteren Filter-,
+Konvertierungs- und Nachbearbei-
+tungsprozeduren unterzogen. Dazu
+setzt die IT-Abteilung auf Standard-
+PCs mit Intels Xeon-Prozessoren, ver-
+netzt zu einem Linux-Cluster. Noch
+stehen erst 3000 PCs in den Regalen,
+aber dabei bleibt es nicht. ,,Wir sto-
+cken auf 5000 Geriite auf, erléutert
+von Riiden.
+
+In regelmaBigen Abstiinden versu-
+chen die Vertreter von IBM, HP und
+anderen Computerherstellern, die Lei-
+tung des Rechenzentrums von den
+Vorteilen smarter Blade-Rechner zu
+iiberzeugen. Die ntihmen zwar weniger
+Platz ein und wiiren dank zentraler Ad-
+ministration auch leichter zu warten,
+doch unterm Strich zihlen fiir das
+CERN vor allem die Kosten und die in
+SPECint2000 (SI2k) gemessene Inte-
+ger-Rechenleistung. Die Experimente
+sind schlieBlich schon teuer genug.
+»Wir sind Physiker“, erliutert Wolf-
+gang von Riiden, ,,Vorteile miissen
+sich rechnen und Blades rechnen sich
+noch nicht, zumindest nicht fiir das
+CERN.“ AuBerdem herrscht kein
+Raummangel im CERN-Rechenzen-
+trum, dagegen limitiert die Kiihlanlage
+die erreichbare Dichte der Maschinen.
+
+100
+
+seeiacs gehirt es, dass jeweils
+eine CPU einen Job, also die Berech-
+nung einer Teilchenkollision (eines Er-
+cignisses) tibernimmt. ,,Diese Berech-
+nungen kann man sich vorstellen wie
+die Nachbearbeitung der Urlaubsbilder
+im RAW-Format auf dem
+
+100 000 Computer erfordern — ange-
+sichts des verfiigbaren Budgets ein il-
+lusorischer Gedanke. So, wie die De-
+tektoren in internationaler Zusammen-
+arbeit entstanden sind, lassen sich auch
+die Rechenaufgaben nur gemeinsam
+bewerkstellligen — mit dem Large Ha-
+dron Collider Computing Grid (LCG).
+Um die D:
+
+PC“, erliutert Wolfgang von Riiden,
+walle Bilder sind unabhiingig voneinan-
+der. Es kommt darauf an, durch den
+Rechner Kontrast und Helligkeit zu
+optimieren, damit sich eine brillante
+
+im Griff zu behalten, sehen die Kon-
+strukteure fiinf Stufen oder Tiers vor:
+Das CERN-Rechenzentrum (Tier0) ko-
+piert die Daten so schnell wie méglich
+ins Tierl, ein Netz aus momentan 12
+
+‘Genel Purpose IP Research
+Nevwots:
+
+[NRENs, GEANT2, LCN, Esnet
+Abilene, Dedicoed Links et.
+
+U
+
+Das Cern ist iber mehrfache 10-GBit-Leitungen mit den Tier1-Knoten verbunden,
+diese verteilen die Daten an die Tier2-Zentren (Abb. 1).
+\
+
+ix 5/2006

@@ -1,0 +1,177 @@
+Erste Zeichen des
+Autorisierungscode
+
+Zertifikat
+
+ee
+
+Autorisierungscode
+
+HMAC
+
+Base 64 A
+
+Abbildung 9: Mit diesem einfachen Schema berechnet die Serversoftware einen Autorisierungscode fiir
+ein Zertifikat. Nur wenn der Anwender ein bis dato unbekanntes Zertifikat mit diesem Code autorisiert,
+
+akzeptiert es sein Clientprogramm.
+
+fang (sicherer Modus) fortzufahren, der
+etwa Uploads verbietet und Daten vom
+Server misstrauisch behandelt. Die Ap-
+plikation kénnte auch verlangen, dass
+der Anwender mit dem Admin des Ser-
+vers kommuniziert, um die Authentizitat
+zu priifen. Wer will, fiigt zudem einen
+Button »Technische Details« ein, der das
+X.509-Geplapper wiedergibt.
+
+Gewollter Fehler
+
+Drastischer, aber weit effektiver ist es,
+Fehler in Schliisseln und Zertifikaten wie
+einen normalen Serverfehler zu behan-
+deln. Wenn der User erwartet, mit ei-
+nem Bankserver sicher zu kommunizie-
+ren, dann bedeutet mangelnde Sicherheit
+einen ganz und gar fatalen Fehler und
+keine simple Hiirde, die ein Klick beseiti-
+gen darf. Einige Clients handeln bereits
+entsprechend, zum Beispiel der »xsup-
+plicant« von Linux oder der PEAP-Client
+in Windows XP.
+
+Serverfehler verstehen die User instink-
+tiv - das erhoht den Druck fiir der Ser-
+veradmin. Nicht mehr der Anwender ist
+verpflichtet, die Situation korrekt einzu-
+schatzen, sondern der Admin. Der hat
+fiir korrekte Zertifikate zu sorgen und
+seinen Server sauber zu halten. Vermut-
+lich ist das der einzige Weg, X.509 halb-
+wegs sicher einzusetzen, statt auf die Si-
+cherheit eines Placebos zurtickzufallen.
+Eine dritte Alternative erlaubt es dem
+User, neue Zertifikate oder gednderte
+
+Amazon.com = Your Account - Mozilla Firefox.
+
+Schliissel auf sichere Weise zu akzeptie-
+ren. Statt blind auf »OK« zu klicken, for-
+deri das Programm einen Autorisierungs-
+code. Diesen Code erhalten die Anwen-
+der nur vom Serveradmin oder vom Be-
+sitzer des Zertifikats. Die Software ver-
+langt dafiir einen eigenen Kommunikati-
+onskanal, zum Beispiel das Telefon. Das
+zwingt die Anwender, den Key zu verifi-
+zieren, bevor sie ihn einsetzen.
+
+Als Autorisierungscode eignet sich eine
+kurze Zeichenkette von sechs bis acht
+Stellen, mit denen die Software einen
+HMAC erzeugt (Hashed Message Au-
+thentication Code). Die ersten beiden
+Stellen dienen als HMAC-Schiiissel, der
+Rest ist das (verkiirzte) Resultat. Wenn
+»ab« die beiden ersten Zeichen sind,
+dann erfolgt die Berechnung mit » HMAC
+("ab", Schliissel oder Zertifikat)«. Lautet
+die Base-64-Kodierung der letzten Bytes
+»defg«, dann ist »abcdefg« der Autorisie-
+rungscode (Abbildung 9). Tippt der User
+diesen Wert ein, fiihrt sein Programm die
+gleiche Berechnung durch und erkennt
+das Zertifikat oder den Schliissel nur an,
+wenn die Werte tibereinstimmen.
+
+Zwangshandlung
+
+Der Einsatz dieses HMAC als Salted Hash
+ist zwar nicht allzu sicher, das braucht
+er aber auch nicht zu sein. Er hat nur die
+Hiirde fiir einen Angreifer zu erhdhen.
+Anstatt einfach eine phantasievolle Phi-
+shing- oder Spam-Mail mit der Adresse
+eines gefdlschten Servers in
+die Welt zu schicken, muss er
+sich nun zusatzlich als legiti-
+
+Abbildung 10: Neuere Firefox-Versionen zeigen direkt im URL-Feld,
+dass die Seite SSL-gesichert und das Zertifikat verifiziert ist. Zu-
+satzlich zum Schloss-Symbol farbt sich der Hintergrund gelb.
+
+mer Eigentiimer des Zertifi-
+kats ausgeben und den User
+dazu bringen, den Autorisie-
+rungscode einzutippen. Ein
+
+hartnackiger Angreifer wird zwar eben-
+falls diese Hiirde nehmen, allerdings ge-
+staltet sich sein tibler Job nun doch deut-
+lich schwerer.
+
+Die Wahl eines HMAC statt eines einfa-
+chen Hash ist kein Zufall. Viele Program-
+me zeigen bereits einen Hash an, meist
+als Fingerprint oder Daumenabdruck be-
+zeichnet. Wer diesen Code abtippt, der
+wiirde die zusdtzliche Priifung umgehen,
+die ihm der HMAC abverlangt.
+
+Farben spielen eine wichtige Rolle beim
+Erkennen von Gefahrensituationen. Mo-
+zilla-basierte Browser haben daraus ge-
+lernt. Frither versteckten sie ein Vorhan-
+geschloss in der Statuszeile des Fensters.
+Heute befindet sich dieses Symbol im
+URL-Eingabefeld. Dieses Feld andert die
+Hintergrundfarbe auf Gelb, wenn das Zer-
+tifikat verifiziert ist (Abbildung 10).
+
+Optische Hilfen
+
+Die Hintergrundfarbe oder den Rahmen
+eines Objekts zu andern, welches der
+User gerade betrachtet, bewdhrt sich als
+ein tiberraschend effektives Kommunika-
+tionsmittel. Niemand muss sich merken,
+wo genau er hingucken muss, um die Si-
+cherheitsinformation zu finden - sie ist
+uniibersehbar. Der Farbwechsel verdeut-
+licht auch, dass etwas Ungewoéhnliches
+vorgeht. In einer Usability-Studie verdop-
+pelte sich die Zahl der User, die ein Si-
+cherheitsproblem vermieden, durch den
+gezielten Einsatz von Farbe.
+
+Farbe allein geniigt allerdings nicht. Al-
+le User miissten sich die Bedeutung der
+Farbcodes merken, Menschen mit einer
+Farbsehschwdche kénnen manche Far-
+ben nicht unterscheiden, und die Bedeu-
+tung von Farben wechselt je nach Kul-
+turkreis. Rot heift nicht in jedem Erdteil
+automatisch Gefahr.
+
+Selbst wenn Rot fiir Gefahr steht, lasst
+das einen Interpretationsspielraum. In
+England startet ein griiner Knopf schwere
+Maschinen und ein roter stoppt sie. Die
+Franzosen halten es genau umgekehrt:
+Hier leitet ein roter Knopf die gefahrliche
+Handlung ein - er startet die Maschine —
+und der griine schaltet sie ab.
+
+Ungefahr acht Prozent der Bevélkerung
+leiden unter Farbblindheit oder Farb-
+schwache. Am haufigsten ist dabei eine
+Rot-Griin-Schwache. Das Interface muss
+demzufolge auch ohne Farbe funktionie-
+
+Attacken abwehren
+
+Sec-Usability
+
+Anwender
+

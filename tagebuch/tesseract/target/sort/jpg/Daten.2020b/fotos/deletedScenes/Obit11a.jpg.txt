@@ -1,0 +1,10 @@
+Trafo-Union 1H
+
+Typ:_2M20/10__ ENR 4042758 EKC
+PRI 230V 30Hz 11A  (60Hz 0,8A)
+SEC: 2x5 kV 20mA___(60Hz 15 mA)
+735/B AB33%EDin3 min Schaltung:M L
+
+Vorsicht Hochspannung
+Haute tension — Danger
+

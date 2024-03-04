@@ -1,0 +1,70 @@
+SUBS
+
+BS e-banking
+
+Letzte Bewegungen
+Kortoauszug
+Saldotlnerblick
+Fondskarto
+Uberbiick Zetgelder
+Valutereine
+
+Zahlungen
+
+Daueraurtrage
+
+payNet
+
+Kreditkarten
+
+parse
+
+Devisen
+
+Kurse
+
+Depot
+
+Fetranster
+
+Administration
+
+02.10.2008 22:51:16 ME
+
+» Mailbox » Sprache > Hilfe Logout
+
+Letzte Bewegunger
+Kundendaten
+
+juchungsdletai
+
+Kontoinhaber: MARC LANDOLT JUN.
+Konto: 231 667.924.40F CHF UBS PRIVATKONTO
+IBAN, (CH73.0023 1231 6679 2440 F
+
+BIC. UBSWCHZH80A
+
+Buchungsdatum 14.09.2006
+
+Valutadatur 14.09.2006
+
+Betray: CHF 32.15-
+
+Buchungstext BIBIT INTERNET P.
+
+Transaktions-Nr. 2D812571L7314959
+
+Buchungsinformationen ‘Wahrung Betrag
+BIBIT INTERNET PAYMENT
+
+N2120208,
+
+OUT: 1189588133,
+
+IN: 1189586484
+
+Wechselkurs EURICHF 1.606400 EUR 20.00 -
+E-BANKING EUR INLAND.
+
+D zuruck J Wechvorscnuna
+

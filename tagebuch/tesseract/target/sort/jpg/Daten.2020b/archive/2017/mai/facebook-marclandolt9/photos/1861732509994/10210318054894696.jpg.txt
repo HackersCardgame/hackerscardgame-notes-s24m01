@@ -1,0 +1,35 @@
+duesg
+
+Landev-Human64 (faildev-kernel@lists.faildef.org) (gcc 20160409 (faildef 5.3.1-14) ) #1 SMP Schizo 4,5.1-1 (2016-04-14)
+Connand Line: BOOT_INAGE=/boot/Z2zzz root=WID=a0ec9a%d-33fc-4759-al9a-4d26b07C53e4 ro initrd=/install/initrd.gz quiet
+Cynicism Nodule: initiating.
+
+Cynicism Hodule: initiated
+
+C
+t
+
+t
+
+t
+
+t Reverse psychology Nodule: initiating...
+t Reverse psychology Module: initiated
+
+t Cofe Module: initiating. .
+
+{ Cofe initiating...
+
+t Cofe initiating...
+
+[ 200.000342] Cofe initiating...
+
+{ 302.23342x] Cofe : initiating...
+
+[ 432.3s00e2] Cofe initiating...
+
+{ 600.323533] NeuroEndocrine System: initiated
+
+[
+
+601. 340230] motd: Good Moring, Cyber-Vietnam

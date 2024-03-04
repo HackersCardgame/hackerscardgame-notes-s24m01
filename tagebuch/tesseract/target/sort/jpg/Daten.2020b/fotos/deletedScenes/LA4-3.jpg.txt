@@ -1,0 +1,69 @@
+on ABB Technikerschule, Baden
+———} baad Eidg. anerkannte héhere Fachschule fiir Technik
+
+LA (Leitende Aufgabe) Software Engineering Seite 3 von 5
+
+Da wir uns auf der Erdkugel bewegen fliegen wir effektiv einen Bogen. Mit der
+spharischen Geometrie lasst sich der Flugweg exakt bestimmen:
+
+MS
+
+iN Qg
+
+57 Pyrens
+
+Breitengrad
+
+were. bene ts Purch —
+mn OSdar , yertau it
+
+1
+'
+1
+'
+1 ¢
+1 é
+'
+'
+Soe
+Erdmitte
+
+Langengrad
+
+. S “Ao Spharische Geometric
+Winks eb = 90° - LSZH LAT -
+(Bogen) “nq = 90° - VEBIT_LAT Math. * = rack
+
+‘= LSZH_LONG - VEBIT_LONG
+
+¢ = acos( cos a* cos b + sin a* sin b * cos y )
+
+Distanz = 60 *c
+
+cos a—cosb*cosc
+
+Steuerkurs = 360° - acos( )
+sinb* sinc oo
+Rach tung bertcksuthgn ~ Jo <acos< Gé
+Distanz
+Flugzeit =
+Geschwindigkeit
+— tnetn = NIE
+Hinweise A° =GONM h
+
+A‘ < ANM
+
+LSZH_LAT muss zuerst von Grad/Minuten in Grad/Dezimalstellen umgewandelt
+werden. (Dies gilt auch fiir LSZH_LONG).
+
+Die Seite c ist eigentlich ein Winkel. Um die Distanz zu berechnen wird er mit 60 NM
+multipliziert. Denn ein Grad entspricht 60 NM.
+
+Die von Java gelieferten trigonometrischen Methoden arbeiten mit Radianten (2 Pi =
+360 Grad). Es gibt allerdings passende Umwandlungs-Methoden. (Siehe Math Klasse).
+
+Die obigen Formeln beziehen sich auf einen Flug von Ost nach West. Fir den Ruckflug
+missten die Formein entsprechend umgestellt werden. Dies ist jedoch nicht Bestandteil
+der LA und kann ausser Acht gelassen werden.
+
+M. Bontognali

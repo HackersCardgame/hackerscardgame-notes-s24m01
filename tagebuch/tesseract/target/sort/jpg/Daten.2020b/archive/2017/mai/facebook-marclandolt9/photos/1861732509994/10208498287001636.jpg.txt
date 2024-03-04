@@ -1,0 +1,11 @@
+FINISHED --2015-12-10 06:3
+Total wall clock time: 165
+Downloaded: 58 files, 59M in 15s (3.97 MB/s)
+
+183cSdbd8 18cb929a8521494620027a_md5.txt
+
+marc@kalai:~/marclandolt.ch/temp$ mkdir temp && cd temp && wget -rl1 http://marclandolt.ch && mdSdeep -r . >md5.
+txt |mdSsum md5.txtll
+
+205--
+

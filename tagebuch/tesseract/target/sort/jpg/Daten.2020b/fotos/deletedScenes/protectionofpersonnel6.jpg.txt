@@ -1,0 +1,15 @@
+ATTENUATION, DB
+
+90-—my —r —y —TTy
+80
+24 X24 STRANDS /INCH .014" COPPER: =
+wo =
+22 X 22 STRANDS/INCH O16 COPPER;
+4o-—> “7 |
+ob vce cel pl ul
+
+q v 10 100 1000
+FREQUENCY, MC
+
+Fic. 9. Shielding effectiveness of wire screenings in a low-
+impedance field.

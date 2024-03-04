@@ -1,0 +1,7 @@
+NC Login
+
+Hose: 192.168.0.10
+
+Gialiow other clients to connect
+Blsreen display
+

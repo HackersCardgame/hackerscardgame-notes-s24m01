@@ -1,0 +1,45 @@
+Plug-in Development - Eclipse Platform.
+
+File
+
+Edt Source Refactor Navigate Search Project
+
+Run Window Help
+
+S|) -X-&- RR KS-lw vile e-
+
+[ole © 68 oP | ER
+
+New
+Go Into
+
+Source
+
+a Import
+4
+
+Tools
+
+Close Project
+
+Team
+Compare with
+Replace with
+
+Restore from Lacal History.
+
+Database
+
+Properties
+
+‘Open in New Window
+Open Type Hierarchy
+
+Refactor
+
+Export
+
+refresh
+
+Add JET Nature
+

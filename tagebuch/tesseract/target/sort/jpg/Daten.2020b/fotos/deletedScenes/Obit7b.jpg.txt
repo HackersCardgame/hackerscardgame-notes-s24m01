@@ -1,0 +1,13 @@
+Trafo-Union HH
+
+ZE 30/7; ENR 4041574
+220V; 50H2; 1,2A
+
+20% ED in 3 min; Intermitterende drift
+
+VDE EZ2
+0550 6) @
+
+Vorsicht Hochspannung
+Haute tension — Danger
+

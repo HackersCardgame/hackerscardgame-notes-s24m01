@@ -1,0 +1,11 @@
+Since there are 360 degrees in a
+circle and pi is intimately connected
+with the circle, some mathematicians
+were delighted to discover that
+the number 360 is at
+the 359th digit position of pi.
+
+926535897932384626433;
+
+|| I) |
+

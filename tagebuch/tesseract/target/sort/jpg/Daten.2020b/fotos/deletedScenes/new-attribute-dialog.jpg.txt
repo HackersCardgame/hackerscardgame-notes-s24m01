@@ -1,0 +1,44 @@
+© few wizard
+
+New attribute
+
+Create a new class attribute
+
+ED Properties |/p Javadoe|
+
+Mane [=
+
+ie [fava dane String
+
+Binension
+
+Default value |
+
+Attribute
+
+Visibility Opublic
+Modifiers []static
+
+protected Opacksee
+Ofina Dlabstract
+
+Accessors
+
+Use accessors []Read only
+Visibility ©public  Oprotected O package
+
+Stereotypes
+
+Oprivate
+Citransient [volatile
+
+Oprivate
+
+Wen Stereotype
+
+Bait
+Remove
+Move up
+
+Hove down
+

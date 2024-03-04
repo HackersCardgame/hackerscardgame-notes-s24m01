@@ -1,0 +1,24 @@
+ROM-Based Setup Utility, Version 3.68
+Copyright 1982, 2018 Hewlett-Packard Development Company, L.P.
+
+SPEER ass Re SP SI Ee
+
+PC feature can utilize hardware capabilities provided by AMD Y |
+PC'NC(AMD Virtualization) Support. It is NOT required to disable thisil
+
+St or OS that does not support AMD Y
+Bo ——S— = =
+
+Da =
+Serv See |
+Server Security
+
+Power Hanagenent
+
+BIOS Serial Console & EMS
+Server Asset Text
+Advanced Options
+
+Systen Default Options
+
+<Enter> to Modify

@@ -1,0 +1,4 @@
+Triangle List Triangle Strip
+
+1 24
+

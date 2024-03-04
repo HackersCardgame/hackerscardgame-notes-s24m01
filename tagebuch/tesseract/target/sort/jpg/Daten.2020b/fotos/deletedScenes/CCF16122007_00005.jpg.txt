@@ -1,0 +1,25 @@
+ee n ABB Technikerschule, Baden
+
+aap
+~~~ a Eidg. anerkannte hdéhere Fachschule fiir Technik
+
+nete Gesetze, Formeln etc. mit den verlangten Argumenten suchen, kombinieren
+und nach der Grésse N auflésen.
+
+Das Durchflutungsgesetz gemass H.Meister: Elektrotechnische Grundlagen, Band 1,
+S.146 lautet: © =N-J=1,-H. Es ist offenbar ein geeignetes Gesetz, da es die
+
+Grésse N und die Argumente H,J enthalt.
+
+Die gesuchte Form N = f(H,J) bekommen wir hier einfach durch Auflésen des
+Durchflutungsgesetzes nach N :
+
+|, -H L+H
+
+I
+
+N=
+
+. Die gesuchte Funktion ist also f(H,/) =
+
+9.7.2007 Bo

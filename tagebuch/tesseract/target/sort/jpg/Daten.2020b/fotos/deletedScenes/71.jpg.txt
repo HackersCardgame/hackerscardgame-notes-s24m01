@@ -1,0 +1,143 @@
+“Funktion wire auch in der IT-Sicherheit hilfreich.
+
+Klappt ohne den Overhead, die Kosten
+und die Komplexitat einer PKI.
+
+Ahnliche positive Effekte erzielt die Kom-
+bination eines Sicherheitsmechanismus
+"nit einer fiir User erkennbar sinnvollen
+{ Aufgabe. Die bekannteste Variante dieses
+Tricks ist der Ziindschliissel: Autofahrer
+benutzen den Schliissel nicht, weil er ih-
+nen als Sicherheitsgerat wichtig wdre,
+sondern einfach deshalb, weil sie dem
+fahrzeug damit mitteilen, wann es den
+Motor starten und wann wieder abstel-
+len soll (Abbildung 1). Die Sicherheit ist
+‘aus Sicht der Fahrer ein angenehmer Ne-
+beneffekt, welchen sie zumeist nicht ein-
+mal wahrnehmen.
+
+Durch die Hintertiir
+
+‘Sehr konsequent setzte in den 50er-Jah-
+fen der KW-26 Teletype Link Encryptor
+(eine Verschliisselung fiir Fernschreiber)
+auf das Huckepack-Verfahren [4]. Als
+Schliissel diente dem Gerat eine Loch-
+arte. Um zu verhindern, dass Benutzer
+
+Abbildung 1: Autofahrer nehmen ihren Schliissel nicht als hinderliches Security-Device wahr. Er ist nur das
+
+q Gerat, mit dem sie ihren Wagen starten. Diese Doppelbelegung mit einer von dem Anwender gewiinschten
+
+dieselbe Karte mehrfach verwenden, ha-
+ben die Entwickler einen Shredder direkt
+bei dem Lochkartenleser montiert. Wenn
+jemand die Tiir zu diesem Gerdt 6ffnete,
+dann vernichtete der Shredder die alten
+Karten automatisch.
+
+Das Vernichten war damit einfach Be-
+standteil einer gew6hnlichen Vorgehens-
+weise. Der Erfolg dieser simplen Mecha-
+nik stellte jede militarische Disziplin in
+den Schatten, die Anwender dazu ver-
+pflichtete, Karten nur einmal zu verwen-
+den. Leider ergibt sich nur selten eine
+Gelegenheit, Sicherheitsmechanismen hu-
+ckepack auf andere Ablaufe zu setzen.
+Wenn es klappt, dann funktioniert der
+Trick auerordentlich gut.
+
+Automatik oder
+Gangschaltung
+
+Der Entwickler muss sich an vielen Stel-
+len entscheiden, ob eine Operation auto-
+matisch und damit im Verborgenen ab-
+lauft oder ob der Benutzer die Entschei-
+
+“¢ Achtung! Sie sind im Begriff einen j
+*  bindenden Vertrag einzugehen, der...
+
+bildung 2a: Der erste Entwurf eines Dialogs, der
+
+auf einen Vertragsabschluss hinweist, beschrankt
+Sich auf eine Allerweltsbeschriftung der Buttons.
+
+Achtung! Sie sind im Begriff einen juristisch
+bindenden Vertrag einzugehen, der...
+
+Abbildung 2b: Schon besser: Durch die eindeutige
+Beschriftung wird dem User klar, dass er per Klick
+auf den mittleren Button eine Signatur ausfiihrt.
+
+dung fallen darf oder muss. Letzteres
+nehmen Anwender oft als aufdringlich
+wahr. Sie versuchen, so weit wie még-
+lich monotone Aufgaben zu vermeiden.
+Denn keinem Menschen liegen langwei-
+lige, sich wiederholende Tatigkeiten. Sie
+nehmen lieber eine Abkiirzung.
+
+Je aufwandiger Operationen wie das Ver-
+schltisseln oder das Signieren ausfallen,
+umso gréer ist der Wunsch nach Ver-
+einfachung. Der Entwickler hat die Wahl:
+Entweder verzichtet er auf die perfekte
+Sicherheit und automatisiert so viel wie
+méglich, oder er akzeptiert es, dass sei-
+ne Anwender die Funktion weitgehend
+mit Ignoranz strafen.
+
+Wenn ein Mechanismus verlangt, dass
+der User eine Smartcard einlegt, seine
+PIN eintippt und sich biometrisch aus-
+weist, dann wird die Funktion weitge-
+hend ungenutzt bleiben. Klappt die Ver-
+schliisselung fast von allein, dann sinkt
+deren Sicherheit - die User werden sie
+dafiir aber auch tatsachlich verwenden.
+Den besten Kompromiss finden, das ist
+die Aufgabe des Entwicklers.
+
+Bewusste Entscheidung
+
+Automatismen sind allerdings nicht in
+jedem Fall die beste Wahl. Bei wichtigen
+Sicherheitsentscheidungen braucht ein
+Programm sogar aufdringliche Dialoge.
+Die Software muss sicherstellen, dass
+der User eine Aktion ausdriicklich ge-
+stattet, bevor das Programm weiterlauft.
+Es ist eine bewusste Entscheidung des
+Anwenders nétig. Heimlich und ohne
+den eindeutigen Wunsch des Users seine
+Nachrichten signieren ware schlechter
+Stil (vergleichbar einer blinden Unter-
+schrift unter einen Vertrag) und wird vor
+Gericht kaum bestehen. Diese Art der Sig-
+natur w4re praktisch wertlos.
+
+Verlangt ein Programm vom Anwender
+eine derartige sicherheitsrelevante Ent-
+scheidung, dann muss es auch dafiir sor-
+
+Achtung! Sie sind im Begriff einen juristisch
+bindenden Vertrag einzugehen, der...
+
+Signieren | Abbrechen Hilfe
+
+Abbildung 2c: In der dritten Fassung sortieren die
+Entwickler die Schaltflachen in der iiblichen Reihen-
+folge, um Verwirrung zu vermeiden.
+
+Anwender
+
+Sec-Usability _
+
+i
+
+Attacken abwehren
+

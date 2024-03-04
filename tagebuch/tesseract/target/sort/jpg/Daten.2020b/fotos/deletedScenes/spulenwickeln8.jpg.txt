@@ -1,0 +1,10 @@
+Wicheldaten fur HF -Spulen von 100kHy bis 600 MHz
+
+2 Spule fir 145 MHz
+gegeben: CebpF , Ds thn, B: 10mm
+
+Schutt:
+gefunden: FL O1tyH
+
+2,3 = 53 Way.
+

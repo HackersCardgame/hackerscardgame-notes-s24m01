@@ -1,0 +1,3 @@
+‘igure 1: We introduce IM2CAD, a new system that takes a single photograph of a real scene (left), and automatically
+constructs a 3D CAD model (right) that is similar to the real scene.
+

@@ -1,0 +1,11 @@
+marc@kali: ~/Daten.2014/Studium/Selbststudium/informatik/Sprachen/python
+File Edit View Search Terminal Help
+def buildConnectionString (params) :
+
+return -join([ % (k, v) for k, v in params.items()])
+__name__ ;
+myParams = { Ee nm
+: aN
+a_\
+%
+

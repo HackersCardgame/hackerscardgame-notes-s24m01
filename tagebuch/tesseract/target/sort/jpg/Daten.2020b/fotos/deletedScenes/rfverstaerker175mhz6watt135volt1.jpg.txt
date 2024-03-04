@@ -1,0 +1,17 @@
+TEST CIRCUIT 2sc1971
+
+Zin=s0oo 100,1/2T 100,27,3° Zout
+A 4 OO
+«0 300
+|
+To 459 10 Aba to Sone |
+|
+Sa
+cy 0.084
+Gy: 18OpF. O.03uF, 0.03uF, 33yF in parallel +Vec
+
+Notes All coils are made rom 1. Smig iver plated cooper wire
+Coil dimensions in eillimeter
+Ds Inner diameter of coil
+Turn numberof coil
+Pitch of eo

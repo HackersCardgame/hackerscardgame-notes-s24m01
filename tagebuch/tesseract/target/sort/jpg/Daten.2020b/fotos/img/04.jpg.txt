@@ -1,0 +1,221 @@
+Rechnernetze
+
+Der Large Hadron Collider: dem Higgs-Teilchen auf der Spur
+
+Schon immer wollte der Mensch wissen,
+was die Welt im Innersten zusammenhilt.
+Heute wissen wir: Vier Grundkriifte sind es.
+Gravitation, Kraft sowie
+
+die W- und Z- Bosonen ~ sie sind in die
+schwache Kernkraft involviert ~ gingen den
+CERN-Teams schon zu Zeiten des alten Be-
+
+igers ins Netz. Damals rasten noch
+
+die starke und schwache Kernkraft. Sie wir-
+ken auf die Elektronen, Protonen und Neu-
+tronen, die unsere sichtbare Welt in Form
+von Atomen formen. Protonen und Neutro-
+nen sind aber nicht wirklich elementar. Sie
+sind aus jeweils drei Quarks zusammenge-
+baut. Die Theorie besagt, dass die vier
+Grundkriifte durch ganze Schauer von Parti-
+kéln iibertragen werden, die stindig zwi
+schen den Quarks und den Elektronen hin-
+und herwabern. Sie sind ein Produkt der
+Quantenwelt, entstehen aus dem Nichts,
+verschwinden wieder und existieren nur so
+kurze Zeit, dass sie den Energieerhaltungs-
+satz der Physik nicht stéren.
+
+Verantwortlich fiir die Eigenschaft
+~Masse“ der Elementarteilchen ist das so
+genannte Higgs-Boson. Manche Theoreti-
+er glauben, dass Materie tiberhaupt nur in-
+direkt iiber eine Masse verfiigt. Das Meer
+von Higgs-Bosonen, das sie umgibt, wiirde
+ihnen die Eigenschaft ,,Masse“ iiberhaupt
+erst verleihen. Detaillierte Eigenschaften
+sind aber trotz aller Bemiihungen ein Riitsel
+geblieben; auch beobachtet hat man es
+noch nie. Einzig, dass es ein ,,Boson‘, nach
+dem indischen Physiker Bose, sein muss
+und damit ein Objekt mit ganzzahligem Ei-
+gendrehimpuls (Spin), steht fiir die Theore-
+tiker fest. Besonders fatal ware es dann,
+wenn es das Higgs definitiv nicht geben
+wiirde. Dann wien etliche Physiklehrbii-
+cher reif flirs Altpapier. Kein Zweifel: Das
+Higgs muss gefunden werden!
+
+Bislang allerdings schwiegen alle Detekto-
+ren. Ganz aussichtslos ist die Sache nicht.
+Schon die Vettern des gesuchten Teilchens,
+
+len, éhnlich wie beim SETI-Projekt,
+die Rechenpower ihrer unterbeschéf-
+tigten PCs zur Verfiigung. Das CERN
+spricht diese Rechner iiber das normale
+Internet an und biindelt sie zu einer
+schlagkriiftigen Armada. Diese zu
+lichen Rechner schultern vor allem lis-
+tige, aber nicht unbedingt zeitkritische
+Simulationsberechnungen fiir den
+LHC-Beschleuniger. Obwohl die
+CERN-Wissenschaftler auf einen Wer-
+befeldzug verzichteten, iiberstieg die
+
+die verhiltnismiBig leichten Elektronen
+durch die Rohren. Als es keine Aussicht auf
+weitere Erkenntnisse tiber Higgs & Co. gab,
+weil sich seine Leistung nicht weiter stei-
+gem lieB, wanderte der Elektronenbeschleu-
+niger LEP (Large Electron and Positron
+Collider) ins Altmetall.
+
+Kurz vor der Demontage des alten CERN-
+Rings sah es kurze Zeit so aus, als hiitte eine
+Gruppe den Schattenwurf des scheuen Teil-
+chens gemessen. Nach zusitzlichen Berech-
+nungen wurde die Erfolgsmeldung zuriick-
+gezogen. Es war wohl eher eine Schwan-
+kung der Statistik als ein Teilchen, das die
+‘Computer gesehen hatten.
+
+Jetzt wird der neue, der Large Hadron Colli-
+der aufgebaut. Er wird schwere Kernbau-
+steine durch den Genfer Untergrund scheu-
+chen. Die Aufprallenergien sind ungleich
+gréBer, gerade so, als wiirde man statt
+zweier PKWs aus Aluminium zwei voll be-
+ladene LKWs in voller Fahrt kollidieren las-
+sen. Dabei herrschen Zustinde wie am An-
+fang aller Zeiten, als sich kurz nach dem Ur-
+
+einfach gewesen sein. ,,In den ersten Mo-
+menten des Universums muss zwischen
+Teilchen und Kriiften eine einfache Bezie-
+hung geherrscht haben, die uns heute ver-
+borgen ist“, vermutet der CERN-Physiker
+und Nobelpreistriiger Carlo Rubia. Diese
+verborgenen Bezichungen kénnten dann
+endlich so sein, wie es der griechisch gebil-
+dete Abendliinder am liebsten hat: klar und
+von einfacher, symmetrischer Struktur.
+
+Doch das sind Spekulationen. Zuniichst gilt
+es, nach jeder Kollision die darauf folgen-
+den, rasend schnell ablaufenden Umwand-
+lungen durch ganze Batterien von Detekto-
+ren zu erfassen. Noch in den 70er-Jahren
+leitete man die Teilchenschauer an den Kol-
+isionsorten durch Kammern mit tiberhitzter
+Fliissigkeit und fotografierte die Spuren der
+Kernteilchen. Sie zeichneten ihre Flugbahn
+in Form von kleinen Blaschen in den insta-
+bilen See.
+
+Die Damen, die vor dreiBig Jahren an
+schweren Pulten die Bilder digitalisieren
+mussten, sind nur noch Geschichte. Heute
+fangen Blei-Wolfram-Kristalle die Gam-
+mastrahlung der an den Prozessen beteilig-
+ten Teilchen auf und verwandeln sie propor-
+tional zu ihrer Energie in Ee Lichtblit-
+
+knall Energie und Materie
+schieden und sich die Naturgesetze heraus-
+kristallisierten.
+
+Eine Milliarde Kollisionen erwarten die
+Konstrukteure pro Sekunde. Der Zufall legt
+fest, mit welcher Energie und unter wel-
+chem Winkel die Protonen zusammenpral-
+len. Hin und wieder entstehen dabei neue
+Teilchen, die es so seit dem Urknall nicht
+mehr gegeben hat.
+
+ze, die dann von
+rechte, elektrische Sone ee
+werden. Alleine fiir den Detektor ,,Alice*
+wurden 20000 dieser Platten bestellt, zum
+Stiickpreis von 200 Dollar. Ein Prinzip der
+Blasenkammer ist geblieben: Nur die Fol-
+geerscheinungen, also die Spuren der Ereig-
+nisse, lassen sich messtechnisch erfassen.
+Kein Wunder, das die Physiker erst Monate
+oder gar Jahre nach einem Experiment
+genau wissen, was sie beobachtet haben.
+Ohne lauft in diesem Feld
+
+Die heute so verwirrend
+sikalischen Gesetze kénnten damals Es
+
+Von den USA mit 10 000 PCs bis
+Albanien mit vier Rechnern ist fast
+jedes Land der Erde vertreten.
+Das Programm SixTrack simuliert
+dabei etwa 60 Partikel wiahrend
+100 000 Umrundungen, das entspricht
+10 Sekunden. Das reicht, um zu be-
+stimmen, ob der Strahl stabil bleibt
+oder ob es Verluste an den Kollima-
+
+der Physik nichts.
+
+Bank und keiner Versicherung. Die
+mit der Analyse der Experimente be-
+fassten Physiker sind darauf angewie-
+sen, auf alle gesicherten Experimente
+zugreifen zu kénnen. Und damit die
+Theoretiker ihre Modelle auch prazise
+iiberpriifen kénnen, ist jedes Bit ge-
+fragt. ,,Unsere Daten liefern ein holo-
+grafisches Bild der Vorgiinge in der
+Messkammer. Fehlen einige Datensit-
+ze, wird das Bild dadurch zwar nicht
+
+fi es nimmt aber immer
+
+toren gibt, die den Teilchenstrahl
+riumlich limitieren.
+Die leichte F ung der Re-
+
+kommt dem Konzept
+
+an
+Spitzentagen schon rasch die des eige-
+nen Rechenzentrums. Jeder, der will,
+kann bei LHC@home auch weiterhin
+mitmachen und wird mit dem Gefiihl
+belohnt, am gréBten Experiment der
+Welt teilzunehmen (sieche Kasten
+»Links zu CERN-Projekten“). Die Ka-
+pazitat der freiwilligen Helfer ist beim
+CERN schon fix eingeplant.
+
+102
+
+des LHC@home entgegen und hat
+zudem die Entscheidung fiir den
+Linux-Cluster ohne Zweifel erleichtert.
+In diesem Punkt kommt den Informati-
+kern die Physik entgegen. Das kann
+man vom Speichermanagement nicht
+behaupten. Alle Archivdaten des
+CERN sind gleichzeitig auch Produk-
+tionsdaten. So etwas gibt es bei keiner
+
+mehr an Detailreichtum ab“, erléutert
+Bernd Panzer-Steindel, Physiker am
+CERN. Das bedeutet aber auch, dass
+alte Daten fiir neue Berechnungen
+iiberaus wichtig sind und dass neue Er-
+kenntnisse nur mit den Erfahrungen
+der Vergangenheit méglich sind. ,,Die
+alten Messwerte verbessern die Statis-
+tik“, ergiinzt Panzer-Steindel, ,,gerade
+bei schwachen Effekten in der Nahe
+
+ix 5/2006

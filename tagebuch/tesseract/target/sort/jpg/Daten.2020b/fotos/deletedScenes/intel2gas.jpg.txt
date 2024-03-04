@@ -1,0 +1,16 @@
+~ConvertX86p32_32BGR888,L1:
+nov! (esi, Zed
+
+swap] Zed
+
+ror] $8,2ed<
+
+edi edx
+add esi BYTE 4
+
+fed od BYTE 4 Gale |
+dine LL
+2
+
+Gin xteretier
+

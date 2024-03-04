@@ -1,0 +1,12 @@
+@ Employee
+
+getCampanyd
+setCompanyd)
+getNamed
+setNamed
+
+= company;
+
+of
+
+Company

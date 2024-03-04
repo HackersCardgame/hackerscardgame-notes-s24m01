@@ -1,0 +1,17 @@
+E
+GLASS 1
+
+(a)
+
+CLASS 2
+
+(b) (c)
+
+Fig. 1—There are two types of negative resistance and, though each
+is characterized by a region of negative slope on its current-
+voltage characteristic curve, their actions in a circuit are quite
+different. One type is the dual of the other, and performance is
+determined by response beyond this negative region. (a) The
+negative resistance is observed here as a decrease in current for
+an increase in voltage and in (b) it is observed as a decrease
+in yoltage for an increase in current,

@@ -1,0 +1,17 @@
+p
+
+Srund fiir Repar atur
+
+| Reason for Repair _
+Dx] Garantie Warranty Repair
+
+[_] Keine Garantie __ Out of
+[J Mechanischer Defekt
+[| Netzteil Power supply
+[LJ Andere Other
+
+i
+
+éFFFs
+
+SERISPS

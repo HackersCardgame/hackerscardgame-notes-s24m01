@@ -1,0 +1,19 @@
+Hoch-Lelstungs-Mikrowelle
+HLM-Workshop BAKWVT Mannheim ig
+
+Stand und Ergebnisse der TZN-Untersuchungen
+
+4 stufige UWB-Quelle nach Pulseline-Prinzip
+
+Grundsatzlicher Aufbau
+400 kV Marx-Generator Hochdruck-
+funkenstrecke
+ae Pulskon- 50 Ohm
+densator = Abschlu8
+Technische Daten: Pulsanstlegszelt < 500 ps
+
+Ausgangsleistung > 100 MW
+Frequenzspektrum 700 MHz bis 1,1 GHz
+
+icharcarmarh oach DIN beachien. i
+

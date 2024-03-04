@@ -1,0 +1,29 @@
+@ lvsTERESIS / REMANENCE
+
+magnetische 8,
+
+Induktion (B)_g, %.
+ar) Sattigung
+
+Entmagneti- Neukurve
+sierungskuné ~~)
+Hystereseschleitfe
+
+Magnetische
+feldstarke Feldstarke (H)
+
+unmagnetischer
+Zustand
+
+Inventor james Alfred Ewing Year ~1890
+Describes the persistence of an effect after the
+causing force stopped e.g. In (electro-) magnetism
+reproducible
+Old electron tube televisions tended to become
+magnetic after a while, which resulted in a bad
+image, so they had to be “degaussed"
+
+Use Cases
+For example, Attempt to delete a deliberately
+incorrectly played behavior pattern again
+

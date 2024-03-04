@@ -1,0 +1,14 @@
+Energie [eV] >
+
+Energie zur Abspaltung des ersten Elektrons
+in Abhangigkeit von der Ordnungszahl
+
+PNA Ape V
+
+70 2 0 40 ; G0 70 390
+
+oO 63) 5 @
+ALLE]NTFNAT PGT 6d aGEERGSREY CR RGN ESP MEP TCEAREU ATEME RAL
+HeBeC ONeMgSi S.ArCaTi CrFeNiZnGeSekr Sr ZrMoRuPdCdSnteXeBaCeNdSmEdDyEr YbHFWOs Pig PbPoRnRalhU
+Ordnungszahl >
+

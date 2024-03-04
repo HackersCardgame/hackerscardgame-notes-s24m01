@@ -1,0 +1,207 @@
+Security Alert! Al
+
+| uN Something dangerous may be happening
+
+Abbildung 5: Ein wenig auf die Spitze getrieben: So
+
+&hnlich wirken viele Dialogboxen, die den Benutzer
+fragen, ob er fortfahren will.
+
+Opfer erfolgreicher zu betriigen, ist es
+nur eine Frage der Zeit, bis Angreifer die
+Usability-Forschung unmittelbar fiir ihre
+Zwecke missbrauchen.
+
+Gegenfrage
+
+Ein recht einfacher Weg fiir den Entwick-
+ler, um potenzielle Problemfelder aufzu-
+spiiren, sind negative Pflichtenhefte. Sie
+beantworten die Frage, was das User-In-
+terface dem Benutzer auf gar keinen Fall
+erméglichen darf. Wenig sinnvoll ist es
+zum Beispiel, dass der Benutzer in vie-
+len Browsern sdmtliche Sicherheitsfea-
+tures abschalten kann (Abbildung 6). Ein
+ganzer Schwarm an Viren und Wiirmer
+hat diese Funktion von Microsoft Office
+und Outlook prompt genutzt, um deren
+
+Smart Card or other Certificate Properties
+
+When connecting:
+
+© Use my smart card
+@ Use a certificate on this computer
+Use simple certifi
+
+idate server certificat
+
+Connect to these servers:
+
+Trusted Root Certification Authorities:
+
+ABA ECOM Root CA
+Autoridad Ci
+
+Baltimore EZ by DST
+Belgacom E-Tr
+
+C&W HKT SecureNet CA Ci
+
+! HKT SecureNet
+
+C&W HKT SecureNet CA Root
+
+iew Certificate
+
+Use a different user name for the connection
+
+Abbildung 6: Niemand wiirde ein Auto kaufen, bei dem der
+
+die Bremsen deaktivieren kann. In einem Browser scheint es dagegen nicht zu
+stéren, wenn alle Sicherheitsfunktionen abschaltbar sind.
+
+Autoridad Certificadora del Colegio Nacional de Coreduria Pu
+
+Sicherheitsfunktionen abzuschalten. Das
+ging dann sogar so weit, dass Virenscan-
+ner die Malware am einfachsten an de-
+ren Code zum Abschalten der Schutz-
+funktionen erkannten.
+
+Nicht nur Malware missbraucht derar-
+tige gefahrlichen Fahigkeiten. Auch zahl-
+reiche Handbiicher und Webseiten emp-
+fehlen detailliert und Schritt fiir Schritt
+das Abschalten von Sicherheitsfunktio-
+nen, nur, um schlecht programmierte
+Software zum Laufen zu bringen. Egal
+ob Windows-Features oder ein »xhost
++« unter Linux, das den sowieso schwa-
+chen Schutz des X-Servers aushebelt: Es
+ist oft einfacher, die Sicherheitstests ab-
+zuschalten, als die Software zu fixen.
+Eine Negativliste zusatzlich zu den be-
+kannten Designvorgaben fiir eine Benut-
+zeroberflache ist deshalb ein wichtiges
+Hilfsmittel. Das GUI sollte den User wirk-
+sam davon abhalten, sich selbst unnétig
+zu gefahrden.
+
+Weniger ware mehr
+
+Viele Sicherheits-GUIs sind auferdem zu
+umfangreich. Sie nerven den Anwender
+so lange mit unwichtigen Meldungen,
+bis er auch wich-
+tige Hinweise ig-
+noriert. Sie erlau-
+ben es dem Benut-
+zer, selbst wichtige
+Sicherheitsvorkeh-
+rungen einfach zu
+umgehen (Verbin-
+dung mit SSL-Ser-
+vern trotz eines
+ungiiltigen Zertifi-
+kats) oder sogar
+mit Hilfe tiberfltis-
+siger Konfigurati-
+onsoptionen abzu-
+schalten.
+
+Gelegentlich ver-
+leiten ihn Dienste
+oder Anleitungen
+sogar gezielt, seine
+Sicherheit zu ge-
+fahrden. Damit he-
+belt die Praxis den
+theoretisch durch-
+aus liberaus guten
+Schutz von zertifi-
+katsbasiertem SSL
+aus. (fj) a
+
+ate selection (Recommended)
+
+Fahrer auf Knopfdruck
+
+Infos
+
+fi] Robert Cialdini, ,,Influence: Science and
+Practice": Allyn & Bacon 2001
+
+[2] Haidong Xia and José Brustuloni, ,,Harde-
+ning Web Browsers Against Man-in-the-
+Middle and Eavesdropping Attacks”: Proc.
+14th international conference on the World
+Wide Web (WWW'05), S. 489
+
+[3] Serena Chen and Shelly Chaiken, ,,The
+heuristic-systematic model in its broader
+context”, ,,Dual-Process Theories in Social
+Psychology”: Guilford Press 1999, S. 73
+
+[4] P. Roberts, ,,Gartner: Consumers Dissatis-
+fied with Online Security“: ,,PC World’ 12/04
+
+[5] Sara Sinclair and Sean Smith, ,,The TIPPI
+Point: Toward Trustworthy Interface”: ,,IEEE
+Security and Privacy”, Vol. 3, No. 4, S. 68
+
+[6] N. Good, R. Dhamija, J. Grossklags, D. Thaw,
+S. Aronowitz, D. Mulligan und J. Konstan,
+Stopping Spyware at the Gate: A User
+Study of Privacy, Notice and SpywareC":
+Proc. 2005 Symposium on Usable Privacy
+and Security, S. 43
+
+[7] Raymond Chen, ,,The default answer to
+every dialog box is Cancel”: [http://blogs.
+msdn.com/oldnewthing/archive/2003/09/
+01/54734.aspx]
+
+[8] Sheldon Cohen, ,,Environmental load and
+the allocation of attention”: ,, Advances in
+Environmental Psychology”, Vol. |, John
+Wiley & Sons 1978
+
+[91 Giora Keinan, ,,Decision making under
+stress: scanning of alternatives under
+controllable and uncontrollable threats":
+, Journal of Personality and Social Psycho-
+logy", Vol. 52, No. 3, S. 639
+
+[10] Debra Scammon, ,,Information Load and
+Consumers”: ,,Journal of Consumer Re-
+search", Vol. 4, Issue 3, S. 148
+
+[71] D. Webster, L. Richter und A. Kruglanski,
+On Leaping to Conclusions When Feeling
+Tired: Mental Fatigue Effects on Impressi-
+onal Primacy”: ,, Journal of Experimental
+Social Psychology”, Vol. 32, Nr. 2, S. 181
+
+Der Autor
+
+Peter Gutmann ist Wissenschaftler im Depart-
+ment of Computer Science der University of
+Auckland, Neuseeland. Er arbeitet an Design und
+Analyse kryptographischer Sicherheitsarchitek-
+turen, ist auBerdem Koautor von PGP und hat
+verschiedene Berichte und RFCs iiber Sicherheit
+und Verschliisselung verdffentlicht. Auch das
+Buch ,,Cryptographic Security Architecture De-
+sign and Verification” (Springer Verlag, 2003)
+stammt von ihm.
+
+Sec-Usability
+
+[
+
+Attacken abwehren
+
+Anwender
+

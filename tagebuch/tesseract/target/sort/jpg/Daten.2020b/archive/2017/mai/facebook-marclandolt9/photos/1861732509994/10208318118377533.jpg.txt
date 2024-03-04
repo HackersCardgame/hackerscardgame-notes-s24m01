@@ -1,0 +1,42 @@
+@ test.pcap - Wireshark
+File Edt View Go Capture Analyze Statistics Help
+
+SBeaemee oB8xr% 6 Be FvoFE
+
+Fier: ftep ~ Expression... Clear Apply
+
+Pratocal | Info
+
+a ia i
+
+-227282:192.168.0. z Te http > 3196 [SYN, ACK] Seq=0 Ack
+43 1.227325 192.168.0. Tcp 3196 > http [ACK] Seqe1 Ack=1 win
+14 1.227451 192. 168.0. HTTP SUBSCRIBE /upnp/service/Layer3For
+15 Tcp___http > 3196 [ACK] Seqe1 Ack=256 W
+
+TEP 1025"> 5000 SeqeO.Len=0 MSS
+248391 Ter 5000 > ACK] Seqr0 Ack:
+1.250171 HTTP HTTP/1«
+1.250285 Ter 3196 ACK] Seq=256 Ac
+411250810 Tee nttp ACK]_Seq=114 Ac
+1.250842 Tee 3196 Seq=257 Ack=115
+1.251868 192.168. Tee 1025
+11252826 192/468. Tepe ehttp
+1.253323 192. 168. : Tce 3197 Seqe0 Len=0 Mss
+1.254502 192. 168. 192.168. Tee http ACK] Seq0 Ack=
+27 1.254532 192. 168. 192. 168. Tp 397 Segal Acke1 Win v
+
+>
+
+Frame ii (62 bytes on wire, 62 bytes captured)
+Ethernet IT, Src: 192.168.0.2 (00:0b:5d:20:cd:02), Dst: Netgear_2d:75:9a (00:09:5b:2d:75 :9a)
+Internet Protocol, Src: 192.168.0.2 (192.168.0.2), Dst: 192.168.0.1 (192.168.0.1)
+
+= Transmission Control Protocol, Src Port: 3196 (3196), Dst Port: http (80), Sea: 0, Len: 0
+
+rd 20 cd 02 08 OO 45 00 ..[-u... J ~
+1010 61 2c CO a8 OO 02 cO a8 10.8... a,
+1020 95 F800 00.00.00 7002 1. |.Pcé
+1030 05 bd 01 01 04 02 pelaeeet
+
+[Fier Dates peop” 14 KS DOOD [Friaoo: 10a 0 lepers Ero

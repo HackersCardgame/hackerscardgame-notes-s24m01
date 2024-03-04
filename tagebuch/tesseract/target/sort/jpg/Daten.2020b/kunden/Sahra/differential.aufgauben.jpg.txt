@@ -1,0 +1,47 @@
+7 Ableitungsbegriff, Grafisches Ableiten
+
+2.
+
+‘Numerischer Ansatz flir die Ableitung
+
+Der Graph von f(x)=2* geht durch den Punkt P(1/2).
+
+v i i iesem Punkt?
+Welche Steigung hat die Kurve (bzw. ihre Tangente) in diesem Punk\ gn
+Bestimmen Sie mit dem numerischen Ansatz einen Naherungswert, indem Sie in der
+
+x-Koordinate x, =14 Ax des "Nachbarpunkts" Q ein Kleines Ax wahlen.
+Hinweis: Verwenden Sie eine ahnliche Tabelle wie im Skript
+
+Ableitung einer Potenzfunktion 3. Grades
+
+Im Skript wurde die Ableitung der Funktion f(x) d ; =
+hergeleitet. Die Ableitung der kubischen Funktion f(x) =." lasst sich analog berechnen.
+
+Komplettieren Sie die neue Tabelle, vereinfachen Sie die Ausdriicke soweit als méglich, und
+liberlegen Sie dann, wohin die Sekantensteigung Af / Av wohl streben mag.
+
+3 durch eine Grenzwertiiberlegung.
+
+=
+m | xotdx
+£04)| (x + Av? =
+Af | fa)-F0)=
+af =
+Av Av
+Multiple Choice
+a) Anwelcher Stelle / an welchen Stellen hat der Graph von f(x) eine horizontale
+Tangente, wenn flir seine Ableitung gilt: "(x)= x? +3x.
+Genau eine der folgenden Aussagen ist korrekt; kreuzen Sie diese an.
+Onur bei x=0 O nur bei x=3 O nur bei x=-3
+bei x,=O und xy=-3 OO bei x, =3 und x, =0 CG ankeiner Stelle
+
+? die
+
+b) Sie werden (spatestens niichstes Mal) lemen, dass die Funktion f(x)
+Ableitungsfunktion /"(x) =2ar hat; aR ist dabei ein Parameter.
+
+Welchen Wert hat a, wenn fan der Stelle xq =2 die (Tangenten-) Steigung 12 hat?
+Kreuzen Sie die korrekte Antwort an. at
+
+ieee 9) 98 Oe os oR

@@ -1,0 +1,159 @@
+‘Winschenswert ware etwa ein Aufruf
+der Art
+
+‘SYS SC.ZS : REM Cursor setzen
+PRINT “Text : REM an Cursor-Posi-
+tion ausgeben
+
+wobei in SC die Startadresse einer
+Set-Cursor-Routine gespeichert ist
+und Z und S die Zeile beziehungswei-
+se die Spalte enthalten, Diese Rou-
+tine ist in Assembler einfach zu for-
+‘mulieren, da das tem des
+C64 verschiedene Routinen zur Ver-
+{digung steli, mit denen man Argu-
+mente direkt aus dem BASIC-Pro-
+grammtext lesen kann. So gibt es ab
+Adresse SAEFD eine Routine, die
+Gberpriftt, ob das nachste Zeichen ein
+Komma ist. Anderentalis wird die Mel-
+dung "SYNTAX ERROR’ ausgegeben.
+
+Die Routine, die an der Adresse
+$87EB beginnt. ist fr unseren Zweck
+wie geschaffen: Sie liest zwei durch
+Komma getrennte Zahlen aus dem
+Programmtext, Die erste darf dabei
+ein Zwei-Byte-Wert sein (wir brau-
+chen nur das Low-Byte) und wird als
+Pointer in den Adressen $14 und S15
+abgelegt, Die zweite mu ein Ein-By-
+e-Wert sein und wird im X-Register
+geliefert. Bei beiden Zahien darf es
+‘sich Obrigens auch um beliebige nu-
+merische Ausdrcke handeln.
+
+Die Maschinensprache-
+Routine haben wir als Listing abge-
+druckt, Sie ist nur 14 Bytes Jang, be-
+wirkt aber eine wesentlich komfortab-
+tere Erstellung von BASIC-Program-
+men, die den Cursor direkt adressie-
+en solien, Zudem arbeitet ein BASIC-
+Programm mit dieser Routine wesent-
+lich schnelier, als wenn man drei
+POKE- und einen SYS-Befeh! ein-
+setzt.
+
+« + snd automatisch
+
+Ein anderer Befeh! zum Starten einer
+Maschinensprache-Routine, der lei-
+
+der sehr selten verwendet wird, ist die
+BASIC-Funktion USR(). Bei ihr wird
+die Startadresse des Assembler-Pro-
+gramms nicht expiizit angegeben.
+Vielmenr gibt es an den Adressen
+‘$311 und $312 (785, 786) einen soge-
+nannten USR-Vektor. Bei jedem Aut-
+treten des USR-Belehles springt der
+Interpreter zu der in diesem Pointer
+fangegebenen Adresse. Das Argu-
+ment, das diese Funktion in Klam-
+mem Gbergeben bekommt, wird vor-
+her ausgewertet und in einem speziel-
+ten Flie8kommaformat in daflr vorge-
+sehenen Adressen der Zero-Page ab-
+gelegt.
+
+Diese Adressen sind fir den BASIC-
+Interpreter reserviert und biden den
+‘sogenannten FiieBkomma-Akky
+(FAC). Er befindet sich an den Adres-
+‘sen $61 bis $66 und wird vom Inter-
+preter fiir alle arithmetischen Funktio-
+nen bendtigl, ahniich dem Prozessor-
+Akkumulator, den die CPU ja in As-
+semblerprogrammen far Rechenope-
+rationen benutzt.
+
+‘Auch eine durch den USR-Befeh! akti-
+vierte Assembler-Routine kann mit
+RTS abgeschlossen werden, Damit
+nimmt der Interpreter seine Arbeit
+wieder an der Autrufstelle im BASIC-
+Programm auf. Der USR-Befehl wird
+jedoch vom interpreter wie eine Funk-
+tion — ahnlich wie SIN() oder EXP()
+— behandelt. Das heidt, er kann nicht
+wie der SYS-Beieh! allein stehen,
+‘sondem liefert ein Ergebnis, das vom
+Programm weiterverarbeitet_ werden
+muB. Erlaubt sind zum Beispiel Kon-
+struktionen wie
+
+PRINT USR(x/10) oder
+DU=USR/13)
+
+‘Das Ergebnis der USR-Funktion wird
+vom Interpreter wieder im FAC erwar-
+{el Falls Sie das Ergebnis nicht bend-
+tigen, kénnen Sie die USA(}-Funktion
+wie im zweiten Beispiel anwenden.
+Die Variable DU dient dann lediglich
+als Dummy.
+
+doystick-Akrobatik
+
+‘Sie kénnen aus Ihrem Programm her-
+‘aus einen Quelltext flr den INPUT-
+ASS (Ausgabe 6/86) abspeichern, der
+die Verwendung der USR-Funktion an
+einem Beispiel demonstriet. Der
+USR-Vektor wird dabei aut eine Rou-
+tine gelenkt, die den Joystick abfragt
+USR(1) liefert als Ergebnis 1, wenn
+der Stick nach rechts gedriickt ist, —1
+bei einer Bewegung nach links und 0
+wenn er sich in Mitteistellung befindet
+Mit USR(2) kann die y-Richtung ab-
+gefragt werden, 1 bedeutet runter und
+1 hoch. USR(3) ergibt 1, wenn der
+Feuerknopt getrickt ist, sonst 0.
+
+Das Programm beginnt mit einigen
+Bytes, die eine BASIC-Zeile darstel-
+Jen. Jede BASIC-Zelle besteht aus ei-
+nem Zeiger aut die nachste Zeile, der
+Zeilennummer in Low-High-Byte-
+Format und dem eigentiichen Text
+Abgeschiossen wird sie durch ein
+Null-Byte. Das Programm liegt in so-
+genanntern Interpreter-Code vor, bei
+dem die BASIC-Schidsselworte nicht
+als Klartext, sondern als Tokens (ein
+
+a1
+000 org $cocs
+000 20fdae = sr Saefd
+¢003 20ehb? = jar Sb7eb
+006 fa txa
+
+007 a8 tay
+
+e008 A614 ldx $16
+00a 18 ele
+
+©00b 4cf0ff jmp Srtto
+
+Auf Konma pruefen
+Zwei Zehlen holen
+
+Spalte in ¥
+Zeile in x
+
+Cursor setzen
+
+Vierzehn Bytes reichen fir eine komplette PRINT-AT-Routine.

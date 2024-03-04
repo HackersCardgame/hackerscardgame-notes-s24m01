@@ -1,0 +1,15 @@
+2 Transistoren
+23553 oder
+2n3866
+
+Riickkopplungs-
+kondensator
+2.25 Pikofarad
+
+Schwingkreis-
+kondensator
+2.46 Pikofarad
+
+Riickkopplungs-
+kondensator
+2.25 Pikofarad
