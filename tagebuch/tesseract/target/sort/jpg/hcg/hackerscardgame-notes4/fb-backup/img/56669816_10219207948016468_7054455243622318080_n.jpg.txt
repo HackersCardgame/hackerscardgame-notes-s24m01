@@ -1,0 +1,139 @@
+Tap | 120.00 | Ill Ill 4 / 4 | 0@ ~| 1Bar +
+
+OF secrenisira-5
+
++[P]<[2]0 3.1. a/x|ol7] 4.
+
+A Reverb
+
+-DUNE 3
+
+OSCILLATOR
+
+(ee)
+
+16 100| Linear, au
+Q®
+
+DENSITY AMOUNT / TUNING @
+SEMI FINE
+
+H |e
+
+SYNTHESIS TYPE
+
+‘WAVEFORM
+
+KEYBOARD FX BUS 1
+
+\
+|
+
+Ls
+
+DIFFERENTIAL UNISON ENGINE
+
+SOUNDBANK
+
+001: Adrenaline KS
+
+PATCH(DESCRIPTION!
+Breath: Low Cut
+Modwheel: Opening Party!
+Tempo: 1358PM
+(GLOBAUSETTINGS
+
+Multithreading: On
+Skin: Default
+
+Active Voices: 16/16
+Midi Smoothing: Subtle
+
+so BINED sersins mooimarnic. | area ane 2
+SYNAPSE DUNE 3
+Q
+
+XP Lowpass 12 dB . . OFF
+
+FILTER 1 FILTER 2
+
+CUTOFF
+
+2 Geo a
+
+ENV AMT erect ‘at ENVAMT
+
+FXBUS2 LFos MSEG1 MsEG 2
+
+UNISON VOICES MASTER
+= ior
+
+OTeir. —a°
+
+DETUNE SPREAD. POLYPHONY LIMITER VOLUME
+
+g@jajejajejajaja)
+
+COMMON / VOICES EDIT
+o eco e
+
+GUIDE ARI ARP2 FX
+
+[“aaeueeee
+
+FILTER ENVELOPE.
+©
+ATTACK DECAY RELEASE <— ANALOG
+AMP ENVELOPE
+
+OOO Ww
+
+ATTACK DECAY SUSTAIN _RELEASI
+
+MsEG3 MsEG 4
+
+I) ausio to
+
+)
+
+‘Audio To
+
+Cue out
+f2
+
+Master Out
+
+® Einen Absturz melden
+
+Vielen Dank, dass Sie sich die Zeit nehmen,
+uns den Absturz zu melden. Wir wissen Ihre
+Hilfe zu schitzen!
+
+Live hat ein Crash Report Pack erzeugt. Bitte
+Klicken Sie auf den folgenden Link, um diese
+Datei auf Ihrem Rechner anzuzeigen:
+Ableton Crash Report 2019-04-10 100536
+Live 4 iD.
+
+Bitte senden Sie diese Datei nach
+crashes@ableton.com .
+
+Hinweis: Sie erhalten auf thre
+‘Absturzmeldung eine automatische
+Antwort-Mail, Sollten Sie Hilfe bendtigen,
+besuchen Sie bitte unsere technische
+‘Supnort-Seite.
+
+Das Crash Report Pack enthailt
+Informationen, die erzeugt wurden, als Sie
+Live das letzte Mal laufen gelassen habe
+
++ Lives Voreinstellungen- und
+Autorisierungs-Dateien
+
+* eine Log-Datei von dem, was die Software
+wahrend des letzten Programmlaufs
+gemacht hat
+
+* verschiedene andere von Live erzeugte
+

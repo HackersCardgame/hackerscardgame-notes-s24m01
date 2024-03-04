@@ -1,0 +1,38 @@
+<i | Marc ® 20F (Mv: Leo | ®P 20), | ® 20F fs Marc hackersco:
+
+IO ®
+
+if(resetCounter) insté
+else instances+=1;
+
+bestMove = [[0,0],
+
+if(depth < 1) return €
+moves = shuffle(pe 1. convert to linear array
+
+bestValue=- 1000006
+for( i= 0; i < mov
+
+return moves;
+
+[ToDo
+isInCheck(playe
+moves = possibleMoves (
+
+for( i=0; i<moves.|
+if(board[moves[i] [1
+return ;
+
+return i
+
+instances=0;
+
+= a PIXELFUCKS.COM
+
+minimax(depth,
+
+if(resetCounter) insté
+else instances+=1;
+
+somo m= AO. & . Dy \o700
+

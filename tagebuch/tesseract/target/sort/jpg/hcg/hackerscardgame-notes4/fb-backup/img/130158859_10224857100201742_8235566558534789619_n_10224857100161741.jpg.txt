@@ -1,0 +1,79 @@
+® Marc jr
+
+camjpg (PE | Er Mare [L
+
+© ea 0 @& httpsy/e
+
+WIKIPEDIA Named entity
+
+The Free Ei lopedi.
+etree Lncyclopeda From Wikipedia, the free encyclopedia
+
+nwwikipedia.org/wiki/Named_entity
+
+Main page
+Contents We ask you, humbly, to help.
+
+Current events
+
+Random article @ Dear reader in Switzerland, it seems you
+
+About Wikipedia use Wikipedia a lot; that's great! It's a little
+Contact us awkward to ask, but today we need your
+PSHE help. We're not salespeople. We're
+
+Contribute librarians, archivists, and information
+
+Help junkies. We depend on donations averaging
+
+CHF 15, but fewer than 1% of readers give.
+If you donate just CHF 4 - the price of your
+coffee today, Wikipedia could keep thriving.
+
+Learn to edit
+Community portal
+Recent changes
+
+oleas te Thank you.
+
+ues : Request a
+What links here Credit Card PayPal payment
+Related changes slip
+
+Special pages
+Permanent link CLOSE X
+Page information
+Cite this page
+
+Wikidata item
+
+In information extraction, a named entity EWeeiwerekselee, such as persons,
+locations, organizations, products, etc., that can be denoted with a proper name. It
+can be abstract or have a physical existence. Examples of named entities include
+Barack Obama, New York City, Volkswagen Golf, or anything else that can be
+named. Named entities can simply be viewed as entity instances (e.g., New York
+City is an instance of a city).
+
+From a historical perspective, the term Named Entity was coined during the MUC-6
+evaluation campaign!"! and contained ENAMEX (entity name expressions e.g.
+persons, locations and organizations) and NUMEX (numerical expression).
+
+A more formal definition can be derived from the rigid designator by Saul Kripke. In
+the expression "Named Entity", the word "Named" aims to restrict the possible set
+of entities to only those for which one or many rigid designators stands for the
+referent.[2] A designator is rigid when it designates the same thing in every possible
+world. On the contrary, flaccid designators may designate different things in
+different possible worlds.
+
+As an example, consider the sentence, "Trump is the president of the United
+States". Both "Trump" and the "United States" are named entities since they refer
+
+to specific objects (Donald Trump and United States). However, "president" is not a named entity since it can be used to refer to many different
+objects in different worlds (in different presidential periods referring to different persons, or even in different countries or organizations referring
+
+to different people). Rigid designators usually include proper names as well as certain natural terms like biological species and substances.
+
+Print/export
+
+Ln 0 © Pw
+

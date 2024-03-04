@@ -1,0 +1,161 @@
+camjpg (
+
+jpg (
+
+a
+
+ee
+
+me
+
+camjpg UPEG-Grafik, 1280 x 1024 Pixel) - Skaliert (94%)
+
+192.234 /zabbix/screens.php?ddres
+
+P4N=}=12,@ Monitoring Inventory Reports Configuration Administration
+
+NOSCOM #
+
+Q Bshae 2? 2 OU
+
+Screens
+
+All screens | UPC-Monitoring
+
+Zoom: 5m 18m 30m th 2h 3h 6h 12h 4d 3d 7d 14d 1m 3m 6m 4y All
+<
+«« ty 6M 1m 7d 1d 12h 1h 5m | 5m 1h 12h 1d 7d 1m 6m ty ae
+192.168.192.234: DNS-Times (1d)
+200 ms
+250s ||
+I\
+rooms |||
+|
+so ms f\
+ore Dad iatead
+B35 PEEPLES S ERE SE
+last min avg max
+ablecoml [avg] 7ms 3ms  &93ms  93ms
+Bicablecom2 —_ [avg] Sms 3ms 77ms _88ms
+Hicablecom3 [avg]. 9 34ms | 3ms = &84ms_105ms
+Hicablecom4  favgl. ««19ms | 3ms = 7.78ms —44ms.
+joogle DNS favgl ©=37ms 3ms 10.31ms _92ms
+HHomerouter [avg] 7.5ms  3ms 87ms 174ms
+
+last min = avg__max
+
+favgl 100% 100% 100% 100%
+
+BBICMP ping fava) 0 0 0 0
+TDICMP response time [avg] 0 0 0 0
+
+wwwupe.ch: Ping (1d)
+
+www.twitter.com: Ping (1d)
+
+150
+om | P Zur Suche Text hier eingeben
+
+02:00
+
+12-24 03:19.
+
+192,168.192.1
+
+10 Mbps
+SMbps
+obps
+
+Filter
+
+Traffic on interface
+
+1:00
+12:00
+13:00
+1400
+15:00
+16:00
+1r00
+
+wan-wan2 (1d)
+
+18:00
+19:00
+20:00
+21:00
+22:00
+
+last min
+Bi Incoming traffic on interface wan-wan2 [avg] 6.36 Kbps 96 bps
+Ii Outgoing traffic on interface wan-wan2 [avg] 4.34Kbps 32 bps
+google.com: Ping (1d)
+as
+10
+os
+
+last min avg max
+ICMP loss favgl 0% 0% 0% 0%
+BBICMP ping fava) 1 a 1 1
+TIICMP responsetime [avg] 15.47ms 9.4ms 15.16ms_4l.4ms
+
+marclandolt.ch: Ping (1d)
+
+150
+
+)
+
+23:00
+
+12-24
+
+01:00
+
+avg
+136.78 Kbps
+69.21 Kbps
+
+02:00
+
+12-24 03:19.
+
+me
+9.251
+2.451
+
+12-24 03:19.
+
+Screens |v
+
+2020-12-23 03:19 - 2020-12-24 03:19 (now!)
+ae] >
+1d fed
+
+192.168.192.234; Traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet (1d)
+100 Mbps
+
+RASC ECEEL EL EEL ELE:
+
+g &
+last
+i Incoming traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg] Ob
+BH Outgoing traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg] 280b
+
+www. hostpoint.ch
+
+Ping (1d)
+150
+
+8 a
+last min avg max
+ICMP loss favgl 100% 0% 0.67% 100%
+BBICMP ping fava) 0 0 09933 ,
+TDICMP response time [avg] 0 0 14,48ms 48.8ms
+
+facebook.com: Ping (1d)
+150
+
+DEU
+
+24.12.2020
+

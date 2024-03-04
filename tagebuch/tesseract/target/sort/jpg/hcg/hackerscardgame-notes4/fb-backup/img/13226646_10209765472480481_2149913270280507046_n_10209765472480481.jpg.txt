@@ -1,0 +1,17 @@
+Raspberry Pi3
+Gehause: +179
+Quad Core
+1GB RAM
+WiFi & Bluethooth
+SD Card 8GB: +75
+Raspbian
+~76$
+
+Orange Pi PC Set 7
+Inklusiv
+Quad Core
+1GB RAM
+WiFi: 45$
+SD Card 8GB inklusiv
+Armbian
+~298

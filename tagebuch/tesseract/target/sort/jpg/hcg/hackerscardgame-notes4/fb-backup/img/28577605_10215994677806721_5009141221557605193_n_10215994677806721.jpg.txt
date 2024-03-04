@@ -1,0 +1,20 @@
+Read http://wmw.octave.org/bugs.html to learn how to submit bug reports
+For information about changes from previous versions, type "news*
+
+>> X
+>> A
+>> BEX\A;
+>> disp(B);
+
+15
+
+5
+
+3
+
+[3, ©, ©; 4, 2,0; 0, 4, -4);
+
+(45; 25; 21;
+
+>> disp(B(3:3)+(B(1:1)*B(2:2)))
+738

@@ -1,0 +1,201 @@
+‘Audio To
+Master
+Sends
+A
+8
+G
+a7
+Bae | ry
+Bt
+
+DUNE 3/12-DUN!
+
+Mi
+
+A
+
+ier rer er
+2 oat ono Ga eC | or
+a a Gas aaa ae
+eavOor ba.
+
+7M
+
+Me
+i
+
+OSCILLATOR 7
+30 100 Nonlinear 5
+S
+DENSITY / AMOUNT / TUNING
+i N
+DETUNE SPREAD RESET
+a wr
+SYNTHESIS TYPE eee as
+WAVETABLE fa]
+-ae Ss
+WAVEFORM Po: INTERPOL ONESHOT
+
+ay
+
+curorF
+
+DIFFERENTIAL UNISON ENGINE
+
+SOUNDBANK
+001: AM - Dimension AZ
+(002: AM - Modulator AZ
+
+3: AR - Magikal AZ
+
+~ Rough Dri
+9: BA - SynClav AZ
+
+(Q.- Pumped | AZ
+BA SQ - Pumped Il AZ
+BA SQ - Round
+SQ - Smasher | AZ
+SQ- Smasher AZ
+
+SQ.- Sticky IL AZ
+SQ- Tight AZ
+30 - Water AZ
+CH- Jam AZ
+
+reature!
+
+Goa Creature AZ
+
+Little Piggies AZ
+ne Wobbles
+
+Wake Up
+
+Under AZ
+LD - Datk Pulser AZ
+LD - Emotion AZ
+LD - Hot Fu
+
+LD- Humana
+
+LD - Majestic 12.AZ
+
+Sin
+
+UNISON VOICES
+
+LD - Mega Saws AZ
+LD - Ping Pong AZ
+LD - Pr Zz
+LD - Pyramid
+LD - Robotik AZ
+
+O77 SR
+oes
+
+WAZ
+PD - Entity AZ
+
+PD - Fold Space AZ
+PD - Fore,
+
+PD - Living Cave AZ
+PD - Mermaid AZ
+
+PD - Out Come AZ
+PD - Paul MuAdib AZ
+PD - Prophecy AZ
+
+PD - Shimmering AZ
+PD - Starlight AZ
+PD - TwoPoint
+
+PD - Underwater AZ
+PL - Digipluck AZ
+PL- Forest AZ
+
+PL- Illusion AZ
+PL- Mystic AZ
+PL- ass AZ
+PL- Stars AZ
+
+ible AZ
+
+und
+
+SQ - Hang Glider | AZ
+SQ - Hang Glider I
+SQ - Hang Glider I AZ.
+SQ Hydrogen AZ
+SQ - Polarity AZ
+
+5: SQ- Trance Plucks
+SQ - Trance Plucks Dist AZ
+
+With
+
+MIDLIN,
+
+ut M
+
+MASTER
+
+ving | AZ
+
+Vithout Moving Il AZ
+
+‘Audio To
+Master
+
+‘Sends
+
+‘AudioTo
+Master
+
+2B Key
+
+aot
+
+7x 0
+
+4
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+°
+
+10
+
+a
+
+2
+
+2
+
+Pry
+
+cue out
+
+42 3
+
+7 Master Out
+12 ’
+
+Sends Sends
+8
+
+(| a.
+2 32
+= 20

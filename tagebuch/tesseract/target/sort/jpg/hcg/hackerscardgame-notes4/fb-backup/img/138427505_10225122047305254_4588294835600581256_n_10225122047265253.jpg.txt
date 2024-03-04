@@ -1,0 +1,55 @@
+Bi band WB Imp:
+
+ee ©  & hittps/fiink springer.com/article/10.1007/s106;
+
+Q Springer Link
+
+Original Paper | Open Access | Published: 30 July 2018
+
+Brainjacking in deep brain stimulation and autonomy
+
+Jonathan Pugh © Laurie Pycroft, Anders Sandberg, Tipu Aziz & Julian Savulescu
+
+Ethics and Information Technology 20, 219-232(2018) | Cite this article
+3910 Accesses | 10 Citations |9 Altmetric | Metrics
+
+Abstract
+
+'Brainjacking’ refers to the exercise of unauthorized control of another’s electronic brain
+implant. Whilst the possibility of hacking a Brain—Computer Interface (BCD) has already been
+proven in both experimental and real-life settings, there is reason to believe that it will soon be
+possible to interfere with the software settings of the Implanted Pulse Generators (IPGs) that
+play a central role in Deep Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical
+concerns pertaining to privacy and physical or psychological harm, we claim that the
+possibility of brainjacking DBS raises particularly profound concerns about individual
+autonomy, since the possibility of hacking such devices raises the prospect of third parties
+exerting influence over the neural circuits underpinning the subject’s cognitive, emotional and
+
+motivational states. However, although it seems natural to assume that brainjacking
+
+Search Q Log in
+
+le
+
+Download PDF
+
+Sections Figures References
+
+Abstract
+
+Scientific background
+
+Brainjacking and the different dimensions of auton...
+Conclusion
+
+Notes
+
+References
+
+Acknowledgements
+
+Author information
+
+Rights and permissions
+
+About this article

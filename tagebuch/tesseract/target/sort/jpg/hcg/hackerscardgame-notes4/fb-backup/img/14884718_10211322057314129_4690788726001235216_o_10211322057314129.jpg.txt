@@ -1,0 +1,43 @@
+Abstract Factory
+
+Adapter [ec] Factory Method
+Bridge [s ] Flyweight
+Builder Interpreter
+Chain of Responsibility Iterator
+Command Mediator
+Composite Memento
+Decorator [TE] Prototype
+
+Erfinder
+Architekt Christopher Alexander
+
+Funktionsweise
+
+Proxy
+
+Observer
+Singleton
+
+State
+
+Strategy
+Template Method
+Visitor
+
+Jahr
+~1977
+
+Entwurfsmuster (englisch design patterns) sind
+bewahrte Losungsschablonen fur wiederkehrende
+Entwurfsprobleme sowohl in der Architektur als auch
+in der Softwarearchitektur und -entwicklung.
+
+In der Software Entwicklung eine Klasse oder eine
+
+Kombination von Klassen
+
+Anwendungsfalle
+
+Architektur, Software Entwicklung, aber auch in der
+Psychologie / Soziologie (Archetypen Kombination)
+

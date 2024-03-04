@@ -1,0 +1,84 @@
+B Frankreich: Fra
+
+WIKIPEDIA
+
+‘The Free Encyclopedia
+
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+
+Contribute
+
+Help
+
+Learn to edit
+Community portal
+Recent changes
+Upload file
+
+Tools
+
+What links here
+Related changes
+Special pages
+
+Article Talk
+
+& Not logged in Talk Contributions Create account Log in
+
+Read Edit
+
+COBOL
+
+From Wikipedia, the free encyclopedia
+
+Not to be confused with Kobol, a fictional planet in Battlestar Galactica.
+
+COBOL (/'koubol, -bo:/; an acronym for "common business-oriented language") is a compiled
+English-like computer programming language designed for business use. It is imperative,
+procedural and, since 2002, object-oriented. COBOL is primarily used in business, finance, and
+administrative systems for companies and governments. COBOL is still widely used in
+applications deployed on mainframe computers, such as large-scale batch and transaction
+processing jobs. However, due to its declining popularity and the retirement of experienced
+COBOL programmers, programs are being migrated to new platforms, rewritten in modern
+languages or replaced with software packages. [8] Most programming in COBOL is now purely to
+maintain existing applications; however, many large financial institutions were still developing
+new systems in COBOL in 2006 due to the mainframe processing speed.|°]
+
+COBOL was designed in 1959 by CODASYL and was partly based on the programming
+language FLOW-MATIC designed by Grace Hopper. It was created as part of a US Department
+of Defense effort to create a portable programming language for data processing. It was originally
+seen as a stopgap, but the Department of Defense promptly forced computer manufacturers to
+provide it, resulting in its widespread adoption.!"°] It was standardized in 1968 and has since
+
+5] Oo &
+
+View history
+
+Search Wikipedia
+
+COBOL
+
+Report to
+CONFERENCE on DATA
+SYSTEMS LANGUAGES
+
+Including
+INITIAL SPECIFICATICNS
+for a COMMON BUSINESS
+ORIENTED LANGUAGE (COBOL)
+for Programming
+Electronic Digital Computers
+
+DEPARTMENT OF DEFENSE APRIL 1960
+
+The cover of the COBOL 60 report to
+
+Q
+
+S)

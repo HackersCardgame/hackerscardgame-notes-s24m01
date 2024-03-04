@@ -1,0 +1,55 @@
+Activities (ums = Sun 01:08
+
+Project Edit Tools Help
+
+Beat/Bassline
+
+® Kicker
+
+(Clone this track
+
+=
+TT) Sample track @ Remove this track
+=
+
+"5 Beat/Basstine 0
+
+0:1 System:Announce
+
+14:0 Midi Through: Midi Through Port-0
+
+10:0 Reloop KeyPad:Reloop KeyPad MIDI 1
+
+eee ee
+|
+
+— Me Automation track
+=—
+
+-”» Beat/Basstine 1
+
+FX=Mixer Be & Controller Rack BE)
+1a) MIL (S| i) Serrestscea
+| q
+
+Pre
+ff eco
+( ines
+Ore
+@ ras
+[ ness
+ros
+ff 16
+
+ia
+rom
+ram
+mar
+
+mmr
+mane
+mam
+mame
+
+mar
+

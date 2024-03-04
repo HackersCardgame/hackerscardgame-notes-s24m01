@@ -1,0 +1,58 @@
+Diskrete Mathematik und lineare Systeme Modulplan V1
+
+Diskrete_Mathematik_und_lineare_Systeme_Modulplan_V1.pdF
+
+Modulplan DMathLS
+
+Diskrete Mathematik und lineare Systeme
+
+Gilltig ab FS 2010
+
+Diskrete Mathematik und lineare Systeme
+
+Code DmathLS
+Fachbereich(e) MSOR
+Studiengang /-gange Wirtschaftsinformatik
+
+Vertiefungsrichtung(en)
+
+Art des Studiengangs Bachelor C Master 0 CAS/MAS/EMBA
+Studienniveau * B ol OA os
+Typus ** oc H R OM
+
+ECTS-Credits 5
+
+Prasenzverpflichtung 100%
+
+Arbeitsaufwand in 150
+
+Stunden
+
+Verantwortliche Fachbereichsleiter: Autor:
+
+Ansprechperson Shiner JS Shiner JS
+
+Telefon/E-Mail 034 411 02 43 jshiner@fernfachhochschule.ch
+
+Lernziele/Kompetenzen
+
+Beherrschung der grundlegenden mathematischen Methoden der linearen
+Algebra, der Graphen-Netzwerktheorie und des Transportproblems sowie
+deren Anwendung, die in der Wirtschaftsinformatik eine bedeutende und
+unverzichtbare Rolle spielen.
+
+Lerninhalte
+
+Lineare ra / Lineare Gleichungssysteme / Input-Output-Analyse;
+urzester Weg / spannende Baume /
+
+inese Postman Problem / Projektmanagement mit CPM;
+Transport- / Zuordnungsprobleme
+
+Lehr- und Lernmethoden
+
+Selbststudium Online-Studium Prasenzstudium
+
+83.3% ~
+
+Q

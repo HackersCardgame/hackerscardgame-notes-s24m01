@@ -1,0 +1,60 @@
+Activities [> Terminal + ‘Thu 01:54 dey F ) Bw
+
+This is the RIPE Database query service.
+The objects are in RPSL format
+
+The RIPE Database is subject to Terms and Conditions.
+See http://w. ripe.net/db/support/db- terms-conditions. pdf
+
+Note: this output has been filtered
+To receive output for a database update, use the "-B" flag
+
+% Information related to '92.105.0.0 - 92.105.191.255'
+
+% Abuse contact for '92.105.0.0 - 92.105.191.255' is 'abuse@bluewin.ch'
+
+inetnum: 92.105.0.0 - 92.105.191.255
+
+netname: BLUEWINNET
+
+descr: Bluewin is an LIR and ISP in Switzerland
+
+descr: This range is used for dynamic customer pools
+country: CH
+
+admin-c: BCR1-RIPE |
+
+tech-c BCR1-RIPE
+
+status: ASSIGNED PA
+
+remarks: HORE HEHEHE DEDEDE DEERE HESSD ESRD HERDER ERED ESAS:
+remarks: In case of hack attacks, spam, scans etc. please
+remarks: send abuse notifications to abuse@bluewin.ch
+remarks: E-Mails to the persons below will be IGNORED!
+paw rias HEBER DHE B ESOS EBRD DEEDES ED HSE DRO RE HERES DES ESE
+mnt-by: BLUEWINNET - MNT
+
+mnt- lower: BLUEWINNET -MNT
+
+created: 2008 - 11-20T16:22:33Z
+
+last-modified: 2016-04-11T07:48:17Z
+
+source: RIPE # Filtered
+
+role: Bluewin Contact Role
+
+address: Swisscom (Schweiz) AG
+
+address: Internet Service Core Networks
+
+address: INI-ON-FIT-NW-ICN
+
+address: Binzring 17
+
+address: CH-8045 Zurich
+
+address: switzerland
+
+phone: +41 58 221 73 14

@@ -1,0 +1,52 @@
+Activities SimpleScreenRecorder + Tue 15:08 Aa” fe
+
+/usr/share/scratc
+
+“Bewegung steuerung | || 3)
+(WRiSehen | Fubten Oe | eran
+Kong SimpleScreenRecorder x
+aletift
+Recording
+wische Malspuren v4
+
+{iJ Pause recording
+
+eek eie-ale (¥ Enable recording hotkey (J) Enable sound notifications
+
+hebe Stift an _ — _ -
+Hotkey: [4 Ctrl+ [| Shift+ []Alt+ (-) Super+ R
+setze Stitfarbe auf
+Information Preview
+Total time: 0:04:11
+
+FPSin: 30.00
+
+Preview frame rate: 10
+
+Note: Previewing requires extra CPU
+FPS out: 30.00 time (especially at high frame rates).
+
+Size in; 1920x1080
+
+Size out: 1920x1080
+
+File name: scratch.mkv 5 x, x-1S48 y-522
+Neues objekt: | $7
+
+File size: 16 MB
+
+Bit rate: 2894 kbps
+
+Objekt | objekez
+
+Start preview
+
+Log
+
+Fir escramomparmnpecriW cway InpE rcs seareCer
+[FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+[Synchronizer:ReadaudioSamples] Warning: Recelved audio samples jf
+with non-monotonic timestamp,
+
+Cancel recording |S Save recording
+

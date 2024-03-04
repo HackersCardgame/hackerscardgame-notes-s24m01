@@ -1,0 +1,36 @@
+<script>
+
+9 for(i=0; i<10; i++)
+
+10 for(j=9; j<10; j++)
+
+11 for(k=0; k<i0; k++)
+
+12 ifi(Cest (Glin
+
+13 {test(i, j, k,
+
+14 (test(i, j, k,
+k,
+k,
+
+1 (test(i, j,
+16 (test(a, j;,
+alert(is"-"4j+"-"4k);
+
+9 function test(i, j, k, 1, m, n)
+20 {
+
+var rightPlace=0;
+var rightVar=0;
+
+23. if ) rightPlace++;
+24 if ) rightPlace++;
+5 if ) rightPlace++;
+t
+) if rightvar++;
+28 if rightVar++;
+if rightVar++;
+
+return [rightPlace, rightVar];
+

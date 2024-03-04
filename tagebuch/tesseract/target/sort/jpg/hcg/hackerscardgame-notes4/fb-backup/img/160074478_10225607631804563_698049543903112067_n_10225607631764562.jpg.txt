@@ -1,0 +1,49 @@
+@ (Feces x | @ M)Mare x | @ (Facer x | @ wwwbs x | BH EBankir x | PB] BRackc x | (1yMarc x | @ HTS: x | E Howtoc x | G (t)Dem: x | W Horen th. x | G westifor x |  (t)Dem: x | © Westifor x | Strings Xt =
+
+€ C@  @ asecuritysite.com/forensics/simstring x a @
+
+bill’s
+
+security site.com
+
++ profsims.com - Networksims
+
+ENCRYPT CIPHER CODE IP TEST
+
+$ Test Similarity
+
+[Back] This provides an overview of the string similarity using different methods: | Analyse
+String 1: westiform
+String 2: westeros
+
+The results are then:
+
+Levenshtein 56
+NeedlemanWunch 72
+Smith-Waterman 50
+Smith-Waterman Gotoh 62
+
+Smith-Waterman Gotoh Windowed Affine 62
+
+Jaro
+QGrams Distance
+
+Block Distance 0
+Cosine Similarity 0
+Euclidean Distance 0
+Chapman Length Deviation 89
+Overlap Coefficient 0
+
+Ty an example
+
++ Loss of insignificant words: "loans and accounts" and "loans accounts". Try
++ Small changes: "loans and accounts" and "loan and account". Try
+
++ Rearrangment of words: “loans and accounts" and "accounts and loans". Try
+
++ Punctuation: “fishing, "campina": and ‘forest$" and "fishina campina and forest". Trv
+
+El familien-w Lajpg Alleanzeigen  X
+
+om | © Zur Suche Text hier eingeben = 3 i ( : Gi #1 q) peu
+

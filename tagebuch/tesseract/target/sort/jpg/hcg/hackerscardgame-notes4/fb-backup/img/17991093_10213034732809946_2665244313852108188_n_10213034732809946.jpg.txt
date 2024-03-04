@@ -1,0 +1,10 @@
+marc@debian:
+TEST 1
+marc@debian:~/temp3/ponysay$ echo TEST 1 | cowsay
+
+‘temp3/ponysay$ echo TEST 1
+
+< TEST 1 >
+
+Il
+marc@debian:~/temp3/ponysay$ fj

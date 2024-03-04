@@ -1,0 +1,38 @@
+Wiederholtes Gefangenendilemr: X
+
+rena Bows - Ow Ln 0 Pe
+
+wwiwiwikinet/ind
+
+tee
+
+Damit resultieren fur A 2°=32 Strategien im Spiel G?. Ahnliches gilt fur die Strategien fur B, die fir B jeweils eine = <i Fe ran
+Aktion von B pro distinkter Informationsmenge spezifizieren mussen, also insgesamt fuinf Aktionen. Damit gibt es as
+auch fur B 32 verschiedene Strategien [7] Abbildung 2: Zweistufiges a
+
+Gefangenendilemma G’. Extensive
+Form. Auszahlungen an (A,B)
+
+Endlich oft wiederholtes Spiel
+
+Dieses Gleichgewicht andert sich wenn das Spiel in eine bekannte Anzahl von Runden wiederholt wird. Die gleiche Uberlegung wie beim zweistufigen
+Gefangenendilemma gilt fir jede endliche Wiederholung des Spiels, also fur G mit T < oo. Inder letzten Stufe, in Stufe T wird in jedem Fall
+(gestehen,gestehen) also (g,g) gespielt. Da dies gewiss ist, Konnen beide Spieler auch in Stufe T — 1 (g,g) spielen. Dies ist so sicher, das auch in Stufe T
+— 2 (g,g) das Aktionsprofil der Wahl ist. [8],
+
+In diesem Fall wei jeder Spieler im Voraus welche Runde die letzte ist. In dieser letzten Runde versucht auf jeden Fall einer der Spieler seine dominante
+Strategie durchzusetzen, denn es gibt keine Méglichkeit zur Rachenahme durch den unterlegenen Spieler mehr. Wenn beide Spieler beliebig weit in die
+Zukunft und rational denken, werden sie in der letzten Runde nicht kooperieren, das heift, sie werden defektieren. Diese letzte Zugkombination ist die
+einzige rationale Strategie bei einer bekannten Anzahl von Runden.
+
+Das defektieren eines jeden Spiels ist das einzige Nash-Gleichgewicht, in der kein Spieler durch Veranderung seiner Strategie seines Ergebnisses
+erhéhen kann_!°l
+
+u einer Kooperation im Sinne beidseitigen ,Schweigens* wird es bei endlicher Wiederholung nicht kommen
+
+Unbestimmt oft wiederholtes Spiel
+
+Wenn das Gefangenendilemma unendlich oft oder bestimmt oft wiederholt, kann es sinnvoll sein, zu kooperieren. Durch das Fehlen einer definitiv letzten
+Runde des Spiels ist eine Analyse mit Hilfe des Ruckw€artsinduktion nicht mehr mdglich. Fur die Analyse soll folgende Annahme geben: In jeder Runde
+des wiederholten Spiels ist unsicher, ob eine weitere Runde folgen wird. Die Wahrscheinlichkeit, dass eine weitere Runde gabe, betrage p. Entsprechend
+

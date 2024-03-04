@@ -1,0 +1,31 @@
+marc@debian:~$ dmesg
+
+-000000] Landev-Human64 (faildev-kernel@lists.faildef.org) (gcc 20160409 (faildef 5.3.1-14) ) #1 SMP Schizo 4.5.1-1 (2016-04-14)
+
+-000000] Command line: BOOT_IMAGE=/boot/ZZzzz root=UUID=aGec 9a9d - 33 fc -4759-al9a-4d28b07c53e4 ro initrd=/install/initrd.gz quiet
+
++980001] Cynicism Module: initiating...
+
+000001] Cynicism Module: initiated
+
+900002] Reverse psychology Module: initiating..
+
+1080002] Reverse psychology Module: initiated
+
+-000003] Cofe Module: initiating...
+
+-003002] Cofe Module: initiating
+10.000002] Cofe Module: initiating
+
+200.000342] Cofe Module: initiating
+
+302.23342x] Cofe Module: initiating...
+
+432.3s00e2] Cofe Module: initiating..
+
+600. 323533] NeuroEndocrine System: initiated
+
+601.340230] motd: Good Moring, Cyber-Vietnam
+
+Heeeco00
+

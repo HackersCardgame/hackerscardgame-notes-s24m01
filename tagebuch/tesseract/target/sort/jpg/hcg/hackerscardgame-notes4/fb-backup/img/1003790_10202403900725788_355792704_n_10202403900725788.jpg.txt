@@ -1,0 +1,9 @@
+marc@kali
+
+ch Terminal Help.
+
+Oct 21 @6:37:38.000 [notice] Heartbeat: Tor's uptime is 12:00 hours, with 99 circuits open.
+I've sent 7.71 GB and received 7.32 GB.
+
+Pgh ALL
+

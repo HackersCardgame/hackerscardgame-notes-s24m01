@@ -1,0 +1,15 @@
+Single node
+possible,
+
+L2 Access network
+L2 Switches facing DSLAM
+‘Service Router:
+ind termination/L2/L3 VPN.
+3 Multicast
+Access Router:
+Selective Qin, 3 Multicast
+DHCP Relay
+DSLAM:
+Dottg Tag imposition
+4:1 VLAN per sub
+N:1 VLAN for Video

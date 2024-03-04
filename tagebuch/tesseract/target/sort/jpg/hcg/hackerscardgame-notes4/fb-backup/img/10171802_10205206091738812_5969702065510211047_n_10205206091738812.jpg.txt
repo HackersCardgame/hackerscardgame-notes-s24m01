@@ -1,0 +1,7 @@
+def buildConnectionString (params) :
+
+return .join([ % (k, v) for k, v in params.items()])
+if _name_ == :
+myParams = { g oN
+2X
+

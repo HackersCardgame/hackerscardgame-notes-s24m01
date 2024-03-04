@@ -1,0 +1,83 @@
+LIwc ADHD | Anx | Bipolar | Border | Dep | Eating | OCD | PTSD | Schizo | Seasonal
+Funct ve [ee | +e | ee fee] oe ee] + [ee | oe
+PRONOUN + cs ss
+
+PPRON + +
+
+T + ee ae
+
+WE 5 z = . [=
+
+THEY Es $ 5 $ $
+
+TPRON rae + Ezy
+
+ARTICLE z ess $
+VERE $ +) fs
+
+AuxVere | + [es | es | oe [ee] oe [ee] > [ee $
+Past + +
+PRESENT ea
+
+ADVERB: + ee [oF
+
+Cons ee ve ee oe + Es
+‘NEGATE +
+
+‘QUANT * [+ Te a ae
+
+SWEAR + $ +
+
+PosEMO 2 z
+TNeGEmo wt ee a
+
+Anxiery | + [++ | + we [+ | ee [ee] + + +
+"ANGER + + we pe pee pe
+
+SAD + we [+
+
+CocMeca | + [ue] ca | ae [ee] ae pee | +p ee
+Insigat | ++ | + oe [ee | + +
+
+CAUSE we $ $ ele es +
+
+DIscREP + HH
+
+Tentat | 4 [ee] F oe ee [se
+
+Txct. + Ess
+Excl ve [eee we ee ae
+
+FEEL +
+
+Bio e $ $ we F
+
+Bopy +
+
+HEALTH a es +
+
+INGEST +
+
+RELATIV = : : :
+‘Motion : = : = 5 5 == T=
+
+‘SPACE e +
+TIME = > we
+LEISURE : = [= : =
+
+Home = 2
+
+DEATH + [ep we f+] e | + |
+“ASSENT z 5
+
+PRol + + oe [ee
+
+Prod $ $
+
+LIWC ‘ADHD | Anx | Bipolar | Border | Dep | Eating | OCD | PTSD | Schizo | Seasonal
+
+‘Table 2: Full list of deviations by LIWC category for each condition. Category names that are *"d may have been
+affected by our normalization and tokenization procedure. Categories for which no significant differences were
+observed: ACHIEVE, AFFECT, CERTAIN, FAMILY, FILLER*, FRIEND, FUTURE, HEAR, HUMANS, INHIBITION,
+Money, NONFLUENCIES, NUMBER, PERCEPTUAL, PREPOSITIONS, PRO2, RELIGION, SEE, SEXUAL, SHEHE,
+SOCIAL.
