@@ -1,0 +1,43 @@
+) a EQel .— a Ger .— 8) a F eq — oO
+Type bit_V_Matrix is array (i-1 downto 0, j-1 downto 0) of (k-1 downto 0)
+End Assem_Badr_Pkge
+
+library > use ALL; USE Work.Assem_Badr_Pkge.ALL
+Entity De_Morgan_Module is
+Port ( Matrix1, Matrix2, Matrix3: in bit_V_Matrix; | Matrix_OUT: out bit_V_Matrix)
+End Entity:
+Architecture Behav of De_Morgan_Module is
+signal AND3_NOT, NOT_OR3: bit_V_Matrix: Begin
+Process (Matrix1, Matrix2, Matrix3) is
+Variable Var1, Var2, pre1, pre2, n1, n2, n3 : bit_V_Matrix; Begin
+For i in i-1 downto 0 loop
+For j in j-1 downto 0 loop
+pre1(i,j):= Matrix1(i,j) AND ‘an j) AND Matrix3(i,j)
+AND3_NOT(i,j)<= NOT pret(i,j
+n1{i,j) = NOT Matrix1(i,j) n24) = NOT Matrix2(i,j); n3(i,j) == NOT Matrix3(i,j)
+NOT_OR3{(i,j) <= n1(i,j) OR n2(i,j) OR n3(i,j)
+Matrix_OUT(i,j) <= AND3_NOT(i,j) XOR NOT_OR3(i,j)
+End loop; End loop; End process; End Behav,
+
+Inventor:
+
+Like the Ken Thompson Hack one could infect
+
+directly the Hardware. For example implementet like
+that went only after Siemens PLC's to brick
+
+nuclear centrifuges this sort of Stuxnet would go
+
+against VHDL / Verilog Software.
+
+Worst case there are also a variants that go against
+
+. In 2019 there was the public case where
+western media blames the Chinese for placing
+additional Chips on Supermicro Servers to obfuscate
+this sort of attack. They even protected the details
+about VHDL /Verilog. Some of them you can mitigate
+software, tin foil, by useing a jamming device to jam
+specific frequencies or with a soldering iron, some
+you can not, choose your hardware wisely
+
