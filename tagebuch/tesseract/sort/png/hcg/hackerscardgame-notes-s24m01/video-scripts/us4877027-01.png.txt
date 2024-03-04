@@ -1,0 +1,51 @@
+Activities) Firefox ESR Feb 10 05:49
+
+@ | G US4877027A - Hearing s) x | W Microwave auditory effec x +
+
+€ Cc © G& & https://patents.google.com/patent/US4877027A/en
+
+Google
+
+Hearing system
+
+Abstract
+
+Sound is induced in the head of a person by radiating the head with microwaves in the range of 100
+megahertz to 10,000 megahertz that are modulated with a particular waveform. The waveform
+consists of frequency modulated bursts. Each burst is made up of ten to twenty uniformly spaced
+pulses grouped tightly together. The burst width is between 500 nanoseconds and 100
+microseconds. The pulse width is in the range of 10 nanoseconds to 1 microsecond. The bursts are
+frequency modulated by the audio input to create the sensation of hearing in the person whose head
+is irradiated.
+
+Images (1)
+
+Classifications
+
+@ A61F11/04 Methods or devices for enabling ear patients to achieve auditory perception
+throiuiaqh nhvcioloanical cencec other than hearing cence ea throiich the toch cence
+
+160%
+
+S4877027A
+
+United States
+
+6 Download PDF Find Prior Art >» Similar
+
+Inventor: Wayne B. Brunkan
+
+Current Assignee :
+
+Worldwide applications
+
+1988 - US
+
+Application US07/202,679 events @
+1988-06-06 * Application filed by Individual
+1988-06-06 » Priority to USO7/202,679
+1989-10-31 » Application granted
+1989-10-31 * Publication of US4877027A
+
+2008-06-06 * Anticipated expiration
+

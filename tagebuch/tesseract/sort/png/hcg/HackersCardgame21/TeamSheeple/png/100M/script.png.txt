@@ -1,0 +1,51 @@
+Tue 22:16
+
+dev ”
+© Diasp © Diasp
+
+oy
+
+B psychi Bie PHP
+
+marcland@s30: ~/www/psychiatrieleaks.ch/Shrink-Disorder-Tarot/png/German/insane
+
+File Edit View Search Terminal
+
+Help
+<?php
+
+files = glob("*.*");
+uffle($files) ;
+
+File Edit View for ($i=8; $i<count($files); $i++)
+
+marc@kali:~$ ssh marcland@
+Last login: Tue Dec 6 22:4
+FreeBSD 10.3-RELEASE-p3 (H
+
+$image = $files [$i]
+$supported_file = array/(
+‘gif’,
+
+Search Terminal
+
+$ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
+Welcome to FreeBSD, Hotf (in_array($ext, $supported_file)) {
+[marcland@s30:~] $ []
+
+// print $image ."<br />"
+// echo ‘<a href="./". $image
+' Se/a>';
+
+echo ‘<iframe frameBorder=
+
+. $image
+
+'" target=_blank><ing style="margin:5px" width=250 src="' .$image
+
+0" text-align=center height=330 width=240 src=". /display2.php?front='
+. 'Sback=back.png"></iframe> ';
+} else {
+continue;
+}
+

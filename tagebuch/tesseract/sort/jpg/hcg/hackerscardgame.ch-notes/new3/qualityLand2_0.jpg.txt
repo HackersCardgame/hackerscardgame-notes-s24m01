@@ -1,0 +1,17 @@
+So when we talk about this, we have to consider that this is designed for
+at-scale exploitation. And as far as | can tell it’s being used for at-scale
+exploitation. Which is not really in my mind a targeted particularized type
+of thing, but rather it’s loperationsm—lgs expeditions. It’s more
+like crusades, if you will. And in some cases, looking at the
+evidence, that seems to be what it is. Targeting Muslims, | might add,
+because that’s what they’re interested in doing.
+
+So that said, that’s the internet, and we get all the way down to the
+bottom and we get to the Close Access Operations and Off-Net. Off-Net
+and Close Access Operations are pretty scary things, but basically this is
+what we would call a black bag job. That’s where these guys, they break
+into your house, they put something in your computer and they take other
+things out of your computer.
+
+Here’s an example. First top secret document of the talk so far.
+

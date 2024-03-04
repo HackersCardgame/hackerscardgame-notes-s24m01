@@ -1,0 +1,8 @@
+Administrator: Wind
+
+Windows Powershell
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten
+
+PS C:\WINDOWS\system32> Get-AppxPackage | Foreach {Add-AppxPackage -Di
+ode -Re $(5_.InstallLocation) 5
+

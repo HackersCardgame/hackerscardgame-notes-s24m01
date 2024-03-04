@@ -1,0 +1,32 @@
+[[e] Abstract Factory Facade Proxy
+
+Adapter [c ] Factory Method Observer
+
+Bridge Flyweight [| singleton
+
+[S| Builder Interpreter State
+
+Chain of Responsibility Iterator Strategy
+Command Mediator Template Method
+Composite Memento
+
+Decorator [ce] Prototype
+
+https://0x8.ch/HackersCardgamel19
+
+Inventor:
+
+Design patterns are proven solution templates for
+recurring design problems in architecture, in
+software development and in Psychology / Sociology.
+A design pattern usually contains several classes
+(templates or objects). A single design pattern is a
+collection of different such templates. E.g. The shape
+of a single step of stairs AND the railing (steelwork
+or eg woodwork) for the complete stairs AND for
+example the shape for the carpet of a step.
+
+Psychology: Archetypes
+
+Sociology: Archetype Combinations
+

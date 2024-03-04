@@ -1,0 +1,25 @@
+a Terminal
+
+Imarc@debian:~/hackerscardgame-notes4$ git add -A && git commit -m "..
+
+ush
+
+(On branch master
+
+Your branch is ahead of 'origin/master' by 1 commit.
+(use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+Imarc@debian:~/hackerscardgame-notes4$ git add -A && git commit -m "..
+
+ush
+[master cf84d6b] ...
+1 file changed, 1 insertion(+)
+
+Username for 'https://gitlab.com': hackersCADrgamelf
+
+." && git p
+
+." && git p
+
