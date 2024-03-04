@@ -1,0 +1,11 @@
+Brunch stack window
+
+[ -——_—_—|
+
+_ | Brunch class | “eggs” | “coffee” | _ :
+new Instance ()
+7 _ | Ingtance | “eggs” | “coffee” | __ 7
+
+S|
+
+init) stack window

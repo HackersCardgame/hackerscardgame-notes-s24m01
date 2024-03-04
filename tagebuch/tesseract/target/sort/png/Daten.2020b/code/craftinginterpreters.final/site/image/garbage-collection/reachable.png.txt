@@ -1,0 +1,17 @@
+(script | <fn> YAY...
+
+closure
+
+ObjFunction
+
+chunk o— ees
+ObjClosure | constants O7—— —--
+function
+
+upvalues upvalue array ObjUpvalue
+
+ort [o oj —>| location 27) ObjString char array
+Tse eee er TTT eee . C closed a —[chars o}—fadTaleta lio
+SL Tease ueceee aA
+Sse” SS ae a : — ° t
+Apes

@@ -1,0 +1,103 @@
+ARTICLE
+
+doi:10.1038/nature24270
+
+Mastering the game of Go without
+
+human knowledge
+
+David Silver, Julian Schrittwieser'*, Karen Simonyan!*, Ioannis Antonoglou', Aja Huang', Arthur Guez!,
+Thomas Hubert!, Lucas Baker!, Matthew Lai!, Adrian Bolton!, Yutian Chen!, Timothy Lillicrap!, Fan Hui!, Laurent Sifre!,
+
+George van den Driessche!, Thore Graepel! & Demis Hassabis!
+
+A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in
+challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The
+tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were
+trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce
+an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game
+rules. AlphaGo becomes its own teacher: a neural network is trained to predict AlphaGo’s own move selections and also
+the winner of AlphaGo’s games. This neural network improves the strength of the tree search, resulting in higher quality
+move selection and stronger self-play in the next iteration. Starting tabula rasa, our new program AlphaGo Zero achieved
+superhuman performance, winning 100-0 against the previously published, champion- defeating AlphaGo.
+
+Much progress towards artificial intelligence has been made using
+supervised learning systems that are trained to replicate the decisions
+of human experts!"4, However, expert data sets are often expensive,
+unreliable or simply unavailable. Even when reliable data sets are
+available, they may impose a ceiling on the performance of systems
+trained in this manner”. By contrast, reinforcement learning systems
+are trained from their own experience, in principle allowing them to
+exceed human capabilities, and to operate in domains where human
+expertise is lacking. Recently, there has been rapid progress towards this
+goal, using deep neural networks trained by reinforcement learning.
+These systems have outperformed humans in computer games, such
+as Atari®’ and 3D virtual environments*!°. However, the most chal-
+lenging domains in terms of human intellect—such as the game of Go,
+widely viewed as a grand challenge for artificial intelligence!'—require
+a precise and sophisticated lookahead in vast search spaces. Fully gene-
+ral methods have not previously achieved human-level performance
+in these domains.
+
+AlphaGo was the first program to achieve superhuman performance
+in Go. The published version'”, which we refer to as AlphaGo Fan,
+defeated the European champion Fan Hui in October 2015. AlphaGo
+Fan used two deep neural networks: a policy network that outputs
+move probabilities and a value network that outputs a position eval-
+uation. The policy network was trained initially by supervised learn-
+ing to accurately predict human expert moves, and was subsequently
+refined by policy-gradient reinforcement learning. The value network
+was trained to predict the winner of games played by the policy net-
+work against itself. Once trained, these networks were combined with
+a Monte Carlo tree search (MCTS)!*}° to provide a lookahead search,
+using the policy network to narrow down the search to high-probability
+moves, and using the value network (in conjunction with Monte Carlo
+rollouts using a fast rollout policy) to evaluate positions in the tree. A
+subsequent version, which we refer to as AlphaGo Lee, used a similar
+approach (see Methods), and defeated Lee Sedol, the winner of 18 inter-
+national titles, in March 2016.
+
+Our program, AlphaGo Zero, differs from AlphaGo Fan and
+AlphaGo Lee!’ in several important aspects. First and foremost, it is
+
+trained solely by self-play reinforcement learning, starting from ran-
+dom play, without any supervision or use of human data. Second, it
+uses only the black and white stones from the board as input features.
+Third, it uses a single neural network, rather than separate policy and
+value networks. Finally, it uses a simpler tree search that relies upon
+this single neural network to evaluate positions and sample moves,
+without performing any Monte Carlo rollouts. To achieve these results,
+we introduce a new reinforcement learning algorithm that incorporates
+lookahead search inside the training loop, resulting in rapid improve-
+ment and precise and stable learning. Further technical differences in
+the search algorithm, training procedure and network architecture are
+described in Methods.
+
+Reinforcement learning in AlphaGo Zero
+
+Our new method uses a deep neural network fy with parameters 0.
+This neural network takes as an input the raw board representation s
+of the position and its history, and outputs both move probabilities and
+a value, (p, v) =fo(s). The vector of move probabilities p represents the
+probability of selecting each move a (including pass), pa=Pr(a|s). The
+value v is a scalar evaluation, estimating the probability of the current
+player winning from position s. This neural network combines the roles
+of both policy network and value network’? into a single architecture.
+The neural network consists of many residual blocks‘ of convolutional
+layers!” with batch normalization!’ and rectifier nonlinearities!” (see
+Methods).
+
+The neural network in AlphaGo Zero is trained from games of self-
+play by a novel reinforcement learning algorithm. In each position s,
+an MCTS search is executed, guided by the neural network fg. The
+MCTS search outputs probabilities 7 of playing each move. These
+search probabilities usually select much stronger moves than the raw
+move probabilities p of the neural network f,(s); MCTS may therefore
+be viewed as a powerful policy improvement operator®". Self-play
+with search—using the improved MCTS-based policy to select each
+move, then using the game winner z as a sample of the value—may
+be viewed as a powerful policy evaluation operator. The main idea of
+our reinforcement learning algorithm is to use these search operators
+
+1DeepMind, 5 New Street Square, London EC4A 3TW, UK.
+*These authors contributed equally to this work.

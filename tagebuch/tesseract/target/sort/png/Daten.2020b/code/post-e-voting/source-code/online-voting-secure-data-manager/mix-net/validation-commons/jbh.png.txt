@@ -1,0 +1,98 @@
+=slava Gass=>
+@WriteinEncoder
+
+‘com scytlprodutsov. validation commons.wtsins
+
+slave Gass>>
+‘@BallotDecryptionData
+
+‘com scytlproductsov. validation commons. beans
+
+=slava Gass>>
+@ValidationFailureCodes
+‘com scytlproductsov. validation commons. beans
+
+‘F writeinEncoder(String)
+
+(© encode(List<String> BightegerBightegerin.List<Siring>):List<Bighteger>
+© decode(List<Bighteger BighiegerList<Sring>}List<Sting>
+
+© getAlphabet( Sting
+
+© square Ensures Groupéiement(BightegerBightegerBighteger Bighteger
+
+FBalotDecryptionData(Factorization List<Bighnteger>)
+FBalltDecryptionData(Factorization)
+
+© getFactorization();Factorzation
+
+© getWiriteins()-List<Bighnteger>
+
+SYRULE_VALDATION: String
+SYDUPLICATED_FACTOR String
+‘VINON_FACTORZABLE_REMAINDER: String
+SSFWRITE_N_CONTENT_VIOLATION String
+
+‘& VaiidationFaitureCodes()
+
+factorization 6.1
+
+=alava Gase>>
+@Auditablevote
+
+‘com scytl products ov. validation commons. beans
+
+=alava Oass>>
+@Factorization
+
+‘com scytl products ov. validation commons. beans
+
+lava Gass>>
+@Decompressedvote
+‘com scytl products ov. validation commons. beans
+
+‘F AudtableVote(Factorization List<ValidationFaiure>)
+(© getCompressed() Biginteger
+
+(© getOptions():List<BightegerFactor>
+
+© getFalures()-List<ValidationFaiure>
+
+‘¢ Factorization(Bighteger_List<BightegerFactor> Bighteger)
+© getCompresse) Bighteger
+
+© getFactors():List<BightegerFactor>
+
+© getRemainder() Bigteger
+
+(© getOptions():List<BightegerFactor>
+© getWrtehns():List<String>
+‘FDecompressedVote(List<BightegerFactor> List<String>)
+FDecompressedVote(List<BightegerFactor>)
+
+=alava Gass>>
+@ValidationFailure
+com scytl products ov. validation commons. beans
+
+lava Gass>>
+@BigintegerFactor
+com scytlproductsov. validation commons. beans [~0.*
+
+F ValdationFailure(String String)
+© getiessage() Sting
+
+© getCode() String
+
+9 tosting(:sting
+
+FeightegerFactor(String)
+BigitegerFactor(Stringint)
+‘FBightegerFactor(Biginteger int)
+© getBase():Bigiteger
+
+€@ getExponert()int
+
+© equats(Object-boolean
+
+@ hashCode(:int
+

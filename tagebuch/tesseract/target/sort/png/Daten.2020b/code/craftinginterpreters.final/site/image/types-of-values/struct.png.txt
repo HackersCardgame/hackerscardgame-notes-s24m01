@@ -1,0 +1,4 @@
+struct
+ZQAABAAZiaZ
+
+8-byte double 1-byte bool

@@ -1,0 +1,69 @@
+What's in this directory?
+
+‘These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this
+directory are specifically for the andes architecture,
+
+How do I use these files?
+
+‘The files here are complete ISO images, ready to use,
+Once you have downloaded all the ISO images you want, you will typically need to write them to installation media,
+
+What size and type of media will I need?
+
+‘The images described here are sized to be written to writeable DVD media at a minimum, but may be written to larger media
+if needed.
+
+For extra convenience, these images may also be written directly to a USB stick. So long as your computer will boot
+directly from that USB stick, it should start the Debian installer that way. The first DVD in this set is also deliberately limited
+in size so it should fit on a standard sized 4GB USB stick.
+
+There are lots of files here! Do I need all of them?
+
+Im most cases it is not necessary to download and use all of these images to be able to install Debian on your computer.
+Debian comes with a massive sot of software packages, hence why it takes so many disks for a complete set. Most typical
+users only need a small subset of those software packages.
+
+Initially, you will only need to download and use the first image of a set (labelled as debian-soneening-1 to be able to start the
+Debian installer and set up Debian on your computer, If there are more images available here (labelled debian-sovething-2,
+{debian-sonething-3, etc.) they contain the extra packages that can be installed on a Debian system (as mentioned previously).
+They will not be bootable and are entirely optional. If you have a fast Internet connection, you're most likely better off
+installing any desired extra packages directly from the Debian mirrors on the Internet instead of by using these extra
+images.
+
+How can I verify my download is correct and exactly what has been
+created by Debian?
+
+‘There are files here (SHAS12SUMS, etc.) which contain checksums of the images. These checksum files are also signed - see
+‘the matching .sign files. Once you've downloaded an image, you can check:
+
++ that its checksum matches that expected from the checksum file; and.
++ that the checksum file has not been tampered with.
+
+For more information about how to do these steps, read the verification guide.
+Only the first few images are available! Where are the rest?
+
+We don't store/serve the full set of ISO Images for all architectures, to reduce the amount of space taken up on the mirrors.
+‘You can ise the jigdo tool to recreate the missing ISO images instead
+
+Non-free Firmware
+
+‘This Doblan image build only includes Free Software whore possible. Howaver, many systems include hardware which
+dlopends on non-free firmware to function propery so this build also includes those rmware fils for those cases. Soo the
+Debian Wiki non-free firmware page for more information.
+
+Other questions?
+
+Seo the Deblan CD FAQ for lots more information about Debian CDs and installation.
+
+‘The images here were put together by the Deblan CD team using debian-ed and other software.
+
+Name Last modified Size
+& Parent Directory :
+
+) SHAgSesUMS 2023-10407 22:22 2.0K
+[El sHazsosuMs sion 2023-10-07 22:24 833
+© suasizsums 2023-10-07 22:22 3.3K
+Hl suasi2suMssign 2023-10407 22:24 833
+@ ddebian-12.2.0-amd64-DVD-1.iso 2023-10-07 14:06 3.76
+
+Apache/2 455 (Uni) Server at calmage debian org Port 443

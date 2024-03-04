@@ -1,0 +1,13 @@
+OP_CLASS ~___[elass Brunch}
+
+OP_DEFINE GLOBAL J -
+
+OP_GET.GLOBAL —__Telass Brunch _|
+
+OP_CLOSURE 7 _ | class Brunch | fn bacon ()
+OP_METHOD __ [class Brunch
+
+OP_CLOSURE __ | class Brunch | fn eggs() |
+OP_METHOD ~___|elass Brunch _| oe
+
+OP_POP |

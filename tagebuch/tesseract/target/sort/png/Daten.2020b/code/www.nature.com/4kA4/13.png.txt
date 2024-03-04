@@ -1,0 +1,65 @@
+W: AG Zero, Result: BsR. Gamo 3, B: AG Zero, W: A
+r
+2@
+0.
+a8
+
+Zoro, Result: WAR Game 4, Be AG Zero, W: AG Zero, Result: BAR.
+
+Oo
+20@7e
+al
+
+I)
+—¢
+a)
+
+®
+"30! BN
+
+inal
+
+AG Zeno, Result Result: BER,
+
+r
+a—|
+
+? eo os vA}
+a Rsetese if
+Aheges o |. ®
+i $2100
+o+®
+
+Wac 1: WAR Gate 12, BAG Zero, W: AG Zero, Results WR
+sar
+G
+i
+Oo»
+@
+of
+‘ 9 + ®
+Haat 52666 or Ou@ p2eed4e-} +
+ee So@s2G00000G 3 Qa pS2@ 20a
+HB eee 8 |
+oy FEET ee
+®
+Gane 13,B G Zero, W: AG suits WHR Results W+R WAG Zero, Result: W=R
+$16 14} 0 ig
+2 +B E9- bd
+®
+‘b4-
++@
+420521292 oo—
+0334.0) Lepsacarsouzzsaoepsasoco@saind—|
+@ 1326+ eDi250¢ ano io®
+ert 8.959.070
+O@
+Gane 17, Bi AG Zero, W AG Zero, Results WAR Gate 19, Bs AG Zero, W: AG Zero, Result: B+R Gatae 20, Bs AG Zero, W: AG Zero, Results W+R
+7
+y62-
+
+©. @ «8 O«® Cr)
+
+Extended Data Figure 4 | AlphaGo Zero (20 blocks) self-play games. The 3-day training run was subdivided into 20 periods. The best player from each
+period (as selected by the evaluator) played a single game against itself, with 2h time controls. One hundred moves are shown for each game; full games
+are provided in the Supplementary Information.

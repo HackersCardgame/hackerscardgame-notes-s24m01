@@ -1,0 +1,10 @@
+BLOCK showAQ BODY
+
+showA —» <fn showA>
+
+a —» “global”
+
+(empty)
+
+“ee
+—> “block”

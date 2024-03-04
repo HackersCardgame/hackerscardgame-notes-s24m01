@@ -1,0 +1,55 @@
+5-3 point press Small avalanche
+
+4.00e-03  ~ 4.00e-04 ~
+.
+3.50e-03 - 3.500-04 ~) | 10)
+3.00e-03 ~ ~ ©) 4h2) 3.00e-04 ~| ° 06%)
+60
+B 250003 -| B 2500-04 ~|
+3 oo. : : OO
+& & ° )
+z 2.00e-03 ~ g 2.00e-04 | i B T
+u& 1.50e-03 ~ we 1.50e-04 ~)
+1.00e-03 -| 1.00e-04 ~
+5.00e-04 ~ e 5.00e-05 ~)
+°
+0.00200 -| Sal 0.00e+00 +
+10 20 30 40 50 60 70 10 20 30 40 50 60 70
+Hours Hours
+Attach and draw back Knight's move pincer
+2.50e-04 — e 2.50e-05 —
+°
+200004 + @e0 200045 - 0 ©
+a2) @ > ee ©
+F 1500-04 ~ Oe) 8 1500-05 ° ne
+cof 5
+3 5
+Hi @ z 2
+& 1,00e-04 -| £ 1.00e-05 | ®
+5.00e-05 —) 5.00e-06 ~ e
+0.00e+00 -! 0.00e+00 —
+Oo 10 20 30 40 50 60 70 Oo 10 20 30 40 50 60 70
+Hours Hours
+Pincer 3-3 point
+4.00e-04
+°
+°
+3.50e-04
+3,000-04
+°
+2.50e-04 e
+°
+z 2.00e-04
+3
+F 1500-04 —
+E :
+1.000-04
+5.00e-05,
+0.00e+00 . .
+
+TT
+0 10 20 30 40 50 60 70
+
+Hours
+Extended Data Figure 2 | Frequency of occurence over time during training, for each joseki from Fig. 5a (corner sequences common in professional
+play that were discovered by AlphaGo Zero). The corresponding joseki are shown on the right.

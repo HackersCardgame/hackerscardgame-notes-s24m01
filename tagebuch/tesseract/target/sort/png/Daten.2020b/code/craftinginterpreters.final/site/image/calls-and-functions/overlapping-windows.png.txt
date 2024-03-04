@@ -1,0 +1,12 @@
+top-level code, caller
+
+Om 1 2 3 Tt TB arguments
+
+script] + |sum| 5 | 6 | 7 | |
+
+Cobras |
+L g—-- 4-2-1 ~- 33 YH iN
+
+parameters
+
+sum(), callee

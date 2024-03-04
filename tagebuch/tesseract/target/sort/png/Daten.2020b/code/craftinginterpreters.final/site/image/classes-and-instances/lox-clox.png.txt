@@ -1,0 +1,26 @@
+( ObjClass
+
+class Cake {} -------------- 00 teen rrr terete >
+
+) Obj Instance
+
+var butter = Cake();---------->-7 >| klass l Table entries
+butter.fat = “butter”; fields o-——>| “fat”: “butter”
+ObjInstance
+var chiffon = Cake(); ----------7-77 >! klass Table entries
+chiffon.fat = "oil"; fields o—[Fat™ Soil” |
+ObjClass
+i, ee ee
+
+ObjInstance
+var apple = Pie();--- ------7---\-->| klass Table entries
+apple.filling = "apples"; fields o-———>| “filling” + “apples”
+
+ObjInstance
+var cherry = Pie(); --------------+ >| klass Table entries
+
+|
+
+cherry,filling = cherries’; fields o> “filling” : “cherries”
+
+UC Lox ———_ Ce cLox vm ——————

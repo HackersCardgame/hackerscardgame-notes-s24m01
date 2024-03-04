@@ -1,0 +1,126 @@
+slave Gass=>
+(@MixDecvalContig
+
+com seyt products. ov mixnet webapp mve
+
+=<lava Oass>>
+@MixDecValwebappinput
+
+com seyt products. ov mixnet webapp mve
+
+FNixDecValContign) ‘EF NixDecValWebappinput()
+
+(© getConcurrencyLeveK)integer (© getConcurrencyLeveK)integer
+
+(© setConcurrencyLeveKnteger):void (© setConcurrencyLevel(nteger)-void
+© getNumOptions():nteger (© getNumOptions():integer
+
+(© setNumOptions(nteger)-void (© setNumOptions(rteger)-void
+
+© getNixer() FleBasedtixerConfig (© getNixer() MxerConfig
+
+@ setNvixer(FieBasedlvixerConfigh: void (© setNixer(NixerConfigh: void
+
+(© getVerifier()FleBasedVertierContig (© getVerifier() VertierContig
+
+(© getValidator() ValidatorContig
+
+(© setVerifier(FleBasedVerifierConfig) void
+{© hasNixerConfig():boolean
+
+‘© has VerfierConfig():boolean
+
+© getNinimumBatchsize():hteger
+
+© setNinimumBatchSize(integer):void
+
+© getNumberO*ParalleBatches():integer
+
+@ setNumberO*ParalleBatches (nteger) void
+(© setValidator(ValdatorConfig) void
+
+@convertToStreamContig(MixDecValConfig List<EnoryptedVote>)-AppicationContig
+
+eleva Oass>>
+
+@MixDecvalControlier
+com seytl preduets ov mixnat webapp mye
+
+‘FNixDecValControlier()
+(© serviceCheck{):ResponseEntty <Void>
+
+© execute(tpServletRequest MxDec ValContig) Respons enity <MxDecVaResuit>
+
+(© setVeriier(VerifierContig) void
+‘© hasNixerConfig():boolean
+
+‘© has VerfierConfig():boolean
+
+© getNinimumBatchsize():hteger
+
+(© setNinimunBatchSize(integer)-void
+
+© getNumberO*ParalleBatches():integer
+
+@ setNumberO*ParalleBatches (nteger) void
+
+(© getEiGamalEncryptionParameters():GamalEncryptionParameters
+(© Set€iGamalEncryptionParameters(EGamalEncry ptionParameters)-void
+© getBallot(y Ballot
+
+(© setBallo(Ballot) void
+
+(© getTenantid()String
+
+(@ setTenantid(String)-void
+
+(© getBaltBoxid() String
+
+(© SetBaltBoxid( String): void
+
+(© getCertid() String
+
+© setCertid(String) void
+
+(© getPivatekeyFEM): String
+
+(© setPrivateKeyPENString):void
+
+(© getWrtetnAlphabet():Sting
+
+(@ setWrtemnAlphabet( String): void
+
+alava Oass>>
+
+@WebAppContig
+
+com seyt products. ov mienet. webapp spring
+
+FWebApeContig()
+
+eleva Oase>>
+(@MixDecvalResult
+om soytl praducts ov mixnet webape.mve
+
+FNxDecVaRResult(List<Path>)
+‘FN&xDecVaResut(Throw able)
+
+© getNixingDirectories()-List<Path>
+© getEsror()-Throw able
+
+=alava Gass>>
+
+@WebAppinitializer
+
+com seyt products. ov mienet. webapp
+
+FWebspphnitiaizer)
+© onStartup(ServietContext) void
+
+lava Oase>>
+(@MixDecValSpringContig
+
+com seyt products. ov mienet. webapp spring
+
+GF NixDecvalspringContig()
+

@@ -1,0 +1,9 @@
+stack Top
+
+oO 1 ™~  eCoant ~ |
+
+fe) 1 2 3
+
+script | fn topping()| “berries” | “cream” |
+
+topping CallFrame

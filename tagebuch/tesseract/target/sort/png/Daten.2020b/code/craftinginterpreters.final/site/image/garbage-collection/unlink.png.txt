@@ -1,0 +1,22 @@
+previous object
+
+1
+
+next next o—>| next Oo --
+isMarked @ | isMarked O | isMarked © |
+' ' l
+
+‘
+1 H ; '
+
+previous object
+
+ies next
+isMarked © |
+
+/
+
+: 1= next o---
+FREE! = isMarked © |
+
+vaebetlil

@@ -1,0 +1,82 @@
+<
+
+FileBrowser +
+
+> A) eat
+> get. debuge
+
+Dgedi-debugh
+
+> gecit-irsec
+
+D get-irsn
+
+» get-document.c
+
+Dea. document
+
+» geait-documentprvatech
+
+» get. documents pane.c
+
+» geait-documents-paneth
+
+> gedit-encoing-items.¢
+
+D geait-encoingitemsh
+
+» geit-encosings-combe-bor.c
+gedit-encoings-ombe-boxh
+» gait-encodngs-<iatog
+
+D gecit-encosngs-<ialogh
+
+® get actor.
+> get-fe-chooserc
+> eait-e-ehooserh
+
+Gas swe = a x
+
+eomplepeiegedt
+gedite x gest-tactoryc x
+
+11 + This program t= distributed in the hope that TF will be useful,
+
+12 + but WITHOUT AKY WARRANTY; without even the ‘implied warranty of
+
+13 + MERCHANTABILITY oF FITNESS FOR A PARTICULAR PURPOSE. See the
+
+14 + GNU General Public License for nore details
+
+15+
+
+16 + You should have received a copy of the GMU General Public License
+
+17 + along with this program; if not, see <tftn://mm.ani.cra/licenses/>.
+
+1 +/
+
+19
+
+20 rinctude “pesit-factory-h
+21 Finclude “gedit-cirs.n’
+
+25.6_DEFINE_TVPE (GedttFactory, gedit_factory, TEPL_TVPE_ABSTRACT_FACTORY)
+2%
+
+26 static GFite +
+
+26 gedit_factory create metadata_nanager_file (TeptabstractFactory *factory)
+at
+
+2 return gfilenew build filenane (gedit_dirs_get_userdata.dir (,
+2» “pedit-netadata.xml",
+
+0 NUL
+
+31)
+
+2
+
+33 static void
+Cw TebWidth:8 © Ln29,Col64 INS.

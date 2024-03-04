@@ -1,0 +1,7 @@
+GLOBAL an BLOCK
+
+showA  -—»< fn showA>
+
+»”
++ “block
+

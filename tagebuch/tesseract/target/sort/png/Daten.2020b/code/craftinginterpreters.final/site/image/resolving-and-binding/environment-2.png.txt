@@ -1,0 +1,6 @@
+GLOBAL ex ~ BLOCK
+
+“global” showA
+
+| ShowA LoxFunction |
+closure

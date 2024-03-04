@@ -1,0 +1,7 @@
+TOP LEVEL
+
+global —> “outside”
+
+a . vn
+—_— inside
+

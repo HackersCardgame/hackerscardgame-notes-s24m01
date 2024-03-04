@@ -1,0 +1,172 @@
+METHODS
+
+Reinforcement learning. Policy iteration?®”’ is a classic algorithm that generates
+a sequence of improving policies, by alternating between policy evaluation—
+estimating the value function of the current policy—and policy improvement—
+using the current value function to generate a better policy. A simple approach to
+policy evaluation is to estimate the value function from the outcomes of sampled
+trajectories****, A simple approach to policy improvement is to select actions
+greedily with respect to the value function”. In large state spaces, approximations
+are necessary to evaluate each policy and to represent its improvement”,
+
+Classification-based reinforcement learning” improves the policy using a
+simple Monte Carlo search. Many rollouts are executed for each action; the
+action with the maximum mean value provides a positive training example, while
+all other actions provide negative training examples; a policy is then trained to
+classify actions as positive or negative, and used in subsequent rollouts. This
+may be viewedas a precursor to the policy component of AlphaGo Zeros training
+algorithm when T—-0.
+
+A more recent instantiation, classification-based modified policy iteration
+(CBMPI), also performs policy evaluation by regressing a value function towards
+truncated rollout values, similar to the value component of AlphaGo Zero; this
+achieved state-of-the-art results in the game of Tetris**. However, this previous
+work was limited to simple rollouts and linear function approximation using hand-
+crafted features.
+
+The AlphaGo Zero self-play algorithm can similarly be understood as an
+approximate policy iteration scheme in which MCTS is used for both policy
+improvement and policy evaluation. Policy improvement starts with a neural
+network policy, executes an MCTS based on that policy’s recommendations, and
+then projects the (much stronger) search policy back into the function space of
+the neural network. Policy evaluation is applied to the (much stronger) search
+policy: the outcomes of self-play games are also projected back into the function
+space of the neural network. These projection steps are achieved by training the
+neural network parameters to match the search probabilities and self-play game
+outcome respectively.
+
+Guo et al,’ also project the output of MCTS into a neural network, either by
+
+regressing a value network towards the search value, or by classifying the action
+selected by MCTS. This approach was used to train a neural network for playing
+Atari games; however, the MCTS was fixed—there was no policy iteration—and
+did not make any use of the trained networks.
+Self-play reinforcement learning in games. Our approach is most directly appli-
+cable to Zero-sum games of perfect information. We follow the formalism of alter-
+nating Markov games described in previous work'”, noting that algorithms based
+on value or policy iteration extend naturally to this setting”.
+
+Self-play reinforcement learning has previously been applied to the game of
+Go, NeuroGo**" used a neural network to represent a value function, using a
+sophisticated architecture based on Go knowledge regarding connectivity, terri-
+tory and eyes. This neural network was trained by temporal-difference learning”
+to predict territory in games of self- play, building on previous work*’ A related
+approach, RLGO™, represented the value function instead bya linear combination
+of features, exhaustively enumerating all 3 x 3 patterns of stones; it was trained
+by temporal-difference learning to predict the winner in games of self-play. Both
+NeuroGo and RLGO achieved a weak amateur level of play.
+
+MCTS may also be viewedas a form of self-play reinforcement learning”. The
+nodes of the search tree contain the value function for the positions encountered
+during search; these values are updated to predict the winner of simulated games of
+self play. MCTS programs have previously achieved strong amateur level in Go”,
+but used substantial domain expertise: a fast rollout policy, based on handcrafted
+features!*“*, that evaluates positions by running simulations until the end of the
+game; and a tree policy, also based on handcrafted features, that selects moves
+within the search tree”.
+
+Self-play reinforcement learning approaches have achieved high levels of perfor-
+mance in other games: chess*”5!, checkers®?, backgammon??, othello™, Scrabble*>
+and most recently poker*, In all of these examples, a value function was trained by
+regression’* °° or temporal-difference learning” from training data generated
+by self-play. The trained value function was used as an evaluation function in an
+alpha-beta search*?*4, a simple Monte Carlo search®*” or counterfactual regret
+minimization’®. However, these methods used handcrafted input features*?°°
+or handcrafted feature templates5+°°. In addition, the learning process used super-
+vised learning to initialize weights**, hand-selected weights for piece values”,
+handcrafted restrictions on the action space” or used pre-existing computer pro-
+grams as training opponents*”*”, or to generate game records*!,
+
+Many of the most successful and widely used reinforcement learning methods
+were first introduced in the context of Zero-sum games: temporal- difference learn-
+ing was first introduced for a checkers-playing program®”, while MCTS was intro-
+duced for the game of Go!’, However, very similar algorithms have subsequently
+
+810 robotics™, industrial control®'~* and
+
+proven highly effective in video games‘
+online recommendation systems°*®,
+AlphaGo versions. We compare three distinct versions of AlphaGo:
+
+(1) AlphaGo Fan is the previously published program” that played against Fan
+Hui in October 2015. This program was distributed over many machines using
+176 GPUs.
+
+(2) AlphaGo Lee is the program that defeated Lee Sedol 4-1 in March 2016.
+It was previously unpublished, but is similar in most regards to AlphaGo Fan",
+However, we highlight several key differences to facilitate a fair comparison. First,
+the value network was trained from the outcomes of fast games of self-play by
+AlphaGo, rather than games of self-play by the policy network; this procedure
+was iterated several times—an initial step towards the tabula rasa algorithm pre-
+sented in this paper. Second, the policy and value networks were larger than those
+described in the original paper—using 12 convolutional layers of 256 planes—
+and were trained for more iterations. This player was also distributed over many
+machines using 48 TPUs, rather than GPUs, enabling it to evaluate neural networks
+faster during search.
+
+(3) AlphaGo Master is the program that defeated top human players by 60-0
+in January 2017*4, It was previously unpublished, but uses the same neural
+network architecture, reinforcement learning algorithm, and MCTS algorithm
+as described in this paper. However, it uses the same handcrafted features and
+rollouts as AlphaGo Lee? and training was initialized by supervised learning from
+human data.
+
+(4) AlphaGo Zero is the program described in this paper. It learns from self-
+
+play reinforcement learning, starting from random initial weights, without using
+rollouts, with no human supervision and using only the raw board history as input
+features. It uses just a single machine in the Google Cloud with 4 TPUs (AlphaGo
+Zero could also be distributed, but we chose to use the simplest possible search
+algorithm).
+Domain knowledge. Our primary contribution is to demonstrate that superhu-
+man performance can be achieved without human domain knowledge. To clarify
+this contribution, we enumerate the domain knowledge that AlphaGo Zero uses,
+explicitly or implicitly, either in its training procedure or its MCTS; these are the
+items of knowledge that would need to be replaced for AlphaGo Zero to learn a
+different (alternating Markov) game.
+
+(1) AlphaGo Zero is provided with perfect knowledge of the game rules. These
+are used during MCTS, to simulate the positions resulting from a sequence of
+moves, and to score any simulations that reach a terminal state. Games terminate
+when both players pass or after 19 x 19 x 2= 722 moves. In addition, the player is
+provided with the set of legal moves in each position.
+
+(2) AlphaGo Zero uses Tromp-Taylor scoring® during MCTS simulations and
+self-play training, This is because human scores (Chinese, Japanese or Korean
+rules) are not well-defined if the game terminates before territorial boundaries
+are resolved. However, all tournament and evaluation games were scored using
+Chinese rules.
+
+(3) The input features describing the position are structured as a19 x 19 image;
+thatis, the neural networkarchitecture is matched to the grid-structure of the board.
+
+(4) The rules of Go are invariant under rotation and reflection; this knowledge
+has been used in AlphaGo Zero both by augmenting the dataset during training to
+include rotations and reflections of each position, and to sample random rotations
+or reflections of the position during MCTS (see Search algorithm). Aside from
+komi, the rules of Go are also invariant to colour transposition; this knowledge is
+exploited by representing the board from the perspective of the current player (see
+Neural network architecture).
+
+AlphaGo Zero does not use any form of domain knowledge beyond the points
+listed above. It only uses its deep neural network to evaluate leaf nodes and to select
+moves (see ‘Search algorithm). It does not use any rollout policy or tree policy, and
+the MCTS is not augmented by any other heuristics or domain-specific rules. No
+legal moves are excluded—even those filling in the player’s own eyes (a standard
+heuristic used in all previous programs®”),
+
+The algorithm was started with random initial parameters for the neural net-
+work, The neural network architecture (see ‘Neural network architecture’) is based
+on the current state of the art in image recognition*"*, and hyperparameters for
+training were chosen accordingly (see ‘Self-play training pipeline’), MCTS search
+parameters were selected by Gaussian process optimization®, so as to optimize
+self-play performance of AlphaGo Zero using a neural network trained in a
+preliminary run, For the larger run (40 blocks, 40 days), MCTS search param-
+eters were re-optimized using the neural network trained in the smaller run
+(20 blocks, 3 days). The training algorithm was executed autonomously without
+human intervention.
+
+Self-play training pipeline. AlphaGo Zero’s self-play training pipeline consists of
+three main components, all executed asynchronously in parallel. Neural network
+parameters 9; are continually optimized from recent self-play data, AlphaGo Zero
+

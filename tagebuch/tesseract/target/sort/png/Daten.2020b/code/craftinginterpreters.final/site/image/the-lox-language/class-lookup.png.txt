@@ -1,0 +1,10 @@
+| Breakfast CLASS
+o serve()
+
+INHERITS FROM
+
+benedict INSTANCE |— HAS CLASS —>| Brunch CLASS,
+© meat = "ham" © drink()
+
+© bread = “English muffin”
+

@@ -1,0 +1,22 @@
+ObjInstance
+klass
+
+__@ Fields
+— | brunch |
+@
+bindMethod() ObjClass
+@ name
+
+—_ | eggs | methods
+
+ObjClosure
+
+function
+
+ObjBoundMethad
+receiver
+
+method
+
+upvalues
+upvalueCount

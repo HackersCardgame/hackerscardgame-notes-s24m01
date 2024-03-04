@@ -1,0 +1,25 @@
+Fuzzy Trace Theor
+Software (~Deduplication)
+
+oftware
+
+https://0x8.ch/HackersCardgame_2.0
+
+Die Fuzzy Trace Theory besagt, dass Gedanken,
+Erinnerungen, Zusamenfassung z.B. von
+Buchern im Gehirn als FTT's gespeichert
+werden. Bei Natural Language Processing
+wurde man von einer "Named Entity"
+sprechen. Schlussendlich musste man ja
+eine Software haben, welche die Named
+Entites / FTT's findet, sammelt und
+auflistet, damit einer dieser Deppen da
+ein EventTrigger dran machen kann.
+
+Ich vermute das zeichnet einfach alles
+auf, und jedes ahnliche Pattern [1] was
+Ofters kommt, egal ob mit 1@ oder 1000
+Elektroden wird in deren Liste eingetragen
+[1] vermutlich so etwas Ahnliches wie der
+Jaro Winkler Algorithmus
+

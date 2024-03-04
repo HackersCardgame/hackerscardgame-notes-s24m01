@@ -1,0 +1,128 @@
+‘Search
+(Once tteeneer re
+——
+
+Getting Debian
+This page has options for installing Debian Stable.
+
++ Download mirrors of installation images
++ Installation Manual with detailed installation instructions
++ Release notes
+
++ Other releases lke Testing or Unstable
+
+Download an installation image
+
++ A'small installation image: can be downloaded
+Quickly and should be recorded onto a removable
+disk. To use this, you will need a machine with an
+Internet connection.
+
+‘S4bE PC natins tres 32-bit eC nant omens
+
++ Alarger complete installation image: contains
+‘more packages, making It easier to install machines
+without an Internet connection,
+
+‘6:0 PC torent (OVD), 32-bi PC torent (YD
+Buy_CDs, DVDs or USB sticks froma
+vendor of Debian installation media
+
+Many of the vendors sel the distribution for less than
+SSS plus shipping (check their web page to see if they
+‘hip internationally)
+
+Here are the basic advantages of COs:
+
+‘+ You can install on machines without an Internet
+connection,
+
++ You can install Debian without downloading all
+packages yourselt.
+
+Buy a computer with Debian pre-
+installed
+
+‘There are a number of advantages to this:
+
++ You don't have to install Debian,
+
+‘+ The installation is pre-configured to match the
+
+hardware.
++ The vendor may provide technical support.
+
+‘Back to the Debian Project homepage
+
+‘This page sao aalabe inthe flowing languages
+
+‘Try_Debian live before installing
+
+You can try Debian by booting a live system from a CD,
+VO or USB key without installing any files to the
+computer. You can also run the included Calamares
+Installer. Only available for 64-bit PC. Read more
+Information about this method.
+
+(Wie Gname Laake [MED Other iveisO, Metaneats
+
+Use a Debian cloud image
+{An official eloud image, buit by the cloud team, can be
+used on
+
+‘+ your OpenStack provider, in qcow2 or raw formats.
+
+capa avon aoa ma SO DE ARO acum mae
+(AMO (a, a. 68 BE ARM (cn, a). 68 bi
+
+Lite Enon PowerP aca. 28)
+
++ a local QEMU virtual machine, in qcow2 or raw
+formats.
+
+(SC AMON a, a. GD ARM aca, a. 68 BE
+Lite Enon PowerPC (ac. ta)
+
++ Amazon EC2, elther as a machine image or via the
+AWS Marketplace.
+
+=
++ Microsoft Azure, on the Azure Marketplace.
+
+5 pocion 12 Rosina!) osbian 1 Aula)
+
+sepelacbial Gaaraocee Malas) cial tesky dansk Deutsch EMnu lina) espaiol fiaacas Galego oats indonesia
+
+Hane CiLorean, maqvarMedetands si Whonaot norsk (kms
+
+lad Portugues ronda} Eyccmap(fusskl ovencina
+
+suomi suenska Ton Vit Thikce anata lukainsia) SE) Szlha) SH)
+
+ow to set the defi document nauaae
+
+Home
+about Sting Debian ows
+
+Soca Conact Network instal Pec ews
+ai of Conduct ‘SOUSSO images vents
+eesofwae ‘Dventors Documentation
+Paanets Resestaled ease info
+Danatons Pure Blends ae
+Leoainia ‘Debian Packages Debian Boks
+Data evacy Developers! Comer Dsbaan vi
+contacts
+
+Help Debian
+
+‘See our contac nae tage in touch. Web ste source cadelsavaltble
+
+Copyright© 1997-2023 58 and others See eens terms
+Debian a vegistred vadenatk of Seftwarein the Publ Interest. ne
+
+Support sitemap
+‘Debian ntemationa Search
+Sscutlvinfrmaten The Debian Blog
+Bugrepons Debian Micronews
+alin Lists Debian Planet
+unsvchtectures

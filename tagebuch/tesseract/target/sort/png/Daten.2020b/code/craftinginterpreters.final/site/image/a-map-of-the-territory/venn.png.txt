@@ -1,0 +1,27 @@
+GCC
+
+Ty pe Script
+
+CoffeeScript
+
+Rust
+
+COMPILER
+
+Haskell
+CPython
+YARV (Ruby)
+Lua clox
+Guile (Scheme)
+
+Scala
+V8 (IS)
+
+Ge
+
+Jjlew
+
+INTERPRETER
+
+MRI (Ruby)
+

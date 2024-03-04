@@ -1,0 +1,141 @@
+Perplexity (hold_out)
+
+Coherence (c_v)
+
+0.5)
+
+0.49)
+
+0.48)
+
+Perplexity (hold_out)
+
+10
+
+20 30
+
+Epochs
+
+40
+
+Coherence (c_v)
+
+10
+
+20 30
+
+Epochs
+
+40
+
+XE
+
+Perplexity (test)
+
+1
+
+Diff (kullback_leibler)
+
+1500]
+
+1400)
+
+1300)
+
+1200)
+
+1100)
+
+1000!
+[)
+
+XL
+Perplexity (test)
+
+a
+
+wn
+
+oO
+
+£
+
+|
+
+2
+
+vo
+
+.s]
+
+Cc
+
+2
+
+oO
+
+<<
+
+[-}
+
+o)
+
+10 20 30 40
+Epochs >
+XL
+Diff (kullback_leibler)
+
+2
+
+oO
+
+1S]
+
+13]
+
+oO
+
+3
+
+oO
+
+13)
+
+Cc
+
+o
+
+>
+
+vo
+
+>
+
+Cc
+
+fo}
+
+oO
+
+-3.5)
+
+30)
+
+20)
+
+10)
+
+Coherence (u_mass)
+
+10
+
+20 30
+
+Epochs
+
+40
+
+Convergence (jaccard)
+
+Epochs
+

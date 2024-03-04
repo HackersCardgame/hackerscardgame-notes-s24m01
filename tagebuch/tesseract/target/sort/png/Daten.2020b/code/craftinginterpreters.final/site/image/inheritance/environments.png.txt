@@ -1,0 +1,10 @@
+SUPERCLASS
+
+super — Bclass
+
+BOUND METHOD
+
+this — C instance
+
+testQ BODY.
+

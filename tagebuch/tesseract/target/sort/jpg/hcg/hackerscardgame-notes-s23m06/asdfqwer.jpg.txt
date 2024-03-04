@@ -1,0 +1,7 @@
+Ars Technica
+https:/arstechnica.com » 2023/01 - Diese Seite bersetzen
+
+Microsoft's new Al can simulate anyone's voice with 3 ...
+
+09.01.2023 — On Thursday, Microsoft researchers announced a new text-to-speech Al model
+called VALL-E that can closely simulate a person's voice when

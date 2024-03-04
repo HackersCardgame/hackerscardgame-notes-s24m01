@@ -1,0 +1,5 @@
+emarc@debian :~/Daten.2017/code/deepLearning$ python suchen.py --bin psychoseOnline.txt.bin --positive stimmen daemonen --negative musik
+EVA OSSMNEN. txt. bin
+geister telepathie satan engel eingebungen konflikte geheimdienste geistern glauben _halluzinierten
+émarc@debian: ~/Daten.2017/code/deepLearning$ I
+6

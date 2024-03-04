@@ -1,0 +1,13 @@
+Extended Data Table 3 | Learning rate schedule
+
+Thousands of steps Reinforcement learning Supervised learning
+
+0-200 10-2 10-1
+200-400 107? 1072
+400-600 10-3 10-3
+600-700 10-4 10-4
+700-800 10-4 10-5
+
+>800 1o~4 -
+
+Learning rate used during reinforcement learning and supervised learning experiments, measured in thousands of steps (mini-batch updates)

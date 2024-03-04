@@ -1,0 +1,13 @@
+Inventor: xxxx Year: ~???
+
+Hardware Backdoor... / Firmware Backdoor: See:
+https://media.ccc.de/v/32c3-7352-
+towards_reasonably_trustworthy_x86_laptops
+
+Maybe it was intentional that IBM sold the Operating
+System Market to Microsoft. They could have made a
+lot of profit. When | started to question what is going
+on | tried to find the things that caused me Problems
+in the Operating System. But maybe the
+Operatingsystem is just halfe of the Story
+

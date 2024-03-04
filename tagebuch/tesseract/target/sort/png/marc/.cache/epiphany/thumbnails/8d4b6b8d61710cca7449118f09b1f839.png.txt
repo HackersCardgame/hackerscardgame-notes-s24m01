@@ -1,0 +1,183 @@
+‘Search
+[(ONcartteeneer rene
+
+debian 7 aston on car downleading debian cd imager wih fade
+
+Downloading Debian CD images with jigdo
+
+json Download, or short jad is a bandit end may of dstrbatng Debian corpvo Saban=c®
+mages. [Network install
+Sraenn
+
+‘Why indo i beter than a drt downoad Dowland with ido
+
+onto downlod an age wih ado Dotncad veunese
+‘ficial images Donan with Torent
+‘Search Contents of CD images tepevires
+Frequently Asedianswered Questions Mee
+
+Why jigdo is better than a direct download
+
+Because Its faster! For various reasons, there are far fewer mirrors for CD/DVD images
+than there are for the "normal" Debian archive. Consequently i you download from a CD
+image mirror, that mirror will not only be further away from you, it will aso be
+overloaded, especially just after a release,
+
+Furthermore, some types of images are not available as full iso downloads because
+there is not enough space on our servers to host them.
+
+f course, a "normal" Debian mirror does not carry any CD/DVD images, so how can jigdo
+‘download them there? jigdo achieves this by downloading individually all the files that are
+‘on the CD/DVD. In the next step, all these files are assembled in one big fle which is an
+‘exact copy of the CD/DVD image. However, all this happens behind the scenes - all that
+‘you need to do i tell the download tool the location of a *.jigis" file to process.
+
+More information is available from the jiado homepage. Volunteers willing to help with
+Jigdo development are always welcome!
+
+How to download an image with jigdo
+
++ Download a package containing jsgdo-1ite, This Is avaliable directly for installation in
+the Debian and Ubuntu distributions in the jigdo-fie package. For FreeBSD, install
+from fust/ports/net-p2piigdo or grab the package with pks_aéd -r ig¢o. For other
+installation options (binaries for Windows, source), check the the jiado homepage.
+
+‘+ Rum the jsgd0-1ste script. It wll ask for the URL of a *.s3gdo" file to process. (You can
+‘alco supply that URL on the command line If you like.)
+
+‘+ From one of the locations listed below, pick the *. ipo" files you want to download,
+and enter their URLs at the jigdo-1ite prompt. Each ".jigéo" fle corresponds to one
+"420" CD/DVD image.
+
++ Ifyou are a first-time user, just press Return at the “Files to scan” prompt.
+
++ Atthe prompt "Debian mirror, enter either http://deb.debian.org/debian/ oF
+hetp://Ftp.AY. debian. orp/debian/, where xvi the two-letter code for your country (for
+example, us, de, uk. See the current lst of available ftp.xv.debian.org locations.)
+
++ Follow the instructions printed by the script. If all goes well, the script finishes by
+calculating a checksum of the generated image and telling you that the checksum
+matches that of the original image.
+
+For a detailed, step-by-step description ofthis process, have a look at the Debian jigdo
+mini:HOWTO. The HOWTO also explains jigdo's advanced features, such as upgrading an
+‘older version of a CD/DVD image to the current version (by downloading only what has
+‘changed, not the entire new image).
+
+‘Once you have downloaded the images and written them to CD/DVD, be sure to have a
+look at the detailed information about the installation process.
+
+Official images
+
+Official jigde files for the “stable” rele:
+<
+
+Be sure to have a look at the documentation before you install. f you read only one
+document before installing, read our Installation Howto, a quick walkthrough of the
+Installation process. Other useful documentation includes:
+
++ Installation Guide, the detailed installation instructions
++ Debian-Installer Documentation including the FAQ with common questions and
++ Debian-installer Errata, the list of known problems inthe installer
+
+Official jigdo files for the “testing” distribution
+ay vp
+
+Search Contents of CD images
+
+Which CD/DVD image contains a certain file? Below, you can search the lists of files
+contained in a wide variety of Debian CD/DVD images. You can enter several words, each
+‘word must match a substring of the filename. Add e.g. 1386" to restrict the results to a
+certain architecture. Add " all" to see packages which are identical for all architectures.
+
+‘Search
+
+What files are contained in a certain image? If you need a list ofall files that a
+certain Debian CD/DVD contains, just look in the image's corresponding list. 92 file on
+
+‘sdimage.debian.org.
+
+Frequently Asked/Answered Questions
+How do I make jigdo use my proxy?
+
+Load the file ~/,jigdo-1ite (oF jigdo-1ite-settings.txt for the Windows version) into a text
+‘editor and find the line that starts with "wgetOpts". The following switches can be added
+to the line:
+
+se Ftp_proxyshttp://LOCAL-PROXY:PORT/
+e etp_proxyshttp://LOCAL-PROXY: PORT?
+-proxy-user-usee
+
+proxy: passwePASSHORD
+
+Of course, substitute the correct values for your proxy server. The last two options are
+‘only necessary i your proxy uses password authentication. The switches need to be
+‘added to the end of the wgetOpts line before the final‘ character. All options must be on
+one line,
+
+‘Alternatively, under Linux you can also set up the ftp_proxy and http_proxy environment
+variables, for example in the file sete/envixonsent OF ~/.bashxe
+
+‘Aargh! The script fails with an error - have | downloaded all those MBs in vain?!
+
+f course this Should Not Happen(tm), but for various reasons you may end up in a state
+where a large *.‘+0. tmp" file has already been generated and jigdo-1ite appears to have
+problems, telling you repeatedly to try restarting the download. There are several possible
+things to try in this case:
+
++ Simply restart the download by pressing Return. Maybe some of the files could not be
+downloaded because of timeouts or other transient errors - another attempt will be
+made to download any missing files
+
++ Trya different mirror. Some Debian mirrors are slightly out of sync - maybe a different
+‘mirror stil holds files that were deleted from the one you specified, or it has already
+been updated with files that are not yet present on your mirror.
+
++ Retrieve the missing parts of the image using rsync. First, you need to find out the
+correct rsync URL of the image you are downloading: Choose a server that offers rsync
+‘access to the stable or testing Images, then determine the correct path and filename.
+Directory listings can be obtained with commands like
+rayne rayne://edinage.debian.org/debian-c4/
+
+Next, remove the ". tap" extension from jigdo-1ite's temporary file by renaming it, and
+pass both the remote URL and the local filename to rsync:
+
+rayne rsyne://server.org/path/binary-206-1.40 binary-4286-1.440
+
+You may want to use rsync’s --verbose and --progress switches to get status messages,
+and --block-rize+8192 to increase its speed.
+
++ Ifallelse falls, your downloaded data is stil nt lost: Under Linux, you can loop-mount
+the .tmp file to access the packages that were already downloaded, and reuse them for
+generating an image from a newer jigdo file (such as the latest weekly testing
+snapshot if your failed download was also a testing snapshot). To do this, fist issue the
+following commands as root in the directory with the broken download: mkéir ant:
+fount -t 1509660 -0 loop *.tap ant. Next, start a new download ina different directory,
+and enter the path of the ane directory at the "Ales to scan" prompt
+
+cost fag netintal buy iodo hte te misc
+
+‘This page ao avalabe nthe flowing languages
+Snmcancaa Glaarskl esky dansk Deutsch sina! fancals alamo CILMMorean, Nedefands 28.Wihongs) ook fetuouts
+Picco Ruski skaenina suomi sensi yatabcwalukrainskal $xi8) SEK) SHUR)
+
+ow tose the defi documenk angus
+
+Home
+About Satting Debian ows Support sitemap
+SocaLcoonact Newark install ject ews Debian Intemational Search
+
+ee Software ‘SDendors ‘Documentation Bugrepods ‘Debian Micronews
+nats esta ease io alin sts Debian Planet
+Danatons Pure Slonds Instalaten man ing itch
+
+Leoainia Debian Packages ehian Boks unsivchtectures
+
+Data evacy Developers! Corner Dsbaan vi
+
+contacts
+
+Help Debian
+
+Copyright© 1997-2023 58 and thes See eens ems
+Debian a registred vadenatk of Software the Publ Interest. ne

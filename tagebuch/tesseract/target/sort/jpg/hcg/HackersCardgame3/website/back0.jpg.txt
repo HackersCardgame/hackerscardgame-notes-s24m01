@@ -1,0 +1,8 @@
+Hackers
+
+Cardgame
+
+Addon Cards
+
+For generic upstream Tarocs
+https://github.com/braindef/Shrink-Disorder-Tarot

@@ -1,0 +1,60 @@
+ELECTRICAL CHARACTERISTICS
+
+PARAMETER CONDITIONS SYMBOL MIN TYP MAX | UNITS
+Oscillator
+transmit frequency’ @ 25°C fpardard 24.050 24.250 GHz
+
+US-frequency band @ 25°C f, 24.075 24.175 GHz
+
+UK-frequency band @ 25°C fe 24.150 24.250 GHz
+output power Pot 16 20 dBm
+temperature drift Af -1 MHz/*C
+Receiver
+!Foutput voltage offset -300 300 mV
+Signal leve category A 563 855 MV ap
+
+category B 856 1177 MV ,p
+category C 1178 1819 MVap
+
+Noise level? R 116 mV
+Antenna Pattern (~~ Es Kone dvaut an
+full beam width @ -3dB azimuth horizontal C 80 ob man 1 hn horizontal
+
+elevation vertical \ 25 Jloder Vertikal verbaut
+side-lobe suppression azimuth horizontal 12 dB 2
+
+elevation vertical 13 dB s
+Antenna gain 9.5 dBi
+Power supply
+supply voltage Vee 4.75 5.00 5.25 Vv
+supply current loc 18 30 40 mA
+Environment
+operating temperature Top -20 +60 °c
+storage temperature T. — -20 +60 °c
+Mechanical Outlines
+
+height 25
+outline dimensions length 25 mm
+width 7 (12.7)
+
+Das Signal des Messmodules
+ist analog, Kapput gehen kann
+also nichts mit einem langen
+Kabel, es zeigt dann einfach
+weniger Signal an, also probieren...
+
+ANTENNA ORIENTATION:
+
+TX / RX-ANTENNA PATTERN:
+
+elevation
+
+normalized gain [dB]
+
+AbstrahlCharakteristik:
+
+-165 V8.5.pdf
+
+2016/Datenblatt IPM
+
+https://www.innosent.de/fileadmin/media/dokumente/DATASHEETS

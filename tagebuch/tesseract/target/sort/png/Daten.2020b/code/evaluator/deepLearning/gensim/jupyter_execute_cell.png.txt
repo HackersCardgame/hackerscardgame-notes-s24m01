@@ -1,0 +1,23 @@
+Corpus Markdown Cell (text)
+
+A corpus is a collection of digital documents. This collection is the input to gensim from which it
+will infer the structure of the documents, their topics, etc. The latent structure inferred from the
+corpus can later be used to assign topics to new documents which were not present in the training
+corpus. For this reason, we also refer to this collection as the training corpus. No human
+intervention (such as tagging the documents by hand) is required - the topic classification is
+unsupervised.
+
+For our corpus, we'lluse a lst of 9 strings, each consisting of only asingle sentence. 4414 Cel
+
+In [1]: xaw_corpus = ["Human machine interface for lab abc computer applications",
+"A survey of user opinion of computer system response time",
+
+Click then “the EPS user interface management systen",
+“system and human system engineering testing of EPS",
+SHIFT + “Relation of user perceived response time to error measurement
+“the generation of random binary unordered trees",
+ENTER “The intersection graph of paths in trees",
+
+t "Graph minors IV Widths of trees and well quasi ordering",
+lo run "Graph minors A survey")
+

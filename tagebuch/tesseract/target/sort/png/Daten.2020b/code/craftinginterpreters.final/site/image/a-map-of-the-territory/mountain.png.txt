@@ -1,0 +1,20 @@
+Analysis  zS¢
+
+SYNTAX TREE
+
+resing — fo
+
+./= 2
+
+INTERMEDIATE REPRESENTATION (S)
+
+Code Generation
+
+TOKENS
+
+Scanning
+VIRTUAL
+
+= My ft MACHINE
+\SOURCE CODE HIGH LEVEL LANGUAGE / BYTECODE/ MACHINE CODE /
+

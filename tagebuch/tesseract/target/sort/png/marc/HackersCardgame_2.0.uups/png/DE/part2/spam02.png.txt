@@ -1,0 +1,17 @@
+Spam Design Pattern
+Regelkreis Psychose
+
+https://0x8.ch/HackersCardgame_2.0
+
+Es gibt einen EEG / FTT / Neuralink
+Regelkreis [1] der die Psychose schlimmer
+und schlimmer machen mochte. Motiv dieses
+Algorithmus ist vermutlich einen Zeugen
+fur Mord komplett unbrauchbar und
+Psychotisch zu machen.
+
+[1] Regelkreis bedeutet es liest jede
+Sekunde aus und schaut dann was es
+einblenden soll damit das Parameter
+"Psychotsich" schlimmer wird.
+

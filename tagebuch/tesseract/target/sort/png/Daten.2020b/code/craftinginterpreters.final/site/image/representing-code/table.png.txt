@@ -1,0 +1,9 @@
+interpret()
+Binary [a
+Grouping
+Literal
+Unary
+
+resolve()
+
+analyze()

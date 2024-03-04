@@ -1,0 +1,5 @@
+ValueType type padding double asnumber Obj
+
+. , ~~ EE:
+
+Obj* as.obj

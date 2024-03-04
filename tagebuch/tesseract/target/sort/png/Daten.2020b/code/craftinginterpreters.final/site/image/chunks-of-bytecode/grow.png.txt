@@ -1,0 +1,26 @@
+Chunk
+
+count 4
+capacity 4
+code
+
+Chunk
+
+n
+@ atvocate/ count 4] @povae!
+: Capacity 8 Fa
+| code R io
+
+@® uppaTe!
+
+INCREMENT/
+Chunk @
+
+count 5
+Capacity 8
+co
+
+ay
+
+@storer7” 5
+

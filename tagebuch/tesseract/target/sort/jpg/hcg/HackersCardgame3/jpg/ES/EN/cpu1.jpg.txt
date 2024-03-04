@@ -1,0 +1,14 @@
+INTEL Management Engine
+
+Inventor: xxxx Year: ~xxxx
+Hardware Backdoor... / Firmware Backdoor: See:
+https://media.ccc.de/v/32c3-7352-
+
+towards reasonably trustworthy x86 laptops
+
+Use Cases
+
+Go Doggy World-Population and try to
+Backdoors in Microsoft Windows but
+Hardware...
+

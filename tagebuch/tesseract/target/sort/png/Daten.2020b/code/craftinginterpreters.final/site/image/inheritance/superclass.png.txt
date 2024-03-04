@@ -1,0 +1,16 @@
+GLOBAL
+
+SUPERCLASS
+
+super
+
+— A class
+
+~ B class
+
+—+ C class
+
+— B class
+
+method
+closures

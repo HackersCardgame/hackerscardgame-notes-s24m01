@@ -1,0 +1,30 @@
+Crypto Beginners Toolkit
+
+Paedo" =
+
+[===]
+
+jaintext unencrypted to Server: FAIL
+
+Inventor: Satan Year: ~????
+You can do easy for example create a ROT13 encryption, that
+of course can be broken in seconds, but to begin with crypto
+it's maybe a good excercise, then continue maybe with
+Vigenére cipher, and then p-boxes and s-boxes.
+
+Be careful, if you begin with crypto eg your local military would
+like to own you and to prevent that you dont join the crypto-
+anarchy movement.
+
+Work in pairs of at least 2 people, If they want to put you in
+mental institution to erase your brain you have better chances
+to prevent that.
+
+i dont have a lot of time *INSERT: since they target me
+permantly* <- psychological warfare but if you have time it's
+quit easy to write something to encrypt and decrypt rot13,
+alphabet has 26 letters, so if you double-red13 you have again
+the original...
+
+https://marclandolt.ch/old/rot13/
+

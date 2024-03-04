@@ -1,0 +1,90 @@
+config => min _diff_rank : "0.3"
+config => logsize : "60"
+
+config => nomatch :
+WHDP'
+
+"CS DOH NJ PG ZH TV TOT QUBE FARM", "TRF"=>"FARM", "M
+
+DOH DIV DVN QUBE RL SHO S NJ RM SY TMT TL WGA WL CP NB NASA PG TOT ZH AZP RDE SL", "GP"=>"TRF BZ CL CNS FK MD ML DIV QUBE RL SHO RM SY
+IMT WGA WL CP NB DOH PG TOT ZH RDE INC EPH SL", "KOH' "TG FARM DOM GP DNS NASA DZN TR EXN FT KO
+H TOL MWHDP BRW GOT")
+
+peing: Sun Feb 4 20:56:55 2018 -> PRE ISO Eventyrlig.Oppussing.S03E06.NORWEGIAN.720p.WEB.h264-WASTE BZ WASTE
+
+~~ name # Eventyrlig.Oppussing. 503E06.NORWEGIAN.720p.WEB.A264-WASTE (#21492)
+
+me # section: ‘TVNO/' type: ‘tv’ group: ‘WASTE’ title: 'Eventyrlig Oppussing*
+-- nfos #O
+
+=~ bel -# ["720p", "web", "h264", "nonfo"]
+
+-- irl # ("group"=>"WASTE")
+
+-- presites ..# 80 55
+
+-- allowed ...# STL VAL
+
+7:30 2018 -> PRE ISO NOS. Studio. Sport .Eredivisie.2017-2018 . Samenvattingen. Speelronde.21.Zondag.DUTCH.720p-HDTV.x264-DTOD w42 DTOD
+@:45 2018 -> PRE ISO Eventyrlig.Oppussing.S03E07.NORWEGIAN.720p.WEB.h264-WASTE BZ WASTE
+
+# Eventyrlig.Oppussing.503E07.NORWEGIAN.720p.WEB.n264-WASTE (#21494)
+# section: ‘TVNO/' type: ‘tv’ group: ‘WASTE’ title: 'Eventyrlig Oppussing*
+#O
+-# ["720p", "web", "h264", "nonfo"]
+# ("group"=>"WASTE")
+-- presites ..# 80 55
+-- allowed ...# STL VAL
+
+sheep NCIS.S04E09.720p.BluRay.x264~-DEMAND
+-- name ..# NCIS.S04E09.720p.BluRay.%264-DEMAND (#21483)
+
+. -+# section: 'TVRIP/' type: ‘tv’ group: 'DEMAND' title: ‘NCIS*
+
+-- nfos <-# ("id"=>86401, “url"=>"", "citle"=>"NCIS", "category"=>"scripted", “genre"=>"Drama | Action | Crime", “country"=>"USA", "network"=>"CBS", "status™
+=>"", “last"=>"", “last_date"=>"", "next"=>"", “next _date"=>"", "aka"=>"NCIS 2003", "ctitle"=>"NCIS 2003", "cgenre"=>nil}
+
+"Running", "premiere"=>"2003-09-23", “ended”
+
+== bel --# ["720p", "x264", "bluray", "scripted", "nw_usa"]
+-- nr -# ("premiere"=>2003, "airdate™
+-- irl ..# ("tvid"=>86401, "group’
+
+*benchmark* oms
+t 1] [NCIS.S04E09.720p.BluRay.x264-DEMAND] [ | “0%/4.6 D20/4.4 i/4.0 S=/3.8 NASA/2.4 EPH/1.7 82/1.6 78/1.3 ]
+[ :1] [ KOH:NASA KOH:NASA EPH:NASA EPH:NASA ]
+
+*benchmark* 15ms
+
+peing: 20:59:41.226 -- [towl:1] #21483 [ | KOH DZ Cl! SF NASA EPH BZ 2H]
+
+Sun Feb 4 21:00:20 2018 -> PRE ISO Eventyrlig.Oppussing.S03E08.NORWEGIAN.720p.WEB.h264-WASTE BZ WASTE
+
+~~ name # Eventyrlig.Oppussing.503E08 .NORWEGIAN.720p.WEB.A264-WASTE (#21495)
+
+me # section: ‘TVNO/* type: ‘tv’ group: ‘WASTE’ title: 'Eventyrlig Oppussing*
+-- nfos #O
+
+=~ bel -# ["720p", "web", "h264", "nonfo"]
+
+-- irl # ("group"=>"WASTE")
+
+-- presites ..# 80 55
+
+-- allowed ...# STL VAL
+
+shbm
+
+crrort unknown command.
+
+peing: sh bm
+bm(1) 44 => [["AZP", 4, 4, 4, 4], ["BRW", 4, 4, 4, 4], ["BZ", 4, 2, 2, 2], ["CL", 4, 1, 4% 4], ["CP™, 3, 1, 3, 3], ["CW, 6, 4, 6, 6], ["DNS", 17, 3, 10, 12], ["DOH™, 2, 2, 2, 2], ["DOM™, 25, 4, 20, 20], ["D
+vN", 3, 2, 2, 3], ["DZN", 6, 8, 4, 4], ["EF", 6, 3, 3, 3], ["EPH", 4, 4, 4, 4], ["EXN", 8, 0, 4, 4], ["FARM", 2, 2, 2, 2], ["FK", 2, 1, 2, 2], ["EI", 3, 3, 3, 3], ["GOI", 3, 3, 2, 2], IGP", 33, 8, 25, 25],
+("KOH", 9, 4, 8, 8], ["ML", 4, 1, 4, 4], ["MWHDP", 2, 2, 2, 2], ["NASA", 4, 4, 4, 4], ["NB", 2, 2, 2, 2], ["NU", 2, 2, 2, 2], ["ORB", 2, 2, 2, 2], ["PEV", 4, 4, 4, 4], ["QUBE", 3, 1, 2, 2], ["RATS", 4, 4, 4,
+4], ["RDE", 3, 3, 3, 3], ["REA", 4, 4, 4, 4], ["SE", 5, 4, 4, 4], ["SHO", 4, 4, 2, 2], ["SL", 4, 2, 2, 2], ["SY", 3, 3, 2, 2], ["IG", 3, 2, 2, 3], ["TL", 2, 1, 2, 2], ["TMT", 4, 0, 0, 4], [*TOT", 4, 1, 4% 4
+1, ["TR", 4, 4, 4 4], ["IVI™, 6, 6, 4, 4], ["WGA", 4, 2, 2, 2], ["WL", 4, 1, 4, 4], ["ZH", 8, 1, 2, 4]]
+
+peing:
+
+|
+

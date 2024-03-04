@@ -1,0 +1,26 @@
+decode(encode(obj)) rate, 1/sec
+
+1e+06
+
+100000
+
+10000
+
+1000
+
+json
+
+msgpack ——
+
+bison
+
+10
+
+100
+
+1000
+Serialized object size, octets
+
+10000
+
+100000

@@ -1,0 +1,260 @@
+[(ONcartteeneer rene
+
+‘Search
+
+debian 7 asson on eave downloading debian cdlvd images va Map
+
+Downloading Debian CD/DVD images via
+HTTP/FTP
+
+0
+Q Please do not download CD or DVD images with your web browser the way you download other See
+‘es The reason that if our dowload abo. mast browsers dnt allo yuo resume fom the point comes
+
+Dowland with do
+
+Instead, please use a tool that supports resuming - typically described as a “download oye
+
+manager". There are many browser plugins that do this job, or you might want to installa Mac
+‘separate program. Under Linux/Unix, you can use atia2, wxDownload Fast or (on the oe
+‘command line) “aget -c URL” or “curl -¢ - -L -0 URL". There are many more options Merona
+listed in a comparison of download managers.
+
+here fled,
+
+‘The following Debian images are available for download:
+
++ Official CD/DVD images of the “testing” distribution (regenerated weekly)
+
+See also:
+
++ Accomplete list of debian-cé/ mirrors
++ For “network install” images, see the network install page.
++ For images of the “testing” release, see the Deblan-Installer nage,
+
+Official CD/DVD images of the “stable” release
+
+‘To install Debian on a machine without an Internet connection, i's possible to use CD
+Images (700 MB each) or DVD images (4.7 GB each). Download the first CD or DVD Image
+fle, write it using a CD/DVD recorder (or a USB stick on (386 and amd64 ports), and then,
+reboot from that.
+
+The first CD/DVD disk contains ail the files necessary to install @ standard Debian system.
+‘To avoid needless downloads, please do not download other CD or DVD image files unless
+you know that you need packages on them,
+
+cy
+The following links point to image files
+which are up to 700 MB in size, making
+them suitable for writing to normal CD-
+QW) media:
+
+pvp
+The following links point to image files
+Which are up to 4.7 GB in size, making
+them suitable for writing to normal DVD-
+R/DVD#R and similar media
+
+5 amd6a, am, armel amb 386,
+‘mipsel, mipsel, ppcGel, 5390x
+
+W ams6a, am64, amel amb, B86,
+‘mipsG4el, mipsel, ppcG4el, 3390,
+
+source
+
+Be sure to have a look at the documentation before you install. If you read only one
+document before installing, read our Installation Howto, a quick walkthrough of the
+installation process. Other useful documentation includes:
+
++ Installation Guide, the detailed installation instructions
++ Deblan-Installer Documentation, including the FAQ with common questions and
++ Debian-Installer Errata, the list of known problems in the installer
+
+Registered mirrors of the “debian-cd” archive
+
+Note that some mirrors are not up to date — before downloading, check the version
+number of the images is the same as the one listed on this site! Additionally, note that
+many sites do not mirror the ful set of images (especially the DVD images) due to its size.
+
+If in doubt, use the primary CD image server in Sweden,
+
+‘Are you interested in offering the Debian CD images on your mirror? If yes, see the
+instructions on how to set up a CD image mirror
+
++ Argentina: debian.xfree.com.ar: HTTP
+‘+ Armenia: mirrors.asnetam: HTTP
+
++ Australia: debian.mirror digtalpacitic.com.au: HTTP
++ Australia: mirror.overthewire.com.au: HTTP
++ Austria: debian.anexia.at: HTTP
+
++ Belarus: ftp.byflyby: HTTP
+
++ Belarus: mirror datacenterby: HTTP
+
++ Belgium: mirror.as35701.net: HTTP
+
++ Brazil: debian.c3sl.ufpr.br: HTTP
+
++ Canada: debian.mirror.web ca: HTTP.
+
++ China: mirror.izu.edu.cn: HTTP.
+
++ China: mirrors.163.com: HTTP
+
++ Costa Rica: mirrors.uer.ac.cr: HTTP.
+
++ Croatia: debian.camet hr: HTTP
+
++ Czech Republic: debian-cd.mirror,web4u.cz: HTTP
++ Caech Republic: debian.superhosting.c2: HTTP.
++ Czech Republic: mirror.dkm.cz: HTTP
+
++ Czech Republic: mirrors.nic.ce: HTTP
+
+‘+ Denmark: mirror.asergo.com: HTTP
+
+‘+ Denmark: mirror.one.com: HTTP
+
+‘+ Denmark: mirrors.dotsre.org: HTTP
+
++ Denmark: mirrors.rackhosting.com: HTTP
+
++ Ecuador: mitror-cedia.org.ec: HTTP
+
++ Ecuador: mitror-uta.edu.ec: HTTP
+
++ France: debian.obspm fr: HTTP
+
++ France: ftp.crifo.org: HTTP
+
++ France: miroir.univ-lorraine.fr: HTTP
+
++ Georgia: debian.grena.ge: HTTP
+
++ Germany: debian-cd.repulsive.eu: HTTP.
+
++ Germany: debian inttu-dresden.de: HTTP
+
++ Germany: debian.netcologne.de: HTTP
+
++ Germany: fp fau.de: HTTP.
+
++ Germany: ftp.gwdg.de: HTTP
+
++ Germany: ftp-stud.hs-esstingen.de: HTTP
+
++ Germany: ftp.uni-bayreuth.de: HTTP
+
++ Germany: ftp.uni-hannover.de: HTTP
+
++ Germany: mirror.23m.com: HTTP.
+
++ Germany: mirror.checkdomain de: HTTP
+
++ Germany: mirror.daniet-jostnet: HTTP
+
++ Germany: mirror.de-leaseweb.net: HTTP.
+
+‘+ Hong Kong: mirror.xtom.com. hk: HTTP
+
+‘+ Hungary: ftp.bme.hu: HTTP
+
++ Indonesia: kartolo.sby.datautama.net.id: HTT.
++ Israet: debian interhost.co.il: HITE
+
++ Italy: glano.com.dist.unige.t: HTTP.
+
++ Japan: ftp kddllabs jp: HTTP
+
++ Japan: ftpriken,jp: HTTP
+
++ Korea: ftp.kaist.ac.kr: HTTP
+
++ Korea: ftp.lanet.kr: HTTP
+
++ Latvia: debian.koyanet Iv: HTTP
+
++ Lithuania: debian.mirror.vu.t: HTTP
+
++ Lithuania: mirroritnet tt: HTTP
+
++ Luxembourg: debian.mirrorroot lu: HTTP
+
++ Netherlands: debian snt.utwente.nl: HTTP
+
++ Netherlands: mirror.duocast.net: HTTP
+
++ Netherlands: mirror.n.datapacket.com: HTTP
++ Netherlands: mirror.ni.leaseweb.net: HTTP
+‘+ New Caledonia: debian.lagoon.ne: HTTP
+
++ Norway: ftp.uio.no: HTTP
+
++ Poland: ftp.ps.pl: HTTP.
+
++ Portugal: debian.uevora.pt: HTTP.
+
++ Portugal: ftp.nl.tecnico.ullsboa.pt: HTTP
+
+‘+ Russia: ftp.psn.ru: HTTP
+
+‘+ Russia: mirror.corbina.net: HTTP
+
+‘+ Russia: mirror:mephi.ru: HTTP
+
++ Russia: mirrortruenetwork.ru: HTTP.
+
+‘+ South Africa: debian.salxnet: HTTP
+
++ South Africa: ftpis.co.za: HTTP.
+
++ Spain: debian.uvigo.es: HTTP
+
++ Spain: ftp.caliu.cat: HTTP
+
++ Spain: ftp.cica.es: HTTP.
+
++ Sweden: cdimage.debian.org: HTTP
+
++ Sweden: ftp.acc.umu.se: HTTP
+
++ Switzerland: debian.ethz.ch: HTTP
+
++ Taiwan: ftp.ncnu.edu.tw: HTTP
+
++ Turkey: ftp.linux.org.tr: HTTP.
+
++ Ukraine: debian.netforce.hosting: HTTP
+
++ Ukraine: debian.volia.net: HTTP
+
++ United Kingdom: debian-so.mirror.anbx.net: HTTP
++ United kingdom: ftp.ticklers.org: HTTP
+
++ United Kingdom: mirrorservice.org: HTTP
+
++ United States: debian.osuosl.org: HTTP
+
++ United States: mirror.cogentco.com: HTTP.
+
++ United States: mirror keystealth.org: HTTP
++ United States: mirrors.bloomu.edu: HTTP
+
++ United States: mirrors.lug.mtu.edu: HTTP
+
++ United States: mirrors.oct.berkeleyedu: HTTP
++ United States: mirror.steadfast:net: HTTP
+
++ United States: mirror.us.leaseweb net: HTTP,
+
+dsbian on cé fan netingall buy iodo http to misc
+
+‘The page ao avalabe nthe flowing languages
+
+‘contacts
+Help Debian
+
+Copyright© 1997-2023 SP and thers: Se eens terms
+Dehli registred tradsmac Software the Publ ners.

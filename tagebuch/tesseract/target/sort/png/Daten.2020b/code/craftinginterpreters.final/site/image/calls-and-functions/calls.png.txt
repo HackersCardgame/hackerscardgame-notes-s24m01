@@ -1,0 +1,9 @@
+call first ()
+var a=l1;
+call second()
+var ¢ =3;
+
+var d =4;
+return from second()
+var b= 2;
+return from first()

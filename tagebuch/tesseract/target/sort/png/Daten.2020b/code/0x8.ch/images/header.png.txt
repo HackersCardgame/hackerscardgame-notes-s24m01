@@ -1,0 +1,57 @@
+ivf
+
+2// worker
+
+3// =
+4
+
+5 self.
+6 self.
+7self.
+8 self.
+
+9
+
+10 self.
+11 self.
+
+importScripts( ‘minimax. js');
+importScripts('chessRules.js');
+
+importScripts('alphabeta.js');
+importScripts('negaScout.js');
+
+importScripts(‘alphabetaWithMemory.js');
+importScripts(‘node.js');
+
+-importScripts('mtdf.js');
+
+15 onmessage = function(e) {
+
+17 console.log("Worker Called and message passed ");
+
+data.push([board, depth, -player, init, resetCounter, moveNumber]);
+
+21 boardString=e.data.toString();
+
+23. data = boardString.split(",");
+
+25 stringBoard=data.slice(0, 64);
+
+27 board = [];
+
+29 for(var i=0; i<64; i++)
+
+board[i]=parseInt(stringBoard[i]);
+
+32 var depth = data[64];
+
+33. var player = data[65]
+
+34 var init = data[66]=="true";
+35 var moveNumber = data[6/];
+36 var algorithm = data[68];
+
+//TODO: als
+
+nicht array ausfihren

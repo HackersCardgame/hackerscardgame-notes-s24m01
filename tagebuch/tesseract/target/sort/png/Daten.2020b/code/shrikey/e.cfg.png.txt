@@ -1,0 +1,6 @@
+root@debian: /home/marc/Daten.2017/code/shrikey/python# cd cfg/
+root@debian: /home/marc/Daten.2017/code/shrikey/python/cfg# fgrep -r APPS MAC *
+E.cfg:allows E = APPS MAC GAMES GAMES.DVD DVDR.RET DVDR.LIM DIVX.R5 DIVX.RET DIVX.SCR DIVX.SCR.LIM DIVX.TS DIVX.TC DIVX.LIM TV.DIVX.DSR TV.DIVX.DTV PSP XBOX360 WIT
+
+E.cfg:# 060821 - Fixed APPS.MAC -> APPS MAC to avoid triggering 'APPS'
+root@debian: /home/marc/Daten.2017/code/shrikey/python/cta# lf

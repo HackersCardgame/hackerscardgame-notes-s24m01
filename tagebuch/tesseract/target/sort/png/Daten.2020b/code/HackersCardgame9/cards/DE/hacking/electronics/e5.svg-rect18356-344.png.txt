@@ -1,0 +1,37 @@
+Accelerometer Y
+
+i
+
+Accelerometer Z; 5
+1 ea!
+
+=.
+
+Temperature
+Barometer
+Humidity
+Mlumination
+Motion
+Light Color
+
+Magnetometer X
+
+i e5
+
+Inventor: xxxxx Year: ~?2??2
+
+Dieser
+sensor kann Licht, Infrarot, Elektromagnetismus
+(x,y,z), Temperatur, Tone...erkennen, und er hat
+"Synthetische Sensoren" (berechnet dy[n]/dt) in
+
+. SO
+kann er z.B. erkennen wenn man den Herd
+einschaltet (Warme && Ton && Fingerabdruck des
+Magnetrons). Leider erkennt Satan damit auch, wenn
+eine junge Frau ihr _ Epiliergerat verwendet.
+K6rperpflege ist eine Vulnerable Phase und es ist
+wahrscheinlich, dass Satan dann unliebsame alte
+eklige Herren aus dem Umfeld in ihren "Stream"
+reinschaltet um diese Vulnerability zu missbrauchen.
+

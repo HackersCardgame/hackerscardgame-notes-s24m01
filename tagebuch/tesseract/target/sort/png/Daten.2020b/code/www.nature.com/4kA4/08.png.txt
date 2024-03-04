@@ -1,0 +1,184 @@
+players avg, are continually evaluated; and the best performing player so far, cv, is
+used to generate new self-play data.
+
+Optimization. Each neural network f,, is optimized on the Google Cloud using
+TensorFlow, with 64 GPU workers and 19 CPU parameter servers. The batch-size
+is 32 per worker, for a total mini-batch size of 2,048. Each mini-batch of data is
+sampled uniformly at random from all positions of the most recent 500,000 games
+of self-play. Neural network parameters are optimized by stochastic gradient
+descent with momentum and learning rate annealing, using the loss in equation
+(1). The learning rate is annealed according to the standard schedule in Extended
+Data Table 3. The momentum parameter is set to 0.9. The cross-entropy and MSE
+losses are weighted equally (this is reasonable because rewards are unit scaled,
+ré{—l,+]}) and the L2 regularization parameter is set to c= 10-4, The optimiza-
+tion process produces a new checkpoint every 1,000 training steps. This checkpoint
+is evaluated by the evaluator and it may be used for generating the next batch of
+self-play games, as we explain next.
+
+Evaluator. To ensure we always generate the best quality data, we evaluate each
+new neural network checkpoint against the current best network f,, before using
+it for data generation. The neural network f,, is evaluated by the performance of
+an MCTS search ay, that uses f,, to evaluate leaf positions and prior probabilities
+(see Search algorithm). Each evaluation consists of 400 games, using an MCTS
+with 1,600 simulations to select each move, using an infinitesimal temperature
+7—+0 (that is, we deterministically select the move with maximu m visit count, to
+give the strongest possible play). If the new player wins by a margin of >55% (to
+avoid selecting on noise alone) then it becomes the best player ag,, and is subse-
+quently used for self-play generation, and also becomes the baseline for subsequent
+comparisons.
+
+Self-play. The best current player ay,, as selected by the evaluator, is used to
+generate data. In each iteration, ag, plays 25,000 games of self-play, using 1,600
+simulations of MCTS to select each move (this requires approximately 0.4s per
+search). For the first 30 moves of each game, the temperature is set to T= 1; this
+selects moves proportionally to their visit count in MCTS, and ensures a diverse
+set of positions are encountered. For the remainder of the game, an infinitesimal
+temperature is used, 70. Additional exploration is achieved by adding Dirichlet
+noise to the prior probabilities in the root node so, specifically P(s, a) =
+(1—€)pa+€mMa where n~ Dir (0.03) and ¢ = 0.25; this noise ensures that all
+moves may be tried, but the search may still overrule bad moves. In order to save
+computation, clearly lost games are resigned. The resignation threshold vyesign is
+selected automatically to keep the fraction of false positives (games that could
+have been won if AlphaGo had not resigned) below 5%. To measure false posi-
+tives, we disable resignation in 10% of self-play games and play until termination.
+Supervised learning. For comparison, we also trained neural network parame-
+ters As, by supervised learning. The neural network architecture was identical to
+AlphaGo Zero. Mini-batches of data (s, 7, z) were sampled at random from the
+KGS dataset, setting 7, = 1 for the human expert move a. Parameters were opti-
+mized by stochastic gradient descent with momentum and learning rate annealing,
+using the same loss as in equation (1), but weighting the MSE component by a
+factor of 0.01. The learning rate was annealed according to the standard schedule
+in Extended Data Table 3. The momentum parameter was set to 0.9, and the L2
+regularization parameter was set to c= 10-4,
+
+By using a combined policy and value network architecture, and by using a
+low weight on the value component, it was possible to avoid overfitting to the
+values (a problem described in previous work”). After 72h the move prediction
+accuracy exceeded the state of the art reported in previous work!2°°-*S, reaching
+60.4% on the KGS test set; the value prediction error was also substantially better
+than previously reported!?, The validation set was composed of professional games
+from GoKifu. Accuracies and MSEs are reported in Extended Data Table 1 and
+Extended Data Table 2, respectively.
+
+Search algorithm. AlphaGo Zero uses a much simpler variant of the asynchro-
+nous policy and value MCTS algorithm (APV-MCTS) used in AlphaGo Fan and
+AlphaGo Lee.
+
+Each node s in the search tree contains edges (s, a) for all legal actions a € A(s).
+
+Each edge stores a set of statistics,
+
+{N(s, a), W(s, a), Q(s, a), P(s,a)}
+
+where N(s, a) is the visit count, W(s, a) is the total action value, Q(s, a) is the mean
+action value and P(s, a) is the prior probability of selecting that edge. Multiple
+simulations are executed in parallel on separate search threads. The algorithm
+proceeds by iterating over three phases (Fig, 2a~c), and then selects a move to
+play (Fig. 2d).
+
+Select (Fig. 2a). The selection phase is almost identical to AlphaGo Fan'?; we
+recapitulate here for completeness. The first in-tree phase of each simulation begins
+at the root node of the search tree, so, and finishes when the simulation reaches a
+
+leaf node s;, at time-step L. At each of these time-steps, t< L, an action is selected
+according to the statistics in the search tree, a, = argmax(Q(s;,a) + U(s,,a))>
+using a variant of the PUCT algorithm’4, “
+
+——~
+
+U(s,a) = CpuctP(s, a V=eN@b) 2)
+
+1+N(s,a)
+where Cpuct is a constant determining the level of exploration; this search control
+strategy initially prefers actions with high prior probability and low visit count, but
+asympotically prefers actions with high action value.
+Expand and evaluate (Fig. 2b). The leaf node s; is added to a queue for neural net-
+work evaluation, (d;(p), v) = fo(di(sr)), where d; is a dihedral reflection or rotation
+selected uniformly at random from iin [1..8]. Positions in the queue are evaluated
+by the neural network using a mini-batch size of 8; the search thread is locked until
+evaluation completes. The leaf node is expanded and each edge (s,, a) i alized to
+{N(sz, a) =0, W(sz, a) =0, Q(sz, a) =0, P(sz, @) = pa}; the value v is then backed up.
+Backup (Fig. 2c). The edge statistics are updated in a backward pass through each
+step << L. The visit counts are incremented, N(s;, a;) =N(sp, a) + 1, and the action
+
+value is updated to the mean value, W(s;,a¢) = W(s,,a+) +¥,Q(s:,41) = eae
+12,69 nee
+
+We use virtual loss to ensure each thread evaluates different nodes’
+Play (Fig. 2d). At the end of the search AlphaGo Zero selects a move a to play
+in the root position so, proportional to its exponentiated visit count,
+a(a|so) = N(so, a)!/7/ Ly No, b)!/* , where 7 is a temperature parameter that
+controls the level of exploration. The search tree is reused at subsequent time-steps:
+the child node corresponding to the played action becomes the new root node; the
+subtree below this child is retained along with all its statistics, while the remainder
+of the tree is discarded. AlphaGo Zero resigns ifits root value and best child value
+are lower than a threshold value Vresign-
+
+Compared to the MCTS in AlphaGo Fan and AlphaGo Lee, the principal dif-
+
+ferences are that AlphaGo Zero does not use any rollouts; it uses a single neu-
+ral network instead of separate policy and value networks; leaf nodes are always
+expanded, rather than using dynamic expansion; each search thread simply waits
+for theneural network evaluation, rather than performing evaluation and backup
+asynchronously; and there is no tree policy. A transposition table was also used in
+the large (40 blocks, 40 days) instance of AlphaGo Zero.
+Neural network architecture. The input to the neural network is a 19 x 19 x 17
+image stack comprising 17 binary feature planes. Eight feature planes, X,, consist
+of binary values indicating the presence of the current player's stones (X}=1 if
+intersection i contains a stone of the player's colour at time-step f; 0 if the intersec-
+tion is empty, contains an opponent stone, or if t< 0). A further 8 feature planes,
+Y;, represent the corresponding features for the opponent’ stones. The final feature
+plane, C, represents the colour to play, and has a constant value of either 1 if black
+is to play or 0 if white is to play. These planes are concatenated together to give
+input features s;= [X;, Yi, Xt-1, Yr-1n--» Xt_7» Yi-7» C]. History features X,, Y; are
+necessary, because Go is not fully observable solely from the current stones, as
+repetitions are forbidden; similarly, the colour feature C is necessary, because the
+komiis not observable.
+
+The input features s; are processed by a residual tower that consists of a single
+convolutional block followed by either 19 or 39 residual blocks',
+
+The convolutional block applies the following modules:
+
+(1) A convolution of 256 filters of kernel size 3 x 3 with stride 1
+
+(2) Batch normalization'®
+
+(3) A rectifier nonlinearity
+
+Each residual block applies the following modules sequentially to its input:
+
+(1) A convolution of 256 filters of kernel size 3 x 3 with stride 1
+
+(2) Batch normalization
+
+(3) A rectifier nonlinearity
+
+(4) A convolution of 256 filters of kernel size 3 x 3 with stride 1
+
+(5) Batch normalization
+
+(6) Askip connection that adds the input to the block
+
+(7) A rectifier nonlinearity
+
+The output of the residual tower is passed into two separate ‘heads’ for
+computing the policy and value. The policy head applies the following modules:
+
+(1) A convolution of 2 filters of kernel size 1 x 1 with stride 1
+
+(2) Batch normalization
+
+(3) A rectifier nonlinearity
+
+(4) A fully connected linear layer that outputs a vector of size 19° + 1= 362,
+corresponding to logit probabilities for all intersections and the pass move
+
+The value head applies the following modules:
+
+(1) A convolution of 1 filter of kernel size 1 x 1 with stride 1
+
+(2) Batch normalization
+
+(3) A rectifier nonlinearity
+

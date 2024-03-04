@@ -1,0 +1,10 @@
+arguments
+
+OR.GET_LOCAL (this) | Cruller instance ‘a superclass
+OP_CONSTANT “icing” - ; 1 Cruller instance | “icing” (
+
+OP_GET_UPVALUE (super) _| Cruller instance | “icing” | Doughnut class
+
+OP_SUPER_INVOKE “finish” _ _ | Cruller instance | “icing”
+————
+Doughnut.finish() CallFrame

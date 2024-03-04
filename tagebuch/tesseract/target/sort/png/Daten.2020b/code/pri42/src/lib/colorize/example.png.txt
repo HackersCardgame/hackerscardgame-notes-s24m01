@@ -1,0 +1,183 @@
+banana!",
+banana!",
+
+I am a banana!
+
+color: :rize("I am a banana!",
+
+I am a banana!
+
+color:
+
+It_am a banana!
+
+color: :rize("I
+
+color:
+
+It_am a banana!
+
+color: :rize("I
+
+It am a banana!
+
+color: :rize("I
+
+It_am a banana!
+
+banana!
+
+color:
+
+It am a banana!
+
+color: :rize("I
+
+It_am a banana!
+
+a banana!
+
+It am a banana!
+
+color: :rize("I
+I am a banana!
+
+banana!",
+
+banana!",
+
+banana!",
+
+banana!",
+
+banana!",
+
+banana!",
+
+banana!",
+banana!",
+banana!
+
+"Yellow",
+
+"Yellow",
+
+"Yellow",
+
+"Yellow",
+
+“Yellow’
+
+"Yellow",
+
+"Yellow",
+
+“Yellow’
+
+"Yellow",
+
+“Yellow’
+
+"Yellow",
+
+"Yellow",
+
+“Yellow’
+
+"Yellow",
+
+"Yellow",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Black",
+
+"Blue", "Black",
+
+"Blue", "Bold") results in
+
+"cyan", "Bold") results in
+
+“Dark Gray", “Bold") results in
+
+"Default", "Bold") results in
+
+"Green", "Bold") results in
+
+“Light Blue", "Bold") results in
+
+“Light Cyan", "Bold") results in
+
+“Light Gray", "Bold") results in
+
+“Light
+
+Green", "Bold") results in
+
+“Light Magenta’
+
+1d") results in
+
+“Light Red", “Bold") results in
+
+“Light Yellow", "Bold") results in
+“Megenta", "Bold") results in
+"Red", "Bold") results in
+"white", "Bold") results in
+"Blue", "Default") results in
+"cyan", “Default") results in
+"Dark Gray", "Default") results in
+"Default",
+
+“Default") results in
+
+"Green", “Default") results in
+
+“Light ", "Default") results in
+
+“Light Cyan", “Default") results in
+
+“Light Gray", “Default") results in
+
+“Light Green", “Default") results in
+“Light Magenta", "Default") results in
+“Light Red", "Default") results in
+
+“Light Yellow", "Default") results in
+
+“Megenta", "Default") results in
+"Red", "Default") results in
+"white", “Default") results in
+"Yellow", "Default"
+
+results in
+
+“Default") results in

@@ -1,0 +1,15 @@
+Inventor: xxxx Year: ~??2?
+Hardware Backdoor... / Firmware Backdoor: Siehe:
+https://media.ccc.de/v/32c3-7352-
+
+towards reasonably _trustworthy_x86 laptops
+
+Allenfalls war es Vorsatz von IBM den lukrativen
+Betriebssystem Markt an Microsoft zu verkaufen. Sie
+hatten damit ganz viel Geld machen konnen. Als ich
+angefangen habe dies in Frage zu stellen landete ich
+(wieder) mal in der Psychiatrie. Ich hab versucht die
+Dinge die mir Probleme  verursachen’ im
+Betriebssystem zu finden, aber das Betriebssystem
+ist allenfalls nur die halbe Geschichte.
+

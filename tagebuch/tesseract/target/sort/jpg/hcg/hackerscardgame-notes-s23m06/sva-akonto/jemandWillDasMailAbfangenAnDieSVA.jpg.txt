@@ -1,0 +1,33 @@
+en, wie
+erpasst
+e
+
+ich
+andelt
+
+gen fur
+
+truger,
+
+en
+
+gemass
+Pivot
+
+men
+heftet
+
+digung
+
+Gericht
+z lose,
+leuchten
+e
+
+Senden der Nachricht fehigeschlagen.
+
+Die Nachricht konnte nicht gesendet werden, weil der Verbindungsaufbau mit dem SMTP-Server
+asmtp.mail.hostpoint.ch fehlgeschlagen ist. Der Server ist entweder nicht verfugbar oder lehnt
+SMTP-Verbindungen ab. Bitte kontrollieren Sie die SMTP-Server-Einstellungen und versuchen Sie es
+
+nochmals.

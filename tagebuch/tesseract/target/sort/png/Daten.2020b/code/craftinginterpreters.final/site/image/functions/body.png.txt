@@ -1,0 +1,9 @@
+GLOBAL
+
+makeCounter —> <fn makeCounter>
+
+counter —> <frn count>
+
+PARENT
+makeCounter () BODY
+

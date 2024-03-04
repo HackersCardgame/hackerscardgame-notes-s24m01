@@ -1,0 +1,7 @@
+var Declaration()
+
+Laut ————> parseVariable()
+— CONSTANT _)
+COMPILE INITIALIZER
+
+(oa ————> defineVariable()

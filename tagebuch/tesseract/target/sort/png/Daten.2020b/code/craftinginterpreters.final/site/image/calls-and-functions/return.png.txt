@@ -1,0 +1,23 @@
+top-level code call frame
+
+aaa See
+script] 4+ |sum| 5 | 6 | 7 [18 |
+[a
+
+|
+
+1. Pop return value sum() call frame \
+\
+
+—3QaGQGququQNQNQ0*€e0—0—=303};};};};z;z; NN SSS
+script] 4+ | sum| 5 | 6 | 7 | |
+LC
+
+2. Discard call frame y
+Lf
+
+script| 4 |
+
+3. Push return value
+
+script| 4 | 18 |

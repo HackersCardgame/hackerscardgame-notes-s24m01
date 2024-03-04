@@ -1,0 +1,39 @@
+w EC x (MT (1 x \(By Le x Gx \G or x M x \w (* x (bl x Bix) six
+
+€ CG @ Secure
+
+Example
+
+ample
+Ambigi
+ylutio
+
+Example
+
+Example
+Example 6
+
+https://0x8.chi
+
+DES ETI
+Sudoku Solver
+
+This Sudoku-Solver should solve all valid Sudokus. It uses a
+recursive backtracking algorithm that not stupidely goes from
+the first to the last field but selects always the best
+possible move(s). You can save the Sudoku to the URL and then
+copy the URL to send this specific Sudoku to a friend. If you
+refere with an url with # and then 81 numbers where @ means
+empty field you can load a sudoku to the website for example >
+HERE < You can find the complete Source on GITHUB
+
+load § easy § medium hard
+
+< prev. Solution next Solution >
+
+clear
+SOLVE
+generate URL and QRCode (BOTTOM)
+Iterations to try: 5000
+Animationdelay [ms]: 100
+

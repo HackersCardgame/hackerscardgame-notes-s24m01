@@ -1,0 +1,164 @@
+. Hahnloser, R. H. R.,
+
+. Su
+
+928-1937 (2016).
+Jaderberg, M. et al. Reinforcement lear
+
+Dosovitskiy, A. & Koltun, V. Learning to
+Conf. Learn. Representations (2017).
+
+search. Nature 529, 484-489 (2016).
+
+. Coulom, R. Efficient selectivity and bac!
+
+search. In 5th Int. Conf. Computers and
+Herik, H. J.) 72-83 (2006).
+
+Cont. Mach. Learn. 282-293 (2006).
+
+. Browne, C. et al. A survey of Monte Car'
+Comput. Intell. Al Games 4, 1-49 (2012).
+Fukushima, K. Neocognitron: a self organizing neural network model for a
+
+mechanism of pattern recognition una
+36, 193-202 (1980).
+
+. LeCun, Y. & Bengio, Y. in The Handbook
+
+Ch. 3 (ed. Arbib, M.) 276-278 (MIT Pre
+
+. loffe, S. & Szegedy, C. Batch normaliza
+by reducing internal covariate shift. In Proc. 32nd Int. Conf. Mach. Learn. Vol. 37
+
+448-456 (2015).
+Seung, H. S. Digita
+
+1998).
+
+nih, V. et al. Asynchronous methods for deep reinforcement learning. In
+Proc. 33rd Int. Conf. Mach. Learn. Vol. 48 (eds Balcan, M. F. & Weinberger, K. Q.)
+
+ning with unsupervised auxiliary tasks.
+
+in 5th Int. Conf. Learn. Representations (2017).
+
+act by predicting the future. In 5th Int.
+
+andziuk, J. in Challenges for Computational Intelligence (Duch, W. &
+andziuk, J.) 407-442 (Springer, 2007).
+. Silver, D. et a/. Mastering the game of Go with deep neural networks and tree
+
+up operators in Monte-Carlo tree
+Games (eds Ciancarini, P. & van den
+
+. Kocsis, L. & Szepesvari, C. Bandit based Monte-Carlo planning. In 15th Eu.
+
+jo tree search methods. JEEE Trans.
+
+fected by shift in position. Biol. Cybern.
+
+of Brain Theory and Neural Networks
+ss, 1995).
+ion: accelerating deep network training
+
+Sarpeshkar, R., Mahowald, M. A., Douglas, R. J. &
+selection and analogue amplification coexist in a
+cortex-inspired silicon circuit. Nature 405, 947-951 (2000).
+
+. Howard, R. Dynamic Programming and Markov Processes (MIT Press, 1960).
+ton, R. & Barto, A. Reinforcement Learning: an Introduction (MIT Press,
+
+. Bertsekas, D. P Approximate policy iteration: a survey and some new methods.
+
+J. Control Theory Appl. 9, 310-335 (2011).
+
+. Scherrer, B. Approximate policy iteration schemes: a comparison. In Proc. 31st
+
+Int. Conf. Mach. Learn. Vol. 32 1314-1322 (2014).
+
+. Rosin, C. D. Multi-armed bandits with e
+
+61, 203-230 (2011).
+
+pisode context. Ann. Math. Artif. Intell.
+
+. Coulom, R. Whole-history rating: a Bayesian rating system for players of
+
+time-varying strength. In Int. Conf. Comput. Games (eds van den Herik, H. J., Xu,
+
+X. Ma, Z. & Winands, M. H. M.) Vol. 513
+
+1 113-124 (Springer, 2008).
+
+. Laurent, G. J., Matignon, L. & Le Fort-Piat, N. The world of independent learners
+
+is not Markovian. Int. J. Knowledge-Based Intelligent Engineering Systems 15,
+
+55-64 (2011).
+
+27.
+earning. In Proc. 34th Int. Conf. Mach. Learn. Vol. 70 1146-1155 (2017).
+Heinrich, J. & Silver, D. Deep reinforcement learning from self-play in
+imperfect-information games. In NIPS Deep Reinforcement Learning Workshop
+(2016).
+Jouppi, N. P. et al. In-datacenter performance analysis of a Tensor
+Processing Unit. Proc. 44th Annu. Int. Symp. Comp. Architecture Vol. 17 1-12
+(2017).
+
+addison, C. J., Huang, A., Sutskever, |. & Silver, D. Move evaluation in Go
+using deep convolutional neural networks. In 3rd Int. Conf. Learn.
+Representations. (2015).
+Clark, C. & Storkey, A. J. Training deep convolutional neural networks
+‘0 play Go. In Proc. 32nd Int. Conf. Mach. Learn. Vol. 37 1766-1774
+(2015).
+Tian, Y. & Zhu, Y. Better computer Go player with neural network and long-term
+prediction. In 4th Int. Conf. Learn. Representations (2016).
+
+Cazenave, T. Residual networks for computer Go. /EEE Trans. Comput. Intell. Al
+Games https://doi.org/10.1109/TCIAIG.2017.2681042 (2017).
+
+Huang, A. AlphaGo master online series of games. https://deepmind.com/
+research/AlphaGo/match-archive/master (2017).
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+Supplementary Information is available in the online version of the paper.
+
+Acknowledgements We thank A. Cain for work on the visuals; A. Barreto,
+G. Ostrovski, T. Ewalds, T. Schaul, J. Oh and N. Heess for reviewing the paper;
+and the rest of the DeepMind team for their support.
+
+Author Contributions D.S.,J.S., KS. LA,AG, LS. and TH. designed and
+implemented the reinforcement learning algorithm in AlphaGo Zero. AH., JS.,
+M.L. and D.S. designed and implemented the search in AlphaGo Zero. L.B.,
+JS., AH. FH., TH. ¥.C. and D.S. designed and implemented the evaluation
+framework for AlphaGo Zero. D.S.,A.B., FH, AG, T.L, TG, LS. Gv.d.D. and D.H.
+managed and advised on the project. D.S., T.G. and A.G. wrote the paper.
+
++
+
+Author Information Reprints and permissions information is available a
+www.nature.com/reprints. The authors declare no competing financia
+interests. Readers are welcome to comment on the online version of the paper.
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional
+claims in published maps and institutional affiliations. Correspondence and
+
+requests for materials should be addressed to D.S. (davidsilver@google.com).
+
+Reviewer Information Nature thanks S. Singh and the other anonymous
+reviewer(s) for their contribution to the peer review of this work.
+
+Foerster, J. N. etal. Stabilising experience replay for deep multi-agent reinforcement

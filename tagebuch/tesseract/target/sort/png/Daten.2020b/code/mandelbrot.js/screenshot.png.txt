@@ -1,0 +1,9 @@
+Mandelbrot
+
+Threshold: [20 | [Redraw] [Copy to URL |
+
+Selection X1: |-1.4079192286040088 Selection Y1: -0.1370627532768042
+Selection X2: |-1.4075926196678514 Selection Y2: |0.13688395276439927
+
+To zoom into the Fractal image select a rectangle with the mouse.
+

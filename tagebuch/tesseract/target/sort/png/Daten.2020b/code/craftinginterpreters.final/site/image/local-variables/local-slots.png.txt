@@ -1,0 +1,16 @@
+‘ _/_ OP_CONSTANT
+
+vara=1+2;
+
+var b=43 op
+3 \ —_—
+
+OP_ADD b
+a <_—
+
+OP_CONSTANT 3 [4
+a
+
+‘é becomes local slot
+
+ecomes local slot

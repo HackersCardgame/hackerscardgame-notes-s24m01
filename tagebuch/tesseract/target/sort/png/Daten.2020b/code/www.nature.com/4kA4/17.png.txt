@@ -1,0 +1,12 @@
+Extended Data Table 2 | Game outcome prediction error
+
+KGS train KGS test GoKifu validation
+Supervised learning (20 block) 0.177 0.185 0.207
+Supervised learning (12 layer '”) 0.19 0.37 -
+Reinforcement learning (20 block) - - 0.177
+Reinforcement learning (40 block) - - 0.180
+
+Mean squared error on game outcome predictions for neural networks trained by reinforcement learning (that is, AlphaGo Zero) or supervised learning, For supervised
+learning, the network was trained for 3 days on KGS data (amateur games); comparative results are also shown from ref. 12. For reinforcement learning, the 20 block
+network was trained for 3 days and the 40 block network was trained for 40 days, Networks were also evaluated on a validation set based on professional games from
+the GoKifu dataset.

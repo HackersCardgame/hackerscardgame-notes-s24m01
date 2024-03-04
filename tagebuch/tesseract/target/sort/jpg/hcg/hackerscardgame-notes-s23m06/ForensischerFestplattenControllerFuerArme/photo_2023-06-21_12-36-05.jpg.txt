@@ -1,0 +1,46 @@
+deem daicant di bie! 2 ea
+
+Q_marc@windook: /mntyesnegft X = +
+
+marc@windoof: /mnt/e/hcg/hackerscardgame-notes-s23m06/twitter$ git push
+Enter passphrase for key '/home/marc/.ssh/id_rsal':
+To notes:HackersCardgame/hackerscardgame-notes-s23m06.git
+1 [rejected] main -> main (fetch first)
+error: failed to push some refs to ‘notes:HackersCardgame/hackerscardgame-notes-s23m06. git’
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., ‘git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in ‘git push --help' for details.
+marc@windoof: /mnt/e/hcg/hackerscardgame-notes-s23m06/twitter$ git pull
+Enter passphrase for key '/home/marc/.ssh/id_rsal':
+"| remote: Enumerating objects: 15070, done.
+
+remote: Counting objects: 100% (4976/4976), done.
+| remote: Compressing objects: 100% (4628/4628), done.
+\ remote: Total 15070 (delta 292), reused 4969 (delta 286), pack-reused 10094
+
+|] Receiving objects: 100% (15070/15076), 1.58 GiB | 9.07 HiB/s, done.
+Resolving deltas: 100% (1291/1291), done.
+From notes: HackersCardgame/hackerscardgame-notes~s23m06
+93787¢34..cOe56b3c main -> origin/main
+hint: You have divergent branches and need to specify how to reconcile them.
+hint: You can do so by running one of the following commands sometime before
+your next pull:
+
+git config pull.rebase false # merge (the default strategy)
+git config pull.rebase true # rebase
+git config pull.ff only # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+
+or --ff-only on the command Line to override the configured default per
+
+invocation.
+
+fatal: Need to specify how to reconcile divergent branches.
+
+marc@windoof: /mnt/e/hcg/hackerscardgame-notes-s23m06/twitter$ git config pull.rebase false
+marc@windoof: /mnt/e/hcg/hackerscardgame-notes-s23m06/twitter$
+

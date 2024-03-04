@@ -1,0 +1,8 @@
+NaN bits ve cite FP Indef.
+
+Bo titititititi1l1111112.11 11 BRR
+fe)
+
+63 62 61 53 52 54 50
+
+41 available bit + $1 bits =52
