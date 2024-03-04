@@ -1,0 +1,27 @@
+Localhost - Memory Usage
+
+som
+5.0m
+$ aon
+2 20m
+20H
+om
+0.0
+Mon 06:00 on 12:00 on 18:00 Tue 00:00
+Fron 2016/11/14 03:02:33 To 2016/11/15 03:02:33
+DFree Current: 2.71 M Average: 2.46. Maximum: 6.27 M
+Osvap Current: 0.00 Average: 0.00 Maximum: 0.00
+° Locathost - Load Average
+Bap
+£ 20
+y 10
+B00
+g Mon 06:00 Mon 12:00 Mon 18:00 “Tue 00:00
+Fron 2016/11/14 03:02:33 Te 2016/11/15 03:02:33
+[1 Minute Average Current: 0,02
+D5 Minute Average Current: 0.08
+B15 Minute Average Current: 0.12
+
+OFfof
+
+OFfOP

@@ -1,0 +1,33 @@
+Unicode Text Converter
+Unicode Mapper
+
+Happy Birthday
+
+;- Unicode'd text
+
+normal
+Happy Birthday
+bold
+Happy Birthday
+italic
+Happy Birthday
+boldtitalic
+Happy Birthday
+sans-serif
+Happy Birthday
+sans-serif+bold
+Happy Birthday
+sans-seriftitalic
+Happy Birthday
+sans-serif+bold+italic
+Happy Birthday
+handwriting
+Happy Birthday
+bold+handwriting
+
+Happy Birthday
+
+Happy Birthday
+bold+fraktur
+Uanny Rirthday
+

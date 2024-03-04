@@ -1,0 +1,11 @@
+/\DIA's Titan Series Prod
+Specifications
+
+Titan X Titan X
+Maxwell — Pascal
+2S 3,072 3,584
+es 0 0
+7GB 10GB
+5 (FP32) ue 12
+$999 $1,299
+

@@ -1,0 +1,55 @@
+Der Minimax-Satz
+
+sessment cine nS
+
+: weisen Aon Neumann erweiterte den Strat 8H
+
+pars der gemiscten. on (einer fe giebe; a
+
+Wsswant einer ein iawtion (einer reinen Strategie) 2u einer ie
+
+einer eine jer Menge von Aktionen (einer gemischen ute Yon
+Strat
+
+coptimalen 2° Strategie abweicht. Kein Wunder, daB John von Neuma
+seme ich es beurtelen Kan. > s keine Spicltheorc ohn
+: Mfeiner Meinung nach lohnte es sich nicht, etwas zu veriffentlc
+pevor dieser Satz ‘bewiesen war.” Bin ‘einfaches Beispiel soll uns nun zeigen, e
+gemischte Stratezien funktionieren. me
+
+‘ager gegen Bomber
+
+sen Weltksieg ariffen Kampfjéserpiloree feindliche Bomberflu
+w daf sie aus der Richtung der Sonne auf sie herabstieBen, cine
+
+Kriegslist, die “Hlun-in-the-Sun"-Taktik hhieB. Als mit der Zeit stimtliche Kampfpi
+foten diese Taktik anwandten, 208°% ‘die Bomberpiloten einfach Sonnenbrillen an,
+‘Ghauten in die Sonne und pablen auf, In der Folge kam eine andere Strategie aut
+‘Angriff genau von unten. Diese ‘Methode war auBerordentlich wirksam, w
+Kampfjiger nicht gesichtet wurde, doch wurde er
+inten Tosgehen, denn im SteigtlUS ‘waren die Jager viel zu langsam, um dem
+Bomber zu entgehen. Diese Strategic Jkonnte man fast als Gegensttick 2um jap
+sehen Kamikaze-Angriff betrachten, deshalb wollen wir sie .Ezak-Lmak-Str
+Sennen (Kamikaze von hinten gelesen). ‘Uns liegt also ein Zweipersonen-Nullsum
+tmenspiel zwischen der Jager- und der Bomberbesatzung vor. Die Jager hal
+‘Wahl zwischen den Strategien "sHlun-in-the-Sun und .Ezak-Imal und die Bom
+ermannschaften kénnen gurch den Geschit2it: ach oben oder nach unten
+gucken, Wenn wit verabreden, die Auszahlung fir den Kampfjiger als
+Uberlebenschancen bei einem ‘Angriff zu definieren, dann wird die spielthe
+sche Situation mit typischen Uberlebenswahrscheinlichkeiten mittels der fole
+‘Auszahlungsmatrix dargestellt:
+
+Bomber
+Nach oben Nach unten
+ee en 0,95 1
+eet Ezak-Imak 1
+Dieses Spiel besitzt offensichtlich keinen Sattelpunkt (warum?) ‘Weder
+Bomber haben reine Strategien, die sich nicht durch den Gegner 2u dessen
+ausniitzen lassen, wenmadieser die Strategie im voraus erfuhrt. Beide P
+
+Vortell
+
+en: S
+
+- =
+

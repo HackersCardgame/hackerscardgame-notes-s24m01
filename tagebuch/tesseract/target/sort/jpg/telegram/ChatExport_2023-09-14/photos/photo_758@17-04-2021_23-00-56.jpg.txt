@@ -1,0 +1,45 @@
+Activities FRggi Frame ~
+
+Fi View Search Terminal Help
+
+java.awt.Color;
+java.awt.Font
+
+java.awt. Graphics;
+javax. swing. JFrame;
+
+public class MyFrame extends JFrame {
+
+public void paint (Graphics g) {
+uper.paint (g);
+
+\', Font.PLAIN,
+
+g-setColor (Color. BLUE) ;
+g-drawString( "Yay
+g-drawString( + [
+g.setColor(Color.RED)
+for (int iso; icny i++)
+for (int jen; i+)
+if (i+ j) %
+
+t
+
+public static void main(string{] args) {
+iFrame frame = new MyFr
+frame. setSize (400,405);
+ame ,setDefault peration (Wind
+
+frame, setVisible( true);
+
+:syntax on
+
+)) g. fillRect (40+) +4
+
+/1le0+it40,
+
+Sat 18:55
+
+1a
+
+au

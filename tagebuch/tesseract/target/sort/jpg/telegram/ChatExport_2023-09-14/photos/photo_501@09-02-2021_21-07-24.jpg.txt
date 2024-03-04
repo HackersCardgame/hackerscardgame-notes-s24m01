@@ -1,0 +1,65 @@
+@ (Feexbook
+
+@ (rymtare sevanisot| Faces Xx | @ (Facebook:
+
+€ > SB iinespringercom/aricie/10.1007/s1067
+
+© SpringerLink
+
+% | @ (Mac standott faces x
+
+search Q.togin
+
+x + - 9 Xx
+
+Original Paper | Open Access | Published: 30 July 2018
+
+Brainjacking in deep brain stimulation and autonomy
+
+Jonathan Push, Laurie Pycroft Anders Sandberg, Tipu Aziz & Julian Savulescu
+
+hice and Information Technology 20,219-232(2018) | Cite thie aile
+
+‘4010 Accesses | 14 Citations | 9 Altmetic | Metrics
+
+Abstract
+
+Brainjacking’ refers to the exercise of unauthorized control of another's electronic brain
+implant. Whilst the possibility of hacking a Brain~Computer Interface (BCI) has already been
+proven in both experimental and real-life settings, there is reason to believe that it will soon be
+possible to interfere with the software settings of the Implanted Pulse Generators (IPGs) that
+play a central role in Deep Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical
+concems pertaining to privacy and physical or psychological harm, we claim that the
+possibility of brainjacking DBS raises particularly profound concerns about individual
+autonomy, since the possibility of hacking such devices raises the prospect of third parties
+exerting influence over the neural circuits underpinning the subject's cognitive, emotional and
+motivational states. However, although it seems natural to assume that brainjacking
+represents a profound threat to individual autonomy, we suggest that the implications of
+brainjacking for individual autonomy are complicated by the fact that technologies targeted by
+brainjacking often serve to enhance certain aspects ofthe user's autonomy. The difficulty of
+ascertaining the implications of brainjacking DBS for individual autonomy is exacerbated by
+the varied understandings of autonomy in the neuroethical and philosophical literature, In
+this paper, we seek to bring some conceptual clarity to this area by mapping out some of the
+
+prominent views concerning the different dimension of autonomous agency, and the
+
+implications of brainjacking DBS for each dimension. Drawing on three hypothetical case
+
+Sections Figures References,
+
+Abstract
+
+Scientific background
+
+Brainjacking and the different dimensions of auton.
+Conclusion
+
+Notes
+
+References
+Acknowledgements
+Author information
+Rights and permissions
+
+About this article
+

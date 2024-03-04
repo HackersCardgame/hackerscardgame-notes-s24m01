@@ -1,0 +1,28 @@
+089 |(B 2/05 /O8|O%|Ge|¥ %|\v Fe | so
+
+€© > CB leamepp.con/epp-tutovial/overiading-the-p pera ®
+HE Apps @ Uresveementelen Die buster Fewer. W Sondemitdepeie, Jf The 13 BESTRewt, Auto PuginGuy). @ TheBBanFREERE. Bi KORG Cole
+
+Tutorials to help you master C++ and object-oriented programming
+
+bis FES U BadOverloading the parenthesis operator
+
+There are two things to keep In mind: fst, th
+
+arenthesis operator must be Implemented 2s 2 member function. Second, In nen-object-oriented C++, the () operator is used to cal functions. Inthe case of classes,
+3 function (named operstor() ike any other avercaded operator
+
+An example
+Srdeuble datoL4]
+Matrices are a key component of linear algebra, and are often used to de geometric modeling and 30 computer graphics work. In this case, all ou need to recognize Is thatthe Matrix clas is 4 by 4 two-dimensional
+array of doubles.
+
+bscript operator, you learned that we could overload operatr(] to provide direct access to a private one-dimensional array. However, in this cate, we want access toa private
+two-dimensional array. Because eperater(] i ited to single parameter, it isnot sufficient to let us index a two-dimensional array.
+
+Here is an example ofthis
+
+ator can take as many parameters as we want It to have, we can declare a version of operatr() that takes two Integer Index parameters, and use It to access our twordimensional aay
+
+ouble m dotoCA]L410
+

@@ -1,0 +1,29 @@
+(AFT
+
+A handbook for making programming languages.
+
+This book contains everything you need to implement a full-featured, efficent
+scripting language. Youl learn both high-Level concepts around parsing and semantics
+and gritty detals like bytecode representation and garbage co Your brain will
+light up with new ideas, and your hands will gt dirty and calloused, I's a Bast.
+
+Starting from man(), you build a language that features rich syatax, dynamic typing,
+lass functions, closures, classes, and
+sw thousand lines of clean, fast code that you
+
+thoroughly understand because you write each one yoursel
+
+And you can read the whole book, fr free, online:
+
+START READING!
+
+I Want to Hold the Book in My Hands
+
+‘ll me old-fashioned, ut the word "book" to me stil implies ink and fattened
+rectangles of wood pulp.
+am sill designing the print edition, Ifyou want to know when that’ ready, have I got
+
+cs not quite there yet. The chapters are writen, but
+
+G INTERPRETERS
+

@@ -1,0 +1,2 @@
+_ Gewicht in kg
+BMI = (GréBe in m)?

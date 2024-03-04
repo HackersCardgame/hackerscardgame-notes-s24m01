@@ -1,0 +1,17 @@
+specification)
+
+Processor | Tec for processor
+
+Number
+7-975 3.33 GHe 14s
+17-965 3.20GHe 14s
+
+hee 17-960 3.20GH2 = = | us
+
+‘7-950 3.06 GHz 1s
+‘7-940 2.93 GHe 1s
+7-930 2.90 GHe 14s
+‘7-920 2.66 GHz 1s
+
+Current for the analog portion of the
+

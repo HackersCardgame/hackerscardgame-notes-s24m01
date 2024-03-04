@@ -1,0 +1,72 @@
+WIKIPEDIA
+
+Die freie Enzyklopiidie
+
+Hauptseite
+‘Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Atikol vorbessom
+Neuen Artikel anlegen
+Autorenportal
+
+wife
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+‘Anderungen an
+verlinkten Seiten
+
+‘Spezialseiten
+Permanenter Link
+Seiteninformationen
+Artikel zitieren
+
+wiki
+
+ta-Datenobjekt
+
+a wiper OD wn
+
+NO®O«
+
+2 Nicht angemeldet Diskussionsseite Beige Benutzerkont etalon Anmelden
+
+Artikel Diskussion. Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte _ Wikipedia durchsuchen Q
+
+Ex falso quodlibet
+
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne
+ausreichenden Beleg konnten demnachst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfugst.
+
+Ex falso quodlibet, eigentlich ex falso sequitur quodlibet (lat. ,aus Falschem folgt Beliebiges’), abgekurzt zu ,e.f.q.", eindeutiger ex contradictione sequitur
+quodlibet (lat., aus einem Widerspruch folgt Beliebiges), bezeichnet im engeren Sinn eines der beiden in vielen logischen Systemen giltigen Gesetze:
+
+4. Aus einem logisch — nicht blo8 faktisch — falschen Satz folgt jede beliebige Aussage.
+
+2. Aus zwei widerspriichlichen Satzer
+
+Logisch falsch ist ein Satz dann, wenn er aufgrund seiner logischen Form nicht wahr werden kann. In den meisten logischen Systemen erfullen Widerspriche
+(bzw. Satze, aus denen ein Widerspruch hergeleitet werden kann) diese Bedingung, deshalb die Bezeichnung .ex contradictione sequitur quodlibet’. Die
+Bezeichnung ,ex falso sequitur quodlibet" ist nur dann gleichbedeutend, wenn das darin zitierte ,falsum” als logische und nicht blo® faktische Falschheit
+verstanden wird.
+
+Im weiteren Sinn wird mit ,ex falso quodlibet* auch die kontrafaktische (den Tatsachen widersprechende) materiale Implikation bezeichnet, d. h. eine Aussage
+der Form ,(Schon) wenn P, dann Q*, wobei P ein beliebiger faktisch unwahrer Satz ist, zum Beispiel die Aussage ,Die Erde ist eine Scheibe’. Eine
+kontrafaktische materiale Implikation ware dann zum Beispiel der Satz ,(Schon) wenn die Erde eine Scheibe ist, sind alle Katzen Hunde". Da materiale
+Implikation und logische Folgerung vollig unterschiedliche Konzepte sind, das erste objekt-, das zweite metasprachlich, ist dieser Sprachgebrauch im strengen
+Sinn nicht korrekt.
+
+Inhaltsverzeichnis [Verbergen]
+
+1 Formale Definition
+44 fz
+

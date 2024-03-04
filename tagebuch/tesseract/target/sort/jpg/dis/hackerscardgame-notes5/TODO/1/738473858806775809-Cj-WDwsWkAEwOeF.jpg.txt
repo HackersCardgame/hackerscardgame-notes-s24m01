@@ -1,0 +1,25 @@
+Google Books Ngram Viewer
+
+Graph these comma-separated phrases [ Whistleblower | case-insensitive
+
+between 1900 and 2000 from the corpus [English ©] with smoothing of 3 ¥ arch lots of books
+
+0.0000160%
+
+0.0000140% whistleblower
+
+0.0000120%
+
+0.0000100%
+
+0.0000080%
+
+0.0000060%
+
+0,0000040%
+
+0,0000020%
+
+0.0000000%
+1900, 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000
+

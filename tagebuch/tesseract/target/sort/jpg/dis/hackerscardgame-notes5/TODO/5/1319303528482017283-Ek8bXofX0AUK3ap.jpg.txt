@@ -1,0 +1,42 @@
+wikipedia cra Ow
+Warieny WItyenstein Ger MeIIUNY Wal, UaSS MaUIeMIaUK UbEIDEWereL Se! UNG KeITIe aUSUIULE Ware! Zulage DIINger KOI
+
+Kryptoanalyse [Gearbeiten | Queltext bearbeiten]
+
+Wabhrend des Zweiten Weltkriegs war Turing einer der herausragenden Wissenschaftler bei den erfolgreichen
+Versuchen in Bletchley Park (B.P.),('5] verschllsselte deutsche Funkspriiche zu entziffern. Er steuerte einige
+mathematische Modelle bei, um sowohl die Enigma (siehe auch: Letchworth-Enigma) als auch die Lorenz-
+Schllsselmaschine (siehe auch: Turingery) zu brechen. Die Einblicke, die Turing bei der Kryptoanalyse der Fish-
+Verschldsselungen gewann, halfen spaiter bei der Entwicklung des ersten digitalen, programmierbaren elektronischen
+Rohrencomputers ENIAC. Konstruiert von Max Newman und seinem Team und gebaut in der Post Office Research
+Station in Dollis Hill von einem von Tommy Flowers angefuhrten Team im Jahr 1943, entzifferte Colossus die Lorenz-
+Maschine. Auch konzipierte Turing die nach ihm benannten Bombes. Sie waren Nachfolgerinnen der von dem Polen
+Marian Rejewski entwickelten Bomba und dienten zur Ermittlung der Schldissel von Enigma-Nachrichten. Dabei
+handelte es sich um ein elektromechanisches Gerat, das im Prinzip mehrere Enigma-Maschinen beinhaltete und so in
+der Lage war, viele mégliche Schllsseleinstellungen der Enigma-Nachrichten durchzutesten und zu eliminieren, bis
+eine mogliche Lésung gefunden war (Reductio ad absurdum; deutsch Zurackfahrung bis zum Widerspruch).
+
+Turings Mitwirkung als einer der wichtigsten Codeknacker bei der Entzifferung der Enigma war bis in die 1970er Jahre
+
+geheim; nicht einmal seine engsten Freunde wussten davon. Die Entzifferung geheimer deutscher Funkspriche war
+eine kriegsentscheidende Komponente fur den Sieg der Alliierten im U-Boot-Krieg und im Afrikafeldzug.("6]
+
+Arbeit an friihen Computern — Der Turing-Test | Bearbeiten | Quelitext bearbeiten }
+
+Von 1945 bis 1948 war Turing im National Physical Laboratory in Teddington tatig, wo er am Design der ACE
+(Automatic Computing Engine) arbeitete. Der Name der Maschine ist abgeleitet von der Analytical Engine des
+Mathematikers Charles Babbage, dessen Werk Turing zeitlebens bewunderte.
+
+‘Ab 1948 lehrte Turing an der Universitat Manchester und wurde im Jahr 1949 stellvertretender Direktor der
+Computerabteilung. Hier arbeitete er an der Software far einen der ersten echten Computer, den Manchester Mark |
+
+und gleichzeitig weiterhin verschiedenen theoretischen Arbeiten. In Computing machinery and intelligence (Mind,
+Turin stl
+
+NHOO«
+
+‘Sein ehemaliges Arbeitszimmer in ©
+BP.
+
+Nachbau einer Turing-Bombe a
+

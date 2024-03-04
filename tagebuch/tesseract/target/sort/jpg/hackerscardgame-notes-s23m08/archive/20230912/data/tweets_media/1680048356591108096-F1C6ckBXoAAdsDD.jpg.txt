@@ -1,0 +1,60 @@
+WIKIPEDIA.
+Die frele Enzyklopadie
+Haupiseite
+
+‘Themenportale
+Zufelliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+Permanenter Link
+
+Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte_ Wikipedia durchsuchen Q
+
+Wardriving
+
+Wardriving (engl. war Krieg’ und driving fahren’) ist das systematische Suchen nach Wireless Local Area Networks mit Hilfe eines Fahrzeugs.
+Der Begriff leitet sich von Wardialing ab, einer Methode, mittels Durchprobieren vieler Telefonnummer offene Modem-Zugange zu finden
+Einige Wardriver sehen die drei Anfangsbuchstaben dabei als Backronym firr Wireless Access Revolution”
+
+Inhaltsverzeichnis [Verbergen]
+1 Vorgehensweise
+
+2 Motivation
+
+3 Kennzeichnungen
+
+4 Unbefugter Zugriff
+
+5 Rechtslage in Deutschland
+
+6 Siehe auch
+7 Weblinks
+
+Wardriver-Ausrisstung: Laptop mit ©
+8 Einzelnachweise WLAN-Funktion und GPS-Empfanger
+
+Vorgehensweise | Bearbeiten | Quelitext bearbeiten |
+
+Ein klassischer Wardriver sitzt mit einem Notebook auf dem Beifahrersitz (oder mit einem Beifahrer mit
+Notebook) in einem Auto und spiirt Netzwerke aut. Oft wird zusdtzlich eine externe Antenne verwendet,

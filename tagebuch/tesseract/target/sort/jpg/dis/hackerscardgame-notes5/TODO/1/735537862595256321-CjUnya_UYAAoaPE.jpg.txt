@@ -1,0 +1,38 @@
+> G &beeps://diasp.eu/stream
+
+=| A] | Elements Console Sources Network Secunly >
+
+J some | =.
+
+wa oh aoa
+
+Reload to view details
+
+This page is insecure (broken HTTPS).
+
+Your connection is not private %  Cettiticate Error
+“There are issues wth he site's certicate chain
+[Attackers might be trying to steal your information from diasp.eu (for example, (net EPP_CEPT_DATE_INVALIO)
+
+passwords, messages, or credit cards). NET:ERR_CERT_DATE.INVALIC
+
+@ Secure TLS connection
+
+‘The connection to ths site is using a strong
+protocol version and cipher suite
+
+@ = Secure Resources
+
+diasp.eu normally uses encryption to protect your information. When Chromium tried to
+connect to diasp.eu this time, the website sent back unusual and incorrect credentials. This,
+may happen when an attacker is trying to pretend to be diasp.eu, or a Wi
+has interrupted the connection. Your information is still secure because Chromium stopped
+the connection before any data was exchanged.
+
+1 Atomatcally report detals of pss security indents to Google. Privacy golly
+
+sign-in screen
+
+‘You cannot visit diasp.eu right now because the website uses HSTS. Network errors and
+attacks are usually temporary, so this page will probably work later.
+

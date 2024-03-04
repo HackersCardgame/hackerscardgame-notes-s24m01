@@ -1,0 +1,14 @@
++rparchen beim Schiller-Verkup
+Lehrer:
+
+) ich hab einen Informatiker, ei
+
+merman, einen Maurer und eir
+Elektriker"
+
+Lehrerin:
+h hab ein Einhorn, ein Pony, eit
+ze, eine Hexe und eine Satanis'
+
+Patternmatching: FAIL
+

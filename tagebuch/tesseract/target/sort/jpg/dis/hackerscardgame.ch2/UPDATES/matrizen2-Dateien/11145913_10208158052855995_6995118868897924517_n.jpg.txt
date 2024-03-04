@@ -1,0 +1,22 @@
+smarc@kaa: ~/Daten 2015,
+
+ereh Terminal Help
+inux 3.16.0-4-and64)
+“a (press r to reconnect)
+
+oe are mem: 0 (0%) pid uptime
+| menu, p: pause, h: page help, 4: quit
+n/sec): Uptoad (0.0 b/sec):
+°
+:, total: 0,0 8 avg: 0,0 b/sec, total: 0.0
+NOTICE «ERR
+
+WARN] Unable to run the setup wizard. Ts tor install
+NOTICE] Falling back to descriptions for Tor 0.2.2.1
+NOTICE] Unable to get the descriptions of Tor's cont
+| its man page (nan page not found)
+
+NOTICE] No ararc Losded, using defaults. You can cus
+s configuration file at ‘/hone/marc/.ars/arerc’ (see
+ra voetione)
+

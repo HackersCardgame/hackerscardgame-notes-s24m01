@@ -1,0 +1,71 @@
+@ Marr Lantot (Blonder X _eToeiDkdeSiedcanebNOBBSE XW Home/ Totter X _@ Moemoxcene| Facebook ae = Ge
+
+Tngrtnennermeh cas engruarheene Hay MH Ge enen PREEEG UNE OF BESET
+‘Deshleonsmtelauszihe, Bt ee Erzindng erp,
+
+var moves = shuffle(possibleMoves(p!
+1 ‘an tal it an men amen Min sch 0 eine Proencene bn Ep, do
+his nach dom Een one Wich me dition ar Boat sv machen 28 ver ey
+var bestValue=-1900000*player; ‘chile Unt on Goon Wc har Mach an an Fuser sch av Se Fue
+
+for(var i = 0; i < moves. length; i+4 S*cmertenednmnmn zee uieeneich.)
+
+ct te ae Peles ese!
+return moves; cs ip om ee ar tata
+} al ep gp eee ae ata
+
+{MME: draucht viel ressourcen wenn ¢ mem Panmemmecamatamnqmernntansmresmet \yr in der obersten instanz
+function isInCheck(player) { srvom Wir rach Scan ede Spengstheunaagenhel
+
+moves = possibleMoves(-player);
+
+aufgerufer
+
+‘A end och was, der otge Orang an Alhaer Kez lsten, eit net wee sna Fs
+te lange matshndel hat Bs ie Be Stoppeln akzete, STB.
+
+for(var i=@; i<moves. length; i++)
+if (board{moves[i] [1] [0] *8+moves [i
+return
+
+ssc ae gt eer acon oo as
+
+Kass os ecient ines im pete Desig
+
+felon Wie Be dS gic sramen eo Vt en ge
+
+1s iar on wo ensign nt et Ver lc she
+
+return ; shan tn a ne pt ie Ps
+fo ale pores
+
+} ONE
+
+Es ocho Sn, an dase in a gee Tn ng san Eeriton
+‘ouossae uh znotmen ebm eect man) ale Se Lge
+‘me Zaten buen Konan er ginsige Klass sla Extrsion rosso wn
+{mass mir Ensingeeatrh scitmt Saza id al orn Gomi wr
+‘Sete sch Veereopte)
+
+var instance
+
+minmax algorithm that does the game
+function minimax(depth, player, init, | Xeprtio ents. mtEpioen mend sizenhes ch ht dm Kame
+
+' + | Rad pee is ea seats oc
+f(r - ncesud De egestas oon Ptezoe bin in, aK man chon ds meso
+if(resetCounter) instances= ‘weg mit einem Mini plierr, aber dann ist es imener komplettverstoppet, da muss man eine
+else instances+=1; ‘cate en odes Ret Hand sche, are segues shen woh
+‘it nti tmen Ons sgachess art Dl tego tcc ot Se et le
+espe, endl rls wd ect a ae pee one
+var bestMove = [[0,0],[0,0]]; ‘Oavert eeeenig. ich nehme dazu ie Pinzete von einem Vitonnox Sackmesse und einen
+‘Mn enn Schaap cama Eat Zrget Uden mst
+av ach ire alps Mtn ence, est gis etziningen. Bon habe ich
+if (depth < 1) return evaluateBoard (| tmegdinien dss wen ich Vaatenl due, dam sehe ch wich mt de Pazete schon
+‘ch endo wh Hat odo rss Hare nse cs Keon, Dae to
+i Scher nen Arts, bse eh shit tn oh
+Ad Moves = shuffle(possibleMoves (p] tquien tet Pasha dor unpeyarmet sb egnsngat ohn che
+‘coge Vstlea asi ach dtl nz Su vrei
+
+aon Ble =eQ-®= QO e872 HKS5E asi
+

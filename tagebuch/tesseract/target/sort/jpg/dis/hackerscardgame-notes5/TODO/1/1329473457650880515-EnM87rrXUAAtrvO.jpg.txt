@@ -1,0 +1,74 @@
+ee
+rf
+
+’ uu
+ane
+WIKIPEDIA
+
+The Pree Encyclopedia
+
+Main page
+Contents
+Current events
+Random atcle
+‘About Wikipedia
+Contact us
+Donate
+
+Contribute
+Help
+
+Learn to eat
+Community portal
+Recent changes
+Upload fle
+
+Tools
+
+What inks here
+Rolated changes
+Special pages
+Permanent ink
+Page information
+Cite ths page
+‘Wikidata ite
+
+Printexport
+
+Download as POF
+Printable version
+
+oe viepedcry Com LNHODSOK
+
+2 /Notioagedin Talk Contibutons Create account Log in
+Atle Talk Read Edit Viewhistory | Search Wikipedia Q
+
+Wiki Loves Switzerland 2020
+Photo and edit contest or edit Swiss castles!
+
+Deductive reasoning
+
+From Wikipedia, the free encyclopedia
+
+Deductive reasoning, also deductive logic, is the process of reasoning from one or more statements (premises) to reach a logical concusion|"
+
+Deductve reasoning goes in the same direction as that ofthe conaitionals, and links premises with conclusions. ial premises are true, the terms are clear, and the rules of deductive logic are
+followed, then the conclusion reached Is necessary true.
+
+Deductive reasoning (‘top-down logic" contrasts with inductive reasoning (‘bottom-up logic") in deductive reasoning, a conclusion is reached reductvely by applying general rules which hold over the
+entirety ofa closed domain of discourse, narrowing the range under consideration until only the conclusion(s) remains. In deductive reasoning there is no epistemic uncertainty In inductive
+reasoning, the conclusion is reached by generalizing or extrapolating from specific cases to general rues resulting n a conclusion that has epistemic uncertainty] However, the inductive reasoning
+‘mentioned here Is not the same as induction used in mathematical proofs ~ mathematical induction Is actualy a form of deductive reasoning.
+
+Deductive reasoning differs trom abductve reasoning by the direction ofthe reasoning relative tothe conditionals. Deductive reasoning goes in the same direction as that ofthe condiionals, whereas
+abductve reasoning goes inthe opposite direction to tha ofthe conditionals.
+
+Contents {hide}
+1 Simple example
+2 Reasoning with modus ponens, modus tollens, and the law of syllogism
+2.1 Modus ponens
+2.2 Modus tons
+23 Law of syllogism
+3 Validity and soundness
+
+4 History

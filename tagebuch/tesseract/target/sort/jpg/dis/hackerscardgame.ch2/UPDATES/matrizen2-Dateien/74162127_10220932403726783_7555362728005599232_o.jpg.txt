@@ -1,0 +1,20 @@
+[El emery
+
+fap
+
+[Barer
+
+Dom
+
+Inventor:
+Design pattems are proven solution templates for
+recurring design problems in architecture as well as
+in sofware development.
+
+A design patter usually contains several classes
+(templates or objects). A single design pattern is 3
+collection of diferent such templates. Eg. The shape
+of a single step of stairs AND the railing (steelwork
+(or eg woodwork) for the complete stairs AND for
+‘example the shape for the carpet of each step.
+

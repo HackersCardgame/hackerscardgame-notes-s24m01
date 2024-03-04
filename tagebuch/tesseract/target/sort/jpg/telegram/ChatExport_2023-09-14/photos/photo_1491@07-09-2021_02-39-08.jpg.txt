@@ -1,0 +1,50 @@
+Ich nabe mal versuchl meine Gedankengange dazu zu protkalieen, so dass es auch der Therapeut
+for(var i=0; i<moves.length; | versich
+
+[i] [1] [0] *8+n
+
+return ; s $ e
+
+eturn
+
+2
+
+function minimax (der
+
+A/® @
+t
+=P
+
+f 1, player 3
+if dl
+
+if(resetCounter) instances=0; ==
+
+else instances+=1; “
+
+var bestMove = [[0,0],[0,0]]; :
+
+if(depth < 1) evaluate
+
+var move = shuffle(possiblet
+
+var bes 1000000*playe: PF
+
+for(var i = 0; i < moves. lenc
+
+Diese Grafik wurde mit Gephierstlt aus den zwei CSV Dokumenten Nodes3.csv und Edges csv
+
+eturn
+
+Scheinbar macht mein Schizo-Gehim das irgendwie Schneller als das mit Gephi geht
+
+nodes3.csy => Das sind die Informationsobjekte, die Tabelleenthat mit jeweliger die Quellenangabe
+
+[ToD vu
+
+function isInCheck(player) { nodes’. csv => Das sind die Verbindungen 2wischen den Informationsobjekten.
+
+=> betrachte ich einen der Knoten in der Grafs blendet es misim Visuellen Cortex ie Quelle in
+
+BOB B® Ox r.s8Gum Oe, &
+

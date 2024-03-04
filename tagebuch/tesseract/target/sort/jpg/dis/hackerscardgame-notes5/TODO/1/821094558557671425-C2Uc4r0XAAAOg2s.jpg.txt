@@ -1,0 +1,20 @@
+tion Recognition Software "gecraftet" mit einem Monitoring-Artigen Uberwachugnssystme, welches iiber mehrere eingansmodule verfiigt z.B.
+~Telenetrie-Modut
+-wie das Bewegungsfelder von Hackaday
+
+-rfid in den Extremitaten mit mind. 3 Antennen
+-Telemtriedaten extrapoliert aus bewegungssensor am natel
+-Kanera (vision System) Nodul
+-WiSee Modul (wifi modul)
+-oder etwas teres wie das Teremin an neuer Digitalen eingangkandilen
+-Telemetrie (oder mindestens Positionsdaten) oder Action Recognition an hand on >1 eingangskandlen => mit reflexionen an den winden und ein
+3D HodeUl des tiberwachten raums, reicht ev. ein Mikrophon
+te.
+
+=-und dann egal iiber welchen eingangskanal, wenn das system erkennt dass man jetzt isst oder kocht oder ein Joghurt aufmacht
+wiirde da das Behavioral Science Active Denial System aktivieren um explizit diesen Vorgang mit einem Traumata zu belegen
+=eaversion => behavioral sciences ist irgendwie wichtig im hacking...
+
+72 ee Ee TT See Eee eT Te ES
+
+"“website/cardcombinations/TODO" 17L, 968C 1a. Al

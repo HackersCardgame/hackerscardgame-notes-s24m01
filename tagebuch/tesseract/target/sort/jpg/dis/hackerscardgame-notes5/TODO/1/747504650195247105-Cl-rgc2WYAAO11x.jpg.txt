@@ -1,0 +1,13 @@
+Faz led to fetch http: //httpredir.debian.org/ deb:
+lyF1ng/debzan-archi ve-keyring 2012. 3-deb7ul_alt.
+IE: Unable to fetch sone archives, maybe run apt
+jsing?
+root@orangepi:~# apt-get update --fix-missing
+lGet:1 heep://securaty.debian.org wheexy/updates Release.cog
+http: //raspberrypi .coliabora.com sheezy Releas
+3 http: //archive.raspberrypi .org shee:
+hetp://httpredir.debian.org whe
+http: //securi ty.debian.ora whee=
+
+root@orangepi:-*
+

@@ -1,0 +1,27 @@
+ooniprobe -s
+
+cd ~
+nkdir my_decks
+
+coniresources --update-inputs --update-geoip
+conideckgen -o my_decks/
+
+/ust/local/bin/ooniprobe -i /root/my_decks/web-full. yam)
+echo"
+
+start ooniproble 4x per day (crontab entry)?"
+
+read input
+
+if echo $input |grep -iq »y
+
+then
+
+(crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) +1 )) $(( ( RANDOM % 23.) +4 )) * * * ~/installation-scripts/tor/ooni-probe
+(crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) +41 )) $(( ( RANDOM % 25) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+(crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) +1 )) $(( ( RANDOM % 25) +4 )) * * * ~/installation-scripts/tor/ooni-probe
+
+(crontab -1 2>/dev/null ; echo "$(( ( RANDOM % 59) +41 )) $(( ( RANDOM % 25) +1 )) * * * ~/installation-scripts/tor/ooni-probe
+
+fi
+~/instaLlation-scripts/tor/ooni-probe/venv/bin/ooniprobe -i ~/my_decks/web-full. yam

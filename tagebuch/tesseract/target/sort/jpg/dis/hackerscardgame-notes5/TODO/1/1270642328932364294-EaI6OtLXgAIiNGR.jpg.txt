@@ -1,0 +1,32 @@
+oa MB <a senernotFous x | ConnectBox % | A ServerNotFound x | @ ServerNotFound x | +
+
+Bat glen 1000 “Ow HOSKONWE =
+Link/Loopback 00:00:00:00:00:00 brd 60:00:00:00:00:00
+inet 127.0.0.1/8 scope host lo
+valid Uft forever preferred lft forever
+inet6 ::1/128 scope host
+valid Uft forever preferred Uft forever
+12: enpisOfl: <BROADCAST, MULTICAST, UP, LOWER UP> mtu 1500 qdisc pfifo fast state U
+P group default qlen 1060
+Link/ether 98:28:a6:24:16:19 brd ff:ff:tfiff:ff:tt
+inet 192.168.0.170/24 brd 192.168.0.255 scope global dynamic noprefixroute e
+Inpisofi Set-Up
+valid Uft 114sec preferred Uft 114sec
+inet6 fe80: :9a28:a6ff:fe24:1619/64 scope Link noprefixroute
+valid Uft forever preferred Uft forever
+13: wlp0s20f3: <BROADCAST,MULTICAST> mtu 1500 qdisc noqueue state DOWN group defa
+lult glen 1000
+Link/ether 1a:20:a7:0b:0b:34 brd ff:ff:tf:ff:ff:tt
+$ ping 8.8.8.8
+PING 8 (8.8.8.8) 56(84) bytes of data
+From icmp_seq=1 Destination Net Unreachable
+From icmp Destination Net Unreachable
+From 192 icmp Destination Net Unreachable
+From 192 icmp Destination Net Unreachable
+
+B
+
+Network Modify yc
+diagnostic tool network
+
+Wireless connected devices: 0

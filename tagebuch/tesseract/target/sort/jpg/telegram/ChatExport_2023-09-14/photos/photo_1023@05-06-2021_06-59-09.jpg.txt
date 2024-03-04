@@ -1,0 +1,43 @@
+1Sat 05 Jun 2021 06:14:05 AM CEST
+Z
+S3mass leak to come [1]
+4
+5 [1] unknown:
+6der mit dem
+
+"hatte verhindert werden sollen aber das scheint glaub
+
+nicht mher zu klabben
+
+7
+6... den viele menschen nicht mégen werden weil sie auffliegen, nicht mégen kénnte auch heissen
+
+rage-qutten und schlimmer ...
+)
+
+10Sat 05 Jun 2021 06:16:32 AM CEST
+
+11 10 65 417 cyberWAR20210605. txt
+
+12 7a80be347 fa7b599dd6ce9868528079e67175fa558b1 f96a2608dbf4d41ce5be87a3395ab27235c7a6f18d6b8a67d2e246
+cyberWAR20210605. txt
+
+13 [master e5484e1] save
+
+14 1 file changed, 10 insertions(+)
+
+15 create mode 100644 tagebuch/cyberWAR20210605.txt
+
+16
+
+17 jemand will marc jr Landolt schon wieder meucheln, also muss das grad sofort online falls marc
+jr landolt drauf geht dass das korrigiert werden kann in aarau
+
+18
+
+19(selber git commit, pdf)
+
+20
+
+Sat 2 p20 O6-2A-07 AM
+

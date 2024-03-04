@@ -1,0 +1,20 @@
+Compression 101
+
+~) (¥) Compressor
+
+Threshold determines at what level the compressor starts reducing the dynamics.
+
+Attack determines how long it takes for the compressorto reduce in volume. A fast
+attack will push down peaks, a slow attack will push down tails.
+
+Release determines how long it takes for the compressor to release the compression.
+Audio levels recover much quicker with a fast release.
+
+Knee determines how hard or soft the compression is working. You can use a soft
+knee for a more natural sound, such as a piano, or a hard knee for a more intense
+sound.
+
+Ratio determines the strength of the dynamic reduction. The higher the ratio, the more
+compression you get.
+
+PausePlayRepeat.com

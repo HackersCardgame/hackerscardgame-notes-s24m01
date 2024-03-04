@@ -1,0 +1,6 @@
+maens cag page: GF el
+code/lox$ javac com/craftinginte
+code/lox$ java com.craftinginter
+
+»)
+

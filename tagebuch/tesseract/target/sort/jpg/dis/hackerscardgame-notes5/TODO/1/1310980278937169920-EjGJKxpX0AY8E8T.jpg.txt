@@ -1,0 +1,47 @@
+WIKIPEDIA
+
+‘The Free Encyclopedia
+
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+
+Contribute
+
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+
+wikipedianrs! ote Gm Or noo Pe
+
+2.Not logged in Talk Contributions Create account Log in
+
+Article Talk Read Edit Viewhistory | Search Wikipedia Q
+
+Principle of least privilege
+
+From Wikipedia, the free encyclopedia
+Not to be confused with Rule of least power.
+
+This article needs additional citations for verification. Please help improve this
+article by adding citations to reliable sources. Unsourced material may be
+challenged and removed.
+
+Find sources: "Principle of least privilege" — news - newspapers - books - scholar - JSTOR (April
+
+2019) (Learn how and when to remove this template message)
+
+In information security, computer science, and other fields, the principle of least privilege (PoLP), also known as the
+principle of minimal privilege or the principle of least authority, requires that in a particular abstraction layer of a
+computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able
+
+to access only the information and resources that are necessary for its legitimate purpose. !"II2]
+
+Contents [hide]
+

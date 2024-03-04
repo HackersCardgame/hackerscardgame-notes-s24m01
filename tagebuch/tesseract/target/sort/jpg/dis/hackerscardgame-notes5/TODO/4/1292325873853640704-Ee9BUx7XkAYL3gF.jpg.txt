@@ -1,0 +1,19 @@
+Inventor: xxxxx Year: ~2222
+L: Lenght [m]
+M: Mass [kg] - fret 7
+T: Time [seconds] for the first 7 d
+I: Current [Ampere] units ask your
+©: Temperature [kelvin] local physics
+
+N: Amount of Substance [mol] pe
+
+J: Amount of Ligth [candela] (she) sheldon
+®: Amount of Consciousness
+
+® is just a symbol that symbolizes if it is just an
+algorithm, statmeachine or a enhanced Al
+
+used especially flr t40, so if you know about that
+you can talk with your walls without drugs and
+without being called insane...
+

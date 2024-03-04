@@ -1,0 +1,37 @@
+"aCe SeDUn = /MSaNILOO CTP cep EON CUT
+}sssssssssssssessssssssssssesssssssssssessssssesesesssessssccssccesscseceseccs
+
+tho -e "S{red}${0} ${@}S{default}"
+
+get the newest updates
+jowAndexecute “cat -e /var/lib/dpkg/lock
+
+NowAndExecute “apt --fix-broken Sip install"
+nowAndexecute "dpkg --configure -a"
+howAndExecute “apt-get -y Sip update"
+howAndExecute “apt-get -y Sip upgrade”
+-y Sip dist-upgrade"
+-y Sip install sudo git vim nano"
+
+* YESNO “Edit /etc/apt/sources. list?"
+hen
+
+jowAndexecute “SEDITOR /etc/apt/sources. ist"
+
+edit repository list
+* YESNO "add pamblue or pamusb”
+
+yen
+sowAndExecute “apt -; ke Vibpam-blue"
+: /etc/pam.d/common-au'
+
+0
+
+general {
+# the normal timeout for
+#
+
+watch for a tiny timeslot seannii
+# values 3 and 15 seconds are valid
+
+' configuration for user korzendorfer

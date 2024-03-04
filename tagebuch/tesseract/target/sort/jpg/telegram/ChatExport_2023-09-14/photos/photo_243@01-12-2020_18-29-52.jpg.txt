@@ -1,0 +1,111 @@
+marc@D Musik
+
+javformat-58.d11
+lavresample-4.d11
+
+builtins. qmitypes
+c_rehash
+ld3dcompiler_47.d11
+data
+ldbus-daemon. exe
+ldbus-env. bat
+
+designer
+ffmpeg. exe
+ffplay.exe
+FFprobe.exe
+
+imnt/c/Pre
+
+bKkFSDeclarative.dl1
+1ibkFSDocTools.d11
+1ibkFSGlobalAccel.d11
+1ibkFSGlobalAccelPrivate. dll
+1ibkFSGuiAddons.d11
+1ibkFS118n.d11
+1ibkFSIconThemes.d11
+LibkFSItemViews.d11
+LibkFSJobWidgets.d11
+LibKFSKCMUtils.d11
+1ibkFSKIOCore.d11
+LibKFSKIOFileWidgets.d11
+LibkFSKIOGui..d11
+1ibKFSKIONTLM.d11
+LibkFSKIOWidgets.d11
+LibkFSKirigami2.d11
+LibkFSNewStuff.d11
+LibkFSNewStuffCore. dll
+LibKFSNotifications. dil
+LibkFSNotifyConfig. dll
+LibkFSPackage.d11
+1ibkFSPlasma.d11
+1ibkFSPlasmaQuick.d11
+LibkFSPlotting.dl1
+LibkFSPurpose.d11
+
+libgthread-2.0-0.d11
+libhunspell-1.6-@.d11
+libint1-8.d11
+libkdecorations2.d11
+libkdecorations2private.d11
+libkwalletbackend5.d11
+liblzma-5.d11
+Libmlt++-3.d11
+
+Libmlt++.d11
+
+Libmlt-6.d11
+
+Libmit.di1
+
+Libmp31ame-@.d11
+libogg-@.d11
+Libopencv_calib3d430.d11
+Libopencv_core430.d11
+Libopencv_dnn430.d11
+libopency_features2d430.d11
+libopency_flann43@.d11
+Libopencv_imgcodecs43@.d11
+Libopencv_imgproc430.d11
+libopencv_objdetect43@. d11
+Libopencv_plot43@.d11
+Libopencv_tracking43@.d11
+libopencv_video43@.d11
+libopus-@.d11
+
+jnarc@Desktop-Musik:/mnt/c/Program Files/kdenlive/bin$ file kdenlive
+kdenlive_render.exe
+
+kdenlive.exe
+Imarc@Desktop-Musi
+
+:/mnt/c/Program Files/kdenlive/bin$ file kdenlive.exe
+
+kdenlive.exe: PE32+ executable (GUI) x86-64, for MS Windows
+/mnt/c/Program Files/kdenlive/bin$
+ee ee *
+
+Imarc@Desktop-Musi
+
+ove
+
+platformthemes
+playlistformats
+postproc-55.d11
+preparetips5
+printsupport
+qmltooling
+sdl2-config
+snoretoast.. pdb
+sqldrivers
+
+styles
+swresample-3.d11
+suscale-5.d11
+texttospeech
+wordforms
+wordlist2hunspell
+xm12-config
+xslt-config
+
+<>: <pmUUPOLL SULOD tas, Il

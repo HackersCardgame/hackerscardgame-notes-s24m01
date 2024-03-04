@@ -1,0 +1,12 @@
+echo -e “\e[91mIPv6\e[39m temporar bis zum neustart deaktivieren (y/n)?"
+echo -e “disable \e[91mIPv6\e[39m until reboot (y/n)?"
+read answer
+
+if echo "$answer" | grep -iq "
+then
+
+echo 1 > /proc/sys/net/ipv6/conf/all/disable_ipv6
+else
+
+exit
+fi

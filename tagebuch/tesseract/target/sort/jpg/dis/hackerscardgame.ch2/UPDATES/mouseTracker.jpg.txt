@@ -1,0 +1,33 @@
+135 veer
+12 Wad
+
+1.05
+0.75
+
+0.45,
+
+—@ Control trials
+
+Vertical Mouse Position (y-Coordinate)
+
+Frequency
+
+“= Switch and control trials
+
+4 Switch trials
+
+0.15 3
+Trajectory Curvature
+
+Horizontal Mouse Position (x-Coordinate)
+
+Figure 3. In a prior study, Freeman et al. (2008) found that averaging together across half of trajectories
+moving straight to the correct response (control trials) and half of trajectories making discrete-like errors
+(switch trials) spuriously produces continuous attraction. As is shown in the histogram, the distribution of
+AUC values in this combination condition including switch and control trials was bimodal (b > .555). This
+validated that the mouse-tracking paradigm and computation of the b coefficient are sensitive enough to
+identify this spurious pattern. From “Will a Category Cue Attract You? Motor Output Reveals Dynamic
+Competition Across Person Construal,” by J. B. Freeman, N. Ambady, N. O. Rule, and K. L. Johnson, 2008,
+Journal of Experimental Psychology: General, 137, p. 686. Copyright 2008 by the American Psychological
+Association, Adapted with permission.
+

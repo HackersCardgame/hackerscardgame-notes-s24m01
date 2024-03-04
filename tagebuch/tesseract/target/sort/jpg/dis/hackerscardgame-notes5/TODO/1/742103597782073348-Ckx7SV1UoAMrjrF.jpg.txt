@@ -1,0 +1,30 @@
+Open ~ || nibbles8-1.pas [Read-Only]
+
+nibbles8-1.pas
+
+V/Feb 1999 -- By Marc Jr Landolt
+
+//Notenvergabe fir diese Arbeit: Einzige 6.0 in meiner Klasse <= da wurden die vermutlich irgendwie aufmerksam auf mich... sigh..
+
+program Nibbles;
+uses WinCrt ,WinProcs,WinTypes;
+
+seoeceeemeemeseee® Typen und Objektdefinitionen + erect)
+
+const Feldbreite (* definition der reite *)
+Feldhoehe (* definition der Spielfeldhoehe *)
+type
+zeile = record (*Benutzerdefinierter Datentyp fir Rangliste*)
+Name: String[4
+Punkte : Integer;
+end;
+type
+pos = record ("Benutzerdefinierter Datentyp far P.
+x, y : byte; (*Position beinhaltet x- und y-Komponente*
+end;
+inhalt = (leer, hinderniss, futter) ; (*Enumerierung fir Inhalt des Schlangenarrays*)
+richtungen = (links, rechts, auf, ab); (*Enumerierung fir Richtungen*)
+zustand = (lebend, tod) ; (*Enumerierung fir eindeutigen Zustand*)
+type
+
+Schlange = object

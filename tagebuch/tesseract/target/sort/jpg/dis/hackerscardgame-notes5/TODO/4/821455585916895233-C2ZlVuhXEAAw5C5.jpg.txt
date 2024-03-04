@@ -1,0 +1,71 @@
+(87039,642016] TPv6: ADDRCONF (NETDEV_CHANGE): wland: Link becones ready
+
+(92226, 733201] new SuperSpeed USB device number 2 using xhci
+
+[92226. 750003] New USB device found, idvendor=0781, idProduct=5583
+
+(92226. 750010] New USB device strings: Mfr=1, Product=2, Serialtluber=3
+
+(92226. 750013] Product: Ultra Fit
+
+(92226. 750016] Manufacturer: SanDisk
+
+(92226. 750018] Seriallumber: 4C530001081205106533
+
+(92226, 792029] usb-storage 4-1:1.0: USB Mass Storage device detected
+
+[92226 792138] usb-storage 4-1:1,
+
+[92226, 792616] usbcore: registered new interface driver usb-storage
+
+[92227.791180] scsi 6: Direct-Access SanDisk Ultra Fit 1,00 PQ: © ANSI: 6
+(92227. 792012] Attached scsi generic sg2 type 0
+
+(92227, 792513] [sdb] 60062500 512-byte logical blocks: (30.7 GB/28.6 GiB)
+(92227. 793157] [sdb] Write Protect is on
+
+[92227. 793162] [sdb] Mode Sense: 43 00 80 00
+
+[92227, 793428] [sdb] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[92227.800956]
+
+(92227, 802473] 10:0: [sdb] Attached SCSI removable disk
+
+[92227.983043] EXT4-fs (sdb1): INFO: recovery required on readonly filesystem
+{92227.983047] EXT4-fs (sdb1): write access tinavailable, cannot proceed
+
+(92234, 330341] usb USB disconnect, device number 2
+
+[92287.007758] usb new SuperSpeed USB device number 3 using xhci_hed
+
+[92287.024473] usb New USB device found, idvendor=0781, idProduct=5583
+
+[92287,024490] usb lew USB device strings: Nfr=1, Product=2, Serialtlumber=3
+[92287,024493] Product: Ultra Fit
+
+[92287,024496] Manufacturer: SanDisk
+
+[92287.024498] Seriallumber: 4C530001081205106533
+
+[92287,025454] usb-storage 4-1:1.0: USB Hass Storage device detected
+
+[92287.025678] scsi7 : usb-storage 4-1:1.0
+
+[92288.025553] scsi Direct-Access SanDisk Ultra Fit 1.00 PQ: © ANSI: 6
+[92288 026348] Attached scsi generic sqg2 type 0
+
+[92288 027286] [sdb] 60062500 512-byte logical blocks: (30.7 GB/28.6 GiB)
+[92288027932] [sdb] Write Protect is on
+
+(92288, 027938] [sdb] Mode Sense: 43 60 80 00
+
+[92288 028222] [sdb] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+(92288, 033750] sdb1 sdb2
+
+[92288034873] [sdb] Attached SCSI removable disk
+
+[95568.542183] lb1): INFO: recovery required on readonly filesystem
+[95568.542189] EXT4-fs (sdb1): write access unavailable, cannot proceed
+
+c laude@deb ian:~/Daten. 2017 /myL i fe/Tagebuch/2017/januar/Shrink-Disorder-Tarot:
+

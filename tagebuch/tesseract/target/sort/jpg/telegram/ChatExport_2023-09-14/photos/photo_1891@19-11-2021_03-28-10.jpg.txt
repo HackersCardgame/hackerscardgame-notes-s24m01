@@ -1,0 +1,17 @@
+QxA Me4
+
+(© AQROF
+
+Inventor: ???? Year: 2???
+With QAM64 Modulation (some sort of a complex
+plane) you could easily transmitt binary data over a
+scalar in time. Brain would possibly even adapt by it's
+own. | guess there are serveral such channels
+
+- Position in Room (x,y,z)
+
+- Positional Data of your body (plane projected to your
+body surface)
+
+- People you know or generic archetypes
+

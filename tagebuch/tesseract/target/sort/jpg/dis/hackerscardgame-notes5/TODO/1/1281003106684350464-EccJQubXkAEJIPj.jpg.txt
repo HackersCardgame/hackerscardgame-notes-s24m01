@@ -1,0 +1,3 @@
+> Image 600 x 800: embedded in layer image. Click selection to toggle scale/rotation handles.
+
+image

@@ -1,0 +1,14 @@
+fin Banker,
+jein BILD-Zeitungslese:
+ond
+in Asylbewerber
+sitzen am Tisch
+iit 20 Keksen.
+
+Der Banker nimmt sich
+19 Kekse und sagt
+tum BILD-Teitungsles
+“pass auf, der Asylbewerber
+nimmt Dir Deinen
+Keks weg!”
+

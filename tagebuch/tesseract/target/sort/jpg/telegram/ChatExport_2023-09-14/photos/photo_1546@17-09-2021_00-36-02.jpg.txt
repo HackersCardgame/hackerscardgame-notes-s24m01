@@ -1,0 +1,31 @@
+NICE, musste ich grad in meine Education youtube Playlist nehmen
+
+selber habe ich leider 2u wenig Zeit fr solches, dennoch definitiv etwas Sinnvolles um den Einstieg in Elektronik zu finden
+
+Falls das jemanden interessiert:
+
+Elektronik bis CPU im Fastforward:
+
+1. Kosmos X1000 Baukasten: Blinklicht => 2 Transistoren
+2. MonoFlop mit Transistoren basteln
+3. FlipFlop mit Transistoren basteln
+
+4, FlipFlop aus AND/NAND/NOR... selber bauen
+(ZB Ungetaktetes RS-Flipflop aus NAND-Gattern)
+
+5. Schieberegister aus FlipFlop bauen, 28
+(Tésex74, T8xx76, 74xx79)
+
+6. >>> YAY, ich weiss jetzt was ein Schieberegister ist, somit kann ich mir jetzt auch ungefahr vorstellen was ein Register in einer CPU ist, siehe eAX, eBX, eCK, eDX
+
+mmeist erst ab Terzidire BildungsStufe (oder auch schon HF)
+
+7. Rechner Architektur
+
+= Weshalb hat RAM/ROM einen
+~ DatenBus Anschluss
+
+~ AddressBus Anschluss
+
+~ SteuerBus (read/write) (Tri-State (Three-state logic)
+

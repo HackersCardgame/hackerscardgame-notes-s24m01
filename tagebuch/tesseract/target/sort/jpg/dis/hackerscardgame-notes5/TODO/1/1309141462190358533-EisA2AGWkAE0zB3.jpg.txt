@@ -1,0 +1,11 @@
+WOSOw =
+
+Select Recursions: 5
+Select Algi: _negaScout
+calc.Moves:
+
+zo mmo oO @ >
+
+turn white (00:06s)
+turn black (00:03s)
+

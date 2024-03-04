@@ -1,0 +1,19 @@
+Guten Morgen,
+
+ich denke mir folgendes:
+
+Elne fquivaleneklasse zerlegt die n Menge An eine migliche Partition.
+Die Anzahl der k ~ Partitionen einer n ~ Menge sind ja die StirLingzahlen
+2ter Art.
+
+Sena
+Da Jetet dle Anzahl aller miglichen fquivalencklassen gesucht sind,
+
+Dennach konnte das Problem der Rqulvalenzklascen auf das Problen
+der Mengenpartitionen 2urtickgeFGtrt werden,
+
+alle StirLingzshlen ter Art sunmtert werden.
+
+Sind meine Uberlegungen 2u diesem Problem richtig?
+Vielen Dank im Voraus.
+Mfc Kubala

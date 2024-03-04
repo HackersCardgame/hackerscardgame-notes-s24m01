@@ -1,0 +1,10 @@
+eo¢e © @ rres/06ey E NHOO«
+
+TicTacToe mit Mini-Max Algorithmus
+
+Rekursionstiefe: |s2
+
+bei rekursionstiefe § kann man nicht mehr gewinnen, bei 5 schon
+
+httos: //eithub.con/braindet/tictactoe.js
+

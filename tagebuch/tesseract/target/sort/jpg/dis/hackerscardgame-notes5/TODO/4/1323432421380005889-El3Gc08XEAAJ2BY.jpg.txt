@@ -1,0 +1,65 @@
+eo¢e
+
+Drucker/exportioren
+Buch erstellen.
+
+‘Als PDF herunterladen
+Druckversion
+
+In anderen Projekten,
+
+‘Commons
+
+In anderen Sprachen
+English
+Espafol
+Frangais
+Italiano
+ase
+BO}
+Pycern
+Tiéng Vigt
+pe
+A 5 weitere
+Links bearbeiten
+
+pad wiped og erent Om - Ot sWOOOe
+
+4 Layout (Leiterbahnfuhrung)
+5 Datenraten
+
+6 Siehe auch
+
+7 Einzeinachweise
+
+Anwendungen Bearbeiten | Quelitext bearbeiten]
+
+Die hauptséchlichen Anwendungen liegen bei seriellen HochgeschwindigkeitsUbertragungen mit einigen Bits.
+Typische Anwendungen von LVDS sind Serial ATA (SATA), PCI Express (PCle), FireWire, HyperTransport,
+Videoschnitstellen wie DisplayPort und auch Feldbusse wie SpaceWire und RapidlO. Weiterhin basieren meist .
+proprietare digitale Schnittstelien von Flussigkristallbildschirmmodulen im Embedded-Anwendungsbereichen und bei SY -34EMB5AM
+Laptops, wo das Display in das Gehause fix integriert ist, auf LVDS. 4242
+
+Digitale Videoschnittstellen zwischen PC und einem externen Monitor, wie Digital Visual Interface (DVI) oder EDI
+basieren hingegen auf physikalischer Ebene auf dem prinzipiell ahnlichen, aber far langere Ubertragungsdistanzen
+
+optimierten Transition-Minimized Differential Signaling (TMDS).
+Doestek 34LM85AM, verbautin ©
+einem Tablet zur Ansteuerung des
+
+Displays
+
+Spannungspegel [Bearbeiten | Quelitext bearbeiten }
+
+Low voltage (niedrige Spannung) bedeutet, dass statt einer Ublichen hohen
+(high voltage) Spannung far digitale Systeme von 5 V oder 3,3 V eine
+niedrigere Spannung verwendet wird. Dies hat mehrere Vorteile. Bei
+Klassischen Schnittstellen wie EIA-422 ist eine relativ hohe Leistung
+notwendig, um die Ladung des Kabels zu ander. Die dabei auftretenden
+‘Spannungsanderungen (hohes dU/dt) und hochfrequenten Lade- und Einfache LVDS-Verbindung bestehend aus Sendestufe, Ubertragungsstrecke und ©
+Entladestrome (hohes di/dt) gehen einher mit hochfrequenten elektrischen __Empfinger mit Abschlusswiderstand
+
+(E-Feld) und magnetischen Felder (H-Feld), welche starke
+
+A[¥] Ateneneiiber Get Manaus Agee Gane ote Ivor | Doan X
+

@@ -1,0 +1,6 @@
+Error - Sent on mail@marclandolt.ch
+
+A ‘Some folders (e.g. ‘Sent on mail@marclandolt.ch’) cannot be compacted because there is not
+
+enough free disk space. Please delete some files and try again.
+

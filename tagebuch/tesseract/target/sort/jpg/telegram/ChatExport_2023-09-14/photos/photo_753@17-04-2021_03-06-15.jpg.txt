@@ -1,0 +1,35 @@
+4. Okt 2008/Ueli Heuer
+
+Version
+
+HL HeaderLength in Words
+
+Prio Priority Flags
+
+Length Lange des ganzen Flows
+
+ID Sequenznummer des Flows
+
+F Flags
+
+Frag Abstand des aktuellen Fragementes
+zum Anfang der Daten
+
+TTL Time to Live (Hops to Live)
+
+Proto Protokoll der Daten
+
+Checksm Header Checksumme
+
+SrclP Source IP-Adresse
+
+DestIP Destination IP-Adresse
+
+Optional Optionale Header Daten
+
+PAD Fullbytes, da der IP-Header n*32Bit lang
+sein muss (~ HeaderLength)
+
+fa, ABB Technikerschule, Baden
+Uy Hohere Fachschule HF 05_tcpip.odp 4. Okt 2008/Ueli Heuer
+

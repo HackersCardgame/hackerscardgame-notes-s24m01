@@ -1,0 +1,27 @@
+Jacob Appelb x | +
+
+a © | & https://www.nakedcapitalism.com/2014/01/jacob-appelbaum-30c3-protect-infect-militarization-internet-transcript.html
+
+This is a Close Access Operations box. It is basically car metasploit for the NSA, which is an
+interesting thing. But basically they say that the attack is undetectable, and it’s sadly a laptop
+running free software. It is injecting packets. And they say that they can do this from as far away as
+eight miles to inject packets, so presumably using this they're able to exploit a kernel vulnerability
+of some kind, parsing the wireless frames, and, yeah. I’ve heard that they actually put this
+hardware, from sources inside of the NSA and inside of other intelligence agencies,
+
+iso that they fly them over areas that they’re interested
+
+in and they do mass exploitation of people.
+
+Now, we don’t have a document that substantiates that part, but we do have this document that
+actually claims that they've done it from up to eight miles away.
+
+So that’s a really interesting thing because it tells us that they understand that common wireless
+cards, probably running Microsoft Windows, which is an American company, that they know about
+vulnerabilities and they keep them a secret to use them. This is part of a constant theme of
+sabotaging and undermining American companies and American ingenuity. As an American, while
+generally not a nationalist, | find this disgusting, especially as someone who writes free software and
+would like my tax dollars to be spent on improving these things, and when they know about them |
+
+“aie
+

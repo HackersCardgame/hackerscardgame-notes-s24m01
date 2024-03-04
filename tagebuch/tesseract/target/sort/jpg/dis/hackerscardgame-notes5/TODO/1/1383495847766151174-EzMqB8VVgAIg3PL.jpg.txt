@@ -1,0 +1,52 @@
+QI |B Goo | w Stan | MF | HEB |G wi [M050 | Hon | ELRan: |S Ran |@MS | Max |BDTan | hele [MPs | Oe x | wise [MAPS [wma > tv x
+springer.comi r st 8 (2) e noon Pe
+
+D Springer Link search Q. Login |
+
+Original Paper | Open Access | Published: 30 July2018
+
+Brainjacking in deep brain stimulation and
+
+autonomy Sections Figures References
+
+Jonathan Push ©, Laurie Pyrat, Anders Sandberg, Ti Axe & Julian Savulescu Kecnect
+
+Ethics and information Technology 20, 2192322018) | Cite thsarticle
+4328 Accesses | 12 Citations | 10 Altmetic | Meties
+
+Abstract
+
+Brainjacking’ refers to the exercise of unauthorized control of another's
+electronic brain implant. Whilst the possibility of hacking a Brain-Computer
+Interface (BCI) has already been proven in both experimental and real-life
+settings, there is reason to believe that it will soon be possible to interfere with
+the software settings of the Implanted Pulse Generators (IPGs) that play a central
+role in Deep Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical
+concerns pertaining to privacy and physical or psychological harm, we claim that
+the possibility of brainjacking DBS raises particularly profound concerns about
+individual autonomy, since the possibility of hacking such devices raises the
+prospect of third parties exerting influence over the neural circuits underpinning
+the subject’s cognitive, emotional and motivational states. However, although it
+seems natural to assume that brainjacking represents a profound threat to
+individual autonomy, we suggest that the implications of brainjacking for
+individual autonomy are complicated by the fact that technologies targeted by
+brainjacking often serve to enhance certain aspects of the user’s autonomy: The
+difficulty of ascertaining the implications of brainjacking DBS for individual
+autonomy is exacerbated by the varied understandings of autonomy in the
+neuroethical and philosophical literature. In this paper, we seek to bring some
+
+Scientific background
+Brainjacking andthe different dimensions of auton
+Conclusion
+
+Notes
+
+References
+
+Acknowledgements
+
+‘Author information
+
+Rights and permissions
+
+About thie article

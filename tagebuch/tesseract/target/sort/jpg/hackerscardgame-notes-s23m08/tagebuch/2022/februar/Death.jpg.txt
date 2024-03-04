@@ -1,0 +1,93 @@
+BE 8
+
+File Edit Image Options View Help
+
+2HBSx|X88I/O™j/QQem
+
+LIWC Anx | Bipolar | Border | Dep | Eating
+
+PTSD | Schizo
+
+FUNCT ete ee ee
+PRONOUN
+
+Le
+
+=
+PPRON z
+=
+
+TPRON,
+
+ARTICLE
+
+VERE
+
+‘Aux VERE
+
+PAST
+
+PRESENT
+
+ADVERB
+
+Cons
+NEGATE
+
+‘QUANT
+SWEAR
+
+PosEMO
+NeGEMo
+
+ANXIETY
+ANGER
+
+Sab
+
+‘CocMEcH
+
+INSIGHT
+
+CAUSE
+
+DISCREP
+
+TENTAT
+
+HEALTH
+INGEST
+
+RELATIV
+Morton
+
+z
+
+i
+wet
+|
+i
+
+=
+
+=
+
+=
+
+LIWC | ADHD | Anx | Bipolar | Border | Dep | Eating
+
+‘oc
+
+PTSD | Schizo
+
+‘Seasonal
+
+‘Table 2: Full list of deviations by LIWC category for each condition. Category names that are *"d may have been
+affected by our normalization and tokenization procedure, Categories for which no significant differences were
+observed: ACHIEVE, AFFECT, CERTAIN, FAMILY, FILLER*, FRIEND, FUTURE, HEAR, HUMANS, INHIBITION,
+Money, NONFLUENCIES, NUMBER, PERCEPTUAL, PREPOSITIONS, PRO2, RELIGION, SEE, SEXUAL, SHEHE,
+
+Soctat.
+
+734x 857 x 24BPP 3766/6683 100% 121.83KB/1.80MB 12.07.2021 / 04:32:58
+

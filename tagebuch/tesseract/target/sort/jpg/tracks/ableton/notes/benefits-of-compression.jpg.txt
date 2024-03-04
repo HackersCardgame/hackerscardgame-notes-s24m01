@@ -1,0 +1,9 @@
+Benefits of Compression
+
+When using compression on a bus or master, the affected
+instruments start to share something in common when
+
+it comes to dynamics. This effect helps glue the bus together,
+and make it sound like one solid signal.
+
+PausePlayRepeat.com

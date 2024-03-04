@@ -1,0 +1,19 @@
+By e Oo Boo OH Be ase e-. xn Bitese MH Hypeth Mere L e ania: Bex cee
+5218 ps/imarcanontng3s . : soosi2<1520 eLoe=
+MP3-Seeker
+ump to position (in Seconds) in any mp3 on the internet with a given URL
+
+UND 3A, man kénnte das mit rein Javascript ohne PHP machen, aber da bin ich grad zu Faul dafir
+(does not work perfectly in all browsers, sometimes a reload [F5] helps if the browser caches the MP3 after fist load)
+
+https: //ftp.scene.org/pub/music/artists/paniq/finally_unfinished_part_two-mix/paniq-finally_unfinished_part_two.ogg jumping to 3800s
+
+GD: 1:03:20/13855 ~—) —@
+()} me 1500/13855
+ess 12020/13855 ¢) —®
+
+USAGE: copy the URL of the MP3 as a parameter (?URL=) of this Address and add the time in Seconds (&t=) to seekt to
+
+Exampl
+
+HE sue OmpemearoG€e-§} TO - OZ nNARMABPrv~AKAOE one

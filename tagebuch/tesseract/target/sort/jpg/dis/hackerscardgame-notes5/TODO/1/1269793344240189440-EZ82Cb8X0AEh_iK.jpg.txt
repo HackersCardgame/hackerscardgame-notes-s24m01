@@ -1,0 +1,53 @@
+© Firefox
+
+‘Scanning Crafting Interpreters -Mezila Firefox x
+
+nto. |W Verfolgn | AgeReduct | Ml coucnsc: | Skype | 1209)2: | totalts.de Home /i | @ (1159): | BE Mycons). |W Dishussi | ED TweetD: | w Tweets» | w MarciL’ | ¥ al
+
+6
+
+mpi | Seam x +
+nO 6 Ow
+
+craftingnterpreters.com a
+
+With that in place, our application shells ready. Once we have a Scanner class
+
+jokens() method, we can stat running it. Before we gct to that,
+let's talk about these mysterious “tokens
+
+Tokens and Lexemes 42
+
+Here's a line of Lox code: |
+
+Here, vor is the keyword for declaring a variable. That three-character
+sequence'v"'!'F means something. If we yank thre letters out of the middle of
+
+age, like gua, those don't mean anything on thei own,
+That's what lexical analysis is about. Our ob isto scan through the list of
+characters and group them together into the smallest sequences that stil
+
+represent something. Each ofthese blobs of characters i called a lexem, In
+that example line of code, the lexemes are
+
+wr] Gee) Fo]
+
+“The lexemes are only the raw substrings ofthe source code, However, in the
+
+process of recognizing them, we also stumble upon some other useful
+information. Things like
+
+Lexeme type 420
+
+Keywords ae part ofthe shape ofthe language's grammar, so the parser often
+has code like, “Ifthe next token is whe then do...” That means the parser
+‘wants to know not jst that thas alexeme for some word, but that it has a
+reser word, and which keyword itis
+
+The parser could categorize tokens from the raw le
+
+strings, but that's slow and kind of ugly. Inst
+
+eme by comparing the After al string comparison end up looking
+1 at the point that we recognize nid character, ands thatthe
+

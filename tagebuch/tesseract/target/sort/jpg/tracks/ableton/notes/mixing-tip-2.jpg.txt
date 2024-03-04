@@ -1,0 +1,12 @@
+Mixing Tip
+
+When mixing your track, you should almost always set below ~120Hz
+to mono, meaning placed in the center of your mix. Doing so will result
+in a tighter mix while maximizing available headroom. You can do this
+with one of two ways. The first way is using Ableton Live 10’s ‘Utility’ to
+assign any frequencies under the specified amount to be mono. The
+next method is to use Mid/Side EQ. With this, you can assign a high
+pass filter to the side frequencies at around 120Hz. This way, no Mid
+frequencies are played out on the sides.
+
+PausePlayRepeat.com

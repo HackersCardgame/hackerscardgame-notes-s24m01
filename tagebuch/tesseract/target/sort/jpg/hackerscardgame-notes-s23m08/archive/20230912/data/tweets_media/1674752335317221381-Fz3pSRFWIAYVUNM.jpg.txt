@@ -1,0 +1,70 @@
+‘Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+‘Anderungen an
+verlinkten Seiten
+
+Spevialseiton
+Permanenter Link
+Seiteninformationen
+Actkelziteren
+Wikidata-Datenobjekt
+
+Druckervexpotionen
+
+‘Ais POF herunterladen
+Druckversion
+
+In anderen Projekten
+
+‘Commons
+
+In anderen Sprachen &
+yal
+English
+Espa
+Francais
+Bahasa Indonesia
+tian
+Portugues
+» Pycont
+Px
+
+Ba, 32 weltere
+
+Links bearbeiten
+
+22 oe Open (Cas, blau) mit gobundener Zio DNA
+23 leader-Sequenz (orange)
+
+3 Immunitat durch CRISPR
+4 Mechanismus
+4.1 Adaptation
+4.2 crRNA-Transkription und -Prozessierung
+433 Interferenz
+5 Auswirkungen
+6 Anwendungen
+7 Literatur
+8 Einzelnachweise
+
+Entdeckung und Eigenschaften sea:beten | aueitext bearbeiten}
+
+Die Existenz sich wiederholender DNA-Abschnitte, die heute als CRISPR bekannt sind, wurde bereits 1987 im Bakterienstamm Escherichia coli K12 von Yoshizumi Ishino und Kollegen
+‘entdeckt. Sie identifizierten eine sich wiederholende Sequenz von 29 Nukleotiden, die von variablen Regionen mit jeweils 32 Nukleotiden unterbrochen wurden.!"] wurden ahnliche
+Regionen auch auf der DNA von Mycobacterium tuberculosis entdeckt und als ,Direct Variable Repeats" (DVR) bezeichnet,! [TEES erfolgte die Entdeckung dieser Sequenzen auch bei
+den Meeresbakterien Haloferax voleanii und Haloferax mediterranei durch den spanischen Mikrobiologen Francisco Mojica, der sie als ,Tandem Repeats" (TREPs) bezeichnete |! Die
+Axbeitsgruppe um Mojica identifizierte weitere Bakterien und Archaea mit entsprechenden Sequenzen und wahite fur diese sich gleichenden Wiederholungen eine neue Bezeichnung als.
+,Short Regularly Spaced Repeats” (SRSR) "in der Literatur kamen weitere Namen hinzu, die ebenfalls diese Sequenzen bezeichneten, etwa spacer interspersed and direct repeats”
+(SPIDRs) und ,long clustered tandem repeats" (LCTRs).©1 2002 wurde dann durch Jansen und Kollegen erstmals der Begriff Clustered Regularly Interspaced Short Palindromic
+Repeats’, kurz CRISPR, verwendet. Es wurde bekannt, dass ahnliche Strukturen im Genom vieler verschiedener Prokaryoten existieren, und es wurde eine Gruppe von Genen entdeckt,
+die in allen untersuchten Organismen nahe am Genlokus der CRISPR lagen und daher cas-Gene (CRISPR-associated) genannt wurden.l Jansen und Kollegen identifzierten vier
+verschiedene Cas-Core-Sequenzen (Cas1 bis Cas4), bis 2005 wurden durch Haft und Kollegen insgesamt 41 entsprechende Gene und zwei weitere Cas-Core-Sequenzen (Cas5 und
+Cas6) und insgesamt acht Subtypen von CRISPRICas-Systemen beschrieben 715]
+
+Heute ist bekannt, dass das Genom von etwa 45 % der bistang sequenzierten Baklerien und 83 % der Archaeen mindestens eine CRISPR-Struktur enthalt 6
+
+Pathogene der Art Francisella verwenden das CRISPR-Cas-System zur Immunevasion.!®l Bei Neisseria meningitidis und Campylobacter jejuni ist das System ein Pathogenitatsfaktor mit
+bisher unbekanntem Mechanismus.®!
+

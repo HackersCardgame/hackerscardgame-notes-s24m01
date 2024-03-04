@@ -1,0 +1,7 @@
+Inventor: 200% Year: ~7772
+Spatially, antenna forms can be distinguished by
+their radiation length in multiples or fractions of the
+wavelength A (Greek letter lambda):
+
+‘You can calculate the frequency of antennas. Maybe
+

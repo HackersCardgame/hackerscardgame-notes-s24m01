@@ -1,0 +1,137 @@
+© imu
+
+Quantifi
+
+oxen
+
+© Chronik v x
+
+© Chronik durchsuc} Sortieren¥
+
+> OHeute
+> © Gestern
+
+> Oeste 7Tege
+
+> © nciesem Monst
+> © ottober
+
+> © september
+
+> © August
+
+> Oui
+
+> © Aker als 6 Monate
+
+OB hittpsi//www.c64-wikicom/wiki/RAM 8
+
+64
+iki
+
+search
+[Search C6a-Wie
+Go| | Search
+navigation
+1 Recent changes,
+Links
+
+= Random Page
+1 Visual Cat Search
+
+help and feedback
+= FAQ
+Forum
+1 Administrators
+= Guestbook
+Templates
+
+c64-games
+= Games
+' Golden Games
+1 Highscore Gallery
+
+portals
+= Main Portal
+= Applications,
+= Coding
+= Companies & Persons,
+1 Emulators:
+= Glossary
+= Hardware
+* Graphics & Music
+= Literature & Medias
+1 Miscellaneous
+
+tools
+1 What inks here
+1 Related changes
+= Upload fle
+= Special pages:
+1 Printable version
+1 Permanent ink
+1 Page information
+
+in other languages
+
+OW NiODSeome =
+
+& notlogged in tak contributions create account login A
+
+[Peeve ies Ml car [[-reicry
+RAM
+
+RAM is a shortcut for Random Access Memory. The chips of computers, which are used as temporary memory, are called RAM. The input - also programs and data - will be loaded into the ram before the CPU can
+run this program. RAM-Chips can also be used as caches in harddisks, CD- or DVD-drives or as video ram (VRAM).
+
+Contents fhise]
+
+1 DRAM
+
+2 SRAM
+
+3 REU
+
+4 Pinouts of RAM chips in the C-64
+5 Cross reference table
+
+6 US Color SRAM Failure Symptoms
+7 Links
+
+DRAM edit]
+
+The RAM of the C64 is so-called DRAM (shortcut for Dynamic RAM). The information of a DRAM must be refreshed after a few milliseconds.
+SRAM edit]
+The chip-synonym of the colour RAM is 2114 with 0,6 KByte. The colour RAM used SRAM (shortcut for Static RAM). This RAM-type does not need a refresh
+
+REU edit]
+
+‘8 RAM chips on a C84 board a
+
+The RAM of the C64 can be enhanced with cartridges. The famous Memory Cartridge was built by Commodore and is called REU (RAM Expansion Unit). Another Memory cartridge is called GeoRAM, which is only used with the operating system GEOS
+Pinouts of RAM chips in the C-64 [edit]
+
+2114 1K x4 SRAM
+One of these makes up the text screen color RAM at 55296-56295/SD800-DBET. Three of these chips (expandable by another 8) make up the main memory in the VIC-20.
+
+vec
+BE
+a9
+BO |5 2114 14) Di
+AL 16 13] D2
+22 (7 12] D3
+ics 18 a1] D4
+GND |9 10] !WE
+
+A116 16 K x 1 DRAM.
+Needs -§ (VEE), +5 and +12 (VDD) volt power supply.
+
+cop
+
+[A] ©] Allehenorheben Grot-/Kleinschreibung Algente GanzeWorter_Ausdruck nicht gefunden x
+
+1849
+
+fp
+
+11.11.2020

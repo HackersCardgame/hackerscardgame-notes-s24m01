@@ -1,0 +1,19 @@
+Q Mit Google suchen oder Adresse eingeben
+
+Kleinberg (2010).
+
+What does scale-free mean? LL
+
+A network is called scale-free if the characteristics of the network are independent
+of the size of the network, i.e. the number of nodes. That means that when the
+network grows, the underlying structure remains the same.
+
+See how the grown network still retains its underlying structure Cre
+cou
+
+The underlying structure ll
+A scale-free network is defined by the distribution of the number of edges of the —
+nodes following a so called power law distribution. Fute
+diffe
+
+rience. Carry on browsing if you're happy with this, or read our cookies policy for more information.

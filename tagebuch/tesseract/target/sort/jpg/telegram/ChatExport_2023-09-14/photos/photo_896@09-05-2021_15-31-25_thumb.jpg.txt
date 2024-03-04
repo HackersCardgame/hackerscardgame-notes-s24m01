@@ -1,0 +1,22 @@
+opEntered
+OFF
+
+Invento: Year: ~72?
+https://en.wikipedia.org/wiki/
+
+UML state_machine
+
+If you have @ production line (that can be abused to
+programm ), the line can
+have several different states, so you have to find the
+states and how / when (eg. eventtrigger) they
+change, see eg, Siemens S7 PCL
+
+The same principle is unfortunately also abused
+aganist humans eg. in their bedroom (see m98, m99
+Card):
+mal: loop { you will be raped } =>
+someone says "Fut* your Mother
+3. Rage
+induced with t= cards
+

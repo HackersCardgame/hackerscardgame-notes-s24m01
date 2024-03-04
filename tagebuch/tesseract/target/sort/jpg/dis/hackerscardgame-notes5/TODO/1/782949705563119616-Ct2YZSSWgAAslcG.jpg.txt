@@ -1,0 +1,49 @@
+First registration date
+2010-12-27
+
+DNSSEC:N
+
+Name servers:
+
+a.dns.gandi.net
+
+b.dns.gandi.net
+
+c.dns.gandi.net
+
+claude@debian:~$ dig piraten-aargau.ch
+
+} <<>> DiG 9.9.5-9tdeb8u6-Debian <<>> piraten-aargau.ch
+
+; global options: +cmd
+
+; Got answer:
+
+; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46372
+
+; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: ©, ADDITIONAL: 1
+
+3+ OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+QUESTION SECTION:
+
+;piraten-aargau.ch. IN A
+
+33 ANSWER SECTION:
+piraten-aargau.ch. 10800 = IN A 77.109.144,133
+
+; Query time: 104 msec
+
+; SERVER: 212.60.61.246#53(212.60.61.246)
+; WHEN: Mon Oct 03 16:22:44 CEST 2016
+
+; MSG SIZE revd: 62
+
+claude@debian:~$ nmap piraten-aargau.ch
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2016-10-03 16:22 CEST
+
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (@ hosts up) scanned in 3.08 seconds
+
+claude@debian:~$

@@ -1,0 +1,16 @@
+DRUM BUSS OVERVIEW
+
+The first panel on the left gives you access to input settings, compression, and 3
+different distortion types.
+
+The middle panel gives you access to mid-high frequency shaping tools that are
+designed to add clarity and presence.
+
+Crunch works like distortion and Damp is similar to a low pass filter.
+
+The Transients knob modifies transients of frequencies above 100Hz.
+
+The last panel on the right gives you access to some low-end enhnacement tools; a
+resonant filter (made up of Boom and Freq knobs), as well as a Decay control.
+
+PausePlayRepeat.com

@@ -1,0 +1,11 @@
+Chosen-Plaintext Attack
+
+Pair created from
+‘chosen plaintext,
+
+/) Plaintext
+
+Ciphertext Ciphertext Ciphertext
+
+Bob
+

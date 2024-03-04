@@ -1,0 +1,21 @@
+78 // Driver code
+79 int main()
+
+B0- {
+
+81 string s1 = “Autist", s2 = "Altruist";
+
+82
+
+83 // Print jaro Similarity of two strings
+
+84 cout << jaro_distance(s1, s2) << endl;
+
+Here Copy > Run
+> Run+URL (Generates URL as well)
+Generated URL: Copy
+https: //ide. geeks forgeeks .org/2Xh7XRXPUj
+Time(sec) : 0 Memory(MB) : 3.5185988528442
+
+Output: Copy
+

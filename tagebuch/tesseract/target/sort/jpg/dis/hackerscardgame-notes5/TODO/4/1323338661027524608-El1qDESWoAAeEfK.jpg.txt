@@ -1,0 +1,70 @@
+hau paicnea wie unueryiny Dug WILT UIE release OF WISUI-UZ9.
+
+Co 00 0
+00 00 02
+08 00 00
+@1 00 0
+3E 04 14
+08 00 28
+69 10 A2
+00 00 OE
+6D 70 00
+00 00 00
+00 00 00
+
+yPAOD @:i>¢0] +0
+eeg.. | ilesing¥
+00n%e 2
+
+i: \fanny .bmp
+Ayame
+
+00 00
+00 00
+00 00
+00 00
+00 00
+69 10
+EC 21
+00 00
+6E 79
+00 00
+00 0
+
+SSRSSRSSSSS
+SSSSSZSSsss
+SSSSSSSSsss
+
+Enlarge / The LNK exploit as used by Fanny.
+
+A far more common infection vector was Web-based attacks that exploited vulnerabilities in
+Oracle's Java software framework or in Internet Explorer. The exploits were hosted on a variety of
+websites related to everything from reviews of technology products to discussions of Islamic
+Jihad. In addition to planting exploits on the websites, the attack code was also transmitted
+through ad networks. The wide range of exploit carriers may explain why so many of the
+machines Kaspersky observed reporting to its sinkholes were domain controllers, data
+warehouses, website hosts, and other types of servers. Equation Group, it seems, wasn't infecting
+only end user computers—it was also booby-trapping servers known to be accessed by targeted
+end users.
+
+z aa
+One Equation Group-written PHP script that Kaspersky unearthed,
+for instance, checked if the MD5 hash of a website visitor's username was either
+848026b3fSe6dcfb29e82e0b0b0/386 or e6d290a03b70cfaSd4451da444bdea39. The plaintext
+corresponding to the first hash is "unregistered," an indication that attackers didn't want to infect
+visitors who weren't logged in. The second hash has yetto-be-deciphered Update: now been
+cracked; see this brief.
+
+he surgical precision exercised to ensure
+
+"We could not crack this MDS, despite using considerable power for several weeks, which makes
+us believe [the plaintext username] is a relatively complex one,” Raiu said. "It definitely indicates
+that whoever is behind this username should not be infected by the Equation Group, [and]
+actually it shouldn't even see the exploit. | would assume this is either one of the group members
+(a fake identity), one of their partners, or a known identity of a previously infected victim.”
+
+The PHP script also took special care not to infect IP addresses based in Jordan, Turkey, and
+Egypt. Kaspersky observed users visiting the site who didn't meet any of these exceptions, yet
+they still weren't attacked—an indication that an additional level of filtering spared all but the
+‘most sought-after targets who visited the site.
+
