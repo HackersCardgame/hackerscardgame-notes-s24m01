@@ -1,0 +1,106 @@
+WIKIPEDIA
+
+Die feie Enzyklopadie
+
+Hauptseite
+‘Themenportale
+Zutalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+‘Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+‘Anderungen an
+‘erlinkten Seiten
+
+Sperialseiten
+Permanenter Link
+Seiteninformationen
+
+ome) OPH OF
+c 08
+
+Gan GOA Giee S05) COm win THe We OG Ohm Cu ee
+wikipedia.org © wom o ou Ow
+2 Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+Artikel Diskussion. Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte | Wikipedia durchsuchen Q
+Klystron
+
+bastystron ene etronandhe le le Laut er etronan zur Erzeugng oder Versttung von
+Hochrequenzsignatenausutt(autetvohre) Das Gundprnp urd von Osar Hel 1935 yon Es fur 1937
+von den Gebrern Russel und Sigurd Varian unter Mihife von Vii Wester Parse an der Santer Unwesty
+(alferrien entitle
+
+Im Kystron eft nim Vous erzeuter nd durch Hochspannung bescteurigterEleronestom drch
+hochfequenteseeitsces eel ene Gescvndigketsmodultin Fr dunt das een mt em
+Hechtfequen Signal gespetn Hoaunresnaoc Nach eer gevisen Lauzt bet dle Gescvndgrelsmodaon
+sina Dicemedulaon, Der module letrnertor kann durch dr oda revere eter olitaumescnatren
+(Menrtammerisrorgtunr werden, und am ezen Resonator ann el Tl sens Eergl als Hchequnzenerge
+entnommen werden
+
+Inhaltsverzeichnis {verbergen}
+
+1 2weikammer-Klystron
+2. Mehrkammer-Klystron
+3 Reflexklystron
+
+4 Siehe auch
+
+5 Literatur
+
+6 Weblinks
+
+7 Einzelnachweise
+
+Gan GBM) Stew GDo 60em wl Tian wwe: Oop "imp Cun ae) Sm Ba MM Bs wex|o ev
+vkipeda.org © wm OL ee
+Fur die in der Praxis bendtigten Ausgangsleistungen werden Elektronenstrahlen hoher Leistung Se
+
+Hontaunazentoen ane im Sch
+benatigt. Die dadurch bedingte hohe Raumladungsdichte im Strahl erfordert infolge der aes qs
+
+Coulombkrafte zwischen den Elektronen zur Paketbildung eine Modulation mit hoher ‘pacha
+
+Geschwindigkeit. Diese wird durch Verwendung zusatzlicher Resonatoren
+(Zwischenresonatoren) zwischen Eingangs- und Ausgangsresonator erreicht. Da aus ihnen im i=
+Normalfall keine Leistung ausgekoppelt wird, entwickeln sich in ihnen kaskadierend héhere
+
+elektrische Felder in den Resonatorzentren, die schlieBlich zur erforderlichen Paketbildung
+fuhren. Das Verfahren hat gleichzeitig den Vortell, dass durch eine Verstimmung der
+Resonanzfrequenzen der Zwischenresonatoren gegeneinander eine im Vergleich zum ‘Siomlingang ——Senalaugeng
+Zweikammer-Kiystron wesentlich hdhere Bandbreite (bis ca. 1 %) erreicht werden kann. ‘Schematische Darstellung eines ca
+
+Mehrkammerklystrons
+Verstarker-Klystrons konnen als Mehrkammer-Klystron fur Kurzpuls-Leistungen : yerons
+(Mikrosekunden-Bereich| bis zu etwa 100 Megawatt gebaut werden, jm kontinuierlichen Betrieb
+
+(,Dauerstrichleistung’) bis weit Uber 1 Megawatt, Der Frequenzbereich erstreckt sich von einigen 100 MH
+
+‘Typische Anwendungsgebiete sind starke UHF- und Mikrowellen-Sender, Radar (Reflexkiystron als Mischoszillaton, Mikrowellenheizung (z 8. in der
+Spanplattenherstellung), medizinische und wissenschaftliche Teilchenbeschleuniger sowie die Breitband-Satellitenkommunikation.
+
+Bis vor einigen Jahren war das klystron in terrestrischen UHF-Sendern welt verbreitet. Mitlerweile wird es dort aber mehr und mehr von IOT (Inductive
+Output Tube) oder von Halbleiterverstarkern verdrangt.
+
+Reflexklystron (Bearbeiten | Queltext bearbeiten
+
+Beim Reflexkiystron, auch als Suton-Rofre bezelchnet, sind der modullerende und der entnehmende
+Hohlraum identsch - der Elektronenstrom wird in dlesen durch eine negativ vorgespannte Elektrode
+
+refletiet. Das Reflexkiystron kann daher als Oszllator wrken. Die Bezeichnung Sutton Rohe leitet sich a
+von ihrem Erfinder Robert Sutton ab, de diesen Rohrentyp im Jahr 1940 entwickelt. In der Sowjetunion atte
+wurde von Nikolai Dewjatkow ein solches Klystron entwickelt. Reflexklystrons wurden wahrend des. Y
+

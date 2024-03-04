@@ -1,0 +1,12 @@
+lernstickAdvanced
+Forked from imedias/lernstickAdvanced
+buildscripts for school centric Debian Live distributions
+
+@ shell 9 Updated on 10 May 2016
+
+linux
+Forked from raspberrypi/linux
+
+@c 350 Bother Updated on 11 Mar2016
+
+WY Star

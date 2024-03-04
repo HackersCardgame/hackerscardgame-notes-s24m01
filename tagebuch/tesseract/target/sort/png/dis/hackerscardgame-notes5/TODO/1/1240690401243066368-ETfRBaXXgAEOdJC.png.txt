@@ -1,0 +1,62 @@
+File Edit View Search Terminal Help
+raccoons
+
+racoon's
+
+roncador
+
+marc@debian: /usr/share/dict$ ca’
+|grep r -ilgrep n -ilgrep a -i|
+marc@debian: /usr/share/dict$ ca’
+|grep r -ilgrep n -ilgrep a -i|
+marc@debian: /usr/share/dict$ ca’
+ep n -ilgrep a -ilgrep -P "*...
+marc@debian: /usr/share/dict$ ca’
+ep n -ilgrep a -ilgrep -P "*...
+canoro
+corona
+marc@debian: /usr/share/dict$ ca’
+ep n -ilgrep a -ilgrep -P "*.
+marc@debian: /usr/share/dict
+
+grep _n -ilgrep a -ilgrep -P "*
+
+canoro
+marc@debian: /usr/share/dict$ ca’
+ep n -ilgrep a -ilgrep -P "*...
+canoro
+corona
+marc@debian: /usr/share/dict$ JJ
+
+marc@debian: /usr/share/dict
+
+t british-english-huge|grep -i c
+grep -P "*........ $" |grep ss
+
+t british-english-huge|grep -i c
+grep -P "*........ $" |grep ss -i
+
+t italian|grep -i c |grep -iP "o.
+
+t swedish|grep -i c |grep -iP "o.
+
+t portuguese| grep -ic |grep -iP
+$"
+
+t swedish|grep -i c |grep -iP "o.
+$"
+
+‘t spanish|grep -i c |grep -iP "o
+$"
+
+|grep -iP "o.*o"
+|grep -iP "o.*o"
+*o"|grep r -ilgr
+
+*o"|grep r -ilgr
+
+*o"|grep r -ilgr
+
+"o.*o"|grep r -i
+
+*o"|grep r -ilgr

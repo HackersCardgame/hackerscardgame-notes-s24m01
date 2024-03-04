@@ -1,0 +1,70 @@
+Activities irefox ESR Aug 31 00:35 PaO)
+< ar Gamb @TIEF @ TIE Rade Hack Mente Hor MStre’ BY Mar = Gbloo BX Mar YM F4y YM F4y Gfullb 7 -Mii BE Lanc  Ox8.ch// @Farb hackers Gasec  $ St x | BE Neu + vy x
+€ g O & https://asecuritysite.com/forensics/simstring ea oP w=
+
+bill’s
+
+Security site.com
+
++ profsims.com - Networksims
+
+Welcome to Asecuritysite.com
+
+IP IDS MAGIC yey , CISCO CYBER ENCRYPT TEST FUN
+
+[Network Forensics Home][Home] . Digital
+
+This provides an overview of the string similarity using different methods. & Forensics
+FFD 47 49 46.39 PK
+@asecuritysite.com
+
+The results are then:
+
+aukismus
+
+String 1: Levenshtein 58
+
+_ NeedlemanWunch 62
+
+Smith-Waterman 69
+
+Auiculemus Smith-Waterman Gotch 65
+
+String 2: Smith-Waterman Gotoh gg
+4 Windowed Affine
+
+Jaro 85
+
+(Analyse Jaro Winkler 86
+Grams Distance 33
+°
+
+Block Distance
+
++ Loss of insignificant words: "loans and accounts” Cosine Similarity 0
+and “loans accounts”. Try
+
+Small changes: "loans and accounts” and "loan and Euclidean Distance 0
+
+account". Try
+
+Rearrangment of words: "loans and accounts" and
+
+“accounts and loans”. Try Overlap Coefficient 0
+
+Punctuation: \g, "camping"; and ‘forest$" and
+
+“fishing camping and forest”. Try
+
+Case: "Loan Account and Dealing" "LOAN ACCOUNT
+
+DEALING”. Try
+
+Spacing: "LoanAccountDealing” "Load, Account,
+
+Chapman Length Deviation 67
+
+Dealing”. Try
+
+Here is another test:
+

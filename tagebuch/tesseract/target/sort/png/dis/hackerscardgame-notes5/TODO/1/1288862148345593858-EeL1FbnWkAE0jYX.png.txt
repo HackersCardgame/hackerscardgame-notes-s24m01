@@ -1,0 +1,69 @@
+Activities) Terminal ~ Aw ae
+
+‘then
+
+echo © $(redpEnnons(default) $re
+fecho $1 s>fait.txt
+a
+
+best everything vores
+
+# Helper Function for YES or NO Answers
+
+# Example YESNO “Question to ask" "command to be executed”
+faansneananeantaasusnsnennensnnantantasansnenneataraauoranamanananesnanenia
+
+funetion YESNO {
+
+echo ve =n
+sired}si [y/M)${default)
+read -d°" "5 -nl answer
+echo
+
+if | “Sanswers =
+then
+
+return 0
+
+else
+
+echo
+
+TID C sanswert = -¥° 1
+
+return 2
+fi
+
+f Test if script runs as root otherveise exit with exit code 1
+#if [{ $€U70 -ne @ }]; then
+
+# echo -e =n
+
+#s(rea}vou must be a root user to run this scripts(default)
+vat the moment you are ™ 2>41
+
+eid | cut -d "of
+
+# echo
+
+¢ exit 1
+
+an
+foanennansnannsnnnnenanannanennsnennsnsansneansnsnanannenannanananennenenaann
+
+# Test if user has given enough parameters
+panes naansncansnsonentanannnsnnansansatonsnsensnseenaneanannaneananesnanenian
+if "sin =
+
+then
+echo <2 *
+Usage
+
+enter the (new) 0a
+echo
+echo * argunents
+
+jase Password as paraneter S{red}sudo ${0} 123456${default) *
+
+Oma
+37a ase

@@ -1,0 +1,90 @@
+Activities) Terminal ~ Wed 05:51 dew FM AY
+
+“Ww ° 1 marcland marcland 10169673 Jul 20 05:30 tweets.csv
+{marc land@s30:~/public_html/Twitter5] $ chmod a+r *
+
+[marc land@s30:~/pubLic_html/Twitter5] $ 1s -la
+total 10012
+
+7 marcland = marcland 4096 Jul 20 05:31 .
+
+59 marcland marcland 4096 Jul 20 05:30 ..
+
+1 marcland marcland 1056 Jul 20 05:30 README. txt
+2 marcland marcland 4096 Jul 20
+
+3 marcland marcland 4096 Jul 20
+
+2 marcland marcland 4096 Jul 20
+
+1 marcland marcland 4026 Jul 20
+
+2 marcland marcland 4096 Jul 20
+
+7 marcland = marcland 4096 Jul 20
+
+1marcland marcland 10169673 Jul 20 05:30 tweets.csv
+
+[marc land@s30:~/public_html/Twitter5] $ chmod atr * -R
+chmod: -R: No such file or directory
+[marcland@s30:~/public_html/Twitter5] 1 $ chmod a+r -R *
+chmod: -R: No such file or directory
+[marcland@s30:~/pubLic_html/Twitter5] 1 $ chmod -R atr +
+chmod: the -R and -h options may not be specified together.
+[marcland@s30:~/public_html/Twitter5] 1 $ find . -type f
+«/tweets .csv
+
+«index.html
+
+« /README . txt
+
+./data/js/tweet_index. js
+
+./data/js/user_details. js
+
+./data/js/payload_details. js
+
+. /data/js/tweets/2016_07.js
+
+«/data/js/tweets/2016_06.js
+
+. /data/js/tweets/2016_05.js
+
+«/data/js/tweets/2016_04.js
+
+/data/js/tweets/2016_03. js
+
+/data/js/tweets/2016_02.js
+
+/Mata/js/tweets/2016_01. js .
+[marcland@s30:~/public_html/Twitter5] $ find . -type f -exec chmod atr '{}' \;
+[marcland@s30:~/public_html/Twitter5] $ find . -type d -exec echo x: '{}' \;
+
+-/data
+
+-/data/js
+
+./data/js/tweets
+
+Sis
+
+Jess
+
+-/img
+
+-/Lib
+
+-/Lib/bootstrap
+
+./Lib/hogan
+
+-/Lib/jquery
+
+-/Lib/twt
+
+-/Lib/underscore
+
+[marc land@s30:~/public_html/Twitter5] $ find . -type d -exec chmod a+r ‘{}' \;
+[marc land@s30:~/public_html/Twitter5] $ find . -type d -exec chmod atx '{}' \;
+{marcland@s30:~/public_html/Twitter5] $ {]
+

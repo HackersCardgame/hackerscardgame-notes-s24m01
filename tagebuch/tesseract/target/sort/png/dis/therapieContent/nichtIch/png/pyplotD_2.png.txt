@@ -1,0 +1,14 @@
+Simple K8055 datascope
+
+Input 1
+
+Time (seconds)
+
+7 = Input 2
+
+= Input 3
+
+= Input 4
+
+~ Input 5
+

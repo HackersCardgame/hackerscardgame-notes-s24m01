@@ -1,0 +1,57 @@
+ABB-TS
+
+Software Engineering 2
+
+3. Semester
+
+Ziele H
+
+Standard GUI-Kontrollelemente
+kennen
+
+8. GUI mit AWT
+Idee von Containern verstehen
+Layout-Manager verstehen
+Kleines GUI-Programm
+schreiben
+GUI mit AWT AWT
+
+GUI = Graphical User Interface -
+
+AWT = Abstract Window Toolkit
+Plattform-iibergreifender GUI Toolkit
+
+— Unix
+
+—Windows
+
+—Mac
+
+Look & Feel plattformabhangig
+
+Bietet nur die Funktionalitat, welche alle
+Plattformen anbieten
+
+Le havy Weaght Kom pesca ley
+
+¢ AWT besteht aus:
+— Standard GUl-Kontrollelemente
+
+—Zeichenoperationen
+—Containern
+—Layout-Managern
+—Event-Handling Mechanismus
+
+(Components)
+
+GUl-Kontrollelemente
+
+GUlI-Kontrollelemente
+
+©) NetBeans IDE 5.5 - GUImitAWT
+
+Open Recerkt Project
+
+© Marco Bontognali
+
+8. GUI mit AWT Seite 1

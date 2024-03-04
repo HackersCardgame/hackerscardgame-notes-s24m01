@@ -1,0 +1,75 @@
+a Terminal Q
+
+} 487 2021-06-19 08:39:28 wget “http://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb10u3_amd64.deb"
+488 2021-06-19 08:40:37 wget "https://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+debl0u3_amd64.deb"
+489 2021-06-19 08:41:58 wget "http://ftp.de.debian.org/debian/pool/main/g/git/git_2.20.1-2+deb10u3_amd64.deb"
+490 2021-06-19 08:42:01 ls . . . .
+> 491 2021-06-19 08:42:15 sudo apt-get purge git rotect And Infect, The Militarization
+) 492 2021-06-19 08:42:27 ls
+493 2021-06-19 08:42:35 dpkg --install git_2.20.1-2+deb10u3_amd64.deb
+494 2021-06-19 08:42:38 sudo dpkg --install git_2.20.1-2+deb1lou3_amd64.deb
+495 2021-06-19 08:43:53 wget "http://ftp.de.debian.org/debian/pool/main/g/git/git-man_2.20.1-2+debl0u3_all.deb" . . . .
+) 496 2021-06-19 08:44:00 sudo dpkg --install git-man_2.20.1-2+deb10u3_all.deb desiree lortscher die ganzen tiefen
+497 2021-06-19 08:44:06 sudo dpkg --install git_2.20.1-2+deblou3_amd64.deb
+498 2021-06-19 08:44:19 rm -rf HackersCardgame4/
+499 2021-06-19 08:44:28 for i in $(seq 3 24); do git clone https://github.com/braindef/HackersCardgame4; done
+500 2021-06-19 08:44:42 exit
+j 501 2021-06-19 08:44:48 for i in $(seq 3 24); do git clone https://github.com/braindef/HackersCardgame4; done
+502 2021-06-19 09:08:06 history
+
+marc@debian: /media/marc/7F346F3938B21801$ history “C
+
+marc@debiat media/marc/7F346F3938B21801$ rm -rf HackersCardgame4/ A Terminal Q = x
+
+| marc@debian: /media/marc/7F346F3938B21801$ for i in $(seq 3 24); do git clone https://github.com/br, 702780b306
+
+;Cloning into 'HackersCardgame4' . unknown key type ed
+
+remote: Enumerating objects: 8021, done. marc@debian: /media/marc/7F346F3938B21801/hcg2$ ssh-keygen -t ed*C
+
+remote: Total 8021 (delta 0), reused © (delta 0), pack-reused 8021 marc@debian: /media/marc/7F346F3938B21801/hcg2$ cp ~/.ssh/id_rsa.pub ~/hackersca
+
+Receiving object geetaotestan: ne rdgame-notes6b/
+
+)Resolving deltas) fay Terminal Q % marc@debian: /media/marc/7F346F3938B21801/hcg2$ cd
+
+error: unable to marc@debian:~$ cd hackerscardgame-notes6b/
+
+| naked capital inflating: HackersCardgame4-master/whatToExpect.png marc@debian:~/hackerscardgame-notes6b$ git add -A && git commit -m “.
+
+fatal: cannot cr inflating: HackersCardgame4-master/wokeMeUp. png git push
+
+-ternet | naked Cmarc@debian: /media/marc/7F346F3938B21801/hcg$ ls .gi*C [main b9acb35] .......
+
+warning: Clone smarc@debian a/marc/7F346F3938B2 Is cd 1 file changed, 1 insertion(+)
+
+You can inspect marc@debian:~$ cd /media/marc/7F346F3938B21801/hcg create mode 100644 id rsa.pub .
+
+and retry the chmarc@debian: /media/marc/7F346F3938B21801/hcg$ 1s Username for ‘https://github.com': hackerscardgame mich
+HackersCardgame4-master master.zip Password for ‘https: //hackerscardgame@github.com' : .
+
+)fatal: destinatimarc@debian: /media/marc/7F346F3938B21801/hcg$ cd .. Enumerating objects: 4, done. > wird
+
+fatal: destinatimarc@debian: /media/marc/7F346F3938B21801$ cd hcg2/ Counting objects: 100% (4/4), done.
+
+fatal: destinatimarc@debian: /media/marc/7F346F3938B21801/hcg2$ 1s Delta compression using up to 12 threads
+
+it 19 Jun marc@debian: /media/marc/7F346F3938B21801/hcg2$ git clone https://github.com/Hack| Compressing objects: 100% (3/3), done.
+ersCardgame/hackerscardgame-notes6b Writing objects: 100% (3/3), 726 bytes | 726.00 KiB/s, done.
+
+8 116 958 cloning into ‘hackerscardgame-notes6b'... Total 3 (delta 1), reused © (delta 0)
+remote: Enumerating objects: 1297, done. remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+
+185371 ba9QCiremote: counting objects: 100% (3/3), done. To https: //github.com/HackersCardgame/hackerscardgame-notes6b L79c887a73
+remote: Compressing objects: 100% (3/3), done. @825dbf..b9acb35 main -> main
+
+Ibe rWAR202 *<ceiving objects. * (13/1297) marc@debian:~/hackerscardgame-notes6b$ ff |
+
+= marc@debian: /media/marc/7F346F3938B21801/hcg2$ git clone git://github.com/Hacker|
+lain DoF CT ee igane nacherseardgane -notesco
+i Cloning into ‘hackerscardgame-notes6b'...
+} files ch remote: Enumerating objects: 1297, done.
+leLete mOdrremote: counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (3/3), done.
+lelete MO eeceiving objects: 69% (895/1297), 767.70 MiB | 2.82 MiB/s
+

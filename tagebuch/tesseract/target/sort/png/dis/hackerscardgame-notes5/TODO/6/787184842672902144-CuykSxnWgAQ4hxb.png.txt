@@ -1,0 +1,63 @@
+<  Normalverteilung z.B. IQ
+
+Hochbegabung
+
+22% 0.1%
+
+97,7 99,9
+
+Erfinder
+Carl Friedrich Gau&
+
+Funktionsweise
+
+Hier am Beispiel der Verteilung der Intelligenz in der
+Gesellschaft, aber man kénnte auch die Grosse von
+Menschen nehmen, oder z.B. die Anzahl von
+Haushalten mit Kichen-Mixer... aber da musste man
+dann rausfinden ob es wirklich normalverteilt ist
+
+Anwendungsfalle
+Statistik,  Plausibilitaten von 2z.B.
+abschatzen
+
+Aussagen
+
+Hysterese / Remanenz
+
+magnetische B
+Induktion (B) Satigung
+Entmagneti-_
+sierungskurve ~~
+He
+“S
+Koerzitiv. 7]
+feldstarke
+
+/__ Neukurve
+
+|_—Hystereseschleife
+
+_
+Magnetische
+Feldstarke (H)
+
+unmagnetischer
+Zustand
+
+Erfinder Jahr
+James Alfred Ewing ~1890
+
+Funktionsweise
+
+Bezeichnet das Bestehenbleiben einer Wirkung,
+nachdem die verursachende Kraft aufhért z.B. im
+(Elektro)Magnetismus  nachvollziebar z.B. alte
+R6hrenfernseher tendierten dazu mit der Zeit
+magnetisch zu werden was ein schlechtes Bild zur
+Folge hatte also hat man sie "entmagnetisiert"
+
+Anwendungsfalle
+..SO kénnte man z.B. versuchen einen falsch
+aufgespielten Verhaltensmuster wieder zu léschen.
+

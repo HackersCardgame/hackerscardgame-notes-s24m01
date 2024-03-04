@@ -1,0 +1,80 @@
+ii Libstb0:1386 ©.0~git20200713.b42009b+ds-1 1386 single-file image and audio processing libraries for C/C++
+ii Libwebp6:amde4 0.6.1-2.1 amd64 Lossy compression of digital photographic images
+
+ii Libwebp6: 1386 0.6.1-2.1 1386 Lossy compression of digital photographic images
+
+ii Libwebpdemux2:amd64 0.6.1-2.1 amd64 Lossy compression of digital photographic images
+
+ii Libwebpmux3:amd64 0.6.1-2.1 amd64 Lossy compression of digital photographic images
+
+ii Libwebpmux3: i386 0.6.1-2.1 1386 Lossy compression of digital photographic images
+
+ii Libx264-160:amd64 2:0.160.3011+gitcde9a93-2+b2  amd64 x264 video coding library
+
+ii Libx264-160:i386 2:0.160.3011+gitcde9a93-2+b2 i386 x264 video coding library
+
+ii lua-socket:amd64 3.0-rcl+git+ac3201d-4 amd64 TCP/UDP socket library for the Lua language
+
+ii mixxx 2.2.4-dfsg-1 amd64 Digital Disc Jockey Interface
+
+ii mixxx-data 2.2.4-dfsg-1 all Digital Disc Jockey Interface -- data files
+
+ii obconf 1:2.0.4+git20150213-2 amd64 preferences manager for Openbox window manager
+
+ii python3-pathspec 0.8.1-1 all utility library for gitignore style pattern matching of file
+ii shotwell 0.30.11-1 amd64 digital photo organizer
+
+ii shotwell-common 0.30.11-1 all digital photo organizer - common files
+
+ii xserver-xorg-video-intel 2:2.99.917+git20200714-1+b1 amd64 X.Org X server -- Intel i8xx, i9xx display driver
+
+ii xserver-xorg-video-qxt 0.1.5+git20200331-1 amd64 X.Org X server -- QXL display driver
+
+marc@debian: /media/marc/7F346F3938B21801$ f*Ct
+
+marc@debian: /media/marc/7F346F3938B21801$ wget http: //ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb1ou3_amd64.deb
+--2021-06-19 08:38:40-- http://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb10u3_amd64.deb
+
+Resolving ftp.de.debian.org (ftp.de.debian.org)... 141.76.2.4
+
+Connecting to ftp.de.debian.org (ftp.de.debian.org) |141.76.2.4|:80... connected
+
+HTTP request sent, awaiting response... 404 Not Found
+
+2021-06-19 08:38:41 ERROR 404: Not Found.
+
+marc@debian: /media/marc/7F346F3938B21801$ wget http://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2\+deb1ou3_amd64.deb
+=+2021-06-19 08:38:55-- http: //ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb1ou3_amd64.deb
+
+Resolving ftp.de.debian.org (ftp.de.debian.org)... 141.76.2.4
+
+Connecting to ftp.de.debian.org (ftp.de.debian.org)|141.76.2.4|:80... connected
+
+HTTP request sent, awaiting response... 404 Not Found
+
+2021-06-19 08:38:56 ERROR 404: Not Found.
+
+marc@debian: /media/marc/7F346F3938B21801$ wget http: //ftp.de.debian.org/debian/pool/main/g/git_2.20°C
+
+marc@debian: /media/marc/7F346F3938B21801$ wget “http://ftp.de.debian.org/debian/pool/main/g/git 2.20.1-2+deb10u3_amd64.deb"
+--2021-06-19 08:39:28-- http://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb10u3_amd64.deb
+
+Resolving ftp.de.debian.org (ftp.de.debian.org)... 141.76.2.4
+
+Connecting to ftp.de.debian.org (ftp.de.debian.org)|141.76.2.4|:80... connected
+
+HTTP request sent, awaiting response... 404 Not Found
+
+2021-06-19 08:39:29 ERROR 404: Not Found.
+
+marc@debian: /media/marc/7F346F3938B21801$ wget “https: //ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb1lou3_amd64.deb"
+--2021-06-19 08:40:37-- https://ftp.de.debian.org/debian/pool/main/g/git_2.20.1-2+deb10u3_amd64.deb
+
+Resolving ftp.de.debian.org (ftp.de.debian.org)... 141.76.2.4
+
+Connecting to ftp.de.debian.org (ftp.de.debian.org) |141.76.2.4|:443... connected
+
+The certificate's owner does not match hostname ‘ftp.de.debian.org
+
+marc@debian: /media/marc/7F346F3938B21801$ ff
+

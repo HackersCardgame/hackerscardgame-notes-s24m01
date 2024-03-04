@@ -1,0 +1,25 @@
+3 files changed, 47702 insertions(+), 5 deletions(-)
+
+create mode 100644 cards/FR/algorithms/al.svg
+
+create mode 100644 cards/FR/technologies/t1.svg
+claude@debian:~/Daten.2017/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot-0.2.0$ ./makeSandwich.sh asdfasdfasdfasdfasdf
+
+language not available
+
+To generate the Spanish deck type: ./makeSandwich.sh ES
+To generate the Englsih deck type: ./makeSandwich.sh EN
+To generate the German deck type: ./makeSandwich.sh DE
+
+to generate all decks that will (b)lock computer for about 5h
+type ./makeSandwich.sh all
+
+available Languages:
+EN
+ES
+DE
+FR
+IT
+
+claude@debian:~/Daten.2017/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot-0.2.0$ ff
+

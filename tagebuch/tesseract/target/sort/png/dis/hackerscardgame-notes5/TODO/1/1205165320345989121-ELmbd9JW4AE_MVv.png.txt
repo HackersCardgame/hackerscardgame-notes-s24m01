@@ -1,0 +1,52 @@
+ot
+
+marcland@s30: ~/www/0x8.ch/temp Qe - a @
+
+fatal: packfile .git/objects/pack/pack-8ad6aa5fe9d784ac92cde76f326912f08f4e6591.
+pack cannot be mapped: Cannot allocate memory
+
+fatal: unpack-
+:~/www .. h/HackersCardgame5] master 14 cd .
+:~/www/0x8.ch] § mkdir temp
+
+[marcland@s30
+[marcland@s30
+[marcland@s30
+[marcland@s30
+[marcland@s30
+Cardgames
+into
+
+objects failed
+
+~/www/0x8.ch] § cd temp/
+~/wuw/0x8.ch/temp] § 1s
+
+:~/www/0x8.ch/temp] § git clone https: //github.com/braindef /Hackers
+
+‘HackersCardgames'...
+
+: Enumerating objects: 20, done.
+: Counting objects: 100% (20/20), done
+: Compressing objects: 100% (16/16), done
+
+Total
+
+9331 (delta 2), reused 11 (delta 2), pack-reused 9311
+
+Receiving objects: 100% (9331/9331), 1.82 GiB | 4.73 MiB/s, done
+
+Resolving deltas: 100% (860/860), done.
+
+fatal: packfile /home/marcland/www/0x8.ch/temp/HackersCardgameS/.git/objects/pac
+k /pack-b69ca304ba0718f.a79d45773474822b8c8eb74cb.pack cannot be mapped: Cannot al
+
+locate memory
+
+warning: Clone succeeded, but checkout failed.
+vou can inspect what was checked out with ‘git status’
+land retry with ‘git restore --source=HEAD :/'
+
+[marcland@s30:
+
+~/www/0x8.ch/temp] 128 $ ff

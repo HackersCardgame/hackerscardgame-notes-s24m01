@@ -1,0 +1,44 @@
+Marc Jr LANdolt .
+fe. 9. November 2015 -@
+Weshalb die NSA Aufziechnungen die zu Text umgewandelt werden ein Problem darstellen:
+
+http://marclandolt.ch/.../weshalb-die-nsa-aufziechnungen.../
+
+“ test.pcap - Wireshark
+Fle Edt View Go Capture Analyze Statistics Help
+
+Beaee ox % 6/8 +o o> F 8 |B
+
+Y Expression... Clear A
+
+Destination
+
+3196 (SYN,
+
+1.227325 z 2168.0. 3196 > hetp [AcK} Segea Ackel Win
+11227451 192.168.0.2 1168.0, SUBSCRIBE /upnp/service/Layer3For
+1.229309 192.168.0.1 168.0, http > 3196 [ACK] Seq=1 Ack=256 Ww
+
+7 1.248355) 192,168.0.2) [SYN]
+418 1.248391, 192,168.01. 5000 > 1025 [SYN,
+19 1.250171 192. 168. 192. 168.0.2 HTTP/1:0 200: 0K
+20 1.250285 192. 168. 192,168.0.1 3196 > http
+
+21 1.250810 192. 168. 192,168.0.2 http > 3196)
+
+22 4.250842 192. 168. 192. 168.0.1 3196 > http
+23 1.251868 192.168. 192,168.0.2 1025 > 5000
+24 1.252826 192/168. 192,168.02 inttpi>/3196)
+25 1.253323 192.168. 192,168.0.1 3197 > http [SYN] Seq=0 Lenso Mss
+26 1.254502 192.168. 192,168.0.2 http > 3197 [SYN, ACK] Seq=O Ack=
+27 1.254532 192. 168. 192,168.01. 3197 >
+
+inttp [ACK] Seq=a Ackes Win v
+] >
+
+Frame di (62 bytes on wire, 62 bytes captured)
+
+Ethernet IZ, Srez 192.168.0.2 (00:0b:5d:20:cd:02), Dst: Netgear_2d:75:9a (00:09:5b:2d:75 19a)
+Internet Protocol, Src: 192.168.0.2 (192.168.0.2), Dst: 192.168.0.1 (192.168.0.1)
+‘Transmission Control Protocol, Src Port: 3196 (3196), Dst Port: http (80), Seq: 0, Len: 0
+

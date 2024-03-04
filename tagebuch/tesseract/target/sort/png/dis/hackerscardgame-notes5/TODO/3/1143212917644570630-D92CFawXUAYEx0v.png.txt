@@ -1,0 +1,44 @@
+40°c
+
+soc
+
+ore
+
+are
+
+06-10 19:42
+
+Bi temperatur
+
+192.168.179.200: Temperatur (14d)
+
+100%
+80%
+60%
+40%
+eS 20% PN
+last min avg max last min
+avg] 34.93°C 13,7°C 22.2%C 35.4°C Biluftfeuchtigkelt [avg] 36.02% 17.2%
+
+oss.
+oss
+
+avg
+60.92 %
+
+06.20
+
+max
+90.9%
+
+192.168.179.200: Luftfeuchtigkeit (14d)
+
+ost
+
+06.22
+
+06-23
+
+0624
+
+06-24 19:42

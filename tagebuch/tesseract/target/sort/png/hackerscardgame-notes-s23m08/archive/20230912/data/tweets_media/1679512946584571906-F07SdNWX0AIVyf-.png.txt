@@ -1,0 +1,6 @@
+Das hier ist auch wieder irreleva
+
+[0a [Wa] => [2a,3a,4a,5a,6a]
+[0b] => [Ob] => [2b, 3b, 3b, 3b,6b ]
+
+[1] urs als pfisterer: schadensbegrenzung

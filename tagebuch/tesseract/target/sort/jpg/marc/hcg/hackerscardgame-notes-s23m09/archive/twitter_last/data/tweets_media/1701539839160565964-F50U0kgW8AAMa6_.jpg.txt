@@ -1,0 +1,31 @@
+bytes from 8.8.8.8: icmp_se
+bytes from 8.8.8.8: icmp_seq=662
+bytes from 8.8.8.8: icmp_se
+bytes from 8.8.8.8: icmp_seq=664
+bytes from 8.8.8.8: icmp_se
+bytes from 8.8.8.8: icmp_seq=666
+bytes from 8.8.8.8 67 min, user, load average: 2.25, 2.66, 1.60
+bytes from 8.8.8.8 nning, 338 sleeping, @ stopped, @ zombie
+iytes tre 4.6.8.6: Seep ae 7 sy, 0.0 ni, 87.2 id, 0.0 wa, 0.@ hi, 0.1 si, 0.0 st
+bytes from 8.8.8.8: icmp_se jtal, 2616.5 free, 4291.2 used, 2028.5 buff/cache
+bytes: fron 8.0.8.8! toupee 975.0 free, 0.0 used. 27652.7 avail Mem
+bytes from 8.8.8.8: icmp_se
+bytes from 8.8.8.8: icmp_set NI D |
+bytes from 8.8.8.8: icmp_se ° R ° kworker+
+bytes from 8.8.8.8 ° ° ° OR 42.2 0.0 kworker+
+bytes from 8.8.8.8: icmp_se ° ° ° OR 33.9 0.0 kworker+
+bytes from 8.8.8.8: icmp_seqet @ 11.19 432384 205564 S 13.3 1.3 firefox+
+bytes from 8.8.8.8: icmp_se © 2888252 342872 141536 S| 7.0 1.0 Isolate+
+bytes! fxon:8.8:8.8: dcep.seq © 5012824 244184 120808 S 6.0 0.7 gnome-s+
+bytes frow:8.8.6.0: tcap xc @ 1267576 129776 72088 S 5.0 0.4 Xorg
+164 bytes from 8.8.8.8: icmp_seq © 183900 19884 16308S 0.3 0.1 parcell+
+64 bytes fron’8.8.8.8: icmpise © 1479384 633816 173204S 0.3 1.9 Telegram
+4 bytes from 8.8.8.8: icmp_seq © 2543724 168736 95864 0.3 0.5 Isolatet
+I @ 2430284 96628 791125 0.3 0.3 Isolate+
+20 0 168296 12924 9232S 0.0 0.0 systemd
+20 0 ° @ oS 0.0 0.0 kthreadd
+@ -20 ° ° 1 0.0 0.0 rcu_gp
+@ -20 ° e or 00 0.0 cu_par+
+@ -20 ° e OI 0.0 0.0 slub_fl+
+@ -20 e e ol 0.0 0.0 netns
+

@@ -1,0 +1,57 @@
+surge-suppressed outlet, 6-plug outlets,
+
+3 i isk drive, ang finally
+33 power Supply, monitor, disk dr:
+
+2e
+4. To set up interface:
+
+5. To run desired program:
+
+qurn on white noise g d ‘shock genera‘
+
+i i enerdtor and Sh g ’
+ge ‘aett fnob). Set shock generators to deliver |
+rant
+
+(eight knob) -
+
+piug in power cords to restraint boxes.
+
+i « i c. 2) into
+
+t disk labeled "Rayfield..." (C. 1 or °
+
+>. nice LOAD "ML 18",8,1 and press R
+©. After "READY." appears, type NEW and press
+
+a. Put disk labeled "SHOCK PROGS" into drive
+b. Type LOAD "[filename]",8 and pret
+c. Type RUN then answer each question and press”
+
+II. Program Names
+SHOCK Delivers fixed-duration shocks on a VT schedule.
+EYR-2 Delivers shocks to two escape-yoked pairs.
+Increase response requirement, F1/F3
+Decrease response requirement, F2/F4
+Impose minimum 0.8-s delay, F5/F6
+(Print out. data with EYR2CHK)
+TRIPLE Delivers escapable shocks to three rats.
+Increase response requirement, F1/F3/F5
+Decrease response requirement, F2/F4/F6
+Impose minimum 0.8-s delay, 1/2/3
+(Print out data with TRIPLECHK]
+III. To ff ipment.
+Work backwards from Step 3 above.
+Iv. a terminat. ematurely?
+1. Press RUN/STOP key
+2. ‘Type POKE 56846,0
+
+and press Return
+Restart program by typing RUN
+
+4. If all else fails,
+
+3.
+
+turn off computer and start

@@ -1,0 +1,37 @@
+marc@debian: ~
+
+File Edit View Search Terminal Help
+marc@debian:~$ dpkg-query -W -f='${Section}\t${Package}\n' | grep “non-free
+non-free/net teamviewer
+
+marc@debian:~$ dpkg-query -W -f='${Section}\t${Package}\n' | grep “non-free
+non-free/net teamviewer
+
+marc@debian:~$ apt-cache search widevine
+
+chromium-widevine - web browser - widevine content decryption support
+marc@debiat
+marc@debiat
+marc@debia
+marc@debia
+marc@debiai
+marc@debian:~$ cat /etc/apt/sources. list
+#
+
+~$ dpkg --list |grep vine
+
+# deb cdrom: [Debian GNU/Linux 9.5.0 Stretch_ - Official amd64 DVD Binary-1 20180714-10:25]/ stretch contrib main
+#deb cdrom: [Debian GNU/Linux 9.5.0 Stretch_ - Official amd64 DVD Binary-1 20180714-10:25]/ stretch contrib main
+
+deb http://ftp.ch.debian.org/debian/ stretch main contrib non-free
+deb-src http://ftp.ch.debian.org/debian/ stretch main contrib non-free
+
+deb http://security.debian.org/debian-security stretch/updates main contrib non-free
+deb-src http://security.debian.org/debian-security stretch/updates main contrib non-free
+
+# stretch-updates, previously known as ‘volatile’
+deb http://ftp.ch.debian.org/debian/ stretch-updates main contrib non-free
+deb-src http://ftp.ch.debian.org/debian/ stretch-updates main contrib non-free
+
+deb http: //download.virtualbox.org/virtualbox/debian stretch contrib
+marc@debian:~$ ff

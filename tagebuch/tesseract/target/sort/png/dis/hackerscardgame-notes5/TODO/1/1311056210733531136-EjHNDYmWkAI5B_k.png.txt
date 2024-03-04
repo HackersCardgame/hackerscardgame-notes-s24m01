@@ -1,0 +1,49 @@
+@ Seiteninformationen- https, /wodiasp eurags/ece
+
+& tj @
+
+Allgemein Medien Berechtigungen Sicherheit
+
+Website-Identitat
+Website: www.diasp.eu
+Besitzer: Diese Website stellt keine Informationen ber den Besitzer 2ur Verfugung.
+
+Validiert von: Let's Encrypt
+
+Galtig bis: Sonntag, 27. Dezember 2020
+Datenschutz & Chronike
+Habe ich diese Website frudher schon einmal besucht? Nein
+
+‘Speichert diese Website Daten auf meinem Computer? Nein
+
+Habe ich Passworter fur diese Website gespeichert? Nein
+
+Technische Details
+Verbindung nicht verschlisselt
+Die Website www.diasp.eu unterstiitzt keine Verschlisselung fur die Seite, die Sie ansehen.
+
+Informationen, die ohne Verschlisselung ber das Internet gesendet werden, kénnen wahrend der Ubertragung von anderen Personen
+
+angesehen werden.
+
+Zertifkat anzeigen
+
+nes Sicherheitsrisiko €
+
+Cookies und Website-Daten loschen
+= Hepes fisiko erkannt und www.diasp.eu nicht gelac
+
+‘Gespeicherte Passwérter anzeigen | te": E-Mails oder Kreditkartendaten zu stet
+
+lem durch die Website verursacht und Sie k
+Problem benachrichtigen.
+
+Hilfe
+
+itat mittels Zertifikaten. Firefox vertraut die
+
+der Website verwendete Zertifikat nicht fur www.diasp.eu gilt. Das Zertifil
+
+Fehlercode: SSL_ERROR_BAD_CERT_DOMAIN
+
+So oe

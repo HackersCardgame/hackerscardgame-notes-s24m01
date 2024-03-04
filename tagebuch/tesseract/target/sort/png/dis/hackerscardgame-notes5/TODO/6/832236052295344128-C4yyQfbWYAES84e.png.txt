@@ -1,0 +1,18 @@
+LD A, (al6)
+3 16
+
+clocks clocks
+4MHz @1MHz
+
+WOfd2 108 M3
+
+Inventor:
+Assembler Coding...
+
+https: //media.ccc.de/v/33c3-8029-
+the_ultimate_game_boy talk
+
+Use Cases
+To learn Assembler and Computer Architecture the
+and funny way... with smooth SID sound :)
+

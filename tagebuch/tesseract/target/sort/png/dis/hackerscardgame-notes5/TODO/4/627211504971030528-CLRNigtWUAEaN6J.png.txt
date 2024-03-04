@@ -1,0 +1,14 @@
+Device Search
+
+fice Search
+aaa Device Type
+? © charge Unknown
+@ TvBluetooth Audio device
+s
+@ charge Unknown
+
+£73 Searching For devices..
+
+Show:
+Devicetype: All types
+

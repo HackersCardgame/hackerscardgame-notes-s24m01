@@ -1,0 +1,115 @@
+a
+
+yCloning into 'HackersCardgame4'.
+
+remote: Enumerating objects: 8021, done.
+
+remote: Total 8021 (delta 6), reused © (delta 0), pack-reused 8021
+_Receiving objects: 100% (8021/8021), 1.01 GiB | 1.95 MiB/s, done.
+Resolving deltas: 100% (168/168), done.
+
+Terminal
+
+rotect And Infect, The Militariza
+
+yerrer: unable to create file ToDO/Transcript: Jacob Appelbaum at 30c3: To Protect And Infect, The Militarization of the Internet
+
+| naked capitalism.html: Invalid argument
+fatal: cannot create directory at
+ternet | naked capitalism files’: Invalid argument
+Jwarning: Clone succeeded, but checkout failed
+
+You can inspect what was checked out with ‘git status’
+sand retry the checkout with ‘git checkout -f HEAD
+
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+Ifatal: destination path ‘HackersCardgame4' already exists and is not an empty directory
+fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+/fatal: destination path 'HackersCardgame4' already exists and is not an empty directory
+jfatal: destination path ‘HackersCardgame4' already exists and is not an empty directory
+fatal: destinat i gmennstestlinstenags: Saat ee
+)fatal: destinati emma! als x
+fatal: destinati
+
+Dfatal: destinatiremote: Compressing objects: 100% (3/3), done
+
+.fatal: destinatiremote: Total 1297 (delta 0), reused 2 (delta 0), pack-reused 1294
+-fatal: destinatireceiving objects: 100% (1297/1297), 902.38 MiB | 2.17 MiB/s, done
+
+fatal: destinatiResolving deltas: 100% (78/78), done.
+
+‘fatal: destinatichecking out files: 100% (1380/1380), done.
+
+_ fatal: destinatimarc@debian: /media/marc/7F346F3938B21801/hcg2$ git clone git://github.com/Hacker|
+fatal: destinatiscardgame/HackersCardgame4
+
+Jfatal: destinaticloning into ‘HackersCardgamed'..
+
+fatal: destinatiremote: Enumerating objects: 8021, done
+
+marc@debian:/medremote: Total 8021 (delta 0)
+Receiving object 100% (8021/8021), 1.01 GiB | 1.93 MiB/s, done.
+it 19 Jun Resolving deltas: 100% (168/168), done.
+[8 116 958error: unable to create file TODO/Transcript: Jacob Appelbaum at 30c3: To Protec
+t And Infect, The Militarization of the Internet | naked capitalism.html: Invalil
+185371ba9ca argument
+'TODO/Transcript: Jacob Appelbaum at 30c3: To
+
+fatal: cannot create directory at
+Phe rWAR202 protect anc Infect, The Militarization of the Internet | naked capitalism files'
+= : Invalid argument
+lain OS FCT oy: Clone succeeded, but checkout failed.
+] You can inspect what was checked out with ‘git status
+3 files chi retry the checkout with ‘git checkout -f HEAD’
+
+lelete mod
+lelete mod
+
+reused © (delta 6), pack-reused 8021
+
+marc@debian: /media/marc/7F346F3938B21801/hcg2$ git clone git://github.com/Hacker|
+sCardgame/HackersCardgame4ff
+
+‘TODO/Transcript: Jacob Appelbaum at 30c3: To Protect And Infect, The Militarization of the In.
+
+desiree lértscher die ganzen tie
+
+Terminal Q * 102780
+clean
+ytes6b$ cp ../hackerscardgame-notes6/* . -rvu
+
+entweder-qFire-mit-github-certs-oder-auf-github
+-qFire-mit-github-certs-oder-auf-github-selber
+
+ytesob$ git add -A S& git commit -m "......." &&
+
+, @ deletions(-)
++r-qFire-mit-github-certs-oder-auf-github-selber
+
+\': hackerscardgame
+‘dgame@github.com' :
+
+mich
+: wird
+ne.
+
+aindef/HackersCardgame4; dond ]# threads
+
+Compressing objects: 100% (4/4), done
+
+Writing objects: 100% (4/4), 241.10 KiB | 6.34 MiB/s, done.
+
+Total 4 (delta 2), reused @ (delta 0)
+
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects
+
+To https: //github. com/HackersCardgame/hackerscardgame-notes6b
+b9acb35..7a0910a main -> main
+
+marc@debian:~/hackerscardgame-notes6b$ []
+
+L79c88

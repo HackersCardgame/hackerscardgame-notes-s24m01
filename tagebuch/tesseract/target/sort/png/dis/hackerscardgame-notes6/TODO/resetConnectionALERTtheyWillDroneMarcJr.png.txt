@@ -1,0 +1,73 @@
+File View Edit Help
+
+Input | Pan Personal Mixat: 192.168.192.234
+
+Center
+
+a
+
+Delay®
+
+Terminal
+
+ucvidll
+
+Activities Terminal ¥
+
+a Terminal
+
+a Terminal
+
+Fri 18 Jun 2021 12:28:16 PM CEST
+279 1833 16356 cyberWAR20210618.txt
+
+9d9a9ba2Fe48Fe4d54231b9f560e6883e35e82120b21299F57 fe52dc4442c3007a298b46126bf27cd73aee63d39a1197b032d213075c5458951
+
+cyberWAR20210618. txt
+[main c647b26] save
+1 file changed, 9 insertions(+)
+
+* Ja0d58F139296651284c582916500994ce7805865bd8d4fOef128d05b7cdaef364b
+
+Jun18 12:31 © Or A” OF
+
+\9bedObf6eedb40a64119eTF17a5Fe03T6609cOf4ad3044ba9eb4ccd3c6970d20713
+
+<
+
+t: preference for all repositories. You can also p
+
+Debian 10
+
+FriJun18 12:31¢
+Terminal
+
+t: Pulling without specifying how to reconcile divergent branches is
+t: discouraged. You can squelch this
+t: commands sometime before your next
+
+je by running one of the following
+
+git config merge (the default strategy
+git config tru
+git config pu
+
+e
+st-forward only
+
+‘ou can replace “git config" with "git config L" to set a default
+Ss --rebase, --no-rebase
+r --ff-only on the command line to override the configured default per
+
+t: invocation
+
+Last commit
+
+Search or jump to.
+
+Last update
+
+AW Or
+
+oe]
+

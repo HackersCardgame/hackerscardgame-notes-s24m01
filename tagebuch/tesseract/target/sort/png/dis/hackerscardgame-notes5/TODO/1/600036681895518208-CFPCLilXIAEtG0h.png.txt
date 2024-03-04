@@ -1,0 +1,11 @@
+bits/sec
+
+E5B0C Component: NC-6800h Graph: Throughput
+Pm cy CY
+20k
+Lok
+0 anbound curs 2,31k avg: 172k mex: 2,60k
+curs2s2.0L 2vg:30017 oxi 241,70
+
+Di outbound
+

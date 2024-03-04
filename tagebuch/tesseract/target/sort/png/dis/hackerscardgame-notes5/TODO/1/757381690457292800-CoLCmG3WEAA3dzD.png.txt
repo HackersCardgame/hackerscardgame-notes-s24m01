@@ -1,0 +1,16 @@
+1 Byte
+U+1F984
+
+New York Boston i Minchen
+
+8 | 2 Bytes
+
+static:
+
+animated:
+
+ES
+
+10 Bytes
++ wenig Code
+

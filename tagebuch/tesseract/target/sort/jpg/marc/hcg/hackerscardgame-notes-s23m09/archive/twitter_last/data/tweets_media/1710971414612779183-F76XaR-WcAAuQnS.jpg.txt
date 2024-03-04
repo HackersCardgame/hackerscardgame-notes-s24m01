@@ -1,0 +1,37 @@
+@ Facebook
+
+€
+
+ett
+
+c
+
+Wistonsete/X x @ MarcJrLANdolt| x @ Facebook X © 199350334 10226 * 6 Keiffoffot Goo. | @ 138 Wordeatscr> x | 6 torture guantans
+
+© _B ntpssannas-blog.orglworldcat-scrape htm
+
+‘We wore very surprised by how ite overlap there was between ISBNab and Open Library,
+both of which iberally include data from various sources, such as web scrapes and library
+records, It they both do good job at finding most ISBNS in out there their circles surely
+‘would have substantial veriap, or one would be a subset ofthe other. It made us wonder,
+‘how many books fall completly ousise ofthese circles? We need a bigger database.
+
+Worldcat
+
+‘Thats when we set our sights on the largest book database inthe world: Worldcat. This is a
+‘Proprietary database by the non-profit OCLC, which aggregates metadata records from
+libraries all over the world, in exchange forgiving those libraries access tothe fll dataset,
+and having them show up in end-users’ search results.
+
+Even though OCLC Is a non-profit, ther business model requies protecting thelr database,
+‘Wel, wore sorry to say, riends at OCLO, we'e giving it all away.)
+
+‘Over the past year, we've meticulously scraped all Worldcat records, At ist, we hit a lucky
+break. Worldcat was just rong out their omplate website redesign (in Aug 2022). This
+Included a substantial overhaul oftheir backend systems, introducing many security laws.
+‘We immediately seized the opportunity, and were able scrape hundreds of mllons() of
+tecords in mare days.
+
+Gworldcat! .
+
+Bi soonseite/x

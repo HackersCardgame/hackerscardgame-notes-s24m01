@@ -1,0 +1,20 @@
+Tunnel /
+ESAKI Diode
+
+https://0x8.ch/HackersCardgame/7
+
+Inventor:
+
+Eine Tunnel Diode oder Esaki Diode ist ein Halbleiter
+der sehr schnell arbeiten kann. Er arbeitet im
+bereich der Mikrowellen mit Hilfe des
+Quantenmechanischen  Effekts der Tunneling
+genannt wird. Fur das nervt bitte einen++ Physiker,
+nicht mich.
+
+Wie eine Elektronen Rohre, kann man_ hohe
+Frequenzen und schnelle Oszialtoren daraus bauen.
+Somit k6nnte man_ grundsatzlich auch’ einen
+Mikrowellen Sender in einem CPU oder in andere
+Elektronischen Komponenten verstecken.
+

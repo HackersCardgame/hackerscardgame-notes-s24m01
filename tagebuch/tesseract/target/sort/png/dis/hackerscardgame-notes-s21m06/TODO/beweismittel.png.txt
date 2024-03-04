@@ -1,0 +1,6 @@
+Properties x
+
+5800 x 5600 pixels
+Type JPEG image
+6.2MB
+

@@ -1,0 +1,17 @@
+PinkyDef @PinkyDef - 4s
+Halli @KI_in_Bremen
+#BugReport
+
+"Der sogenannte Bias bestimmt dabei, wie stark der kumulierte Reiz sein
+muss, um das Neuron tiberhaupt anzuregen”
+
++ Schéne Grafik
+- #Neuronen mit #NeuronenLayer vermischt
+- fehlender Hinweis dass Neuron auch Speicher (Bias)
+
+MiG
+#HackersCardgame.ch
+
+Neuron| LAYER -
+lL
+

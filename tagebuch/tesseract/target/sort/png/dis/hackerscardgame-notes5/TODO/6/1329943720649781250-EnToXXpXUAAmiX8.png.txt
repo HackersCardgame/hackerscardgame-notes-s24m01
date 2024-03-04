@@ -1,0 +1,7 @@
+[Ivo] already included support for custom skeleton definitions, as well as BVH import/export to use the
+generated data in commonly used tools like Blender of Maya. The software portion of the project is
+released as open source under MIT License, with both the firmware and the server application code being
+
+available on GitHub. According to [Ivo], these nodes can be built for as few as $5, which puts them in a
+sweet price range for AR/VR applications — or for making your own cartoons.
+

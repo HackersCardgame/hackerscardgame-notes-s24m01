@@ -1,0 +1,2 @@
+nagctkali:-/Logss cat macAddresses.txt | sort | uniq | we -l
+89

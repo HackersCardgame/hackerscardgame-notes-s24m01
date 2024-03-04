@@ -1,0 +1,38 @@
+a Terminal Q = x
+nal
+marc@debian: /disk/marc/hackerscardgame-notes6$ git add -A & git commit -m “
+-.." && git push 19
+[main a6826b2] . 7 buff/cache
+2 files changed, © insertions(+), @ deletions(-) 4 avail Mem
+create mode 100644 TODO/BRN3C2AF421298E_012995.pdf
+
+create mode 100644 TODO/hmmm--irgendwie-schraeg.png
+fatal: unable to access ‘https: //gitlab.com/HackersCardgame/hackerscardgame-note 55. Mixxx
+s6/': The requested URL returned error: 403 gnome-shell
+Imarc@debian: /disk/marc/hackerscardgame-notes6$ ff qemu-system-x86
+
+Xorg
+
+gnome-screensho
+gnome-documents
+gnome-software
+gnome-clocks
+pulseaudio
+gnome-contacts-
+org.gnome.Chara
+font-manager
+gnome-terminal-
+gnome-boxes
+tracker-store
+
+jackd
+
+gnome-calculato
+
+dbus -daemon
+
+0.09 0.095 0.7 0.0 dbus-daemon
+0.09 0.0gR 0.7 0.0 top
+
+®.1g 0.095 0.7 0.5 nautilus
+0.09 0.095 06.3 0.0 ksoftirqd/5

@@ -1,0 +1,56 @@
+ABB-TS
+
+Software Engineering 2
+
+3. Semester
+
+a
+Java Class Library
+
+Java Project with Existing Sources
+Java Project with Existing Ant Script
+
+main class in the project. Standard projects use an IDE-generated Ant build
+icript to build, run, and debug your project.
+
+Dialog
+
+* Modal:
+Benutzer muss Dialog bearbeiten und
+dann schliessen um weiterzuarbeiten
+* Nichtmodal:
+Benutzer kann mehrere Dialoge
+gleichzeitig bearbeiten
+
+Canvas
+
+Container
+
+Frame: Hauptfenster
+
+Panel: Hilfscontainer
+
+Ein Container kann GUI-Komponenten
+aufnehmen
+
+Einem Container kann man ein
+LayoutManager zuweisen
+
+Ein Container kann weitere Container
+beinhalten
+
+Layout-Manager
+
+¢ Ein LayoutManager bestimmt die Anordnung
+von GUI-Komponenten
+> Bildschirmauflésung und Fenstergrésse
+sind somit frei wahlbar
+¢ Arten (siehe Buch):
+— FlowLayout: nebeneinander mit ,Zeilenumbruch*
+— GridLayout: Gitter (Zeilen und Spalten)
+— BorderLayout: vier Randbereiche und Mittelbereich
+— NULL-Layout: absolutes Positionieren
+
+© Marco Bontognali
+
+8. GUI mit AWT Seite 2

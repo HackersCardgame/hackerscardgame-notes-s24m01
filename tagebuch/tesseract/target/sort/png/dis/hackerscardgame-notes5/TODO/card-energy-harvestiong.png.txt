@@ -1,0 +1,27 @@
+Activities ©) FirefoxESR ~ Wed Jun2 16:07 ao Or
+
+*  HACKADAY
+
+HOME BLOG HACKADAY.IO TINDIE HACKADAY PRIZE SUBMIT ABOUT June 2, 2021
+
+WISP NEEDS NO BATTERY OR
+CABLE
+
+by: Al Williams & 10 Comments
+fYYCu May 1, 2016
+
+One of the problems with the Internet of Things, or any embedded device, is how to get power. Batteries
+are better than ever and circuits are low power. But you still have to eventually replace or recharge a
+battery. Not everything can plug into a wall, and fuel cells need consumables.
+
+University of Washington researchers are turning to a harvesting approach. Their open source WISP board
+has a sensor and a CPU that draws power from an RFID reader. To save power during communication, the
+device backscatters incoming radio waves, which means it doesn’t consume a lot of its own power during
+transmissions.
+
+SEARCH
+
+By using our website and services, you expressly agree to the placement of our performance, functionality and advertising cookies. fox |
+OK
+
+Learn more
