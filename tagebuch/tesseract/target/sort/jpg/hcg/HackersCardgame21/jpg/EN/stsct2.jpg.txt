@@ -1,0 +1,17 @@
+Version 2.2 Revision: July 1998
+
+Inventor: XXXXX Year: ~????
+AX.25 would be the simplest way for digital
+communication over random frequencies. Expect
+that they have tons of such technolgoies. Never play
+Red Team, except you really really Know what you
+are doing. Just listening to transmissions
+possibly causes less harm then eg. "portscanning".
+Worst case satan even (ab)uses the lives of innocent
+kids as fence to protect its systems against hacking
+attacks. If you would kill a kid by a portscan
+then they own you because then you are a
+murderer too!!!
+
+https://media.ccc.de/search/?q=satellite+sdr
+

@@ -1,0 +1,22 @@
+€) NORMAL-VERTEILUNG
+
+Hochbegabung
+|
+
+0.1% 2.2% 13,6% | 34,1% 341% | 43.6% 22% 0,1%
+
+Erfinder Carl Friedrich Gau& Jahr ~1801
+
+Hier am Beispiel der Verteilung der Intelligenz in
+der Gesellschaft, aber man k6nnte auch die
+Grosse von Menschen nehmen, oder z.B. die
+Anzahl von Haushalten mit KUchen-Mixer... aber
+da musste man dann rausfinden, ob es wirklich
+normalverteilt ist
+
+Anwendungsfalle
+
+Statistik, Plausibilitaten von z.B. Aussagen
+abschatzen, oder z.B. den wahrscheinlichsten
+Aufenthaltsort von Personen berechnen
+

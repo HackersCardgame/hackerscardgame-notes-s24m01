@@ -1,0 +1,100 @@
+>>> release —f1t-flt
+
+>>> content -f1t
+
+>>> time 2619-@6-13 21:45:38
+>>> dupeType noDupe
+
+GAMES . EN. WINDOWS . EXTERNAL
+
+(None. None, None]
+
+[’user@5’, ’user@1’. ’user@2’. ’user@3’. ’user@4’ ]
+
+AU AZP BBR BBR-TBS BRW DNS DOM DUN GP HH JC KOH MF MWN RATS RFA ZH
+AU AZP BRW DNS DOM DUN GP HH KOH MF MWN RATS RFA ZH
+
+MF
+
+BBR BBR-TBS JC
+
+(None. None, None]
+
+BRW/GAMES-@ DNS/GAMES-@ DOM/GAMES-@ HH/GAMES-@ GP/GAMES-@ KOH/GAMES-@ MF/a
+N/GAMES-@ AZP/GAMES-@ RATS/GAMES-@ MWN/GAMES-@
+
+@.787714958198918s
+
+@.139576951461792s
+
+>>> section
+
+>>> General Blacklists
+>>> parsed users
+
+>>> all Sites
+
+>>> sites
+
+>>> pre
+
+>>> skipped
+
+>>> User Blacklists
+>>> user@3
+
+@ AU/GAMES-@ RFA/GAMES-6@ D!
+— >>> benchmark
+
+>>> benchmark-E
+
+— >>> benchmark-T None
+— >>> benchmark-M None
+— >>> benchmark-D None
+— >>> benchmark-S$ None
+
+>>> benchmark-D @.055252798451049885s
+
+eee ce ee ce ee ee ee Sone ee ee ee ee ee ae ee ee ee ee eee
+
+— >>> benchmark-P 6.5928823947986494s
+ERROR checkTumaze.py:162 — NO TUMAZE AIRDATE,. maybe
+ERROR checkTuymaze .py:162 NO TUMAZE AIRDATE, maybe
+ERROR checkTuymaze.py:162 NO TUMAZE AIRDATE. maybe
+ERROR checkTumaze.py:162 NO TUMAZE AIRDATE. maybe
+ERROR checkTumaze.py:162 TUMAZE AIRDATE, maybe
+ERROR checkTumaze.py:162 NO TUMAZE AIRDATE. maybe
+ERROR checkTumaze .py:162 NO TUMAZE AIRDATE. maybe
+ERROR checkTumaze.py:162 NO TUMAZE AIRDATE, maybe
+ERROR lookupTumaze.py:127 — Could not get Season: E@?
+
+ERROR lookupTumaze.py:127 — Could not get Season: E1@
+ERROR lookupTumaze.py:127 — Could not get Season: E11
+ERROR lookupTumaze.py:127 — Could not get Season: E12
+ERROR lookupTumaze.py:127 — Could not get Season: E@3
+ERROR checkTumaze.py:162 — NO TUMAZE AIRDATE, maybe a episode that is in the future
+ERROR checkTumaze.py:162 — NO TUMAZE AIRDATE. maybe episode that is in the future
+ERROR checkTumaze.py:162 — NO TUMAZE AIRDATE. maybe episode that is in the future
+
+episode that is in the future
+episode that is in the future
+episode that is in the future
+episode that is in the future
+episode that is in the future
+episode that is in the future
+episode that is in the future
+episode that is in the future
+
+Prrtrride
+z
+o
+oooooooe
+
+a
+a
+ERROR checkTumaze .py:162 NO TUMAZE AIRDATE, maybe a episode that is in the future
+ERROR checkTumaze .py:162 NO TUMAZE AIRDATE., maybe a episode that is in the future
+ERROR checkTumaze .py:162 NO TUMAZE AIRDATE., maybe a episode that is in the future
+a
+
+ERROR checkTumaze .py:162 NO TUMAZE AIRDATE. maybe episode that is in the future

@@ -1,0 +1,20 @@
+In his book, Principles of Behavior,'“] he developed the following formula:
+sER=sHRxDxVxK
+
+Where:
+
+Ep is excitatory potential (likelihood that the organism would produce response r to stimulus s),
+
+sHr is the habit strength (derived from previous conditioning trials),
+
+Dis drive strength (determined by, e.g., the hours of of food, water, etc.),
+
+V is stimulus intensity dynamism (some stimuli will have greater influences than others, such as the lighting of a situation),
+and K is incentive (how appealing the result of the action is).!8I("5]
+
+A variety of other factors were gradually added to the formula to account for results not included by this simple function. Eventually the formula became:
+sER =VxXDXKxJxXsHR-IR-slR-sOR-sIR
+
+such that Ip is reactive inhibition (inhibition caused by continual performance of a behavior that dissipates over time),
+sl is conditioned inhibition (inhibition caused by continual performance of a behavior that does not dissipate over time).!'5] gLp is Reaction threshold, the
+smallest amount of reinforcement that will produce learning.
