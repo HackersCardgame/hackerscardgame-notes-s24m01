@@ -1,0 +1,160 @@
+»: Patient Lukas Weber
+
+Betreff: Re: Patient Lukas Weber
+
+Von: "Marc jr. Landolt" <mail@marclandolt.ch>
+
+Datum: 08.08.2021, 09:10
+
+An: Lukas Weber <I.weber@wslarch.ch>, "marc.landolt@0x8.ch" <marc.landolt@0x8.ch>,
+
+"2009 @marclandolt.ch" <2009@marclandolt.ch>, Hanno Katrin <Katrin.Hanno@pdag.ch>,
+d.zschokke@gmail.com
+
+Kopie (CC): "svaaargau@sva-ag.ch" <svaaargau @sva-ag.ch>, "info@kapo.ag.ch" <info@kapo.ag.ch>,
+"info@fedpol.admin.ch" <info@fedpol.admin.ch>, "Elisabeth. Bauhofer@ag.ch" <Elisabeth.Bauhofer@ag.ch>,
+Schleusener Samer <Samer.Schleusener@pdag.ch>, "marco.spring@ag.ch" <marco.spring@ag.ch>,
+"michael.ritter@kapo.ag.ch" <michael.ritter@ kapo.ag.ch>, AarauEPD <EPD.Aarau@pdag.ch>, Kiing Walter
+GKABGAAR <Walter.Kueng@ag.ch>, “Postmaster-VBS@gs-vbs.admin.ch" <Postmaster-VBS@gs-vbs.admin.ch>,
+"direktion@bger.ch" <direktion@bger.ch>, "Kanzlei@bger.ch" <Kanzlei@bger.ch>, "info@interpol.int"
+<info@interpol.int>, "kb3.bern@helsana.ch" <kb3.bern@helsana.ch>, "contact.center@ch.abb.com"
+<contact.center@ch.abb.com>, "info@oniko.ch" <info@oniko.ch>, “interface @internil.net"
+<interface@internil.net>, "support@hostpoint.ch" <support@hostpoint.ch>, “daniel.heilmann@kapo.ag.ch"
+<daniel.heilmann@kapo.ag.ch>, "marianne.gisi@pdag.ch" <marianne.gisi@pdag.ch>, "impressum@coop.ch"
+<impressum@coop.ch>, "Andreas.Kiener@sva-ag.ch" <Andreas.Kiener@sva-ag.ch>, "info@sva-ag.ch" <info@sva-
+ag.ch>, lama50 <lama50@gmx.ch>
+
+Return-Path: <mail@marclandolt.ch>
+
+Delivered-To: mail@marclandolt.ch
+
+Received: from mail-Ib1.adm.hostpoint.ch ([10.0.2.45]) by popimap018.mail.hostpoint.internal with LMTP id
+KH7tEWWDD2EYrQAApkpzRw (envelope-from <mail@marclandolt.ch>) for <mail@marclandolt.ch>; Sun, 08 Aug
+2021 09:10:29 +0200
+
+Received: from asmtp012.mail.hostpoint.ch ([10.0.2.45]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384
+(256/256 bits)) by mail-Ib1.adm.hostpoint.ch with LMTPS id wFTUEWWDD2G7GgEASBAVQA (envelope-from
+<mail@marclandolt.ch>) for <mail@marclandolt.ch>; Sun, 08 Aug 2021 09:10:29 +0200
+
+Received: from 178-82-208-135.dynamic.hispeed.ch ([178.82.208.135] helo=[192.168.1.14]) by
+asmtp012.mail.hostpoint.ch with esmtpsa (TLS1.3) tls TLS_AES_256_GCM_SHA384 (Exim 4.94.2 (FreeBSD))
+(envelope-from <mail@marclandolt.ch>) id LmCcx2-O00OMpB-Px; Sun, 08 Aug 2021 09:10:29 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+
+Referenzen: <0e37dcc8-a34c-ed28-af3d-4ed8f34b3c85@gmx.ch> <42fd7f31-2333-6669-2500-
+b9ef0e787dee@marclandolt.ch> <1e721c07-728d-1bad-Oed8-fdeb26f22182@ marclandolt.ch> <2a49a4a1-
+f91c-065d-01ec-fb4adcc26df2 @marclandolt.ch> <8d708b/7f-b7c1-d264-ceca-2758f1ce5d93 @ marclandolt.ch>
+<c94faada-1655-b7a6-e8dc-1187bfdbc85e@marclandolt.ch> <b0472dd9-0a51-bb40-a0dc-
+
+fb4bca185d74@ marclandolt.ch> <c69b6cd8-deae-b8e2-b4a6-7368a4a1a4f3 @marclandolt.ch> <1c8d1629-10a1-
+c98d-4511-e8ad734ed6d1@marclandolt.ch> <35263c95-f4f2-f1c1-7f2b-3a602bc76611@marclandolt.ch>
+<ed1a9686-0f74-d480-57cf-570f602c04ba@ marclandolt.ch> <d7c94d16-57f4-f022-114e-
+99d49edb8fe3@marclandolt.ch> <09f779fa-c710-8aa9-ee90-a2e9e970fa4a@ marclandolt.ch>
+<08a81b15-9795-6198-b374-d2912500fa91@ marclandolt.ch> <Obe10322-eeb9-50e2-7773-
+e83ebc2d325c@marclandolt.ch>
+
+<AM6PRO8MB50462CAD1B38924FF5DA3AE68AF49 @AM6PRO8MB5046.eurprd08.prod.outlook.com>
+Nachricht-ID: <ba80a88e-6f65-f3f5-b819-fe5d22aade69@marclandolt.ch>
+
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; 1v:78.0) Gecko/20100101 Thunderbird/78.12.0
+MIME-Version: 1.0
+
+In-Reply-To: <AM6PRO8MB50462CAD1B38924FF5DA3AEG8AF49 @AMEPRO8MBS046.eurprd08.prod.outlook.com>
+Content-Type: multipart/mixed; boundary="------------D1028BA7766BFCEFOC2D8BDS"
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch
+
+X-Original-To: 2009@ marclandolt.ch
+
+X-Hostpoint-Spambox: NO
+
+Halli Hallo Lukas
+@ Jiingere: Zusammenfassung ganz unten beim "Pfeil"
+@ zB FEDPOL: zB. das "> Leider Gottes" <- NLP
+
+hast Du bewusst “allen Antworten" angeklicht geklickt oder wurdest Du dazu mit “Nettigkeiten" tiber
+irgenwelche Hidden Kommunikations-Kandle dazu gebracht? Das Beste was man meiner Meinung nach zu
+
+08.08.2021,
+
+09:21 al
+
+Re: Patient Lukas Weber
+
+diesem Thema zur Zeit haben kann ist dieser Talk vom CCC / rC3 [1] wenn auch meiner Meinung nach deren
+Fazit falsch ist [2]
+
+#define “konvex zum Thema" ???
+
+“Allerdings bietet ja ein gangiger Mailserver auch noch Bcc" = angeben was nur dann Sinn macht wenn
+z.B. die ADHS Diagnose und sonstige Nettigkeiten in Deiner Kindheit Dir einen tiefen Selbstwert
+verpasst haben, ausserdem will man gar nicht das Master-Mind sein, sonst ist man sowieso an allem
+Schuld.
+
+“Beherrschung des Fahrzeuges” generelle “Kollektive Psychose beim Strassenverkehrsamt” weil man kann
+gar nicht autofahren ohne zwischendurch mal etwas falsch zu machen ausser man ist ein Drohne auf zwei
+Beinen. Dann kann man schon die Drohne auf zwei Beinen verurteilen und einlochen tiber einen
+DURCHLAUFERHITZER auf ZWEI BEINEN, ABER das eigentliche Master-Mongo ahm Master-Mind wiirde so frei
+kommen was meiner Meinung nach nicht im Interesse der Allgemeinheit ist.
+
+Fiir meinen Teil bin ich froh muss ich nicht mehr Auto fahren.
+
+#define Philipp_Malonies S??E??
+=> ausserdem hat der Maloney sowiso einen LAG
+==> So 08.08.2021 | 11:10 Uhr
+
+Stamp: Sun Aug 8 89:07:09 CEST 2021
+
+#define Auseinandersetzung
+- Krieg
+
+- Streit
+
+Datenaustausch
+
+- PPP
+
+#define Maleficium ->
+
+Ich denke bei uns 198@ern geht das so, dass das eine Kind dazu gebracht wird den Zauber auszusprechen,
+welcher das andere 198@er Kind zu 99% schddigt. Dafiir [3] erhalt der Zauberer 9% des Gewinnes aus dem
+resultierenden Schaden und UNGEHGRT 90% des Gewinns geht an die El(s)tern™-Generation der 198@er
+Kinder, die 9% sind nur dazu da dem Siindenbock galubwiirdig einzureden es sei alles seine Schuld. [7]
+
+Part 2: zerfetzt dann die E1l(s)tern™-Generation dann das zweite 1980er Kind nochmals mit 99% was dann
+mit “Liebe dir deinen nadchsten wie dich selbst" (der 194@er Satan ist relativ geschickt um verdrehen
+von Bibelspriichen) zum HDF umfunktioniert wird.
+
+Kann man Math
+
+SpieleStaregie:
+El(s)tern™
+
+: + 180% (Ungesehen <- wenn wir 198@er bléd waren)
+Kind 1 2 - 99%
+Kind 2 : - 90% <= El(s)tern™ : der hat 9% MEHR !
+
+[1] Muss man sich vor unterschwelliger Beeinflussung fiirchten?
+https://media.ccc.de/v/rc3-641471-muss_man sich vor _unterschwelliger beeinflussung fuerchte
+
+[2] dazu wiirde ich gerne die CT aufnahmen meines Schddels als Beweismittel einreichen
+
+[3] Relevanter als “Der hat mehr":
+>> projektions layer << WoW auf real world 3D Model?
+a) ausléser
+
+b) semaphore
+
+c) keine korrelation
+
+d) ...
+
+Kieferbruch etc. materialisiert bei mir meist wenn zu viele El(s)tern™ aufgeflogen sind. Da gab es
+etwas ganz “lustiges" ich habe die Schwester meiner Ersten und Einzigen mal im Migros Buchs gesehen,
+ihr Haben die Vorderzaéhne gefehlt und ich hab dann in meinem elektronischen Tagebuch beanstandet, dass
+das eigentlich nicht in Ordnung ist. In meinem Umfeld war sie die Einzige der die Zahne ausgeschlagen
+wurde, somit miisste man da ich sie eingentlich nur alle paar Jahre mal sehen davon ausgehen, dass der
+/ die Taterschaft z.B. aus dem Umfeld ihrer Eltern kommen k6nnte. Danach hat mein Vater auch die
+
+- — : . 08.08.2021, 09:21

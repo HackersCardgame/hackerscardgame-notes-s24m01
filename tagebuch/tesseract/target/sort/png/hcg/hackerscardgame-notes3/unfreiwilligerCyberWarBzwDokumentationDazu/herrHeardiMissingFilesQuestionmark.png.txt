@@ -1,0 +1,98 @@
+marc@debian:~$ du mixxx.backup/
+32 mixxx. backup/controllers
+
+8 mixxx. backup/broadcast_profiles
+69452 mixxx. backup/analysis
+
+90304 mixxx.backup/
+
+marc@debian:~$ du mixxx.backup/ -h
+
+32K mixxx, backup/controllers
+
+8.0K mixxx, backup/broadcast_profiles
+
+68M mixxx, backup/analysis
+
+BoM mixxx. backup/
+
+narc@debian:~$ 1s
+
+add-default-audio-sink2.sh Daten.2020  default.xml Documents hackerscardgame-notes3 installation-scripts mixxx.backup Music Pictures remove-default-audio-sink.sh Video:
+add-default-audio-sink.sh default2.xml Desktop. Downloads heg marc MumbleAutomaticCertificateBackup.pl2 OpenBoard Public Template:
+
+marc@debian:~$ 1s Videos/
+
+"2021-03-16 04-01-09.mkv' '2621-03-16 13-58-47.mkv' '2021-03-17 10-36-50.mkv' ‘2021-03-17 14-08-56.mkv' ‘2021-03-22 19-18-15.mkv' "2021-03-22 20-10-13.mkv' ‘2621-03-22 20-13-24.mkv' —_hw-asm.mkv
+2021-03-16 13-55-49.mkv' '2021-03-16 14-14-28.mkv' ‘2021-03-17 13-54-59.mkv' ‘2021-03-19 07-46-O1.mkv' ' 2021-03-22 19-20-11.mkv' ‘2021-03-22 20-11-06.mkv' '2021-03-24 11-29-16.mkv
+marc@debian:~$ du -h Videos/
+
+2.16 Videos/
+
+marc@debian:~$ 1s
+
+add-default-audio-sink2.sh Daten.2020  default.xml Documents hackerscardgame-notes3 installation-scripts mixxx.backup Music Pictures remove-default-audio-sink.sh Video:
+
+add-default-audio-sink.sh default2.xml Desktop. Downloads heg marc MumbleAutomaticCertificateBackup.pl2 OpenBoard Public Template:
+
+marc@debian:~$ 1s
+
+add-default-audio-sink2.sh Daten.2020  default.xml Documents hackerscardgame-notes3 installation-scripts mixxx.backup Music Pictures remove-default-audio-sink.sh Video:
+
+add-default-audio-sink.sh default2.xml Desktop Downloads heg marc MumbleAutomaticCertificateBackup.pl2 OpenBoard Public Template:
+
+marc@debian:~$ cd hackerscardgame-notes3/*C
+
+marc@debian:~$ 1s
+
+add-default-audio-sink2.sh Daten.2020  default.xml Documents hackerscardgame-notes3 installation-scripts mixxx.backup Music Pictures remove-default-audio-sink.sh Video:
+
+add-default-audio-sink.sh default2.xml Desktop. Downloads heg marc MumbleAutomaticCertificateBackup.pl2 OpenBoard Public Template:
+
+marc@debian:~$ cd Daten..2020/
+
+narc@debian:~/Daten.2620$ 1s
+
+tt backup-tor.sh CornercardPIN. txt goStraightToHellFacebookForThat--evidence moserRevictimiting  pci30-2.txt screenshots shrikeys.pci32.tar__ topicmodel.. jp
+archive bluttest.txt count .png ivonneRetzlaff. txt musik pci30.txt screeps shrikey.txt tumblr_oo3cjyl6uolqj88rjol_ 1280. jp
+asd¥.png buero DeadFrane. log kreditkarte2.txt "New Tab_files' python server.sh software video:
+
+aufnahmen chat logs deletedscenes Kreditkarte, txt "New Tab-html' Recordings server.txt sort Video:
+
+backup.desktop.sh C02. txt erfindungen kunden notes results, tet setMyGitIdentity.sh tagebuch windows10EFI -reparieren. tx
+BACKUP-PURPOSE.txt code for1978 Leaks openingEvent.png reverseEngineering showcases. tarek xmas
+
+backup.sh code. js.html.jpg fotos logfiles parkplatz_92.jpg  samsungPushDeaktivieren.txt  ShrikeyFormuliertunklar.png templates zbx_export_templates_newest..xm
+backup-small.sh collection GEN_95271_DE_Asper_1021936 22.02.2018.pdt _mordversuchDurchAfghanen mov pavlows.cat.jpg schach.png shrikeys.pci32 TODO
+
+narc@debian:~/Daten.220$ du -h --max-depth 1
+/
+/shrikeys .pci32
+7leaks
+7buero
+/collection
+/code
+/tarek
+7erFindungen
+/python
+/showcases
+/Recordings
+7New Tab_files
+ymusik
+/software
+7aufnahmen
+7notes
+/tenplates
+/Videos
+Jarchive
+/fotos
+77000
+/screenshots
+/logtiles
+
+/tagebuch
+/deletedScenes
+/videos
+
+/goStraightToHel lFacebookForThat
+

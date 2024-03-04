@@ -1,0 +1,46 @@
+Wort-Ahnlichkeit
+(ZB. JaroWinkler)
+
+The results are then:
+
+String 1: Levenshtein
+
+NeedlemanWunch
+
+Smith-Waterman
+[deutsch Smith-Waterman Gotoh
+
+String 2: Smith-Waterman Gotoh
+
+Windowed Affine
+
+Jaro
+
+Analyse Jaro Winkler
+QGrams Distance 56
+‘ nipol
+
+¢ Loss of insignificant words: "loans and accounts" CG p
+and "loans accounts". Tr
+
+https://0x8.ch/HackersCardgame_2.0
+
+Beste Online-Webseite die ich gefunden
+habe um mit Wortahnlichkeit zu spielen:
+
+https: //asecuritysite.com/forensics/
+simstring
+
+Beispiel_1:
+
+Will man Ortographie Fehler finden in
+Wortern kann man das mit einem korrekten
+Worterbuch und z.B. JaroWinkler tun.
+
+Beispiel_2:
+
+Schweizerdeutsch ist oft ahnlich
+geschrieben wie richtiges Deutsch, so kann
+man nicht alle Worter "“ubersetzen" aber
+viele der de-sg Worter.
+

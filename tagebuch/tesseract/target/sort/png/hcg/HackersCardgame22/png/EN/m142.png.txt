@@ -1,0 +1,52 @@
+AugloO IA
+Hand
+
+Kehlkopf Implantat
+
++umgebende Elektronik, z.B. TV, Monitor, Toaster
+
+Person self
+
+Video RX
+
+Bild-Kanal 1 => wir gehen davon aus, dass immer nur einer
+
+Bild-Kanal 2
+
+Bild-Kanal 3
+
+Bild-Kanal n wird erahnen weshalb... grundsatzlich etwas wie FrequenzHopping denkbar
+
+Handy Kamery, Laptop Kamera, Kamera im Toaster oder in der LED Lamp
+
+RetinaCCD => Frequenz(en) kénnte man mit einem StorSender Jennet
+
+(ev. inklusive Nacht-Sicht mit Restlichtverstarker oder Infrarot CAM
+
+Denkbar auch z.B. ein Implantat im Sehzentrum / Sehnerv, schlechtere Auflésung zu erwarten
+
+Positionsdaten TX
+GPS Position KoortinatenUrsprung, z.B. Hand, Laptop, TV, Toaster, Leuchtstoffrore..
+e bendtigt, Vektoralgebra 3+, ausser Gerat hat selber nehrere
+t fiir Augmented Reality, erhdht Glaubwirdigket
+
+sogar der einzelne Finger, RFID < mm?
+
+es
+oO es Bein 1
+schon mal ein komplettes Drahtgitter Model mit “Mm zuy 4
+rsCardgame21
+
+Year! ~????
+
+|Kehlkopf Implantat
+|umgebende Elektronik, 2z.B.
+TV, Monitor, Toaster
+Person 2
+Person n
+Person self
+
+= Video RX
+'Bild- Kanal 1
+=> wir gehen davon aus, dass immer nur einer
+

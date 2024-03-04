@@ -1,0 +1,26 @@
+goddies
+
+ArrayList al ArrayList (a.length)
+(int 4 it < a.tength; i+)
+al.add’(a{i1);
+al
+
+Useful until Java 1.5  -ghuang
+Static public int[] tointArray (ArrayList List)
+
+{
+
+dott] result Ant{list.size()]
+F (int i= 0; 4 < ListesizeQ stent
+Wunder y= Wuaber) Ve) 24e7(/ De
+
+avis of
+
+Migs i oul te to an things (eee ieve
+work thes vine °y this
+
+ised
+
+ee ara ade 2270 agen jer they
+> m7, m8 cards
+

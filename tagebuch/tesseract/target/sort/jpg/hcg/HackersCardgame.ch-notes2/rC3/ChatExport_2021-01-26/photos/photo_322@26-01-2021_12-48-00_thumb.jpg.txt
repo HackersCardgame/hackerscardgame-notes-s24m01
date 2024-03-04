@@ -1,0 +1,3 @@
+;0 commit suicide or make it even
+20, 112, a6, atl, bi, el, e5,
+

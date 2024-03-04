@@ -1,0 +1,47 @@
+a Terminal
+
+sun Feb 28 03:59:13 CET 2021
+Wed 24 Mar 2021 01:40:07 PM CET
+Wed 24 Mar 2021 01:40:33 PM CET
+marc@debian:~/hackerscardgame-notes4/tagebuch$ cat *.txt |grep DEFCONI -A5 -B5 |grep CET
+i Jan 29 206 CET 2021
+Feb 21 CET 2021
+Feb 21 22:28:24 CET 2021
+Feb 24 CET 2021
+Feb 28 CET 2021
+Feb 28 CET 2021
+Feb 28 CET 2021
+Feb 28 CET 2021
+
+Jan 2 CET 2021
+Jan 2021
+
+01 Feb
+1 Feb 2021 03:22:04 PM CET
+Geschichte von Q als Mindfuck-SpielTue @2 Feb 2021 06:17:27 PM CET
+02 Feb 2021 09:35:02 PM CET
+Feb 11 17:59:06 CET 2021
+Feb 12 CET 2021
+Feb 13 CET 2021
+Feb :56:28 CET 2021
+Feb CET 2021
+Feb CET 2021
+Feb :34:52 CET 2021
+Feb CET 2021
+Feb CET 2021
+Mar CET 2021
+: CET 2021
+CET 2021
+CET 2021
+CET 2021
+CET 2021
+6 oa: 14:41 CET 2021
+59 CET 2021
+:59:57 CET 2021
+20 Mar 2021 08:33:43 PM CET
+25 Mar 2021 10:49:01 PM CET
+25 Mar 2021 10:49:19 PM CET
+i 26 Mar 2021 06:50:11 PM CET
+i 26 Mar 2021 09:58:00 PM CET
+marc@debian:~/hackerscardgame-notes4/tagebuchs
+

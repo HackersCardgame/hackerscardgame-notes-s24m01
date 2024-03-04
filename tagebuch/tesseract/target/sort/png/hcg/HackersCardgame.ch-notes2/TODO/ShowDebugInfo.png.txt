@@ -1,0 +1,132 @@
+File Edit View Search Terminal Help
+
+switch (source) {
+
+case Gdk: :SOURCE_MOUSE:
+name = "pointer"
+break;
+
+case Gdk: :SOURCE_PEN:
+name
+breal
+
+case Gdk: :SOURCE_ERASER:
+name "
+breal
+
+case Gdk: :SOURCE_CURSOR:
+name "cursor";
+break
+
+default
+name = "tablet";
+
+t
+
+return name;
+
+}
+
+static std::map<Glib::ustring, Gdk: :AxisUse> &getStringToAxis()
+
+{
+static bool init
+static std::map<Glib:
+if (linit) £
+tre
+
+}
+
+static std::map<Gdk: :AxisUse, GLil
+{
+static bool init
+static std: :map<Gdk: :
+if (!init) {
+init = tre
+
+Gdk:+AxTsUse> mapp
+
+AXIS_PRESSURE;
+
+:tAXIS_XTILT;
+
+AXIS_YFEET;
+
+itKXTS_WHEEL;
+
+ustring> &getAxisToString()
+
+ustring> mapp
+
+for (auto & it : getStringToAxis()) {
+
+@ Neves
+
+Jokument 1 - Inkscape
+
+Datei Bearbeiten Ansicht Ebene Objekt
+
+Pad Text
+
+Filter Enweiterungen Hilfe
+
+4
+
+a
+
+YZ ©OeOFZOD
+“|
+
+Pa ma
+!
+
+3 ib rei
+La srel
+
+Of B®
+:
+
+Fallung: N/V
+
+Kontur. N/V
+
+& a
+
+Ebene 1
+
+Eingabegerate
+
+ii)
+
+Keine Objekte ausgew hit. Klick
+Umschalt+klick, oder Ziehen um Objekt
+
+Druckempfindliches Grafiktablett verwenden (erfordert Neustart)
+
+- a x
+2/8,
+System Aggregated Pointer
+4,
+Modus: | Bildschirm ~|| a
+Achsen a
+x
+2 4
+Druck Keine
+XNeigung Keine G
+Y-Neigung Keine
+Forbrad Keine 4,
+4
+
+Speichen ca
+os
+A
+o
+a
+a i
+Vl
+»
+
+08:59
+
+Bho) fe ow Oe
+

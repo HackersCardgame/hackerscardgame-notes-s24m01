@@ -1,0 +1,57 @@
+SINISE WCHSIHENYoH GIGUINISH. LO RUEICH vyeoHoIHEHy
+
+Schall berecinet werden Vermutlich verbunden,
+2 X 3cm, also f, = ca 5GHz
+
+Frequenz oder Wellenlange berechnen
+
+‘Was soll berechnet werden ?
+
+Wellenlange
+Frequenz 1}
+Eingabe
+
+Medium / Type |Elektrische Wellen im Raum v
+Wellenlange | 30|/mm v
+
+Resultat
+Frequenz 9.99 GHz
+
+Frequenz oder Wellenlange berechnen
+
+Was soll berechnet werden ?
+
+Wellenlange
+Frequenz (O}
+Eingabe
+
+Medium / Type |Elektrische Wellen im Raum v
+Wellenlange | 60| mm sv
+
+Resultat
+Frequenz 5 GHz
+
+Dezimalstellen | 2 |
+
+[_Rechnen_| vm. List of WLAN channels
+
+‘The Free Encyclopedia From Wikipedia, the free encyclopedia
+
+Main page WLAN (wireless local area network) channels are frequently accessed
+Contents using IEEE 802.11 protocols, and equipment that does so is sold
+Current events mostly under the trademark Wi-Fi. Other equipment also accesses the
+Random article same channels, such as Bluetooth. The radio frequency (RF) spectrum
+About Wikipedia
+Contact us
+Donate The 802.11 standard provides several distinct radio frequency ranges
+for use in Wi-Fi communications: 900 MHz, 2.4 GHz, 3.6 GHz,
+
+4.9 GHz, EJeiRE, 5.9 GHz, 6 GHz and 60 GHz bands.(IIII4) Each
+
+Help range is divided into a multitude of channels. In the standards,
+Leam to edit
+
+is vital for wireless communications infrastructure.
+
+Contribute
+
