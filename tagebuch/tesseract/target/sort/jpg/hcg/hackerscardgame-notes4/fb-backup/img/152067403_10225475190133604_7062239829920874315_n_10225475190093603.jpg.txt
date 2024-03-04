@@ -1,0 +1,21 @@
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed
+
+info@hoaxilla.com
+host mx1.emailsrvr.com [184.106.54.1]
+SMTP error from remote mail server after RCPT T0:<info@hoaxilla.com>
+554 5.7.1 <mail@marclandolt.ch>: Sender address rejected
+Blocked by this recipient
+
+xenia-2352@ksa.ch
+host mail.swisscom.com [138.188.176.225]
+SMTP error from remote mail server after RCPT TI
+550 5.1.1 User Unknown
+
+sabine. kuster@azmedien.ch
+host spongebob.mailbase.ch [212.243.158.161]
+
+xenia-2352@ksa.ch>
+

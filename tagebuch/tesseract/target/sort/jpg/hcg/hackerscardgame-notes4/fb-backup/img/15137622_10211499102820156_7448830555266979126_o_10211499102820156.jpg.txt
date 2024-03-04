@@ -1,0 +1,25 @@
+‘omium Web Bro\
+
+RT-1 x \ B hack = \ @ Pers B wit web. B marc
+
+. X | ® marctandolt.ch t e tr @:
+
+B park x \ W Biich x \ Bi Face x \ A Mail x \ DB psyci x \ Bt Web
+
+* derived from (mostly public) diaspora articles; hashtag: #trump
+(please tell me, if i have to remove content from you && if you are not Satan um Trump...
+
+% and since supporters um computer >>>SCIENTISTS<<< are lazy (at least me
+
+* for i in $(seq 1000); do xdotool key End; done
+% switch to chromium tab && wait 1h && meanwhile, drinking tons of cofe and such
+
+% save the page (that goes back to 2013) in a directory
+* copy the directory seen but unsorted on a server
+* putting this file into the same directory: display.php
+
+* you need to give the size of eache picture with appending ?size=100
+(http: //marclandolt.ch/trump/trump_files/di splay .php?size=200)
+
+130
+

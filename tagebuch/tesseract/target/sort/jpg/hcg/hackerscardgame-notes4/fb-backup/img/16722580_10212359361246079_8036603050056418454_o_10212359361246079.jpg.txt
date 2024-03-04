@@ -1,0 +1,66 @@
+OpenSCAD - punching.scad
+
+File Edit Design View Help
+
+Example: roundCornerCube(10,10,2,1);
+*Some times it's needed to use F6 to si
+
+@ good results!
+
++/
+Af Jest tt!
+
+#punch() ;
+
+{
+translate([-111,-199,0])
+%square( [2100 ,2970]) ;
+
+}
+
+color("red") {
+
+matrice();
+
+i:
+
+module punch() {
+translate([0,0,80])
+
+roundCornersCube( 250,350, 40,10) ;
+}
+
+module matrice() {
+translate([0,0,-25])
+dif ference()
+{
+roundCornersCube (350, 450,49, 10) ;
+roundCornersCube(250,350, 50,10) ;
+t
+J
+
+module createMeniscus(h,radius) // This module creates the shap ,
+
+Viewport: translate = [ 0.00 0.00 0.00], rotate
+
+3331.23
+
+46,60 0,00 343.10 J, distanc:
+
+PolySets in cache: 18
+PolySet cache size in bytes: 25632
+
+CGAL Polyhedrons in cache: 0
+
+CGAL cache size in bytes: 0
+
+Compiling design (CSG Products normalization)
+Compiling highlights (1 CSG Trees).
+
+Compiling background (1 CSG Trees).
+
+Normalized CSG tree has 39 elements
+
+CSG generation finished,
+
+Total rendering time: 0 hours, 0 minutes, 0 seconds

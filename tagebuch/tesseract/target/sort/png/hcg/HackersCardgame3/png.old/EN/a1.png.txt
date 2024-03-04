@@ -1,0 +1,21 @@
+@) NORMAL-DISTRIBUTION
+
+Highly Gifted
+
+0,1% 2,2%
+
+Inventor Carl Friedrich GauB& Year ~1801
+
+E.g. the distribution of intelligence in society, but
+could be also the size of people, the number of
+households with kitchen mixer, but there one
+would have to find out whether it is really normal-
+distribution, "paranormal-distributed" or random
+distributed
+
+Use Cases
+
+Statistics, to check plausibilities of Statements, to
+find out who in town holds shares of kitchen mixer
+producers
+

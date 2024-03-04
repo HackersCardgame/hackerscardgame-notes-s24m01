@@ -1,0 +1,26 @@
+bits/sec
+
+a0"
+6.0"
+4.0m
+2.0m
+0.0
+
+@ Inbound
+Bi outbound
+
+Wed 12:00
+
+5.144
+5.104
+
+Thu 09:00
+
+avg: 2.95M
+ava: 2.95M
+
+Thu 12:08
+
+max: 8.98M
+max: 8.97M
+

@@ -1,0 +1,47 @@
+File Edit Search Source Run Debug Consoles Projects Tools View Help
+
+/OS68 £e@ PRADO HN e&EeEnw OO BX F @ € > (iromemarc a4
+
+Editor - /home/marc/.config/spyder/temp.py @® Help
+Q) temppy % Source [Console ~ | Object ~|& &
+
+Here you can get help of any object by
+pressing Ctrl+1 in front of it, either on
+the Editor or the Console
+
+8 marc@debian: ~/anaconda2/bin
+Help can also be shown automatically
+after writing a left parenthesis next to an
+object. You can activate this behavior in
+0/1ib/python2 -packa yder_profiler/locale/fr |iMgeememeteaaets
+
+File Edit View ch Terminal Help
+
+Bena idate = New to Spyder? Read our tuto!
+0/1ib/python2
+
+0/Lib/python2 a yder a File explorer | Help
+0/1ib/python2 a yder f as
+
+‘a ld
+
+0/1ib/python2 y 2
+7"0/1ib/python2 Bnaconda, Inc.| (default, Dec 7 2017, 17:05:42) ES
+Sate ana Br = , "credits" or "license" for more information.
+
+pkgs/spy 9.tar An enhanced Interactive Python.
+marc@debian: ~/anaconda2$ roduction and overview of TPython's features
+marc@debian :~/anacond: y ck reference:
+marc@debian: ~/anacond: jon's own help system.
+
+BEN aByaee si ¢ 2 ails about ‘object’, use ‘object??' for extra details
+‘Lib/python2.7
+
+/pkgs/spydi
+
+/pkgs/spyder-3.2.6-py27_0/lib/python2
+marc@debian:~/anaconda2$ cd bin/
+marc@debian:~/anaconda2/bin$ ./spyder
+
+Ipython console | History log
+; Permissions: RW —_End-of-lines: LF_ Encoding: UTF-8 Line: 1 Column: 1. Memory: 21%

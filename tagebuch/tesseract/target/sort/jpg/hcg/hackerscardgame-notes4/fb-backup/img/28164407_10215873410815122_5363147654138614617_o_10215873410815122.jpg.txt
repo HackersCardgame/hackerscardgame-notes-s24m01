@@ -1,0 +1,23 @@
+for (i=0; i<100; i++)
+
+xhr[i] = new XMLHttpRequest () ;
+xhr[i].open('POST', i+'.txt', true);
+
+xhr[i].onload =
+count++;
+if (count==94) {
+//alert(count +" Files Loaded from Server");
+printValues () ;
+
+function () {
+
+}; //hier darf man keine parameter tibergeben wie (xhr[i], msg) sonst funktioniert das bléde XMLHttpRequest nicht richtig
+
+xhr[i].send(null) ;
+
+</script>
+<div id="output">TEST
+</div>
+
+</body>
+</html>

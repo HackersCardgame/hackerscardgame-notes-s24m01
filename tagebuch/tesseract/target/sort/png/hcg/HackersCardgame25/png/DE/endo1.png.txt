@@ -1,0 +1,18 @@
+Inventor:
+
+Das (Neuro-)Endokrine System ist sehr Komplex. Es
+beeinfluss auch das Verhalten einer Person auch
+geringe Anderungen kénnen grosse Auswirkungen
+haben. Siehe System Dynamics.
+
+Ein Arzt/in wird im Normalfall nicht die ganze
+Komplexitat des gesammten bekannten Systems
+durchschauen. Somit ware ein Linux ExpertenSystem
+das quelloffen ist nutzlich, denn personlich traue ich
+der Pharma Industrie nicht zu 100%.
+
+Dann gibt es auch elektronische Insulin-Pumpen oder
+Dinge wie Chemitroden welche regelnd auf das
+Endokrine System wirken. Da gabs beim CCC mal
+einen Talk, dass diese Dinge manchmal auch hacked
+

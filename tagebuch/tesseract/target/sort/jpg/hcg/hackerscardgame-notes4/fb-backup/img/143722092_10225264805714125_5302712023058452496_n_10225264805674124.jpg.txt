@@ -1,0 +1,65 @@
+m108,jpg_ | mi11jp
+
+‘ az Kine | ® Sinn | © saui
+
+eo O | & nessyaawpansoigiwne/neraden Bl 1e0% U iD © Pe
+
+WIKIPEDIA
+Die freie Enzyklopadie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel aniegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Datei hochladen
+
+om | P Zur Suche Text hier eingeben
+
+& FailDef a | Diskussion Einstellungen Beta Beobachtungsliste Beitrage Abmelden
+
+Artikel Diskussion | Lesen  Bearbeiten Quelltext bearbeiten Versionsgeschichte YY Weitere V | Wikipedia durchsuchen Q
+
+Uberladen
+
+< Dieser Artikel erlautert das Konzept des Uberladens bei Programmiersprachen. Zu anderen Bedeutungen siehe Uberladung.
+
+Uberladen (von englisch overloading) bedeutet in der Softwareentwicklung das bewusste Etablieren von Polymorphien, sodass ein
+und dasselbe Sprachelement — Operatoren, Konstruktoren, Literale und dergleichen — unterschiedliche, aus dem Kontext
+hervorgehende Bedeutungen annehmen konnen. Das Uberladen wird, da es sich um einen rein syntaktischen Mechanismus
+handelt, nach Strachey als Ad-hoc-Polymorphie betrachtet.
+
+Nicht alle Programmiersprachen erméglichen das Uberladen, als Verfahren ist es insbesondere bei objektorientierten
+
+Programmiersprachen anzutreffen.
+
+Inhaltsverzeichnis [Verbergen]
+1 Erlauterung an einem Beispiel
+2 Methodeniberladung
+2.1 Abgrenzung
+
+2.1.1 Standardwerte
+
+2.1.2 Implizite Typumwandlungen
+3 Operatoruberladung
+4 Siehe auch
+

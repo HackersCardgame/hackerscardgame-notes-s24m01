@@ -1,0 +1,3 @@
+marc@debian:~/temp3/ponysay$ xargs --help
+Usage: xargs [OPTION]... COMMAND [INITIAL-ARGS]...
+Run COMMAND with arguments INITIAL-ARGS and more arguments read from input.

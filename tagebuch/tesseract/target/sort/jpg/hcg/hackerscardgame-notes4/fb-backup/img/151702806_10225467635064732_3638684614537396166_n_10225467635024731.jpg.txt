@@ -1,0 +1,41 @@
+wi|wlie/a|e|4/e|w|a/6/6/G/e|e|s |» |a|>o | |6/G/6/6|M|&|B/so|c|@|O/e|c|/o|/c/G|c|B/S|Mi/c|/s|@|so|@|w|wiwic|wio x + 7 2%
+<€ CG @ dewikipedia.org/wiki/System/360 Banw ae@:
+
+den linken 4 Bits des Kegisters der Condition-Code gerettet. Aulgrund dieser Besonderheiten war es wig we 3g {cnt *
+
+so einfach mdglich, den Adressraum Uber die 16 MB hinaus zu erweitern.
+
+Ab Version 67 wurden auch wesentliche Elemente von Virtuellem Speicher implementiert, nachdem dies zuvor aus dem Entwurf der
+Anfangsversionen wieder entfernt worden war. Das fand sich auch im Nachfolgemodell System/370 wieder.
+
+Die S/360-Architektur wurde im Laufe der letzten vierzig Jahre kontinuierlich weiter entwickelt (System/370, System/390) und gipfelt zurzeit
+in der System z-Architektur.
+
+Betriebssysteme [ Bearbeiten | Quelltext bearbeiten ]
+
+Mit dem System/360 erschienen drei Betriebssysteme, TOS/360 fir Installationen ohne
+Festplatten, DOS/360 fir kleinere und OS/360 fur gr6fere Installationen mit Festplatten. OS/360
+ist der Vorlaufer des aktuellen z/OS.
+
+Eine Besonderheit stellte das System 360/20 dar. Es war urspriinglich als reine Lochkartenanlage
+
+zur Ablésung von Tabelliermaschinen konzipiert und hatte nur einen eingeschrankten
+
+Lochkarte fur die IBM-Grorechner
+mit EBCDIC-Zeichensatz
+
+Instruktionssatz (Maschinenbefehle). Die Registerbreite betrug 16 Bit bei 8 statt 16 Registern.
+
+Einige der Betriebssysteme fur System/360 erméglichten Multiprogrammierung: MFT
+
+(Multiprogramming with a fixed number of tasks) und MVT (Multiprogramming with a variable
+
+number of tasks). Aus MFT entwickelte sich OS/VS1 im System/370 und aus MVT entwickelte sich MVS bei System/370. Mit dem Model
+67 bot IBM auch erste Time Sharing-Systeme an.
+
+Emulation [ Bearbeiten | Quelltext bearbeiten ]
+
+Neben der urspriinglichen System/360-Hardware kann auch das Betriebssystem OS/360 heute auf Windows- und Linux-Systemen mit
+htips//de wikipedia org/wiki/DateiBlue-punch-card-fronthorizpng) sg Lan eeuslam Leemuslatew eusmeenftibort cssmectoven 2
+
+fH) floor2,jpg a [El Download (1),jpg a © Download.htm! a [E] web-oxa-innen.png a [EB] Downloadjpg a [B] oxa-draussen,jpg a [s]_ maingo,jpg a Alle anzeigen X

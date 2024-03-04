@@ -1,0 +1,43 @@
+Windows - OBS
+192.168.1.13
+
+Windows - Ableton Windows - Jamulus
+192.168.1.11 use (ASIO) 192.168.1.12 Client (ASIO)
+
+Server
+
+Ableton
+
+Needs ASIO4ALL
+
+No ASIO
+
+NAT/PAT/FireWall: NAT/PAT/FireWall:
+Local: 192.168.1.11:5004 Local: 192.168.1.12:22124
+Public: 123.45.36.78:5004 Public: 123.45,36.78:22124
+
+Local Router
+
+Local Network
+
+192.168.1.1
+
+Remote Network 2
+
+Remote 2. © 123.45.36.78:5004
+
+Remote Network 1 Router
+
+to 123.45.36.78:5004 to 123.45.36.78:22134
+Remote 1
+
+rtpMIDI
+pocketMIDI
+
+pocketMIDI
+
+y
+Midi Keyboard UL II Mm
+
+epee
+

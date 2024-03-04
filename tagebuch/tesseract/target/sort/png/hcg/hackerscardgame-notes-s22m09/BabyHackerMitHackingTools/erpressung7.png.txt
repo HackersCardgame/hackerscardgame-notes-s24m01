@@ -1,0 +1,25 @@
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 906.64 KiB | 8.47 MiB/s, done.
+Total 5 (delta 1), reused © (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github. com-hackerscardgame-notes : HackersCardgame/hackerscardgame -notes-s22m09)
+.git
+ddb0a0b..8a04594 main -> main
+marc@debian : ~/hackerscardgame-notes-s22m09$ git add -A && git commit -m"...
+git push
+[main 13e4b0f]
+1 file changed, 0 insertions(+), 0 deletions(-)
+create mode 100644 erpressung6.png
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 258.42 KiB | 1.99 MiB/s, done.
+Total 3 (delta 1), reused © (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github. com-hackerscardgame-notes : HackersCardgame/hackerscardgame -notes-s22m09)
+.git
+8a04594..13e4b0f main -> main
+marc@debian: ~/hackerscardgame-notes-s22m09: I
+

@@ -1,0 +1,15 @@
+Inventor Year
+The inventor of the programming language Smalltalk
+was the first who used objects in software
+development, that's the reason why it is called "object
+riented" Programming Language. Gutenberg and
+the letters of his printing presses was one of the first
+example in of Templates in this context. A class is a
+single template for part of a complete software, e.g.
+"Name, address, phone number" would be a template
+for a person in an address database.
+
+Use Cases
+Simplification/standardization through "pre- printed
+(software) templates"
+

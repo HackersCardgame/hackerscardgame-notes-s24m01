@@ -1,0 +1,36 @@
+family guy il family guy il [SOLVED] Run X
+
+ii
+
+Community zApps Learn _—Product Reviews Log in
+
+Categories v Answer Questions Subscribed Meetups @ Ask Question
+
+spiceworks
+
+Community My Feed
+
+Home > Windows > Windows 8
+
+Running cmd.exe as the main shell instead of
+windows explorer
+
+Microsoft
+[MH | 519.319 Followers - Follow
+
+Get answers from your peers along with millions of IT pros who visit Spiceworks.
+
+am curious and was wondering how I can run cmd as the main explorer, | know you can
+change though the registry but | don't know how to accurately do it.
+
+Zz Gregory for Microsoft
+Senior Architect
+
+Microsoft Windows 8.1
+
+work
+
+BE iicosot
+
+Reply We encourage you to read our updated PRIVACY POLICY and COOKIE POLICY.
+

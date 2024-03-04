@@ -1,0 +1,61 @@
+a @ "Neues Dokument 1 - Inkscape - ag x
+
+File Edit View Search Terminal Help Datei Bearbeiten Ansicht Ebene Objekt Pfad Text Filter Erweiterungen Hilfe
+
+switch (source) { .
+case Gdk: :SOURCE_MOUSE: .
+
+"pointer" i i fa lEingabegerate > B
+a TEESE system Aggregated Pointer
+System Aggreg Ri
+Modus: Bldschirm v4
+‘Achsen @
+ao 2 a
+SOURCE_CURSOR: P Druck Keine
+ae 2 X-Neigung Keine &
+Y-Neigung Keine
+Forbrad Keine 4,
+name = "tablet"; ~
+} y
+, return name; 2 x
+
+static std::map<Glib::ustring, Gdk::AxisUse> &getStringToAxis()
+
+if
+
+J Druckempfindliches Grafiktablett verwenden (erfordert Neustart)
+
+| Speichem fa
+pping; a
+%,
+@
+Q@
+a}
+XIS_ PRESSURE; a
+:AXIS_XTILT; 3 a
+AXIS_YTECT; ]
+Gdk-rAXIS_WHEEL;
+bi
+i wo: . a
+8 lA
+
+}
+
+ustring> &getAxisToString()
+
+< fart ustring> m
+if (!init) { >
+
+ine = eat lr.
+
+for (auto & it : getStringToAxis()) {
+
+Fallung: NA
+Kontur:_ N/V
+
+z 0859
+| 2. Zur Suche Text hier eingeben 5 = Spo) A LY ror.
+
+y Keine Objekte ausgewahit. Klick X% 436.20 aoe :
+& Beet UmschaltKlick, oder Ziehen um Objekt... y; 16.13 @ a +
+

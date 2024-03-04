@@ -1,0 +1,3 @@
+Linux on Windows (WSL2) i
+with GUI / no Sound
+

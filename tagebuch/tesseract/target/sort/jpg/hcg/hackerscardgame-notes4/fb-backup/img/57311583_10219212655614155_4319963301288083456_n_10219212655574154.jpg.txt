@@ -1,0 +1,17 @@
+1. Packages & versions
+4. Links
+5. FAQ
+
+Debian Buster Life cycle
+Before the release
+
+* 2014-11-09: Distribution codename @ announced
+* 2017-06-17: Stretch is released, and buster becomes testing
+* 2019-01-12: Transition freeze (@ announced)
+
+* 2019-02-12: Soft freeze
+* 2019-03-12: Full freeze
+
+See the © explanation of freeze types for details.
+
+Release and updates

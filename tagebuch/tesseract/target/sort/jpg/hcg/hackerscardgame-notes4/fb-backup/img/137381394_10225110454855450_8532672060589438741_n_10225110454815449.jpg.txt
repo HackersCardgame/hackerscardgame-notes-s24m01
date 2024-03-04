@@ -1,0 +1,40 @@
+File
+
+Search
+
+Edit
+
+Terminal Help
+
+Ln oe Ow
+
+Eindeutigkeitsquantor oder Einzigkeitsquantor, dass es genau ein solches 2 gibt (nicht mehr und nicht weniger). Fur ihn schreibt
+man J! oder auch V3 Man kann diesen Quantor vermittels des All- und Existenzquantors sowie des Identitatszeichens ,=" wie
+
+folgt definieren:
+
+in Worten:
+»Es gibt genau ein a, fur das B(2) gilt, ist gleichbedeutend damit, dass ein « existiert, fur das B(a) gilt und fir alle y gilt: wenn
+B(y) gilt, dann ist y identisch mit a."
+Allgemein lassen sich analog zum Einzigkeitsquantor fur n € N auch Quantoren J~ "2 (bzw. Vi ) definieren, die besagen, dass es
+genau n verschiedene « gibt. Insbesondere ist 3~! x aquivalent zu !x.
+
+3>° x definiert man entsprechend als >a, wofiir manchmal auch der Quantor A benutzt wird: ,Es PISMRG z mit ..."
+
+Weitere Quantoren, wie ,die meisten x“ werden in der Logik nur selten behandelt. Ein Anwendungsgebiet fiir solche Quantoren ist
+
+die Semantik natirlicher Sprachen.
+
+4-° x definiert man entsprechend als —dz, woftir manchmal auch der
+Quantor A benuizt wird: ,Es fe la) © mit ...“
+
+marc@Desktop-Musik: /usr/share/dict$ cat ngerman |grep -e "*n.*s$" |we -L
+701
+marc@Desktop-Musik:
+
+/usr/share/dict$ fj
+
+0215
+
+@@4* 80 Bk 4E99F ion F
+

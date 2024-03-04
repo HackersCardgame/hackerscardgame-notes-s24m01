@@ -1,0 +1,29 @@
+Next, let's calculate the wire's resistance using the resistivity and length:
+
+Resistance = (resistivity * length) / area
+= (2.44 x 10*-8 ohm-meters * 0.02 m) /(785 x 10%-9 m*2)
+= (4.88 x 1040 ohm-m) / (785 x 10*-9 m*2)
+
+= 622 10*2 ohms
+
+To induce a voltage of SOmV across the wire, we can use Ohm's law:
+
+V=IFR
+
+Where Vis the voltage, lis the current, and Ris the resistance. Rearranging the formula, we
+get:
+
+VIR
+= Q08V / 622 x 10-2 ohms
+=0806A,
+
+To calculate the power required, we can use the formula:
+
+Power = Voltage * Current
+0.05V*0206A
+= 00403 Watts or 403 milliwatts
+
+Therefore, to induce a SOmV voltage across a golden wire with a length of 2cm anda
+diameter of 0.1mm at 30GHz, approximately 403 milliwatts (or 00403 Watts) of power
+‘would be required. Please note that this calculation assumes a constant resistivity value and
+neglects other factors that may affect the wires electrical behavior at high frequencies.

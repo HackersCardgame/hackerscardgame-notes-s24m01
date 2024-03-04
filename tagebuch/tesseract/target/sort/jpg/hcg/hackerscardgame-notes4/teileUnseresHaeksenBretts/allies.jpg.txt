@@ -1,0 +1,32 @@
+Activities CaliyFrame ~ Sat 18:55 dey FF) By
+
+x
+File Edit View Search Terminal Help
+java.awt.Color;
+java.awt.Font;
+java.awt. Graphics;
+javax.swing. JFrame;
+public class MyFrame extends JFrame {
+public void paint (Graphics g) {
+super.paint(g);
+int n= 8;
+g.setFont(new Font("Dialog", Font.PLAIN, 18));
+g.setColor(Color.BLUE) ;
+g.drawString("Yay, Schachbrett mit Onliner:", 20,60);
+g.drawString("if ((i + j) % 2 == 6)", 20,85);
+g.setColor(Color.RED) ;
+//zuerst die weise Quadrate, die in der ersten Spalte beginnen
+for (int i=0; isn; i++)
+for (int j=0; j<n; j++)
+if ((it+ j) %2 3) g.fillRect (404+j*40, 1004i*40, 40,40);
+t
+public static void main(String[] args) {
+JFrame frame = new MyFrame();
+frame.setSize (400,465);
+//frame.setDefaultCloseOperat ion (WindowCons tants. EXIT_ON_CLOSE)
+frame.setVisible(truc);
+t
+}
+aya ALL
+
+syntax on

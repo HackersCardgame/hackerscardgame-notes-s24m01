@@ -1,0 +1,29 @@
+Filter (_)
+
+Name =~ Class
+A double
+‘ans double
+
+b double
+
+x double
+
+Command History
+
+Dimension
+3x3
+Ix
+3x1.
+3x1
+
+Attribut
+
+>>A=[1 1 0;
+Q-1 4;
+2 0 Oo];
+S> b= [3;
+1}
+21;
+>> x= A\b;
+
+>> -x(1)+x(3);

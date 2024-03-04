@@ -1,0 +1,15 @@
+SoftMax SoftMax SoftMax
+
+t ft t
+LSTM — LSTM - LSTM
+
+t t i
+LSTM | LSTM a LSTM
+
+t ft t
+LSTM ma LSTM 7 LSTM
+
+t t t
+
+Word vector Word vector Word vector
+

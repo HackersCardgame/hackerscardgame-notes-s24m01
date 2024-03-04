@@ -1,0 +1,35 @@
+Recording
+
+l import turtle
+
+from turtle import Sc
+3 import math
+4 import time
+
+: :
+6 turtle. ERBeI() Intorrnat
+7t = Turtle() Total ti
+8s = Screen()
+9 t.width(-)
+10 s.bgcolor( L
+licolors = ["m mb Lt range
+12 t.setundobuffer(.') Size ou
+13 File na
+File size
+Bit rate
+t.clear()
+time.sleep(
+
+t.goto(, )
+t.pendown()
+rx in ri
+
+ge( :
+t.pencolor( colors[ x % ] )
+t.forward(x* )
+t.left() 0+. *math.sin(i/ —))
+t.penup()
+s.update()
+
+#for y in range(10):
+#t.undo()

@@ -1,0 +1,25 @@
+Local node: 192.168.1.40: Traffic on interface Broadcom Corporation NetLink BCM57785 Gigabit Ethemet PCle (2h) Local node: 192.168.1.41: Traffic on interface eth1 (2h)
+10 Mbps 15 Mbps :
+10 Mbps
+SMbps
+M A SMbps
+obps Obps
+Pie yo ep ee ee Pe eee ee eee SON Pie yo ep eee Pe eee ee eS SS
+last min ag all mice lee
+i Incoming traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle | Wl incomingtraffic on interface ethl [avg] 5.97Mbps 758.08Kbps 292Mbps 10.65 ieee
+Hl Outgoing traffic on interface Broadcom Corporation NetLink BCM57785 Gigabit Ethemet PCle | [ll Outgoingtraffic on interface ethl [avg] SMbps 508.14Kbps 259Mbps 9.96 BU ICMP respons
+local node: 192.168,2.40: Teffic on interface Qualcomm Atheros QCA9S6S / ARQS6S Wireless Network Adapter (2hillcal nee: 192.168.1.41: Tac on ineface Broadcom Corporation Vetitreme BCHS7S2 Giga themet PI Express (2h) 15
+10 Kbps Shops
+Kbps ro L—
+ckbee 2Mbps
+05
+4Kbps tee
+2Kbps 5
+Obps Obps ge |
+2g fe oe hee 22 ees eo ete ee Sie Ba Be es Se 3s
+ZSSSRSES SESE SEES ESS SEES g ZSSSRSS SSSR E SESE SSS SEES g .
+HTTP servicei
+i Incoming traffic on interface Qualcomm Atheros QCA9S65 / AR9S65 Wireless Network Adapter | [Ml Incoming traffic on interface Broadcom Corporation NetXtreme BCMS752 Gigabit Ethernet PCIE] [ll ICMP loss
+Outgoing traffic on interface Qualcomm Atheros QCA9565 / AR9S65 Wireless Network Adapter Outgoing traffic on interface Broadcom Corporation NetXtreme BCM5752 Gigabit Ethernet PCIE] Il ICMP ping
+ICMP response
+

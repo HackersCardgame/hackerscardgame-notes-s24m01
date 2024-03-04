@@ -1,0 +1,27 @@
+marc@kalai: “/Daten.2015
+
+File Edit View Search Terminal Help
+
+arm - kalai (Linux 3.16.0-4-amd64)
+Tor Disconnected (press r to reconnect)
+
+cpu: 0% tor, 0.6% arm mem: © (0%) pid: uptime
+/ 5 - m: menu, p: pause, h: page help, q: quit
+dth
+Download (8.6 b/sec): Upload (8.0 b/sec):
+0 0
+CO) @
+avg: 0.0 b/sec, total: 0.0 B avg: 0.0 b/sec, total: 0.0 B
+
+Events (TOR/ARM NOTICE - ERR) :|
+
+08:09:25 [ARM WARN] Unable to run the setup wizard. Is tor installed?
+
+08:09:25 [ARM NOTICE] Falling back to descriptions for Tor 0.2,2.13-alpha
+
+08:09:25 [ARM NOTICE] Unable to get the descriptions of Tor's configuration
+options from its man page (man page not found
+
+08:09:24 [ARM NOTICE] No armrc loaded, using defaults. You can customize arm
+by placing a configuration file at '/home/marc/.arm/armrc' (see the armrc.s
+ample for its options).

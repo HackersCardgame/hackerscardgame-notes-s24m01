@@ -1,0 +1,43 @@
+o) root@gfycia: /home/marc/disk/Daten.2020/code/pam_usb m= - o @
+
+* pusb hal_dbus_ connect (void) {}
+
+* pusb hal_find item for _udisk2(...){}
+* key: Serial, value 4C531001630316120102
+* pusb hal_check property for_udisk2(Serial, 4C531001630316120102) {}
+* find value » by key udisk2(...){}
+* item found: Serial: 4C531001630316120102
+* key: Vendor, value SanDisk
+
+* pusb hal_check property _for_udisk2(Vendor, SanDisk) {}
+
+* find value » by key udisk2(...){}
+
+* item found: Vendor: SanDisk
+
+* key: Model, value Ultra Fit
+
+* pusb hal_check property for_udisk2(Model, Ultra Fit) {}
+
+* find value > by key udisk2(...){}
+
+* item found: Model: Ultra Fit
+
+* key: IdUUID, value a62c080e-e98f -4c6f-b1dc-53ed9155b3ba
+
+* pusb hal_check property for_udisk2(IdUUID, a62c080e-e98f-4c6f-b1dc-53ed9155b3b
+a) {}
+
+* find_value_by key udisk2(...){}
+
+* item found: IdUUID: a62c080e-e98f -4c6f-b1dc-53ed9155b3ba
+
+* Be hal_find_item for _udisk2(...) matches: 1
+
+* : Performing one time pad verification.
+
+* STENTER dluis dieu .){}
+
+* Access granted.
+
+root@gfycia: /home/marc/disk/Daten.2020/code/pam usb# ff

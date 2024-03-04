@@ -1,0 +1,32 @@
+o) DESIGN PATTERN(S)
+
+Abstract Factory [s ] Facade [S ] Proxy
+
+[s ] Adapter Factory Method EI Observer
+
+[S ] Bridge [S] Fiyweignt Singleton
+Builder Interpreter State
+
+Chain of Responsibility Iterator Strategy
+Command Mediator Template Method
+[S] composite Memento Visitor
+
+[s] Decorator Prototype
+
+Inventor Architekt Christopher Alexander ~1977
+Design patterns are proven solution templates
+for recurring design problems in architecture
+as well as in software development.
+
+A design pattern usually contains several
+classes (templates), so a single design
+pattern is a collection of different
+templates. E.g. The shape of a single step of
+stairs AND the railing (steelwork or eg
+woodwork) for the complete stairs AND for
+example the shape for the carpet of each step
+
+Use Cases
+Architecture, Software development, psychology
+(Archetypes), Sociology (Archetype-Combinations)
+

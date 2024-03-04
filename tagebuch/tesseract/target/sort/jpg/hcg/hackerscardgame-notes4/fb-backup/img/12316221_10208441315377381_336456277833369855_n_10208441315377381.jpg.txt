@@ -1,0 +1,8 @@
+target using active TAO assets.
+~ (TS//SI//REL) Extremely powerful CNE/CND/CN
+integrating our passive and active systems:
+’ resetting connections
+" redirecting targets for exploitation
+“ taking control of IRC bots
+“ corrupting file uploads/downloads
+= More!

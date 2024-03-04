@@ -1,0 +1,26 @@
+joD0DOUOY |
+Methanopyri
+
+_ aCterig
+Firmicut es
+
+Inventor: xxxxx Year: ~??7
+Ein phylogenetischer Baum ist ein Baum, der die
+evolutionaren Beziehungen zwischen verschiedenen
+Arten oder anderen Einheiten darstellt, von denen
+man vermutet, dass sie einen gemeinsamen
+Vorfahren besitzen. Damit ist ein phylogenetischer
+Baum eine Form des Kladogramms. In einem
+phylogenetischen Baum reprasentiert jeder Knoten
+mit Nachfahren den_ ,nachsten gemeinsamen
+Verwandten” dieser Nachfahren. Die Kantenlange
+entspricht meist der geschatzten Zeit, in der sich die
+Arten separiert haben, oder der Anzahl der
+Mutationen wahrend dieser Entwicklung. Jeder
+Knoten in einem phylogenetischen Baum wird als
+,»taxonomische Einheit“ bezeichnet, wobei man
+innere Knoten oft als ,hypothetische taxonomische
+Einheiten“ bezeichnet, wenn die entsprechenden
+Arten oder Einheiten nicht beobachtet werden
+konnen.
+

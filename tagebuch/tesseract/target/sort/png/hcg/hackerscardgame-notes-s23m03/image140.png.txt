@@ -1,0 +1,19 @@
+1pF = 0.0000125 J = 0.0000125 Ws = 0.00000003472 Wh
+Stromverbrauch Schweiz = 58 113 GWh / Jahr
+
+TUF
+
+Spannung (V): 5 In
+Kapazitat (C): 1 Mikrofarad
+Widerstand (R): Ohm
+
+Berechnen | ZurUcksetzen
+
+| Sekunden
+
+Joule
+
+ss
+
+Benotigte USB Sticks fur die Schweiz: 16’737'615'207'373'271'889
+

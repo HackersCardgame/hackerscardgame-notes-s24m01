@@ -1,0 +1,29 @@
+ret
+oH 1 naturwesenbegleiters
+oe 1 nicht :
+ail 1 nur
+ial 1 oft
+aly 1 rekonstruktion
+1 1 sehr
+H 1 sein
+dl 1 seines
+mn 1 stattfand
+al 1 unbemerkt
+iy 1 viele
+da 1 weste
+apa 1 wichtigstes
+24 1 zeichnen
+ig 1 zu
+2a 2er
+Al 2 hier
+2 junge
+Lt 2 mann
+mp! 3 der
+all 3 die
+ta’ 3 und
+vl 3 war
+4 | eS /Daten.2017/code/evaluators If
+Brees 2 Waster > ase
+
+2017/code/instaltation- -scripts/monitoring/debian$ cd
+

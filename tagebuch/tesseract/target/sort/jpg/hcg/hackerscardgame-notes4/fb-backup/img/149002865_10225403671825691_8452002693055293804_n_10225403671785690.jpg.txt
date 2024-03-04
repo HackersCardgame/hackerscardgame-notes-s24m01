@@ -1,0 +1,26 @@
+TEMAIL_Qd7b_D:
+
+© under
+
+Iiceereaee
+
+Alia's artefacts About
+
+Undefined Symbol (4KB Executable
+Graphics)
+
+Apr 12, 2020
+
+Released at Revision 2020, 4KB Executable Graphics (a single 4KB executable file generates this image,
+with no external data).
+
+Download on Demozoo
+
+Hello World
+
+This was my first demoscene release as Alia (but not my first scene release :) so | wanted to make
+something good. I'm fairly happy with how it worked out.
+
+The general plan was to make something abstract but realistically rendered, with a lot of symbolism. This
+isn't something that works well in a demo competition, and it came 11th out of 16 but | want to make
+

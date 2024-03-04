@@ -1,0 +1,38 @@
+Activities @ Chromium Web Browser + Sat 23:23 dev
+monitoring: Cor. x \ [4 locathost x \ 1D) Beitrag bearbeite: x ( [) Zabbix on Debian x \ © installation-script x \ 2 2 Zabbix agent on x \ [} Landev's Unicode
+
+7,
+
+Apps @ Debian.org @ Latest News @ Help
+Peg ores y iets Necraumsen acnruvnen
+
+Dashboard Overview Web Latestdata Triggers Events Graphs Screens Maps Discovery {T services.
+
+Screens screens (JEWnSeeeny) GE) 7)
+
+eens / Tall
+
+Filter a
+Zoom: 5m 15m 30m 1h 2h 3h 6h 12h 1d 2d 7d 14d 1m 3m 6m Jy All
+<
+«« ly 6m Im 7d 1d 12h 1h 5m | 5m th 12h 1d 7d 1m Gm ly »
+gateway: Traffic on interface WAN2 (6h) gateway: Traffic on interface LAN (6h) 192.168.1794: Traffic on interface Broadcom Limi
+
+30 Mbps * 30 Mbps * 15 Mbps *
+
+20 Mbps 20 Mbps
+
+10 Mbps 10Mbps
+
+thn oa Ih ae OD oe ey ere S lA i Deaton
+
+last min avg
+Incoming traffic on interface WAN2 [avg] 115.1 Kbps 416 bps 633.89 Kbps
+© Outgoing traffic on interface WAN2 [avg] 12.52Kbps 368bps 22,43 Kbps.
+
+last min avg m
+© Incoming traffic on interface LAN [avg] 13.97 Kbps. 252Kbps 24.56 Kbps 671.6 Incoming traffic on interface Broadcom Limited
+© Outgoing traffic on interface LAN [avg] 115.69 Kbps 656bps 634.56Kbps 27.» Outgoing traffic on interface Broadcom Limited
+
+192, 168.178.10: Traffic on interface ethO (6h) 192. 168.179.20: Traffic on interface ethO (6h) 192.168.179.10: Traffic
+
