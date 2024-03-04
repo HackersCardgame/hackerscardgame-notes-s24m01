@@ -22,5 +22,5 @@ echo SUBDIR: $subDir
 mkdir -p "$(dirname "${2}$subDir}")"
 
 echo EE tesseract $subDir $2$subDir
-tesseract $subDir $2$subDir
+tesseract "$subDir" "$2$subDir"
 
