@@ -1,0 +1,21 @@
+But, yeah. Back here in reality, that to me is a really scary thing, especially
+because one of the ways that they are able to have this capability, as |
+mentioned, is these diodes. So what that suggests is that they actually
+repurpose other people’s machines in order to reposition and to gain a
+capability inside of an area where they actually have no legitimacy inside
+of that area. That to me suggests it is not only heavy-handed, that they
+have probably some tools to do that. You see where I’m going with this.
+
+Well, QUANTUMINSERTION, this is also an important point, because this
+is what was used against E@eEteea, this is what’s used by a whole
+number of unfortunately players in the game where basically what they do
+is they inject a packet. So you have a TCP connection, Alice wants to talk
+to Bob, and for some reason Alice and Bob have not heard about TLS.
+Alice sends an HTTP request to Bob. Bob is Yahoo. NSA loves Yahoo.
+And basically they inject a packet which will get to Alice before Yahoo is
+able to respond, right? And the thing is that if that was a TLS connection,
+the man-on-the-side attack would not succeed. That's really key. If they
+were using TLS, the man-on-the-side attack could at best, as far as we
+understand it at the moment, they could tear down the TLS session but
+they couldn't actually actively inject. So that's a man-on-the-side attack.
+

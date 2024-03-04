@@ -1,0 +1,16 @@
+‘Activities FirefoxESR ~
+€ fms | tae |
+
+Am TSOP-Gehause jedes FLASH-Speichers wurde der /WP-Pin mit einem SMD-Létkolben vorsichtig
+
+etwas angehoben. Nicht zu viel biegen und nicht zu lange erwarmen, sonst brechen die Pins ab. Die |
+angehobenen Anschliisse wurden mit Kupferlackdraht verbunden. Ein Pulldown-Widerstand wird an
+
+dieser Verbindungsleitung gegen GND angeschlossen. (Mit ,,aktiv LOW“ oder aktiv-0 ist ein LOW-Pegel
+
+am Pin erforderlich, wenn die bezeichnete Funktion aktiv werden soll. Nomenklatur: Kennzeichnung '/'
+
+bzw. '#' in der Pinbezeichnung)
+
+Abb. 1: Umgebauter USB-Stick(Version 1) mit Kupferlackdraht, Jumper und Widerstand
+

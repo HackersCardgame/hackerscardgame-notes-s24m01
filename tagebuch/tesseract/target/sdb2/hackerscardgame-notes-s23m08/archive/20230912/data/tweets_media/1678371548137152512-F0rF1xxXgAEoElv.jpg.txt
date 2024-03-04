@@ -1,0 +1,16 @@
+Parallel Port
+Sound-karte
+AD/DA Wandler
+
+https://Ox8.ch/HackersCardgame_2.0
+
+Damals mit dem LPT1 Port konnte man mit
+den 8 Bits des ParallelPorts eine einfach
+Soundkarte basteln. Dies zeigt eigentlich
+schon auf wie ein Analog-Digital bzw. ein
+Digital-Analog Konverter funktioniert.
+
+nicht gleich aber auch ahnlich
+funktionierte dann auch der  RAM-DAC
+(GrafikKarte) des C64. (el02)
+

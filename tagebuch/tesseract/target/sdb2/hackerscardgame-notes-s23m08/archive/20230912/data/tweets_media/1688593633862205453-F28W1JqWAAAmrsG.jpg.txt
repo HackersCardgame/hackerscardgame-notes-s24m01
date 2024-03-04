@@ -1,0 +1,24 @@
+StateMachine
+> | endlicher Automat
+
+—_— os
+( 7 operand2 >
+
+OFF 01.9,"
+
+https://Ox8.ch/HackersCardgame_2.0
+
+Ein endlicher Automat, Zustandsmaschine,
+Zustandsautomat ; englisch finite state
+machine, FSM ist ein Modell eines
+Verhaltens, bestehend aus Zustanden,
+Zustandstibergangen und Aktionen. Ein
+Automat hei&t endlich, wenn die Menge der
+Zustande, die er annehmen kann, endlich
+ase Ein  endlicher Automat ist ein
+Spezialfall aus der Menge der Automaten.
+Den Wechsel des Zustands kénnte man z.B.
+mit EventTriggern (in02) programmieren.
+
+=> Siehe Wikipedia
+

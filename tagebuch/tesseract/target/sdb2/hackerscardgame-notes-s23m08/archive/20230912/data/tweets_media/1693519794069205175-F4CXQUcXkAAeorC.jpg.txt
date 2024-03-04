@@ -1,0 +1,17 @@
+Aussageformen [Bearbeiten | Quelltext bearbeiten ]
+
+Die vollstandige Induktion befasst sich mit der Giiltigkeit von Aussageformen A(n).
+Beispiel (Siehe GauRsche Summenformel):
+
+p(n+1)
+A(n):1424340-+n= 2) torn >1
+Wenn man Werte fiir n € N einsetzt, erhalt man Aussagen, die wahr oder falsch sind.
+
+A(Q):1= 1(1+1)
+
+2
+A(2):142= 20
+
+2
+A(3):14+24+3=
+
