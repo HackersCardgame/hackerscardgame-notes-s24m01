@@ -1,0 +1,13 @@
+Hochdruck Niederdruck
+115 mmig 73 mmHg
+
+Die heutigen Daten (2)
+
+Zustand Hochdruck Niederdruck
+13:59 115 73
+
+normalerweise
+
+06:50 118 76
+
+Test starten
