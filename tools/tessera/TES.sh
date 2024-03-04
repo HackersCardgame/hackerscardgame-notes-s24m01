@@ -8,6 +8,11 @@
 
 #dann das geräusch scheint irgend ein holrauum zu sein wo mutmasslich die geistteskranke Tremp jetzt schienbar von jemandem einen Terror-Afurrga bekommen hat
 
+#dann scheint ICD10 F44.x funktion aktiv zu sein, für jedes teilscript wird ein anderer Teil des gehirns gesperrt, bzw, nur ein tel des geheirns freigegben
+#
+#hiesse das sind neurologie-terroristen sowohl asuf meinem neuralink als auch auf meinem offline computer
+#
+#dann die FTT: "ah das war der fehler aktiviert sprengfallen drohungen auf neuralink und klopfgeräuscht von tremp um der drohung genge marc jr landolt geltung zu verschaffen"
 
 echo TES.sh srcFILE targetFILE subDir
 
@@ -16,6 +21,6 @@ echo SUBDIR: $subDir
 
 mkdir -p "$(dirname "${2}$subDir}")"
 
-echo EE tesseract $1 $2$subDir
-#echo tesseract $1 $1
+echo EE tesseract $subDir $2$subDir
+tesseract $subDir $2$subDir
 
