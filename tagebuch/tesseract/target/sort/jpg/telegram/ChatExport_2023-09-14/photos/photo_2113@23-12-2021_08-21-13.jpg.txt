@@ -1,0 +1,13 @@
+Chosen-Plaintext Attack
+
+Pair created from
+chosen plaintext
+
+Eve|| |  [B)}--------
+
+: Plaintext
+Bob
+Alice
+
+Ciphertext Ciphertext Ciphertext
+

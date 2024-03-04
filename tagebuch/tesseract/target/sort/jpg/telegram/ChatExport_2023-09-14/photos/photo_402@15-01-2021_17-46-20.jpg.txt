@@ -1,0 +1,15 @@
+62 ¢@ OB d%ps/gthue.com
+
+Tor debugging the tolowing command can be Useful sudo tail -t /var/iog/zabb1x-server/zabD% server log
+
+Security Considerations
+
+Itisa bad idea to use this script and also the Webinterface over the internet since itis completely nat encrypted except
+you use a https proxy and access over HTTPS or if you just use it at home aver a wired connection or an encrypted
+
+WiFi
+
+As you can easy see with wireshark and the function follow tep stream
+
+At the moment you can get these values with my python script:
+

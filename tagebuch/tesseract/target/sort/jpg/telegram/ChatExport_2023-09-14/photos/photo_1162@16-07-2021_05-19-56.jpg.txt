@@ -1,0 +1,25 @@
+ @ nakedcapitatism.com/2014/01/acob-appe
+
+Here's one where they replaced the hard drive firmware.
+
+There was a talk at OHM this year [OHM2013] where a guy talked about replacing
+hard drive firmware. You were onto something. You were really onto something.
+Whoever you are, you were onto something. Because the NSA has a program here,
+IRATEMONK, and that's exactly what they do. They replace the firmware in the hard
+drive, so it doesn't matter if you reformat the hard drive, you're done. The firmware
+itself can do a whole bunch of stuff.
+
+So. Here are the names of the hard drive companies were it works: Western Digital,
+Seagate, Maxtor and Samsung, and of course they support FAT, NTFS, EXT3 and
+UFS. They probably now have support for additional file systems, but this is what we
+can prove.
+
+Please note at the bottom left and the bottom right: “Status: Released and Deployed.
+Ready for Immediate Delivery”. And “Ujpiseesietie”. It's free.
+
+No, you can’t get it. It’s not free as in free software. It’s free as in you're owned.
+
+[laughter, applause]
+
+| want to give a shoutout to Karsten Noll and Luca [Luca Melette] for their incredible
+

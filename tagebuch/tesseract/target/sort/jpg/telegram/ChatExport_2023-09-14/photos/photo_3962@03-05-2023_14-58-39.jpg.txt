@@ -1,0 +1,32 @@
+Pat.: Landolt Mare Geb.Dat.: 17.06.1978, M|
+
+[Fall-Nr.: 351381 |
+Auswahl BROESET Einschatzung des Gewaltrisikos
+angelegt zum 18.01.2020 07:44 —angelegt vor [AS
+Zeitpunkt © bei Eintritt © Folgeerfassung © bei Verlegung
+© bei Austritt
+
+BROESET Einschitzung des Gewaltrisikos
+Verwirrt
+
+@o O14 0
+Reizbar
+
+@o0 O14 0
+Larmig
+
+@o0 ° 1 0
+Kérperliches Drohen
+
+@o0 o1 0
+Verbales Drohen
+
+@o0 o1 0
+Angriff auf Gegenstande
+
+© 0 o1 i)
+Subjektive Risikoeinschatzung
+
+@o ° 1 © 2 ° 3 ° 4 Oo 5 oO 6 0
+
+Bewertung Sehr geringes Risiko Summe 0

@@ -1,0 +1,4 @@
+MZ = Magic Number
+fiir Windows Binaries
+=> siehe Linux Programm
+

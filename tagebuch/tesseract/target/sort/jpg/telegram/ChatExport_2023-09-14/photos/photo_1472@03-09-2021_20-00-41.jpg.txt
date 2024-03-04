@@ -1,0 +1,48 @@
+Home | WF Medio | Video | Urea: | 7 Pid Pind | @ hacker | G wases | G papas: | WF Mesie | BY ce a |W OOH | w Tinks |G (Fo Gov x O hacker | Hex |G wins | + @ — GF x
+
+€ > Cf arduinaceteerence/en/language/functions/anaiogo/analog
+
+TD teste
+
+Wen Ae The BBEST
+
+pee @ Lresveementelen Die bute Freewar. W. Sondre Gayl @ Thensenrreene. Bl
+
+Description
+
+Reads the value from the specified analog pin. Arduino boards contain a multichannel, 10-bit analog to digital converter.
+VARIAB This means that it wil map input voltages between O and the operating voltage(SV or 3.34) Into integer values between 0
+‘and 1023. On an Arduino UNO, for example, this yields a resolution between readings of: § volts 1024 units or, 0.0043
+volts (4.9 mV) per unit. See the table below for the usable pins, operating voltage and maximum resolution for some
+‘Arduino boards.
+
+‘The input range can be changed using anal
+MKR boards) using
+
+ence), while the resolution can be changed (only for Zero, Due and
+
+walogReadResolution()
+
+The Arno Reference tnt On ATmega based boards (UNO, Nano, Mini, Mega), It takes about 100 microseconds (0.0001 s) to read an analog input,
+triton Sha so the maximum reading rate is about 10,000 times a second,
+
+Find anything tat canbe BOARD OPERATING VOLTAGE USABLE PINS MAX RESOLUTION
+_ Uno 5 Volts AD to AS. 10 bits
+Sout choise Gat Mini, Nano 5 Volts A0toA7 ro.its
+melee Ses Weare 5 Vol ADIOAI4 10 bits
+Last Revision: 2010/07 oe os 0. s
+ast ul: 2021/09/08
+Micra 5 Volts Aoroatie rots
+ee Leonardo: 5 Volts AO tOATI* 10 bits
+Zero 3:3 Volts AOTOAS 12oitst*
+Due 33 Volts Aatoatt 12itse*
+MKR Family boards 3:3 Volts AOtOAS 12bits*
+7 Help
+*A0 through AS are labelled on the board, A6 through A11 are respectively avaliable on pins 4,6, 8,9, 10, and 12
+
+"*The default analogtesd() resolution for these boards is 10 bits, for compatibility. You need to use
+
+@) tcymurait | vo.zo2ton0a14_mpt 8 i
+
+w.2n2r0803. 4429p |) vin.zanon03.t4..39p ‘eassigen |X
+
