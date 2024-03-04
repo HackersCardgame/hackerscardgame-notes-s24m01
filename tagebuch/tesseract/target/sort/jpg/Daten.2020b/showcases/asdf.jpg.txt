@@ -1,0 +1,12 @@
+Neural network:
+he(z)€R* (he(zx)); = i” output
+
+m K
+1 i i i i
+J(8) = —— |ST Yup log(he(e))x + (1 — yf?) log(t — (he(2))x)
+i=l k=1
+L-1 s St+1
+
+om = Pz du (7)?
+
+l=1 i=1 j=1

@@ -1,0 +1,11 @@
+‘Quick and dirty extemal antenna attachment for Huawei E220
+
+taped to the metal sip and
+covered wi nesaton
+2v01 shorting wih ground
+
+‘Aluminium foil
+
+shielding, must connect
+with ground of device
+

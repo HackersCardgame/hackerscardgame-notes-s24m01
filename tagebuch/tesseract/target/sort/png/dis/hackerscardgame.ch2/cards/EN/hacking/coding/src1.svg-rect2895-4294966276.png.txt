@@ -1,0 +1,42 @@
+/
+
+Marcweenan ~/pam_usa
+
+( 2.) CRYPTO ANARCHY
+
+File Edit View Search Terminal Help
+:~/pam_usb$ sudo su
+[sudo] password for marc:
+Authentication request for user "marc" (sudo)
+Access denied.
+Sorry, try again.
+[sudo] password for marc:
+sudo: 1 incorrect password attempt
+:~/pam_usb$ sudo su
+[sudo] password for marc:
+Authentication request for user “marc" (sudo)
+DISABLED: Performing one time pad verification...
+Access granted.
+-> Access granted.
+root@debian: /home/marc/pam_usb#
+
+srcl
+
+httpos://0x8.ch/HackersCardgamel7
+Inventor: xxxx Year: ~????
+to quote @ioerror: "and those things seem limited
+either by budgets or simply by their time" so you
+have as a "poor" swiss guy no chance with winning
+the game with money, but you can do custom work,
+like pam_usb that was broken when i was in mental
+institution 2017, and 2020 i could partitially fix it,
+but not yet the one-time-pad.
+https://github.com/braindef/pam_usb/
+Anarchy has-~ also_ different menaings, my
+interpretation is that you have had already some
+cases in real curts and you found out that it does not
+matter if you did right or wrong, the older generation
+does what they want. Or to say it in the words of a
+German-speaking friend: "Recht und Gerechtigkeit
+sind zwei verschiedene paar Schuhe"
+

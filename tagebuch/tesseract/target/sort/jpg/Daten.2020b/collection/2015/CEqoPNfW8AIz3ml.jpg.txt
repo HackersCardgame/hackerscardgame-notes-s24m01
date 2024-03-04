@@ -1,0 +1,23 @@
+smeeln ty Keller- Perle”
+System :
+Ertenne das von (coeiser) Hand gebaute Syste an seine~ Belenclans
+
+hen a tree falls in the forest and no one is around to hear it, it
+
+certainly makes a sound. But if a computer network has a security
+
+vulnerability and no one knows about it, is it insecure? Only the
+most extreme Berkeleian idealist might argue against the former, but the
+latter is not nearly so obvious.
+
+A network with a security vulnerability is insecure to those who know _
+about the vulnerability. Ifno one knows about it—if itis literally a vulnerabil-
+ity that has not been discovered—then the network is secure. If one person
+knows about it, then the network is insecure to him but secure to everyone
+else. If the network equipment manufacturer knows about it...if security re-
+searchers know about it...if the hacking community knows about it—the in-
+security of the network increases as news of the vulnerability gets out.
+
+Biter between a hint ond on attack, but
+Lorthout foosing selfcontrol. Poor delenee Selon MI,
+

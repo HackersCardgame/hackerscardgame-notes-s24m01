@@ -1,0 +1,49 @@
+© cotboo | © chara
+
+€ eo B o% . Lm OSOme =
+Ultimate Commodore 64 Reference pagetable.com “
+C64 BASIC & KERNAL ROM Disassembly
+by Michael Steil, github.com/mist64/o64ref. Revision 188016, 2020-06-09
+This allows you to view different commentaries side-by-side. You can enable/disable individual columns:
+MicrosoftiCommodo The original M6502 BASIC source by Microsoft (KIM-1 version, not everything lines up, Commodore extensions are missing, but lots of comments by the original authors)
+and the original C64 KERNAL source by Commodore (lots of comments by the original authors)
+Data Becker [German] German-language comments from Das neue Commodore-64-intern-Buch by Data Becker, ISBN 3890113079. Some minor corrections have been made.
+Lee Davison ‘Comments from The almost completely commented C64 ROM disassembly V1.01 by Lee Davison. Some minor corrections have been made.
+BES ie ies cle (=-eie))) Comments adapted from S-C DocuMentor for Applesoft by Bob Sander-Cederiof, for the version of Microsoft BASIC that shipped with the Apple Il
+Magnus Nyman [KERNAL only] ‘Comments from JIFFYDOS version 6.01/ersion 6.02 by Magnus Nyman (Harlekin/FairLight), which were written for the JiffyDOS KERNAL, so some serial code and all tape code is missing comments.
+Marko Makela ‘Comments from the Commodore 64 BASIC/KERNAL ROM Disassembly Version 1.0 (June 1994) by Marko Makela.
+Start-Vektor 56554 BASIC cold start entry point
+94 BS MMt-Vektor $6378 BASIC warm start entry point
+7B ES
+PAGE ‘chmbasic! ‘cbmbasic', ROM name, unreferenced ‘chmbasic!
+41 53 49 4
+DISPATCH TABLES, RESERVED WORDS, AND ERROR TEXTS. Adressen der BASIC-Befeble -1 action addresses for primary commands BRANCH TABI
+ORS =—-ROMLOC ‘these are called by pushing the address onto the stack and doing an RTS so the
+(Hee ieee) actuel address “1 needs to be pushed
+‘STMDSP: ADR(END-1) perform END 580
+ROR (FOR-1) perform FOR 581
+
+perform NEXT $82
+perform DATA $83
+
+IN
+
+‘ADR (INPUTN-1) > perform INPUTS $84
+
+ADR (INFUT-1) perform INPUT $85
+‘ADR (DIM-1) perform DIM 586
+‘ADR (READ-1) perform READ $87
+‘ADR (LET-1) perform LET $88
+ADR (GOTO-1) perform GOTO $89
+ADR (RUN-1) perform RUN 588,
+ADR(IF-1) perform IF ay
+ADR (RESTORE-1) perform RESTORE $8C
+ADR (GOSUB-1) perform GOSUB $8D
+‘ADR (RETURN-1) perform RETURN s8E
+ADR (REM-1) perform REM = §8F
+‘ADR (STOB-1) perform STOP $90
+‘ADR (ONGOTO-1) perform ON 521
+
+perform WAIT
+
+47.11.2020
