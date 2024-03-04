@@ -1,0 +1,59 @@
+Pectoralis Major
+
+Deltoid
+Biceps
+Palmaris Longus
+Flexor Carpi Radialis
+Brachioradialis
+
+Flexor Digitorum
+Superficialis
+
+Lubrical
+
+i.
+Gluteus Medius
+Tensor Faciae Latae
+
+Rectus Femoris
+Pectineus,
+Sartorius
+
+Adductor Longus
+Gracilis,
+
+Tibialis Anterior,
+Gastrocnemius
+
+Soleus,
+
+Trapezius
+Thoraco-lumbar Fascia
+Deltoid
+Rhomboid
+
+Teres Major
+Triceps
+
+Latissimus Dorsi
+Extensor Carpi Radialis
+
+Extensor Digitorum
+
+\ Extensor Carpi Ulnaris
+
+\\ Extensor Digiti Minimi
+
+Gluteus Maximus
+
+Vastus Lateralis
+Gracilis
+Semimembranosus
+Semitendinosis
+
+Biceps Femoris
+
+Gastrocnemius
+
+Soleus
+

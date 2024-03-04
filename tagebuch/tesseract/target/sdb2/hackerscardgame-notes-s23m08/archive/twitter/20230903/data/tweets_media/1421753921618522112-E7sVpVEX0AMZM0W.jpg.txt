@@ -1,0 +1,11 @@
++
+
+@ nixCraft received a reply
+Q\)_ nixCraft @nixcraft - 22h
+VY Taken from “97 Things Every Programmer Should Know: Collective Wisdom
+from the Experts” book amzn.to/3C3nY4u
+
+i “Write code as if
+
+> life.”
+

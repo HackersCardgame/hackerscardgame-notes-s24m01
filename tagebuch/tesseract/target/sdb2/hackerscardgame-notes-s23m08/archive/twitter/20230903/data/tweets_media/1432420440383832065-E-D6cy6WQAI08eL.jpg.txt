@@ -1,0 +1,45 @@
+@ orFeee: x | @ acters: x | w Pin G ornge x | G addin
+© > © & Beranyeabocom,
+°
+
+1 Instructions
+
+4.16. ClearPath - Clear current path
+Robot Ware - OS
+Continued
+
+PROC proc? ()
+CONNECT drop_payload WITH gohome;
+rSignalpr \single, di1, 1, drop_payload:
+Novel pl, vS00, fine, gripper;
+
+Ielete drop_payload
+
+ENDPROC
+
+‘TRAP gohome
+
+Stoptiove \Quick:
+
+clearPath;
+
+iWelete drop_payload;
+
+StorePath;
+
+Novels hone, v500, fine, gripper;
+
+Restopath;
+
+RAISE ERR_DROP_LOAD;
+
+ERROR
+
+RAISE
+ENDTRAP
+
+Ifthe same program is being run but without stoptiove and CleaxPath in the trap routine
+<gohone, the robot will continue to position p1 before going back to position home.
+
+If programming Mover, home with flying-point (zone) instead of stop-point (fine), the
+

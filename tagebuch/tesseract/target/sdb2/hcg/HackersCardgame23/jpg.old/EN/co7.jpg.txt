@@ -1,0 +1,18 @@
+Inventor: xxxxx Year: ~????
+With Vectors and Matrices you can calculate Networks.
+For example this image is from an app that is not allowed
+anymore on facebook. It could extrapolate all my social
+groups in Aarau i was part of: Primary School Kuttigen
+(color 1), Bezirksschule Aarau (color 2), Boy & Girl Scouts
+Aarau (color 3), University of Applied Sciences (FHA)
+where i studied (color 4). And this information was
+generated only from the interconnections (metadata)
+between the elements (see al2 card) not even from the
+things people posted. If you would add Natural Language
+Processing (see a20 Card) and eg. some sort of Mayer-
+Briggs or Big5 Psychology test, you could generate quite
+good personalized Suicide Death Bots :( (see card al6),
+counter measure, warn the people that some criminal
+people/agents did and do such things to me and are
+doing such thigns also to other young people.
+

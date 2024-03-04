@@ -1,0 +1,68 @@
+n
+
+WikiPeDIA
+
+Die freie Enzyklopadie
+
+Haupiseite
+Themenportale
+Zufaliger Art
+
+Mimachen
+Aetikel verbessem
+Neuen Atkel anlogen
+Autorenportal
+
+Hite
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Links aut diese Seite
+
+‘Anderungen an
+‘vetinkton Sten
+
+Speziatseten
+Petmanenter Link
+Seiteninformationen
+‘Astkelziteren
+Whidata-Datenobjekt
+
+bru
+
+0 Q
+
+Artikel Diskussion Lesen Bearbelten Queltext bearbeiten Versionsgeschichte
+
+Inductive Output Tube
+
+Die Inductive Output Tube (107) ist eine Elektronenrohre zur Verstarkung von Hochfrequenzsignalen in den Frequenzbéindern UHF und L. In der IOT wird die
+Intensitat eines Kathodenstrahis, wie bei der Tetrode, aber ein Gitter moduliert. Der modulierte Elektronenstrahl gewinnt Energie durch ein statisches
+Hochspannungsfeld zwischen dem Gitter und einer rohrférmigen Beschleunigungselektrode (Anode), wird magnetisch fokussiert und passiert dann einen
+Hohlraumresonator, in welchem seine Dichtemodulation wie bei einem Klystron in Hochfrequenzleistung umgesetzt wird. Anschlieftend trift er auf einen Auffanger
+(Kollektor),
+
+‘Aus dem Hohlraumresonator wird die Hochfrequenzleistung wie beim Klystron durch elektromagnetische Kopplung mit einem Wellenisiter (Koaxial- oder Hobileiter)
+entzogen. Die rohrférmige Anode verhindert zudem eine Rackkopplung der Hochfrequenz in den Gitter-Anodenraum.
+
+Die IOT wird auch Klystrode genannt, da sie als eine Kombination aus Kiystron und Triode betrachtet werden kann. Es wurden Wirkungsgrade bis zu 75 %
+‘gemessen'"!
+
+Die obere Grenzfrequenz wird wie bei Scheibentrioden durch den Abstand des Gitters von der Kathode bestimmt; er betragt nur etwa 0,1 mm, um zu
+gewahrieisten, dass die Elektronen das Giter passiert haben, bevor die Modulationsspannung ihre Polaritét wechselt. Die maximale Betriebsfrequenz liegt daher
+heute bei 1500 MHz,
+
+1OTs werden hauptsachlich in starken terrestrischen Fernsehsendem, zunehmend aber auch in Telichenbeschleunigern der Hochenergiephysik eingesetzt. Sie
+haben dort das Klystron im Leistungsbereich bis etwa 100 kW weitgehend verdrangt. Die Vorteile gegendber dem Kiystron sind der um 10-20 % hohere
+Wirkungsgrad, die vergleichsweise geringen Abmessungen und, damit verbunden, der um ca. 30 % geringere Preis. Nachteilig ist insbesondere die geringe
+\Verstarkung von nur ca, 22-25 dB. (Klystrons erreichen typischerweise Verstérkungen von >40 dB.) Im Bereich noch hoherer Leistungen und Frequenzen ist das
+Kiystron derzeit noch konkurrenzios.
+
+- ‘ JOT aus einem ©
+Einzelnachweise {searteiten | queitext bearbeiten | Femsensender
+
+4. | [let (POF; 36 kB) CHARACTERIZATION OF A KLYSTRODE AS A RF SOURCE
+

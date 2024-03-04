@@ -1,0 +1,33 @@
+€ > St ittmescoureau
+
+Fintech Technology Science Sport __Entertainment
+
+The malware used by the Equation team shares many similarities with the likes of Stuxnet,
+Flame, Gauss, and Regin, with a worm called Fanny, created to bridge air-gap systems, using
+two of the same zero-day vulnerabilities which were subsequently used by Student.
+
+In its report Kaspersky says the Equation group malware could have been used to deliver the
+Stuxnet malware. The group also used a virtual file system which was present in the Regin
+malware, which leaked Snowden documents show was used by the NSA to infect state-
+owned Belgian firm Belgacom.
+
+Finally, an advanced keylogger known as GPOK is referenced in the Equation team's source
+code. The name Grok was previously mentioned in another leaked Snowden document about
+
+an SERRE eee of the same name.
+
+It may not be spelled out explicitly, but there is no doubt that the US government is
+sponsoring the actions of the Equation group.
+
+Why the name ‘Equation team’?
+Kaspersky Labs experts say the reason they have dubbed this group the Equation team is
+“because of their love for encryption algorithms and obfuscation strategies and the
+
+sophisticated methods used throughout their operations"
+
+How long has Equation group been operating?
+
+Pictures
+
+biggest social media app
+

@@ -1,0 +1,19 @@
+Inventor: Carlo Collod
+
+With tons of bigdata you could easily say if someone is
+lying. Maybe there is already a system that does that
+function this to help parents to teach their children well.
+This would need some Algorithms and some Technology
+cards and of course some programming langauge like
+Prolog. After a while the parents would trust into this
+stimuli and if the oldes kid would say, the system is lying
+but the stimulus that was trained in the parents head
+says this is a lie, the system does not lie, the parents
+would not believe that the system is broken or that the
+system is intentionally lying. Maybe a common problem
+among WhiteHat Hackers. But it bacame easier since
+good people like Se or ier provided us with
+proov. What if Schizophr People have the same
+Problem, or at least some of then. Workarund: switch
+from Inductive reasoning to Deductive reasoning
+

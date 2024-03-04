@@ -1,0 +1,39 @@
+@ public class Object
+
+object ist die Schablone mit welcher alle
+anderen Schablonen hergestellt werden,
+bzw. sagt man "von der alle anderen
+Klassen (Schablonen) erben"
+
+public class person
+protected class fahrzeug
+private class object
+Berechtigung
+Schlisselwort dass jetzt
+
+eine eine Vorlage fir eine
+Klasse (Schablone) kommt
+
+Erfinder 77? ~?2?
+Die HEXerei dazu: sagt dem Computer dass
+jetzt eine Schablone definiert wird wo die
+einzelnen Datenwerte im Speicher abgelegt
+werden. Am einfachsten kdnnte man die
+Klasse mit einem struct struct speicherbereich
+aus C++ erklaren £
+
+int Zahli;
+
+string Worti;
+int Zahl2;
+
+char |Buchstabel;
+
+speicherbereich
+
+= uy
+
+Byte o 1
+Ea
+Bit 0123456101 2345610 1) 234567101 23456101 23456101 23456101 eS4s67
+

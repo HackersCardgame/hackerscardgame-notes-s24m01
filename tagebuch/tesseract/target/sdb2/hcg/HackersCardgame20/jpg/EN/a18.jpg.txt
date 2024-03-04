@@ -1,0 +1,19 @@
+Inventor: ??? Year: ~???
+
+Depending on the authorization (or the security
+clearance) of a user, folders are shown or not shown in a
+Windows Network. If you would implement that on a
+client computer, you could do much more dirthy tricks.
+For example if a Pedophilia Victim, a Torture Victim or a
+Victim that was Subject to illegal Human Experiments
+would find out who did that all to him they would maybe
+want to keep the victim silent. So they would upload for
+example pedophila Images on the computer of the victim,
+call him a Terrorist for getting access to his computers,
+and would find the pedophilia content. If the Victim would
+look at the same Folder on his Computer, the Access
+Based Ennumeration algorithm would hide this images,
+so he would not know and the jury (m37 card) would
+judge the Victim of Pedophilia when he was 10 years old,
+the would help to hide the illegal human experiments ...
+

@@ -1,0 +1,20 @@
+WOERELER
+SHEEP GENERATOR
+
+fam
+
+Inventor:
+
+Generates a sweep and then the echo of this sweep
+is evaluated to evaluate the whole system. More
+modern devices are beeing used in eg. docsis
+networks.
+
+If you project this principle on wires/antennas that
+that have been placed below the skin and eg. a
+webcam as return channel you could maybe even
+portscan humans or hijack their telemetry
+
+Today we expect that digital technologies are used,
+but the old things maybe still up and running
+

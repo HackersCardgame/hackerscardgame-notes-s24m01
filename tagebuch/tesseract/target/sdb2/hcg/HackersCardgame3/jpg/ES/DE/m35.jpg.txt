@@ -1,0 +1,14 @@
+(_) Scheinheilig
+
+Inventor: xxxx Year: ~xxxx
+Eine Methode die sich z.B. Kinder bei den Eltern
+abschauen und explizit eingiibt werden um sich einen
+Vorteil zu verschaffen um nicht als Tater gesehen zu
+werden.
+
+Use Cases
+
+Sich in den ersten Schachztigen einen Vorteil zu
+verschaffen um nicht als Tater gesehen zu werden um so
+nicht kontrolliert werden zu werden.
+

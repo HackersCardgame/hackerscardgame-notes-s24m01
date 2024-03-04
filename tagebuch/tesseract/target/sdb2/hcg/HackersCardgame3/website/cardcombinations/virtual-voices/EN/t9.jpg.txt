@@ -1,0 +1,18 @@
+Hardware Synthesizer / Sampler
+
+Inventor Firma Fairlight CMI Year ~1970
+To record and play sounds digitally. You can
+change pitch, bass, trebles, snip single words and
+glue them together like you want. It is also
+possible to use other mathematical models, e.g.
+Fourier analysis/transform to analyse the samples
+or to modify them. Simplest variant, if you play
+twice the same with delay of 0.2 seconds to
+achieve an echo effect. See "Curve Discussion"
+
+Use Cases
+
+Make music, manipulate voice recordings prior to
+negotiation, behavioral sciences, e.g. The "Pavlovian
+Dog" experiment...
+

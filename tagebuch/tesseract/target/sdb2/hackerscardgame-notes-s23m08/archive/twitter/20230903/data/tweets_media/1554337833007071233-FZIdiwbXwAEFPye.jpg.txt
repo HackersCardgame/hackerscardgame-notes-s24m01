@@ -1,0 +1,38 @@
+‘Busse der ,diten Generation” sind jetzt im Kommen, elnschlleRlich HyperTransport und InfiniBand. Sie haben gewOhnlich die Eigenscha, dass sie mit sehr hohen Geschwindigkelten laufen, dle
+benodtigt werden, um Speicher und Videokarten zu unterstitzen, wahrend auch niedrigere Geschwindigkeiten méglch sind, um dle Kommunikation mit langsameren Geraten, wie Laufwerken zu
+unterstdtzen. Sie sind auch sehr flexibel, was ihre physikalischen Anschldsse betrift, und lassen sich sowohl als interme Busse verwenden als auch, um verschiedene Rechner miteinander zu
+verbinden,
+
+Dieses kann zu komplizierten Problemen fahren, wenn es darum geht, unterschiedliche Anfragen zu bedienen, was dazu fuhrt, dass dle Software im Vergleich zum elgentlichen Hardwaredesign in den
+Vordergrund rickt. Im Aligemeinen neigen die Busse der driten Generation dazu, mehr wie ein Netzwerk als wie ein Bus (im traditionellen Versténdnis) auszusehen, mit mehr Bedarf an
+rotokolinformationen als bei fraheren Systemen, und der Moglichkeit, dass verschiedene Gerate den Bus gleichzeitig benutzen kénnen.
+
+Bussysteme [deateien | Guoltent bearbeten}
+
+Datenbus { Gearbeiten | Queltext bearbeiten |
+
+Ein Datenbus dbertrgt Daten zwischen Komponenten innerhalb eines Computers oder zwischen verschiedenen
+Computer. Anders als bel einem Anschluss, bei dem ein Gerat mit einem anderen Gerat aber eine oder mehrere
+LLeltungen verbunden ist, Kann ein Bus mehrere Peripheriegerate Uber den gleichen Satz von Leitungen miteinander
+verbinden. Im Gegensatz zum Adressbus oder Steuerbus Ist der Datenbus bidirektional (wenn man vom Adressbus
+bel DMA-Betrieb absieht),
+
+© ea steno
+Die Bezeichnungen 4-Bit-, 8-Bit., 16-Bit, 32-Bit- oder 64-BIL-CPU bezeichnen in der Regel die Breite des internen
+Datenpfades einer solchen CPU, die normalerweise mit der (Alizweck-)Register- und Verarbeitungsbreite der ALU
+‘Obereinstimmt. Zumeist ist der interne Datenpfad genauso breit wie der extemne Datenbus. Eine Ausnahme ist
+beispielsweise die Intel-CPU 18088. Hier ist der interne Datenpfad 16 Bit brit, wahrend der extemne Datenbus
+lediglch 8 Bit brit ist, Auf Graf kkarten finden sich auch noch hohere Busbreiten, um die
+Verarbeitungsgeschwindigkeit zu steigem.
+
+Die Bezeichnung als Datenbus wird in mehrfachem Zusammenhang verwendet:
+‘+ mit Betonung auf Daten: zur Abgrenzung gegendber gemeinsamen Anschissen, wie der Stromversorgung
+‘+ mit Betonung auf Bus: zur Unterscheldung der Topologie, wie z. B. direkten Punkt-zu-Punkt-Verbindungen
+«bei parallelen Bussen: zur Unterscheldung von Adress- oder Steuerleltungen,
+
+Prinzipillo Struktur eines paralelen Bussystoms 6
+
+Adressbus {Gearboiten | Queltext bearbeiten |
+
+Ein Adressbus ist im Gegensatz zum Datenbus ein Bus, der nur Speicheradressen Obertrigt. Die Busbrelte, also die Anzahl der Verbindungsleitungen, bestimmt dabel, wie viel Speicher direkt
+

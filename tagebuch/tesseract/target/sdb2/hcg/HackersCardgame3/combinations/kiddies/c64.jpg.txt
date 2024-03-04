@@ -1,0 +1,25 @@
+LD A, (al6)
+>)
+
+bytes clocks clocks
+@4MHz @1MHz
+
+f AD
+OAN2 AOR IV"
+
+Inventor: xxxxx
+
+Assembler Coding...
+https://media.ccc.de/v/25c3-2874-en-
+the_ultimate_commodore_64 talk
+
+Even better:
+https://media.ccc.de/v/33c3-8029-
+the_ultimate_game_boy_talk
+
+Calling it "Ultimate Talk" is ultimately correct, WOW
+really fu**** great work
+
+To learn Assembler and Computer Architecture the
+easy and funny way... with smooth SID-like sound :)
+

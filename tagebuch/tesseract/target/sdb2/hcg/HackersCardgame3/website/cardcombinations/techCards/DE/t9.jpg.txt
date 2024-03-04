@@ -1,0 +1,19 @@
+Hardware Synthesizer / Sampler
+
+Erfinder Firma Fairlight CMI Jahr ~1970
+Damit kénnen Tone digital aufgezeichnet und
+abgespielt werden. Wenn man eine Aufzeichnung
+schneller abspielt als diese Aufgezeichnet wurde,
+verandert sich die Tonhéhe. Man kann auch mit
+anderen mathematischen Modellen wie z.B.
+Fourier Transformation die Tonhdhe / Klangfarbe
+verandern, oder in dem man das selbe mit einer
+Verzogerung von 0.2 Sekunden abspielt einen
+Echo-Effekt erzielen. Siehe "Kurvendiskussion"
+
+Anwendungsfalle
+
+Musik machen, Sprachaufzeichnungen’ vor _ einer
+Verhandluung manipulieren, Behavioural Sciences wie
+z.B. das "Pawlowscher Hund" - Experiment
+

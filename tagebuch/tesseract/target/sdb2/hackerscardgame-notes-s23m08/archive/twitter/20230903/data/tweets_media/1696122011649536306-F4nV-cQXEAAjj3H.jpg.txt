@@ -1,0 +1,18 @@
+Activities @) Firefox ESR ‘Aug 28 13:25 zoo
+
+English Version (Warning, uses Google Translate)
+
+Suizid APP / suizid-app.ch
+
+ProjektBeschrieb. pdf
+
+Erkenntnisse aus dem Funktionalen Prototypen
+
+Programmiert ist so etwas relativ schnell:
+
+Serverseitige Installations Scripts und XMPP Backend auf Debian Linux, Server ab 5$ pro Monat
+
+WebSeite mit PHP und XMPP Interface als "Zentrale"
+Android App, Java Eclipse mit ADT, Developper Account mit Store, 25$ im Jahr
+
+iPhone App, Objective C, Apple xCode nervt, Developper Account mit Store, 99$ im Jahr

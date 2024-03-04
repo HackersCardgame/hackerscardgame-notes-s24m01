@@ -1,0 +1,24 @@
+€) NORMAL-DISTRIBUTION
+
+Hochbegabung
+
+01% 22% 13,6% | 34,1% | 34,1% oo 0.1%
+| !
+
++ +2 +3
+115 130 145
+84.1 97,7 99,9
+
+Inventor Carl Friedrich Gau& Year ~1801
+E.g. the distribution of intelligence in society, but
+could be also the size of men, the number of
+households with kitchen mixer, but there one
+would have to find out whether it is really normal-
+distribution, paranormal-distributed or randomly
+
+Use Cases
+
+Statistics, | checking plausibilities of eg.
+Statements, to find out who in town holds shares
+of kitchen mixer producers
+

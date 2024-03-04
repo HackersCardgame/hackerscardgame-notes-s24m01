@@ -1,0 +1,39 @@
+Business value is delivered incrementally in
+time-boxed cross-discipline iterations.
+
+inception | Elaboration Construction Transition
+
+T1 E1 | £2 c2 c3 T1 | T2
+
+Business Modeling
+
+Requirements
+
+Analysis & Design
+
+implementation
+
+Test
+
+Deployment
+
+inventor: XXXXX Year: ~?22?
+
+Rational Unified Process means _ iterative software
+development process framework. People seem to use this
+Grapics (where there is an initial process that then triggers
+another processes) as a way for hiding their crimes. For
+example if you call a 20 years old guy (dark yellow) a
+criminal the would maybe get a permit for survaillance of
+this 20 years old "man", from the stalking jury it would look
+the 20 years old "man" triggered all the problems (yellow,
+green, turquoise) the joury would maybe not notice the initial
+event that caused these events because thy dont stalk the
+real criminal (red) so they maybe even decide to kill the boy
+(dark yellow) See the m37 Card. Maybe Red uses this
+concept even to hid crimes like murderer that he commited
+and then would use the jury to kill the scapegoat (m46->dt1)
+the problem would be that if dark yellow is dead red would
+just take the next scapegoat and kill again. it is likely that
+red uses strong crypto and things like t1, t12... cards.
+

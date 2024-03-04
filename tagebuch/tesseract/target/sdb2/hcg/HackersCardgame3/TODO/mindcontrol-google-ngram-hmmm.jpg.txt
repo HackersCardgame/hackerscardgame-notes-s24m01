@@ -1,0 +1,38 @@
+Google labs
+
+Books Ngram Viewer
+
+Graph these case-sensitive comma-separated phrases: mindcontrol
+
+between 1800 and 2000 from the corpus | English
+
+| Search lots of books |
+
+8.0000003500%,
+0.0000003250%
+
++| with smoothing of [3 + |.
+
+HB mindcontrol
+
+0.0000003000%
+0.0000002750%
+0.0000002500%
+
+0.0000002250%
+
+0.0000002000%
+0.0000001750%4
+0.000000 1 500%
+0.000000 1250%4
+8.000000 1000%
+‘0.0000000750%4
+
+0.0000000500%
+O.0000000250%4
+
+8.0000000000H AF 1820 7e40 TS60 7680 7300 7920 7340 7360 7980 Bol
+Search in Google Books:
+1800 - 1929 4930 - 1974 1975-1978 1979 - 1994 7995 - 2000 mindcontrol (English)
+
+Run your own experiment! Raw data is available for download here.

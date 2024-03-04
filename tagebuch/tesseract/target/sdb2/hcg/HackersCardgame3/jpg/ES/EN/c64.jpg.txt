@@ -1,0 +1,15 @@
+clocks clocks
+24MHz @1MHz
+
+WOAX2 108 M3
+
+Inventor:
+Assembler Coding...
+
+https://media.ccc.de/v/33c3-8029-
+the ultimate game boy talk
+
+Use Cases
+To learn Assembler and Computer Architecture the
+and funny way... with smooth SID sound :)
+

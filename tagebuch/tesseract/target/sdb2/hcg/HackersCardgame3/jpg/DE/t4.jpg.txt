@@ -1,0 +1,17 @@
+Erfinder Jahr
+
+EEG ursprunglich vom Neurologen Hans Berger
+entwickelt, mittlerweile hundertfach
+weiterentwickelt worden
+
+Das Brain Computer Interface ist ein EEG welches
+mit nachgelagerter Software (Pattern-Recognition)
+bestimmte Muster der Hirnstrome erkennt die
+dann auf Ereignisse auf dem Computer oder z.B.
+im Toaster verknipft werden k6nnen
+
+Anwendungsfalle
+als Lugendetektor oder Steuerung von Computer-
+spielen, Gedenken / Stimmungen _ (Stress/
+Entspannung) auslesen
+

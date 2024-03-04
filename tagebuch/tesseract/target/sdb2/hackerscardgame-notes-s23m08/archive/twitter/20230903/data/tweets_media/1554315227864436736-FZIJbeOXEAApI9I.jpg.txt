@@ -1,0 +1,114 @@
+ag TEXAS
+INSTRUMENTS
+
+Data sheet acquired from Harris Semiconductor
+‘SCHS027C ~ Revised February 2004
+
+CMOS Counter/Dividers
+
+High-Voltage Types (20-Volt Rating)
+€D40178—Decade Counter with
+
+10 Decoded Outputs
+€40228--Octal Counter with
+
+8 Decoded Outputs
+
+@ C040178 and CD40228 are 5-
+
+stage and 4-stage Johnson counters having
+10 and B decoded outputs, respectively.
+Inputs include @ CLOCK. a RESET, and a
+CLOCK INHIBIT signal. Schmitt ‘trigger
+action in the CLOCK input circuit provides
+pulse shaping that allows unlimited clock
+input pulse rise and fall times,
+These counters are advanced one count at
+the positive clock signal transition if the
+CLOCK INHIBIT signat is tow. Counter
+advancement via the clock line is inhibited
+when the CLOCK INHIBIT signal is high.
+A high RESET signat clears the counter to
+its zero count. Use of the Johnson counter
+configuration permits high-speed operation,
+input decode-gating and spik de:
+coded outputs. Antilock gating is provided,
+thus assuring proper counting sequence. The
+decoded outputs ace normally (ow and go
+high only at their respective decoded time
+slot. Each decoded output remains high for
+fone full clock cycle. A CARRY-OUT signal
+completes one cycle every 10 clock input
+cycles in the CO4017B or every 8 clock
+input cycles in the CD4022B and is used to
+ripple-clock the succeeding device in a
+‘multi-device counting chai
+
+RECOMMENDED OPERATING CONDITIONS.
+
+CD4017B, CD4022B Types
+
+Features:
+
+= Fully static operation
+
+= Mediumm-speed operation
+10 MH (typ.) at Vop = 10
+
+© Standardized, symmetrical output
+characteristics
+
+1» 100% tested for quiescent eurrent at 20 V
+
+5-V, 10-V, and 15-V parametric ratings
+
+Meets all requirements of JEDEC Tentative
+Standard No, 13A, “Standard Specifications
+for Description of ’B’ Series CMOS Devices”
+
+Applications:
+
+™ Decade counter/decimal decode display
+(c040178)
+
+Binary counter/decoder
+
+Frequency division
+
+‘Counter controt/timers
+
+Divide-by-N counting
+
+For further application information,
+
+sae ICAN-6166 “COS/MOS MSI
+
+Counter and Register Design and
+
+Applications”
+
+‘The CD4017B and CD40228 types are supplied in
+1G-lead hermetic dual-inline ceramic packages
+(F3A suffix), 16lead duarinline plastic package
+E suffix), 16-lead small-outline packages (NSR suffix),
+and 16-lead thin shrink small-outline packages (PW and
+PWR suffixes). The CD4017B types also are supplied in
+16-leadsmall-outline packages (M and M96 suffixes).
+
+For maximum reliability, nominal operating conditions should be selected so that operation
+
+is always within the following ranges:
+
+CHARACTERISTICS
+
+Vo LIMITS
+wi | Min. | Max.
+
+UNITS|
+
+co4o178
+Functional Diagram
+
+‘COMMERCIAL CMOS
+
+HIGH VOLTAGE ICs.

@@ -1,0 +1,95 @@
+ntent (hide)
+
+(Top)
+Details
+Responsibility
+© EtomalRocks
+Infection
+See also
+References
+
+Further reading
+
+External inks
+
+‘The exploit was also reported to have been used since March 2016 by the Chinese hacking group
+Buckeye (APTS), after they likely found and re-purposed the tool" as woll as reported to have
+boon used as part of the Retefe banking trojan since atleast September 5, 2017"
+
+EtemalBiue was among the several exploits used, in conjunction with the DoublePulsar backdoor
+implant to}, in executing the 2017 WannaCry attacks.
+
+Details ea)
+
+EtemalBiue explots a vulnerabilty in Microsoft's implementation of the Server Message Block
+(SMB) protocol, This vulnerability is denoted by entry CVE-2017-0144c2 inthe C
+\Vulnerabiities and Exposures
+
+/) catalog, The vulnerabilty exists because the SMB version 1
+(SMBv1) server in various versions of Microsoft Windows mishandles specially crafted packes from
+remote attackers, allowing them to remotely execute code on the target computer "7
+
+The NSA did not alert Microsoft about the vulnerabilities, and held on to it for more than five years
+before the breach forced its hand. The agency then warmed Microsoft after Ieaming about
+EteralBive's possible theft, allowing the company to prepare a software patch issued in March
+2017, after delaying its regular release ~ “y,
+
+‘Open source is source cade that is made
+freely available for possible modification and
+redistribution, Products include permission to
+Use the source code, design documents, or
+‘content ofthe product. The open-source
+model is a decentralized software
+
+development model that encouraaes
+
+Rocks Variant
++ TeojanDonnioader Win2Eterock
+{eter dicrosony
+1 Wa2 Etemaocks (Symantec)
+{© TROJ_ETEROCK [Leter (Tend
+Miro)
+MavEterocks Letter (Sophos)
+1 TrojEterocs {ete (Sophos)
++ Synergy Variant
++ Wins2xplot Equation EtemalSynergy
+(ese
+Type Ei
+‘Authorts) Equation Group
+
+Operating Windows 85
+
+pindows 98, Windows He,
+
+system(s) Windows NT, Windows XP,
+
+affected Winows is Windows
+Windows 6.1, Windows 10, Wed
+
+Server, Windows 2002 Server R2, Windows
+Server 2012, Windows Serer 2016
+
+In February 2018, EtemaiBiue was ported %% 000 by RiskSense security researcher Sean Dillon,
+
+Eternal
+
+champion and EtemalRomance, t
+same event, They were made available as open sourced Metaspiot modules 7
+
+At the end of 2018, milions of systems wore stil wnerable to EtemalBiue. This
+
+1d leaked by The Shadow Brokers, were also ported at the
+
+thas led to millions of dolars in damages due primarily to ransomware
+
+worms Following the massive impact of WannaCry, both NotPetya and BadRabbit caused over St billion worth of damages in over 65 countries, using
+
+EtemalBtue as either an initial compromise vector or as a method of lateral movement
+
+In May 2019, the city of Baltimore struggled with a cyberattack by digital extortionsts; the attack froze thousands of computers, shut down email and
+
+disrupted realestate sales, water bils, heath alerts and many other services, Nicole Perloth, witing for the New York Times, initially atibuted this attack
+
+to Etemal6iue;I in a memoir published in February 2021, Perroth clatied that EtemalBive had not been responsible forthe Baltimore cyberattack, while
+
+caiticizing others for pointing out “the technical detail hatin this particular case, the ransomware attack had not spread with EteralBive"
