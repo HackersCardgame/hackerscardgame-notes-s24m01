@@ -1,0 +1,73 @@
+Seeing 9, remembering C: Illusions in short-term memory
+Marte Otten AnilK: Seth, Yair Pinto
+
+Experiment
+Experiment 2
+Experiment 3
+Experiment 4
+
+Results
+
+General discussion
+‘Supporting information
+
+References
+
+Reader Comments
+Figures
+
+© Accessible Data
+
+This aticle includes
+the Accessible Data
+icon, an experimental
+feature to encourage
+data sharing and
+reuse. Find out how
+esearch articles
+
+duality for
+
+on @
+
+‘weaker, and more prone fo errors, and thus ilusions: Moreover, it wil also make i more IKely
+that the ropresentation ofthe pseudo-leter weakens (through decay or interference) compared
+to the strony diferentated real letter representations, thus making psoudo-etters more prone
+to errors and ilusory memories overtime and interference. However, our findings clearly show
+that pseudo-etter targets do not simply lead to Weaker memory traces. Il that were the case
+participants remembering a pseudo-letter target (or more accurately, a participant easily
+{orgeting @ weakly established representation of a pseudo-latior target) should be selecting all
+items in the probe display with equal probably, asthe representation ofthe target has been
+lost. This should result in similar rates of erors (selecting probe ilems that are notte target, or
+‘mirored version ofthe target) and ilusions (selecting the mirrored version of the target). Our
+results show that this is not the case Ilusory memories are much more common than other,
+‘errors when the target was a pseudo-attr. Moraave, the incidance of expectation induced
+illusory memories increases as the memory trace weakens, and this isnot (or rather, much
+less) the case for other error.
+
+‘Although predictive processing provides a comfortable framework with which to account for our
+results regarding STM, we recognize that thera is already a vast Iteature about the theoretical
+foundations of false memory in LTM. For example, one explanation for the occurrence of
+illusions in LTM comes from fuzzy trace theory [47] [Al states that memory consists of two
+parts a verbatim part, representing the exact memory input, and a gist part, representing the
+meaning ofthe input, based on a semantic analysis. Could ll also explain the current
+findings in STM? itis possible that the verbatim representation of the visual input isthe physical
+ppsoudo-otier, and thatthe high-level gist thats stored is something like “eter” and “mirrored”
+\With such a representation, t's possible thatthe “eter” gists stronger than the “mirrored” gist.
+thus surviving longer. However, Il predicts that high similanty between a target and its
+mirrored counterpart should init false memories [43} Ths is not consistent with the current
+data: The mirored counterpart the real letter) and the target (he psoudo-eter) are extremly
+‘Similar, yet false memories ara abundant. Therefor, it seems that IH cannot accurately
+‘account forthe occurrence of ths type of memory ilusions in STM. In contrast to, which
+‘suggests thal memory ilusions are the reull of high evel semantic analysis, i thus seems
+
+that, atleast for memory ilusions in STM, very basic perceptual expectations can directly
+shape memory representations. Therefore, based on these considerations we argue that Sil
+‘cannot ently explain the curent findings.
+
+[Hil does suggest that pseudo-etters have a verbal (the letter itself) and a gist level
+(Cmitrored" representation, while rel letters can be stored purely a the verbal evel This
+‘Would mean that verbal rehearsal is more effective to store a complete representation of real
+letiors in working memory, but nat for pseudo-etters. Removing verbal rehearsal asa stratogy,
+for example through articulatory suppression, would therefore impact the storage ofthe verbal
+

@@ -1,0 +1,29 @@
+Gradient computation :
+( Backpropag ation eho. :
+
+sg £ ”
+Intuition ¢ 8; ? = error” of
+
+Node j in Cayer &
+ae each nocke) d 1
+
+For each output can Pt (Layer L= 4) Wwe Compu fe
+
+- 5a" 4, > (habe),
+
+hy Oalue in trainings xample
+[i Activation of thet Unit a
+
+é
+Vectorize ol rs i 4 7
+Ls @) | zR eae
+A) i.
+S cece: 3 (2 i) re kU a)
+se x ( e's @) a a
+———— cas Ce ) Q* (Ana)
+Cano Ss)
+olenorhvue
+ej
+
+) +A
+ee The) 2 ay eo )

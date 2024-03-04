@@ -1,0 +1,30 @@
+a operand °
+
+; operand2 ;
+
+* oFF
+
+0'..'9'.
+
+Inventor: xxx
+https://en.wikipedia.org/wiki/
+UML_state_machine
+
+If you have a production line (that can be abused to
+programm stimulus-response habits), the line can
+have several different states, so you have to find the
+states and how / when (eg. eventtrigger) they
+change, see eg. Siemens S7 PCL
+
+The same principle is unfortunately also abused
+aganist humans eg. in their bedroom (see m98, m99
+Card):
+
+1. Normal: loop { you will be raped } =>
+
+2. Annoyed: someone says "Fu** your Mother" =>
+
+3. Rage
+
+Induced with t* cards
+

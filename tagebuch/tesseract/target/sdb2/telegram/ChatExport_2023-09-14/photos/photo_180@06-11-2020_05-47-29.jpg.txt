@@ -1,0 +1,26 @@
+Entwicklerboard Raspberry Pi 3 Model B+
+
++ Broadcom BCM283780, Cortex-A53, 64-bit, Quad-Core SoC mit 1.4 GHz
++ 2.4GH2/SGH2 IEEE 802.11 b/g/n/ac Wireless LAN
+
++ Bluetooth Low Energy v4.2 (BLE)
+
++ Gigabit Ethernet aber USB 2.0 (maximaler Durchsatz 300 Mbps)
+
++ PoE-Unterstutzung (benotigt separaten PoE HAT), 40:pin GPIO Header
+
+tke ra9s38
+
+Herstelernumener 137-3332 (uk)
+
+Lagerbestand in Wilisau o
+
+bewertung peewee
+
+© i517 Uhr beste, morgen porate gelefert oder in Renensabholen,
+
+UD verstenen 3 pewerten © merken Q@rraee
+
+@ {ff} Geschenkverpackung
+
+cur 49.00

@@ -1,0 +1,39 @@
+Mons
+
+o8
+
+Oro FM Mise ew
+
+screenshots debian.net
+
+© debian screenshots> 2 °
+aeskulap
+medical image viewer and DICOM network client
+
+medical image viewer and DICOM
+network client
+
+au 22679) 22679 Py @
+
+Gipsy) Geiny Ros EL Un Elsen ©
+
+© Description
+
+‘Aeskulap is able to load a series of special images stored in
+the DICOM format for review. Additionally itis able to query
+and fetch DICOM images from archive nodes (also called
+PACS) over the network. Aeskulap tries to achieve a full open
+source replacement for commercially available DICOM
+
+Please help extend the collection of screenshots, just make a
+screenshot and upload it here, You don't need to register or
+anything.
+
+Hint: upload an image here from your clipboard with Ctr-V
+
+http://aeskulap.nongnu.org
+
+Ifthe package is avalable forthe distribution you are
+currently using on your computer then install the software
+by clicking on.
+

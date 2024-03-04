@@ -1,0 +1,22 @@
+Version
+HeaderLength in Words
+Priority Flags
+Lange des ganzen Flows
+‘Sequenznummer des Flows
+Flags
+Abstand des aktuellen Fragementes
+zum Anfang der Daten
+Time to Live (Hops to Live)
+Protokoll der Daten
+
+Checksm Header Checksumme
+
+SrclP_ Source IP-Adresse
+
+DestIP Destination IP-Adresse
+
+Optional Optionale Header Daten
+
+PAD Fullbytes, da der IP-Header n*32Bit lang
+sein muss (+ HeaderLength)
+

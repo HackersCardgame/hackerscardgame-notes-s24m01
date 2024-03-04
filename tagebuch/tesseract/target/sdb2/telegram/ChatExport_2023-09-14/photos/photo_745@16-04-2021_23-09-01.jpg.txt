@@ -1,0 +1,68 @@
+FOR SHOCK CHAMBERS
+
+tlet, 6-plug outlets,
+surge-suppressed outlet, g oue :
+a Boyer SUPPLY, monitor, disk drive, any ay
+
+i SnSSk genera
+i enerator and sho Es
+murn on white Te). get shock generators to deliver |
+
+ange (Left knob).
+
+(right knob) -
+
+plug in power cords to restraint boxes.
+3.
+
+4. To set up interface:
+a. Put disk labeled "Rayfield..." (Cc. 1 or C.
+
+" S|
+Ye LOAD "ML 18",8,1 and pres: i
+pe eer "READY." appears, type NEW and presi
+
+5. To run desired program:
+a. Put disk labeled "SHOCK PROGS" into drive
+
+b. Type LOAD "[filename]",8 and pret
+c. Type RUN ‘then answer each question and press
+
+TI. Program Names
+
+SHOCK Delivers fixed-duration shocks on a VT schedule.
+‘EYR-2 Delivers shocks to two escape-yoked pairs.
+Increase
+
+response requirement, F1/F3
+
+Decrease response requirement, F2/F4
+Impose minimum 0.8-s delay, F5/F6
+(Print out data with EYR2CHK]
+
+TRIPLE Delivers escapable shocks to three rats.
+
+Increase response requirement, F1/F3/F5
+
+Decrease response requirement, F2/F4/F6
+
+Impose minimum 0.8-s delay, 1/2/3
+
+(Print out data with TRIPLECHK]
+
+III. To £ equipment
+
+Work backwards from step 3 above.
+
+IV. If sessi ee at ematurely:
+1. Press RUN/STOP key
+2. Type POKE 56846,0
+
+and press Return
+RUN
+
+3. Restart program by typing
+
+So )7* atl else faite, turn oft computer and start
+
+. ©@

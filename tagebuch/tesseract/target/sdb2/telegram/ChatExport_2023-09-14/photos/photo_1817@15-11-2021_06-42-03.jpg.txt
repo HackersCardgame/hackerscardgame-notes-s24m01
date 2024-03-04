@@ -1,0 +1,52 @@
+Beschreibung durch Pseudocode | Bearbeiten | Quelitext bearbeiten |
+Der klassische Algorithmus hier in Pseudocode fiir nichtnegative ganze Zahlen a und b dargestellt:
+EUCLID_OLD(a,b)
+
+1 wenn a = 0 dann
+3 Ergebnis = b
+
+4 sonst
+5 solange b #0
+
+6 wenn a > b dann
+8 ata-b
+
+9 sonst
+
+10 beb-a
+no
+
+Row
+
+13. Ergebnis = a
+
+4 //
+
+Dieser Algorithmus kann auch in einer rekursiven Version angegeben werden:
+
+EUCLID_OLD_RECURSIVE(a,b)
+1 wenn b = 0 dann
+
+2 Ergebnis = a
+
+3. sonst
+
+4 wenn a = 0 dann
+
+5 Ergebnis = b
+
+6 sonst
+
+7 wenn a > b dann
+
+8 Ergebnis = EUCLID OLD RECURSIVE(a - b, b)
+9 sonst
+
+10 Ergebnis = EUCLID OLD RECURSIVE(a, b - a)
+noo
+
+Row
+
+B//
+
+Moderner euklidischer Algorithmus { searbeiten | Quelitext bearbeiten |

@@ -1,0 +1,17 @@
+Halli Hallo Gruppe und @
+
+Diese Grafik bzw. StudienArbeit zu verschiedenen Psychischen
+Erkrankungen [1] finde ich noch toll. Da werden die Tagebucher von
+
+Patienten untersucht. Dazu verwenden die Studenten "Natural
+
+Language Processing” (wenn man elektronische Tagebicher und
+einen Informatik Inselbegabten Menschen im Umfeld hat konnte
+man zB. mal versuchen mit der Python-Library GENSIM [2]
+rausfinden welche Themen wie miteinander verknupft sind). Fur alle
+die keinen Sheldon im Umfeld haben gibt das Zahlen der Worte [3]
+auch schon Rckschldsse auf den Inhalt und damit auch auf die
+Psyche,
+
+BE) (ech 15 self reports pat
+

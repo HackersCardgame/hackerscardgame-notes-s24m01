@@ -1,0 +1,22 @@
+Guten Morgen,
+ich denke mir folgendes:
+
+Eine fiquivalenzklasse zerlegt die n - Menge in eine migliche Partition.
+Die Anzahl der k - Partitionen einer n - Menge sind ja die Stirlingzahlen
+2ter Art.
+
+Sonn
+
+Da jetzt die Anzahl aller méglichen Aquivalenzklassen gesucht sind,
+
+muss nun tiber alle Stirlingzahlen 2ter Art summiert werden.
+
+2 Sine
+k=0
+
+Demnach kannte das Problem der fiquivalenzklassen auf das Problem
+der Mengenpartitionen zuriickgefiihrt werden.
+
+Sind meine Uberlegungen zu diesem Problem richtig?
+Vielen Dank im Voraus.
+MfG Kubala

@@ -1,0 +1,35 @@
+Schalldruckpegel (dB)
+
+————
+10 SS =
+20
+30
+40
+50
+60
+70
+80
+
+303,
+404,
+
+50J.
+601.
+
+704.
+
+eo 250 500 1 2 34 6812
+
+Frequenz [Hz] Frequenz {kHz}
+
+Schalldruckpegel (dB)
+
+0, 25 250 500
+Frequenz [Hz]
+
+1
+
+703.
+
+234 6812
+Frequenz [kHz]

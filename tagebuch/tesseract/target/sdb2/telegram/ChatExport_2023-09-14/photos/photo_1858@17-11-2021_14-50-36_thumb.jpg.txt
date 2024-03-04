@@ -1,0 +1,19 @@
+BLITZA
+
+Die Formel, um dem Nettobetrag anhand
+des Mehrwertsteuerbetrags 2u berechnen:
+
+Nettobetrag 100
+
+Die Formel, um den Bruttobetrag anhand
+des Mehrwertsteuerbetrags 2u berechnen:
+
+Bruttobeteag —
+100+Mehewertsteuersaiz)
+
+In anderen Worten erklaet: Wie
+berechnet man den
+
+Mehrwertsteuerbetrag?
+
+Privatpersonen und Mehrwertsteuer

@@ -1,0 +1,19 @@
+Bear=ea- 2
+https://Ox8.ch/HackersCardgame23
+
+Inventor: Year:
+Many people start programming:
+
+print "hello world"
+
+Crafting Interpreters is in my OPINION one of the
+best course one can do, since you don't just learn
+programming, but you learn how to write a
+programming language. Another good thing is that
+they have the same lessions for python, java, C/C++
+that helps to understand the concept knowledge.
+
+But this course is maybe not the right thing if you
+never wrote a line of code, but if you already wrote
+some code it is a great course.
+

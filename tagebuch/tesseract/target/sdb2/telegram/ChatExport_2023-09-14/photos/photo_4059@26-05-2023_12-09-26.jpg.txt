@@ -1,0 +1,23 @@
+allowed to have too many keyholders. They travel to the ceremony at their
+own, or their employer's, expense.
+
+‘What these men and women control is the system at the heart of the web:
+
+the domain name system, or DNS. This isthe internet's version of
+
+a telephone directory ~a series of registers linking web addresses to a series
+of numbers, called IP addresses. Without these addresses, you would need to
+know a long sequence of numbers for every site you wanted to visit. To get to
+the Guardian, for instance, you'd have to enter "77.91.251.10" instead of
+theguardian.com.
+
+‘The master key is part of a new global effort to make the whole domain name
+system secure and the internet safer: every time the keyholders meet, they
+are verifying that each entry in these online “phone books” is authentic. This
+prevents a proliferation of fake web addresses which could lead people to
+malicious sites, used to hack computers or steal credit card details.
+
+The east and west coast ceremonies each have seven keyholders, with a
+further seven people around the world who could access a last-resort
+‘measure to reconstruct the system if something calamitous were to happen.
+

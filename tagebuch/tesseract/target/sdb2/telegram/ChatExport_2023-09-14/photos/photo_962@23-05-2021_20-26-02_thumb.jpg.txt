@@ -1,0 +1,12 @@
+Im folgenden eine Tabelle zur Unterscheidung zwischen hoher, mittlerer und niedriger
+Dosierung einiger Neuroleptika:
+
+Markenname internat Freiname ‘niedrig _mittel hoch
+Abilify Asipiprazol 20 25-40 45-120
+Seroquel ‘Quetiapin 25-100 100-400 400-1.200
+Risperdal Risperidon 12 2535 49
+Zyprexa Olanzapin 25-5 510 10-30
+Solian Amisulprid 25-100 100-400 400-1.200
+Leponex Clozapin 25-100 100-400 -400-1.200
+
+Dogmatil Sulpind 25-100 100-400 400-1.200

@@ -1,0 +1,28 @@
+Activities _&) Firefox ESR ¥ Nov23 19:15 @ @ Ow
+
+Erkenntnisse aus dem Funktionalen Prototypen
+
+Programmiert ist so etwas relativ schnell:
+Serverseitige Installations Scripts und XMPP Backend auf Debian Linux, Server ab 5$ pro Monat
+WebSeite mit PHP und XMPP Interface als "Zentrale"
+
+Android App, Java Eclipse mit ADT, Developper Account mit Store, 25$ im Jahr
+
+iPhone App, Objective C, Apple xCode nervt, Developper Account mit Store, 99 im Jahr
+
+Verantwortung und Systemsicherheit
+
+dies steht auf einem ganz anderen Blatt, betrachtet man die Méglichekeiten z.B. des NSA, mit Quantum-Inserts, TURBINE, qFire (COMINT) und
+allfalligen SIGINT und HUMINT Netzwerken, evenutell mit Patenten wie US4877027, W02005055579A1, US6169924B1 wohl mittlerweile zu kompletter
+Humantelemetrie weiterentwickelt, hat man eher keine Chance einem Opfer oder einer Zielperson wirklich zu helfen, wenn die Geheimdienste das
+nicht wollen. Was dann sofort auch ein Problem fiir die Reputation so eines Projektes ware. Der CIA wirde ein Opfer killen und dann die Presse
+(die im Westen gemass Julian Assange meist einen "geheminen" CIA Zensor hat) als Mulitplikator verwendet um so das Projekt abzuraumen,
+insbesondere dann, wenn es Zeilpersonen des CIA effektiv schiitzen kénnte.
+
+Im Fall Breivik, Charlie Hebdo und auch im aarauer Fall vom "Grosimérder” waren alle im PflegeSystem oder in der PsychiatrieSystem, also
+“Freiwild" flr einige Leute und Hanibal Lecters. So eine Liste ware fir die ignorante dekadente “Herrenrasse" die perfekte Liste um potentielle
+
+Attentater abzurichten
+
+Es gibt aber in diesem Fachbereich schon bereits Organisationen die z.B. per Mail versuchen so etwas zu machen, was fur normale Lebenskrisen
+wohl durchaus gehen mag. nicht aber fir Leute die 2.8. Taraeted Individuals iraend eines Geheimdienstes sind. Menschen die solche

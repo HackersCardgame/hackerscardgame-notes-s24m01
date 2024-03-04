@@ -1,0 +1,40 @@
+<<
+View }—can be instanced by —p{ findViewByid method
+
+Z
+
+‘can be showed by oe to on as
+
+Ss =
+
+are greece
+
+Pan /
+5 cea) Feat gnle
+
+=
+(Application Logic ) (Presentation Layer
+(Application Logic) (Presentation Layer ) sy
+
+such jK
+
+can be optimized by
+
+Avoiding Unnecessary Cas)
+nesting
+
+==) using
+too many ==)
+
+Expanded Menu
+
+should be extended from
+
+developed by
+
+‘Modifying
+the appearance
+
+types
+
+should be extended from

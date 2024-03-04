@@ -1,0 +1,33 @@
+Dabei ist:
+p der spezifische Widerstand von Gold,
+L die Lange des Drahtes und
+
+Ader Querschnittsbereich des Drahtes.
+
+Der Querschnittsbereich A des Drahtes kann mit der Formel fiir die Flache eines Kreises
+
+berechnet werden:
+
+A=n*(F'2)
+
+Dabei ist r der Radius des Drahtes, der die Halfte des Durchmessers ist.
+
+Nun kénnen wir die Berechnung durchfihren:
+
+1, Umrechnung des Durchmessers von 0;1 mm in Meter:
+Durchmesser = 0;1 mm =O, x 10-3 m
+2. Berechnung des Radius:
+Radius = Durchmesser / 2 = (0,1 x 10-3 m) /2 = 0,05 x 10*-3 m = 0,05 x 10-6 m
+3. Berechnung des Querschnittsbereichs:
+A=1* (0,05 x 10*-6 m)*2 = 7,85 x 10°42 m*2
+4. Berechnung des Widerstands R:
+R= (2,44 x 10*-8 Ohm* m* 0,02 m) / (7,85 * 10°12 m*2) = 6,21 Ohm
+5. Berechnung der Leistung P:
+P= (,05 V2) / (2* 6,21 Ohm) = 4 x 10-6 Watt = 4 pW
+
+In diesem vereinfachten Modell wiirde man also eine Leistung von etwa 4 Mikrowatt
+bendtigen, um eine Spannung von 50 mV auf einem 2 cm langen Golddraht mit einem
+Durchmesser von 0, mm bei einer Frequenz von 30 GHz zu induzieren. Beachten Sie jedoch,
+dass dies eine grobe Abschatzung ist und verschiedene andere Faktoren in der Praxis
+
+beriicksichtigt werden miissen.

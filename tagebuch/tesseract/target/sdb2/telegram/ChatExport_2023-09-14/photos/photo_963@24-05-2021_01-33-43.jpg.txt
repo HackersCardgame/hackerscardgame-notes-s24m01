@@ -1,0 +1,18 @@
+BE marc@DESKTO
+
+minal Help
+
+DES! $ figlet -f banner Jungs und Vaeter -w 200 | e "s/ /x/g" | sed -e "s/#/x/g"
+
+* * *
+
+woe woe eee eetrercs * woe oe * er rtett tert ttrtreci tere rerircss
+
+koe ee rerr sty wie * ita * * dice tiene ictetoe * *
+
+bok eereer ity hae * eereerery * * wok rarer Jeti *
+* woe cites toate * Hokitika * etree tars deine fhe
+* hoe eter as wie * * okie * deat oe deere eer
+Toe io adie Jeanine kee ie * * Iida oi iit ait *
+
+marc@DESKTOP-4129AN1:~$ ff

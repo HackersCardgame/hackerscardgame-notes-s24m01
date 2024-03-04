@@ -1,0 +1,9 @@
+@ Beweis des Zusammenhangs von ggT und kgV
+
+Der folgende Bewels setzt bei der Primfaktorzerlegung der beiden Zahlen an. Anhand el-
+ines generischen Bewelses werden konkrete Belsplele genutzt, um anschilleBend das Vor-
+gehen argumentativ zu verallgemeiner. Achten Sie insbesondere auf die Stelle der Verall-
+_gemeinerung am Ende des Videos. Diese Verallgemeinerung ist for einen generischen Be-
+
+wels absolut zentral.
+

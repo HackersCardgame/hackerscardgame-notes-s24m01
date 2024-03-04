@@ -1,0 +1,18 @@
+IK
+
+Order Aricle Reprints Jo]
+
+of the changes in the phase of the wavefront [36,39]. In this work, we imaged the different microspheres using Zemike
+phase-contrast imaging in a benchtop nano-CT scanner (Kradia Ultra 810). Phase-contrast nano-CT was used to
+characterize the inner structure of the commercial product Risperdal Consta® (Figure 9) and the developed
+microcapsules and microgels (Figure 10). Videos Supplementary Videos S1-S5 show the inner 3D structure of the
+
+microparticles. The diameter and volume distributions of the intemal structures are presented in Supplementary
+Figures S1 and S2.
+
+Figure 9. Volumetric representation the inner part of one reconstructed microsphere of Risperdal Consta®
+imaged with nano-CT. The left picture shows the Xray signal in gray and the microsphere PLGA matrix
+pseudocolored in yellow On the right, the small colored structures represent the dispersed intemal spherical
+structures (ISS). which can be attributed to the dispersed drug particles. The volume of the ISS is about 13% of
+the total volume of the particle
+

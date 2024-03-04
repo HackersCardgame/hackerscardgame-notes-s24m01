@@ -1,0 +1,24 @@
+@ Beweis des Zusammenhangs von ggT und kgV
+
+Der folgende Beweis setzt bei der Primfaktorzerlegung der beiden Zahlen an. Anhand ei-
+nes generischen Beweises werden konkrete Beispiele genutzt, um anschlieBend das Vor-
+gehen argumentativ zu verallgemeiner. Achten Sie insbesondere auf die Stelle der Verall-
+gemeinerung am Ende des Videos. Diese Verallgemeinerung ist fulr einen generischen Be-
+
+weis absolut zentral.
+
+gaTla, b)+ kgVla, b)=a+b
+
+a = 3240
+‘b= 3600
+
+gata, b)
+kgVla, b)
+
+"
+
+Pe me ae
+a b
+
+ggT(a,b) + kgV(a, b)
+

@@ -1,0 +1,36 @@
+Dabetiet
+dor speciteche Widerstand von Gold,
+{dio Lange des Drahtes und
+
+‘Ader Quorachniteboreich des rabies.
+
+‘Der Quorschnittsbereich A des Drahtos kann mit dor Formel fi de Fliche oince Kreis
+bberechnet werden:
+
+(2)
+
+abet iat der Radius des Drates, dor die Hlfte des Durchmesser it,
+‘Nun kannan wich Betochnung durch:
+
+1. Umrechnung des Durchmossors von Oi mm in Motor:
+Durchmestar = Gtmm =03%10%3m
+
+2, Berechnung des Radius:
+Radius = Durchmesser /2= (01103) /2=005 * 10~3m = 0105» 10~m
+
+9, Borachnung dos Quorechnitsberoiche:
+A=n.*(005x10"-6 m2 785 2102.2
+
+4, Borechnung dos Widorstande
+
+(2:44 108 Ohm * m* O02) [7H 1012-2) = 621 Ohm
+
+5. Borechoung det Leistung P:
+
+(0905 V°2)/(2* 621 0hm) = 4 10-8 Watt = 4 IN
+
+In diesem vereinfachton Model wire man alo eine Leistung von atwa 4 Mikrowatt
+‘bendtigen um sine Spannung von 50 mV auf sinem em langen Golddraht mit sinem
+‘Durchmestor won Oj mm bei einer Frequen von 80 GHe 2 induzioren,Beachtan Sie jedoch,
+‘dase des eno robe Abechitzung ie und verschiedone andere Faktoran in der Praxis
+bboricksichtigt werden miceon.

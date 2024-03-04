@@ -1,0 +1,16 @@
+Drug Class: Age Group: Number of
+
+People:
+
+All Psychiatric Drugs 0-17
+
+Years 6,155,852
+0-5 Years 418,425
+
+Age Breakdown:
+
+0-1 Years 85,003
+2-3 Years 138,822
+4-5 Years 215,120
+6-12 Years 2,652,554
+13-17 Years 3,188,966
