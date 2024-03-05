@@ -1,0 +1,61 @@
+een eee
+
+—— ae LOTT
+
+9
+
+Hy
+©
+9G
+<
+?
+
+3
+
+Bedi opcode aH CP RON )em RO
+‘ADD RXRY , ADD RON |e Rt
+
+2am ADC RX,RY “amINC RY |e R2
+gem SUB RX,RY @B@DEC RY |@PR3
+4qmSBB RX,RY @@DSZ_RY jaMRs
+SaPOR RXRY GOR RON \@PRS
+Gem AND RX,RY AND RON [qu RE
+|, Zea XOR RX,RY ew XOR jw R7
+Gem MOV RXRY GEXREDN Jew RE
+Qe MOV RX,N (@EBIT RG.M)ea RO
+
+10a MOV [XY],RO |@u” BSET RG,M | ea OUT!
+
+|11 eae MOV RO,[XY] | "as BCLR RG,M | ea IN
+120aP MOV [NN},RO|@mBTG RGM | ea JSR
+13.4@ MOV RONN](@RRC RY) ew PCL
+|e MOV PC.NN /@@RET RON )eun PCM
+*) w skip FM |e PCH
+
+BHSHFHFFFFFSBd
+ooeaassssaaeees
+
+AMDHDHDSDF3FFIBVD
+Aamoouroaranse nao,
+
+HHFHFHFFF}FIFFIID
+HHIF}F}FFFFFFFFFHD
+
+ES SSS SSS Se
+
+m
+g
+ry CSS SSS SSS SS hh
+
+21 HHDHDHIHFFFIIIVSez
+
+HISTORY - ADDR +
+FAST PAUSE BREAK RUN
+ADORSET ~ ADDR + DEPr
+
+p& DF rr ‘ie
+
+é€eee
+
+aad
+

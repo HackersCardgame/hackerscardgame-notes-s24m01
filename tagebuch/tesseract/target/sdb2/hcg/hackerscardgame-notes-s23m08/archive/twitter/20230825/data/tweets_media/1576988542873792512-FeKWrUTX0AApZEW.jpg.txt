@@ -1,0 +1,35 @@
+4 Modulatorische Neurostimulation — Epilep:
+
+und Schmerz
+
+10mvI 0,15nA
+
+=...
+
+schneller K*-Stréme KCNQ2*!*
+Na’-Strom || 2.B.1, RMP.
+ia ~80mvV.
+
+KCNQ(In), KCNQ2*!~
+RMP u loms RMP
+-80mV tT -80mvV.
+
+100ms
+2.8. persistierende 2omvl
+a Na*-Stréme b
+
+epileptische Aktivitat
+
+} 2 3 4 5 6 7 8 ] 10
+Simulationsartefakt Zeit [s}
+
+Abb. 4.1 a—c Neuronale Membraneigenschaften, Pathophysiologie einer familiaren Epilepsie und antikonvulsiver Effekt der Neu-
+rostimulation.
+
+a Einzelnes durch eine kurze Strominjektion ausgeléstes Aktionspotenzial einer hippokampalen Pyramidenzelle in Zellkultur.
+Hervorgehoben sind wichtige Stromkomponenten der unterschiedlichen Aktionspotenzialphasen und der Nachpotenziale
+(Ig A-Strom, ly: M-Strom, RMP: Ruhemembranpotenzial).
+
+b Aktionspotenzialserien in kultivierten hippokampalen Pyragmitenzelen von Wildtyp (KCNQ2"") und von heterozygoten KCNQ2-
+Knockout-Maiisefaten (KCNQ?*) aucnelact durch SAN m< ts denniaricierende Strnmniice 711 heachten ict die ctarke
+

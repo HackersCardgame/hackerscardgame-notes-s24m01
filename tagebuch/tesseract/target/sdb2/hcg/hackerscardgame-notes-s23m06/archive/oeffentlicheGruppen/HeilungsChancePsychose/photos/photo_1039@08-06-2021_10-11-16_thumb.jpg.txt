@@ -1,0 +1,22 @@
+‘An den letzten 4h meiner Posts kann man an mir als LaborRatte
+Jetzt beobachten was eine sogenannte ...
+
+"Positiv Symptomaktik"[1]
+
+Ist, aber eigentlich sind grosse Telle meiner Informatik und
+meiner Raumtiberwachung grade so einigermassen sicher... 50
+etwas 2u posten treibt dann Satan natiirlich an den Gegen"bewels"
+‘zu erbringen (siehe System Dynamics Vorlesung)
+
+[1] Achtung beim Wort "Positiv Symptomatik” gibt es auch viele
+Definitionen und Auslegungen, mir wird immer die Auslegung die
+am meisten Verwirrung stiftet vorgeschlagen. In C++ kann man
+"Operatoren Uberladen" also 2.8. das Multiplikations-Zeichen (*)
+so definieren dass es wenn beide Variabeln ein Skalar sind eine
+normale Multiplikation macht, aber das selbe Zeichen kann dann
+auch verwendet werden um eine Vektor oder Matrix Multiplikation
+zu machen, je nach dem was die belden Varlabeln Links und
+Rechts sind. Das selbe geht logischerweise auch fur Symbole, baw.
+In der Java-Programmierung wurde man von "Objekten” sprechen
+edited 9:45AM w/
+

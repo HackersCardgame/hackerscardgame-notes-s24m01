@@ -1,0 +1,7 @@
+C+H11 Support in GCC
+GCC. was theft featre-complete implementation ofthe 2011 C+ standard, pesoualykaown as C0
+‘This mode an be sleted withthe -stncet command tine fag.
+Fer information about C41 soport in a wpecfc version of GCC lene se
+
+west to enable GNU extensions a well,
+

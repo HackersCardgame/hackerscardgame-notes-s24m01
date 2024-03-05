@@ -1,0 +1,40 @@
+PIC 18F24350-- Microcontrollers and Processors - Mola Firefox
+
+e800) | @ wides | @ zihier | @ tee
+<o¢e@ © B bitos://un merochip.comy vets a
+
+tnO0e Pawe =
+
+©) Microcuip Products Applications Design Support Order Now About 2 Fa
+
+EE documents [1 evelopment environment ‘Ab Similar Devices © Fotis information
+Thers 2x8: 3x 16K
+1 15nA Deep Sleep mode (atch Webinar) een joe 10
+‘60nd Seep mode (RAM retention) saiabecol apres z
+‘+ 83004 RealTime clock & Calendar operation i sleep modes ae inooe
+‘ 780nA Watch Dog Timer operation in Sleep modes
+eRe: ‘Temperature Range CO) 401085
+‘operating Voltage Range 21036
+Other Features: peraing voltage Range)
+Pin count 28
++ ncegrated fl speed USB.20 Low Power ves
+
++ Deep slep mode dea for batter applications
+«+ Peripheral Pn Select for mapping dgtl peripherals to various VO for design flenblty
++ Hardware RTC provides oc, calendar & alarm functions
+
++ charge Time Measurement Unt (TMU) support apacive touchscreens
+
++ 2 enhanced capture Compare / PWM modules
+
++2 SSP seria ports for SP or 2e™ communication
+
++ 2emnanced USART modules
+
++ Dual nalog comparators
+
++ toch, tobeaoe °o
+
+«Sl programming Flash spp s [EES TT
+
++ operating voltage 2.0 - 3.6, 5.5V tolerant digea inputs

@@ -1,0 +1,24 @@
+L) Manually specify a Hugging Face model
+M) Do not download a model
+
+Input> 1
+‘Type the name of your desired Hugging Face model in the format organization/name
+
+Examples:
+facebook/opt-1.3b
+EleutherAT/pythia-1.4b-deduped
+
+Input> chharlesonfire/geml-vicuna-Tb-abit
+Downloading the model to models/chharlesonfire_ggal-vicuna-Tb-4bit
+
+200%} 324/324 261ki8/s
+100% | 4.216 /4.216 41.0mi8/s
+bin /hone/bonst /oobabooga_Linux/installer_files /env/Lib/python3.10/site-packages /bitsandbytes/Libbitsandbytes_cudall7.so
+
+INFO: Loading chharlesonfire_ggml-vicuna-Tb-abit..
+ERROR:Could not Find the quantized model in .pt or .safetensors format, exiting.
+
+Done!
+
+ca Sf ype on 1S RCS Cal
+

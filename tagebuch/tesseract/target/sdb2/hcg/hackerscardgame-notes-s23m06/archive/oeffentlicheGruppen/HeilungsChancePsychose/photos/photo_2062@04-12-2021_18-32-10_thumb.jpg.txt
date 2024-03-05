@@ -1,0 +1,14 @@
+[Ai bspt.asm editor ee
+
+Datei Bearbeiten Format 7
+forg Ox100 > COM Files verden nach Ox100 geladen a
+
+mov dx,message ; “Intel syntax": anveisung ziel,quelle
+mov ah,9
+Ame 0x21
+
+nov ah, Oxdc
+ane 0x21
+
+message db "Hello, World!",0x0D,0x0a, "7"
+

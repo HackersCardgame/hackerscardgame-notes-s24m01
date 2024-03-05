@@ -1,0 +1,15 @@
+stepheam 4d
+
+I too have the same issue - installed from Rpi imager.
+
+ealmonte32 3d
+
+@HaroldTD @stepheam
+
+I can install Anthias via installing raspbian OS lite and running the bash script perfectly fine,
+so | will assume these issues you guys are having are with the balenaOS version?
+
+stepheam 3d
+
+it's the image from Rpi Imager. the anthias rpi4 image
+

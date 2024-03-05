@@ -1,0 +1,43 @@
+National Library of Medicine
+
+PubllMed 20
+
+soe || Ema
+
+> Ethics Inf Technol. 2018;20(33:219-232. doi 10.1007/s10676-018-9466-4, Epub 2018 Jl 30
+
+Brainjacking in deep brain stimulation and autonomy
+
+Jonathan Pugh * ", Laurie Pycrot * 2, anders Sandberg 2, Tipu Aziz, Julian Savulescu *
+
+Aflations + expand
+PMID: 30595661 PMCID: PMC5280799. DOI: 10.1007/510676-018-9466-4
+Free PMC article
+
+Abstract
+
+‘atanjackng’ refers to the exercise of unauthorized control of anothers electronic bran implant.
+Whilst the possibilty of hacking a Bran-Computer Interface (Bi) has already been proven in both
+‘experimental and real-life settings, there is reason to believe that it wll soon be possible to interfere
+With the software settings ofthe implanted Pulse Generators (\PGs) that play a central role in Deep
+Brain Stimulation (085) systems. Whilst branjacking raises ethical concers pertaining to privacy and
+physical or psychological harm, we claim that the possiblity of branjacking DBS raises particulary
+profound concerns about individual autonomy, since the possibilty of hacking such devices raises the
+prospect of third partes exerting influence over the neural circuits undespioning the subject's
+cognitive, emotional and motivational states. However, although it seems natural to assume that
+branjacking represents a profound threat to individual autonomy, we suggest thatthe implications of
+braijacking for individual autonomy are complicated by the fact that technologies targeted by
+biraijacking often serve to enhance certain aspect ofthe users autonomy. The difculty of
+ascertaining the implications of brainjacking D&S for individual autonomy is exacerbated by the varied
+understandings of autonomy inthe neuroethcal nd philosophical iterature. In this paper, we seek to
+
+og in
+
+senate || Dsplay optens
+
+€ Title & authors
+
+Abstract
+
+References
+

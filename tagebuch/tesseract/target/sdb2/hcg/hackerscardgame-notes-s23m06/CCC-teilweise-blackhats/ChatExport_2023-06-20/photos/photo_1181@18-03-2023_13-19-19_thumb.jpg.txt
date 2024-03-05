@@ -1,0 +1,15 @@
+« Bahnsteige ¢
+
+Der Bahnhof verfiigt neben einem Mittelbahnsteig mit
+den Gleisen 1 und 12 nérdlich davon tiber eine
+zusatzliche Bahnsteigkante an Gleis 2. Diese ist nétig,
+weil die Ziige des Ringzuges planmaBig in Trossingen
+kreuzen und gleichzeitig ein Anschluss aus und nach
+Trossingen besteht, wofiir ein dritter Bahnsteig nétig
+ist. Der ebenerdige Zugang zu den Bahnsteigen liegt
+zwischen beiden Bahnsteigen.
+
+Gleis Lange inm Héhe incm
+1 110 55
+12 110 55
+2 80 55

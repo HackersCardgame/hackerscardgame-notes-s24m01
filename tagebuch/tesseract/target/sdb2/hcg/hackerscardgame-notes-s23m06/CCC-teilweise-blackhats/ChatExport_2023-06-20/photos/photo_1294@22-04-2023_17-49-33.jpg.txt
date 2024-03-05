@@ -1,0 +1,22 @@
+void tasici(void *pvParameters) {
+while (4) {
+LED = !LED1; // toggle LED1
+vTaskDelay(500 / portTICK_PERTOD_MS); | // wait for 500ms
+
+void task2(void *pvParameters) {
+while (4) {
+LED2 = ILED2; // toggle LED2
+vlaskDelay(250 / portTICK PERIOD_MS); // wait for 250ns
+
+int main(void) £
+TRISAbits.TRISAO = 0; // set LEDi pin as output
+‘TRISAbits.TRISAL = 0; // set LED2 pin as output
+
+xTaskCreate(taski, "Task i", configMINIMAL STACK SIZE, NULL, i, NULL);
+xTaskCreate(task2, “Task 2", configMINIMAL STACK SIZE, NULL, i, NULL);
+
+vTaskStartScheduler() ;
+
+while (4) {
+J/ main loop should never be reached
+

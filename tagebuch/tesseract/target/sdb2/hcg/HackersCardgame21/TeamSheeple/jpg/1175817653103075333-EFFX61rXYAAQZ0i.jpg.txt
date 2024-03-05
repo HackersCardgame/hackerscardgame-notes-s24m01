@@ -1,0 +1,39 @@
+a buntuusers.de oof snoeoe
+‘as panust-Modularbetet mat alen Appliatonen zusammen, de PAM urtetstlizen, 2.8. eder Dispaymanagem wie hibMl, GbiY und SOD.
+
+Installation
+
+amusb kann neh ber te Paketverwatung sondern nur ber en PPA instaen werden:
+
+PPA
+Die letzte verotenichte Version mit enigen Bugfuesist bs enschletich Ubuntu 1.04 Uber en “Personal Package Archiv (PPA) ehalch. De Entwicklung wude aber eingestelt
+‘Adresszae zum Hinatigen des PPAS:
+
++ ppa:promasuliopam-usb
+
+Zusatache Femavelen kannen das System geahrden.
+
+Ein PPA umes nicht zvangslautg ale Ubuntu Versionn, Weitere nas au entnehmen.
+
+® Could not find package 'libpam-usb’.
+
+‘amt Pakete aus dem PPA genutt werden konnen, massen de Paketaut
+Close
+"Nach dem Altualsieven der Pakerqulen efit i instalation Ube flget
++ tpam-usb (op bis Ubu 38.02)
+
+seta installeren ) it 20
+
+Pakedite 2um Kopieer: apt-get au
+
+Es st dara 2 atten dass de Passworteingabe nur 2urAnmeldung, nicht aber 2urVerscisselung der prvaten Orne verwendet wird. Bel der Verwendung von pamush eflg die Anmeldung nr Uber den USB-Stck und one eine Passwortengabe
+‘Wenn oe Enschinsselung der pnaten Orde (2.8, Ihome/BENUTZER, homelBENUTZERIdesktop) an eine Passworengabe gebunden tne Ubunt diese Order nach einem Neusat mit pamusb nih.
+
+Manuelt
+
+a der ursprongiche Evie pamush nicht weiter unterstiz und ie lette angebotene Version 0.0 Version wegen veratetrBiblotheken rice laufaig gemacht werden kann, kann zum Belsiel de Fork von Danesprite uA. von@ Gb
+heruntergeladen entpackt © und Komp werden,
+
+tents Kann das System gta,
+
+Konfiguration

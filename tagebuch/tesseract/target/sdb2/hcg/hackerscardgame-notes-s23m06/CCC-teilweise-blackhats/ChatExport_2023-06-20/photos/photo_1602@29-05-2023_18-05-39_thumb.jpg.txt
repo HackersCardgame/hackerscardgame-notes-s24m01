@@ -1,0 +1,28 @@
+[Bh Wotan O73 ames? bw sin PLS Cg?
+
+[Bor opracvamana vusata ict en Soundehip, derin den 1990erJatveninzahirichen = OF
+‘Computer und Soundkarton weit verbritat war Er base auf dar FM-Sythoes
+‘Frequenzmodulation) und ermogicht de Erzeugung von Musk und Klangen.
+
+‘io FM-Synthose bast auf der Modulation einer Tragerfrequen durch eine odor mehrore
+Modilatonatrequenzen. Bei OPL3-Chip git es 18 verechiedene Kandle ie zur
+langerzeugung verwendet werden kien, Jeder Kanal besteht aus einem Tiger und
+
+inom Modulator. Der Modulator modular de Frequenz des Tagore und erzeugt so
+omplexa und vealtige Klangmucter,
+
+Dor OPLS-Chip enthlt sine interne Regatoratruktur, ber die de Enetallungen frjoden
+Kanal programmert werden Konnen. Mithife dieser Register Kannan Parametar wie
+Frequen, Lautstrka, Modulationstiafe und Modulationsratafrjadon Kanaleingostal
+‘worden. Durch die Manipuition diasee Parameter kannon veractredns Instrumente King
+und teks orzougt werden,
+
+ie Programmiorung des OPL-Chipserotdert das Senden vor Baten uber den Bus dea
+‘Computers ader der Soundkarto, um die gewanschten Klangointelungen zs setzen isos
+Befohle umfascen de Auswahl dos Kana cia Einstolung der Frequenz, der Lautstarke und
+andorer Parameter
+
+‘Dor OPL3-Chip kann sowohl Malden al auch Soundalfakteerzaugen und wurden welen
+‘Computerepsion und Musikanwendungen der 1000s fare verwendet. Obwohl er heute
+weniger vorboitat it, wird ar immer noch von enigen Musikern und Musixproduzontn fir
+‘den ratro-analogen Klang verwendet.

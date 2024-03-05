@@ -1,0 +1,30 @@
+Object Recognition
+Action Recognition
+
+PERSON1 HOLD
+
+AGENT
+MANIPULATION NO-OVER: ¢
+PATIENT
+
+start-frame, end-fram
+
+Inventor: ar:
+One can identify the ecton with cams PatternRecognition
+of a certain period of time
+
+Pseudo Formula:
+
+based on that data one could identify ovGas ence many
+actions can be done only with certain object:
+
+Pseudo :
+
+actionRecog, € Objet,
+
+llover normally identifies the
+
+maybe almost everything in a period of a mont! Tha
+how they know what. chi icren ge AW the pes
+community should mitig ve cag v
+

@@ -1,0 +1,25 @@
+DEARVR
+
+DEARRE/S
+
+OZ) SENNHEISER AmB.
+
+POSITION HRTF > dearvR ri
+
+ELEVATION
+44°
+
+DOWN
+
+REFLECTIONS
+
+OFF oe
+
+LEVEL SIZE ROOM
+‘a > Drapes
+
+METER
+100
+
+hello from dear reality
+

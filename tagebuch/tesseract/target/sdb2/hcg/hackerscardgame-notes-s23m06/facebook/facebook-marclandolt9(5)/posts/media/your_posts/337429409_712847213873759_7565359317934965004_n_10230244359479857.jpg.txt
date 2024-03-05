@@ -1,0 +1,8 @@
+Dendriten | Aktivierungsfunktion
+mit Synapsen Aw
+
+~# wias
+
+an
+
+Abb, 1: Links; Nervenzelle (Neuron), Rechts: kUnstliches Neuron (Perzeptron). Quelle: Nina Schaaf

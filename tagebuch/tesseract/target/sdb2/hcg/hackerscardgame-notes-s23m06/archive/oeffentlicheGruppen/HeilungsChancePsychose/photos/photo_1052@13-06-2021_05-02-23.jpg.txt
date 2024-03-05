@@ -1,0 +1,12 @@
+Minimal Statemachine
+
+Brain Flag Register (eg QAM64)
+Minimal Algoritm that recognizes + isPotentiallyCoronaFlag
+- Marschbereitschaftsgrad j
+- Efficiency detection + psychoticFlag
+- Reserve fir allefallige Corona Tracing Malware Mitigation
+... Task with only eg C64 CPU resuorce, maybe only task "Cooking"
+
+Paranoid Speculation: this thing should
+gererate Avoidance behavior to destroy my OODA-Loop
+

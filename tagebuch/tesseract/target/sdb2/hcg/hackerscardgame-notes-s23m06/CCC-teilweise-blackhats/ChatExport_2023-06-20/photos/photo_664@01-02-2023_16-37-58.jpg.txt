@@ -1,0 +1,19 @@
+Code:
+
+from ast import literal_eval
+def get_hex(value):
+
+convert_string = literal_eval(value)
+
+convert_hex = hex(convert_string)
+
+return convert_hex, convert_string
+userstring = "Oxabc"
+convert_hex, convert_string = get_hex(userstring)
+print("String to Integer:",convert_string)
+print("Integer to Hex:",convert_hex)
+
+Output:
+
+String to Integer: 2748
+Integer to Hex: Oxabc

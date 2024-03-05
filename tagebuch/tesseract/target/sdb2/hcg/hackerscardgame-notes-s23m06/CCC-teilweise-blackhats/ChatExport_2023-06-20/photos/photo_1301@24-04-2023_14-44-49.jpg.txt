@@ -1,0 +1,65 @@
+i
+
+fandwene Jeimen) |al tog lmuch) Compared
+tel wilh
+
+Nl i iia A
+
+lip H i ea
+
+faved i)
+inal functions are provided For! the actual! delay algorithms,
+Hal
+
+Delay loop using an B4bit) Counter \d | eduht, /so up| to 256
+iterations are possible,
+
+(The value) 256 would have to be passed
+a5 0.)
+
+The Loop Executes three CPU cycles per iteration, not
+
+including the! overhead the compiler heeds to setup the counter
+fepister|
+
+Thus, |at a CPU speed of 1 pHt,| Heloys| of up to 768 microseconds
+ean be achieved)
++)
+
+vad
+
+delay loop A(uints t |_count)
+
+<0" “\n\t"
+(count)
+Fount)
+
+7** \ingroup util, delay basic
+
+Delay loop using a 16-bit counter \c count, so up to 65536
+iterations are possible. | (the value 65536 would have to be
+Passed 95 ©.) The logp executes four CPU cycles per iteration,
+net including the overhead the compiler requires to setup the
+counter register pair.
+
+Thus, at a CPU speed oF 4/Mz, delays of up to about 262,1
+milliseconds can’ be achieved,
+
+Z
+void
+
+lelay loop 2(uintie_t __ count)
+
+volatile (
+
+sbiw 0,1" “\n\e*
+“Bene ab"
+} ew" (_eount)
+2 7" ( “count)
+
+bi
+
+Hoey i
+
+aes
+

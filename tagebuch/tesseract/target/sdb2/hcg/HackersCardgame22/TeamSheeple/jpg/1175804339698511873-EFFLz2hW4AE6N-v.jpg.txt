@@ -1,0 +1,53 @@
+Activities ©) Terminal + Sep 22 18:09 & eee
+
+Jetc/pan.d/conmon-auth ~ authentication settings connon to all services
+
+This flle ts tncluded fron other service-spectftc PAN config flies
+
+(eg. /etc/shadon, LOAP, Kerberos, etc.). The default ts to use the Qa Terminal
+
+traditional Unix authentication nechantsns Loreena
+{sudo} password for marc:
+sorry, try again.
+
+{sudo} password for marc:
+
+As of pan 1.0.3-6, thts fle 4s managed by pan-auth-update by default
+0 take advantage of this, tt ts reconnended that you configure any
+
+z Sorry, try agatn:
+{sudo} password for marc:
+
+sudo: 3'Incorrect password attenpts
+areedegtan:-§ Ml
+
+pan-auth-update(s) for details.
+
+Je here are the per-package nodules (the “Prinary” block)
+[succesta1 default=tgnore) ints.so nuttok_secure
+Fequistte pan blue. so
+1s the fallback 4f no nodule succeeds
+requisite
+AS avotds us returning an error just because nothing sets a success code
+fe since the nodules above wilt each Just Jump around
+auth required -
+fe end of pan-auth-update contig
+
+‘connon-auth” 271, 1302¢ written 18, au
+
+fv¥} Device oc:a2:66:08:80:A8 KO-4axFB096
+ue scan off
+iscovery stopped
+‘Controller. 94:88:60:C4:00:64 Dtscovertng: no
+device 166:08:60:A8 RSSI (5 ntl
+Device 70:9F:09:5B TxPower Us ntl
+Device 70:9F 209358 RSSE 1s ntl
+Device C1:e9:8A:90 ASST 45 atl
+device 29:6C:98:5A RSSI (5 ntl
+Device OF:2c:41:78 RSSK As ntl
+Device 09:60:71356 RSSK ts ntl
+bt ta Device 7F:69:8:02 RSI 1s ntl
+87:8¢:50:88:82:09
+82:09 not avatlable
+
+‘by wing or sto, you scknoede tht you nave ea and undertnd o Conkl Poy, Pay Ply and ou Tems ct Seve X

@@ -1,0 +1,25 @@
+2
+bd
+te
+X
+
+// NETZWERK EUROPAISCHER ERDGASPIPELINES
+
+Existierende Annahme-Terminals fiir LNG [Liquefied
+Natural Gas bzw. verfliissigtes Erdgas] in GRUN
+
+Geplante Annahme-Terminals fir LNG in VIOLETT
+Erdgas-Verfliissigungsanlagen in ORANGE
+Existierende Pipelines in SCHWARZ
+
+Geplante Pipelines gestrichelt in BLAU
+Namen ausgewahlter Pipelines in ROT
+
+Ab 2020* eingemottete Transitrouten
+durch die Ukraine in PINK
+
+Erdgasfelder in 6&9
+Erdgasfelder ausserhalb
+
+der Karte liefern Erdgas in
+Richtung der GRAUEN Pfeile

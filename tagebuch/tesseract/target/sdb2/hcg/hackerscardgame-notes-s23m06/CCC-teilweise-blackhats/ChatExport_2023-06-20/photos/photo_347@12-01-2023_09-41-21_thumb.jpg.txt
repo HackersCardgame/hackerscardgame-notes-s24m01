@@ -1,0 +1,31 @@
+zeyassh@dvi4:~$ rdfind ~/Docunents
+Now scanning “/hone/zeyassh/Oocunents™, found 6 files.
+Now have 6 files in total
+
+Renoved @ files due to nonunique device and inode.
+
+Now renoving files with zero size fron list...renoved 1 files
+Total size is 35 bytes or 35 8
+
+Now sorting on size:renoved 1 files
+Now eliminating candidates based on
+t
+
+Now eliminating candidates based on
+
+flow eliminating candidates based on
+ft
+
+Tt seems Like you have 4 files that
+Totally, 8 B can be reduced.
+
+Now making results file results.txt
+‘zeyasshedvid:
+
+dye to unique sizes from List.4 files left
+first bytes:renoved @ files from list.4 files lef
+
+last bytes:renoved © files from list.4 files left
+ind5 checksum:renoved 0 files from List.4 files le
+
+are not unique

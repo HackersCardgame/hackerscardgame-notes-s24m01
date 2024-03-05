@@ -1,0 +1,37 @@
+nn Tempest Attacks,
+, Betriebsystem, Brows
+
+ware (CPU, INTEL ME)
+yserPl f
+
+viel ressourcen
+ck(player) {
+leMoves (-player
+
+in der ob
+
+mehreren Orten gleichzeitig
+
+langsam Horizontalen, Ve
+
+n,Kreise, na inks: und
+
+jetzt ganz fie schnell oder fuchtetn
+
+<moves. length;
+es[i] [1] [0] *8+m
+i [rest]
+
+hm that does th;
+(depth, player,
+
+r) instances=0;
++=1;
+
+[[0,0],[0,0]];
+evaluate
+uffle(possiblem Cee
+
+-1000000*player
+i < moves. leng
+

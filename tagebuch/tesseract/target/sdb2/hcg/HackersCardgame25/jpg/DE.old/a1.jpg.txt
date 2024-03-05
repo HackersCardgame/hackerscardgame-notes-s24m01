@@ -1,0 +1,21 @@
+€) NORMAL-UERTEILUNG
+
+Hochbegabung
+
+2,2%
+
+Erfinder Car! Friedrich Gau& Jahr ~1801
+
+Hier am Beispiel der Verteilung der Intelligenz in
+der Gesellschaft, aber man k6nnte auch die
+Grésse von Menschen nehmen, oder z.B. die
+Anzahl von Haushalten mit KUchen-Mixer... aber
+da musste man dann rausfinden, ob es wirklich
+normalverteilt ist
+
+Anwendungsfalle
+
+Statistik, Plausibilitaten von z.B. Aussagen
+abschatzen, oder z.B. den _ wahrscheinlichsten
+Aufenthaltsort von Personen berechnen
+

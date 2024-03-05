@@ -1,0 +1,6 @@
+Trivia Boareten| Quien bearotan|
+In Anspleung aut cle Robotergesetze nach Asimov enthat dle robots it von last.m dese Zellen 1
+Disallow: /harming/humans
+
+Disallow: ignoring’humanvorders
+Disallow: inamvio/selt

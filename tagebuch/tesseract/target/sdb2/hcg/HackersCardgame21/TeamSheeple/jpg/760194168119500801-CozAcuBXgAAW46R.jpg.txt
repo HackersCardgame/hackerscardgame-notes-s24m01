@@ -1,0 +1,15 @@
+Bill & costs A
+BSC;BAC:1631306 June 2016 $264.60 (payable by 28.07.2016)
+BSC:BAC:1631306 March 2016 =ioses (contract cancelled on
+21.06.2016)
+BSC:BAC:1631306 January 2016 $124.00 (contract cancelled on
+21.06.2016)
+BSC:BAC:1631306 February 2016 104.00 (contract cancelled on
+21.06.2016)
+BSC:BAC:1631306 December 2015 104.00 (contract cancelled on
+21.06.2016)
+062 82261 31 April 2016 $46.45 (due since 30.05.2016) > Extend payment
+deadline
+062 82261 31 June 2016 £46.35 {payable by 28.07.2016)
+BSC:BAC:1631306 May 2016 $3.35 (due since 29.06.2016)
+

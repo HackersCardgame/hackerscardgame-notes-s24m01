@@ -1,0 +1,47 @@
+und welche Library benstigt man dafiir?
+
+Um Threading in Microchip Studio zu verwenden, bendtigt man eine sogenannte "Real-Time © © P
+
+Operating System (RTOS)"-Library. Microchip bietet selbst eine RTOS-Library namens
+"Microchip MPLAB Harmony’ an, die speziell far ihre Mikrocontroller optimiert ist. Eine
+Alternative ist die "FreeRTOS"-Library, die eine weit verbreitete und bewahrte RTOS-Losung
+ist und auch von Microchip Studio unterstiitzt wird.
+
+In meinem Beispiel habe ich die FreeRTOS-Library verwendet. Um diese Library in Microchip
+
+Studio zu verwenden, miissen folgende Schritte durchgefahrt werden:
+
+Offne Microchip Studio und erstelle ein neues Projekt fir deinen Mikrocontroller.
+
+2. Gehe auf das "Pack Manager"-Tab und suche nach der FreeRTOS-Library. Wenn die
+Library nicht installiert ist, kann sie von hier aus installiert werden.
+
+3. Fiige die FreeRTOS-Library zu deinem Projekt hinzu. Klicke dazu mit der rechten
+Maustaste auf dein Projekt im Solution Explorer und wahle "Add Existing Item". Navigiere
+dann zum Installationsordner der FreeRTOS-Library (StandardmaBig ist dies "C:\Users
+\Username\Documents\Microchip\Studio\7.0\Packs\microchip\FreeRTOS\10.34
+\library”) und wahle die Datei "FreeRTOS.h". Dadurch werden automatisch auch alle
+anderen bendtigten Dateien hinzugefiigt.
+
+4. Fiige den *port.c’-Datei hinzu. Klicke dazu mit der rechten Maustaste auf das "Source
+Files"Verzeichnis in deinem Projekt und wahle "Add Existing Item". Navigiere dann zum
+Ordner "FreeRTOS\Source\portable\MPLAB\PIC32MX" und wahle die Datei "port.c’.
+Dadurch wird der Port fiir deinen Mikrocontroller hinzugefiigt.
+
+5. Konfiguriere dein Projekt, um die FreeRTOS-Library zu verwenden. Offne dazu die Datei
+"FreeRTOSConfig.h",
+
+kannst du verschiedene Einstellungen fir FreeRTOS vornehmen, wie z.B. die Anzahl der
+
+jie automatisch beim Hinzufiigen der Library erstellt wurde. Hier
+
+verfiigbaren Tasks oder die GréBe des Task-Stacks.
+
+Sobald die FreeRTOS-Library zu deinem Projekt hinzugefiigt wurde, kannst du Threading-
+Funktionen wie “xTaskCreate()” oder “vTaskDelay()~ verwenden, um Tasks zu erstellen
+
+und den Scheduler zu steuern.
+
+Regenerate response
+
+50%

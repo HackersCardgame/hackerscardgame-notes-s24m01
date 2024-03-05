@@ -1,0 +1,76 @@
+mn
+
+a2) United States Patent
+
+Loos
+
+(54) REMOTE MAGNETIC MANIPULATION OF
+NERVOUS SYSTEMS
+
+(76) Inventor: Hendricus G, Loos, 3019 Cresta Way,
+Laguna Beach, CA (US) 92651
+
+(*) Notice. Subject to any disclaimer, the term of this
+patent is extended or adjusted under 35
+U.S.C. 154(b) by 0 days.
+
+(21) Appl. No; 09/371,289
+
+(22) Filed: Aug. 10, 1999
+
+Related U.S. Application Data
+63) Continuation-in-part of application No. 08/486,918, filed on
+Jun. 7, 1995, now Pat. No. 5,935,054,
+
+a) antl.” .. AGIN 2/00
+52) U.S. Cl. -- 600/9
+58) Field of Search . 600/9-15
+56) References Cited
+
+U.S. PATENT DOCUMENTS.
+3,678,337 7/1972 Grauvogel
+4,197,851 4/1980 Fellus ..
+
+4,537,181 *
+4,611,599
+
+8/1985 Shalhoob et al.
+9/1986 Bentall .....
+
+IA 0 A A
+
+US 6,238,333 BL
+May 29, 2001
+
+(0) Patent No.:
+(45) Date of Patent:
+
+4,127,857 * 3/1988 Hort 6009
+5,667,409 * 9/1997 Zhang et al 600/9
+6,001,055 * 12/1999 Souder 60/9
+
+OTHER PUBLICATIONS
+
+P, Lindemann, The Megabrain Report, vol. 1, #2, p. 34~35
+(1990)
+P, Limdemann, The Megabrain Report, vol. 1, #1, p. 30-31
+(1990)
+
+* cited by examiner
+Primary Examiner—John P. Lacyk
+(57) ABSTRACT
+
+Apparatus and method for remote manipulation of nervous
+systems by the magnetic dipole field of a rotating bar
+magnet. Reliance on modulation of spontaneous spiking
+patterns of sensory nerve receptors, and exploitation of a
+resonance mechanism of certain neural circuits, allows the
+use of very weak magnetic fields. This, together with the
+large magnetic moments that can be obtained with a per-
+manent bar magnet, makes it possible to effectively manipu-
+late the nervous system of a subject over a distance of
+several hundred meters, using a small portable battery-
+powered device. The method can be used in law enforce-
+ment for standoff situations.
+
+8 Claims, 3 Drawing Sheets

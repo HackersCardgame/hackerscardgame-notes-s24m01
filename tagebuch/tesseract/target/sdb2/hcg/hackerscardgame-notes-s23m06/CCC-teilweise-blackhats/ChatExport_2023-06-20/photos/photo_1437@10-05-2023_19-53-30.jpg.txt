@@ -1,0 +1,42 @@
+/dev/sab2 615990400 10240 16159001690 44 /media/pi1/Votume
+pi@mainframe:~ $ sudo umount /dev/sdb*
+
+umount: /dev/sdb: not mounted.
+
+umount: /dev/sdb1: not mounted.
+
+pi@mainframe:~ $ smartctl -A /dev/sdb
+
+smartetl 7.3 2022-02-28 r5338 [aarch64-linux-6.1.25-v8+] (local build)
+
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+Smartetl open device: /dev/sdb [SAT] failed: Permission denied
+
+pi@mainframe:~ $ sudo !
+
+sudo smartctl -A /dev/sdb
+
+smartctl 7.3 2022-02-28 r5338 [aarché4-linux-6.1.25-v8+] (local build)
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+Read Device Identity failed: scsi error unsupported field in scsi command
+
+If this is a USB connected device, look at the various --device=TYPE variants
+
+A mandatory SMART command failed: exiting. To continue, add one or more '-T permissive’ options.
+pi@mainframe:~ $ sudo smartctl -T permissive -A /dev/sdb
+
+smartctl 7.3 2022-02-28 r5338 [aarché64-linux-6.1.25-v8+] (local build)
+
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+Read Device Identity failed: scsi error unsupported field in scsi command
+
+If this is a USB connected device, look at the various --device=TYPE variants
+SMART support is: Ambiguous - ATA IDENTIFY DEVICE words 82-83 don't show if SMART supported.
+SMART support is: Ambiguous - ATA IDENTIFY DEVICE words 85-87 don't show if SMART is enabled.
+
+A mandatory SMART command failed: exiting. To continue, add one or more '-T permissive’ options.
+pi@mainframe:~ $
+

@@ -1,0 +1,56 @@
+Google Patents
+
+fo}
+
+Hearing system
+
+Abstract
+
+US4877027.
+
+‘Sound is induced in the head of a person by radiating the head with microwaves in the range of 100
+‘megahertz to 10,000 megahertz that are modulated with a particular waveform. The waveform consists
+of frequency modulated bursts. Each burstis made up of ten to twenty uniformly spaced pulses grouped
+tightly together. The burst width is between 500 nanoseconds and 100 microseconds. The pulse width is
+inthe range of 10 nanoseconds to 1 microsecond, The bursts are frequency modulated by the audio input
+to create the sensation of hearing in the person whose head is irradiated. inients We Oainlnt
+
+Original Assignee: Srunkan Wayne 8
+
+Images (1) Priority date: 1969-06-06
+
+Family: US (1)
+re Date ‘App/Pub Number Status
+1988-06-06 _US07202679 Expired -
+Lifetime
+1989-1031 us48770270 Grant
+
+Classifications
+
+Info: Patent citations (2), Non-patent citations (8), Cited by (5),
+
+‘AG1F11/04 Devices or methods enabling ear patients to replace direct auditory perception by iil ati: SiVai toluene iory fd Heed:
+
+another kind of perception pies
+External inks: USPTO, USPTO Assignment, Espacenet, Global
+Dossier, Discuss
+
+Description Claims (8)
+
+This invention relates to @ hearing system for human beings in which high frequency tela:
+
+electromagnetic energy is projected through the airto the head of a human being and
+
+the electromagnetic energy is modulated to create signals that can be discemed by the “1 Appeal for. Eemaning sinker Heating Connpatetng:
+
+Teron being teverctess of tre ering Oy ste pereon {@) an audio source for creating electrical audio waves having positive peaks;
+
+THE PRIOR ART (©) frequency modulator generator connected to the audio source to create
+
+Various types of apparatus and modes of application have been proposed and tried to frequency modulated bursts;
+Inject inteligible sounds into the heads of human beings. Some of these have been
+devised to simulate speech and other sounds in deaf persons and other systems have
+pea eR RE pene re eC DIOR SPER ERE E UN eee CO
+
+(©) a source of constant voltage to create a voltage standard that is inthe range
+of 25% to 85% of the peak voltage of the audio waves;

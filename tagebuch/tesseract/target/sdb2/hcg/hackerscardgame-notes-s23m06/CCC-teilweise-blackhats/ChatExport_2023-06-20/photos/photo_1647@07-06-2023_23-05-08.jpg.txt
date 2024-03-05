@@ -1,0 +1,30 @@
+tiirmchenbauer tom
+give me another loop that list's file
+
+Sure, here is another loop that will list all the files in the current
+directory:
+
+for file in ; do
+echo "$file"
+done
+
+This will iterate over all the files in the current directory and print
+their names.
+
+Here is an explanation of what the code is doing:
+
+The for keyword tells the shell to start a loop.
+The file in  parttells the shell to iterate over all the files in the
+current directory.
+
+The do keyword tells the shell to execute the commands inside the
+loop.
+
+The echo "$file" part tells the shell to print the name of the
+current file.
+
+The done keyword tells the shell to end the loop.
+
+I hope this helps! Let me know if you have any other questions.
+22:58
+

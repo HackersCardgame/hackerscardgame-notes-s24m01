@@ -1,0 +1,34 @@
+Pat.: Landolt Marc Geb.Dat.: 17.06.1978, M
+
+Fall-Nr.: 351381
+
+Auswahl BROESET Einschatzung des Gewaltrisikos
+angelegt zum 18.01.2020 07:44 —angelegt vor
+Zeitpunkt © bei Eintritt @ Folgeerfassung © bei Verlegung
+© bei Austritt
+
+BROESET Einschatzung des Gewaltrisikos
+Verwirrt
+
+@0 O14
+Reizbar
+
+@o0 o14
+
+Larmig
+
+@0 o1
+Kérperliches Drohen
+
+@o0 o14
+Verbales Drohen
+
+@o O14
+Angriff auf Gegenstande
+
+@o0 o14
+Subjektive Risikoeinschatzung
+
+@o0 Oo o2 o3 o4 os o6
+
+Bewertung Sehr geringes Risiko Summe

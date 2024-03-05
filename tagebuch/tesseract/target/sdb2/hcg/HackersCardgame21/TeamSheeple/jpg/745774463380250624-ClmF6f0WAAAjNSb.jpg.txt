@@ -1,0 +1,6 @@
+Copying 864 files to “fb”
+(x)
+
+460 / 864 — 3 minutes left (90.2 kB/sec)
+
+Copied 939 files to “public_htmi”

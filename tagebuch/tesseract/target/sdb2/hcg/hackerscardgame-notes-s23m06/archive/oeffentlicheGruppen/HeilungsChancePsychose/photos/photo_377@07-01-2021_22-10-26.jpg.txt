@@ -1,0 +1,38 @@
+/etinginterpreters.com/ Bor
+
+running it. Before we get to that, let's get more precise about what tokens are
+
+Lexemes and Tokens 42
+
+Here's a line of Lox code:
+
+Here, var is the keyword for declaring a variable. That three-character
+sequence "v-a-r" means something. But if we yank three letters out of the
+middle of 1s like “g-u-0, those don't mean anything on their own
+
+‘That's what lexical analysis is about. Our job is to scan through the list of
+characters and group them together into the smallest sequences that still
+represent something, Each of these blobs of characters is called a lexeme. In
+that example line of code, the lexemes are
+
+Cenaveee] E] i)
+
+The exemes are only the raw substrings ofthe source code. However, in the
+
+process of grouping character sequences into lexemes, we also stumble upon
+some other useful information. When we take the lexeme and bundle it together
+with that other data, the result isa token, It includes useful stuff ik:
+
+Token type
+
+Keywords are part of the shape ofthe language's grammar, so the parser often
+hhas code like, “Ifthe next token is wht Le then do..." That means the parser
+‘wants to know not ust that it has alexeme for some identifier, but that it has a
+reserved word, and whick keyword itis,
+
+The parser could categorize tokens from the raw lexeme by comparing the Alte al string comparison ends up looking
+
+strings but tats slow and kind of uly Instead, atthe point that we recognizes indviual characters an tha the
+
+lexeme, we also remember which kind of lexeme it represents. We have a
+

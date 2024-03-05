@@ -1,0 +1,13 @@
+Flash new firmware image
+
+Upload a sysupgrade-compatible image here to replace the running firmware. Check "Keep settings" to retain the current
+configuration (requires a compatible firmware image).
+
+Keep settings:
+
+Image: | Browse... | openwrt-22.03.3-bcm27xx-bem2710-rpi-3-ext4-sysupgrade.img
+
+The uploaded image file does not contain a Supported format. Make sure that you choose the generic image format for your
+platform.
+
+Powered by LuCl openwrt-18.06 branch (git-20.356.64372-1259bb1) / OpenWrt 18.06.4 r7808-ef686b7292

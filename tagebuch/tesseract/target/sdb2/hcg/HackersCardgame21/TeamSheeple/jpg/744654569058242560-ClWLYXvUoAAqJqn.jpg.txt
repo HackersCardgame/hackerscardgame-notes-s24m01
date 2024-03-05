@@ -1,0 +1,40 @@
+marc@debian:~$ whois baronvonrenteln.com
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://ww. internic.net
+for detailed information
+
+Domain Name: BARONVONRENTELN. COM
+Registrar: WILD WEST DOMAINS, LLC
+
+Sponsoring Registrar IANA ID: 440
+
+Whois Server: whois.wildwestdomains.com
+
+Referral URL: http: //www.wildwestdomains.com
+
+Name Server: NS1.WORDPRESS COM
+
+Name Server: NS2.WORDPRESS.COM
+
+Status: clientDeleteProhibited https: //icann.org/epp#clientDeleteP rohibited
+Status: clientRenewProhibited https: //icann.org/epp#cLientRenewProhibited
+Status: clientTransferProhibited https: //icann.org/epp#clientTransferProhibited
+Status: clientUpdateProhibited https: //icann.org/epp#clientUpdateP rohibited
+Updated Date: 01-may-2015
+
+Creation Date: 03-may-2013
+
+Expiration Date: 03-may-2017
+
+>>> Last update of whois database: Sun, 19 Jun 2016 22:05:44 GMT <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration

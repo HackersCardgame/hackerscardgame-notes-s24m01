@@ -1,0 +1,8 @@
+by the Wind Energy Center at the University of Massachusetts, Mechanical and Industrial Engineering.
+
+ComSC
+
+ComSC ® - The firmware for a MSP430 based full duplex terminal node controller supporting connectionless ARIZB.
+
+Froth Virtual Machine for MSP430
+

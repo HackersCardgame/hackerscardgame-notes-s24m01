@@ -1,0 +1,24 @@
+Positionen JICIAG
+
+Alle Rubriken Aktien Derivate
+Name? + Bestand Kaufkurs Akt. Kurs J %heute 4 %gesamt —Kurszeit
+IsINL Verfiigbar J Kaufwert J Akt.Wert +/-heute —+/- gesamt_—_Kursdatum
+BED BATH + BEYOND DL-,01 187 1,768 € 1,693 € 0,00 % -4,28% 21:59:51 ral
+USO758961009 * 187 330,68€  316,52€ 000€  -14,16€ 16.02.23
+Goldman Sachs OE Turbo OS 1.597 0,46 € 0,170 € 0,00% -63,04% 09:28:05 4g, | KY
+Rheinmetall 240.9 1597 734,62€  271,49€ 0,00€ -463,13€ 15.02.23
+DEOOOGKEKRW3 ¥
+HSBC OE-Turbo BYD Call 26.73 374 2,70 € 2,540 € 0,00 % 593% 21:59:23 (7
+DEOOOHG7VY96 s 374 1.009,80€  949,96€ 0,00€ -59,84€ 16.02.23
+HSBC OE-Turbo NEL ASA Call 1.45 8.398 0,257 € 0,200 € 0,00%  -22,23% 21:59:59 Pal
+DEOOOHG7VYF4 8.398 2.159,80€ 1.679,60€ 0,00€  -480,20€ 16.02.23
+HSBC OE-Turbo PayPal Call 72.42 2.404 0,643 € 0,440 € 0,00%  -31,61% 21:59:55 44) AY
+DEOOOHG7K2D7 * 2.404 1.54663€ 1.057,76€ 0,00€ -488,87€ 16.02.23
+HSBC OE-Turbo Philips Electronics Call 2.267 1,161 € 1,390 € 0,00 % 19,76% 21:59:58 « W
+14.68 2.267 2.631,12€ 3,151,139 € 0,00€  520,01€ 16.02.23
+DEOOOHG7U580 #
+SUMME 8.412,65€ 7.426,46 € 0,00% -11,72 %
+
+0,00€ -986,19€
+
+HE Ose gp O Be

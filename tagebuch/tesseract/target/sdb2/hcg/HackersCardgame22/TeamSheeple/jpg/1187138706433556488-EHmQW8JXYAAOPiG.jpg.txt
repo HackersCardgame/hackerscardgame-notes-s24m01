@@ -1,0 +1,85 @@
+mA marcland@s30: ~/www/marclandolt.ch/HackersCardgame3.  Q
+remarks: Registration information: http://www.verisigninc.com
+
+created: 1985-01-01
+changed: 2017-10-05
+source: TANA
+
+Domain Name: PRESSETEXT.COM
+
+Registry Domain ID: 2694323_DOMAIN_COM-VRSN
+
+Registrar WHOIS Server: whois.antagus.de
+
+Registrar URL: http://www.vautron.de
+
+Updated Date: 2018-12-09T08:06:13Z
+
+Creation Date: 1998-12-09T05:00:00Z
+
+Registry Expiry Date: 2019-12-08T05:00:00Z
+
+Registrar: Vautron Rechenzentrum AG
+
+Registrar IANA ID: 1443
+
+Registrar Abuse Contact Email:
+
+Registrar Abuse Contact Phone:
+
+Domain Status: ok https://icann.org/epp#ok
+
+Name Server: NS1.DE-NSERVER.DE
+
+Name Server: NS2.DE-NSERVER.DE
+
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2019-10-23122:47:30Z <<<
+
+Domain Name: pressetext.com
+
+Registry Domain ID: 2694323_DOMAIN_COM-VRSN
+
+Registrar WHOIS Server: whois.antagus.de
+
+Registrar URL: http://www.vautron.de
+
+Updated Date: 2018-12-10T04:41:10Z
+
+Creation Date: 1998-12-09T04:00:00Z
+
+Registrar Registration Expiration Date: 2019-12-08T00:00:00Z
+Registrar: Vautron Rechenzentrum AG
+
+Registrar IANA ID: 1443
+
+Registrar Abuse Contact Email: abuse@vautron.de
+
+Registrar Abuse Contact Phone: +49.9415990570
+
+Domain Status: ok
+
+Registrant Organizatior
+
+Registrant State/Province: Wien
+
+Registrant Country: AT
+
+Registrant Email: a26d982fid@domprivacy.de
+
+Admin Email: a26d982fid@domprivacy.de
+
+Tech Email: a26d982fid@domprivacy.de
+
+Name Server: ns2.de-nserver.de
+
+Name Server: nsi.de-nserver.de
+
+DNSSEC: unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2019-10-23122:47:33Z <<<
+
+[marcland@s30:~/www .. h/HackersCardgame3] master + ff

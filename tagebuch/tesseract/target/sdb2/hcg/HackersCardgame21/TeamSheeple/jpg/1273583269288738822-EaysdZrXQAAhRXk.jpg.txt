@@ -1,0 +1,74 @@
+© Firefox
+
+Totaitaer | Electonics an) | (362)ASi»\ | @U3VE)ASH: | CHackersCar | MFacebook | ED TweetDeck Z Terrordr | @ (397)Der | H Studemsch A 99451 |Z | StaicHauptse |W Home/ Tw) | @ (397)An a | w Eregn
+
+<o¢e
+
+9 ne
+i
+‘on ale
+‘i JZ
+
+WIKIPEDIA
+
+Die freie Enzyklopadie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+
+Neuen Artikel
+anlegen
+
+Autorenportal
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Datei hochladen
+
+reigns (Programmierung) - Wikipedia - Moz Firefox x
+
+w Ynooe Ow =
+
+a wiipeia.org Dv
+
+Sraildef M [gy Diskussion Einstellungen Beta Beobachtungsliste Beitrage Abmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelltext bearbeiten Versionsgeschichte Mehr v__ | Wikipedia durchsuchen Q
+
+Ereignis (Programmierung)
+
+Ein Ereignis (englisch event) dient in der Softwaretechnik - bei Entwicklung nach dem ereignisorientieren
+Programmierparadigma - zur Steuerung des Programmflusses. Das Programm wird nicht linear durchlaufen, sondern es
+werden spezielle Ereignisbehandlungsroutinen (engl. listener, observer, event handler) immer dann ausgefilhrt, wenn ein
+bestimmtes Ereignis auftritt. Ereignisorientierte Programmierung gehért zu den parallelen Programmiertechniken, hat also
+deren Vor- und Nachteile.
+
+Inhaltsverzeichnis [Verbergen]
+
+1 Motivation
+2 Ereignisorientierte Programmierung
+3 Verwendung
+4 Beispiele
+
+4.1 Beispiel zu MS Access
+
+4.2 Implementierung eines Ereignissystems
+5 Siehe auch
+6 Einzelnachweise
+
+Motivation [ Bearbeiten | Quelltext bearbeiten ]

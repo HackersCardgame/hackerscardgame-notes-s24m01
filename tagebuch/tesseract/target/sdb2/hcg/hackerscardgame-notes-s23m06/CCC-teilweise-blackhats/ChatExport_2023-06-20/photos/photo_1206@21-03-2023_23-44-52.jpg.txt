@@ -1,0 +1,37 @@
+EERE 2 Zur Suche Text hier eingeben
+
+difficult to label neatly. It has its own values and legends and folk heroes, partly overlapping with
+those of the Unix tradition and partly derived from other sources. It has most often been called the
+“hacker culture”, and since 1998 has largely coincided with what the computer trade press calls “the
+‘open source movement”.
+
+The relationships between the Unix tradition, the hacker culture, and the open-source movement
+are subtle and complex. They are not simplified by the fact that all three implicit cultures have
+frequently been expressed in the behaviors of the same human beings. But since 1990 the story of
+Unix is largely the story of how the open-source hackers changed the rules and seized the initiative
+from the old-line proprietary Unix vendors. Therefore, the other half of the history behind today’s
+Unix is the history of the hackers
+
+At Play in the Groves of Academe: 1961-1980
+
+The roots of the hacker culture can be traced back to 1961, the year MIT took delivery of its first
+PDP-1 minicomputer. The PDP-1 was one of the earliest interactive computers, and (unlike other
+machines) of the day was inexpensive enough that time on it did not have to be rigidly scheduled.
+It attracted a group of curioudlsiden the Tech Me ailfoad CHUB ho experimented with
+it ina spirit of fun. Hackers: Heroes of the Computer Revolution {Levy} entertainingly describes
+the early days of the club, Their most famous achievement was SPACEWAR, a game of dueling
+rocketships loosely inspired by the Lensman space operas of E.E. “Doc” Smith."*
+
+‘Several of the TMRC experimenters later went on to become core members of the MIT Artificial
+Intelligence Lab, which in the 1960s and 1970s became one of the world centers of cutting-edge
+computer science. They took some of TMRC’s slang and in-jokes with them, including a tradition
+of elaborate (but harmless)/pranikSiGalled"HEKST ©The Al Lab programmers appear to have been
+the first to describe themselves as “hackers”.
+
+After 1969 the MIT AI Lab was connected, via the early ARPANET, to other leading computer
+science research laboratories at Stanford, Bolt Beranek & Newman, Carnegie-Mellon University and
+elsewhere. Researchers and students got the first foretaste of the way fast network access abolishes
+‘geography, often making it easier to collaborate and form friendships with distant people
+
+than it would be to do likewise with colleagues closer-by but less connected,
+

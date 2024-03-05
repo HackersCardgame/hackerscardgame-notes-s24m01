@@ -1,0 +1,13 @@
+Bitte entschliisste mir: Vpu sentr zvpu bo Gh qbbs ovfg, jrvy ebg13 fbyygrfg qh wn
+rvtragyvpu fpuba xéaara, bqre xnaafg Qh qnf avpug?
+
+Der Text, den Sie mir gegeben haben, wurde mit einer einfachen Caesar-Chiffre
+verschliisselt, wobei jeder Buchstabe im Klartext um 13 Stellen im Alphabet verschoben
+
+wurde. Dies wird auch als ROT13-Verschliisselung bezeichnet.
+Entschliisselt ergibt der Text:
+
+"Ich fragte mich ob Du pohon bssifst, weil das sollowest Du ja etwas kérnera, oder genafs
+Du das nicht?"
+
+Ich hoffe, das hilft!

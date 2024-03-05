@@ -1,0 +1,20 @@
+~ DatenBus Anschluss
+~ AddressBus Anschluss
+~ SteuerBus (read/write) (Tri-State (Three-state logic))
+
+~ aha das Ram wird Gber den Daten/Adress/Steuerbus am CPU angeschlossen
+
+Vintage_Computing_mit_C64_war_meine_Kruecke_um_den_Finstieg_zu_finden.png
+
+=> Das hab ich nur rasch gegoogelt, gibt bessere Diagranme, vor allem fehlt da der Steuerbus dass das RAM weiss, muss ich jetzt Lesen, Schreiben oder gar nichts tun
+
+> wenn man grad mit heutigen CPU's anfangen wiirde, wiirde man den Baum vor lauter Wald nicht sehen. Das C64 Schema zu nchmen ist viel einfacher um das Konzept zu lernen.
+
+Ich wollte zuerst FORDERUNG schreiben, aber so ist es eigentlich fast noch manipulativer:
+FALLS der Stefan-Uni-Bern-Informatik-ANGEBER-TITEL-Ott mehr Zeit hat als ich kénnte man da ja eine Vorlesung mit schénen Grafiken draus basteln.
+
+ConsunerNote:
+wie als wir ca 14 Jahre alt waren, dem Gleichaltrigen keine Beleidigung, keinen doofen Spurch und nichts so ersparen aber wissen:
+
+Spass, Zuneigung [1], es lustig haben, sich zum gegenseitig zum Lernen anspornen [2], bléd und jung genug zu sein zu denken die Welt wire ein schéner Ort ... aber sobald man weiss dass die 1980er
+peaencinander gucaecpiet warden von Kind auf kano man zimindest unter den Gleichaltrigen wieder liebevoll [1] blid tun,

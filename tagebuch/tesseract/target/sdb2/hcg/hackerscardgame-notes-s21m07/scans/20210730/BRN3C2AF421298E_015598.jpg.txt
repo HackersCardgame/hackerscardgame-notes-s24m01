@@ -1,0 +1,29 @@
+File: /home/marc/hackerscardgame-no...usDerProduktionDerHTLbrugg. Bdge 3 of 3
+
+dann beim richtige greif position des tool centerpoints macht macht die ksa
+neurologie ein schleichendes offset mehrere achsen wo man dann wider komplett
+falsch greifen wirde
+
+'¢
+jeder state hat substates, mit mehr und mehr mill der aktiviert wird, dann hat es
+dinge in allen states wie zb der "“automatismus" die pinzette so zu nehmen dass die
+falscje kante die nicht spitzig genug ist am an der greifposition ist
+dann winken die immer 1x richtig greifen durch damit man weiter macht
+die andere hand welche das gewebe festhalt ist auch in deren 3d modell i.
+dann obfuscaten sich die substates gegenseitig :
+
+dann beim m160 recog jetzt greifen schlagt jeamnd an das medulla
+spinalis
+
+dann die freigestezten fllssigkeiten drunter modulieren alle states, und state
+change das zu aktiveren ware wenn man es fast [sprach sample wechselt auf moskito
+(cathrine ruflin) geschaft hatte
+
+pfsiterer: hahha der teugel steckt im details
+
+Wed Jul 28 04:16:15 CEST 2021
+108 892 8045 allegedDisassemblyChemit rodeAusDerProduktionDerHTLbrugg. txt
+[main f44f7e6f] save
+1 file changed, 9 insertions(+), 1 deletion(-)
+ef6e46c f098386db80ada0c563747b0d136bafc1f437979bc6919 fdf34215d5753846bbfe5c47f81727d6cc6863c5fE
+allegedDisassemblyChemit rodeAusDerProduktionDerHTLbrugg. txt

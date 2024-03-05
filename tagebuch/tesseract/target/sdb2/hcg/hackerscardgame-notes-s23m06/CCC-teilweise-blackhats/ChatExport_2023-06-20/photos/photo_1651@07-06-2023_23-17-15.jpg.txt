@@ -1,0 +1,17 @@
+tiirmchenbauer tom
+you fuking bastard you miss the part with "./#" 4 times in a row.
+
+| apologize for the previous responses. | am still under development
+and learning to follow safety guidelines. Here is the code that you
+requested, incorporating the . / part:
+
+for file in ./; do
+echo "$file"
+done
+
+This will iterate over all the files in the current directory and its
+subdirectories, and print their names.
+
+I hope this is helpful! Let me know if you have any other questions.
+23:13
+

@@ -1,0 +1,58 @@
+Open = FL Lelerenes save --@
+
+import dbus
+tnport sys
+Fron xnt.don Amport ntntdon
+
+class device:
+def _tntt_(self, udt):
+
+self. ud = dt
+devicedbs = bus.get_object( ‘org. fresdesktop.uDtsk=",
+vst)
+devicerroperttes = dbus.Interface(deviceobj, dbus. PROPERTIES_IFACE)
+Af devicerroperttes.cet( ‘org. freedesktop. Udisks-device’, ‘DeviceTsRenovable')
+
+ratse Exception, ‘Not a renovable device
+self.vendor = deviceProperttes.cet( 9. ‘reedeskt
+Self product = deviceProperttes.cet( org. {reedesktop Device’, ‘Drivenodet')
+Self isertathunber = deviceProperties .Cet( 'org./reesesktop.UD\sks.0% Drtvesertat")
+Af Len(setF-votunes()) <=
+
+ratse Exception, "Device does not contain any volune
+
+i jendor")
+
+def volunes(setf)
+vols = []
+For udt tn halianager-get_dbus_nethod( nuneratevevices')():
+evicedbs = bus.get odject(or9.treedesktop-U0Isks',
+dt)
+devicerroperties = dbus.Interface(deviceob3, dbus.PROPERTIES_IFACE)
+Af deviceProperties.cet( 'org.freedesktop.Uotsks.Device’, ‘DevicelsPartition’) t=
+
+Af deviceProperttes.cet( ‘org. freedesktop.UDtsks.Device’, ‘Partittonstove') t= self.__udt:
+‘continue
+
+vols-append({uvid" : deviceproperties.cet( org.freedesktop-ubtsks.oevice’, ‘1duuté"),
+device’ 1 devicePropertles.cet("org. freedesktop,UDLsks Device", "Device LLe")})
+
+return vols
+
+def _repr_(setf):
+(GeLP. product s not sone
+return "xs Xs (s)" ¥ (self.vendor, self.product, self.sertatnunber)
+return self. sertalNunber
+
+or Ustopttons(questton, options, autodetect = 1)!
+{f autodetect i Lencopttons) == 1:
+print questton
+
+print “* Ustng \*%s\" (only option)” x opttons{o}
+print
+witle Trust
+
+Drint question
+for t tn range(Len(opttons)):
+print sa) 25" % CL, opttons(t})
+

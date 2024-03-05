@@ -1,0 +1,43 @@
+Um diese Frage zu beantworten, miissen wir uns die Chemie von
+Natriumhydroxid (NaOH) und Kohlendioxid (C02) ansehen und
+die Menge an CO2 in der Atmosphare beriicksichtigen.
+
+Die chemische Reaktion zwischen Natriumhydroxid und
+
+Kohlendioxid sieht folgendermafen aus:
+2NaOH + CO2->Na2CO3 + H20
+
+Aus dieser Reaktion geht hervor, dass zwei Mole von
+Natriumhydroxid bendtigt werden, um ein Mole von Kohlendioxid
+
+zu binden.
+
+Die molare Masse von Natriumhydroxid betragt etwa 40
+Gramm/Mol, und die molare Masse von Kohlendioxid betragt
+etwa 44 Gramm/Mol. Daher sind etwa 80 Gramm
+Natriumhydroxid erforderlich, um 44 Gramm Kohlendioxid zu
+
+binden.
+
+Um den CO2-Gehalt der Atmosphare um 50 ppm (Teile pro
+Million) zu senken, miissen wir wissen, wie viel CO2 das
+
+reprasentiert.
+
+Die Masse der Atmosphare betragt etwa 5:15 x 1048 kg. Eine
+Anderung von 50 ppm waire daher 515 x 10“18 kg * 50 x 10-6 =
+2.575 x 1014 kg CO2.
+
+Da 80 Gramm Natriumhydroxid benstigt werden, um 44 Gramm
+Kohlendioxid zu binden, ware die Menge an Natriumhydroxid, die
+benotigt wird, um 2.575 x 1014 kg CO2 zu binden, (80/44) *
+2.575 x 1014 kg = 4.68 x 1014 kg Natriumhydroxid.
+
+Dies ist eine sehr groBe Menge an Natriumhydroxid. Zum
+Vergleich: Die gesamte jahrliche Produktion von
+Natriumhydroxid liegt im Bereich von 60 Millionen Tonnen, oder
+6 x 1010 kg. Daher wiirde es mehrere tausend Jahre dauern, um
+genug Natriumhydroxid zu produzieren, um den CO2-Gehalt der
+Atmosphare um 50 ppm zu senken, selbst wenn die gesamte
+
+Produktion darauf verwendet wiirde.

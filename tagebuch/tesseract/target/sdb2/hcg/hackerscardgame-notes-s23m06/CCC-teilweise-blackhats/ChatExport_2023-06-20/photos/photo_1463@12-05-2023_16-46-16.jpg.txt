@@ -1,0 +1,45 @@
+c Parted Magic (Linux —
+
+be eller Jeet badblocks -wvs -p 1 /dev/sda
+scking for bad blocks in read-write mode
+
+om block © to 4044974
+
+sting with pattern Oxaa: done
+
+ading and comparing: 4044972 done, 3:07:31 elapsed. (0/0/60 errors)
+44973
+
+144974
+
+ne
+
+esting with pattern OxSS: done
+
+eading and comparing: done
+
+esting with pattern Oxff: done
+
+eading and comparing: done
+
+‘esting with pattern Ox00: done
+
+Reading and comparing: done
+
+Pass completed, 3 bad blocks found. (3/0/0 errors)
+Checking for bad blocks in read-write mode
+
+From block © to 4044974
+
+Testing with pattern Oxaa: done
+Reading and comparing: done
+Testing with pattern OxSS: done
+Reading and comparing: done
+Testing with pattern Oxff: done
+Reading and comparing: done
+Testing with pattern 0x00: done
+Reading and comparing: done
+
+Pass completed, © bad blocks found. (3/0/0 errors)
+rootePartedMagi an |
+

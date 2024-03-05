@@ -1,0 +1,25 @@
+$ git push
+Username for “https: //github.com': hackerscardgame
+Password for “https: //hackerscardgame@github.com’ :
+Counting objects: 6, done.
+Delta compression using up to 12 threads.
+Compressing objects: 160% (4/4), done
+wiriting objects: 100% (6/6), 60.22 MiB | 3.17 MiB/s, done
+Total 6 (delta 1), reused @ (delta @)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object
+remote: warning: GH@@1: Large files detected. You may want to try Git Large File Storage - https://git-1fs.github.com
+remote: warning: See http://git.io/iept8g for more information
+remote: warning: File archive/twitter/202107/twitter-2021-07-3@-d1392464e060b58d59F5bb020419245b0F19F9ac f6c8551a7a41db8el
+lbabSeeS1.zip is 61.37 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+To https: //github.com/HackersCardgame/hackerscardgame-notes-s21m@8
+105c7@. .6fd8764 main -> main
+
+$ find . |grep gryf
+
+$ cd /mnt/c/Users/marc/
+$ find . |grep Hash-elbenwaldfestival---gryffindor
+find: ./AppData/Local/ElevatedDiagnostics’: Permission denied
+find: ©./AppDate/Local/Temp/msdtadmin?: Permission denied
+find: ©./AppData/Local/Temp/WinSAT?: Permission denied
+./AppData/Roaming/Microsoft/Windows/Recent /Hash-elbenwaldfestival ---gryffindor. Ink
+

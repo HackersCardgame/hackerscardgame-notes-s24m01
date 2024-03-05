@@ -1,0 +1,18 @@
+3:58 Glapsed. (361/0/0 errors)
+block 361
+
+ght, cleaning up
+
+cd ~|j# Ac
+
+ed ~1i# badblocks -wvs /dev/sda
+bad blocks in read-write mode
+to 4044974
+
+Pattern Oxaa: done
+
+eomparing: 4044972 done, 14:11:14 elapsed. (0/0/0 errors)
+© 14-11-15 Glapsed. (1/0/0 Grrors)
+
+nh pattern 0x55: Ws3 90% done. 14:54:16 elapsed. ¢(3/70/0 errors)
+

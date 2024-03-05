@@ -1,0 +1,25 @@
+syntheticBiology { Alogie Programming Language for Computational Nucleic Acid Devices > Qe
+SS
+
+a % ° x
+
+‘The predicate stats that if site Aloocurs athe end of a strand ands bound to a complementary sequence BA, then
+the end is ecended by the polymerase enzyme, which creates a complementary site 8 bound tothe template ona
+fresh bond We also alow the poimerase to displace domains aready bound othe template, to encode the behavior of
+the sand displacing polymerase used inthe toolbox
+polymerase (P,Q,A!i,B!j) :-
+P=C [Ali>] [Beis AA lay [Bbas
+Q=C [Ali B!5>] [B’!5 A’!a] [B].
+Similar tothe csplaces predicate, we define a recursive polymerases predicate that allows a maximal sequence of
+domain tobe extended by the polymerase ina single step, unl the end of the templates reached
+
+polymerases (P,R,A!i, [B#L]) 2- sams
+polymerase (P,Q,A!i,B!4), E =a
+
+polymerases (Q,R,B!j,L). ee ees
+polymerases (P,Q,A!i, [B]) :- 5 af
+polymerase (P,Q,A!i,B!j), y
+not polymerase(Q,_,_,_).
+
+‘The exonuclease enzyme of the toolbox degrades an unprotected single strand of DNA from the S' end, where the base
+

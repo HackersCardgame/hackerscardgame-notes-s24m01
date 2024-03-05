@@ -1,0 +1,66 @@
+Ping Result for IPv6: 2a02:aa10:237f:7610::23
+
+Connected To
+2a02:aa10:2376:7610::23
+2a02:aa10:237f:7610::23
+2a02:aa10:237f:7610::23
+2a02:aa10:2376:7610::23
+2a02:aa10:2376:7610::23
+Packet Summary
+
+Sent
+
+Latency Summary
+Min
+
+ane
+
+Response Time
+
+154 ms
+
+152 ms
+
+150 ms
+
+151 ms
+
+150 ms
+
+Received
+
+Max
+
+ea eines
+
+45
+
+45
+
+45
+
+45
+
+45
+
+Loss
+
+0%
+
+Avg
+
+eae wai:
+
+No of Bytes
+
+64
+
+64
+
+Time
+
+4005 ms
+
+StdDev
+
+Per

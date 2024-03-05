@@ -1,0 +1,12 @@
+$1: State 1 =
+Scapegoat 1
+
+S2: State 2 =
+Scapegoat 2
+$3: State 3 =
+Scapegoat 3
+S4: State 4 =
+Scapegoat 4
+D: State D =
+
+Deadlock (Contradiction)

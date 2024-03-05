@@ -1,0 +1,8 @@
+2s/4/*. jpg"
+
+source_path) :
+
+irn_data = S(file)
+SULTS_FILE, ",".join(map(str, return_d
+5, return_data, file)
+

@@ -1,0 +1,30 @@
+tarmenenbauer tom
+_gve me another loop that ist’s le
+
+‘Sure, here is another loop that wil stall the Mes in the current
+directory:
+
+for file in ; do
+echo "sfite”
+done
+
+“This wil terate over all the files inthe current directory and print
+their names.
+
+Here is an explanation of what the code Is doing:
+
+‘The Fo or tthe seo tart op
+The F.6partesthe sel to erate over alte les inte
+curen crecry.
+
+“Tes keyword es te shelio excite the conmandsnside the
+fie
+
+The sco. "SF" parts the sel tpi the nme othe
+carer ie.
+
+“hes keyword tls the saloon th op
+
+‘ hope this helps Let me know if you have any other questions,
+2258
+

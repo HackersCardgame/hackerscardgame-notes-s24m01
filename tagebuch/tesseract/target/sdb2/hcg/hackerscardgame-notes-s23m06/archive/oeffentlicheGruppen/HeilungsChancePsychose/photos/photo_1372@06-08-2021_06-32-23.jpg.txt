@@ -1,0 +1,26 @@
+Messtechnik zh see
+
+Engineering
+
+Angabe von Grossen mit Einheiten
+
+* Zwischen Zahlenwert und Einheit einer Grosse soll ein Leerschlag
+stehen:
+
+richtig R=10Ohm, R=10Q
+falsch R=100hm, R= 10Q
+
+Diese Regel gilt aber nicht fiir Prozent- oder Promilleangaben:
+richtig 1,2% oder 12%o
+falsch 1,2 % oder 12 %o
+
+* Einheiten sollen nicht zwischen eckigen Klammern gesetzt werden.
+
+richtig C= 967 nF
+falsch C= 967 [nF]
+
+Eckige Klammern sind eine praktische Kurzschreibweise, um die
+
+Einheit einer Grésse hervorzuheben: [R-/]= V (Volt).
+
+spma, 23. Aug. 2011 Studiengang ET - MT 216

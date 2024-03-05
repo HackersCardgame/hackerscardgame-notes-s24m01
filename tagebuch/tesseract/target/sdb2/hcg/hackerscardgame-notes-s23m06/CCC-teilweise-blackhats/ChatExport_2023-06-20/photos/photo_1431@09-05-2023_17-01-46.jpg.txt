@@ -1,0 +1,40 @@
+an ke eee Ee er Se
+
+* This will show the files in the root of the USB drive. Note that the firmware .lod file is shown.
+
+rootebox:zmnt/sabi Is
+
+No3.LOD autorun.sh
+EFI boot
+
+SeaChest Basics .110-Lin.txt TaLinwx.c32
+SeaChest Erase .003-Lin.txt 1a Limox.sys
+
+SeaChest_PowerChoice .004-Lin.txt readne.first.txt
+SeaChest ReadTests.063-Lin.txt seaf lashlin.txt
+SeaChest SMART 002-Lin.tict toe
+
+Systen Valune information
+
+12. Type “seaflashlin -i* and Enter. This will list the devices again. Note the drive path, Example: /dev/sg0 for the |
+
+Seagate Firmware Download Utility v0.4.6 Build Date: Oct 26 2015
+Copyright (c) 2014 Seagate Technology LLC, All Rights Reserved
+Thu Hay 4 13:51:25 2017
+
+ara deu/sg0 MM: STBOOODHOOS-2EH112 SN: Serial Nunber PU: DNOZ
+
+13. To flash the firmware, at the prompt type:
+
+* seaflashlin -d /dev/sg0 -f “firmware file name.lod” then Enter.
+
+Seagate Firnvare Dounload Utility v0.4.6 Build Date: Oct 26 2015
+Copyright (c) 2014 Seagate Technology LLC, All Rights Reserved
+
+Thu May 4 13:52:08 2017
+
+Flashing microcode file DNO3.loa to “aeu/sg0
+
+Microcode Dounload to /deu/sg® SUCCESSFUL
+
+The scan results will show you the old firmware version until the drive is power cycled, a restart will not work.

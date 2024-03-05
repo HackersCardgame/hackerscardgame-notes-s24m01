@@ -1,0 +1,71 @@
+Qualcomm Atheros QCASS6S /ARSSES Wireless Network Adopter (3h)
+
+oan as.z7,
+
+ualcomm atheros QCASSES / ARSSES Wireless Network Adapter
+ualcomm Atheros QCASSES / ARSSES Wireless Network Adapter
+
+san 627
+
+Incoming trafic on interface etho fava)
+WE Outgoing trafic on interface eth [avg]
+
+192.168.179.20: Traffic on interface ethO (3h)
+
+17.18 kbps
+44.97 Kbps
+
+a7 kbps
+S.3aKbps
+
+53.2kbps 283.
+52.51 Kbps 1295
+
+192.168.1793: Traffic on interface ethO (3h)
+
+last min
+
+708 p
+733 kep
+
+asakbps
+693Kbps
+
+361 Kbps
+
+Incoming traffic on interface etho avg)
+3aKbps
+
+Hi Outgoing traffic on interface etho (avg)
+
+500 Kbps
+200 Kbps
+100 Kbps
+
+bps
+
+osanaszr
+
+incoming traffic on interface ethO [avg]
+Outgoing trafic on interface eth [aval
+
+192.168.179.21: Traffic on interface ethO (3h)
+
+last min ag ma}
+17.67 Kbps 618Kbps 20.95 Kbps 48.08.
+66.74Kbps 7.22Kbps 43.77 Kbps 281.11
+
+79.10; Traffic on interface ethO (3h)
+
+25K
+
+192.168.179.2: LAN (3h)
+
+192.168.178.10: Traffic on interface ethO (3h)
+
+600 Kops
+400 Kbps
+200 Kops
+
+bps
+

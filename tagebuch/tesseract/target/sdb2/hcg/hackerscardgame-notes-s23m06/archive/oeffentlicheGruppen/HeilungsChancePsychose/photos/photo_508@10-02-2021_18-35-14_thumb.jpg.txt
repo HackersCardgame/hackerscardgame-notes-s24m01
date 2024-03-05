@@ -1,0 +1,27 @@
+Marc Jr LANdolt
+7 Min @
+
+Zwischenbericht #Armbian:
+
+Meiner Meinung nach hat es viele kleine Armbian Pinguine die Support brauchen kbnnten und
+alte Mongo-Pinguine die diese Kleineren Pinguine als Sundenbéicke und Schutzschilder
+‘missbrauchen méchten und um sich im Hintergrundrauschen der Kleinen zu verstecken und nicht
+‘50 ganz fair spielen (Euphemismus)
+
+Meiner Meinung nach sind die alten Mongo-Pinguine organisiert und mussten somit irgend eine
+KommunikationsPlattform oder ein Forum haben.
+
+ich schlage somit eine strategische #PinguRescueMission vor
+
+CC: #QAnon Anonymous Universitat Bem im spesifischen die #TuxPartel..
+
+da man ja nicht “red team” spielen darf schlage ich eine Art Patch vor, 28. das Debian Based
+Armbian nutzt die Debian Server bis auf den Kernel der Custom is, also kinnte man ja einfach
+‘einen Patch machen, und schauen ob man nicht doch einen Kernel direkt von Debian nehmen
+konnte...dann sind wir alles brave Pinguine die nur blue team machen.
+
+‘Achtung, das Anwenden istallenfalls “nur” mit Behavioral Sciences Malware vermint. aber das
+Debugging scheint dann doch mehrere solche Mongo-Pinguine auf der linken Seite zu aktivieren,
+
+dda wirde es mich nicht erstaunen wenn man AutistenHelm und allenfalls Medie-Pinguine haben
+sollte.

@@ -1,0 +1,9 @@
+Stil der
+Bedienelemente
+
+Symbolthema
+
+Mauszeiger
+GTK-Stil Hintergrundbild des Themas verwenden
+
+ Zuriicksetzen % SchlieBen | | / Anwenden

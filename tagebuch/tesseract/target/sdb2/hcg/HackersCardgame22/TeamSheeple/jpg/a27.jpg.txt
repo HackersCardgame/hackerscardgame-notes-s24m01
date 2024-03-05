@@ -1,0 +1,31 @@
+ArrayList al = new ArrayList (a.lLength);
+
+for (int i = 0; i < a.length; i++)
+al.add (a[i]);
+
+return al;
+
+}
+
+// Useful until java 1.5 -ghuang
+static public int[] toIntArray (ArrayList List)
+{
+
+int[] result = new int[list.size()];
+
+for (int i = 6; i < Llist.size();
+Number n=
+
+Inventor: xxxx Year! ~????
+
+would imply that they endanger kids by their
+own to have instruments of power and to
+distract or force those police officiers that did
+not sell their soul to satan not follow the
+traces that would send satan ($Shrink,
+$herFather,...) to prison. Unfortunately some
+of those kids die, m46.
+
+Mittaterschaft Mord fur Menschen wie
+$ihrVater die diese Karte "gebrauchen".
+

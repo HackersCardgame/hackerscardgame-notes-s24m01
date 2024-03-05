@@ -1,0 +1,32 @@
+[applause]
+
+Okay, so now we're going to get scary. So that's just the passive stuff. There exists another system that's called
+TURBINE, and we revealed about this system in the Spiege/ publication today as well. So if TURMOIL is deep
+packet inspection, then TURBINE is deep packet injection. And itis the system that combined together with the
+things — with TURMOIL and TURBINE you can create a platform which they have consolidated which they call
+QFIRE. QFIRE is essentially a way to programmatically look at things that flow across the internet that they see
+with TURMOIL and then using TURBINE they're able to actually inject packets to try to do attacks, and I'll describe
+some of those attacks in detail in a moment.
+
+But essentially the interesting thing about QFIRE also is that they have a thing that's called a diode. So if you have
+for example a large number of systems where you control them, you might say, “Hey, what are you doing on that
+backbone?” “Hey, what's going on with these systems?” And they could say, well, you know, we paid for access,
+we're doing this, its all legal, etcetera. QFIRE has this really neat little detail which is that they compromise other
+people's routers and then redirect through them so that they can beat the SSSRaIei.
+
+‘And how they do that is that they have a passive sensor that's nearby a thing that they can inject from, and when
+they see that thing sees a selector that is interesting to them or is doing a thing that they would like to tamper with
+in some way, then they take a packet, they encapsulate the packet, they send it to the diode, which might be your
+home router potentially, and then that home router decapsulates that packet and sends it out. And because that is
+very close to you, and let's say you're visiting Yahoo, then the Yahoo packet will not beat you. That is, they will not
+beat the NSA or GCHQ. So it's a race condition. And so they basically are able to control this whole system and
+then localize attacks in that process.
+
+So that's a pretty — pretty scary stuff, actually. And while itis a digital thing, | think it's important to understand that
+this is what Jefferson talked about when he talked about tyranny. This is turkey tyranny, and it's not that it's
+coming, i's actually here. It's just merely a question about whether or not they'll use it in a way that we think is a
+good way or not a good way.
+
+One of the scariest parts about this is that for this system or these sets of systems to exist, we have been kept
+
+on @

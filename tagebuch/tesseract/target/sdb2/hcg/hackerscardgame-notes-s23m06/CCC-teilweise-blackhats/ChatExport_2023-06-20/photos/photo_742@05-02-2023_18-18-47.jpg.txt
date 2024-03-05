@@ -1,0 +1,16 @@
+def process(testfile):
+img = cv2.imread(testfile)
+
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+#blurred = cv2.medianBlur(gray, 5) #cv2.bilateralFilter(gray,10,50,50)
+blurred = gray
+
+minDist = 30
+
+param1 = 70 #500
+
+param2 = 55 #200 #smaller value-> more false circles
+minRadius = 5
+
+maxRadius = 60 #10

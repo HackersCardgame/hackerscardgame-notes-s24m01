@@ -1,0 +1,19 @@
+Code:
+
+{rom ast import literal eval
+def get hex(value):
+
+‘convert string=tteral_evaivalue)
+
+‘convert_hex =hes(convert_string)
+
+‘return convert_hex, convert string
+userstring="Oxabe™
+convert hex, convert string = get_hex(userstring)
+print(String to integer: convert_string)
+print"integer to Hex” convert. hex)
+
+Output:
+
+String to Integer: 2748
+Integer to Hex: Oxabe

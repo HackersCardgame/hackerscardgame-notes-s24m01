@@ -1,0 +1,29 @@
+(4 Observer Pattern
+
+Subject
+Observer C ction
+
++updatel }
+
+pncreteObserverA ConcreteObserverB
+
++update( )
+
+Inventor: Erich Gamma, Richard Helm ...~1994
+The observer pattern (also called listener pattern) is
+a design pattern in software development. It belongs
+to the category of behavior patterns.
+
+Some people would like that the non techie people
+think that “observer pattern" means that all the IT
+and Computer Science People are doing illegal
+Surveillance and even work for the NSA / CIA. But in
+fact the term Observer Pattern has nothing to do
+with surveillance. But of course this desigr
+
+could also be abused in illegal surveillance. (The
+strange thing is that this colored part was deleted in
+my repo) So another way to isolate gifted computer
+science people from the people gifted in other
+things.
+

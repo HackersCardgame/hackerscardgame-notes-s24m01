@@ -1,0 +1,11 @@
+PowerDOG Reader 2
+Day Year
+
+B2_A2_S1
+
+21 23 25
+
+19
+18 20 22 24 26
+
+< > Current Month

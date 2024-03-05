@@ -1,0 +1,8 @@
+Manually install package
+
+The package docker docker-compose dockerd luci-app-dockerman is not
+
+available in any configured repository.
+
+Cancel
+

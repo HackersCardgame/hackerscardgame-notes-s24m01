@@ -1,0 +1,17 @@
+4 Modulatorische Neurostimulation - Epilepsie und Schmerz
+
+10mvl 0,15nA
+
+K*-Stréme KCNQ2*!*
+z.B. Iq RMP
+~ -80mV
+KCNQ(Iy) KcNQ2*!-
+RMP. ! 1oms —_saRMP
+-80mV t -80mV
+
+z.B. persistierende 20mV
+a Na*-Stréme b
+
+schneller
+Na*-Strom
+

@@ -1,0 +1,6 @@
+4 Modulatorische Neurostimulation - Epilepsie und Schmerz
+
+z.B. persistierende 20mV
+a Na*-Stréme b
+
+Simulationsartefakt Zeit [s]

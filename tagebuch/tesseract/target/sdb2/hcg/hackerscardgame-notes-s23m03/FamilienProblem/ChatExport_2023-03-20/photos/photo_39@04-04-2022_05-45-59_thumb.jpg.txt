@@ -1,0 +1,25 @@
+tem 6 Mtem 37 tem 40
+6 100 6
+
+a * a
+
+° ° °
+
+1 a 8 Te a
+02 os _> 02
+
+on 02 on
+
+o ° °
+
+Toe a 6 a Te 1 i 1 a et te oH we 6 Te
+Abbildung 23: Die Entwicklung von Item 6 (In Bezug auf meine personlichen Ziele erlebte ich
+
+‘mich heute als erfolgreich vs. erfolglos"), Item 37 (Ausprigung der ..Beschwer-
+den’) und Hem 40 (Heute habe ich mich meinen Problemen hilflos ausgeliefert
+gefihlt"), Darunter die Ausprigung der dynamischen Komplexitit dieser Items
+(Berechnung in einem Gleitfenster von 7 Messpunkten [= Tagen] Breit). Die bei
+den zusitzlichen Kurven im unteren Teil der Diagramme (hellblau) reprisentieren
+cin 95% (untere Linie) und ein 99% (obere Linie) Konfidenzintervall mit einem
+Gedtichtnishorizont von 21 Messpunkten.
+

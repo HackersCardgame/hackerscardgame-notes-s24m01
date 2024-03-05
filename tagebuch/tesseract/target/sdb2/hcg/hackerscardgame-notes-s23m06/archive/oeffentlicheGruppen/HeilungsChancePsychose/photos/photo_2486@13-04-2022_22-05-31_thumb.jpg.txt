@@ -1,0 +1,16 @@
+© Tweet
+
+& Mare-tandon
+
+Pramissen:
+1: ich bin im Fach Informatik richtig gut
+
+1p2: ich habe mich im Beruf immer sehr schnell
+eingearbeitet
+
+p3: langjahrige Mitarbeiter fahiten sich schlecht weil
+ich sie nach 6Monaten schon dberfligelt habe
+
+pl & p2& p3 => pa
+
+4: Verbrennt die mannl. Hexe ahm den Schizo

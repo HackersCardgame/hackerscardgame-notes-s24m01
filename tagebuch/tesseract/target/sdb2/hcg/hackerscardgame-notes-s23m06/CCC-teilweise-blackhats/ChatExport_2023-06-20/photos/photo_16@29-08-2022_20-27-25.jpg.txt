@@ -1,0 +1,29 @@
+Frequenz und Wellenlinge
+
+15 Gigahertz = 15000000000 Hertz
+
+15 Gigahertz = 1,998616386667 Wellenlange in Zentimeter
+
+Von: Nach:
+
+{as | (1998616386667
+ra ‘Welleniange in Megameter
+eae ‘Wellenlénge in Kilometer
+Rap ‘Wellenlénge in Hektometer
+cea ‘Wellenlénge in Dekameter
+e Wellenlénge in Meter
+esters ‘Wellenlénge in Dezimeter
+Pine ‘Wellenlange in Zentimeter
+
+Ein Gigahertz (GHz) ist ein dezimales Vielfaches der SI-__Ein Zentimeter (cm) ist ein dezimaler Bruchteil der SI-
+Einheit fur die Frequenz, Hertz, die als die Anzahl der Zyklen Einheit fur Wellenlange, dem Meter. Beispiel: Die Frequenzen
+pro Sekunde eines periodisch wiederkehrenden Phanomens —_ von Mikrowellen liegen ublicherweise zwischen 0,3 und 300
+definiert ist. Diese Einheit wird verwendet, um die Frequenz GHz (100 cm bis 1 mm). Ein Mikrowellenherd nutzt in der
+von Schall, mechanischen Vibrationen und Regel eine Frequenz von 2,45 Gigahertz (GHz) bzw. eine
+elektromagnetischer Strahlung (Funkwellen, Licht, Wellenlange von 12,2 Zentimetern.
+
+Gammastrahlen) 2u beschreiben. Beispiel: Die Frequenzen
+
+von Mikrowellen liegen ublicherweise zwischen 0,3 und 300
+
+GHz.

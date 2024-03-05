@@ -1,0 +1,2 @@
+marc@windoof:/mnt/e/heg$ cat /usr/share/dict/ngerman |grep -i dingo
+marc@windoof: /mnt/e/hcg$

@@ -1,0 +1,14 @@
+Oo xf
+
+e2¢e © B rp/gthudcom im Ot NnOSOw
+2. run git clone https://github.com/braindet/Stiebelitronkeader in the tolder /etc/zabbix/externalscripts r
+
+3. lazy variant: run chown -R zabbix.zabbix /etc/zabbix/externalscripts
+4, Copy getsh and get py to /etc/zabbix/externalscripts
+
+5, Set URL, Username and Password in get.py
+
+6. import the Template zbx_export_Heizung.xml with your zabbix interface
+
+7. Customize a screen for your Solution
+

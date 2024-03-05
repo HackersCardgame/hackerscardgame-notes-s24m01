@@ -1,0 +1,70 @@
+ma. %
+
+“af 9
+
+ats
+
+‘ce al
+m9
+
+WIKIPEDIA
+Die freie Enzyklopadie
+Hauptseite
+
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessem
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+Permanenter Link
+
+& Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Q
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte — Wikipedia durc
+
+Off-by-one-Error
+
+Ein Off-by-one-Error oder Off-by-one-Fehler (abgekiirzt OBOE; deutsch etwa Um-Eins-daneben-Fehler),|"] oder Plus-minus-eins-Syndrom!2]
+scherzhaft auch , da ahnlich klingend, oder +1-Problem, bezeichnet in der Informatik einen Programmierfehler, bei dem eine
+Zahlenangabe oder eine Anzahl ausgefuhrter Schritte um 1 zu grof oder zu klein ist. Zum Beispiel ist die Grofe eines Speicherblocks um 1
+falsch oder es wird in einem Puffer um einen Schritt zu weit in den Speicher geschrieben, wobei der Speicher eines anderen Puffers bzw. einer
+Variable Uberschrieben wird.!5]
+
+Inhaltsverzeichnis [Verbergen]
+1 Allgemeines
+
+2 Haufige Ursachen (Auswahl)
+3 Folgen
+
+4 Beispiele
+
+5 Weblinks
+
+6 Einzeinachweise
+
+Allgemeines [Bearbeiten | Quelitext bearbeiten |
+
+Off-by-one-Fehler ereignen sich oft im Umgang mit Datenfeldern, Arrays, Vektoren, Listen, Zeichenketten oder anderen indizierbaren
+
+Datentypen.
+

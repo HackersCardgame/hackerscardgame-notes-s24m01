@@ -1,0 +1,8 @@
+© QtWebEngine (if using Qt 5, 5.15.2 or newer), or
+
+© alternatively QtWebKit (5.212) - This is not recommended due to known security issues in QUAEBRIL you
+most likely want to use qutebrowser with the default QtWebEngine backend (based on Chromium) instead.
+Quoting the Qi WEBRHT releases page: [The latest QAWEBRIY release is based on [an] old WEBRE revision with
+
+known unpatched vulnerabilities. Please use it carefully and avoid visiting untrusted websites and using it for
+transmission of sensitive data.

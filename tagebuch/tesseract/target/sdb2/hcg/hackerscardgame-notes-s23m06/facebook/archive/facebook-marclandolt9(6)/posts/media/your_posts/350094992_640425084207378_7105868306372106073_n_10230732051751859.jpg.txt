@@ -1,0 +1,21 @@
+faquilon <= CT Modellname
+Image: 19/36
+
+c:40
+W:90
+
+LCh => vnoour-marc
+19780617 M
+
+ec:
+
+20210429,
+
+‘Acq Tm: 113631.950
+
+512x512
+
+700
+
+230
+

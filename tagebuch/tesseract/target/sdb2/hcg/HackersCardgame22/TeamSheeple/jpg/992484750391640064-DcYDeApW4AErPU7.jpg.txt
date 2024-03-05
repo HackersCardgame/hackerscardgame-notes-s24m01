@@ -1,0 +1,4 @@
++ www.hackerspace-aargau.ch: The SSL certificate could not be created. For further information please contact our support department 0844 04 04 04.
++ www.hackerspace-aarau.ch: The SSL certificate could not be created. For further information please contact our support department 0844 04 04 04.
+* hackerspace-aarau.ch: The SSL certificate could not be created. For further information please contact our support department 0844 04 04 04.
+

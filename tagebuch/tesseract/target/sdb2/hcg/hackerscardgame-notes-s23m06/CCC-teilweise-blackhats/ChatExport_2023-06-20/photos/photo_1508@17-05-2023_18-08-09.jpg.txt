@@ -1,0 +1,17 @@
+g++ -I. -I./examples -03 -DNDEBUG -std=c++11 -fPIC -pthread quantize.cpp ggml.o utils.o -o quantize
+/dalai/alpaca$ exit
+
+4 [Error: ENOENT: no such file or directory, rename '/home/bonsi/dalai/tmp/models' -> ‘/home/bonsi/dalai/alpaca/models'] {
+errno: -2,
+code: 'ENOENT',
+syscall: ‘rename’
+path: '/home/bonsi/dalai/tmp/models',
+dest: '/home/bonsi/dalai/alpaca/models
+}
+alpaca.add [ '138' J
+dir /home/bonsi/dalai/alpaca/models/13B
+downloading torrent
+ggml-model-q4_@.bin 43% |:
+
+in lemin
+

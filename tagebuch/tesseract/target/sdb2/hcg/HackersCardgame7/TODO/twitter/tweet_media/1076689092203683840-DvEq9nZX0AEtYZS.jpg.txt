@@ -1,0 +1,87 @@
+OSCILLATOR al
+
+16 100 Linear, o P=
+
+DENSITY / AMOUNT /TUNING
+
+a
+WA) [7] [ru]
+SYNTHESIS TPE
+Wa es
+OSC MIXER
+osc osc2 oss Nose
+
+KEYBOARD FX BUS 1
+
+DIFFERENTIAL UNISON ENGINE
+
+SOUNDBANK
+
+001: AR Adrenaline KS
+
+PATCH DESCRIPTION
+
+Breath: Low Cut
+sdwheel: Opening Party!
+
+PATCH
+
+Tempo: 135BPM
+
+(GLOBAUSETTINGS
+
+Multithreading: On Acti
+Skin: Large
+
+HEC serincs oo marae
+
+SYNAPSE DUNE 3
+
+Voices: 0/16
+
+ARPA
+
+Midi Smoothing: Subtle
+
+arpa
+
+FILTER 1 Ly FILTER 2
+XP Lowpass 12.48 BALANCE OFF J
+\ KTRK KTRK
+Z oh a 7 Sy
+oO &: @
+cuTorr —— ESO — bRive Orv — Reso —— cuTorF
+ENV AMT ERECT route ENV AMT
+FxBUS2 Lros MSEG 1 MSEG 2
+
+BT TT TT
+
+unisow voices maasren
+OG \|amc¢
+
++ HEOOOOOm
+‘COMMON / VOICES EDIT
+IIo OoOoOmMe
+
+FILTER ENVELOPE
+
+AO 98 Oye
+
+ATTACK DECAY SUSTAIN RELEASE <— ANALOG
+
+AMP ENVELOPE
+
+& @
+
+SUSTAIN
+
+OG
+
+DECAY
+
+GO
+
+ATTACK. RELEASE
+
+MSEG3, MSEG 4
+

@@ -1,0 +1,27 @@
+Archive || @ Junk | @ Delete | More ~
+
+From Mail Delivery System <Mailer-Daemon@s034.cyon.nets Reply I Reply Allis seiLonward
+Subject Mail delivery failed: returning message to sender 04:51 PM
+To vorstand@piraten-aargau.chi?
+This message was created automatically by mail delivery software.
+
+‘A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed
+
+meLina.wertnik@pi ratenpartei..ch
+
+LTP error after end of data: 452 4.2.2 <nelina.wertnik@piratenpartei.ch> Mailbox is full / Blocks Limit exceeded / Inode limit exceeded:
+retry timeout exceeded
+
+Reporting-MTA: dns; s034.cyon.net
+
+Action: failed
+
+Final-Recipient: rfc822:meLina,wertnikepiratenpartei.ch
+Status: 5.0.0
+
+—Zahlungserinnerung.em|
+
+Subject: Zahlungserinnerung
+From: Vorstand Piratennartei Aaraau <vorstand@niraten-aaraau.ch>
+> @ Lattachment: Zahlungserinnerung.eml 3.8 KB @ Save |

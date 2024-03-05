@@ -1,0 +1,80 @@
+w Home | 078)
+
+eo¢e
+
+‘ge
+a
+
+Xe
+WIKIPEDIA
+Tete Enyeopeie
+
+a
+
+ain page
+Donate to Wikpedia
+
+Hep
+facet changes
+
+Felted changes
+age formation
+eis page
+
+Languages
+
+Forensic sk controller - Wikipedia - Moz Firefox
+1B UPCS. | UPCCom | HUFaced: | EX Better | EDTwee! | EPresoi | WREAD! | wcardic | w Home | G cardi’ | @ Nvido | avid. | @NVID | #857995 | @ Nvido | Moqpion A Bum’ | Debio: | w Fon x
+t noo
+
+oa wikipedia.org : a
+
+Not ogged in Tk Contrbutons Crete account Log in
+
+tile Tk ead Eat View history a
+
+Forensic disk controller
+
+This article needs additional citations for verification, Pease help improve this article by adding citations t reliable sources, Unsourced material may be challenged and
+
+[ez
+
+Find sources: Forensic controle" nes newspapers» Books shor «STOR June 2017) (Lem now and when to remove ti template meszage)
+
+A forensic disk controller or hardware write-block device is 2 specialize type of computer hard disk controller made fr the purpose of gaining read-only access to computer hard drives without
+the risk of damaging the drive's contents. The device is named forensic Because its most common application is for use in investigations where a computer hard dive may contain evidence. Such a
+controle histrieally has been made in the form ofa dongle that its between a computer and an IDE oF SCSI harddrive, but with the advent of USB and SATA, forensic dsk controllers supparting these
+newer technologies have become widespread. Steve Bress and Mark Men2 invented hard drive write blocking (US Patent 6 813,682).
+
+‘The United States National institute of justice operates a Computer Forensics Too Testing (CFTT) program whic formally identifies! the folowing top level tool requirements:
+
++ Anaranare write block (WA) device shal net transmit a command toa protected storage device that modifies the data onthe storage device
+‘An ie device shal return the data requested by a read operation 5
++ An Hive device shal return without modification any access significant information requested from the drive. pieces seals
++ Any errr condition reported byte storage device tthe HWE device shal be reported tothe host.
+
+Description est
+
+Forensic disk controllers intercept write commands from the host operating system, preventing them from reaching the deve, Whenever the host bus architecture supports ithe contoller reports that
+the drive is read-only The disk controller can elther deny all wites tothe disk and report them as fallures, or use on-board memory to cache the writes fr the duration of the session
+
+{disk controller that caches writes in memary presents the appearance tothe operating system tha the drive is writable, and uses the memory to ensure thatthe operating sytem sees changes to the
+Individual disk sectors attempted to overwrite. does this by retrieving sectors from the disk ifthe operating system hasnt attempted to change them, and retrieving the changed version from memory
+for sectors thathave been changed.
+
+Example of 9 portabie dk
+
+Uses edie)
+imaging device
+
+Forensic disk controllers are mast commonly associated with the process of creating a disk image, or acquisition, during forensic analysis. Their use is to prevent inadvertent modiication of evidence.
+
+Using hardware to protect the hard drive from witess very important fo several reasons. Fst, many operating systems, including Windows, may write to any hard isk thats connected tothe system,
+[tthe very least, Windows wil update the access time for any ie accessed, and may write things tothe disk unexpectedly - uch as creating hidden folders forthe recycle bin or saved hardware
+configuration, Virus infections or malware on the system used for analysis may attempt to infect the disk being inspected. Additionally, the NTFS filesystem may attempt to commit er rollback unfinished
+transactions, andior change flags onthe volume to markit as “in use". A the Worst, undesited files may allocate and overwrite deleted space onthe hard disk which may potentaly destroy evidence in
+the form of previously deleted files
+
+Protecting an evidence drive from writes during investigation is also important to counter potential allegations that the contents of the drive were altered during the investigation. Ofcourse, this can be
+alleged anyway, butin the absence of technology to protect drive from writes, there i no way for such an allegation tobe refuted,
+

@@ -1,0 +1,45 @@
+astern
+onets
+ene
+Ee
+
+Fert
+
+ene
+Bunny
+Fe exvetere
+sromree
+
+> Eoenarnen
+> Ehtesae
+
+Somerton
+> ose teence
+
+Sones
+
+w4) Qaage
+
+rewrite ableton/2021/20211104-mit-fabian/20211104-mit-fabian Project/20211104-n}
+|it-fabian-zweiter-versuch-05-arranged-Ol.als (93%)
+copy ableton/2021/20211104-mit-fabian/20211104-mit-fabian Project/{20211104-mit}
+-fabian-zweiter-versuch-05-arranged-Ol.als => Backup/20211104-mit-fabian-zweiter|
+|-versuch-05-arranged-01 [2021-12-05 212245].als} (100%)
+create mode 100644 ableton/2021/20211104-mit-fabian/20211104-mit-fabian Project]
+/sackup/20211104-mit-fabian-zweiter-versuch-0S-arranged-01 [2021-12-05 212528].a|
+Is
+create mode 100644 ableton/2021/20211104-mit-fabian/20211104-mit-fabian Project]
+/sackup/20211104-mit-fabian-zweiter-versuch-0S-arranged-01 [2021-12-05 212609].a|
+i
+Enumerating objects: 19, done.
+counting objects: 100% (19/19), done.
+Delta compression using up to i2 threads
+100% (12/12), done.
+writing objects: 100% (12/12), 21:93 miB | 7.64 MiB/s, done.
+Total 12 (delta 6), reused 0 (delta 0), pack-reused 0
+: Resolving deltas: 100% (6/6), completed with 6 local objects.
+//github. com/Hackerscardgame /music-source-al1
+756efc8..73d0b94 master -> master
+
+MINGW64 (master)
+

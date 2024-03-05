@@ -1,0 +1,19 @@
+g
+Inventor: 2??? Year! ~xxxx
+
+If one would evaluate the mouse-gestures
+one could control the same system like
+described in t46. As far as i know, windos
+does not record mouse gestures. SO one
+could control many things without having a
+logfile, theoretically.
+
+Technically
+
+[ dx/dt | dy/dt ] => [f,'(t) | fy''(
+
+into a Matrix and aes We Matrix with
+codes / cammands that are available. one
+could do it more complex but that would be
+sufficient | guess.
+

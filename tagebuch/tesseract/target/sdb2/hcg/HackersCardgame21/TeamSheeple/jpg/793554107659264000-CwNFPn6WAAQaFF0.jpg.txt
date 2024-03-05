@@ -1,0 +1,76 @@
+sent 377 bytes received 35 bytes 274.67 bytes/sec
+total size is 406 speedup is 0.99
+
+claude@debian:~/video$ whois mgattools.org
+
+Domain Name:
+
+Domain ID: D171735939-LROR
+
+WHOIS Server:
+
+Referral URL: http: //mw.networksolutions.com
+
+Updated Date: 2016-03-30T01: 16:50Z
+
+Creation Date: 2014-04-01T07:00:322
+
+Registry Expiry Date: 2018-04-01T07:06:322
+
+Sponsoring Registrar: Network Solutions, LLC
+
+Sponsoring Registrar IANA ID: 2
+
+Domain Status: clientTransferProhibited https: //icann.org/epps#c LientTransferProhibited
+Registrant ID: 6nukesoigu6nfknt
+
+Registrant Name: PERFECT PRIVACY, LLC
+
+Registrant Organization:
+
+Registrant Street: 12808 Gran Bay Parkway West
+
+Registrant City: Jacksonville
+
+Registrant State/Province: FL
+
+Registrant Postal Code: 32258
+
+Registrant Country: US
+
+Registrant Phone: +1.9027492701
+
+Registrant Phone Ext:
+
+Registrant Fax:
+
+Registrant Fax Ext:
+
+Registrant Enail: bunadgochoikébbuiodssirj6radomaindiscreet.com
+Admin TD: 6nukesoiquonfknt
+
+Admin Name: PERFECT PRIVACY, LLC
+
+Adnin Organization:
+
+Adnin Street: 12808 Gran Bay Parkway West
+
+Admin City: Jacksonville
+
+Aduin State/Province: FL
+
+Admin Postal Code: 32258
+
+Admin
+
+Admin
+
+Admin
+
+Admin
+
+Admin
+
+Admin Email: bunadgochoiksbbuicessirj6r@domaindiscreet.com
+Tech ID: 6nukesoigu6nfknt
+

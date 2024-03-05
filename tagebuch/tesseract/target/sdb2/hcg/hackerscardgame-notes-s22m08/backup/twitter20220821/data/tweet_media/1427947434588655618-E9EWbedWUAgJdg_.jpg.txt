@@ -1,0 +1,131 @@
+€ > CS & dewiipedinorg
+
+WikipEeDIA
+
+Die frei Enayhlopide
+
+Hauptsete
+Themenpotale
+Zufaliger Atel
+
+machen
+‘Avtkcel vervessemn
+Neuen Artikel aniegen
+‘Auorenporal
+
+ile
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzevge
+LUnks au ese Sete
+
+Anderungen an
+‘erniten Seton
+
+Spezatseten
+Permanent Link
+Seiteninformationen
+‘Astkelzeren
+Wiledata.Datenobjekt
+
+Druckenvexporteren
+Buch ersten
+‘Als POF herunteaden
+Druckversion
+
+1 | © hactencardgemechiog® % | G software torverscherung: x | @ Betebte Machine eamins x | @ MaschinelesLemen| Cou x | @ Betebte Prolog-kune-P: x | @ Prolog for Beginner
+
+1og.Prosrammiersprache)
+
+opt @ Uneseamerelen Ie Da btenremar. W Sondemulépenie. ff The BEST Rive. © AudoPignGyl @ TheBesfREERe. Gl KORG Coleco 2
+
+ak a@:
+TD teaine
+
+S Nicm angemeldet Disussionssete Betvage Benutzerkono stellen Anmelden
+
+Artkel Diskussion Lesen Bearbeiten Queltext bearbeiten Versionsgeschichte | Wikipedia durchsuchen
+
+Prolog (Programmiersprache)
+
+Prolog (vom Franzésischen: programmation en logique,|"! dt.: ,Programmieren in Logik*) ist eine Programmiersprache, die Anfang der 1970er-Jahre mafsgeblich
+von dem franzésischen Informatik Alain Colmerauerentvickelt wurde und ein deklratives Programmieren emmoglcht. Sie git as oie wichigste lgische
+Programmlersprache
+
+Erste Implementierungen wichen in ihrer Syntax stark voneinander ab, aber der Edinburgh-Dialekt setzte sich bald als Quasistandard durch. Er war jedoch nicht
+formal denier Ibis er 1996 zur Grunclage enes ISO-Stancards wurde (SOMEC 1211-1), der auch ISO-Prolog genannt wire
+
+Der erste Prolog-interpreter wurde in Marseille in ALGOL W realisien, Der erste Ansatz for einen Compiler stammte von David H. D. Warren aus Edinburgh. Dieser
+hatte als Zelsprache dle des Logik-Prozessors Warren's Abstract Machine und eraubte deshalb weder dynamische Anderungen noch einen Anschluss
+riicksetzbarer Pridikate in anderen Programmiersprachen. Der erste voll nutzbare Compiler, der beides eriaubte, wurde von Preben Folkjaer und Christian Pichler in
+'Mnchen entwickelt. Er verwandte einen anderen, von der TU Wien stammenden, Zwischencode, der inkrementell kompiliet wurde; wufden Pradikate verandert,
+‘wurde das Kompllat geldscht und beim ndichsten Aufruf neu kompilert.
+
+Inhaltsverzeichnis Verberoen]
+4 Grundprinzip
+2 Syntax
+2.1 Boolesche Algebra
+22 Vergleiche
+23 Regeln
+23.1. Symmetrische Relation
+24 athmatic
+25 Listen
+26 Laden von Prolog-Texten
+3 Weitere Techniken
+4 Boiopiole
+4.1 Losen eines mathematischen Ratsels
+42 Bearbeitung hierarchischer Strukturen
+
+43 Planungssystomo
+
+Q
+
+Prolog
+
+Paradigmen:
+
+Erscheinungsiahr:
+Designer:
+Entwickler:
+pisierung:
+
+Wientige
+Implementierun
+
+Diatekte:
+
+‘Standardisierungen:
+
+Beeinflusst von:
+
+logisch, dekaratw
+‘oft auch
+constraintbasirt
+1972
+
+‘Alain Colmerauer
+Philippe Roussel!
+schwach,
+ddynamisch
+sicsus, sw.
+Prolog, GNU
+Prolog, XSB, YAP-
+Prolog
+1S0-Proog,
+Edinburgh Prolog,
+BinProieg
+VisualTubo
+Prolog; historisch
+micro-Proleg
+Isonec 13211-
+11995
+
+Planner, 2
+systems,
+‘Theorembeweiser,
+Homn-Kiauseln
+

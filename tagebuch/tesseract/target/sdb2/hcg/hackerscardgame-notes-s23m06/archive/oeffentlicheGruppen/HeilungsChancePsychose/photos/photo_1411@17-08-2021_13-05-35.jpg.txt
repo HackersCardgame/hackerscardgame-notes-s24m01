@@ -1,0 +1,53 @@
+Marc JrSchizo Landolt .
+7Min..@
+
+Hacker Culture -- Origins
+| think citing is ok, since o bougth once a license:
+
+SRC:
+The Art of Unix Programming -- by Eric Steven Raymond (p. 67)
+
+But an old legend says, there was a telephone exchange systems that the students
+got for free from AT&T that had been converted into a toy railroad control system,
+and that the word "hack" was born there, but i can not prove that so far ...
+
+difficult to label neatly. It has its own values and legends and folk heroes, partly overlapping with
+those of the Unix tradition and partly derived from other sources. It has most often been called the
+“hacker culture”, and since 1998 has largely coincided with what the computer trade press cals “the
+open source movement”.
+
+The relationships between the Unix tradition, the hacker culture, and the open-source movement
+are subtle and complex. They are not simplified by the fact that all three implicit cultures have
+frequently been expressed in the behaviors of the same human beings. But since 1990 the story of
+Unis is largely the story of how the open-source hackers changed the rules and seized the initiative
+from the old-ine proprietary Unix vendors. Therefore, the other half of the history behind today's
+Unix is the history of the hackers.
+
+At Play in the Groves of Academe: 1961-1980
+
+The roots of the hacker culture can be traced back to 1961, the year MIT took delivery of its first
+PDP-I minicomputer. The PDP-1 was one of the earliest interactive computers, and (unlike other
+
+machines) of the day was inexpensive enou ime on it did not have to be rigidly scheduled.
+attracted a group of cur tho experimented with
+it ima spirit of fun. Hackers: Heroes of the Computer Revolution {Levy} enterainingly describes
+
+the carly days of the club. Their most famous achievement was SPACEWAR, a game of dueling
+rocketships loosely inspired by the Lensman space operas of E.E. “Doc” Smith,
+
+Several of the TMRC experimenters later went on to become core members of the MIT Artificial
+Intelligence Lab, which in the 1960s and 1970s became one of the world centers of cutting-edge
+computer science. They took some of TMRC’s slang and in-jokes with them, including a tradition
+
+of elaborate (but harmless)PEARKSEAIGTHIEKST, The AI Lab programmers appear to have been
+the first to describe themselves as “hackers”.
+
+After 1969 the MIT AI Lab was connected, via the early ARPANET, to other leading computer
+science research laboratories at Stanford, Bolt Beranck & Newman, Camegic-Mellon University and
+elsewhere. Rescarchers and students got the first forctaste of the way fast network access abolishes
+geography, ofien making it easier to collaborate and form friendships with distant people on the net
+than it would be to do likewise with colleagues closer-by but less connected.
+
+Software, ideas, slang, and a good deal of humor flowed over the experimental ARPANET links.
+
+(7) teeth 2S Trilen

@@ -1,0 +1,15 @@
+lolx!
+
+‘Datei Bearbeiten Format 2.
+forg 0100 ; COM Files verden nach Ox100 geladen a
+
+mov dx,message ; “Intel syntax": anveisung ziel,quelle
+nov ah,9
+
+int Ox21
+
+mov ah, Ox4c
+int 0x21
+
+message db “Hello, World!" ,ox0D, ox0a,
+

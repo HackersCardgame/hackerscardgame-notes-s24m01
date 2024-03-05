@@ -1,0 +1,33 @@
+) DESIGN PATTERN (5)
+
+Abstract Factory
+Adapter
+
+[s] Bridge
+
+[EG] Builder
+
+Chain of Responsibility
+Command i Template Method
+[S$] composite 1 Visitor
+
+cs] Decorator
+
+Erfinder Architekt Christopher Alexander ~1977
+Design patterns are proven solution templates
+for recurring design problems in architecture
+as well as in software development.
+
+A design pattern usually contains several
+classes (templates), so a single design
+pattern is a collection of different
+templates. E.g. The shape of a single step of
+stairs AND the railing (steelwork or eg
+woodwork) for the complete stairs AND for
+example the shape for the carpet of each step
+
+Anwendungsfalle
+
+Architecture, Software development, psychology
+(Archetypes), Sociology (Archetype-Combinations)
+

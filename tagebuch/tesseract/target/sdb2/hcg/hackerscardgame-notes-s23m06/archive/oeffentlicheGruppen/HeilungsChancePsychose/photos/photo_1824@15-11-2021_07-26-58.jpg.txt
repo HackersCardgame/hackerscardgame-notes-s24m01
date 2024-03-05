@@ -1,0 +1,37 @@
+Lawinen-
+effekt
+
+uz/Vv 15 12
+
+ae 2 A
+0,2 0,6 UF/V
+
+12V
+
+Sperrbereich
+offe
+
+Leistungshyperbel
+Ptot = 1 W
+
+8,2V
+6,8V VY
+4,7V
+
+2,7¥
+
+Elektroniktutor
+Z-Diode - Stabilisierungsdiod
+
+Die Bilder sind eventuell urheberr
+
+IZmax 15¥
+
+Izmax 8,2¥
+
+Izmax 4,7V
+
+1z/mA
+
+Weitere Infos
+

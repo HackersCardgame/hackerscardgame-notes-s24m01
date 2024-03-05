@@ -1,0 +1,53 @@
+= $$ "Neves Dokument 1 - Inkscape - Oo Xx
+
+witch (source) {
+
+case Gdk: :SOURCE_MOUSE
+break
+
+case Gdk: !SOURCE_PEN:
+break a =
+
+case Gdk: :SOURCE_ERASER e
+break
+
+case Gdk: :SOURCE_CURSOR
+break sgn Kane
+
+default tuted ae
+
+: abegeate S
+
+return name
+
+map<Glib: tustring, Gdk: :AxisUlse> &getStringToAxis(
+
+tatic bool init
+static std::map<Glib: :ustring, Gdkr+AeTSUse> mapping:
+if (init)
+
+mapping AXTS_IGNORE;
+
+mappingl AXIS_X
+
+AXTS_Y
+
+mappingl AXTS_PRESSURE:
+
+mapping AXIS_XTILT
+
+nappingl AXTS_XERCT
+
+mapping #0TS_WHEE
+
+return mapping:
+
+static std: imap<Gdk ring> &getAxisTe
+
+static bool init H
+
+tatic std: :map<Gdk: :AxisUse, Glib::ustring> mapping
+if (init)
+for (auto & it : getStringToaxis()) {
+
+AOU en

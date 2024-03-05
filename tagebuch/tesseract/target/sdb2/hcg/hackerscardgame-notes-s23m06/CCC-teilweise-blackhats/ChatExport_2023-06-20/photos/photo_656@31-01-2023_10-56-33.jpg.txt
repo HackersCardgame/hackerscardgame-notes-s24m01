@@ -1,0 +1,16 @@
+“ SOLDERING >
+
+Sy x | erect! ; g
+
+Chisel Pointed \ Solder Solder
+Tip Tip
+
+Nu v % ip
+
+Xl i’
+
+__ Atstart, and every few connections:
+clean tip on damp sponge, apply a thin layer of solder.
+
+SOLDERING
+

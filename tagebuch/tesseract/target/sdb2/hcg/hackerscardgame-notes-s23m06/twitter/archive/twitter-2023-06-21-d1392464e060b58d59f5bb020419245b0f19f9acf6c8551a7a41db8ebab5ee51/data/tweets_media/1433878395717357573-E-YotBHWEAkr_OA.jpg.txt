@@ -1,0 +1,38 @@
+Me | Vic |B Ue | Pin | CD Tw | cet | Pin | Pin | tue | G wo | G po] w Pin | EY © [EDM | Ww Te | H |S an | Or | Oa | Ome He |G wn | GM | Gam |G oe |B |Gie wx + @ - OB X
+
+€ > © & devikipesiacrs/wic/rolog (Programmersprache) an
+
+pt @ Uiesveamerteen De besentnenar. W Sondemtliepane. UL The BEESTRewit Auda PignGiy| @ The Slax FEERe. El KORG Coteton WD tenine
+
+2 Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelltext bearbeiten Versionsgeschichte Wikipedia durchsuchen Q
+ail
+WixwepiA Prolog (Programmiersprache)
+Die ele Enzyhlopile
+Prolog (vom Franzésischen: programmation en fogique.I dt. ,Programmieren in Logik’) ist eine Programmiersprache, die
+ane Anfang der 1970er-Jahre maBgeblich von dem franzésischen Informatiker Alain Colmerauer entwickelt wurde und ein Prolog
+Themenporale deklaratives Programmieren erméglicht. Sie gilt als die wichligste logische Programmiersprache Paradigmen: logsch,deklaraty,
+oft auch
+Bungee Acts Erste Implementierungen wichen in ihrer Syntax stark voneinander ab, aber der Edinburgh-Dialekt setzte sich bald als Suen
+‘Mitmachen Quasistandard durch. Er war jedoch nicht formal definiert 2! bis er 1995 zur Grundlage eines ISO-Standards wurde
+
+‘Aish verhessein (ISOMEC 13211-1), der auch ISO-Prolog genannt wird, Erscheinungsjahr: 1972
+
+Designer: ‘Aigin Colmerauer
+Neuen Artikel alegen Der erste Proiog-Interpreter wurde in Marseille in ALGOL W realisiert. Der erste Ansatz fir einen Compiler stammte von
+puree David H. D. Warren aus Edinburgh. Dieser hatte als Zielsprache die des Logik-Prozessors Warren’s Abstract Machine und Entwickler: Sree ose
+Hite erlaubte deshalb weder dynamische Anderungen noch einen Anschluss ricksetzbarer Pradikate in anderen ‘ypisierung: schwach,
+chal Programmiersprachen. Der erste voll nutzbare Compiler, der beides erlaubte, wurde von Preben Folkjaer und Christian <dynamisch
+Gey Pichler in Munchen entwickelt. Er verwandte einen anderen, von der TU Wien stammenden, Zwischencode, der Wichtige sicstus, SW!
+inkrementell Kompiliert wurde; wurden Pradikate verdindert, wurde das Kompilat geldscht und beim néchsten Aufruf neu Implementierungen: Prolog, GNU
+Werkzeuge kompilirt Prolog, XSB, YAP-
+Links aut diese Seite Prolog
+Aaergen 20 Inhaltsverzeichnis [Verbergen] plans: eae
+mle 4 Grundprinzip Edinburgh Prolog,
+Permanenter Link 2 Sex Bnrvole:
+Settennformationen 21) Booleettie Algebra Visual Turbo
+Atel tren 22 Vergleiche Prolog historsc
+
+A | wo.20210903. 14 mp A | Bw. 2nzt00
+

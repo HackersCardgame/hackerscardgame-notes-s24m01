@@ -1,0 +1,52 @@
+| plot (t,t)
+| xlabel( 'Time')
+
+| ylabel('value')
+|| tegend('sin', ‘Cosine’
+
+‘asdf")
+| title('my plot");
+
+| print -dpng ‘myPlot.png'
+
+| figure(1); plot(t,y1)
+
+| figure(2); plot(t,y2)
+
+}subplot(1,2,1)  sdevides grid in a 1x2
+| plot(t,y1)
+
+| subplot (1,2,2)
+
+| plot (t, y2)
+
+J axis([0.5 -0.5 -2 21)
+)clf;
+
+[clear
+
+‘A = magic(25)
+imagesc(inv(A))
+“imagesc(inv(A)), colorbar, colormap gray;
+
+grid, access first element
+
+Figure 1
+
+File Edit Help
+© Zt Z & Bs fy Axes Grid Autoscale
+
+0.0015
+
+/ 0.001
+
+0.0005
+
+0.0005
+
+-0.001
+
+0.0015
+
+(4.0426, 0.53652)
+

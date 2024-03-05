@@ -1,0 +1,27 @@
+ras) Open Source Psychometrics Project
+
+Results summary
+
+‘Your results from the IPIP Big Five Factor Markers are in the table below. The table contains a raw score and also a percentile,
+‘what percent of other people who have taken this test that you score higher than.
+
+Factor Factor taberl aw coore |Soore perventie
+Extroversion 0
+ti | Enotional stability re
+ur Agreeableness| 14
+W | Conscientiousness a
+y | intellect/tnagination| Pra
+
+‘Trait descriptions
+
+Factor Factor It Factor IV Factor V
+
+Factor I was labelled as Extroversion by the developers of the IPIP-BFFM. Factor I is sometimes given other names, such as
+‘urgency or Positive Emotionality.
+
+Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
+
+‘Comments / Navigation
+
+‘To retum to the main page where other personality tests can be taken, click b
+

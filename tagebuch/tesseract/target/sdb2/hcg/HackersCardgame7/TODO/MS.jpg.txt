@@ -1,0 +1,59 @@
+© © www.hese.de/security/meiiung/internet-Explorer-Cookie-Kiau-leicht-gemacht-1250725.htmi
+
+et - 1K» Technology Review ~ Telepolis » mobil - Security ~ Nete » Opend Resale » Foto - Autos » cLTV » Mac&i
+Download  Stellenangebote - Preisvergleich - Tanfrechner ~ IT-Markt ~ heis feranstaltungen » Whitepapers » Abo « Shop «Archiv
+
+U
+
+@rhreise onti
+
+gS Windows*Internet
+a¥.
+
+Explorer9 Jetzt testen
+
+Mei e Sie sind Gast Einloggen | Registieren @sTRATO
+Security N es
+STRATO
+
+[EGE Hirt erate ite Foren Took Nowiter TTapetiwe wen moot of STRAY
+ive
+
+Security > News > 7-Tage-News > 2011 > KW21 » internet Explorer: Cookie-Klu leicht gemacht Der genial
+
+Online-Speicher
+News-Meldung vom 26.05.2011 12:30 ««Vorige |Nachste » __helse-Security-Konferenz 2011
+
+Sichere Unternehmenskommunikation
+
+Internet Explorer: Cookie-Klau leicht gemacht Meistern Sie die integration mobiler
+(EDD corn /P3- Cound z Gerdte, VoIP, E-Mail-
+Der Sicherheitsforscher Rosario Vaiotta hat eine Zero-Day-Lacke in allen Versionen des sy Verschldsselung, und soziale Netze
+Internet Explorer gefunden, de sich flr einen Diebstani beliebiger Cookies Uber das
+Netz eignet. Normalerweise verhindert das Sicherheitszonenmodell des Internet
+Explorer, dass Seiten aus der intemetzone Inhaite aus der lokalen Zone, also etwa von
+der Festpiatte, als Frame einbetten. Der Forscher hat entdeckt, dass Cookies hiervon
+offenbar ausgenommen sind und man sie sehr wont in iFrames laden kann,
+‘AnschlieSend wird der Cookietext unsichtbar markiert und vom Nutzer vom iFrame in
+as Hauptfenster nerbergezogen und fallengetassen. Damit der Anwender davon
+nichts mitbekommt, hat Valotta das Ganze in ein Spiel verpackt.
+
+Der Update-Check
+Beseitigen Sie in wenigen Minuten
+eines der grosten
+Sicherheitsprobieme: veraitete
+Programme mit bekannten
+Sichermeitsidcken
+
+Topartikel
+
+Gezielte Security-Investitionen Verriiterische Metadaten in
+
+schitzen vor hohen Folgekosten Unternehmensdokumenten
+Das kostenlose Tool Foca
+cextraniert aus offentich
+zugangliche Dokumenten und
+Biidern verborgene Informationen.
+
+=) tackabpha000,2 (1).
+

@@ -1,0 +1,30 @@
+WN
+“aE anon a.
+
+[> CAUsers\Fa,eschenbruecher\Documents\Atmel Studio\7 O\GecApplication7\GccApplication7\mulhis.c
+
+‘wide NL
+
+‘include <avr/io.h>
+include <avr/interrupt.h>
+
+volatile wint32.t millis counter - 0;
+
+USR(TCAO_OVF_vect) {
+millis_counters+s
+‘TEAQ, SINGLE, INTFLAGS = TCA_SINGLE_OVF_ba;
+
+Jeuinesze mintisy ¢ Hi
+uint32t millis value;
+
+c1IQs // Besktivieren Sie Interrupts, um den i
+
+mmillis value = millis_counter;
+
+€
+CAO. SINGLE.CTRLA = TCA SINGLE CLKSEL_DIVI024 ge | TCA SINGLE ENABLE. bm; // CLK/1024
+TCAB.SINGLE.PER = F_CPU / 1024 / 1000; // 1ms|bei 20NiH2 Systental i
+TCAG.SINGLE.INTCTRL = TCA SINGLE OVF_bm; // Tiner Overflow tnterru
+
+4e1()5 // Globale Interrupts aktiviereh
+

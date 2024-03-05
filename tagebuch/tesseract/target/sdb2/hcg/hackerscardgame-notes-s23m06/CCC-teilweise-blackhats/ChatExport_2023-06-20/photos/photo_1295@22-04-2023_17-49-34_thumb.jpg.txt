@@ -1,0 +1,9 @@
+‘Wir haben die Tasks mit “xTaaktreate()” erstelt und anschliefend den Scheduler mit
+
+“VYankstartScheduler() gostartet. Der Scheduler wird dann dio Tasks auefuhren und dio
+LEDs blinkon tacoon.
+
+Das war uncer Beispol fir Threading in Microchip Studio mit FrveRTOS, Natilich gibt os
+
+‘och viele weitere Moglichkeiten und Funktionen, die du in deinem eigenen Projekt nutzen
+kannst,

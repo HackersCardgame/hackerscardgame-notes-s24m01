@@ -1,0 +1,53 @@
+WIKIPEDIA
+
+Die freie Enzyklopadie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+& Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden |
+
+Artikel Diskussion Lesen Bearbeiten Quelltext bearbeiten Versionsgeschichte _ Wikipedia durchsuchen Q
+
+Botnet
+
+Die Artikel Bot, Zombie (Internet) und Botnet Uberschneiden sich thematisch. Informationen, die du hier suchst,
+kénnen sich also auch in den anderen Artikeln befinden
+
+Gere kannst du dich an der betreffenden Redundanzdiskussion beteiligen oder direkt dabei helfen, die Artikel
+zusammenzufihren oder besser voneinander abzugrenzen (—> Anleitung).
+
+al
+
+Ein Botnet oder Botnetz ist eine Gruppe automatisierter
+Schadprogramme, sogenannter Bots. Die Bots (von
+englisch: robot ,Roboter’) laufen auf vernetzten Rechnern,
+deren Netzwerkanbindung sowie lokale Ressourcen und
+Daten ihnen, ohne Einverstandnis des Eigentlimers, zur
+Verfiigung stehen. In Deutschland gab es 2010 uber
+470.000 solcher Bots, von denen im Durchschnitt etwa
+2.000 pro Tag aktiv waren." Die Initiative botfrei.de des
+Verbandes der Internetwirtschaft ECO stellte 2014 bei
+220.000 stichprobenartig untersuchten Computern 92.000
+

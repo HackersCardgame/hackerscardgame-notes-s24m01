@@ -1,0 +1,6 @@
+Number of relays
+
+Aug-2016
+
+The Tor Project - https://metrics.torproject.org/
+art date (yyyy-mm-dd): [2016-07-18

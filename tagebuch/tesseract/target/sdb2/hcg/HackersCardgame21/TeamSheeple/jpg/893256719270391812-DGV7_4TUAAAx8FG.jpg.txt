@@ -1,0 +1,3 @@
+% 12 ./shellcode
+-+ In soviet russia radare debugs you
+[ox1c000764]>

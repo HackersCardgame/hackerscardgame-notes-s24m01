@@ -1,0 +1,5 @@
+‘Security Check
+
+Enter both words below, separated by a space.
+Can't read the words below? Try different words or an audio captcha,
+

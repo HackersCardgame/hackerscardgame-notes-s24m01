@@ -1,0 +1,34 @@
+A) OPT 6.78
+B) OPT 2.78
+
+C) OPT 1.38
+
+D) OPT 350m
+
+E) GALACTICA 6.78
+
+F) GALACTICA 1.38
+
+G) GALACTICA 125M
+
+H) Pythia-6.9B-deduped
+
+I) Pythia-2.8B-deduped
+
+3) Pythia-1.4B-deduped
+
+K) Pythia-410M-deduped
+
+L) Manually specify a Hugging Face model
+M) Do not download a model
+
+Input> 1
+Type the name of your desired Hugging Face model in the format organization/name.
+Examples:
+
+facebook/opt-1.3b
+
+EleutherAI/pythia~1.4b-deduped
+
+Input> chharlesonfire/ggml-vicuna-7b-4bit
+

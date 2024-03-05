@@ -1,0 +1,26 @@
+marcland@s92: ~
+
+s92.server.hostpoint.internal
+FreeBSD 12.3
+
+marcland@ : $ cd www*C
+marcland@ : 130 $ reset
+
+Erase set to backspace.
+: $ cls
+
+command not found
+marcland@ :~] 127 $ reset
+Erase is backspace.
+marcland@ ea]i§ Tstreeere 756
+marcland@ :~] 130 $ cd *?
+bash: cd: $'\177': No such file or directory
+marcland@ ~] 1 $ reset
+Erase is backspace.
+marcland :~] $ cd www/marclandolt.ch/
+marcland@ :~/www/marclandolt.ch] $ ls *.txt
+IdDOS -nodes-to-take-down.txt epi.txt
+marcland@ :~/www/marclandolt.ch] $ cd
+(reverse-i-search) sort’: cat www.marclandolt.ch.log | cut -d" " -f1 | Gort Juni
+iq >~/www/marclandolt.ch/dDOS-nodes-to-take-down.txt
+

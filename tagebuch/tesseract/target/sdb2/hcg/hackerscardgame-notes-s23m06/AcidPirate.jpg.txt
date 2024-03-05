@@ -1,0 +1,31 @@
+3k x ae
+
+marc@debi
+
+“K
+
+marc@debian:~/disk$ cat "./Daten.2023/collection/2008/pidgin/logs/yahoo/marclandoltaarau/acidpirate/2007-01-14.081535+01
+@@cET. txt
+
+Conversation with acidpirate at 14.01.2007 08
+(08::15::35) acidpirate: eh yo marci
+
+35 on marclandoltaarau (yahoo)
+
+(08 43) acidpirate: was goht? was tuesch so?
+(os 56) acidpirate: immerno fliisig am linuxle?
+
+(08 12) acidpirate: schafsch? wenn ja wo?
+
+(@9::06::22) marclandoltaarau: also ich schaff wider bi de abb aber z lenzburg, mach d techniker schuel und mues zwangsw
+iis Linuxe, aber ich bin au niimme so uuf, windows isch doof ... windows isch als desktop system relatiiv guet, han au s
+vistabeta letzschti uusprobiert und es esch wérkli ned schlacht... was hingege vell geilier isch an linux, isch halt wé
+
+rkli das de source hesch und chsa
+(@9::@9::43) marclandoltaarau: chasch selber am code umebaschtle, han jetzt au aagfange code und find fér desktop apps
+net no cool, wenn interessiert bisch findsch min stuff under http://ml.buzzernet.com/Projekte/TS/ schad findi jetzt eifa
+ch, das mit dene software patent wand cho, und microsoft het jo aakiindiget, sie werde rechtlech gege linux voorgo, werum
+das aber grad vor em release vom vista esch isch scho chlii gschpassig, PR???
+
+marc@debian:~/disk$
+

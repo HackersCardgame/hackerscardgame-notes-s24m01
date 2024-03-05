@@ -1,0 +1,31 @@
+Share Improve this question Follow asked May 8, 2011 at 17:44
+
+myro
+1,140 #2 023 044
+
+1 Answer Sorted by: Highest score (default)
+
+Currently, the only implemented method in cvHoughCircles() is CV_HOUGH_GRADIENT
+4 80,
+
+param - refers to the edge threshold that will be used by the Canny edge detector (applied to a
+grayscale image). cvCanny() accepts two thresholds and is internally invoked by
+évHoughCircles() . Therefore the higher (first) threshold is set to param1 (passed as argument
+A into cvslougheiretes() ) and the lower (second) threshold is set to half of this value.
+
+param2 - Is the value for accumulator threshold. This value is used in the accumulator plane that
+must be reached so that a line is retrieved.
+
+I would recommend you to read this book, which is in my opinion the best one describing Opencv.
+
+Thope this helps.
+Share Improve this answer Follow edited May 8, 2011 at 18:34 answered May 8, 2011 at 18:19
+
+a
+
+Thank you, i's not so complicated. | should pay more attention while reading doc :-) Unfortunatelly deadlines
+are approaching and | cannot afford reading long manuals. — myro May Lat 23:24 ¢
+
+@myro Youre welcome! That book Is really good. It's worth a reading. - CRM May 8. 2!
+
+”

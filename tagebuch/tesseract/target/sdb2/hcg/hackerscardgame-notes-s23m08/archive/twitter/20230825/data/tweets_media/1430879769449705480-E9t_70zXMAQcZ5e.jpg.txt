@@ -1,0 +1,16 @@
+architecture
+
+-)-@ E-
+
+=
+
+wa TC
+
+cont a) GE
+
+(The above diagram comes from Wikipedia.)
+
+How Postfix receives mail
+
+Controlled by Postfix master daemon
+

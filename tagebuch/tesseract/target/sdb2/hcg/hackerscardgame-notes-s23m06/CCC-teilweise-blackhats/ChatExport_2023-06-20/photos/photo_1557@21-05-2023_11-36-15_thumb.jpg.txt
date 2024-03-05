@@ -1,0 +1,11 @@
+ parcewindoof:~/hackerscardgame-notes-s23n05$ apt-cache search ngerman
+fungerman - New Geran orthography wordlist
+
+« wogerman - Traditional German wordlist
+
+| forensics-extra ~ Forensics Environment - extra console components (netapackage)
+Angerman ~ New Gernan orthography dictionary for ispelt
+
++ dogerman - Traditional German orthography dictionary for ispelL
+
+| Barctwindoof:~/hackerscardgame-notes-s238055

@@ -1,0 +1,16 @@
+Inventor: ;
+The inventor of the programming language Smalltalk
+was the first who used objects in software
+development. It was maybe the first Programming
+Language that used "Object riented
+rogramming". Like Gutenberg could _ print
+complete books with letters templates one can
+create biger things out of such objects. A Class is
+can be single part of a complete software product.
+Eg. in an addressbook Class you would have
+predefined fileds for Name, Address, Phone
+Number...". You can also have such templates in
+Psychology, Mechanic. Simplification /
+standardisation through predefined templates makes
+things more efficient but people maybe
+

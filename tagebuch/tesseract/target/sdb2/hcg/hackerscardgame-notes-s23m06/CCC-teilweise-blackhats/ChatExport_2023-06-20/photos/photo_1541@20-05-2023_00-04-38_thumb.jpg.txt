@@ -1,0 +1,15 @@
+Ae iki Shep doce Eicher fh
+
+Tpp:Begrenze die Sucho auf deutschsprachige Ergebnisse, Du kannst deine
+‘Suchaprache in den Einstlungen andem
+
+Open the folder where you have installed Tor,
+browse through browser > Tor browser > Tor >
+data. There you will ind a file named “torre.”
+(Open the file with Notepad. At the end of the
+document, on a new line, write this: ExitNodes
+{US}, For example, if you want your exit node
+tobe in China, type (CN). o
+
+How to Set a Specific Country in a Tor Browser - wikiHow
+

@@ -1,0 +1,46 @@
+tterfiter() -Linuxman page -Mezia Firefox x
+Mar | Mar |RVQIE | ED Two: | MED | Z Tere | 30. [me Rem | ¥ Stue | G gese | w Secu | w Neti | G mine | G twit | G dere | wDer james | A 994 | Mee Mex) > + v
+Ynoe a Px
+
+ie netinan8) a
+
+etterfilter(8) - Linux man page
+
+Name
+‘ttrtiter 0.75 - Filter compiler forettercap content
+fitering engine
+
+Synopsis
+
+‘ttrfiter (OPTIONS) FILE
+
+Description
+
+‘The etter utliy is used to compile source fite files into inary iter files that canbe interpreted by the JIT interpreter in
+the ettereapy) ite engine. You have to compile your fiter Scripts in order to use them in etercap Al syntaxparse extors
+willbe checked at compile te, so you will be sure to produce a comtect binary fiter or etercap,
+
+GENERAL OPTIONS.
+0, output <FILE>
+you can specify the output fle fora source filter le, By default the outputs ert.
+test <FILE>
+you can analyze a compiled fiter file wth this option. eteritr wil pint a human readable form all he instuctons
+contained int. tis a sor of “isassemble” fr binary itr files,
+-4,-debug
+prints some debug messages during the compilation. Use itmore than once to increase the debug level (etrtiter dd
+).
+4 -suppressavamings
+Don'texit on warnings, Wit ths option the compiler will compile the script even it contains wamings,
+‘STANDARD OPTIONS,
+Printthe version and ext
+-b.-help
+prints the help screen wit a shor summary ofthe available options,
+‘SCRIPTS SYNTAX
+‘Ascriptis a compound of instructions. tis executed sequentially and you can make branches wih he "statements, f
+and itelse’ statements are the only supported. No loops are implemented, The syntaxis almost ike C code except that
+you have to put f blocks into graph parentheses "even ifthey contain only one instruction,
+
+NOTE: you have to puta space between thei and the, You must not pu the space between te function name and
+thet
+
+Example

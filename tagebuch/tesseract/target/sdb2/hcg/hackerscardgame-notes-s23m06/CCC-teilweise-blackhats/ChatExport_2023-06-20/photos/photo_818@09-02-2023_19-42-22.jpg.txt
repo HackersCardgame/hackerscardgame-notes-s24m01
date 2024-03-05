@@ -1,0 +1,33 @@
+$iOt
+
+19af8ff8-55a1-4604-8111-9...
+
+”
+
+116. AUTOMATIC STRIP
+
+Open Closed
+
+As the base opens it pulls a strip. The automatic pull-strip can be used to
+raise a flap or pop-up mechanism in the middle of one of the pages.
+
+‘Thread the strip through both slits A, then stick tab B on the strip to B on the
+base. The length C must be greater than length D. The movement generated at E
+is exactly double length D.
+
+AUTOMATIC FLAP
+
+Construction method:
+Stick A on the flap to A on the base. Thread the strip through the two slits B.
+Stick C on the strip to C on the flap. Put glue on tab D, then close the base and
+press firmly, tab D finds its correct sticking place E.
+
+Measurements: F must be greater than G. G can't be less than H.
+To flip flap right over G = H. To lift flap at an angle, G is greater than H.
+
+‘These lengths can be adjusted so that
+‘when the base is open the flap stands
+vertically on the base, then
+parallelogram Mechanisms (see 99)
+‘can be built onto the flap.
+

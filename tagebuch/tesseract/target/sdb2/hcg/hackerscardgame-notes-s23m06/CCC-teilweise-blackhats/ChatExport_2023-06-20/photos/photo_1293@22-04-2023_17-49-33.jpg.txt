@@ -1,0 +1,10 @@
+#define LED1 LATAbits.LATAO
+define LED2 LATAbits.LATAL
+
+void taski(void *pvParameters) {
+while (1) €
+
+LEDI = !LED1; // toggle LEDL
+
+vTaskDelay(500 / PS. Rogeneratoresponse_/ wait for 500ms
+

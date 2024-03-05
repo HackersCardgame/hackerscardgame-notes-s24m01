@@ -1,0 +1,52 @@
+Activities ©) Terminal ~ ‘Okt 4 09:04 me @ vow a~
+
+nose
+
+§ rsync 192.168.192.234:~/can ~ -avz
+
+a marc@debian:~ We >
+
+Birsync: readtink stet(" /nedta/narc/can/record/2015-09-03(001)/#>n\#023sH. i) fated: input/output error (5) ra)
+: syne: Feadtink_stat(”/nedta/mare/ean/record/2035-09-03(001)/|q)+\s004sA]") fotted: Input/output error (5) 34p0
+
+rsync: readlinkstat(" media /narc/can/record/2015-09-03(001)/2(se\#023*\t031\#020.\r003\#001") fated: Input/output error (5) 5-39
+
+fle has, vantshed: "/nedLa/nare/can/record/2015-09-03(001)/#t-T¥y\4024.0\9019. 4s
+2 rsync? readlnk.stat("/nedlo/nare/can/record/20i5-09-03(001)/ ,f€%8Y.--\#002\£007\#003") faLed: Input/output error (5) 2-JP9
+
+rsync: Feadlink_stat(”/nedta/nare/ean/record/2015-09-03(001)/Fs\s014c\#035").x44") fatled? Input/output error (5) oa
+syne: Feadlink_stat(”/nedta/nare/can/record/2015-09-03(001)/9f¢\#0220|-£tp") fated: input/output error (5) 4a
+= stn! reotink tat redt/rar/an/rcord/0i5-09-03(04)/¢ apa te leeoo™) felted Input output errr (3)
+
+syne: readlink_stat(” /nedta/narc/ean/record/2015-09-03(001)/"1'- bt". roi7be") fated: input/output error (5) 576 bytes 266,334.88 bytes/sec
+
+2 syne: readLink_stat(" /nedta/narc/ean/record/ 2035. 2s \w026n") rotted: input/output error (5) pts 1.06
+
+= BEM sync: readtink-stat(-/nedta/nare/con/record/2015-09-03(001)/9]°n)..2-") fatted: input/output error (5) ee
+syne: readlink_stat(” /nedta/narc/ean/record/2015-09-03(001)/n bn\s01688\#006.\s001az") atled: input/output error (5) eraucoliad pee wserabare got bur te fated
+= frsyne: readlnk_stat(”/nedla/nare/can/record/2035-09-03(003)/¢8\9014\s00i\€\s012.r\007\#034") fated: Inputfoutput error (s) *#5 “net” (Wo such ftle or directory)
+syne: readlink_stat(" /medta/narc/ean/record/2015-08-03(001)/"Ma!stn-¥us") fated: Input output error (5) a i .
+= fst! reonk stat redt/narean/record/0is-09-enooi}/aitcie. tnt) fated: Inut/uteat error (3) cel_tined watt_stop: 2
+syne: readlink_stat(”/nedls/nare/can/record/2015-09-03(003)/:pVa\#036){.1sA") fated: input/output error (5 4
+syne: readLink_stat(” /nedta/narc/ean/record/2015-09-03(001)/079\#021\#01219\#031.<U.") fated: Input/output error (5) {£22 cotled "net usershare tnfo" but tt fated:
+= rsync: readtink_stat(”/nedta/nare/ean/record/2015-09-03(001)/Uig\ #030) eSu. \F00sx]") fatted: Input/output error (5) oss “net” (No such ftle or directory)
+Feadltnk-stat("/edta/nare/can/record/2015-09-03(001)/¢iflseh\s001_xte") fatted: Input/output error (5)
+syne: readlink_stat(” /nedta/narc/ean/record/2015-09-03(001)/e\#006e.\s036\=") fatled: Input/output error (5)
+= rayne: readlink_stat(”/nedla/nare/can/record/2035-09-03(003)/1\w0203toevof") fated input/output error (5)
+syne: Feadlink_stot(”/nedto/nare/ean/record/2015-09-03(001)/) ntyaolo.4") fatteg: Input/output error (5)
+rsync: readtink_stat(”/nedta/mare/can/record/2015-09-03(001)/qa\vos4ea\s001 1. 4aG") fated: Input/output error (5)
+= syne: readlink-stat(”/nedle/nare/can/record/2035-09-03(003)/ey\#0024N\\s0034. qf) Fated: input/output error (3)
+rayne: readlink_stat(”/nedle/nare/can/record/2035-09-03(001)/La)s\s0220\s0911 He") fatled: input/output error (5)
+- rsyne: Feadlink_stat(:/nedto/nare/ean/record/2015-09-03(001)/f\#016\F017-ig? Af") fatled: Input/output error (5)
+syne: Feadtink_stat(”/nedta/nare/ean/record/2015-09-03(001)/-Inat‘o_ -ah\gog2") fated: Input/output error (5)
+syne: readlink_stat(" /ned\a/narc/can/record/2015-08-03(083)/ rBiSex.4") failed: Input/output error (5)
+2 == syne: readlink_stot(”/nedte/nare/ean/record/2015-09-03(001)/ FO33eq/x\s036.0\F001X") fatted: Input/output error (5)
+syne: Feadtink_stat(”/nedta/mare/ean/record/2035-09-03(001)/9\#030~y4N") fatied: Input/output error (5)
+== syne: readtink_stat(”/nedta/mare/can/record/2015-09-03(001)/24R031isUKey.Ota") fated: Input/output error (5)
+= liatstetnpacdosadtst.ext
+record)
+= == record/2015-09-03(001)/
+record/2015-09-03(001)/\ro0scel\so2ser.\r0151\x035
+syne: reed errors napping ~/nedlo/nare/con/recard/2015-09-03(001)/\fo0scel[\s024=".\fo15!\#035": Input/output error (5)
+= record/2015-09-03(00%)/\#6076\#008920[8. #01009
+

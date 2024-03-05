@@ -1,0 +1,63 @@
+3.
+
+TI. Program Names
+
+IV. If sessi
+
+d outlet, 6-plug outlets,
+on: surge-suppressed ot, Goplug cue
+Bee power ‘supply, monitor, disk drij
+
+& One
+a
+ite noise generator and shock gener:
+gurn on Witt nob). set shock generators to deliver |
+ang!
+{eight knob) «
+
+plug in power cords to restraint boxes.
+
+4. To set up interface:
+; ; ae "(c c. 2) into:
+t disk labeled "Rayfield..." (Cc. 1 or Eo
+
+Be Eee LOAD "ML 18",8,1 and press:
+
+¢. After "READY." appears, type NEW and presi
+
+5. To run desired program:
+
+. Put disk labeled "SHOCK PROGS" into drive
+b. Type LOAD "[filenane}",8 and pret
+c. Type RUN then answer each question and press
+
+SHOCK Delivers
+
+EYR-2 Delivers shocks to two escape-yoked pairs.
+Increase response requirement, F1/F3
+Decrease response requirement, F2/F4
+Impose minimum 0.8-s delay, F5/F6
+(Print out data with EYR2CHK]
+
+TRIPLE Delivers escapable shocks to three rats.
+Increase response requirement, F1/F3/F5
+Decrease response requirement, F2/F4/F6
+Impose minimum 0.8-s delay, 1/2/3
+(Print out data with TRIPLECHK]
+
+TII. To turn off equipment:
+
+Work backwards from Step 3 above.
+
+terminate ematurely:
+1. Press RUN/STOP key
+2. Type POKE 56846,0
+
+and press Return
+25
+
+Restart program by typing RUN
+
+Sot atl else fits, turn ort computer and start
+
+. ©@

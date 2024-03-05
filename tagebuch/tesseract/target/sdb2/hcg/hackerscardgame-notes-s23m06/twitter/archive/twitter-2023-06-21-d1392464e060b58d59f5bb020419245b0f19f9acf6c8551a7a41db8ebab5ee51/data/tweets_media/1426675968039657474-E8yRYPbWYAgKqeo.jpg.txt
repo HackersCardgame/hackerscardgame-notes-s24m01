@@ -1,0 +1,67 @@
+@ BPaRm x | @ MP roe x | @ Bene x | O
+€
+
+S  & desniepesiaorg/ns
+
+get @) Loeseamentlen fy De been rena
+
+WIKIPEDIA
+
+Die freie Enzyklopiidie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+‘Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+
+| 9 Homes Tx | BE Login x | BE Meine Se x | G pickpost x | HE MyPost? x | WF PinkyDet x | [D TweetDe: x |W Home/T x | G rehome x Woheuee x + @ = GF xX
+
+Restrkendes Leman an a@®
+
+Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte _ Wikipedia durchsuchen Q
+
+Bestarkendes Lernen
+
+Bestiirkendes Lernen oder verstarkendes Lernen (englisch reinforcement learning) steht fur eine Reihe von Methoden des maschinellen
+Lemens, bei denen ein Agent selbststaindig eine Strategie erlernt, um ethaltene Belohnungen zu maximieren. Dabei wird dem Agenten
+nicht vorgezeigt, welche Aktion in welcher Situation die beste ist, sondern er erhailt zu bestimmten Zeitpunkten eine Belohnung, die auch
+negativ sein kann. Anhand dieser Belohnungen approximiert er eine Nutzenfunktion, die beschreibt, welchen Wert ein bestimmter Zustand
+‘oder Aktion hat.
+
+Der Begriff ist der Psychologie entlehnt und wurde bereits seit den Anfangen der Kybernetik verwendet. So benutzte schon Marvin Minsky
+den Begriff in seiner Dissertation von 1954." Die Modelle des bestarkenden Lernens versuchen das Lernverhalten in der Natur
+nachzubilden.
+
+Inhaltsverzeichnis [Verbergen]
+1 Modell
+
+2 Lemnverfahren
+
+3 Literatur
+
+4 Weblinks
+
+5 Einzeinachweise
+

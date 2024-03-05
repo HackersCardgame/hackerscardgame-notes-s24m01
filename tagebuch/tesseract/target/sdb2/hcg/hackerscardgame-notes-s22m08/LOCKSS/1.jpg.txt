@@ -1,0 +1,44 @@
+< fou
+
+2¢
+
+vst
+
+®
+
+S bm
+
+GitHub -lockss/lockss-daemon: The central repository forthe LOCKSS project - Mila Firefox
+Bstre | Tete | @ Face | w Star | iM Mein | @ Face | @ Face | Face | ee Tom | E Mets | @heis | G jaro | Tele | weve | wish | G asec | F str | F Sei
+
+© earch with Google orenter adress
+oe ye)
+README Toes
+
+Classic LOCKSS Daemon —
+
+Languages
+
+‘This is the source tee for the classic LOCKSS daemon (version 1.x). See https:/wwwlockss.org! for information
+about the LOCKSS Program,
+
+Source
+‘Aoone-time copy can be obtained with Wet or Cur
+
+a wath wget
+ast netps://github.con/lackss/lockss-daeron/archive/master.2in
+
+curl -L -o master.2ip nttps://github.com/1ockss/1ockss-daenon/archive/naster.21p
+
+‘A buildable snapshot can be obtained by cioning the master branch:
+
+Gt clone --depth 4 --branch master git@github.con:lockss/lockss-daenon. gst
+
+Git clone --depth 1 --branch master https://github.con/lockss/ockss-daenon. git
+
+(326059371396 Mein Geta UISPOR Ns UDEKSS Sade irs Gieirei
+
+vse
+
+wioc |QGx|> +
+nog Pw

@@ -1,0 +1,29 @@
+4 Modulatorische Neurostimulation - Epilepsie und Schmerz
+
+10mvi 0,15nA
+
+K*-Stréme KCNQ2*!*
+2.B. |g RMP
+7 -80mV
+
+schneller
+Na*-Strom
+
+KCNQ(In) KeNQ2"!-
+RMP ! loms RMP
+-80mV -80mV
+100ms
+z.B. persistierende 20mV
+
+a Na*-Stréme b
+
+epileptische Aktivitat
+
+i
+f |
+
+7 J 2 4 5 6 7 8 9 10
+
+£ Simulationsartefakt Zeit [s]
+
+= ag:

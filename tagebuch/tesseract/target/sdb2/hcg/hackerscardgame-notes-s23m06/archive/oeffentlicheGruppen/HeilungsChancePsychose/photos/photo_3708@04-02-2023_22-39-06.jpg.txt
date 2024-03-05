@@ -1,0 +1,54 @@
+‘tesimarc@debian:-$ mkdir vera
+
+marcimarc@debian:~$ cd vera/
+
+marc(marc@debian:~/vera$ youtube-dl https: //wmw.youtube.com/watch?v=dugs3j4Pnma
+marc [youtube] dugs3j4Prmw: Downloading webpage
+
+[mais [youtube] dugs3j4Pnmw: Refetching age-gated info webpage
+
+3 f:WARNING: unable to download video info webpage: HTTP Error 41
+
+‘ereiERROR; Sign in to confirm your age
+
+creThis video may be inappropriate for some users.
+
+cremarc@debian:~/veras
+
+Enum
+
+Coun’
+
+Delta compression using up to 12 threads
+
+Compressing objects: 10@% (5/5), done.
+
+Writing objects: 100% (5/5), 5.86 MiB | 3.99 MiB/s, done.
+
+Total 5 (delta 1), reused @ (delta @), pack-reused 0
+
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+
+To github. com-hackerscardgame-notes :HackersCardgame/hackerscardgame-notes-s23m01.git
+eOd2ac6..5e9b2b1 main -> main
+
+marc@debian:~/hackerscardgame-notes-s23m01$ cd
+
+marc@debian:~$ python3 S(which yt-dlp) https: //www. youtube. com/watch?v=dugs3j 4Prmw
+[youtube] Extracting URL: https: //wmw. youtube. com/watch?vedugs334Pnma
+{youtube} dugs3j4Pnmw: Downloading webpage
+[youtube] dugs3j4Pnmw: Downloading android player API JSON
+[youtube] dugs3j4Pnm: Downloading tv embedded player API JSON
+{youtube] dugs3j4Pnmw: Downloading web embedded client config
+[youtube] dugs3j4Pnmw: Downloading player 97ea7458
+{youtube} dugs3}4Pnmw: Downloading web embedded player API JSON
+WARNING: [youtube] dugs3j4Pnmw: nsig extraction failed: You may experience throttling for some formats
+Install PhantomJS to workaround the issue. Please download it from https: //phantomjs.org/download. html
+n= CSBIBIABtbbCie ; player = https: //www. youtube. com/s/player/97ea7458/player_ias.vflset/en_US/base. js
+WARNING: [youtube] dugs3j4Pnmw: nsig extraction failed: You may experience throttling for some formats
+Install PhantomJS to workaround the issue. Please download it from https: //phantomjs.org/download. html
+f= Q3lrqprTnmaQhS ; player = https: //www. youtube. com/s/player/97ea7458/player_ias.vflset/en_US/base. js
+[info] dugs3j4Prmw: Downloading 1 format(s): 22
+[download] Destination: CBD bei Psychose? @#@ Legal kiffen und dabei deine Psychose heilen? [dugs3j4Pnmw] .mp4
+[download] 4.6% of 138.08MiB at 65.30Ki8/s ETA 34:25]
+

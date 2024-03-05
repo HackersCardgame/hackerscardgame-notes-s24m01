@@ -1,0 +1,17 @@
+Raspberry Pi Imager v1.7.3
+Betriebssystem
+Zuriick
+
+Zuriick zum Hauptmenii
+
+Ubuntu
+Choose from Ubuntu Desktop, Server, and Core images
+
+<
+©
+hil Manjaro ARM Linux
+
+A
+RISC OS Pi
+A fast and easily customised operating system for ARM devices
+

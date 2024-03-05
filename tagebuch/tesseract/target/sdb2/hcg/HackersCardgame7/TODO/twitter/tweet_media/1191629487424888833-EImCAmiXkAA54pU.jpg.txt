@@ -1,0 +1,41 @@
+In his book, Principles of Behavior,'13) he developed the following formula:
+sEp = sHa x Dx V XK
+
+Where:
+sEg is excitatory potential (likelihood that the organism would produce response r to stimulus s)
+
+sla is the habit strength (derived from previous conditioning trials),
+
+Dis drive strength (determined by, e.g., the hours of deprivation of food, water, etc.)
+
+Vis stimulus intensity dynamism (some stimuli will have greater influences than others, such as the
+lighting of a situation)
+
+and K is incentive (how appealing the result of the action is).{81l141
+
+A variety of other factors were gradually added to the formula to account for results not included by this
+simple function. Eventually the formula became:
+
+sEa = VX DXKXJ x sHa-In- sla - sOr- sla
+
+such that Ik is reactive inhibition (inhibition caused by continual performance of a behavior that
+dissipates over time),
+
+sla is conditioned inhibition (inhibition caused by continual performance of a behavior that does not
+dissipate over time).24
+
+produce learning
+
+Inventor: xxxxx
+
+Formula from Clark Hull describing how programm
+Stimulus-Response-Habits. Today it is "possibly"
+implemented in software. The sort of Deprivation or the
+Stimulus would maybe change randomly. The
+communication channel (tl, t... cards) are maybe
+randomized to, like SE-235 frequency hopping.
+
+Psychological dimension: things like exposure time, for
+example 17 years torture or "white" torture after an initial
+m38 card would be important too.
+

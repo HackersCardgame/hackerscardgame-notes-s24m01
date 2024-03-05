@@ -1,0 +1,18 @@
+7
+Inventor: José Manuel Rodriguez Delgado ~1950
+Originally developed by Delgado, possibly been
+enhanced "in secrecy" since 70 Years, placed directly
+in the brain, and with software like OpenBCl and
+maybe Deep’ Learnign’ algorithms _ possibly
+recognizes even detaild thougths. (see Neuralink,
+Elon Musk, HoneyPot) No matter how good the
+encryption would be, if wires are mede out of
+metallic wires all such devices would be vulnerable
+to side-channel attacks [fc = A/n] if geometry if the
+wires are know and there is a transmitting device
+with enough power nearby. (unsure if t25 or t26 or
+both cards) | tweeted to Elon Musk asking what he is
+going to do about this vulnerability, but he did not
+answer so far. Maybe just HoneyPot for older
+technologies, and maybe Hashtags are filtered.
+

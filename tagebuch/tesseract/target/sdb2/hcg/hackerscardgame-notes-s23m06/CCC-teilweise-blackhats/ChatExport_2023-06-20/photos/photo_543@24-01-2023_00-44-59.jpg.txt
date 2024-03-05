@@ -1,0 +1,57 @@
+@P us ueBenodey 1q pum uaussweBliy
+
+"yemss jeyinnyalgo
+AP Iglaig ‘uapiem puemaBue uapoyewuyuag
+
+marc@debian: ~/hackerscardgane-notes-s23m01/schwurbel-buch$ for i in $(seq 1 33); do tesseract $i.jpg $i.txt -1 deu ; done
+
+Detected 22 diacritics
+Detected 9 diacritics
+
+Detected 17 diacritics
+
+Error, cannot read input file 8. jpg: No such file or directory
+Error during processing.
+
+Error, cannot read input file 9.jpg: No such file or directory
+Error during processing.
+
+Detected 61 diacritics
+
+Detected 60 diacritics
+
+Error in boxClipToRectangle: box outside rectangle
+
+Error in pixScanForForeground: invalid box
+
+Detected 11 diacritics
+
+marc@debian: ~/hackerscardgame-notes-s23m01/schwurbel-buch$ 1s
+
+“S.txt.txt’ — 13.jpg 16.txt.txt 1.Jpg 22.txt.tet  26.Jpg 29.txt.txt  32.jpg 4.txt. txt
+10. jpg 13.txt.txt —17.jpg iitettxt — 23.jpg 26.txt.txt  2.jpg B2.txt.txt  5.jpg
+1o.txt.txt 14.jpg 17.txt.txt  20.jpg 23.txt.txt 27.Jpg 2.txt.txt — 33.jpg 5. txt. txt
+11. Jpg 1d.txt.tet 18. Jpg 20.txt.txt 24.jpg 27.txt.txt 30. Jpg 33.txt.txt 6.Jpg
+Ai.tet.tet  15.jpg 18.txt.txt 21.jpg 24.txt.tet  28.jpg 30.txt.txt 3.jpg 6. txt. txt
+12.5pg 15.txt.txt 19.jpg 2L.txt.txt 25.Jpg 2B.txt.txt 31.Jpg B.txt.tet — 7-Jpg
+
+12.txt.txt 16. jpg 19.txt.txt  22.jpg 25.txt.tet 29.Jpg B1.txt.tet  4.Jpg 7.txt txt
+marc@debian: ~/hackerscardgame-notes-s23m01/schwurbel-buch$ for i in $(seq 1 33); do cat $i.txt.txt >>all.txt; done
+marc@debian:~/hackerscardgame-notes-s23n01/schwurbel-buch$ head all.txt
+WISSEN, was
+
+besteht aus Feigheit und
+
+Groll. Vieles davon du kannst
+weil
+
+Zu dieser Angelegenheit wird es Fragen
+geben. Wer bezahlt die Sache? Wer bezahlt
+
+die Sache? Also wiBte ich gerne etwas Uber
+
+das Renonmee des Finanziers. Aulterdem
+marc@debian:~/hackerscardgame-notes-s23m01/schwurbel-buchs
+
+B.txt.txt
+9.txt. txt

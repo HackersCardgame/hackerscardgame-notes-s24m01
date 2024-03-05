@@ -1,0 +1,69 @@
+Qa root@degian:fhome/marc/pam-usb-seriaLdithy/src
+
+renote! Invalid usernane of password.
+fatal: Authentication fatled for "https: //atthub.con/bratndef /pan-usb-sertal/’
+
+[br atndefegt thub.con’
+43, done.
+Counting objects: 100% (43/43), done.
+Delta conpresston using up to 12 threads
+Conpressing objects: 100% (40/40), done.
+Writing objects: 100% (40/40), 45.34 KLB | 1.97 MB/s, done:
+Total 40 (delta 8), reused 0 (delta 0)
+renote: Resolving deltas: 100% (8/8), done.
+To https: //gtthub.con/bratndef /pan-usb-sertal
+
+13023¢. .60de697._ aster -> master
+narcedegtan:~/pan-usb-sertals 1d
+Ud: no input Teles
+narc@degtan:~/pan-usb-sertals 1s
+changelog COPYING doc Hakeftle READNE.nd src tools
+-Jpan-usb-sertats ¢d sre/
+“/pan-usb-sertaljsrcs Us
+conse conf.h device.c. device:h hal.c hal.h local.c local.h log.c log.h men.c nench pad.c
+narcédegtan:~/pan-usb-sertal/sreS gedit *
+
+xn
+narcedegtan:~/pan-usb-sertal/srcs vin /etc/pan.d/
+
+chen ‘connon-sesston gén-Launch-environnent Login
+chpassid Connon-sesston-nontnteractive gén-password newusers
+chsh ron gnone- screensaver other
+conmon-account cups, Ughtan passwd
+connon-auth ‘Sdn: autologtn Ughtdn-autotogin potkit-1
+connon-password dn- fingerprint Ughtdn-greeter pp
+narc@degtan:~/pan-usb-sertat/sres vin /etc/pan-d/connon-auth
+
+naredegtan:~/pan-usb-aertal/sreS sudo 1!
+Sido. vin fetc/pan.d/connon- auth
+(sudo) patsword for nares
+naredegtans=/pon-usb-sertat/sreS sudo su
+rovtgdestan: (hone /narc/pancusb-sertal-éirthy/srcs pamisb-conf --add-user marc
+roleeviead teen
+You must adda device (--odd-device) before adding users
+rootegtan: hone /narc/pon-usb-sertat-dtrthy/sre® ponusb-cont --odd-devtce blah
+Tracebsck (nose recent eat Last):
+Hite S/usr/Btn/ponusdecont™, Line 252, tn <nodute>
+“forg/treedeskeop/votsks'3
+ete *usr/tb/python2.7/dtst-packages /dbus/bus.py", Une 261, tn get object
+Fottow_none-ouner.changes=fottow none owner changes)
+rte */sr/ib/pythona/st-packages /abus/prortes-py", Uine 248, An _tntt_
+elt. naned service > conn. acttvate.naneonner (bus nae)
+rite */asr/tbjpython2.7/6st-package3/abus/bus-py", Line 289, tn actLvate.nane_omer
+Settvatart-service. by. nane(bus-nane),
+File *7ust/Libjpython27/atst-packages/dbus/bus.py", Une 278, tn start service by.nane
+deal Ceesteene, 130)
+te "/use/ ibjpython27/3kst-packages /dbus/connectton.py", Une 651, tn catt blocking
+nessave,_tineout)
+dbus exceptions” dsustxceptton: org. freedesktop. 08
+ee eagles abe et
+
+pad.h pan. panusb-check.c verston-h volune.c volune.h xpath. xpath.h
+
+unuser-1
+sudo
+
+sul
+systend-user
+
+-Error.ServiceUnknown: The nane org.freedesktop.UDisks was not provided by any .service files

@@ -1,0 +1,17 @@
+Block 361
+
+hes ani
+cdi} AC
+ed 1 badblocks —w
+bad blocks in read-write mode
+te 4044974
+
+pattern Oxaa: done
+
+SOmparing: 4044972 done. 14:11:14 elapsed. (0/0/0 errors
+94511:15 elapsed. (1/0/0 errors : :
+
+Bpattern OxS5: B53-90x done, 14:54:16 ela
+
+psed. (37070 errors)
+

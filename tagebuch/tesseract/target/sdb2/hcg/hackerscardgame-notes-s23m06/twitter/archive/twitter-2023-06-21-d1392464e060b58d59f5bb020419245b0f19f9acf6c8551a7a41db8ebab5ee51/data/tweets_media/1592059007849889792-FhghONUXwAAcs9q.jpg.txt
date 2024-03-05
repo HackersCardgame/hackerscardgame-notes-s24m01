@@ -1,0 +1,21 @@
+marc@debian: :~/arc/txt/tagebuch/2013$ fgrep -ri versicherung *
+August/130830. txt: f) versicherungsbetrug und obfuscation tiber foucaoult generalisiserten kanit
+evaluator /Wordcount. txt: 1 versicherungsmitarbeiter
+
+evaluator/Wordcount . stxt; 1 zrichversicherung
+evaluator/Wordcount.txt: 1 ziirichversicherung
+evaluator/Wordcount.txt: 4 lebensversicherung
+evaluator/Wordcount. txt: 4 versicherungsbetrug
+evaluator/Wordcount. txt: 6 versicherung
+
+grep: evaluator/temp.txt: binary file matches
+
+Januar/130130.txt:5. versicherung nach geld fragen, oder den mitarbeiter so versklaven
+Juli/130723. txt:
+
+September/130914. a -
+grep: temp. txt: binary file mercies:
+grep: Wordcount.txt: binary file matches
+marc@debian: ~/arc/txt/tagebuch/2013$ ff
+
+cherung + gesundheitscheck???

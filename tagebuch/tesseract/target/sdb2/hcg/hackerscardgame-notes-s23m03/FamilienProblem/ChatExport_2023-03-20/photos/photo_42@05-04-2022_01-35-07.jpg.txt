@@ -1,0 +1,16 @@
+public abstract System
+{
+
+abstract Anpassungsfunktion
+
+abstract Zielverwirklungsfunktion, ziele nach Wichtigkeit durchsetzen
+
+abstract Integrationsfunktion -> kontrolle der inneren Ordnung (ISBN 978-3-8409-2475-0: Synergetischer Ordner)
+abstract Latenzfunktion
+
+]
+
+abstract organisches system extends System
+abstract psychisches system extends System
+abstract soziales system extends System
+abstract kulturlles system extends System

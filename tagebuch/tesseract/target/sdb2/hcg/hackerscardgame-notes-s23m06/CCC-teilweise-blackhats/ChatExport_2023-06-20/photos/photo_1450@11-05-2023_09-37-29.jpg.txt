@@ -1,0 +1,62 @@
+‘marc@windoof: Imnt/eMhegiminkorrekt x
+
+File Edit View Search Terminal. Help
+g' srcset='https: //secure .gravatar. com/avatar/2036a7e74ae93d4f2c376b67 21323697:
+8! lazy’ decoding='async'/><span class="fn">Marc jr. Londolt</span> sagte am <a hre
+23-03-09T04:13:07+01:00">Marz 9, 2623 um 04:13 Uhr</time></a> <span class="says">:</span>
+minkorrekt.de/mi240-popcorn-poesie/index. html <a rel='nofollow’ class=" conment-reply-Link’ href='https://minkorrekt .de/mi240-popcorn-poesie
+/?replytocon=145271#respond’ data-conmentid="145271" data-postid="4012" data-belowelenent="comment-145271" data-respondelement="respond” data-replyto="Antworte auf Marc jr.
+Londolt* aria-Label='Antworte auf Marc jr. Lando\t'>Kommentiere <span>Sdarr;</span></a> -reply -->
+
+minkorrekt.de/minkorrekt -folge-103-apfelnagel/index.html <ing alt=" sri /secure. gravatar. con/avatar/2036a7e74ae93d4f2c376067F
+2132369?5=686#038 ; d=nm&#038; r=g' srcset='https://secure. gravatar .com/avatar/2036a7e74ae93d4f2c376b67f213236975=1365#038 ; d=nm&#038;r=9 2x' class='avatar avatar-68 photo’ heig
+ht='68' width='68' Loading='lazy’ decoding='async'/><span class="fn"><a href="http: //www.marcionco\t.ch” class="url" rel="ugc external nofollow">Marc Lancolt</a></span> sagt
+e am <a href="https: //minkorrekt.de/minkorrekt-folge-103-apfelnagel/#conment-40046"><time datetime="2017-08-29T23:11:32+02:00">August 29, 2017 um 23:11 Uhr</time></a> <span
+class="says">:</span>
+
+minkorrekt.de/minkorrekt- folge-103-apfelnagel/index.html: <a rel='nofollow' class='comment-reply-Link' href='https: //minkorrekt.de/mink
+orrekt-folge-103-apfelnagel/?replytocom=40046#respond’ data-conmentid="40046" data-postid="1950" data-belowelement="comment-40046" data-respondelement="respond" data-replyto
+="Antworte auf Marc {endoli" aria-label='Antworte auf Marc ondol'>Kommentiere <span>Sdarr;</span></a> </dive<!-- .reply -->
+ninkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/index.html <img https: //secure. gravatar. com/avatar/2036a7e74
+ae93d4f2c376b6721323697s=686#038 ; d=nm&#038; r=g' srcset="https: //secure. gravatar. con/avatar/2036a7e74ae93d4f2c376067f21323697s=1366#038 ; d=nm&#038;r=g 2x' class='avatar avata
+r-68 photo’ height='68' width="68' loading='Lazy' decoding='async'/><span class="fn">Marc Lovol'</span> sagte am <a href="https://minkorrekt .de/minkorrekt-folge-106-nobelpr
+eissonderfolge-2017/#conment -41427"><time datetime="2017-10-18T68:58:51+02:00">0ktober 18, 2617 um 08:58 Uhr</time></a> <span class="says">: </span>
+minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/index. html <a rel='nofollow’ class='conment-reply-Link’ href='https://mi
+nkorrekt.de/minkorrekt- folge-106-nobelpreissonderfolge-2617/?replytocom=41427#respond’ data-conmentid="41427" data-postid="1998" data-belowelement="comment-41427" data-respo
+ndelement="respond” data-replyto="Antworte auf Marc andolt" aria-label='Antworte auf Marc Lonco\t'>Kommentiere <span>&darr;</span></a> </div><!-- or
+eply -->
+
+minkorrekt..de/minkorrekt- folge-154-unangenehmer-duenkel/index. html <img alt='' src='https://secure.gravatar.con/avatar/2036a7e74ae93d4f2
+¢376b6721323697s=686#038 ; d=mm&#038;r=g' srcset='https: //secure.gravatar.con/avatar/2036a7e74ae93d4f2c376b67 f213236975=1366#038 ; d=nn6#038; r=g 2x' class='avatar avatar-68 pho
+to’ height="68' width='68' loading='Lazy’ decoding='async' /><span class="fn"><a href="https://marci dol .ch/HackersCardgame3/jpg/EN/#t14" class="url" rel="ugc external nofo
+Ulow">Mare jr. Lendoli</a></span> sagte an <a href="https: //minkorrekt.de/minkorrekt- folge-154-unangenehmer-duenkel/#conment -61493"><time datetime="2019-11-09T20:54:17+01:00
+“sNovember 9, 2019 um 20:54 Uhr</time></a> <span class="says">:</span>
+
+minkorrekt.de/minkorrekt-folge-154-unangenehmer-duenkel/index .html <a rel='nofollow’ class="conment-reply-Link’ href='https://minkorrekt
+.de/minkorrekt -folge-154-unangenehmer-duenkel/?replytocom=61493#respond' data-conmentid="61493" data-postid="2743" data-belowelenent="comment-61493" data- respondeLemen
+pond" data-replyto="Antworte auf Marc jr. Lordolt" aria-label='Antworte auf Marc jr. \andolt'>Kommentiere <span>Sdarr;</span></a>
+
+eply -->
+
+narc@windoof: /nnt/e/heg/minkorre
+for i in $(cat alleFolgen.txt)
+do
+
+13664038 ; d=nm&#038; r=g 2x' class='avatar avatar-68 photo’ height='68' width='6
+ittps://minkorrekt .de/mi240-popcorn-poesie/#comment-145271"><time datetime="20
+
+$ cat wiget.sh
+
+# wget -rl1 -w10 -e robots=off --continue --no-parent https://minkorrekt.de/page/Si/
+echo $i
+
+wget -e robots=off --continue --no-parent $i
+
+sleep 10
+
+done
+
+narc@windoof: /nnt/e/heg/minkorrekt$ []
+
+HE a sie Meaemeoavee:s- Pe - UZNBLAADD”
+

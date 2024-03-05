@@ -1,0 +1,31 @@
+TODOs
+
+ArrayList al = new ArrayList (a.length);
+
+for (int i = 0; i < a.length; i++)
+al.add (a[i]);
+
+return al;
+
+}
+
+// UseTul until java 1.5 -ghuang
+; it{] toIntArray (ArrayList list)
+{
+
+[] result = new int[list.size()];
+
+for (int i = 0; i < list. size();
+Number_n
+
+Inventor: xxxx Year: ~????
+As soon they have your TODO list they start
+to write psychological warfare  socio-
+psychology design patterns for that specific
+todo. Lock this item on my TODO's list until
+this malware is finished and they use it as
+"additional selector" which seems to be more
+some sort of booby-trap to hunt down
+innocent people that are brave enogh to
+speak out against satan.
+

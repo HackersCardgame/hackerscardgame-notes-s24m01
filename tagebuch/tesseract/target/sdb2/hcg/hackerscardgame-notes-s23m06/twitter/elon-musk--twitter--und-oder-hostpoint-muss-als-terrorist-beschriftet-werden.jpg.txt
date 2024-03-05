@@ -1,0 +1,49 @@
+FV onpanata-na nnn A Qo om (es A =m ® mou
+
+marcland@s92: ~/www/0x8.ch/twitter-20230612 x
+File Edit View Search Terminal Help
+
+drwxr--r-- 12 marcland marcland 8192 Jun 13 06:28 ©
+
+-rw-r--r-- 1 marcland marcland 1432 Jun 13 06:31 test.html
+
+-rwxr-xr-x 1 marcland marcland 659598466 Jun 13 06:19 twitter-2023-06-12-d1392464e060b58d59f5bb020419245b0f19f9ac
+£6c8551a7a41db8ebab5ee51. zip
+
+-rw-r--r-- 1 marcland marcland 1432 Jun 12 21:12 Your archive.html
+[marcland@ :~/www/0x8.ch/twitter-20230612] $ /bin/chmod a+x assets/
+[marclanda :~/www/0x8.ch/twitter-20230612] $ /bin/chmod a+x data/
+[marcland@ :~/www/0x8.ch/twitter-20230612] $ a*?*?*C
+
+[marcland@ :~/www/0x8.ch/twitter-20230612] 130 $ *C
+
+[marcland@ :~/www/0x8.ch/twitter-20230612] 130 $ cat Your\ archive.html
+
+<!doctype html><html><head><meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8"><title>
+Your Twitter Data</title><style>@media screen and (min-width: 450px) {
+#mobile-error {
+display: none;
+}
+}
+#manifest-error {
+display: none;
+
+}</style><link rel="icon" href="./assets/images/favicon.ico"></head><body><div id="root"></div><div id="manifes
+t-error"><h3>Something went wrong, but don’t fret — let’s give it another shot</h3><p>You need to unzip your entire a
+rchive, not just individual folders, in order to view them here. If you keep experiencing errors, please <a href="htt
+ps://help.twitter.com/forms/privacy" target="_blank">fill out this form.</a></p></div><div id="mobile-error"><h3>Your
+
+archive isn’t available here.</h3><p>You need to view this on a desktop browser in order to see your archive.</p></d
+iv><script>function showManifestError() {
+
+document .getElementById('root').style.display = 'none';
+
+document .getElementById('manifest-error').style.display = 'block';
+
+}</script><script src="./data/manifest.js" onerror="showManifestError()"></script><script src="assets/js/runtim
+e@.9662ea169e7e46b859ee. js"></script><script src="assets/js/modules .9072ed6e90fe38c485fe. js"></script><script src="ass
+ets/js/il18n.e27e67d39fcc91627cab.js"></script><script src="assets/js/main.0506aebee0a5b8f83a32. js"></script></body></
+
+html>[marcland@ :~/www/0x8.ch/twitter-20230612] $ Yj
+[a
+

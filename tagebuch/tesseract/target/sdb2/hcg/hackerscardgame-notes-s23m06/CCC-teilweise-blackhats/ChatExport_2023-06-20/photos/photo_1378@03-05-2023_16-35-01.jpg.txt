@@ -1,0 +1,26 @@
+— + Q BG) BD Settenansicht | AY Lauty ad
+
+oS Se Conventions
+Figure 6-2. Gain Error
+Cutest ose aga
+i
+|
+VA }
+
+ae put Votan
+Integral ‘Afler adjusting for offset and gain error, the INL is the maximum deviation of an actual
+Nonlinearity (NL) transition compared to an Kea transition for any code. Ideal value: 0 Lb.
+Figure §-3. Integral Nonlinearity
+‘put Code,
+
+Veer input ‘Voltage
+Ditferentat ‘The maximum deviaion ofthe a
+Nonlinearity (DNL) transitions) the actual code width (the inerval between two adjacent
+
+‘rom the ideal code width {1 LSb). Idea! value, oL Sp
+Figure §-4. Differential Nonlinearity
+
+wan
+=m.
+
+ki

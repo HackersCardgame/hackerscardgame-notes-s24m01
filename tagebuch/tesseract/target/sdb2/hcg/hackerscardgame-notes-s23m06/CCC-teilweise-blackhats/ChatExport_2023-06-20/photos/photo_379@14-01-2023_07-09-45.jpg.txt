@@ -1,0 +1,8 @@
+Word embeddings
+
+rs) [os 0.16 ») | 0.33 | 0.10
+b= 4 | 0.29 | 0.68 | | | os1 | 0.71
+1
+
+2.dimensional word embedding representation of our example words
+

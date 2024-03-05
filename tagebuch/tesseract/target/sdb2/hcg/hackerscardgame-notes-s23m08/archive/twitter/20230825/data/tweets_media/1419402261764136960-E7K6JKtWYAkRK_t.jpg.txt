@@ -1,0 +1,88 @@
+ PikyDet on Twiten “Meine ec x |
+
+€ > Sf dasniipesinorgnty
+
+Artikel verbessemn
+Neuen Artikel anlegen
+‘Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+‘Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+‘Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+Permanenter Link
+Seiteninformationen,
+Attikel zitieren
+Wikidata-Datenobjekt
+
+Drucken/exportieren
+Buch erstellen
+
+Als PDF herunterladen
+Druckversion
+
+tn anderen Sprachen
+
+ayall
+English
+Espanol
+
+@ erieenosauers
+
+Home Titer X | @ Payrosentschisophvenie foc: X | G pulpfictontoter= Google Suc x | J WebCtequey rent x | IB spheardpng (SBR) x
+
+Rang, atest
+
+dept @ Loeseamentlen fy DebenenFenar W Sondemuldepanie. ff Te 8STRnet  AusoPugnGuy|  Thebtent¥EE Fe
+
+innansverzerennis (veroergen}
+1 Definition
+
+2 Berechnung
+
+3 Quadratische Matrizen
+
+4 Eigenschaften
+
+5 Literatur
+
+6 Einzeinachweise
+
+Definition [Bearbeiten | Quelitext bearbeiten ]
+
+* Fur eine Matrix A definiert man den Zeilenraum ZR(A) als die lineare Hille der
+Zeilenvektoren aus A. Die Dimension des Zeilenraums bezeichnet man als Zeilenrang, sie
+entspricht der Maximalzahl linear unabhangiger Zeilenvektoren.|"] Analog definiert man den
+Spaltenraum S'R(A) und den Spaltenrang durch die Spaltenvektoren. Man kann fiir
+Matrizen mit Eintragen aus einem Kérper zeigen, dass der Zeilen- und Spaltenrang jeder
+Matrix gleich ist, und spricht deshalb vom (wohldefinierten) Rang der Matrix. Dies gilt fur
+Matrizen iiber Ringen nicht im Allgemeinen.
+
+* Der Rang eines Systems aus endlich vielen Vektoren entspricht der Dimension seiner linearen
+Hille (21
+
+* Bei einer /inearen Abbildung f ist der Rang als Dimension des Bildes Bild(f) dieser
+Abbildung definiert
+rang(f) = dim(Bild(f)).
+
+emssancanegnyht 5 Inuctepieri.2-2g
+
+1}/ 8) {13
+14} }11)| 2
+4)/5||16
+15) (10) \ 3
+
+Spaltenvektoren einer Matrix
+
+a

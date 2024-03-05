@@ -1,0 +1,27 @@
+exists another system that's called , and we revealed abou
+system in the Spiegel publication today as well. So if TURMOIL is deep
+packet inspection, then TURBINE is deep packet injection. And it is the
+system that combined together with the things — with TURMOIL and
+TURBINE you can create a platform which they have consolidated which
+they call QFIRE. QFIRE is essentially a way to programmatically look at
+things that flow across the internet that they see with TURMOIL and then
+using TURBINE they’re able to actually inject packets to try to do attacks,
+and I'll describe some of those attacks in detail in a moment.
+
+But essentially the interesting thing about QFIRE also is that they have a
+thing that’s called a fff. So if you have for example a large number of
+systems where you control them, you might say, “Hey, what are you doing on
+that backbone?” “Hey, what’s going on with these systems?” And they could
+say, well, you know, we paid for access, we’re doing this, it’s all legal,
+etcetera. QFIRE has this really neat little detail which is that they compromise
+other people’s routers and then redirect through them so that they can beat
+the speed of light.
+
+And how they do that is that they have a passive sensor that’s nearby a thing
+that they can inject from, and when they see that thing sees a selector that is
+interesting to them or is doing a thing that they would like to tamper with in
+
+some way. then they take a i
+
+AN Alle heryorheben
+

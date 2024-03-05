@@ -1,0 +1,19 @@
+infinite loop
+with suggestions
+Activation-Times
+
+Inventor Petron Corporation (1933) Year1952
+An analogue continuous tape, where one can
+record suggestions such as e.g. 2 + 2 = 5, which
+is automatically activated at certain times.
+The tape will automatically turn off after 5
+minutes. With digital Equipment (computer /
+mobile phone) one can realize more complex
+systems. with cards: t7, t3, t12
+
+Use Cases
+
+During the night: learning while sleeping, learn
+foreign languages, unfortunately you can also
+upload a complete (wrong) world view to the Brain
+

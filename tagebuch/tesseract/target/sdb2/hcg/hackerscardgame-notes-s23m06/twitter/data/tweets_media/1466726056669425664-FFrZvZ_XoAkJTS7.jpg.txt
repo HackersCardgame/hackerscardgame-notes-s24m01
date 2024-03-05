@@ -1,0 +1,29 @@
+Military Expenditures by Country
+US$ billions, 2019
+
+Poland, 11.9
+Netherlands, 12.1
+Iran, 12.6
+Spain, 17.2
+Turkey, 20.4
+Israel, 20.5
+Canada, 22.2
+
+USA, 731.8 :
+Australia, 25.9
+
+Italy, 26.8
+
+Brazil, 26.9
+South Korea, 43.9
+
+Japan, 47.6
+United Kingdom, 48.7
+Germany, 49.3
+
+_— France, 50.1
+
+Saudia Arabia, 61.9
+
+Russia, 65.1
+India, 71.1

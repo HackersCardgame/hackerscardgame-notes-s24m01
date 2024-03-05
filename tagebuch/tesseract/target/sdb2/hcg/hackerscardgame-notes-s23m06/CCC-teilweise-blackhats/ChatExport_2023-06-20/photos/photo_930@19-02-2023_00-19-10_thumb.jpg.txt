@@ -1,0 +1,12 @@
+Raspberry Pi Imager v1.7.3
+
+Zuriick
+Zuriick zum Hauptmend
+
+Ubuntu
+Choose from Ubuntu Desktop, Server, and Core images
+
+‘based distribution aimed at embedded systems
+
+‘A fast and easily customised operating system for ARM devices
+

@@ -1,0 +1,15 @@
+Datei:TN-C-S-earthing de.svg
+w F
+
+Generator/
+Transformator
+
+VV
+
+a 2 eS ee |
+
+PEN
+
+| Verbraucher |
+
+Betriebserder Anlagenerder

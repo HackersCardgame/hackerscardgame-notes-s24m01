@@ -1,0 +1,40 @@
+Object Recognition
+
+Action Recognition
+
+PERSON1 HOLD
+
+AGENT
+MANIPULATION
+PATIENT
+
+start-frame, end-fram
+
+756
+2113
+
+//0x8. ch/HackersCardg ame23
+Inventor:
+
+One can identify the action with cams PatternRecognition
+of a certain period of time
+
+Pseudo Formula:
+actionRecog = patternRecog(t)
+
+based on that data one could identify objects, since many
+actions can be done only with certain objects.
+
+Pseudo
+actionRecog, © Objet,
+
+over a pullover normally identifies the
+pullover. eepecially when you have not that much input data
+one could identify may objects without having a cam but only
+with spectral data of WiFi (Tensors) to recognize it or with
+FitBit, Bewegungsfelder. Then add it to the 3D Model (m98/
+m99) It would take maybe a month but you could indentify
+maybe almost everything in a period of a month? That's maybe
+how they know What children do in their bed, we as a
+community should mitigate that if we can verify that.
+
