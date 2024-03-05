@@ -1,0 +1,161 @@
+‘Activities (©) Terminal ~ Okt1 22:17,
+
+a rmarc@deblan:~ me
+
+marc@debian:~ /sten.2010/tayeduch/2020/septenber$ ed
+nare@debian: $ rsync -avz Daten.2619 192,168.179.222:~
+marc@192.168,179.222"s password
+
+sending incremental fite list
+Daten.2019/musik/reason/not -broken/
+
+Daten 2019/tagebuch/2019/septenber/
+
+Daten 2019/tagebuch/2019/septenber/191001.txt
+Daten.2019/tagebuch/2019/septenber/frohsinn. svg
+
+sent 26,627,218 bytes received 151,170 bytes _1,373,250.67 bytes/sec
+total size is 153,676,931,958 speedup is 5,738.62
+
+nare@debian: $ rsync ‘avz'Daten.2019 192.168.192.234:~
+
+marc@192.168.192.234"s password
+
+sending incremental file List
+
+Daten.2019/musik/reason/not-broken/
+
+Daten. 2019/tagebuch/2019/deletedScenes/
+
+Daten.2019/tagebuch/2019/deletedscenes/ 190901. txt
+
+Daten. 2019/tagebuch/2019/deletedscenes/ 190962. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/ 1969020. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/ 190908. txt
+
+Daten 2619/tagebuch/2019/deletedScenes/ 190909. txt
+
+Daten. 2619/tagebuch/2019/deletedScenes/ 190910. txt
+
+Daten 2019/tagebuch/2019/deletedScenes/ 190912. txt
+
+Daten.2019/tagebuch/2019/deletedScenes/ 190914. txt
+
+Daten. 2019/tagebuch/2019/deletedscenes/ 190916. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190916. txt .swp
+
+Daten. 2019/tagebuch/2019/deletedScenes/ 190917. txt
+
+Daten. 2019/tagebuch/2619/deletedScenes/ 190918. txt
+
+Daten 2019/tagebuch/2019/deletedScenes/ 190919. txt
+
+Daten. 2619/tagebuch/2019/deletedScenes/ 190920. txt
+
+Daten.2019/tagebuch/2019/deLetedScenes/DROGENRING-AARAU. txt
+
+Daten 2019/tagebuch/2019/deletedScenes/DrkatherineHorton. txt
+
+Daten.2019/tagebuch/2019/deletedscenes/Screenshot from 2019-09-02 06-20-26.png
+
+Daten 2019/tagebuch/2019/deletedscenes/Screenshot from 2019-09-62 96-25-59. png
+
+Daten 2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-62 96-28-14. png
+
+Daten. 2019/tagebuch/2019/deletedScenes/Screenshot trom 2619-09-62 67-09-28.png
+
+Daten 2019/tagebuch/2019/deletedScenes/Screenshot trom 2019-09-62 67-09-32. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-35.png
+
+Daten 2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-42. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-46. png
+
+Daten 2019/tagebuch/2019/deletedscenes/Screenshot from 2019-09-02 67-09-50. png
+
+Daten 2019/tagebuch/2019/deletedscenes/Screenshot from 2019-09-62 67-09-56.png
+
+Daten 2019/tagebuch/2019/deletedscenes/Screenshot trom 2019-99-62 67-19-09. png
+
+Daten. 2019/tagebuch/2019/deletedScenes/Screenshot trom 2619-09-62 67-19-13.png
+
+Daten. 2019/tagebuch/2019/deletedScenes/andere- schizos-vor-falschen-prophenten-warnen. txt
+
+Daten 2019/tagebuch/2019/deletedScenes/andere-schizos-vor-falschen-prophenten-warnen2. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/domink. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/Tix-psychiatrie. txt
+
+Daten.2019/tagebuch/2019/deletedscenes/freihelt txt,
+
+Daten. 2019/tagebuch/2019/deletedScenes/
+
+Daten. 2019/tagebuch/2019/deletedScenes/haefliger.txt
+
+Daten. 2019/tagebuch/2019/deletedscenes/ index.htm
+
+Gaten. 3619/tagebuch/26i9/detetedScenes/haefliger. txt
+
+Daten. 2019/tagebuch/2019/deletedscenes/index.ntmi
+
+Daten. 2019/tagebuch/2019/deletedscenes/Leak.odt
+
+Daten. 2619/tagebuch/2619/deletedScenes/Lina-maja-2-tablets.txt
+
+Daten. 2619/tagebuch/2619/deletedScenes/nondtackell. txt
+
+Daten, 2019/tagebuch/2019/deletedScenes/ay-tor-node. txt
+
+Daten. 2019/ tagebuch/2019/deletedScenes/orlando- ist-IV-betrueger-der-die-psychiatrie-als-basis-und-waffe-missbraucht txt
+Daten. 2019/ tagebuch/2019/deletedScenes/question-fron- joseph. txt
+
+Daten, 2019/tagebuch/2019/deletedscenes/shrikey-again. txt
+
+Daten, 2019/ tagebuch/2019/deLetedScenes/shrikeys-autter-hat -muenchausner-stellvertreter-syndrom-questionnark.png
+
+Daten, 2019/tagebuch/2619/deletedscenes/tagebuch. sh
+
+Daten, 2619/tagebuch/2019/deletedScenes/Schizophrenie/
+
+Daten, 2019/tagebuch/2019/deletedScenes/Schizophrenie/ htaccess -> /hone/marc/Daten.2015/ayLife/Schizophrenie/ htaccess
+Daten. 2019/ tagebuch/2019/deletedScenes/Schizophrenie/ htpasswd -> /hone/narc/Daten.2015/ayL ife/Schizophrenie/htpasswd
+
+Daten, 2019/tagebuch/2019/deletedscenes/Schizophrenie/1.Eintritt pdt
+
+Daten, 2019/tagebuch/2019/deletedScenes/Schizophrenie/2.Eintritt -pdt
+
+Daten, 2019/tagebuch/2019/deletedscenes/Schizophrenie/3.Eintritt -pat
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/4.Eintritt -pdt
+
+Daten, 2619/tagebuch/2619/deletedScenes/Schizophrenie/S.Eintritt -pdt
+
+Daten, 2019/tagebuch/2019/deletedScenes/Schizophrenie/Adaabegan. pdt
+
+Daten. 2619/ tagebuch/2619/deletedScenes/Schizophrenie/Autobi let pat
+
+Daten, 2019/tagebuch/2019/deletedscenes/Schizophrenie/Bluttests. pdt
+
+Daten, 2019/tagebuch/2019/deletedScenes/Schizophrenie/Depot Pass.xls -> /hone/narc/Daten..2015/myLife/Schizophrenie/Depot Pass.x1s
+Daten. 2019/ tagebuch/2019/deLetedScenes/Schizophrenie/Eltern und claudine. pdt
+
+Daten, 2019/ tagebuch/2019/deLetedScenes/Schizophrenie/Kardex. pat
+
+Daten. 2019/ tagebuch/2019/deLetedscenes/Schizophrenie/Krankenkasse2009.pdf -> /home/marc/Daten. 2015/myLife/Schizophrenie/Krankenkasse2009.pét
+Daten. 2019/ tagebuch/2619/deletedScenes/Schizophrenie/Rickfall.doc -> /home/marc/Daten.2015/nyLife/Schizophrenie/Ruckfalt..doc
+Daten. 2019/ tagebuch/2019/deletedScenes/Schizophrenie/Ruckfall.doc -> /home/marc/Daten.2015/nyLite/Schizophrenie/Rickfalt doc
+Daten. 2019/ tagebuch/2019/deletedScenes/Schizophrenie/Seroquel.pdf -> /hone/marc/Daten.2615/nyLite/Schizophrenie/Seraquel pdt
+Daten. 2019/tagebuch/2019/deLetedScenes/Schizophrenie/2weite.pdt -> /hone/narc/Daten.2615/ayLife/Schizophrenie/ Zweite. pat
+Daten. 2019/ tagebuch/2019/deLetedScenes/Schizophrenie/htpasswd -> /hone/narc/Daten..2015/nyLife/Schizophrenie/htpasswd
+
+Daten, 2019/tagebuch/2019/deletedScenes/Schizophrenie/personal konigsfelden.txt -> /hone/marc/Daten.2015/ayLife/Schizophrenie/personal konigsfelden. txt
+Daten, 2019/tagebuch/2019/deletedscenes/Schizophrenie/personal konigsfelden.txt -> /hone/marc/Daten.2015/ayLite/Schizophrenie/personal konigsfelden. txt
+Daten, 2019/tagebuch/2019/septenber/,
+
+Daten. 2019/tagebuch/2019/septenber/191001.txt
+
+Daten. 2019/tagebuch/2019/september/frohsinn. svg
+

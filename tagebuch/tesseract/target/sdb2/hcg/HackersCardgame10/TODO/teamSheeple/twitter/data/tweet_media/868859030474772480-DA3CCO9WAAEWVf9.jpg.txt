@@ -1,0 +1,24 @@
+A ROAD TO 3D FOR EVERYONE
+
+Florian Hoenig, Unbound Technologies, Inc.
+
+A Single Primitive
+
+float sdsuperprim(vec3 p, vecd s, vec? )
+
+een Can be reconfigured: Box, Sphere,
+Float oe abs Cengthiaas(d.xy + Ff 9:00 Torus, etc.
+return length(eancvec(a 70.053"
+
+Tineorry eancasd-23);
+
+GPU friendly: No divergent code when
+
+ro’ eo © evaluating.
+= ww 7 “a “
+Very Compact: The stored representation
+Ww => JT for the mech model below is about SOKB.
+- — _ “™ The complete model fits in the L1 cache
+6. G qT of a GPU.
+g » 4
+

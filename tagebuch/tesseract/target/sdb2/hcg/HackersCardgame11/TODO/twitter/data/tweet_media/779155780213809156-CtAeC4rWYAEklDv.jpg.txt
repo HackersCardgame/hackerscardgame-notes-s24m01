@@ -1,0 +1,48 @@
+G pdp11 cluster - Go x
+
+€ > S| @ https:/www.googte.ch
+
+Google
+
+pdp11 cluster 3 |
+
+Alle Bild Maps Shopping Videos.» Mehr —Suchoptionen
+
+Tipp: Begrenze die Suche auf deutschsprachige Ergebnisse, Ou kannst deine Suchsprache in den
+Einstellungen ander:
+
+PDP-11 - Wikipedia
+
+https://n| wikipedia orgiviki/PDP-11 ¥ Diese Seite bersetzen
+
+De PDP-L1 was een serie 16 bit-minicomputers popular in de jaren zeventig .. Het centrale landelijke
+beheer werd gedaan door een cluster van twee POP-LL
+
+VAX - Wikipedia, the free encyclopedia
+
+https://en wikipedia. org/wiki/VAX + Diese Seite ubersetzen
+
+VAX is a discontinued instruction set architecture (ISA) developed by Digital Equipment ... A 22-bit
+system with a CISC architecture based on DEC's earlier PDP-L1, VAX (‘virtual address extension") was
+designed to ... The related term cluster VUPs was informally used to describe the aggregate
+
+performance of a VAXcluster,
+
+Parallel Evolution of Parallel Processors
+
+https v/books.google.ch/books?isbn=146 1528569 - Diese Seite ubersetzen
+
+G. Lerman, L. Rudolph - 2013 - Compute!
+
+Memory Organization: Distributed, <256MB/Cm. Access cost ratio: 1:2:9 (local:cluster:out-of-cluster).
+Host: PDP-11/40. Period: 1980 — operational. References:
+
+LOCUS (operating system) - Wikipedia, the free encyclopedia
+
+https:/ien wikipedia. orgiwikilL OCUS_(operating_system) v Diese Seite ubersetzen
+
+LOCUS was a distributed operating system developed at UCLA during the 1980s. it was notable for
+providing an early implementation ofthe single-system image idea, where a cluster of machines
+appeared to be .. was created at UCLA between 1980 and 1983, intial implementation was on a
+cluster of PDPALL/45s using
+

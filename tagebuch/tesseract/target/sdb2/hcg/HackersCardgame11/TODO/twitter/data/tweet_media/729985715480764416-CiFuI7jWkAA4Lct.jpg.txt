@@ -1,0 +1,6 @@
+Quelle: httpi//raspberrypi.stackexchange.com/questions/9455/how-to-get-wipi-wif-usb-dongle-working-on-raspbian
+[ SpeedTest: 40Mbit | Reichweite: geht so, wohl wegen Bauform ]
+{Hardware Backdoors: we don't know Debain Stretch, Intel i7
+Raspbian Raspberry PI Image
+Raspbian Orange PI Image
+

@@ -1,0 +1,28 @@
+© cFosignecanyrocetock x @ ChagebeeChectout «XW PikyOel(GPinOe Titer XB Zuammensezing-Kaeten XE neuerbuge1035Cutom x |G ihe guneeb-GoogleSs x — teilencehomatemvon gc - 0 x
+
+e>7¢ © B rs2r61sasazaroutceenspre on one
+TET amoans revs wok Triswooksoter Last how
+Lest 6 months Previous month This month Last’3 hows
+Last year Prewous yer ‘This month so tor CESSES
+Last2 years This year Last 2 hours
+Thsyearsofer Last day
+192.168.1.1: Interface wan-wanl(): Network traffic 192.168.1.1: Interface larvlan1(): Network traffic
+co Mbps as co mops 1s 60 Mops
+somes 10 40 Mops 10 40 Mops
+20 Mbps os 20 Mbps os 20 Mops
+“Se sf Se egos oe ee ore a a ener ote
+last mn avg fast min avg
+Interface wan-wanl(: Bits received fava] 15.18 Mbps 437 Mbps 13.84 Mbps Interface lantani\): Bits received [avg] 10.79 Mbps 1.64Mbps 5.86 Mbps Interface
+interface war-wanl0: Bits sent fave) 10.79 Mbps L64Mbps S86Mbps i interface landan}(): Bits sent [avg] 1516 Mbps 436 Mbps 13.83 Mbps 5 Mlinterface
+i interface wan-wan0: Outbound packets with erors_ 39] ° ° {0 Ml Interface landani(): Outbound packets with errors. [aval ° ° 0” Miinterface
+Wi interface war-wanl0: Inbound packets with errors [avg] ° ° © Blinterface fanan10: Inbound packets with errors. [aval ° ° 0 Blinterface
+Diinterface war-wan0: Outbound packets discarded [avg] ° ° © D)interface landant(): Outbound packets discarded [avg] ° ° 0 interface
+Wi interface war-wan10: Inbound packets discarded (avg) ° ° © Biinterface lantan1(: inbound packets discarded [avg] ° ° 0 Miintertace
+combs
+192.168.1.1: CPU utilization
+200% sonbes
+20Mbps
+0%
+obps
+ie a 2 hE) Se ROR ee
+

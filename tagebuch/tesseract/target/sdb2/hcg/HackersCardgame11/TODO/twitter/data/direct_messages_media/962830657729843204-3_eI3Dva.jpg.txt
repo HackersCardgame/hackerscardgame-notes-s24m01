@@ -1,0 +1,20 @@
+hold shcchelectate Uadaar® Sebastiod esi oopiadie JAI Resco AN eashadl ane
+i /Daten.2017/code$ cd onetimepad/
+/Daten.2017/code/onetimepad$ 1s
+cypher.txt einsen.txt generatedkey.txt key2.txt LICENSE newkey.txt nullen.txt one _time_pad.py README.md
+marc@debian :~/Daten.2017/code/onetimepad$ vim README.md
+marc@debian:~/Daten.2017/code/onetimepad$ git add -A && git commit -m "README" && git push
+[master 75e5eb7] README
+1 file changed, 6 insertions(+), 1 deletion(-)
+Username for 'https://github.com': braindef
+Password for 'https://braindef@github.com':
+Counting objects: 3, done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 325 bytes | 0 bytes/s, done
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object
+To https://github.com/braindef/onetimepad
+8474fb3..75e5eb7 master -> master
+Imarc@debian :~/Daten.2017/code/onetimepad$ Jf
+

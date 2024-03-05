@@ -1,0 +1,22 @@
+Benchmark x
+
+20 Mats : sme
+18 Male | 45m
+16 Male —\| ame
+14 Mars | asms
+Mare ams
+20 Mars 25ms
+amare 2ms
+emer isms
+anal | | = ams
+2s sms
+omer ome
+om a a a eS
+
+Disk or Device Partition 1 of 4.0 GB Drive — USB Mass Storage Device [0500] (/dev/sdc1)
+Last Benchmarked Mon 23 May 2016 07:24:08 AM CEST (Less than a minute ago)
+Sample Size 10.0 MiB (10,485,760 bytes)
+Average Read Rate 16.0 MB/s (100 samples)
+Average Write Rate 18,9 MB/s (100 samples)
+
+Average Access Time 0,81 msec (1000 samples)

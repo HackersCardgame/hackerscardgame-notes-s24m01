@@ -1,0 +1,7 @@
+/marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ cat 1.txt |sort >1s.txt
+marc@DESKTOP-B99KF62 :~/hackerscardgame-notes-s21m08$ cat 2.txt |sort >2s.txt
+mar c@DESKTOP-B99KF62 :~/hackerscardgame-notes-s21m08$ diff 1s.txt 2s.txt
+
+$< unknown
+/< wordCounter
+marc@DESKTOP -B99KF6:

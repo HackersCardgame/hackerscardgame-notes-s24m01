@@ -1,0 +1,29 @@
+PERSON1 HOLD
+
+agent
+MANIPULATION
+PATIENT
+
+Inventor: xxxxx
+
+PERSON1 DRAG
+
+Agent
+PATIENT
+
+robability, importance, observed
+
+Year: ~?22??
+
+Today there is software that recognizes what one
+currently is doing. Input data does not need to be
+video, it could also be audio, postitional data (maybe
+one could do this even with a c64) or DBS, Neuralink,
+
+Stimoceiver Data.
+
+If they have things like m98 / m99 Cards they put
+anoying eventtriggers on everything. | really hate
+
+that since it wastes my time
+

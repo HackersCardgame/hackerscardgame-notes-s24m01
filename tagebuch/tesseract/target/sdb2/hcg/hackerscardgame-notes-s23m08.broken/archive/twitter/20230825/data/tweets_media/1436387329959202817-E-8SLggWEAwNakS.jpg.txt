@@ -1,0 +1,110 @@
+%.
+
+© Lerdey x | ansewarectgn x | [E] verbotene Foto: x
+A. Nieneseher | informsticun-bremen de/agbio/ebe
+2eet @ Uoeseamentien fe DebenenFenarW Sor 1 Te 2 ES Ree
+
+122, Programmierbespcle 163
+
+In PROLOG implementiert das vordefinierte Pridilat not/1 Negation durch
+Fehilschlag, Fragt man also “not (above (saucer ,carpet))”, lautet die Ant-
+wort “Yes”, Dieselbe Antwort gibt es auf die Frage “not (above (apoon,0))";
+cs wird keine “Losung” fir 0 angegeben, weil ja gerade keine Losung gefunden
+werden konnte. Das Priidikat not/1 sett also keine der in ihm vorkommen:
+den Variablen, Dies funktioniert nur dann, wenn es fir das negierte Pridikat
+endlich viele Lsungen gibt.
+
+12.2.2 Arithmetik
+
+Prinzipiell kemnen in PROLOG auch arithmetische Operationen definiert w
+den. Die natirlichen Zahlen kénnen zum Beispiel durch Terme dargestellt
+werden: Das Atom z kann die Zahl Null dardtellen, und der einstelliger Funk:
+tor 8/1 die Nachfolgerfunktion auf Zahlen. Eine natirliche Zahl n lie sich
+dann als Term s"(z) darstellen. Aus den Peano- Axion
+
+(Xey)ex
+liefen sich Priidikate plus/3 und tizes/3 ableiten:
+plus(2,X,2)
+
+plus(s(Q),¥,8(2))
+
+vines (2,2)
+times(s(),¥,2) :~ times(¥,¥,¥), plus(W,¥,2)
+
++ plus(X,¥,2).
+
+1nmen und Produkte berect
+nstantiiert sind) sondern auch
+
+Mit diesen Priidikaten lieen sich nicht nur S
+(wenn ihre ersten beiden Parameter mit Za
+(nicht negative”) Differs
+
+wenn nimlich die zweiten (oder ersten) und dritten Parameter mit Zablen
+instanziiert sind. Fur praktiches Programmieren hat diese Art von Arithmetik
+trotzdem schwerwiegende Nachteile:
+
+fen und (“aufgehende”) ganzzahlige Divisionen,
+
+‘© Die Zahlendarstellung ist gewohmungsbediirtig; sie Mist sich niet einfach
+
+prcbssicbrice.jeg © verotenefotonantnt © @ jing.1080-36.
+
+X | © TweetDeck
+
+1 PinkyOet on
+
+* | @ facebook x
+
+16112, Programmieren in Provoc
+
+‘© Zoi vordefinierte Pridikate veranlassen die Auswertung arithmetiselier
+Term
+Das Pridikat “=: /2° gelingt, wenn beide Parameter den gleichen
+Zahlenwert darstellen.
+
+Das Priidiat *is/2" weist dem ersten Parameter den Wert des zvveiten
+
+An alle anderen Priidikate werden arithemtische Terme wie ganz normale
+Terme, also unausgewertet abergeben und unifiiert. Die Frage “K=4+3."
+aibt deshalb die Antwort “Xe4#3"; nur bei der Frage “K ie 4+3.
+der Ausdruck ausgewertet und die Antwort “Xe7" gegeben.
+
+wird
+
+Der Preis fi di
+ist, dass mit Zablen nicht wie
+weil bei
+
+cdiziente Abbildung der Arithmetik auf Hardware-Operationen
+nit normalen Termen gerechnet werden kann,
+Auswerten eines Terms alle in ihm enthaltenen Variablen instanti-
+
+Beispiel 12.5 (1
+
+ingeschrinktes Sehliefien mit Zahlen). Das Pridikat betw/3
+
+2kllt alle Zahlen zwischen zwei vorgegebenen (instantiierten) Zahlenwerten
+“a
+
+betw(x,2,2) i= X =< 2.
+
+betw(X,Y,2) i K <Z, Wis Zt, betw(K,Y,¥)
+
+12.2.8 Schnitte im Suchbaum
+
+Das Zuricksetzen ist sehr plat
+vorker, da eine Anfrage nur cine Antwort hat. Dann wire es versehwende-
+risch, das Program nach weiteren Lisungen suchen zu lassen, nachdem die
+ste gefunden wurde. Prolog hat eine Kontrollstruktur, Sehnitt (cut) ge-
+nant und “! geschrieben, der das Zuriicksetzen unterdriekt, wann immer
+
+und zeitaufwendig, Angenommen, wir wissen
+
+cr erteicht wird.
+
+Ne wir priften eine Frage Q, wobei die Klausel “Pp :-Py,!, Po.
+benntzt wird, Wenn P; feblschligt, setzt das Programm aurick und verstcht
+wie gewohnlich eine andere Klausel fir Q 2u finden. Wenn P, aber gelingt
+Bert ios Sarto din ioforte Antwort wd tector Ps
+

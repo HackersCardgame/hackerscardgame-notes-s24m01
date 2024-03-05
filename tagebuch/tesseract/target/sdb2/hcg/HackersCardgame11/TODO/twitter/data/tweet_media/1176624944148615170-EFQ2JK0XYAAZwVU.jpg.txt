@@ -1,0 +1,54 @@
+The programs included with the
+
+‘the exact distribution te
+
+Ubuntu system are free softuares
+
+rms for each program are described in the
+
+individual files in /usr/share/doc/«/copyr ight .
+
+Ubuntu comes with
+
+applicable law,
+
+To run a command as administrator (user “root"), use "sudo <command>",
+See “man sudo_root" for details.
+
+marcédebian:~$ [ 129.!
+129.538174]
+129.538253]
+
+peieport
+
+304:
+nouveau 0000:01:
+
+ABSOLUTELY NO WARRANTY, to the extent permitted by
+
+bene betnoort 0000:00:: eat 0: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter 1D)
+device jatus/mask=00001000/00002000
+
+{6086:a395] error st:
+
+disp: bad0o100
+00.0: sechoot? St ee failed, -110
+
+[_ 183.676227] nouveau: DRM-master:00000000:00000080: suspend failed with -110
+
+disp: ch 20 init: badoo100
+0000917a: init failed with -16
+00009870:
+
+BUG: hondie Kernel ‘paging Pequest at ffffaeidscce1100
+#PF 13]
+Pep 37 PAD 45ddSb067 PUD 0
+
+: 0002 [#1] SMP PTI
+
+5 j: 558 Comm: kuorker/3:2 Tainted: & 5.0.0-29-generic #31-Ubuntu
+foveee ines for Predator PH317-52/Sienna_CFS, ius v1.15 os/tzveoie
+Workqueue: pm
+
+EE mene snnwwennocewannn
+

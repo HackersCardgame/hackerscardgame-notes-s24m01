@@ -1,0 +1,12 @@
+o [Coexist] (imported)-1.0 (RGB color 8-bit gamma integer, GIMP built-in sRGB, 1 layer) 3259x2104 - GIMP (-Jlelbe)
+
+File Edit Select View Image Layer Colors Tools Filters Windows Help
+
+coexist
+
+Highlight
+
+No guid
+
+2718, 1398 % ¥ T).Click-Drag to draw a crop rectangle
+

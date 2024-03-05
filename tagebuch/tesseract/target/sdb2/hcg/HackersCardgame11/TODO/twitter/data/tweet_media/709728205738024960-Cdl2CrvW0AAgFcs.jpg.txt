@@ -1,0 +1,79 @@
+PRODUCT & SERVICES / CLEARIT | Juni 2012
+
+11
+
+SIC*— vom Entwurf zur Entwicklung
+
+Neue SIC-Architektur (NSA), das Gemeinschaftspro-
+jekt des Finanzplatzes, kommt planmassig voran. Nach
+
+‘Abnahme des Grobkonzepts und des Finanzierungs-
+modells im Jahre 2011 und des Detailkonzepts im letzten
+Marz durch den Verwaltungsrat von SIX Interbank
+Clearing ist die Softwareentwicklung angelaufen.
+
+Projektbild «Neue SIC-Architakture
+
+Seit dem Projektstart vor rund 2weieinhalb Jahren (siehe
+CLEARIT vom Marz und September 2011) wurden 285
+Word-, 160 Excel- und 85 Powerpoint- Dokumente verfasst.
+Eine Schreibarbeit, die nicht nur als Entscheidungsgrund-
+lage fir die Interbank-Gremien diente. Vielmehr ist sie
+die unabdingbare Voraussetzung fiir die eigentliche Soft-
+wareentwicklung der Kernapplikation SIC.
+
+Erfolgreiche Simulation
+Damit der Entwickiungsstart Anfang April dieses Jahres
+planméssig erfolgen konnte, musste im Vorfeld mit 15
+verschiedenen Machbarkeitsnachweisen die Eignung
+der gewahiten technischen Piattform dberprift werden
+Die Resultate zeigen, dass die geforderten Kriterien ohne
+Einschrankungen erreicht und zum Teil klar Gbertroffen
+wurden. Die Verarbeitung von gleichzeitig je 1 Million
+Zahlungseingangen und -ausgangen sowie 2,5 Millionen
+Verrechnungen pro Stunde konnte erfoigreich simuliert
+werden
+
+SIC’
+
+Fahrplan
+Die erste Ausprégung der neuen SIC!-Kernapplikation,
+euroSIC, soll nach einer neunmonatigen Abnahmetest-
+phase ab Oktober 2014 produktiv Euro-Uberweisungen
+abwickeln kénnen. Ein Jahr spater wird das neue SIC-
+System in Betrieb gehen und das Projektende von NSA
+Ende 2015 einiduten. Damit die Finanzinstitute als Teil-
+nehmer an den Dienstleistungen Zahlungssysteme ihre
+Investitionen pianen k6nnen, werden nachstes Jahr die
+1S0 20022-Spezifikationen vorgelegt.
+
+Neue SIC-Architektur
+Now SIC Architecture
+Nouvelle architecture SIC
+
+Gabriel Juri, SIX Interbank Clearing
+Gabriel uri@six-group.com
+
+Abgrenzungen zu anderen Interbank-Projekten
+
+«Migration ZV CH»: NSA ist ein Teil des Programms
+«Migration ZV CH» (neben Lastschriften und Belegen,
+siehe Artikel auf S. 8). Dieses beeinflusst NSA wie fol
+‘* Es legt die Koexistenz unterschiedlicher Standards
+
+fest bzw. definiert Start- und Enddaten fiir Standards
+1SO 20022; Enddatum fiir nationale
+
+«SIX Single Interface» von SIX: Schnittstellen zu SIX,
+
+insbesondere gleichartige Messaging Interfaces,
+
+sollen harmonisiert werden in Bezug auf Protokoll und
+
+icherheit. Dies erméglicht den Finanzinstituten eine ef-
+
+fizientere Gestaltung der Kommunikation zu SIX:
+
+'* Mit der heutigen Kommunikationslésung (Service
+PEI SEP RE NL SE tS
+

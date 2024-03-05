@@ -1,0 +1,48 @@
+< bs mt OF) OB sud Homep wWe G droo BHGes HVor home) S fut Rina’ RVers 8 Ten MEDey DP! =H SS De ME x
+
+eo¢ (© B ditps://pubmed ncbi.nim-ihgov/3059S661/ aa
+
+[NIH) National Library of Medicine
+
+PubllMed. eo» Ea
+
+Advanced ‘User Guide
+
+sive || Ema || sendto || Display options
+
+> Ethics Inf Technol. 2018;20(3}:219-232, doi: 10.1007/s10676-018-9466-4. Epub 2018 Jul 30.
+
+Brainjacking in deep brain stimulation and autonomy Fulltext PME
+
+Jonathan Pugh # ¥, Laurie Pycroft ® 2, Anders Sandberg 3, Tipu Aziz 2, Julian Savulescu *
+
+Affiliations + expand
+PMID: 30595661 PMCID: PMC6290799. DOI: 10.1007/s10676-018-9466-4
+Free PMCarticle
+
+Abstract
+
+"Brainjacking' refers tothe exercise of unauthorized control of another's electronic brain implant. Ceo
+Whilst the possibilty ofhacking a Brain-Computer Interface (BCI) has already been proven in both
+
+‘experimental and real-life settings, there is reason to believe that it will soon be possible to interfere
+
+withthe software settings of the Implanted Pulse Generators (\PGs) that pay a central ole in Deep
+
+Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical concerns pertaining to privacy and
+
+physica or psychological harm, we claim that the possibilty of brainjacking OBS raises particularly € Title & authors
+profound concerns about individual autonomy, since the possibilty of hacking such devices raises the
+
+prospect of third parties exerting influence over the neural circuits underpinning the subject's Abstract
+cognitive, emotional and motivational states. However, although it seems natural to assume that,
+
+brainjacking represents a profound threat to individual autonomy, we suggest thatthe implications of Figures
+brainjacking fr individual autonomy are complicated by the fact that technologies targeted by
+
+brainjacking often serve to enhance certain aspects ofthe user's autonomy. The difficulty of Similar articles
+ascertaining the implications of brainjacking DBS for individual autonomy is exacerbated by the varied
+
+understandings of autonomy in the neuroethical and philosophical literature. In this paper, we seek to Cited by
+
+bring some conceptual clarity to this area by mapping out some of the prominent views concerning

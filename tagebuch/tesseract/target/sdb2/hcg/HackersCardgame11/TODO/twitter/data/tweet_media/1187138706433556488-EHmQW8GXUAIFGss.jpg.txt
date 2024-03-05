@@ -1,0 +1,50 @@
+png/EN/dt1.png | Bin 872302
+scripts.disco/jpg_EN.txt (ee
+
+4 4 files changed, 28 insertions(+), 22 deletions(-)
+
+[marcland@:30:~/www .. h/HackersCardgame3] master # whois pressetext.com
+
+% IANA WHOIS server
+% for more information on IANA, visit htt,
+% This query returned 1 object
+
+Jwww.iana.org
+
+refer: whois.verisign-grs.com
+domain: com
+organisation: VeriSign Global Registry Services
+address: 12061 Bluemont Way
+address: Reston Virginia 20190
+address: United States
+contact: administrative
+name: Registry Customer Service
+S organisation: VeriSign Global Registry Services
+address: 12061 Bluemont Way
+address: Reston Virginia 20190
+address: United States
+Upphene: +1 703 925-6999
+fax-no: +1 703 948 3978
+ee info@verisign-grs.com
+» contact: technical
+name: Registry Customer Service
+organisation: VeriSign Global Registry Services
+address: 12061 Bluemont Way
+address: Reston Virginia 20190
+address: United States
+phone: +1 703 925-6999
+fax-no: +1 703 948 3978
+e-mail: info@verisign-grs.com
+nserver: A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0
+nserver: B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0
+inserver: C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0
+inserver: D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0
+nserver: E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0
+inserver: F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0
+nserver: G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0
+nserver: H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0
+nserver: I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1
+nserver: J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0
+nserver: K.GTLD-SERVERS.NET 192.52.178.30 2001:50. 2:0
+sooner L.GTLD-SERVERS.NET 192.41.162.30 2001:501 1937:
+

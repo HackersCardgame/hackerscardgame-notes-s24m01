@@ -1,0 +1,36 @@
+beliebig viele logische netze stapeln. Mit deiner Definition wird ein netz 2u einem Protokoll und alles zu einem Bus. Du hast ordnung geschaffen, indem du den ansatz von einer unterordnung
+beseltigt hast. Ich wirde bel einem Bus nur Hubs zulassen, damit wird USB zum Bus.--Moritzgedig 02:47, 16. Feb. 2009 (CET) [ Beantworten )
+
+Ein Bus
++ ist ein estes oberragungsmedium (kabe?Letung?)
+«+ an das mehvere(-2) Teinehmer angeschiossen sind
++ ohne vermiteine Bausteine. Das senden ist 2u einer Zeit nur einem Teinehmer mogich. Der Zug st durch ein zogehorges Protokll un Iypisch aber nicht grundsatzich von einem Master bestimmt
+
+Eine minimal Definiton.-Moritzgedig 02:47, 16. Feb. 2009 (CET) [ Beantworten |
+
+‘Aso mit dem ersten Satz Deiner driten Bedingung habe ich Probleme, der Rest ist ok, Viele Busse haben irgendwelche nterfacebausteine zum Kabel oder auch zur Lelterbahn hin, auch da ist dle
+GGrenze extrem feftend. Schau Dir in Blockschaltoildem von Prozessoren den Block BIU (Bus Interface Unt) an, das sind anscheinend ganz schn komplexe und aufwendige Veranstaltungen. Da
+geht es um Adress- und Datenbus, das sind nun dber ale Zweite ethabene Busse. ~PeterFrankfurt 01:41, 17. Fe. 2009 (CET) | Beantworten |
+Der Einspruch gegendber dem ersten satz beruht auf einem Missverstandnis. Das wort "vermitteln ist im technischen sinne (schalten) 2u verstehen, nicht wie Obersetzen, "Viele Busse haben
+irgendwelche Interfacebausteine zum Kabel oder auch zur Leiterbahn hi”, das verstehe ich nicht
+ich habe aut meiner sete eine antwort auf re nachricht vom 17. Feb hinterlassen.~Moritzgedig 18:26, 22, Feb, 2009 (CET) [Beantworten }
+Wenn Du schalten wilst, dann brauchst Du doch aktive Bausteine (mindestens schaltbare Treiber, bis hin 2uineligenten Protokolbausteinen). Meinst Du das? Das mit dem inaktvschalten
+(TeRIEE) ist aber bei seh vielen, ansonsten priitven, reinassigen Gustreibern maglch. ~PeterFrankfurt 23:25, 22. Feb. 2009 (CET) { Beantworten |
+“bis hin zu inteligenten Protokolibausteinen). Meinst Du das?” Ja, genau. "inaktivschalten (THSETE)" Nei
+Vermittein; So wie die "Dame vom Amt”.-Morizgedig 17:16, 23. Feb. 2009 (CET) | Beantworten |
+Hmm, bist Du sicher, dass man da nicht auch blo wieder vom Halzchen aufs Stéckchen kommt? Ist es nicht bel ISA- und E!SA-Bus und so der Fall, dass es da Select-Leitungen git,
+die (inteigent) angesteuert werden miissen, bevor sich was tut? Aber jeder nennt sowas einen Bus. -PeterFrankfurt 02:22, 24. Feb. 2008 (CET) { Beantworten |
+
+‘das meine ich nicht,
+
+Ein Bus ist eine Form einer Netzwerktopologie, wie aut Topologie (Rechnemetz) richtig dargestelt. That's it! Moritzgedig liegt mit seiner Definition hier ganz richtig. Problematisch wirds nur, weil das
+Viele Leute nicht wissen und auch andere, 2B, geschaltetet Strukturen wie HyperTransport als Bus bezeichnen. Deswegen wohl auch das Durcheinander hier... -Wikimaniac42 13:34, 8. Mar. 2008
+(CET) [Beantworten }
+
+Ueberarbeiten | auaitext pearbeiten |
+
+‘Ach Schelsse, jetzt hab ich eine Einleitung geschrieben um zu versuchen Bus von der Topologie Bus abzugenzen, was auch ganz gut gelungen ist we ich finde. Welter unten im Artikel bezient sich
+dann aber wieder viel auf Busse mit Bus-Topologie (es wird 2.8 gegen Point-to-Point verbindungen abgegrenzt). Etwas spaeter wird dann wieder jedes Point-to-Point/Switching-basierte Protokoll
+(HyperTransport PCIe) als Bus bezeichnet. Der Artikel ist einfach nur Chaos!!! Ich setzte mal das Ueberarbeiten tag, und hoffe auf eine fleissige Diskussion hier. Das wichtigste was wohl zu klaeren
+ist: sollen hier Busse mit Bus-Topologie besprochen werden, oder alles was in der PC Welt Bus genannt wird??? Abstimmung! -Wikimaniac42 15:07, 10. Mar. 2008 (CET) { Beantworten |
+

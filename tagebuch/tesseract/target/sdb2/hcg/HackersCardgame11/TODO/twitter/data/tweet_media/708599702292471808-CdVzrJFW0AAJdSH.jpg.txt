@@ -1,0 +1,8 @@
+marc@kalai:~/Daten.2015/QuickSaveByYear/2016/L inux/Debeian/raspberry$ git clone
+https: //github.com/braindef/rpi- firmware
+
+Cloning into 'rpi-firmware'..
+
+remote: Counting objects: 297998, done.
+
+Receiving objects: 1% (5596/297998), 47.01 MiB | 2.19 MiB/s

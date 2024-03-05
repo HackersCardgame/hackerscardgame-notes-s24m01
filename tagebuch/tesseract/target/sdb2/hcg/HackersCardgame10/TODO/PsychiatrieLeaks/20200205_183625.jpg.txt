@@ -1,0 +1,25 @@
+Psychiatrische Dienste
+Aargau AG
+
+Landolt Allgemein M
+Mare 17.06.1978
+; PID: 40464 P.APP.230_S
+: : FID: 351381 Eintritt: 17.01.2020
+
+Anhang zu V.E01
+
+Bestatigung Erhalt Formular V.E01
+
+Angaben des Patienten (von Klinik auszufullen):
+
+Name, Vorname: Landolt, Mare
+Geburtsdatum: 17.06.1978
+Erhalt des Entscheids am: 05.02.2020
+
+Hiermit bestatige ich, den Entscheid 'Medizinische Massnahme ohne Zustimmung (Zwangsmedikation)’ (V.E01)
+vom erhalten zu haben.
+
+Ort, Datum, Unterschrift: Windisch, 05.02.2020
+
+Landolt Marc, geb. 17.06.1978 (Fall-Nr.: 351381)
+

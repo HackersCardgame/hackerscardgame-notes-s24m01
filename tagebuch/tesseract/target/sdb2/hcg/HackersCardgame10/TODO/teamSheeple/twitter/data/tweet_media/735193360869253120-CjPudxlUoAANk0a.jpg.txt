@@ -1,0 +1,3 @@
+& +} G [Buss As [cH]]https://ebanking-ch2.ubs.com/common/SessionTimerAction.do?_=1464113463519&login&isiwebuserid= 10210517 8&goTo=challengeRespons
+
+{"bze-session-timer-absolute-timeout- value" :27408, "bze- session- timer-idle-timeout- value" :600}

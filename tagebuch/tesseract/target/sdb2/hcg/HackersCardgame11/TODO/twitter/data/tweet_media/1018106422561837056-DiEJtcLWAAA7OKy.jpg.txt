@@ -1,0 +1,52 @@
+Kundennummer: 6608524
+
+upc
+
+Seams osc
+PAP. Zurich JAPRIORITY procs
+Herr
+
+Mare Landolt
+
+Neuenburgerstrasse 6
+
+5004 Aarau
+
+Wallisellen, 12.07.2018
+Wichtige Mitteilung: mDNS Sicherheitsliicke in Ihrer Infrastruktur
+‘Sehr geehrter Herr Landolt
+
+Wir haben von unabhangigen Instanzen Hinweise auf einen vom Intemet her erreichbaren mutticast DNS
+‘Service in Ihrer Infrastruktur erhalten. Multicast DNS wird verwendet, um Hostnamen in einem kleinen
+‘Computemetzwerk in IP-Adressen aufzuldsen. Es wird haufig verwendet, um Musik- und
+\Videostreaming-Dienste zwischen Geraten in Ihrem Heimnetzwerk auszutauschen. Wenn dieser Service
+vom Internet her erreichbar ist, kann es von Dritten fr DDoS Attacken missbraucht werden.
+
+Um den Missbrauch des multicast DNS Service zu unterbinden sollte der UDP Port §353 nicht vom intemet
+her erreichbar sein. Bitte kontrolieren Sie Ihren Router und sperren Sie auf der Firewall den UDP Port 5353,
+damit der Service nicht mehr vom Internet her erreichbar ist, Im internen Netz funktioniert weiterhin alles wie
+
+‘gewonnt.
+IP-Adresse: 178.82.219.75
+Vorfall-Datum: 10.07.2018 11:37:42
+
+Adresse des Modems (MAC):
+
+Wir bitten Sie uns unter upe.ch/abusedesk, mit Bezug auf die Abuse-Referenz #9-144102#, mitzutellen, ob
+Sie die Sicherheitsllicke schliessen konnten.
+
+Ein solcher Vorfll ist in unseren Allgemeinen Geschaftsbedingungen (AGB) gereget, die Sie bei
+Vertragsabschluss akzeptiert haben. Unter upe.ch/agb finden Sie die AGB.
+
+Bei Fragen sind wir geme fir Sie da: unter der Gratisnummer 0800 66 88 66 oder rund um die Uhr auf
+upe.chisupport.
+
+Zusatalich ereichen Sie uns unter der Mail Adresse: abusedesk@upe.ch
+Besten Dank fir hee Zusammenarbeit
+
+Freundliche Grasse
+
+‘Abuse Desk, UPC Schweiz GmbH
+
+UPC Schweiz GmbH
+

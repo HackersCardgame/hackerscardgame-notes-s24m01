@@ -1,0 +1,17 @@
+[god@heaven ~]xm -rf devil
+Permission denied
+
+[god@heaven ~]rm -rf devil*
+Permission denied
+
+[god@heaven ~]rm -rf *devil.*
+Permission denied
+
+[godéheaven ~]rm -r£ ANYTHING
+Permission denied
+
+[god@heaven ~]xm -rf *.*
+Permission denied
+
+[god@heaven ~]sudo rm -rf *.*
+

@@ -1,0 +1,53 @@
+Three incredible free VSTs: Surge, Helm, and Synth
+
+(Apologies if there's some wacky mobile formatting)
+
+just saw a post that mentioned how paid VSTS sometimes aren't worth it; after seeing it, figured I'd
+make alist. These are my three favorite free VST synthesizers of all time:
+
+1. Synth 1 - Best for analog emulations and warping back to the 80s
+
+Possibly the most popular one on the list, Syntht is an exceptional analog emulation developed by
+Ichiro Toda. While it does come equipped with some killer features, one of my favorite parts is the
+absolutely KICK ASS interface. I's all pixelated and vintage looking and just fucking awesome,
+honestly, The learning curve isnt too steep at al it seems a bit conventional at frst, but with the
+FW/RM capabilities, ings, low CPU load, and easily the best unison I've ever heard, Syntht is a
+must-have,
+
+Wine4/Macosea:
+
+2. Helm - Best for grity, grimy, gnarly, and wholeheartedly digital sound design
+
+This was my first VST. It has been continually updated and changed over the course of many years, and
+set to continue. It's also stunning. Developed by Matt Tytel, Helm has the best workflow on the lis.
+
+Being able to make a lead that digs its way into your brain or a teeth smashing, eye crushing mid bass
+
+within five minutes of opening a plugin is something truly unique and wonderful. Of course, Helm
+
+can't pass for an analog synth, or anything close; it doesn't have the clean sine waves* or warm
+
+(Moog owner moaning) that other VSTs do, but that's where its beauty lies. It's chock full of possibilty
+
+without being overwhelming, and, ike Syntht, i's CPU friendly. To wrap it up, Helm is a digital monster
+at rips cheeks,
+
+‘It still has sine oscillators (as most VSTs do), the aliasing is just alittle coarse. They work great
+
+LogIn
+
+3) 1/musicproduction
+
+‘A community for hobbyists, professional
+musicians, and enthusiasts to discuss
+music production-related topics, ask
+questions, collaborate, and share tips and
+tricks. Music creators from all walks of life
+are welcome here.
+159k
+
+124
+ontine
+
+& Created jan 14, 2010
+

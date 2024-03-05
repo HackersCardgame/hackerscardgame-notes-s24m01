@@ -1,0 +1,9 @@
+Zahlungen im Uberblick
+
+Pendent Nicht ausgefiihrt Gescannte Einzahlungsscheine Ausgefiihrt
+
+Ss. 7 Datum Begiinstigter Buchungstext IBAN (Konto) whrg, Betrag
+
+04.08.2016 HOSTPOINT AG Hostpoint 231 6679 2440 F CHF 89.40
+UBS Privatkonto
+

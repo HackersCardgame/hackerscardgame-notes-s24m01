@@ -1,0 +1,41 @@
+unction isInCheck(player)
+
+Moves = possibleMoves(-playet zectne mt der Mavs langsam Horizontal Vertkalen Kris, Diagonalan nach inksirchts, und
+
+for(var i=0; icmoves. length;
+
+Verschiedene Technken und Orte wo das sein kann Tempest Attacks, Hardware (CPU, INTEL ME)
+
+sein, oder in den Peripherisis (2.8, Ma
+
+der Webseite seber.., oder ev. an mehreren Oren gle
+
+os, Betrieb:
+
+Jetzt ganz feberhat und schnell oder on fete,
+
+tem, Browser, BrowserPlugin, auf
+9.
+
+iF(board(moves(1](1](0]*S*" iy gE EM EA CE
+
+return
+
+return
+
+r instances=0;
+
+nc minimax(depth, player,
+
+if(resetCounter) instance:
+else instances+=1;
+
+bestMove = [[0,0],[0,0]];
+if(depth < 1) return evaluate
+moves = shuffle(possiblen
+
+bestValue=-1000000*playet
+for(var i = 0; i < moves. len¢
+
+return moves;
+

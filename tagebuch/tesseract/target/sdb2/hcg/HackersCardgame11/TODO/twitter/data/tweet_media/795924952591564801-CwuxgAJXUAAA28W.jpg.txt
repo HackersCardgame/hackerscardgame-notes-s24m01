@@ -1,0 +1,11 @@
+Landev - vor 6 Monaten
+
+Funktionsweise einer CPU
+
+‘Wer wissen méchte wie eine #CPU funktioniert
+(Vorbedingungen: http elektronik-kompendium.de/cgi-binvin
+
+i?air=clg)
+\Vermutlich lauft da aber Windows noch nicht drau, vielleicht #1
+
+http /megaprocessor-is-a-macto-microprocesson

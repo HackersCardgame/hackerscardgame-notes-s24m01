@@ -1,0 +1,30 @@
+sein, oder in den Peripherials (z.8. Maus), Bios, Betriebsystem, Browser, BrowserPlugin, auf
+
+if(resetCounter, def Webseite selber..., oder ev. an mehreren Orten gleichzeitig
+
+else instances+
+Zeichne mit der Maus langsam Horizontalen, Vertikalen,Kreise,Diagonalen nach linksirechts, und
+
+bestMove = jetzt ganz fieberhaft und schnell oder eriapp! fuchteln
+bitte kein V oder X, dann stirbt die Schildkrote «
+
+if(depth < 1) r
+
+moves = shu
+
+bestValue=-
+for( i=0
+
+return moves;
+
+frond}
+isInChec
+
+moves = possibl
+
+for(var i=0; i<
+if (board[move
+return
+return :
+
+instance:

@@ -1,0 +1,67 @@
+baadeeeah
+20 Kbps
+kbps
+
+obps
+
+03:00
+09.04 0449,
+
+09.04 0249
+
+1 Incoming traffic on interface Broadcom Corporation Netxtreme 8CMS7S2 Gigabit Ethernet PC
+Dutgoing trafic on interface Broadcom Corporation NetXtreme BCMS752 Gigabt Ethernet PC!
+
+bash ed
+
+soxbes
+ster
+bps
+
+: :
+
+1 incoming traffic on interface Qualcomm Atheros QCA9S6S / ARGS6S Wireless Network Adopter
+Outgoing trafic on interface Qualcomm Atheros QCASSES / ARGSES Wireless Network Adapter
+
+192.168. 1.41: Traffic on interface eth1 (2h)
+
+09.04 0449,
+
+09.04 o249
+
+last
+23 Mbps
+237 Mbps
+
+min
+556.48 kbps
+51225 kbps
+
+29 mal
+303Mbps 7.75M)
+
+incoming traffic on interface eth
+306Mbps 7.49M|
+
+fo
+Outgoing traffic on interface eth) |
+
+(aval
+
+Laclede: 192 168.40: lfc on terface Broadcem Corporation NetLink BCMS77ES Gigabit Ethemet Pte (2h)
+Mbps
+
+mbps
+Mbps
+2Mbps
+
+obps
+
+03-00
+09.08 0449,
+
+09.04 0249
+
+1 Incoming traffic on interface Broadcom Corporation NetLink BCMS778S Gigabit Ethemet Pcie
+Outgoing trafic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+

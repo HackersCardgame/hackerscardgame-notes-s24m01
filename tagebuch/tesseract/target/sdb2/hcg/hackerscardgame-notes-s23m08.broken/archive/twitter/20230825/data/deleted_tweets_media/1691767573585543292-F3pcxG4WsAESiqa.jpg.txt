@@ -1,0 +1,20 @@
+Feep-EMaAIL
+TW-FB-IG
+-Books-
+WHAT IF? 2
+WI?-TE-HT
+
+GENETIC ALGORITHMS
+
+i £3 f= EB
+
+et Solution Costs (navigationCode):
+fuel Stop Cost =15
+
+extraComputationCost = 8 VV OF
+this AlgorithmBecomingSitgnctCost = 999999999
+woterCrossingCost= 45
+
+GENETIC ALGORITHMS TIP:
+ALWAYS INCLUDE THIS IN YOUR FITNESS FUNCTION
+
