@@ -1,0 +1,11 @@
+NVIDIA's Titan Series Product
+Specifications
+Titan X Titan X Titan V
+
+Maxwell Pascal Volta
+TensorCores | =O | 0 | 640
+Memory |_7GB 10GB_| 12GB
+iTeraFLOPS (FP32)| 7 | 12 = ~#=| «110 =|
+Price $999 $1,299 | $3,000
+
+Market Realist

@@ -1,0 +1,28 @@
+© Diagram Dependencies Options
+
+Class Dependencies Explorer Options
+
+Select the dependencies to show on diagram
+
+\dependenc’
+
+Dependency kinds ta display on diagram:
+
+Cal
+Send
+Derive
+Implement
+Instantiate
+Create
+Access
+Import
+
+Select this to show cycle
+dependencies
+
+[show only elements invalved inta dependency cycles]
+[show dependencies on project libraries
+
+your projectlibralies ———_,
+Sa ea Tr rice
+

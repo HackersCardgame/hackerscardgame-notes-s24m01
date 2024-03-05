@@ -1,0 +1,55 @@
+for( x = 0; x < variables; ++x ) {
+if( sum <= 0) {
+px_z[ x ] = uniform;
+
+else {
+
+px_z[ x ] *= recip;
+
+}
+
+Loading training data...
+
+PKG
+PKG
+PKG
+PKG
+PKG
+PKG
+PKG
+PKG
+PKG
+ERR
+
+@xee00:
+0x0004:
+0x0008 :
+@x@00C:
+
+0x0010:
+@x0014:
+0x0018:
+@x@@1C:
+
+@x0020:
+
+Lolcats pictures (truncated)
+Star Trek: The next
+
+Pathe News arc
+
+Meme Wisdosg
+
+CarleSagan Cosmos episodes 1-14
+NSA's webcam porn collection
+Yahoo Answers
+
+Deleted snapchat images
+
+Wikipedia [complete entries]
+
+@xBAADFOOD: Last package inconsistent with existing data. Skipping...
+
+@) 459/658
+
+The Singularity - feat. Ray Kurzweil & Alex Jones [RAP NEWS 28]

@@ -1,0 +1,29 @@
+Merwe Ae) i a
+
+Sunucu devre dist ya da mesgul oldujundan otomatik olarak etkinlestirmek
+jimkanstz ya da guvenlik ayarlan sunucuylailetisimi engelliyor olabilir. Bu
+-durumda dort adimdan olusan manuel aktivasyon prosedirunu kullanabilirsiniz:
+
+Sunucu devre dist ya da mesgul oldujundan otomatik olarak etkinlestirmek
+jimkanstz ya da guvenlik ayarlan sunucuylailetisimi engelliyor olabilir. Bu
+-durumda dort adimdan olusan manuel aktivasyon prosedirunu kullanabilirsiniz:
+
+1.8
+
+kutusunda Tamam digmesinitiklatin.
+
+2. Bu, kodunuzu, makineniz igin benzersiz bir tanimlaytcryt ve bir Urdn kodunu
+igeren bir metin dosyasi olusturur. Bunu Internet baglantisi olmayan bir makinede
+‘olusturursaniz bu metni baska bir makineye kopyalayin ve oradan génderit
+
+3, Bu bilgiyi bir e-posta mesajina kopyalayin ve VO
+‘support<activation.studio.support@visionobjects.com>'deki aktivasyon
+hizmetimize gonderin. Bir aktivasyon dosyasi yapacak ve size postayla geri
+_gonderecegiz. Bu dosya, yalnizca 62giin talebin olusturuldugu tek bir makinede
+kullarilabi
+
+4, Postaya ekli olan licence.lic dosyasint cift tiklatin. Baylece el yazisi tanuma
+yazilimini etkinlestiren kick bir uygulama acihr.
+
+(Garena) (asia)
+

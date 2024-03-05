@@ -1,0 +1,9 @@
+Checks
+
+7.0 i
+
+0.0
+2 4 6 8 10 12 14 16 18 20.22 0 2 4 6 8 10
+
+Max HostChecks: 10.0 Average Host Checks:9 Curent Host Checks: 60
+Max Service Checks: 260 Avetage Service Checks: 240 Current Service Checks: 120

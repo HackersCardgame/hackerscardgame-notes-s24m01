@@ -1,0 +1,6 @@
+LIBRARY SOURCE #1
+
+‘Copyright Zoriech Ud 1986-1909
+
+ZORTECH
+

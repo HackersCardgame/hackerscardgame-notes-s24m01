@@ -1,0 +1,14 @@
+rreteObvarverh] [ConceteOheerve]
+
+Inventor: Erich Gamma, Richard Helm .. ~1994
+‘The observer pattern (also called listener pattern) Is.
+2 design patter in software development. it belongs
+to the category of behavior patterns.
+
+Some people would like that the non techie people
+think that "observer pattern’ means that all the IT
+and Computer Science People are doing illegal
+Surveillance and even work for the NSA/ CIA. But in
+fact the term Observer Pattern has nothing to do
+‘with surveillance. But of course this design patter
+

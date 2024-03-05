@@ -1,0 +1,33 @@
+Re: Jo3ma/o3| How to SendTextMessage to a Group? (#12) *__Frieder Steinmetz. 12:02 AM
+
+Archive | @ Junk || © Delete | More ~
+
+From Mail Delivery System <Mailer-Daemon@mxout015.mail hostpoint.ch>
+Subject Mail delivery failed: returning message to sender
+
+05:16 AM
+To Mew
+
+© Reply | Forward
+
+This message was created automatically by mail delivery software
+
+A message that you sent could not be delivered to one or more of its |
+recipients. This is a permanent error. The following address(es) failed
+
+bezirksamt.aaraugag. ch
+host xngw03.ag.ch [193, 47,120.64]
+
+SMTP error from remote mail server after RCPT TO: <bezirksamt,aarauaag, ch>:
+550 #5.1.0 Address rejected
+
+Reporting-MTA: dns; mxout0lS.mail.hostpoint.ch
+
+*| @ 1 attachment: Re: AW: Lebenszeichen / “Statusbericht” |||| AN BUNDE.eml 2.6 KB
+
+¥ Save
+alendaring functionality by integrating the Iceowl extension
+
+Learn more Disable Keep x
+
+Unread: 478 Total: 3011 [4 Today Pane ~

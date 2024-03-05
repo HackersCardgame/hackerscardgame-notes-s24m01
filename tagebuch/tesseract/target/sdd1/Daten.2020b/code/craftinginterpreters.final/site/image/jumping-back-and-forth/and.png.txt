@@ -1,0 +1,8 @@
+left operand expression
+
+OP_JUMP_IF_ FALSE
+OP_POP
+
+| right operand expression |
+
+continues...

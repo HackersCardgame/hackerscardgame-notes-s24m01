@@ -1,0 +1,45 @@
+<2 ¢@ oa enue
+
+ed [A] [Alehenertben) ie-nensewetong zee Gorsevtoter
+
+=| + [Aone Zoom)
+
+ymoot_|
+‘OK | Bestaligen,Seiektioren
+1 | Blatt in nr isto
+
+> _| Mend vertassen
+
+‘Menu-Liste
+
+201 Wid die Funktionstaste mit dem Text «Menu» gedruckt, wid die Liste
+dor Unterments angezoigt. Das Listenende ist eine gestricholte Lin.
+\Wird weiter goblattrt, folgt wieder der erste Eintrag der Liste. Durch Dr
+‘cken der Funktionstaste mit dem Text «Ok» wird ins Untermend gowoch:
+‘elt
+
+In der Tabelo sind die Untermenus aufgeliset.
+
+Untermend) | Bezelchnung
+
+Date/Time | Datum und Zeit enstlion
+(ent Tasten e+» und €>, zum nachston Feld mit
+| cok
+Display Konirast und Heligkot einstellen
+{ent Tasten «+» unde)
+Buzzer | Lautstarke einstellen (mit Tasion &> und «>)
+Profile | Prof auswanien
+Info [ Sw. und HW. Version und Seronummer
+Faniest | Luftertest auehfunren
+°RS252 | Barto einstein (mit Taston «=> und ©)
+108
+Reglement 58.442 4 E240
+Status-Liste
+
+202 Wird die Funktionstaste mit dem Text «Status» gedtUckt, wird de Liste
+dor Status autgelstet. Das Listenende ist eine gestrchelte Lin. Wird
+‘weiter gebiatter, flgt wieder der erste Eintrag der Liste. Die Lisle der
+
+noe Pw
+BeOR
+

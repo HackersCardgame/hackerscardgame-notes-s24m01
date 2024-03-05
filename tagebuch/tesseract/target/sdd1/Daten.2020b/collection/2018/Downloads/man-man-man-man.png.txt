@@ -1,0 +1,21 @@
+‘/Daten.2017/code/shrikey/python/pciNG$ python3 pciNG.py Noviate.2018.RET.BluRay. 1080p |grep True
+True
+
+“ANIME.Series: True
+TV.HR-GROUPS: True
+1X264.RET.1080: True
+-X264.HDD: True
+264.CLS.1080: True
+TV.X264.HDD.1080: True
+UK-SERIES: True
+X264.CLS.720: True
+TV.X264.WEB.1080: True
+1X265.RET.2160: True
+=XXX.720: True
+TV.X264.DTV.1080: True
+X265.LIM.2160: True
+X264.LIM.1080: True
+X264.RET.720: True
+X264.MUSIC. 1080: True
+marc@debian:~/Daten.2017/code/shrikey/python/pciNGs
+

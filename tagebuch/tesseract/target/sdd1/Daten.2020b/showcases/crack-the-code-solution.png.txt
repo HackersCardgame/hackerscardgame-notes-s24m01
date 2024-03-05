@@ -1,0 +1,31 @@
+for(i=0; i<10; i++)
+for(j=0; j<10; j++)
+for(k=0; k<10; k++)
+if ((test(i, j, k, 6
+(test(i, j, k, 6
+(test(i, j, k, 2
+(test(i, j, k, 7
+(test(i, j, k, 7
+Flblert (i+"-"+j+"-"+k
+function test(i, j, k, l, m,
+{
+var rightPlace=0;
+var rightVar=0;
+
+Ne
+
+if (i: ) rightPlace++;
+
+m) rightPlace-:
+if (k==n) rightPlace:
+
+return [rightPlace,
+
+++;
+++;
+rightVar++;
+rightVar++;
+rightVar++;
+
+rightVar];
+

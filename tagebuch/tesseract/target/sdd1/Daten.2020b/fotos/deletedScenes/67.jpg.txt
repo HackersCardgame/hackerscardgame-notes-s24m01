@@ -1,0 +1,193 @@
+YaST Online Update Status
+
+Neue Sicherheits-Updates verfiigbar
+
+Netzwerk: Direkte Verbindung
+
+Letzte Uberpriifung: 12.12.2005 03:09
+| (X| Automatisch Verfiigbarkeit von Updates iiberprilfen
+
+Verfiigbarkeit von Updates tiberpriifen
+
+Starte Online-Update...
+
+Zeige letztes Protokoll...
+
+Nachrichten anzeigen...
+
+'® Automatisch starten
+
+Abbildung 3b: Ein Klick auf das Watcher-Symbol dffnet eine wilde
+Kombination aus Info-, Konfigurations- und Aktions-Fenstern, an-
+
+statt direkt zur Update-Funktion zu gehen.
+
+So gut wie niemand beachtet ein Feature
+eines Sicherheits-GUI, wenn es nicht in-
+tegraler Bestandteil der entscheidenden
+Abldufe ist. Kaum jemand klickt zum
+Beispiel auf einen Button, um das Zerti-
+fikat einer Webseite zu priifen. Dieser
+Schritt ist nicht unbedingt nétig, um die
+Webseite zu besuchen. Selbst wenn beim
+Erledigen der Aufgabe A die Dialogbox B
+dazwischenfunkt, nimmt sich niemand
+die Zeit, deren Inhalt zu studieren - er
+sucht nur nach dem schnellsten Weg,
+um Tdtigkeit A zu erledigen (siehe auch
+Kasten ,,Simon sagt”).
+
+Lastige Lizenzen
+
+Deutlich zeigt sich dieses Verhalten bei
+EULAs (End User License Agreement).
+Sie st6ren nur bei der Software-Installati-
+on. Selbst als Usability-Forscher mit enor-
+mem Aufwand die Lesbarkeit verbesser-
+ten, nahm keiner von EULAs Notiz [6].
+Spyware- und Dialer-Entwickler nutzen
+das schamlos aus und behaupten, dass
+sie ihren Mull mit dem Einverstaéndnis
+des Users auf seinen Rechner laden.
+Copyright-Hinweise in Videos und DVDs
+verpuffen dhnlich wirkungslos. Die User
+spulen das Video einfach vor. Dass Film-
+studios die Hersteller von DVD-Playern
+zwingen, das Vorspulen beim Copyright-
+Vermerk zu verhindern, hilft ianen auch
+nichts: Niemand liest diese Texte, aber
+jeder argert sich. Das geht so weit, dass
+in der genannten EULA-Studie etliche
+Benutzer sogar angaben: ,,Egal, was ihr
+macht, letzten Endes ignoriere ich es
+doch und installiere die Spyware.“
+
+Auch Microsoft stie& auf die-
+ses Problem bei den automa-
+tischen Windows-Sicherheits-
+updates. Da nur wenige Win-
+dows selbst updaten, priift
+das System, ob neue Patches
+vorliegen. Statt stumm im
+Hintergrund Software zu ak-
+tualisieren, informiert Win-
+dows den User, was dem-
+nachst passiert. Uberraschend
+fiir die Redmonder: Ein er-
+heblicher Teil der User klickte
+in alter Gewohnheit auf »Can-
+cel« oder auf den »SchlieRen«-
+Knopf des Popup-Dialogs, um
+das lastige Fenster loszuwer-
+den [7]. Und viele User hiel-
+ten den Dialog gar fiir eine weitere Spy-
+ware- oder sogar Spam-Meldung.
+
+Viele psychologische Studien haben die-
+sen Effekt untersucht: Bei externen Sti-
+muli wie Stress oder dem Wunsch, eine
+Aufgabe zu erledigen, konzentrieren sich
+die Probanden auf die geringstmégliche
+Anzahl an Hinweisen, die ihnen zu einer
+schnellen Entscheidung verhelfen ([8],
+[9], [10], [11]). Das Verhalten ist dem-
+nach ein Teil der menschlichen Natur,
+den niemand als Faulheit abtun oder
+darauf hoffen darf, dass er es andern
+k6nnte. Das menschliche Verhalten ist
+eine Tatsache, mit der Software-Entwick-
+ler und GUI-Designer leben miissen.
+
+SchlieBen verboten
+
+Eine kleine Hilfe kénnte sein, den »Fens-
+ter-SchlieSen«-Button von Dialogboxen zu
+entfernen. Das unterbindet immerhin ei-
+ne der eintrainierten Verhaltensweisen.
+Auch sollten die wichtigen Sicherheits-
+warnungen als modale Dialogbox ausge-
+fiihrt sein: Das zwingt die User, sich um
+das Fenster zu kiimmern. In den 90er-
+Jahren galten modale Dialoge als bése:
+Die Entwickler trieben einen enormen
+Aufwand mit ihren nicht-modalen. Die
+Folge: Beim Anwender stapeln sich die
+ignorierten Fenster, wahrend er munter
+in unsicherer Weise weiterwerkelt.
+
+Einen besseren Ansatz nutzt Apple in
+seinem Mac OS X: Es startet eine voll
+ausgestattete Anwendung (fiir Software-
+Updates) in der Hoffnung, dass die User
+das eher respektieren. Apple unterschei-
+det auch Sicherheitsupdates von norma-
+
+len Aktualisierungen, so dass User nur
+die wirklich wichtigen Korrekturen ein-
+spielen und das System ansonsten unan-
+getastet lassen kénnen.
+
+Suse versucht sich an einer Kombinati-
+on: Der Suse-Watcher informiert in der
+Standardeinstellung unaufdringlich mit
+einem Warntext, falls Updates vorliegen
+(Abbildung 3a). Nach einem Klick auf
+den Text verschwindet er - ohne weitere
+Folge. Ein Klick auf das rot gewordene
+Watcher-Symbol (es kennt auch als Zu-
+stande gelb und griin) 6ffnet zundchst
+eine etwas wirre Kombination aus Infos,
+Einstellungen sowie Kndépfen fiir weitere
+Aktionen (Abbiidung 3b). Erst wer hier
+auf »Starte Online-Update« klickt, kommt
+in den Genuss des Update-Programms.
+Zwischendrin muss der User aber noch
+sein Root-Passwort eingeben und einen
+Mirror-Server auswablen.
+
+Immerhin unterscheidet auch Suse deut-
+lich zwischen Sicherheitspatches und
+normalen Updates. Soll sich das System
+jedoch mehr an Normalanwender und
+weniger an versierte Sicherheitsexperten
+wenden, dann miissten diese Aktualisie-
+rungen leichter erreichbar und weniger
+leicht ignorierbar sein.
+
+Motivationsschwache
+
+Fehler beim Motivieren der Benutzer,
+sich um Sicherheit zu kiimmern, passie-
+ren auch auf Serverseite. Manche Ban-
+ken binden die Login-Felder fiir ihr On-
+linebanking immer noch in ungeschiitzte
+Startseiten ein - sei es, um den Zugang
+leichter auffindbar zu machen, oder doch
+
+Nahe verwandt mit dem gezielten Ignorieren
+von Warnungen ist ein Effekt, den der Usabi-
+lity-Forscher Ka-Ping Yee das ,,Simon-says-
+Problem” nennt. Beim gleichnamigen Kinder-
+spiel erteilt der Spielleiter Kommandos, die
+alle Mitspieler ausfiihren miissen - aber nur
+wenn das Kommando mit ,,Simon says be-
+ginnt (auf Deutsch heiBt das Spiel ,,Kom-
+mando Pimperle“). In die IT-Welt tibertragen,
+miissen die User auf das Fehlen eines Stimu-
+lus reagieren und nicht auf dessen Vorhan-
+densein. Wer das Spiel kennt, der weif, wie
+schwer das ist. Ungliicklicherweise erwarten
+die Webbrowser genau dies: Ein winziges
+Schloss-Icon zeigt an, dass beim SSL-Transfer
+alles in Ordnung ist. Das Fehlen dieses Sym-
+bols dagegen steht fiir ein Problem.
+
+_Sec-Usability
+
+[
+
+Attacken abwehren
+
+Anwender
+
+67

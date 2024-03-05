@@ -1,0 +1,67 @@
+@ The most common count’ x | © Skype x | @ World of Hardstyle 20 4) x | [FJ Facebook X | I Strafe istein Teufelskrei x | @ Fallende Masken, die Wi X | F Neuenburgerstrasse: Cu x | ++ x
+
+€ ecm @® 192.168.179.222/zabbix/screens.php?ddreset=1 . YW) | Q Search L.moo «
+
+VAN=TETEA Monitoring inventory Reports Configuration Administration
+
+Q Bshae 2? 2 YO
+
+Screens
+
+Allscreens / Network
+Filter
+Zoom: 5m 15m 30m 1h 2h 3h 6h 42h 1d 3d 7d 14d 1m 3m 6m ly All
+
+<
+«« ly 6m 1m 7d 1d 12h 1h Sm | 5m 1h 12h 1d 7d 1m 6m ly »»
+
+192, 168.179.1: Traffic on interface wan-wan1 (12h)
+10 Mbps
+
+5 Mbps
+Zabbix server: Disk space usage / (12h)
+
+© vm
+
+last min avg
+
+[Incoming traffic on interface wan-wanl [avg] 313Mbps 21.15 Kbps 238.31 Kbps
+Outgoing traffic on interface wan-wanl [avg] 47.22 Kbps 1.25Kbps 62.01 Kbps
+
+192,168,179.1: Traffic on interface lan-lan1 (12h) 192,168.179.1: Traffic on interface lan-lan3 (12h)
+10 Mbps 100 Kbps
+5 Mbps 50 Kbps
+Ops Se cee ec ee ee se ee eee ee ee ve HES ES
+last min avg last min avg max
+i Incoming traffic on interface lan-lanl [avg] 47.29 Kbps_—_1.36 Kbps s8.6Kbps 17, Incoming traffic on interface lan-lan3. [avg] 1.04 Kbps Obps 773.93bps 9.27K
+BH Outgoing traffic on interface lan-lanl_ [avg]. 307Mbps © 904bps_ 160.16Kbps 9. Il Outgoingtraffic on interface lan-lan3 [avg] 888bps 192bps 1.71 Kbps 93.34 K
+192.168.179.202: Traffic on interface port 1: Gigabit Copper (12h) 192.168.179.202: Traffic on interface port 2: Gigabit Copper (12h)
+15 bps 15 bps
+Lobps Lobps
+05 bps 05 bps
+oboe obps
+192.168.179.222/zabbix/chafts.phpzgraphid=572&perfod=43200&stime #20200413073114 ft cesses aeesesereegesegaeeaeagegaesa
+
+cores
+
+2019-04-14 07:31 - 2019-04-14 19:31 (now!)
+
+aor >
+12h fixed
+Zabbix server: Disk space usage /home/marc/disk (12h)
+192.168.179.1: Traffic on interface lan-lan4 (12h)
+15 Mbps
+1.0 Mbps
+0.5 Mbps
+Obs ee eee DEC et RD ee ee Eo eee
+last min avg max
+Incoming traffic on interface lan-lana [avg] 64bps _ 8bps 3.4 Kbps 380.82 Kbps
+
+BH Outgoing traffic on interface lan-lan4 [avg] 48 bps 16 bps 29.75Kbps 1.41 Mbps
+
+192.168.179.202: Traffic on interface port 3: Gigabit Copper (12h)
+15 bps
+
+10 bps
+05 bps
+obps

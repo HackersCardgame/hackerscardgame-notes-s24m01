@@ -1,0 +1,78 @@
+‘marc@kal~(Daten.2014/myLife/Tagebuch/2014/evaluator$ JevaluateWordcount.sh
+96 psychiater
+102 mutmassung
+121 hypothese
+112 aarau
+112 psychiatric
+6p
+128 ot
+144 system
+270 na
+
+‘marci@kal:—/Daten.2014/myLife/Tagebuch/2013/evaluator$ JevaluateWordcount.sh
+“701 vater
+717 visual
+838 irgendwer
+911 biank
+913 system
+11025 stimme
+1468 alentals,
+1791 pfsterer
+1978 elaudine
+
+‘marc@kal:—/Daten.2014/myLifeffagebuch/2012/evaluator$ JevaluateWordcaunt.sh
+239 mutter
+248 kind
+255 matia
+271 ektem
+301 stimme
+303 vater
+368 primezettel zuber
+372 system
+453 clousine
+
+Fi! /bin/sh
+
+find .. -nane te. cxt* onyftles. ext
+luhite read line; do cat "sline"; done < myfiles.txt | tr
+Ts Eplewers] 1 i" vy ted
+J sort -n >tenp. txt
+s/[\daze-\eess]/
+bok -pe.‘s/[*[zasctl:}}//a" temp. txt
+tbk -pe ‘s/{*[zasett:}1/sar" tenp.tx
+UtT-B -t asctt//teansLit temp. txt
+<< tenp.txt > Wordcount, txt
+"Wordcount. txt
+Swhtle read Line: do echo |
+atenp.sh
+"temp. sh 9ftLter.sh
+
+J /fttter-sh | tatl -nsee
+
+ra
+sort | unl
+
+‘marc@kali~/Daten.2014/mylie(Tagebuch/201 /evaluator$ JevaluateWordcount.sh
+
+230 hypothese
+251 pe
+
+254 mani
+
+256 kind
+
+275 frau
+
+277 variante
+291 zettel
+
+325 visual
+
+5338 menschen
+351 leute
+
+438 nowzettel
+493 system
+4688 claudine
+957 stimme
+

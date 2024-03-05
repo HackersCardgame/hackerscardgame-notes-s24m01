@@ -1,0 +1,39 @@
+marc@debian:~/sound/mp3$ whois razorbacks.ch
+whois: This information is subject to an Acceptable Use Policy
+See http: //wmw.nic.ch/terms/aup.html
+
+Domain name:
+razorbacks.ch
+
+Holder of domain name:
+Razorbacks MC
+
+Markus Keller
+
+Postfach 61
+
+CH-8143 Stallikon ZH
+Switzerland
+
+Contractual Language: German
+
+Technical contact:
+Razorbacks MC
+
+Markus Keller
+Postfach 61
+
+CH-8143 Stallikon ZH
+Switzerland
+
+Registrar:
+NOVATREND Services GmbH
+
+First registration date:
+2000-08-24
+
+DNSSEC:N
+Name servers:
+
+nsl.hosttech.ch [82.220.34,231]
+hs2.hosttech.ch [5.79.97.178]

@@ -1,0 +1,10 @@
+VPS l (Ves VIClvew mwa SS ae
+marc@windoof :~/hackerscardgame-notes-s23m07$ git add -A & git commit -m "..." &
+& git push
+
+[main 6cb78be3]
+
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+create mode 100755 horton-leak-noch-2-jahre.png
+Enter passphrase for key '/home/marc/.ssh/id rsal':

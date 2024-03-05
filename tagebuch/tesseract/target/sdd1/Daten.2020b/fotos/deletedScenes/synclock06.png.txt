@@ -1,0 +1,13 @@
+[x[Audior vy 10
+Mono, 44100Hz 1
+32-bit float 0.0-
+
+[+107
+
+[iAudio
+
+Mono, 44100H2
+32-bit float
+
+©|-1.0)
+

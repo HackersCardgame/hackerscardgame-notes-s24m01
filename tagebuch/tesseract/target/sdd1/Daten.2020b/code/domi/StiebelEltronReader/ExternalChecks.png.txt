@@ -1,0 +1,34 @@
+marc@debian: /etc/zabbix x
+
+File Edit View Search Terminal Help
+# Setting to @ disables value cache.
+
+#
+# Mandatory: no
+
+# Range: 0,128K-64G
+# Default:
+
+# ValueCacheSize=8M
+
+### Option: Timeout
+# Specifies how long we wait for agent, SNMP device or BRRRRABINGHBGKE (in
+seconds) .
+
+#
+# Mandatory: no
+# Range: 1-30
+
+# Defaul
+# Timeout=3
+
+Timeout=10
+
+### Option: TrapperTimeout
+# Specifies how many seconds trapper may spend processing new data.
+
+#
+# Mandatory: no
+# Range: 1-300
+VISUAL -- 15 404,70-76 63%
+

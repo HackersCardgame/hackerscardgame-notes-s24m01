@@ -1,0 +1,30 @@
+Widerstand [ohn]
+
+0.0004
+
+0,09035,
+
+0,003,
+
+0,.09025,
+
+0.0002
+
+0,99015,
+
+0.0001,
+
+5e-05
+
+Hirkuiderstand R ——
+Gleichstronuiderstand R8 ——
+Verhaeltnis R/RO ——
+
+200 400 600
+Frequenz [Hz]
+
+00
+
+1900
+
+Verhaeltnis R/RO

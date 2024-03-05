@@ -1,0 +1,4 @@
+fm 5960X FX
+vs
+CORE al
+

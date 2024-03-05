@@ -1,0 +1,52 @@
+a
+
+var xhr=
+var coun
+var temp=[];
+if (window.XMLHttpRequest) {
+
+for (isl; ic2; i+)
+
+var temp = new XMLHttpRequest () ;
+//temp.onreadystatechange = function(){alert(temp+" readyState
+temp.onload = function() {alert (temp. readyState)
+temp.open("POST", i+". txt");
+
+temp.send();
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count);}};
+
+var temp2 = new XMLHttpRequest);
+//tenp.onreadystatechange = function(){alert(temp+" readyState
+temp2.onload = function(){alert(temp2. readyState) };
+temp2.open("POST", i+". txt
+temp2.send();
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count) ;}};
+
+var temp3 = new XMLHttpRequest);
+//tenp.onreadystatechange = function(){alert(temp+" readyState
+temp3.onload = function(){alert(temp3.readyState)};
+temp3.open( "POST", i+".txt");
+
+temp3.send();
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count) ;}};
+
+var temp3 = new XMLHttpRequest ();
+//tenp.onreadystatechange = function(){alert(temp+" readyState
+temp4.onload = function(){alert(temp4.readyState)};
+temp4.open("POST", i+".txt");
+
+temp4.send();
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count) ;}};
+
+var temp3 = new XMLHttpRequest ();
+//temp.onreadystatechange = function(){alert(temp+" readyState
+temp5.onload = function(){alert(temp5. readyState) };
+temp5.open("POST", i+”.txt");
+temp5.send();
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count);}};
+

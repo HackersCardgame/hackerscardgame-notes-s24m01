@@ -1,0 +1,399 @@
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\:
+
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\:
+HackersCardgame4-master/TODO/Transcript\
+HackersCardgame4-master/TODO/Transcript\:
+ectory
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+y
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+ctory
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\
+tar: HackersCardgame4-master/TODO/Transcript\ :
+ory
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tory
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tar: HackersCardgame4-master/TODO/Transcript\ :
+
+tar: HackersCardgame4-master/TODO/Transcript\ :
+tory
+
+“c
+
+marc@debian: /media/marc/7F346F3938B21801/hcg2$
+
+Jacob
+Jacob
+Jacob
+
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+
+Jacob
+Jacob
+
+Jacob
+Jacob
+
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+Jacob
+
+Jacob
+Jacob
+Jacob
+Jacob
+
+Jacob
+Jacob
+Jacob
+Jacob
+
+tar -xf master.tar.
+
+Appelbaum
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+
+Appelbaum
+Appelbaum
+Appelbaum
+Appelbaum
+
+Protect
+Protect
+Protect
+
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+
+Protect
+Protect
+
+Protect
+Protect
+
+Protect
+Protect
+Protect
+Protect
+Protect
+Protect
+
+Protect
+Protect
+Protect
+Protect
+
+Protect
+Protect
+Protect
+Protect
+
+Militarization
+Militarization
+Militarization
+
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+
+Militarization
+Militarization
+
+Militarization
+Militarization
+
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+Militarization
+
+Militarization
+Militarization
+Militarization
+Militarization
+
+Militarization
+Militarization
+Militarization
+Militarization
+
+Internet
+Internet
+Internet
+
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+
+Internet
+Internet
+
+Internet
+Internet
+
+Internet
+Internet
+Internet
+Internet
+Internet
+Internet
+
+Internet
+Internet
+Internet
+Internet
+
+Internet
+Internet
+Internet
+Internet
+
+capitalism files/css.css: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/devicepx-jetpack.js: Cannot open: No such file or direc
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/donate-1.jpg: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/dynamic.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/frontend.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/frp-front.css: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/htmlparser.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/jetpack.css: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/jquery-migrate.js: Cannot open: No such file or directo
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/jquery.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/jquery 002.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/navigation.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/postscribe.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/print-button-gray.png: Cannot ope
+
+No such file or dir
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/printfriendly.js: Cannot open: No such file or director
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/q2w3-fixed-widget.js: Cannot open: No such file or dire
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/style.css: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/style 002.css: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/theme-functions.js: Cannot open: No such file or direct
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/thermometer.png: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/thermometer_002.png: Cannot open: No such file or direc
+
+capitalism files: Cannot mkdir: Invalid argument
+capitalism files/wp-embed.js: Cannot open: No such file or directory
+capitalism files: Cannot mkdir: Invalid argument
+
+capitalism files/wp-emoji-release.js: Cannot open: No such file or direc
+

@@ -1,0 +1,58 @@
+Activities) Terminal ~ Mar 19 08:06 © ao OF
+
+‘ Debian10 AY) =
+
+Activities _@ FirefoxSR ~ Fri08:06
+
+a Terminal Q
+
+atmisnypcapersivqeyerotonbng- types atin, javascript dataade: ide. husk: rer: raps data-srex"tps/7gathub,9i tunel scan/asets/chank.reaer- groups: 1aelfer®.jsnser it,
+
+ea/deblan bose an raspborrya build raspherryPTS cardcsh at atster © brainde!-Gebian base_on raspherrys-Mtal:  <ocrige crossorsgine'amanyanus’ defersdefer" inteyitye-shasi2UsPpInFASTAghskesta//0/vsExa2L 0 Tye 28y ORM
+rspaialgnTT¥SnSealpabeerOPtag--" typer-appl ication javascripts data-eidute- {de /chuaksortable-tebavior Js" data-sre-*https://9ithuh9ithaborsetscon/avsets/chunk-sartable-beieiors2e30909.)s"9c/scf4pt>
+
+eajdebian base-an raspberrys build raspherryPT3 cardcsh at auster* brainde! Gebian base on raspherry2-hial:  cseript-cressorsgine"ananyanus’ deferetdefersintegrity=-shaslo.QaurFYakeAmon2aT¥i cE Sode42rEBhg284KeZb 70628
+sonaysazatsanesowarnesvesttac=*typex"app cain javascript data-naee: ide husk twctsadan js" dota-srce*htps/9i then. gthabossets.conassets/chuk-tweetselvan 40120153 ip
+
+Z3/debian bose on raspberr/3 baild raspaerryPT3 cardoh st saster * braindel debian Sasson raspaerty8-Mial: <ser4pt eroseoriginetarampaaus” defer='deter® Antegrity=sbaS1)s4GF0u FvOs Boa ASHiF,OOKLL 2 /UESGe fy
+spotseagrdsytokesPuseweTIkeda-” typer-appl ication javascripts data-madute- de -/ehunksoer-statyssekast jo" éata-aree*nttpse//pithibgitibnasets con/ossete/chok- doer stats subst tpetOS3n,Joroc/ocrapt>
+
+Ca/debian_bove on raspberry3 baildraspberryPT3 cardsh st masters braiadel-sebian Sasa on raspberry8-Mtal:_ eseript crossorigim='anonyeoss" defer='safer*intogity="shaS12 xINSMCsqrO3Pup FP oAb eS pSBqReGp TPO
+KattmsramvamesesscsnceTsWPte==" tyge~"appication/Josancrigtaree"dcblan bose an rasgler ya build op ryPT3 card ste2bat abmastersGPACoNETaphrsinee! debian bose an raver 3 Datelen/cedespacescS4iTede,o"oc/acript>
+apdebion bose an rosaberrya build raspherryPTs cardcoh ak muster» brane! debian base,on raspherrys-Mm(e<script crossorighae"anonyumisedafer="defer” integrstye“sasl2.erglaysetur Adeeb \Uen juze Bean eKRARONKaG2rC19
+incgeatopuzgctbacinnjxote* type=tomlicaton/javoscript” srestdehian base on raspbery3 ull raspuer PTs card. spootsomnastersooeDeNoAbravedet debian ase an rapberrys-atesen/ pos tar ies, 12bapae;js"oser it
+Eerdebian tose an raspberrya berldsaspherryPTS cardcsh at atster + braindel debian baseon raspberry2-Ntal-<scriptcrossorighaesanenyunis’ dafer-"defers intepritye-shas!2 ws tciVTOTs¢CbataptecC0QReED/yEN is gProomRtae CRU
+JsckcaePiseaiPusdToXsbeiCi-~" typeatoyp eat ven/javoucr pt” srea'debisn hase oh taupborey8 hull rarsberryPT3 cord stiddats2oesntersoavCONETS2IGraiedel debion bast on toxpberey3 Oateien/tapiesagGest iors Ea0eSH79-js">e/seF1pt>
+73/debian bose on rassberry3 basld raspberryPT3 tard-oh st master = braiadet debian Save on raspberryS-Mtal: eseripl eroesariqine*anonyeads" defer='saver* into ity=tonaS12 Vorqox70DMr IEDen20ePounGeglde)S2 lw LORNEZE
+travel igerCytertararwdokanent ot senOoru/cyborWA2N26N207. txt sshaSIdsum SGEDTT CURRENT BOCLNENT NAME
+
+earcGisbiets-/tackerscardgone-rotes3y forep cri shasl * [grep -v tripere
+
+atceeion:n/tacheracareqane ratessh git Sid “A Ge qit cemstt vm "helsara” 6& git push
+
+master 2251201 besa
+
+soar fr, gnsfachricrdeeasit oct P
+
+esting objects 1008 112/12), 1-45 KI | 1.45 M/s, ane
+
+stat i Chelta 8], vessel ® fesita 0), gacicrewsed @
+
+earcGchion:-/nackerscaregone-natesst git ad -A 6 git comit -m “helsana? 6 git push
+
+mster sbabetdt) besa
+
+Tite changed, 4 invert iors)
+
+soar fr, gesfachricrdeast oct .
+
+faurting eajects: 2808 (8/8), sa
+
+eanpressing ebjects: 10x (6/6), dane
+
+fir ting objects: os e761, 210 bytes | 405.00 Kia
+
+state (eatts 4), revsed 0" (dette 0), pack reused 8
+
+earctehion:-/rackerscardpaee-tatesst sudo apt-oet instatl mufacity
+

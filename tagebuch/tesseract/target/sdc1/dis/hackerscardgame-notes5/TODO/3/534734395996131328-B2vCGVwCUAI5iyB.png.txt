@@ -1,0 +1,24 @@
+bits/sec
+
+Tue 00:00 Tue 12:00
+
+Hon 12:00
+
+avg:50.24M max: 93, 03H
+
+cur:61. 99H
+avg:50. 60H max:94, 82H
+
+@ Inbound
+cur:62. 97M
+
+Di outbound
+
+Dv 068 379:108 Cornet eo Srp Two
+
+10
+
+Tue 12:00
+@ Inbound cur: 2.65 avg: 5.21 max:11, 88H
+Di outbound cur: 2.64M avg: 5.324 max:11, 92
+

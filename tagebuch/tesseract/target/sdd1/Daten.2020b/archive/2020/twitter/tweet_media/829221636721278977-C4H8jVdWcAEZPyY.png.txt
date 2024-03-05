@@ -1,0 +1,5 @@
+Addon Cards
+
+For generic upstream Taroes
+https://github.com/braindef/Shrink-Disorder-Tarot
+

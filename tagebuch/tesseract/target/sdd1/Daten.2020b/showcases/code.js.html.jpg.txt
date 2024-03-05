@@ -1,0 +1,47 @@
+for(i=0; i<10; i++)
+for(j=0; j<10; j++)
+
+for(k=0; k<10; k++)
+
+it (test (a 3,
+
+(test (1,93,
+
+(test(i, j,
+
+(test(i, j,
+
+(test (i593,
+
+Flblert (i+"-"4+j4"-"+
+
+AAAAR
+
+6
+6
+2
+av)
+av)
+k
+
+function test(i, j, k, l, m,
+{
+var rightPlace=0;
+var rightVar=0;
+
+aie (Ge ) rightPlace++;
+
+rightVar++;
+rightVar++;
+
+if (j==m) rightPlace++;
+if (k==n) rightPlace++;
+ste
+ste
+aie
+
+return [rightPlace,
+
+rightVar++;
+
+rightVar];

@@ -1,0 +1,13 @@
+| 1115 480 972 1.163 099 304
+
+Error x
+
+Remote control
+
+No connection to partner! File transfer
+Partner did not connect to router.
+
+Error Code: WaitforConnectFailed
+
+ok
+

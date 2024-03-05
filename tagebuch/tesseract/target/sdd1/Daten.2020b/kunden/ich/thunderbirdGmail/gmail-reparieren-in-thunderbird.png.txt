@@ -1,0 +1,11 @@
+Losung
+
+Sobald Thunderbird 68.2.1 bzw. 60.9.1 zur Verfligung steht, sollte man auf diese Versionen
+aktualisieren. Damit ist das Problem behoben. Der folgende Tipp sollte dann nicht mehr
+angewandt werden bzw. evtl. wieder ruckgangig gemacht werden.
+
+Fur die Ubergangszeit kann man das Problem kurzfristig beheben, indem man in Thunderbird den
+Konfig-Editor benutzt und dort die versteckte Einstellung
+general.useragent.compatMode.firefox auf true! umschaltet.
+
+Anschlie&end funktioniert der Login zu den Google-Diensten wieder.

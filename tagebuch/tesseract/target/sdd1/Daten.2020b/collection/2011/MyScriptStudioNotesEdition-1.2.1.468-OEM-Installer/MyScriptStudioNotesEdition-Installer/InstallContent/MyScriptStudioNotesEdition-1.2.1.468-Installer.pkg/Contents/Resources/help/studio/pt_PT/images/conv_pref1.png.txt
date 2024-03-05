@@ -1,0 +1,6 @@
+‘Manter as quebras de linha ao converter sé texto
+
+asta para fcheiras exportados
+
+[[c:/Users/adrienne /Documents/MyScript Documents/export
+

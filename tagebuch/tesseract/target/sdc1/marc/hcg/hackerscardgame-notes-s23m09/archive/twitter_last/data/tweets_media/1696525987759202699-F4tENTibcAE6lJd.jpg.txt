@@ -1,0 +1,70 @@
+i storseite x
+
+es¢
+
+Findin page
+
+Hi Moree. Landolt (they * _<F -Mitwirkungsplcht| x hackerscardgame-chijpo! x _+# 2200Pdophite ews x il More Landat (they
+
+© B hitpswnn nakedeapitatism.cony
+intelligence systems collecting data from the whole planet, everywhere they possibly can - I would go to
+prison for the rest of my life. That's the balance, right?
+
+Jefferson talks about this. He says, you know, “That which the government is allowed to do but you are not,
+this is a tyranny.”
+
+There are some exceptions to that, but the CFAA in the United States, the Computer Fraud and Abuse Act,
+you know, it’s so draconian for regular people, and the NSA gets to do something like intercepting 7 billion
+People all day long with no problem, and the rest of us are not even allowed to experiment for improving
+the security of our own lives without being put in prison or under threat of serious indictment, and that I
+think is a really important point.
+
+So the TURMOIL system is a surveillance system, and it is a dragnet surveillance system that is a general
+warrant dragnet surveillance if there ever was one,
+
+ind low We shot the British over this wher
+assistance.” These
+Ligital version of a general
+it even exists, because its n
+
+started our revolution, We called them “gen
+
+nsidered to be a tyranny. And TURN
+em, And the general writ of assistance itself, it's not clear if
+uld understand anything that [just said
+
+warrants which
+
+generalize
+
+tance sy
+
+ar to me that a judge
+
+{applause]
+
+Okay, 50 now we're going to get scary. So that’s just the passive stuff. There exists another system that's
+called TURBINE, and we revealed about this system in the Spiege! publication today as well. So if TURMOIL is
+deep packet inspection, then TURBINE is deep packet injection. And it is the system that combined together
+with the things - with TURMOIL and TURBINE you can create a platform which they have consolidated which
+they call QFIRE. QFIRE is essentially a way to programmatically look at things that flow across the internet
+that they see with TURMOIL and then using TURBINE they‘ able to actually inject packets to try to do
+attacks, and I'l describe some of those attacks in detail in a moment.
+
+But essentially the interesting thing about QFIRE also is that they have a thing thats called a diode. So if you
+have for example a large number of systems where you control them, you might say, “Hey, what are you
+doing on that backbone?’ “Hey, what's going on with these systems?” And they could say, well, you know, we
+paid for access, we're doing this, its all legal, etcetera. QFIRE has this really neat little detail which is that
+they compromise other people's routers and then redirect through them so that they can beat the speed of
+light.
+
+ vnlcode sgn warn
+
+S grosimérder aarau a0 x
+
+a
+
+e
+
+i Transcript Jacob Ap
+

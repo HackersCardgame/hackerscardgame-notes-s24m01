@@ -1,0 +1,10 @@
+no
+
+en 2
+
+WordPress aktualisieren
+
+Herunterladen der Aktualisierung von https: //dounloads.wordpress.org/release/de_CH/wordpress-5.5.1.2ip
+Die Echtheit von wordpress-5.5.1.2ip konnte nicht verifiziert werden, da keine Signatur gefunden wurde,
+
+Entpacken der aktualisierten Version

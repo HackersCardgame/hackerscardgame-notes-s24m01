@@ -1,0 +1,4 @@
+40 60 30
+Time(nsec)
+
+Fig. 3 OSU Floppy Over Steel Pipe

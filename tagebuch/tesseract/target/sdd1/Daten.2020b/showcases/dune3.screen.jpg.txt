@@ -1,0 +1,77 @@
+OSCILLATOR
+
+Linear « VA
+
+46 | 100
+
+DENSITY/AMOUNT/TUNING ” {?)
+sev FINE
+oh SP
+% 3 _
+DETUNE SPREAD RESET
+va) [wr] [Fm]
+SYNTHESIS TYPE
+wae By ee
+waveron eq sme
+OSC MIXER
+sci 0sc2 osc Noise
+
+KEYBOARD FX BUS 1
+
+DIFFERENTIAL UNISON ENGINE
+
+SOUNDBANK
+
+001: Adrenaline KS
+
+PATCH DESCRIPTION
+Breath: Low Cut
+
+Modwheel: Opening Party!
+
+Tempo: 1358PM
+
+‘GLOBAUSETTINGS
+
+Active Voices: 0/16
+Midi Smoothing: Off
+
+Multithreading: On
+Skin: Default
+SETTINGS
+
+Mop MATRIX || ARP
+
+ARP?)
+
+SYNAPSE DUNE 3
+
+FILTER 1 7 FILTER 2 FILTER ENVELOPE
+owpass BALANCE
+XP Lowpass 12dB |, OFF 7 ot ©
+? ? ee os \S
+NN re KTRK em ATTACK DECAY SUSTAIN RELEASE +— ANALOG
+2 Gy Yay 7 Sy
+( unk) AMP ENVELOPE
+curort —— Reso — Drive Drive — Reso — curorr
+2 : a a ee wm a
+% LowCutskT , {A} 7 ee Sy iS
+Ps iin ee waa ae, ATTACK DECAY SUSTAIN. RELEASE «— LEVEL
+Fx BUS2 Los MSEG 1 MseG2 MsEG3 MSEG 4
+
+ee |
+
+UNISON Voices MasTER
+va
+i 2
+* ey 46 %
+DETUNE seREAD POLYPHONY. Liven voLume
+‘ QOMOOOMOL
+ait
+COMMON / VOICES EDIT
+
+fa @) 2 o)
+
+GUIDE ARP ARP2. PKI
+HI7TIOVOOe
+

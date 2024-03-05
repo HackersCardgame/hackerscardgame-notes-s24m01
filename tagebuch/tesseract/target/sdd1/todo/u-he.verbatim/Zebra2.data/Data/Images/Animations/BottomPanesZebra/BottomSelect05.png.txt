@@ -1,0 +1,10 @@
+Global
+
+Ose 1
+
+MSEG
+
+‘Arp/Seq
+
+Matrix
+

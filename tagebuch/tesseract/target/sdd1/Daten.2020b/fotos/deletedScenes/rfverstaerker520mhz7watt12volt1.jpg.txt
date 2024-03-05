@@ -1,0 +1,23 @@
+2$8C3021
+
+NPN EPITAXIAL PLANAR TYPE
+
+TEST CIRCUIT (f = 520MHz)
+
+ee
+ls
+i aitcaia
+8
+Zin= 500 i 6
+His uy 7
+B }—19- 34 10005
+scope TF i E
+Le
+= | = #
+to 20pF° ‘SPF TpF to 20pF to 7pF
+bb onieny ae
+La terete Bod erties lee gar Ci
+Op? Sha Awe 120. 1D Bhs ea tans
+Cp Grune AWG #20: rm 1D ape toa GSE TF pl
+
+Le: 10 Turn AWG #26 Enameled Wire on 4mm ©.D., 14mm Length Bakelite. Cy: _B20F. 220pF. 10aF in parallel

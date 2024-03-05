@@ -1,0 +1,11 @@
+[x/Audio Trac ¥] 1.0
+Stereo, 44100Hz |
+
+32-bit float oo
+| Mute | Solo ]-19]
+gt | 10
+
+gt | 007
+
+-1.0|
+

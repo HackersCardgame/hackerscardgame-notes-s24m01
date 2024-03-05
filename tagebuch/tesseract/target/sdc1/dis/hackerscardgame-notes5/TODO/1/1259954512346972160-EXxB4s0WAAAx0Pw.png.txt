@@ -1,0 +1,18 @@
+File Settings Lister KrViewer
+Print “4 Copy
+
+& fha.cmd (Viewing) *
+
+net use * /d
+
+@net use
+@net use
+@net use
+@net use
+@net use
+
+\\orion\tacier /user:fh-aargau\ia03land AjCdjHwc,
+\\loki\ia03land /user: fh-aargau\ia03land AjCdjHwc,
+\\wanda\tacier /user:fh-aargau\ia03land AjCdjHwc,
+\\wanda\studweb /user:fh-aargau\ia03land AjCdjHwc,
+\\Deimos\scratch /user:fh-aargau\ia03land AjCdjHwc

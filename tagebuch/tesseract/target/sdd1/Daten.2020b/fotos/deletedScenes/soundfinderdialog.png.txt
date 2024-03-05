@@ -1,0 +1,19 @@
+\Written by Jeremy R. Grown (htp://wnw.jeremy-brown.com))
+based on the Silence Finder script by
+
+Alex S. Brown, PMP (http://wnw.alexsbrown.com)
+
+Released under terms of the GNU General Public License version 2
+‘Adds region labels for areas of sound according to the specified level
+{and duration of surrounding slence. IF too many labels are produced,
+increase the silence level and duration; if too few are produced,
+reduce the evel and duration.
+
+Treat audio below this level as silence [ -d]:
+
+Minimum duration of silence between sounds [seconds]: 1
+Label starting point [seconds before sound starts]: 0.10
+Label ending point [seconds after sound ends]: 0.10
+
+‘Add a label at the end of the track? [No=0, Yes=:
+

@@ -1,0 +1,120 @@
+[NanoBeamM2 400] - Site Survey - Chromium
+
+(& bepS://192.168.179.21/survey.cgi?iface=athO
+
+ccsD4E-8401-10
+58.60:8F:36.72.27
+A452.6F-7B8F-71
+OC'S4:A5:4A:A155
+DaD1e4Fe:A5:88
+9c7.2688-8C:8F
+00:21:16-60 6:30
+8426:1557.0859
+08:96007:60:850
+00:24:c8:58:08:00
+9C:C7:A6-28:AC85
+00:187:£8:9093
+oo2a:ces8i7:30
+oo-tF:41.08:07:41
+OCSH:AS:A4:78:14
+00:26:42:80:26:80
+S4BEF75858:32
+24:65:11D1:08:aD
+08.9607.4F-1F-B8
+oo.24:c3:67'5A90
+58:60:8F' 80:98:06
+00259C:Datee0
+Fe40F2C5:16#0
+€0:25:08:C0:AF DA
+Dops2011s8
+FE43F6-0848:0
+00:28:75:1D 350
+2CSS.ESBS:AF-AE
+oo:c0:ca 71.7850
+OCSH:ASFEF2C4
+00:262:68:2a04
+4494FC:8658:04
+00:13:10:9F'36:26,
+00.0F:c3:05.08:18
+oonicrocu74.27
+
+ZyxEL238hur wraz — -821-82
+jstalder wea -90/-92
+nle-36550 WPA -941-96
+‘YETNET_45679 wraz —-801-82
+bpb-58506 wea -82/-92
+TNCAPBEECEF wea 741-92
+YSs-26429 WPA —-851-92
+ho 94846 wea —-86 1-92
+ww a wea 811-90)
+znw-88420 wea = -871-82
+FRITZIBox Fon WLAN 7380 a wea 911-92
+CCORNELIA-PC._Network_1 wraz —-88 1-92
+voc-26870 wea 781-92
+wea = -771-82
+‘YETNET_32859 wraz 911-82
+icz-47345 wea 911-92
+‘YETNET 45043 wraz — -821-82
+FRITZIBox Fon WLAN 7380 a wea -82/-92
+heh a wraz —-931-96
+peu-75340 wea —-821-82
+W-LanLebundgut Wea 941-96
+saine- malo wraz — -821-82
+YETNET 42122 wraz 911-82
+Peries wea 911-92
+KETO7538 Wea -931-96
+ZyxELOB48E0 wraz — -901-82
+ont-61540 Wea -931-96
+HP-Print-AE-Photosmart $520 wraz —-751-82
+720008, wraz —-89/-82
+YETNET_46192 Wraz —-95 1-96
+Garage NONE 871-92
+NETGEAR_ling NONE -851-92
+Sibi wer 821-92
+NONE -761-92
+WirelessHome wer 921-92
+
+Selectable SSID's must be visible and have compatible channel bandwieth and security settings
+
+2437
+2.462
+2.462
+2.462
+2.462
+2.462
+2are
+2437
+2.452
+2.467
+2a
+2437
+2422
+2437
+2a
+2437
+2a
+2a
+2a
+2437
+2.462
+2437
+2a
+2.452
+2.462
+2are
+2.452
+2437
+2a
+2a
+2437
+2.462
+2.462
+2a
+2a
+
+Lock to AP
+
+Select
+
+Scan
+

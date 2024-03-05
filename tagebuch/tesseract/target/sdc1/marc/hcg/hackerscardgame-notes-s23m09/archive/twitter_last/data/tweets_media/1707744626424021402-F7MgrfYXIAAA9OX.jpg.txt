@@ -1,0 +1,94 @@
+#0 oO
+
+WikipepiA
+
+Hauptsete
+Themenportale
+Zutaiger artikel,
+
+Artikel verbessern
+even artikel aniegen
+Autorenporal
+
+wife
+
+Lette Anderungen
+spenden
+
+Werkzeugs
+Links auf diese Site
+
+Anderungen an
+
+spezialselten
+Setenintormationen
+Artikel zteren
+
+WikidataDatenobjekt
+
+Dructversion
+inanderen
+Sprache
+
+Aas
+
+Message Passing Interface
+
+‘Message Passing Interface (MPI) ist ein Standard, der den Nachrichtenaustausch bei parallelen Berechnungen auf vertelten Computersystemen beschreibt. Er legt
+{dabel eine Sammlung von Operationen und ihre Semantik, also eine Programmierschnittstlle fest, aber keine Implementierung,
+
+Eine MPI-Applikation besteht in der Regel aus mehreren mitelnander kommunizierenden Prozessen, die alle zu Beginn der Programmausfuhrung parallel gestartet
+werden. Alle diese Prozesse arbeiten dann gemeinsam an einem Problem und nutzen 2um Datenaustausch Nachrichten, welche explizit von einem zum anderen
+Prozess geschickt werden, Ein Vortel dieses Prinzips ist es, dass der Nachrichtenaustausch auch Uber Rechnergrenzen hinweg funktioniert, Parallele MPI-Programme
+2B, Uber TCP), als auch auf dedizierten Parallelrechnern ausfuhrbar (hier lauft der
+"Nachrichtenaustausch Uber ein Hochgeschwindigkeitsnetz wie InfiniBand oder Myrinet oder Uber den gemeinsamen Hauptspeicher).
+
+sind somit sowohl auf PC-Clustern (hier funktioniert der Austausch der Nachricht
+
+Inhaltsverzelehnis verbergen]
+1 Geschiente
+2 Punkt-zu-Punkt Kommunikation
+2.4 Blockierendes Senden und Empfangen
+2.1.1 Programmbeispiel
+2.2 Nichtblockierende Kommunikation
+2.21 Fortschrittabfragen
+2.2.2 Blockierend warten
+23 Synehronisierendes Senden
+24 Putfernde Varlanten
+3 Gruppen und Kommunikatoren
+3.1 Vereinigung
+3.2 Sehnittmenge
+33 Differenz
+4 Globale Kommunikation
+4.1 Broadcast (ausstrahlen)
+42 Gather (sammeln)
+4.21 Vektorbasierte Variante
+43 Scatter (streuen)
+43:1 Vektorbasierte Variante
+44 Akkurulation
+
+Smik ackers OF Of @O7 E gp Bifon S09 Gos) MAb: ster EUS S be BERL Gp=r OxBch) neO5p) BW I66) |wHx| + Vo x
+
+o8 wikipedia.org 8 ume & oL Ow
+angemeldet Olskusslonssete Betrage Benuteerkonto erstellen Anmelden
+
+Artikel Diskussion lesen Bearbeiten Queltext bearbeiten Versionsgeschichte | Wikipedia durchsucher Q
+
+Basisdaten
+Entwickler Met Forum
+Aktuelle Version Version soe
+(OF: 43.Me)
+(@.Juni 2021)
+Microsoft
+
+Betriebssystem
+
+windows Nr
+
+Programmlersprache C+, , Fortran,
+Python, java
+
+Kategorie apt
+deutschsprachig nein
+
+vworeumplforumorge

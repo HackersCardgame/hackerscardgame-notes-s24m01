@@ -1,0 +1,61 @@
+laufern (StanderanlaBverfahren)
+
+chalt-
+e An-
+nkun-
+ergie-
+ytoren Einphasenwechsel- Nennleistung nicht
+Bver- strommotoren liber 1,4 kW
+& den Drehstrommotoren Anzugsstrom nicht
+} pent= iiber 60 A*
+Motoren mit Zu treffende Mafsnahmen
+i bei besonderen sind mit dem EVU zu
+is ni Netzbelastungen vereinbaren.
+rlich.
+* Ist der Anzugsstrom nicht bekannt, so ist der
+
+nes ist achtfache Nennstrom anzusetzen.
+Herab-
+dglich.
+ren.
+vauf-
+lung. =
+
+E
+it dem ¥
+echend
+rch das My
+tional. Mm bei 4 Un
+any er Drehzahl ——= My
+| seines
+igt, daf&
+
+> Dreh- Bild 1: Drehmomentkennlinien eines
+Kurzschlu@laufermotors bei voller
+
+und halber Nennspannung
+
+ae “tt
+
+le in die a1 ka-+— i
+r Anlauf-
+
+| kénnen | el [
+
+klemmen K1 ai x1
+
+‘den, da
+> Reihen-
+in spricht
+
+M1
+
+| bei Ver-
+
+1 Warme-
+
+1, werden
+
+hrt. Diese Bild 2: Drehstrommotor mit AnlaBwiderstanden
+im Netz. in der Zuleitung
+

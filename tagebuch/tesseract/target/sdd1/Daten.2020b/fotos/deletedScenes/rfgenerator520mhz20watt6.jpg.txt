@@ -1,0 +1,15 @@
+TEST CIRCUIT
+
+1=S00MH2 10D, 17, 10 Zour=509
+TR
+
+Zin=509
+
+Las Width dram, length 4.5mm, thickness 0.3mm copper plate
+La: Imme enameled wire 247 +Vee
+FEC: Odmmp enameled wite 257 t0 307
+Ci: 5OpF, 100pF, 2200F, 0.005uF, 0.00224 in paralel
+Ce: O.02uF, 0.04 7uF., 0.47uF in partie!
+Notes: Coils are mace from 1.5mm silver plated copner wir except Ly. Us & REC
+D: Inner diameter of coil P> Pitch of col
+T: Turn number of coil Coll dimensions in millimeter

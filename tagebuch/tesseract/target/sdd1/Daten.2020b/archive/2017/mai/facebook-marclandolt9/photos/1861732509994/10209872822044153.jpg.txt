@@ -1,0 +1,50 @@
+Ip Miew Image Layer Colo
+
+https -youtube. com/watch?
+
+https: //www. youtube
+
+https: //www. youtube
+
+https w. youtube. com/watch?
+
+https s youtube. com/watch?v=-t8K4L6YJ6Q
+https: //www. youtube. com/wat ch?v=IFXIGHOELrE
+https syoutube. com/watch?v=dHVtUwSwToA
+https outube. com/watch?v=Ht rvD9eJMtk
+https youtube. Ow36GAYZIA
+https syoutube dX5Yk4pESw
+https: //www. youtube. com/watch?v=3fbLT3bCDb8
+https: //ww. youtube
+
+https w. youtube
+
+https w. youtube.
+
+https: //ww. youtube
+
+https: //www. youtube
+
+https -youtube.
+
+https y. youtube
+
+https syoutube
+
+https w. youtube
+
+https syoutube
+
+https w. youtube.
+
+https -youtube
+
+https -youtube
+
+https -youtube.
+
+https syoutube
+
+https youtube. com/watch?v=dPy fCcxR8qw
+root@raspberrypi:/home/claude/Temp.2016# for i in $(cat demoscene.txt)]; do echo $i; done
+

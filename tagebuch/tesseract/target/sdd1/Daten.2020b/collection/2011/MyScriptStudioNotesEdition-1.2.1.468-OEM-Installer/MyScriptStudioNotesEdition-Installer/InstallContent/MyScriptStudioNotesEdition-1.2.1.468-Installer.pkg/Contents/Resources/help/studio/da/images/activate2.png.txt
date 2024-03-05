@@ -1,0 +1,25 @@
+Menuet Ai i ae
+
+o
+
+Det kan vaere umuligt at aktivere automatisk, fordi serveren kan veere nede eller
+‘optaget, eller sikkerhedsindstillingerne kan forhindre kommunikation med.
+serveren, Hvis dette er tilfeeldet, kan du benytte den manuelle
+~aktiveringsprocedure, som bestér af fire trin:
+
+1 Klik pé knappen OK i denne dialogboks.
+
+2. Herved oprettes der en tekstfil, der indeholder din kode, en entydig
+identifikator for din maskine og en produktkode. Hvis du oprette denne pen
+masking, som ikke har forbindelse tl internettet, skal du kopiere teksten tl en
+‘anden maskine, og sende den fra denne,
+
+3. Kopiér disse oplysninger ind i en e-mailmeddelelse, og send den tl vores
+‘aktiveringscenter pé VO support<activation studio support@visionobjects.com>.
+Vilaver derefter en aktiveringsfil, som vi sender tilbage til dig med mail. Denne fil
+kan kun bruges pé én maskine- den maskine, som den oprindelige anmodning
+blev lavet pi.
+
+4. Dobbeltklik pé filen licence.lc, som er vedhzeftet til mailen. Dette Sbner et lle
+program, som aktiverer softwaren til hindskriftsgenkendelse.
+

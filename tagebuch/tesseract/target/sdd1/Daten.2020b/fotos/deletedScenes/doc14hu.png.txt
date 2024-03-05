@@ -1,0 +1,55 @@
+ATexmaker beallitasa
+
+Parancsok
+
+Gyorsforditas
+
+PS megjelenité
+PdflaTex
+Dvipdfm
+ps2pdf
+
+Pdf megjelenité
+
+metapost
+ghostscript
+Asymptote
+Latexmk
+
+R Sweave
+
+Parancsok (% : fajinév kiterjesztés nélkill - @ : sor széma)
+
+latex -interaction=nonstopmode %.tex
+
+dvips -0 %.ps %.dvi
+
+bibtex %.aux
+
+makeindex %.idx
+
+‘okular %.dvi
+
+“okular %.ps
+
+pdflatex -synctex=1 -interaction=nonstopmode %.tex
+
+dvipdim %.dvi
+
+Ps2pdf %.ps
+\ Beépitett megjelenité _) Bedgyazott
+
+© Killsé megjelenité _okular
+
+Mmpost --interaction nonstopmode
+
+gs
+
+‘asy %.asy
+
+5pdflatex=q/pdflatex -synctex=1 -interaction=nonstopmode/" -pdf %.tex.
+
+“RCMD Sweave %.Rnw
+
+PrrReE FREEceRRE
+

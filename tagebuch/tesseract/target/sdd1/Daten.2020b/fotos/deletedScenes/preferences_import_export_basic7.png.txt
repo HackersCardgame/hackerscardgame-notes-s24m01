@@ -1,0 +1,30 @@
+‘Audacity Preferences
+eves
+eyo
+Recording
+Quality
+Sette
+Trade
+‘Projects
+tirores
+eectovans
+Srecones
+Warns
+tree
+
+‘Mouse
+
+When importing audio files
+Make a copy of uncompressed audio fles before editing (safer)
+Read uncompressed audio fies drecty from the orginal faster)
+Fitvormatze all tracks in project
+
+When exporting tracks to an audio fle
+‘Always mix all tracks down to Stereo or Mono channel(s)
+
+Use custom mix (for example to export a 5.1 multichannel fie)
+Show Metadata Editor prior to export step
+
+Note: Export quality options can be chosen by clicking the Options
+button in the Export dialog.
+

@@ -1,0 +1,34 @@
+whois: This information is subject to an Acceptable Use Policy
+See https: //www.nic.ch/terms/aup/
+
+Domain name:
+jobs.ch
+
+Holder of domain name:
+JobCloud AG
+
+Profico Renato
+
+Carmenstrasse 28
+
+CH-8032 Ziirich
+
+Switzerland
+
+Contractual Language: German
+
+Registrar:
+switchplus AG
+
+First registration date
+1996-01-31
+
+DNSSEC:N
+
+Name servers:
+
+dns1.ewdns.ch [217.71.87.114]
+dns2.ewdns.ch [212.71.102.42]
+dns3.ewdns.ch [144.76.154.48]
+dns3.ewdns.ch [2a01:4f8:200:2233
+

@@ -1,0 +1,46 @@
+<html>
+<head>
+</head>
+<body>
+<div id="result">TEST</div>
+<script>
+
+euAUAWNH
+
+isio; i++)
+
+if ((test(i,
+B (test (i,
+14 (test (i,
+(test (i,
+
+21 var rightPlace=9;
+22. var rightVar=0;
+
+23 ) rightPlace++;
+
+24 ) rightPlace++;
+
+25 ) rightPlace++;
+
+26
+
+27 if ( is=m |] ) rightvar++;
+28 if ( js=l |] jesn ) rightvars+;
+29° if ( ke=t |] ) rightvars+;
+30
+
+31 return [rightPlace, rightVar]
+32}
+
+33
+
+34
+
+35. </script>
+
+36 </body>
+
+37 </html>
+38
+39

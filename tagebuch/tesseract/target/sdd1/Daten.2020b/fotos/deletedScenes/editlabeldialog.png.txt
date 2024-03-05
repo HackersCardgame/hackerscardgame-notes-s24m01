@@ -1,0 +1,10 @@
+Press F2 or double click to edit cell contents.
+Track Label Start Time End Time
+11 - Label Track Question 1 00h00m00s  00h00m06s
+2 1 - Label Track ‘Answer 1 00h00m06s  00h0Om13s
+3 1 - Label Track Question 2 00h00m13s  00h00m20s
+4 1 - Label Track Answer 2 00h00m20s POhOOm28 sy
+(Insert After) (Insert Before) (Remove) (_Import... —») (__—Export... +»)
+ED
+Z
+

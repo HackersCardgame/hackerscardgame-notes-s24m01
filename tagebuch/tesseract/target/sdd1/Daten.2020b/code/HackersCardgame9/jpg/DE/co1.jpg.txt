@@ -1,0 +1,29 @@
+result
+
+( operand2 )
+
+a | OFF
+
+'D".."O". Be
+
+Inventor: XXX Year: ~???
+https://en.wikipedia.org/wiki/
+UML_state_machine
+
+Wenn man eine Produktionslinie hat (die dazu
+missbraucht werden kann Stimuli-Reaktions-Habits
+zu konditionieren) hat diese mehrer verschiedene
+Zustande und Zustandsubergange (eg. Eventtriger
+fur den Wechsel des Zustandes, t14 Karte), siehe zB.
+Siemens S7 SPS
+
+Das selbe Konzept wird leider auch bei Menschen
+missbraucht (siehe m98, m99 Karte):
+
+1. Normal: loop { Du wirst (Cyber-)Vergewaltigt } =>
+2. Annoyed: jemand sagt "Fu** your Mother" =>
+
+3. Rage
+
+Induziert mit Technologie-Karten (t*)
+

@@ -1,0 +1,13 @@
+19
+
+‘A Accelerometer X (m/s*)
+
+‘Accelerometer X (m/s*) @:
+
+6: i
+
+The acceleration of the phone othe lft and right, in m/s?
+
+LEARN MORE
+
+AIS aed ‘ ol

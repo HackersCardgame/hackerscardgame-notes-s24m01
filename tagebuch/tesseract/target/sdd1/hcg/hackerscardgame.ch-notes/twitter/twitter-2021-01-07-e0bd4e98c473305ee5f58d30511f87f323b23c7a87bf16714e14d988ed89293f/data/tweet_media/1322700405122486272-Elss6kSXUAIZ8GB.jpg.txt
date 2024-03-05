@@ -1,0 +1,17 @@
+Inventor: Year:
+
+In 1984 KenThompson was presented with the ACM
+TuringAward. Ken's acceptance speech Reflections
+On Trusting Trust (http://cm.bell-labs.com/who/ken/
+trust.html) describes a hack (in every sense), the
+most subversive ever perpetrated, nothing less than
+the root password of all evil.
+
+Ken describes how he injected a virus into a
+compiler. Not only did his compiler know it was
+compiling the login function and inject a backdoor,
+but it also knew when it was compiling itself and
+injected the backdoor generator into the compiler it
+was creating. The source code for the compiler
+thereafter contains no evidence of either virus.
+

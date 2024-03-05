@@ -1,0 +1,21 @@
+Handedness: From aLeft-Handers Persp ective
+COMPONENT: Handedness
+
+Left-Handers Perspective
+
+10-39] 40-60461-89 [90-99
+
+[Mostly Left
+Alternates Left
+Some Left
+[Never Left
+
+1-9: Only use Left-Hand, if left hand is usable
+
+10-39: Predominantly Left-Handed
+
+40-60: Left-handed 50%, but must use left hand regularly
+61-89: Left-Handed occasionally, sometimes rarely
+90-99: Never use Left-Hand - unless right hand unusable
+
+Birkman - example Component

@@ -1,0 +1,25 @@
+ELC eS
+
+ams
+
+o
+
+It may be impossible to activate automatically because the server may be down
+‘or busy,or security settings may prevent communication with the server. In that
+‘case, you can use the manual activation procedure which is made up of four
+steps:
+
+1.Click the OK button on this dialog box.
+
+2. This creates a text file containing your code, a unique identifier for your
+machine, and a product code. If you create this on a machine with no Internet
+‘connection, copy this tex to another machine and send it from there.
+
+3. Copy this information into an email message and send it to our activation
+service at VO support <Ims.support@visionobjects.com>. We will make an
+activation file and send it back to you by mail. This file can only be used on one
+machine - the machine where the original request was created.
+
+4, Double-click the licence.lic file attached to the mail. This opens a small
+application that activates the handwriting recognition software.
+

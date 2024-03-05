@@ -1,0 +1,28 @@
+Activities
+
+openConnection: connect: No such
+file or directory
+Feb 8 07:08:35 kali /etc/gdm3/Xsession[1058]: cannot connect to britty at :0
+Feb 8 07:08:36 kali /etc/gdm3/Xsession[1058]: Unable to create /home/marc/. dbus)
+/session-bus
+Feb 8 07:08:36 kali org.ally.Bus[1104]: Activating service name='org.ally.atspi|
+.Registry'
+Feb 8 07:08:36 kali org.ally.Bus[1104]: Successfully activated service ‘org.all|
+y.atspi.Registry’
+Feb 8 07:08:36 kali org.ally.atspi.Registry[1111]: SpiRegistry daemon is runnin|
+g with well-known name - org.ally.atspi.Registry
+Feb 8 07:08:36 kali gnome-session[1058]: x-session-manager[1058]: WARNING: Coul
+d not parse desktop file nm-applet.desktop or it references a not found TryExec
+binary
+Feb 8 07:08:36 kali x-session-manager[1058]: WARNING: Could not parse desktop f
+ile nm-applet.desktop or it references a not found TryExec binary
+Feb 8 07:08:36 kali x-session-manager[1058]: WARNING: Could not parse desktop f
+ile user-dirs-update-gtk.desktop or it references a not found TryExec binary
+Feb 8 07:08:36 kali gnome-session[1058]: x-session-manager[1058]: WARNING: Coul
+d not parse desktop file user-dirs-update-gtk.desktop or it references a not foul
+ind TryExec binary
+Feb 8 07:08:36 kali gnome-session[1058]: SSH_AUTH_SOCK=/run/user/1000/key ring/s|
+sh
+
+3629,1 93%
+

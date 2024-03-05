@@ -1,0 +1,39 @@
+cA ABB Technikerschule, Baden
+_——iaxe fia
+
+30.8.2007/Bo
+
+Eidg. anerkannte héhere Fachschule fur Technik
+
+Hinweise zur Schreibweise von Funktionen
+
+Die Platzhalter f,, /,.f, etc. stehen fir Funktionen, die von den Studierenden he-
+rauszufinden sind.
+
+Beispiel: Ist in einem magnetischen Kreis eine Beziehung zwischen der Windungs-
+zahl N in Abhangigkeit von der magnetischen Feldstarke H und dem Strom J ge-
+sucht, so konnen wir dies in folgender Form aufschreiben:
+
+N=f(4,J)
+
+f steht dabei als Platzhalter fur eine noch zu bestimmende Funktion. In der Klam-
+mer stehen die Argumente H,/.
+
+In den Aufgaben geht es darum, dass Sie den Platzhalter f durch einen passenden
+
+mathematischen Ausdruck ersetzen. Sie finden diesen Ausdruck, indem Sie geeig-
+nete Gesetze, Formein etc. mit den verlangten Argumenten suchen, kombinieren
+und nach der Grésse N auflésen.
+
+Das Durchflutungsgesetz gemdss H. Meister: Elektrotechnische Grundlagen, Band
+1,$.146 lautet: ©=N-J=1, -H. Es ist offenbar ein geeignetes Gesetz, da es die
+
+Grésse N unddie Argumente H,/ enthalt.
+
+Die gesuchte Form N = f(H,J) bekommen wir hier einfach durch Auflésen des
+Durchflutungsgesetzes nach N :
+1,
+
+ro
+
+Nelm = _ Die gesuchte Funktion ist also (HJ) =

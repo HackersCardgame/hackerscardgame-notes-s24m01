@@ -1,0 +1,20 @@
+Dynamic Range Compressor
+
+by Donic Mazzon1
+ows
+12083
+2408
+2608:
+408:
+“$008
+Zois aa 4008 3GaB 30GB -24eB 1608 A246 608 008
+Threshold: 9) “28
+Nose For: 9) Pr
+rato: a
+atackTme: “(J o.2secs
+peaytne: @ 10sec:
+
+/Make-up gain for OdB after compressing [| Compress based on Peaks
+
+Coo) Cerne)
+

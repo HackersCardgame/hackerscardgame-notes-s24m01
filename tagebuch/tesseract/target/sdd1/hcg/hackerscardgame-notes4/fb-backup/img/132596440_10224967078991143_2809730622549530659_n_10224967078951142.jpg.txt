@@ -1,0 +1,92 @@
+| downloa
+
+[A |v | Alle hewerheben
+
+igithub.com/Spi
+
+DB Plo.pat upd
+PO.Applications.pdf update
+
+DB PO.Computer.pdt divider definition changes
+
+DB POSystempat update
+
+(  READMEmd Update
+
+D)_ UsingOberon.paf update
+
+DB license.tet new from 20150605
+
+DB news.txt update
+
+B oberonv5.jpg photo
+
+READMEmd
+
+Project Oberon
+
+The Design of an Operating System,
+
+a Compiler, and a Computer
+
+Revised Edition 2013
+
+Niklaus Wirth
+
+ISBN 0-201-54428-8
+http://www.inf.ethz.ch/personal/wirth/ProjectOberon/indexhtm|
+http://projectoberon.com/
+
+Emulators for the Oberon RISC machine:
+https://github.com/pdewacht/oberon-risc-emu
+http://schierlm.github.io/OberonEmulator
+https://github.com/MGreim/riscpas_repo
+httpsi//github.com/aixp/ProjectOberon-BlackBox
+http://www.informatik.uni-bremen.de/~fld/UnixAos/RISC-Oberon/
+
+Related:
+https://github.com/andreaspirklbauer/Oberon-experimental
+
+5 years ago
+
+Fs ago
+6 years ago
+7 years ago
+5 years ago
+5 years ago
+6 years ago
+
+ears ago
+
+7 years ago
+
+eE——iti‘(Cs So n ali
+
+GroB-/Kleinschreibung Akzente Ganze Worter_Ausdruck nicht gefunden
+
+Releases
+
+No relea
+
+published
+
+Packages
+
+No packages published
+
+Contributors 2
+
+ilovb boris ilov
+
+Languages
+
+6% Verilog 5
+© Shell 0.2%
+
+ND ® oO #
+
+wv
+
+11:27
+
+2020

@@ -1,0 +1,283 @@
+DFSG
+
+‘0n 1997-07-05,
+the Debian Free
+Software Guideline
+was created,
+
+Sources
+Lastest versions always are
+incorporated in Sid (unstable).
+
+Debian.net
+repositories
+
+199310941995,
+
+Unstable
+|
+(*.)
+
+‘Stable: when anew
+Version is released, it
+gets a codename. The
+first codename was
+
+Buze, trom Toy Story
+
+Understanding Debian
+
+Software versions
+
+(2014-03-20)
+Experimental Unstable
+3.13456
+24. 0est-1
+
+'32.0.1700.123-4 3
+
+2701-1
+
+The universal operating system
+fC
+
+2.1.2-24b2
+
+e000)
+
+0.48.4-3+b1
+286-1
+384
+
+ela
+
+Distribution of
+
+Devian N°.
+[eee as Ga
+
+Registered Debian users
+
+EinGx Counter Project
+
+4a7a
+
+edge version
+and experimentatos
+is used periodically.
+
+‘also known as SID,
+F who broke toys.
+Eternally unstable. This is an
+‘area for package stabilization,
+‘SID: Still in Development
+
+Testing:
+stabilization area
+for the distribution
+asa whole. itis
+released as stable
+version when ready.
+
+When a new version is
+released as stable, it
+Immediately open space
+in testing Then a new
+cycle of distribution
+Stabilization is started
+fora future release. The
+process follows a
+Continuous and natural
+
+=
+FJ
+y=
+
+Potato
+2000-08
+
+On 1993-08-16, fan
+Murdock announced
+the birth of Debian
+
+Claudio F Filho (filhoct) <f
+03/10/2013 - version 2.1 - Made with Inkscape.
+Understanding Debian is licensed under a\Creative
+
+Commons Attribution-NonCommertial-ShareAlike 3.0 Unported License
+
+Debian is a trademark of Software Public Interest Inc.
+
+New logo
+1999-05
+
+[Debconf 3)
+PSe08-07
+
+Pure blend
+
+in general
+
+isused to
+
+incorporate a great set of
+packages before goi
+
+Into unstable,
+
+2003-08-16
+20 years of
+Debian Project
+
+~s
+
+| leacer 3),
+[PS008-07
+
+Debian Live: provides 3
+framework to bud
+‘offal or customized
+Debian Live images to
+
+‘Debian Mentors:
+Focused on helping
+bq new developers.
+
+penton]
+i
+
+Intended for:
+
+ssedojenep pue
+suesn snounjueapy
+
+Jessie
+current
+testing
+version
+
+suesn
+jes9u25
+
+Under the
+FSG, all
+‘changes made
+in Debian are
+made available
+to upstream
+authors,
+benefiting
+Debian itself
+‘and other
+distributions.
+
+A
+as
+AG
+Hi
+rs)
+
+‘itt
+
+suenies pue
+su9sn eaneAsesucD
+
+O
+BasS
+
+2011-08-16
+38 years
+
+ge of majority
+
+BALE
+
+Rettools
+Poevconill
+
+Pure Blend: Debian Pure Blends
+provide a solution for special groups of
+
+target users with diferent skits and
+
+siduction
+
+All trademarks are exclusive property of their respective owners,
+‘All characters in the movie in the Toy Story movie are the property of Pixar/Disney.
+Many cliparts used here are from OpenCliparts.org project.
+
+_ = d-
+
+ane SSI SS
+
+Get involved
+
+ef.
+
+The Debian Way
+
+Firsts steps (easy) Participati
+
+instal ty and ose
+
+ianarsaseiy ED
+
+Participate 9 Debion Populoiy Contest
+Say "yee" a install time twill hep to
+chore packages fr the fest COIOVD
+
+So ses nerase rary pate |S
+http:/popcon.debian.org/
+
+Found » bug? Report i You con vse 7
+
+the webpage of reportbup” tol
+http:/wwrw.deblan.org/Bugs!
+
+= Ox eC
+
+2 solid foundation to build 3
+‘ew custom dstridution,
+
+[Found » 0197 Senda patent
+Faun bug
+
+rr debian. org/BU9S/
+
+Doyeuiha Promote meetings,
+
+Na ee
+Bebisn days, or
+presentations about
+Bevin at reverts
+In your ety or
+
+Write a manual, book or other Join ta Debian Day,
+
+natnals that cap help new usaie >
+iu debian crgdectp
+
+>
+
+You inside of Debian (hard? No. Be a part in Debian Project!)
+
+Inte Developers Comer he New
+Manu or Deion Bevopers
+tr wor debian.org/ Devel
+‘tora new stare sone ory fg ina team,
+
+‘rae ten seareommenr “Gy
+ereel oad
+
+0 you wish tobe team member?
+
+Subscibe inthe devel lists, tlk
+with other developers and jon 2
+Debian Project,
+
+WELCOME and ENJOY!
+
+Designed for
+
+debian
+

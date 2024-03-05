@@ -1,0 +1,66 @@
+a ABB Technikerschule, Baden 3. Semester
+pues
+
+‘a 2007/2008
+—= Pi Eidg. anerkannte héhere Fachschule fur Technik
+
+LA Diisen-Passagierflugzeug
+Elektrotechnik/Elektronik
+
+(Vogel Band |, Kapitel 1.5, 6, 7, 9 )
+
+Teilaufgabe A: Spannungsquellen und Masse des
+
+Drehstrombordnetzes
+10 Punkte
+
+Ziele:
+
+» Sie kénnen ein Zeigerdiagramm der verschiedenen Spannungen des und Leiter-
+strome des Drehstrombordnetzes massstablich aufzeichnen.
+
+« Sie kennen die Zusammenhange zwischen der Masse von Kupfer bzw. Eisen
+und den elektrischen Kenngréssen der Stromerzeugung/-umwandlung und
+Stromibertragung.
+
+= Sie kennen die Massenverhaltnisse von Leiter- und Isolationsmaterial zwischen
+Einphasenwechselstrom- und Drehstromubertragung.
+
+Aufgabenstellung:
+
+Eine allgemeine Daumenregel beim Flugzeug-Design besagt, dass pro eingespartes Kilogramm
+mindestens funf weitere Kilogramme (Befestigung, Platz, Treibstoffmasse etc.) eingespart wer-
+
+den kénnen.
+Sparsamkeit bei Gewicht und Platz ist daher beim Design des Bordnetzes oberstes Gebot.
+
+Die Gestaltung eines Bordnetzes hangt stark von der Wahl der elektrischen Kenngrossen
+Strom, Spannung sowie der Systemwahl (Gleichstrom/Wechselstrom, Anzahl Phasen etc.) ab.
+Bei Wechselstrom spielt ausserdem die Wahl der Frequenz eine grosse Rolle, die Sie in der
+Teilaufgabe B separat untersuchen.
+
+Bei dieser Teilaufgabe suchen und interpretieren Sie verschiedene Zusammenhange von Mas-
+se und den elektrischen Kenngréssen Spannung und Strom sowie der Systemwahl
+(Ein/Dreiphasig) des Bordnetzes vom MD-11.
+
+Gesucht:
+1. Zeigerdiagramm bei Normalbetrieb des Drehstrom-Bordnetzes
+- Wy Ty r-———,_ (3P.) Zeichnen Sie ein massstabliches Zeigerdiagramm der
+
+ches Phasenspannungen U,,U,,U, des Generators, der Leiterspan-
+(CA SHOM -
+
+LT Tu [
+
+Hb t| last nungen U,,,U,,,U;, sowie der Leiterstréme /,,/,,/, des mit
+ar
+
+aie
+
+as P=100 kW symmetrisch und induktiv belasteten Bordnetzes auf.
+i *y t Der Leistungsfaktor betragt cosg = 0.9. Massstabe: 10 V/cm,
+F
+
+7— 50A/cm. Tip: Legen Sie U, in die reelle Achse.
+
+30.8.2007/Bo

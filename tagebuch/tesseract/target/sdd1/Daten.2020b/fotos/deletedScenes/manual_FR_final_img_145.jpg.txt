@@ -1,0 +1,27 @@
+version: 4.5.0.2948
+
+| Affichage Stylo || Marqueur | A propos
+
+-Indicateurs
+
+[ae] A cher le numéro de page
+
+@a Afficher la page dans un navigateur externe
+
+Page d'accueil : {http://uniboard.mnemis.com/software/home/ |
+
+Proxy User/Pass: { } [
+
+~Recopie vidéo
+
+@= Afficher immédiatement l'écran principal sur l'écran secondaire ou le projecteur
+
+- Barre d'outils
+
+@ Placée en haut (recommandé pour tablettes)
+© Placée en bas (recommandé pour les tableaux blancs)
+
+K) (x) Afficher le libellé sous les boutons
+
+Peer L) (ed
+

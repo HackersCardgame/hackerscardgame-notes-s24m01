@@ -1,0 +1,32 @@
+ics} marcland@s92: ~/www/hackerscardgame.ch/1.0.24 Qe.
+
+t control the fingerprints on a regular basis they even would inject backdoors
+
+the .ZIP files here are generated on the hostpoint server, see images, wirst cas
+e they would also modify things from Hostpoint customers
+
+normally not the whole company is bad, they need good people with good programmi
+ng and computer science skills, but there are also bad apples i guess
+
+ich werde auch nicht mehr auf Github einloggen, obwohl die Meldung von Github [1
+] mich genau dazu treiben méchte; Github legt vor [2] und da wird dann ein black
+hat team auf 24h Uberwachung dauerbelagerungs-lauer-modus geschaltet was dann mi
+t der vorlage meinen ganzen Account vernichten oder Ubernehmen wiirde.
+
+seit 20 jahren versucht man sich zu ermorden, somit ALLE BETEILIGTEN gehen dann
+fiir BEIHILFE FUR VERSUCHTEN MORD mindestens 5-10 Jahre in den Knast, genau weiss
+ich das aber nicht, ich bin nicht Jus-Student sodern Informatik Student, das mii
+ssen dann andere entscheiden
+
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-275)* + tar czf 1.0.24.tar.gz 1
+-0.24
+
+[marcland@s92: ~/www/hackerscardgame.ch] main(+2/-275)* + cd 1.0.24
+[marcland@s92:~/www/ .. scardgame.ch/1.@.24] main + git diff
+
+[marcland@s92:~/www/ .. scardgame.ch/1.0.24] main + git rev-parse HEAD
+Scad6db3bd95 fe99f8a44fb732e6efelf1d8bf5c
+
+[marcland@s92:~/www/ .. scardgame.ch/1.0.24] main
+
+i

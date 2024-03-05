@@ -1,0 +1,14 @@
+Inventor: Year:
+The inventor of the programming language Smalltalk
+was the first who used objects in software
+evelopment, But Gutenberg and the letters of his
+printing presses was another example of templates.
+A cass can be a single template for part of 8
+complete software, e.g. "Name, address, location
+Phone, ..” would be a template for a person in an
+address database.
+
+‘Simplification/standardization through
+
+‘pre- printed
+

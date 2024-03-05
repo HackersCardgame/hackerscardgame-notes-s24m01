@@ -1,0 +1,28 @@
+New operation
+
+Create a new classifier operation
+
+Properties ]| J tnplenentation| B Jevadoc
+
+ane [estiaace |
+
+Return type ria 9) ee]
+
+Dimension
+
+Visibility @public Oprotected Opackage Oprivate
+
+«
+
+Parameters
+
+Modifiers
+
+«
+
+«
+
+Exceptions
+
+Stereotypes
+

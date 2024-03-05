@@ -1,0 +1,3 @@
+Inventor: ??? Year: ~xxxx
+TODO: read specs for text here
+

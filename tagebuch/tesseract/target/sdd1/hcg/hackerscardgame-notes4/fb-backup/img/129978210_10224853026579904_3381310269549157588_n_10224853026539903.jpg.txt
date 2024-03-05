@@ -1,0 +1,68 @@
+eheB VB-Audio's Forums
+AR Awd ‘Audio's Information and D
+
+Quick links @ FAQ
+
+ff Board index < Voicemeeter
+
+Voicemeeter information / quick start guide
+rch this topic CUE:
+
+Post Reply || |~
+
+Voicemeeter information / quick start guide
+Ib by Vincent Burel > Mon Oct 13, 2014 2:27 pm
+
+Voicemeeter is a virtual audio device Mixer application
+
+Voicemeeter allows to route and mix several audio sources (coming from audio device or audio application) into several audio outputs (physical or virtual).
+
+Official Page: http://wwwavoicemeeter.com (download, user manual and video tutorial)
+Voicemeeter Banana Package installs the 2 Voicemeeter Applications (Standard & Banana),
+Voicemeeter Potato Package installs the 3 Voicemeeter Application (Standard, Banana & Potato).
+
+INSTALLATION
+
+1- Run the Setup program and push the button INSTALL.
+
+2. If already installed, push the button REMOVE.
+
+3+ REBOOT AFTER EACH OPERATION (IMPORTANT).
+
+(Virtual Audio Device Driver needs this reboot to finalize de-installation or installation)
+
+UPDATE
+
+1- Run the Setup program and push the button REMOVE.
+2- REBOOT AFTER (IMPORTANT)
+
+3- Run the Setup program and push the button INSTALL.
+4- REBOOT AFTER (IMPORTANT)
+
+5- Check Windows audio parameters (default playback device, default recording device...)
+6- Check softphnoe parameters (for example skype audio device selection).
+
+7- Run the wanted Voicemeeter version and reply to firewall authorization (if VBAN service is running).
+8- possibly re-check some option in menu (System Tray, Run at Startup, Show App on Startup...).
+
+QO0\ 11
+
+lVoicemeeter . 4 09
+
+38
+a. ‘Audio ‘Mixer
+
+—- a al
+
+G@ Register © Login
+
+4 posts * Page 1 of
+
+Vincent Burel
+Site Admin
+
+Posts: 1399
+Joined: Sun Jan 17, 2010 12:01
+
+Ln 0 Ow
+

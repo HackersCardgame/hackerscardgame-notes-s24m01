@@ -1,0 +1,13 @@
+von UMTS wurden von der Industrie keine Gerate entwickelt und wohl von den Betreibern auch nicht
+
+nachgefragt. Abgesehen von China, wo eine spezielle Variante von UMTS TDD verbreitet ist, wird die
+Betriebsart TDD in den UMTS nicht eingesetzt. Die Frequenzen, die in Europa urspriinglich fur UMTS
+TDD-Betrieb im 2,1-GHz-Band vorgesehen waren, werden nun einer anderen Verwendung zugefuhrt.
+
+Die maximale von UMTS-Teilnehmergeraten betragt 250 mW. In einem realen Netz be-
+wegen sich die aktuellen Sendeleistungen allerdings weit unter diesem Maximalwert. Simulationen
+von Hersteller und Netzbetreiber haben ergeben, dass die mittlere Sendeleistung von UMTS-Teilneh-
+mergeraten in landlicher Umgebung etwa 1,5 mW betragt, in stadtischer Umgebung sogar noch weni-
+ger [3]. Die Sendeleistung von Basisstationen hangt von der Zellengrésse, den angebotenen Diens-
+ten, dem Verkehr und der Verteilung der Teilnehmer innerhalb der Zelle ab. Fur Kompatibilitatsberech-
+niingen rechnet man hei der Rasicctatinnen von aqroccen Zellen mit einer ahqectrahiten Sendeleictiing

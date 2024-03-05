@@ -1,0 +1,32 @@
+A ANE620A98GN
+(ETL-120B7E)
+
+|) Nennwert
+Eingangsleistung
+geo) 1080VA Cosp-95.4%
+240VJ Gehalt 100V.
+Anzapfurgen
+100VA Cosp-60%
+
+Leistung
+Heizwicklung
+3.2V 41.6VA 134
+Hochspannungswicklung
+2100V 1300VA 620mA|
+Cosp -62.5%
+Nennfrequenz 5OHz |
+Isolationsklassen H |
+|
+
+Eingangsleistung | Leistung
+
+ON, 240V 2200 |
+
+A
+
+=
+=} 2100V
+L=—2,
+
+=a ‘
+

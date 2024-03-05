@@ -1,0 +1,17 @@
+http://www.makelinux.net/kernel_map/
+functionalities i
+layers human interface system
+
+processing memory storage networking
+Hi char devices esses fi rectories Sockets access
+user = = :
+
+space
+
+interfaces
+
+user peripherals
+
+. memory disk controllers __ network controllers
+electronics
+

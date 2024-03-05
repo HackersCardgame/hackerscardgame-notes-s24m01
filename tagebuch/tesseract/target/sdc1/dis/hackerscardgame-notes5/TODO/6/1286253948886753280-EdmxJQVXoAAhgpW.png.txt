@@ -1,0 +1,41 @@
+‘Activities ©) Firefox ESR ~ Jul23 12:52
+
+for(var i=0; icmoves.length; i++
+if (board [moves [i] [1] [0] *8+move Horizontalenverikalen Kreis Diagonalen nach linkslrects,
+
+return : tap
+bite kein Voder x, dann str ce Sehlzoe
+
+return ; | 1 _1_
+
+}
+
+var instances=0;
+
+//minmax algorithm that does the g
+function minimax(depth, player, in
+{
+if(resetCounter) instances=0;
+else instances+=1;
+
+var bestMove = [[0,0],[0,0]];
+if(depth < 1) return evaluateBoa
+
+var moves = shuffle(possibleMove
+
+var bestValue=-1000000*player; ft) | tt te
+for(var i = 0; i < moves. length;
+
+return moves;
+
+}
+
+/ (MGB: braucht viel ressourcen we
+function isInCheck(player) {
+moves = possibleMoves(-player) ;
+
+r in der obersten instanz aufgerufen
+
+for(var i=0; icmoves.length; i++
+if (board {moves [i] [1] [0]*8+move
+return H

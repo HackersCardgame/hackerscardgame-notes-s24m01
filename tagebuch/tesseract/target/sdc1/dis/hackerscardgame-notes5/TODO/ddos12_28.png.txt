@@ -1,0 +1,10 @@
+Terminal
+
+icmp_seq=:
+icmp_se
+icmp_se
+icmp_seq=34375
+icmp_se
+icmp_seq:
+icmp_se
+icmp_se

@@ -1,0 +1,18 @@
+Local node: 192,168.1.1: Traffic on interface LAN (1h)
+
+5 Mbps
+
+4 Mbps
+
+3Mbps
+
+2Mbps
+
+Mbps
+
+ops eee OO oe
+last min avg
+
+[i incoming traffic on interface LAN [avg] L68Mbps 551.57 Kbps 797.88 Kbps 1.
+Outgoing traffic on interface LAN [avg] 252Mbps 805.13 Kbps 5 Mbps 4.
+

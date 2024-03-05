@@ -1,0 +1,25 @@
+Di fever, rl re:
+
+o
+
+Puede que no sea posible realizar la activaci6n automatica porque el servidor esté
+inactivo u ocupado o porque los ajustes de seguridad impidan la comunicacién
+‘con el servidor. En tal caso, puede utilizar el procedimiento de activacién manual,
+‘que consta de cuatro pasos:
+
+1. Haga clic en el botén Aceptar de este cuadro de didlogo.
+
+2, Se crea un archivo de testo que contiene su cédigo, un identificador tinico para
+‘su maquina y un cédigo de producto, Si crea ese archivo en una maquina sin
+‘conexiGn a Intemet, copie el texto en otra maquina y envielo desde ali.
+
+3, Copie esta informacién en un mensaje de correo electrénico y envielo a
+nuestro servicio de activacion en VO
+support<activation.studio support @visionobjects.com>. Crearemos un archivo
+de activacién y se lo devolveremos por correo electrénico. Este archivo sélo
+puede utilizarse en una maquina (aquella en la que se cre6 la peticién original).
+
+4, Haga doble clic en el archivo licence.ic, adjunto en el correo electr6nico. Se
+‘bre asi una pequefia aplicacién que activa el software de reconocimiento de
+escritura,
+

@@ -1,0 +1,51 @@
+— >
+
+© Sinpletayout
+© Fatternbeyout
+@* Layout
+
+© waMtteyout
+
+© Layout
+F LINe_SeP: Sting
+
+FUME _SEP_LEN nt Display the clemants.as.a, traa,ona, st}
+
+@ formet()
+
+© getCorienttype9
+© getFosterd
+
+© getHeader()
+
+@ ignoresThrowable()
+
+A
+
+‘2 HTMLLayout
+¥ LocATION_NFO_OPTION. String DP Pavemlayout @ SimpleLayout cycle, outline,
+
+4, locationinto: boolean 4, Sut: StringButter
+‘8 TITLE_OPTION: String
+
+‘Y DEFAULT_CONVERSION_PATTERN: String
+
+(TRACE PRETK: Sting 8 TTCC_CONVERSION PATTERN String & Sinpetayouto
+
+2 tile String Gene) © ctiveteoptions()
+& Patter avout) © format
+
+© activateoptions() © isnoresthrowabieg
+
+& appendThrowableAsHTML() © activateOptions()
+
+Aes © format)
+
+3B oeteanertType0 © getConversionPatter()
+
+6am @ ttrntieg
+
+8 cetionsero © setConversionPatter()
+
+© isnoresThrowwabieg
+

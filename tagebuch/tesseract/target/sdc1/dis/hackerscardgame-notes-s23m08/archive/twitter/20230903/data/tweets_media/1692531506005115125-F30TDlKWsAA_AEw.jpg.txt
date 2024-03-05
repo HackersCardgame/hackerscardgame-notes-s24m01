@@ -1,0 +1,27 @@
+Implantat
+Firmware
+
+iH gsr
+s
+
+"ee
+A
+one te Male
+eal inet
+jlo
+
+So ein Implantat hat logischerweise eine
+Firmware und vermutlich mindestens einen
+verbindungskanal wie WiFi oder Bluetooth.
+Die Firmware ware’ grundsatzlich eine
+StateMachine (inO1) welche verschiedene
+Zustande annimmt. Die Aussenkanale wie
+WiFi oder Bluetooth waren logischerweise
+Hackbar, das nennt man BrainJacking, da
+gibts Wissenschaftliche Papers dazu
+(ne12).
+
+Beispiel einer solchen Statemachine.
+=> Aggressiv (neQ1) => Gllcklich (ne02)
+=> Mide => dann wieder Aggressiv (neQ1)
+

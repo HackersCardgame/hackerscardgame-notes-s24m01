@@ -1,0 +1,11 @@
+en
++ch/2.0.1/png/DE} main(+2/-1)* * rm cardNames.csv
+
+~/wwu/hackerscardgame.ch/2.0.1/png/DE] nain(+2/-1)* + git pull
+The authenticity of host ‘github.com (140.82.121.3)' can't be established.
+£D25519 key fingerprint is SHA2S6:+DiY3wvWV6TuJIhbpZisF/ZLDAGZPMSvHdkr4UvCOqU.
+INo matching host key fingerprint found in ONS.
+This key is not known by any other names.
+Are you sure you want to continue connecting {yes/no/[fingerprint])? a
+XX. | 0210.0: 58-065. pdt
+

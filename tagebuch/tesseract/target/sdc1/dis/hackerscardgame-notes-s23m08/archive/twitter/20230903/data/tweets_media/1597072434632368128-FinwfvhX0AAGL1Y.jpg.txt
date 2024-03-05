@@ -1,0 +1,41 @@
+ye Graph, @ EME O12) MGeh WH WM QF C Ban O Pre Wer 2 Neb ORese Foc Boor Blow S bev Shab: wisi | Sux | US40H @ phy Gana + vo «x
+
+e7¢ © B hupspatents google compat
+
+Google Patents fft chip Q incl 10f 13756 < >
+
+€ Backtoresults fit chip;
+
+e/US404T46IAlentg=ftschipgogettrchipesort=ol8 8 owe os
+
+Signal analyzer system
+
+Abstract
+
+US4041461A
+
+United States
+
+A signal analyzer system is disclosed which includes an arithmetic processor containing a plurality
+of pipeline processor elements in parallel array with each element connected to a respective working
+store, with all of the elements being under microprogram control of an arithmetic element controller.
+
+A storage controller included in the system is connected to the arithmetic processor, to a system Find Prior Art Similar
+input and to a system ouput.
+‘A bulk storage included in the system is connected to the storage controller. The storage controller Inventor: Gary L. Kratz, Wiliam W. Sproul, Il, Eugene T
+controls data transfers into and out of the system and between the bulk storage and arithmetic Walendziewicz, Donald E. Wallis, Charles A. Dennis
+processor.
+‘A control processor included in the system is connected to the arithmetic processor and the storage caren. Asai orwes lateeriag encore:
+controller by means of a data bus for centrally controlling the operation of the plurality of pipeline
+processor elements by transmitting micro control words over the bus. Worldwide applications
+
+1975 US
+
+Images (35)
+Application US05/599,306 events @
+
+1975-07-25 * Application filed by International Business
+Machines Corp
+
+1975-07-25 + Priority to US05/599,306
+

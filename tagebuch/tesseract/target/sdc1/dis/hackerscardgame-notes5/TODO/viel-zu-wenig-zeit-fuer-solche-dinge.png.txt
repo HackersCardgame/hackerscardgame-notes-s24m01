@@ -1,0 +1,23 @@
+Activities ©) FirefoxESR ~ Wed Jun2 14:06 ao Or
+
+@ Ob ES Bui BG Ha
+
+2Fartists%2Fradix%2Fmp3%2F1999%
+
+BH Diev | Natok ko
+
+© | AW https://marctandolt.ch/my
+
+MP3-Seeker
+
+Jump to position (in Seconds) in any mp3 on the internet with a given URL
+
+(does not work perfectly in all browsers, sometimes a reload [F5] helps if the browser caches the MP3 after fist load)
+
+http: //ftp.scene.org/pub/music/artists/radix/mp3/1999/a_shogun_named_paul.mp3 jumping to 111.2s
+
+> —_ = @ 1:58/5:18 q) —_
+> @ 0:00/5:17 @) ——_€
+> @ 0:00/5:17 q) —@
+
+USAGE: copy the URL of the MP3 as a parameter (?URL=) of this Address and add the time in Seconds (&t=) to seekt to

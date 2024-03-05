@@ -1,0 +1,28 @@
+General Sharing Security Web Sharing
+Customize
+
+4ccess-based Enumeration makes visible only those files or
+folders that the user has the rights to access. When
+Access-based Enumeration is enabled. Windows will not
+display files or folders that the user does not have rights to
+access.
+
+IV Enable access-based enumeration on this shared folder
+
+[ Apply this folder's setting to all existing shared folders on this
+computer
+
+Erfinder
+CIA
+
+Funktionsweise
+
+Je nach Berechtigung werden "offiziell" bestimmte
+Ordner im Windows Netzwerk nicht angezeigt, aber
+scheinbar machen die "netten" Herren das auch auf
+Social Media und der Welt wird "Uberwachung"
+vorgesetzt (Objekt-Fixierung && Falsche Spur)
+
+Anwendungsfalle
+Zensur bzw "Geheimhaltung"
+

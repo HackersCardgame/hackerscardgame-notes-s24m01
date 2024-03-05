@@ -1,0 +1,40 @@
+Activities
+
+© FirefoxESR +
+
+FriJun4 09:35
+
+A PDP-11 ON A CHIP
+
+by: Jenny List & 47 Comments
+
+fY¥Y<¢éuil August 22, 2016
+
+Ifyou entered the world of professional computing sometime in the 1960s or 1970s there is a high
+probability that you would have found yourself working on a minicomputer. These were a class of computer
+smaller than the colossal mainframes of the day, with a price tag that put them within the range of medium-
+sized companies and institutions rather than large corporations or government-funded entities. Physically
+they were not small machines, but compared to the mainframes they did not require a special building to
+house them, or a high-power electrical supply.
+
+One of the most prominent among the suppliers of
+minicomputers was Digital Equipment Corporation,
+otherwise known as DEC. Their PDP line of
+machines dominated the market, and can be found
+in the ancestry of many of the things we take for
+granted today. The first UNIX development in 1969
+for instance was performed on a DEC PDP-7.
+
+DEC's flagship product line of the 1970s was the 16-
+bit PDP-11 series, launched in 1970 and continuing
+in production until sometime in the late 1990s.
+Huge numbers of these machines were sold, and it
+is likely that nearly all adults reading this have at
+some time or other encountered one at work even
+
+N NEVER MISS A HACK
+
+— | fvenz
+
+By using our website and services, you expressly agree to the placement of our performance, functionality and advertising cookies.
+

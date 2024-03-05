@@ -1,0 +1,62 @@
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (10/10), done.
+
+Writing objects: 100% (10/10), 1.02 MiB | 21.26 MiB/s, done.
+Total 10 (delta 6), reused 0 (delta 0)
+
+remote: Resolving deltas: 100% (6/6), completed with 6 local objects.
+
+To HCG- last :HackersCardgame/HackersCardgame25.git
+bc3a942..de0e74b main -> main
+
+marc@debian :~/HackersCardgame25/cards$ git add -A && git commit -m ".
+
+[main 148968b] ...
+
+3 files changed, 21 insertions(+), 27 deletions(-)
+
+create mode 100644 png/DE/ma3.png
+
+Enumerating objects: 20, done.
+
+Counting objects: 100% (20/20), done.
+
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (11/11), done.
+
+Writing objects: 100% (11/11), 872.69 KiB | 20.29 MiB/s, done.
+Total 11 (delta 7), reused 0 (delta 0)
+
+Resolving deltas: 100% (7/7), completed with 7 local objects.
+
+ast :HackersCardgame/HackersCardgame25.git
+de@e74b..148968b main -> main
+
+marc@debian :~/HackersCardgame25/cards$ git add -A && git commit -m ".
+
+[main 95dae03]
+
+Counting objects: 106% (15/15), done.
+
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (8/8), done.
+
+Writing objects: 106% (8/8), 1.53 KiB | 130.00 KiB/s, done.
+Total 8 (delta 6), reused 0 (delta 0)
+
+remote: Resolving deltas: 100% (6/6), completed with 6 local objects.
+
+To HCG- last :HackersCardgame/HackersCardgame25.git
+148968b..95dae03 main -> main
+
+" && git push
+
+Vor Internet Ausfall
+
+" && git push
+
+nach Internet Ausfall
+

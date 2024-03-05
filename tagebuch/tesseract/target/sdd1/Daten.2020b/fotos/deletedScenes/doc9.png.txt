@@ -1,0 +1,13 @@
+us Select an image File do
+
+File yhome/me/image.eps [=
++
+
+Use "figure" environment
+
+Caption (A caption] Above v
+
+Placement hbtp
+
+OK | | Cancel
+

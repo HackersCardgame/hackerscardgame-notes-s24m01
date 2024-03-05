@@ -1,0 +1,15 @@
+ATTENUATION, DB
+
+80 wi;
+60
+| TRIPLE LAYER:
+40]
+| DouBLE Laver
+20
+
+Tuk il yy
+v 10 100 1000
+FREQUENCY, MC/SEC
+
+Fic. 5. Shielding effectiveness of one, two, and three layers of
+Attenutex.

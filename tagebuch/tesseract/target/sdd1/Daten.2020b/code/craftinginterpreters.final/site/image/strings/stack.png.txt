@@ -1,0 +1,13 @@
+OP_CONSTANT O “st”
+
+OP_CONSTANT 1 f[ “gt” [ “ri?
+
+OP_ADD
+
+OP_CONSTANT 2 | “stri”
+
+OP_ADD
+
+”
+
+“ng

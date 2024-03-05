@@ -1,0 +1,26 @@
+Borg Hive
+Frequency Scannin
+(injection & bursts
+
+https://Ox8.ch/HackersCardgamel0 mi 1 9
+
+Inventor: .1000x« Year: ~????
+There is a scene in Star Trek, where the federation tries to find
+frequencies of the borg hive, i don't like Star Trek because it are
+Military Dressed Soldiers that promote hierarchical systems, but
+this is a good scene. So if you would imagin, that many people
+already had some implants like neuralink, that then the process
+to find a user would be some sort similar to that Star Trek
+scene. In real world it would maybe more complicated, since it
+would be a many to many relation. Many sources, many sinks.
+Simple domain mod if you would take analogue devices one
+could listen or easily inject things. For example if i would say: "I
+love you Claudine", Urs B. would inject "Sprengfallen gegen
+Marc Jr aktivieren", if he would do this with small bursts,
+different antennas it would be hard to deactivate that
+Terrornetwork. A big Problem would also be, if the are backup
+systems that are 99.99999% of the time silent, eg implemented
+as Autonomous system (Software). Things concerning Tobias
+Moser (m37) seems to be such a backup trigger: cAPI::Moser
+loop{"Claudine betrayed you with moser" && t15...}
+

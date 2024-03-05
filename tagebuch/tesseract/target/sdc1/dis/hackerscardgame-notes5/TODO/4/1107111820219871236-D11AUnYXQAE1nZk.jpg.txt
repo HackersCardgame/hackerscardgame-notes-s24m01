@@ -1,0 +1,16 @@
+Inventor Year
+
+EEG was originally developed by neurologist Hans
+Berger. The Brain Computer Interface is an EEG
+that recognizes patterns of brain currents with
+software (pattern recognition) and then can
+activate events e.g. to start the loT-Toaster. Today
+with more computing power, there are much more
+possibilities than in 1929.
+
+Use Cases
+
+As a lie detector or to control computer games,
+read thoghts memory / read moods (stress /
+relaxation)
+

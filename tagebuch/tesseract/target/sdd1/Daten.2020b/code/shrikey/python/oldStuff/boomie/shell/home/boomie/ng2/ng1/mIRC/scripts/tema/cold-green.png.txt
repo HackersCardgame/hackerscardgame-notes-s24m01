@@ -1,0 +1,25 @@
+(01:48:10) -» Join: elof (~mjo@h10v2Ftb31p876.com)
+(01:48:10) -> Q (4) eloF
+
+(01:48:13) (@Yngve) hello
+
+(01:48:15) (selof) hi
+
+(01:48:17) -» nicks now known as nick-afk
+
+(01:48:20) (+elof) where's ain?
+
+(01:48:23) (alin) here
+
+(01:48:25) (+eloF) ok, pm
+
+(01:48:26) (Wkarl-berti) bla bla
+
+(01:48:30) -» Part: ngvar(id@h1402261s952876,net)
+(01:48:33) ++ Yngve changes topic to: Preview
+
+(01:48:35) -» Join: bilythekid (~lame@455-b17ch.cbh.com)
+(01:48:39) (bilythekid) Hel, is this the preview channel?
+(01:48:42) (¥ngve) Yes ts
+
+(01:48:44) -> Quit: Random (id@c-d7bd70d5.com) (Signed off)

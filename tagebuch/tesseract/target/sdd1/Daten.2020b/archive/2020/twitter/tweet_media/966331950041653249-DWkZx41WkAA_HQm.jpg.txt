@@ -1,0 +1,12 @@
+var temp=(1i
+if (window XMLHttpRequest) {
+
+for (i=l; ic5; i++)
+
+{
+var temp = new XMLHttpRequest ();
+//tenp.onreadystatechange = function(){alert(tenp+” readyState " + temp. readyState) ;if (temp.readyState==4) {counts+; /*if (count==990)*/ alert (count) ;}};
+‘tenp.onload = function) {alert temp. readyState) };
+temp.open("POST", i+". txt
+temp.send();
++

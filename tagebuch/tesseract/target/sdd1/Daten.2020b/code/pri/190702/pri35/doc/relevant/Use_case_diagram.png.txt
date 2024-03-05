@@ -1,0 +1,21 @@
+Admin
+
+Poweruser
+
+User
+
++ Addideleteimodity users
++ Enable/disable users
++ Givelrevoke permissions tolof users
+
++ Everything what a poweruser can
+
++ Enable/disable users (but not other powerusers or admins)
+
++ Adding/deleting sites
+
++ Everything what a user can
+
++ Modifying site configs
++ Use the program
+

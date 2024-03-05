@@ -1,0 +1,35 @@
+indows@debian:~$ rsync -avz hackerscardgame-notes-s22m8/tagebuch/ marcland@ftp.marclandolt.ch:~
+he authenticity of host 'ftp.marclandolt.ch (217.26.52.40)' can't be established.
+
+£D25519 key fingerprint is SHA2S6:iYXAiFn93Y9jjcG1wHaCYroamdnNeOczycLM4p+Usqy
+
+Are you sure you want to continue connecting (yes/no)? yes
+
+jarning: Permanently added 'ftp.marclandolt.ch,217.26.52.4@' (ED25519) to the list of known hosts.
+Password for marcland@s92.server.hostpoint. internal:
+
+sending incremental file list
+
+of
+
+1o7-paniq-der_moment .mp3
+
+Interview mit kiinstlicher Intelligenz Hat sie Bewusstsein .htm
+
+2013 /ACHTUNG- zu-Wappen-Patritismus-ist-ein-inhaltlicher-Trojaner. jpg
+12013/landolt-wappen-fixed.png
+2013/landolt-wappen. jpg
+'2013/landolt-wappen.png
+2021/
+2021/verwahrlosungsArtikel.svg
+2021/august/
+
+| y2021/august/20210801.txt
+2021/august/20210801b.txt
+12021/august/20210801c.txt
+
+‘ 2021/august/2210802.txt
+2021/august/20210803.txt
+2021/august/20210804. txt
+2021 /august/20210805.txt
+

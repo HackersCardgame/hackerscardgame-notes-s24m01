@@ -1,0 +1,26 @@
+[Oisurname BOXED CHARACTERS (11 +
+uc con)
+‘Character set: [upper]
+‘© Dictionaries: [MyScript]
+‘Language: en_US
+
+SURNAME:
+[O2male CHECK MARK
+
+‘© Group: 03sex
+
+‘*Value when checked: 1 O wm: O
+
+‘# Value when unchecked: 0
+
+[O4female CHECK MARK
+‘© Group: 03sex
+‘COMMENTS: 3 a
+: ‘Value when unchecked: 0
+
+\ [OScomments TEXT
+| echaracter set: [digit + lower +
+symbol + upper]
+‘* Dictionaries: [MyScript]
+‘Language: en_US
+

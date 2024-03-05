@@ -1,0 +1,19 @@
+var xhr=
+var coun
+var temp=[];
+
+if (window.XMLHttpRequest) {
+
+for (i=l; i<5; i++)
+
+var temp = new XMLHttpRequest () ;
+
+//temp.onreadystatechange = function(){alert(temp+"
+
+temp.onload = function() {alert (temp. readyState) };
+temp.open("POST", i+". txt");
+temp.send();
+
+readyState
+
++ temp.readyState);if (temp.readyState==4) {count++; /*if (count==990)*/ alert(count) ;}};

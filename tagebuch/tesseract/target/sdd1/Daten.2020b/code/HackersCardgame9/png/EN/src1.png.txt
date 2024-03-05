@@ -1,0 +1,29 @@
+@ ) CRYPTO ANARCHY
+cas / EUDGED
+
+[SUuuy pasoweru ur more.
+
+* Authentication request for user "marc" (sudo)
+* Access denied.
+
+Sorry, try again.
+
+[sudo] password for marc:
+
+sudo: 1 incorrect password attempt
+
+marc@debian: $ sudo su
+
+[sudo] password for marc:
+
+* Authentication request for user "marc" (sudo)
+* DISABLED: Performing one time pad verification...
+* Access granted.
+
+* -> Access granted.
+
+root@debian: /home/marc/pam_usb# fj
+
+https://Ox8.ch/HackersCardgame9
+XXXX
+

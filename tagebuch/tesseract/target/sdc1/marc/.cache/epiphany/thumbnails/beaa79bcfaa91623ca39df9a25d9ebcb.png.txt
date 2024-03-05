@@ -1,0 +1,100 @@
+‘Search
+[(ONcartteeneer ren
+Ser a
+
+Installing Debian via the Internet
+
+This method of installing Debian requires a functioning Internet connection during installation. Compared to other
+methods you end up downloading less data as the process will be tailored to your requirements. Ethemet and wireless
+‘connections are supported. Internal ISDN cards are unfortunately not supported.
+
+‘There are three options for installs over the network:
+
+‘Sal Cro USE ike
+“ny COs. lobe USB sticks,
+Network boot
+
+Small CDs or USB sticks
+
+‘The following are image files. Choose your processor
+architecture below.
+
+‘amass, arm6e, armel, ammbt, (386, mips6ael,
+‘mipsel, ppc6del, s390x
+
+For details, please see: Network instal from a minimal CD
+Tiny CDs, flexible USB sticks, etc.
+
+You can download a couple of image files of small size,
+suitable for USB Sticks and similar devices, write them
+to the media, and then start the instalation by booting
+from that.
+
+‘There is some diversity inthe support for installing
+from various very small images between the
+architectures,
+
+For detalls, please refer to the installation manual for
+‘your architecture, especially the chapter “Obtaining
+‘System installation Media.
+
+Here are the links to the avallable image files (look at
+the MANIFEST file for information):
+
+‘Back to the Debian Project homepage
+
+Network boot
+
+You set up a TFTP and a DHCP (or BOOTP, or RARP)
+server which will serve the installation media to
+‘machines on your local network. If your cllent machine's
+‘BIOS supports it, you can then boot the Debian
+Installation system from the network (using PXE and
+‘TFTP), and proceed with installing the rest of Debian
+from the network.
+
+Not all machines support booting from the network.
+Because of the additional work required, this method for
+Installing Debian is not recommended for novice users.
+For details, please refer to the instalation manual for
+your architecture, especially the chapter “Preparing Files
+{or TETP Net Booting”.
+
+Here are the links to the image files (look at the
+MANIFEST file for information):
+
+© amd64, arm64, amel armhf, 86, mips6del,
+mipsel, pac6del, s390x
+
+seselécbial Gaarancee lead) cals Gesky, dansk Deutsch Mnwed inka) ssnafol fancis Galeco talane CI Karanl
+Manat Madsiands Sait (dhoogol notskibokmll alk Ponuauls mind Pecan lRussll sient suomi svenska Too
+
+et" Tce ypabcara urainska) ERIM) SRW) Le
+ow to set he default document nua
+
+Home
+about Satting Debian ows
+Soca Conact twat instal ject News
+ai of Conduct ‘SOUSB.SO images vents
+
+ee sofware ‘Dvendors ‘Documentation
+paaoets Resestalled ease fo
+Danatons ure Blends ‘esata
+Leoainia ‘Debian Packages Debian Books
+Data evacy Developers! Corner Debian vik
+contacts
+
+Help Debian
+
+‘See our contac nie age in touch Web ste source cadels avaible
+
+Last Meco Sa, un 1017:38217 UTE 2023
+Copyright© 1997-2023 58 and thes See eens ems
+Debian a vegistred vadenatk of Seftwarein the Publ Interest. ne
+
+Support sitemap
+‘Debian ntemationa Search
+Secutlvinfrmaten The Debian Blog
+Bugrepons Debian Micronews
+alin sts Debian Planet
+unsivchtectures

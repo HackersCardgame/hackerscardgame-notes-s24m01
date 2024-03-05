@@ -1,0 +1,139 @@
+Eile Workspace Tools Window Plugins Help
+
+Gephi 0.9.0 - zyprexa.gephi
+
+o
+x
+
+[@E Overview ncuulli™| DataLaboratow I Preview | “VY Mfr
+Workspace 1 * JG
+‘Appearance x a gee
+
+IPPEE cciges ‘eo Aw
+(Unique) attribute
+
+a3 Fait
+
+@xXNNB ON IE:
+®
+
+Layout x
+
+Yifan Hu Proportional,
+
+e
+
+‘VBares-Hut's properties
+Quadtree Max Level 10
+Theta 12
+Yifan Hu's properties
+
+Optimal Distance 100.0
+Relative Strength 0.2
+Initial Step size 20.0
+Step ratio 0.95
+Adaptive Cooling v
+Convergence Threshold 1,0E-4
+
+nichtGehsiert
+
+Yifan Hu Proportional
+
+? Presets... Reset
+
+» Lg fettNicl&Verboten .
+> ) /; theonlonRouter nee
+R ° / 7
+” r152-peythiatrie Nahrukgsmittel
+Endokrfagpathien
+jacobDerAusUsaPliichtenMusste wiirdeGebchaut
+é koforist
+a ‘icklaufigetorNod
+racial iGeYorNodes ili
+~*~ — zensiVerbot /
+, @
+| 9 @- | Mr A> A> Dialog.bold, 22 O—-EB
+Globat | Edges | Labels
+el) “e% | Size: [Scaled ¥ | | ercoraee. |
+
+Fo... | Dialog.bold, 22)
+
+Size ~ ©
+
+Color
+
+Color [Unique
+
+Hide non-selected
+
+Context x
+
+Nodes: 38
+Edges: 41
+Mixed Graph
+
+i
+
+Statistics x/ Filters |
+
+Settings
+
+Ei Network Overview
+
+Average Degree
+
+‘Avg, Weighted Degree
+Network Diameter
+Graph Density
+Modularity
+
+PageRank
+
+Connected Components
+
+El Node Overview
+
+Avg, Clustering Coefficient
+
+Eigenvector Centrality
+
+& Edge Overview
+
+‘Avg, Path Length
+
+i Dynamic
+
+# Nodes
+# Edges
+Degree
+
+Clustering Coefficient
+
+Run ©
+
+Run ®
+
+Run ®
+
+Run ®
+
+Run ©
+
+Run ©
+
+Run ®
+
+Run ®
+
+Run ®
+
+Run ©
+
+Run ®
+
+Run ©
+
+Run ©
+
+Run ®
+

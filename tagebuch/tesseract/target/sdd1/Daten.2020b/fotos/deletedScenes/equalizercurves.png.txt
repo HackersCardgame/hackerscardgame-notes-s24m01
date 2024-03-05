@@ -1,0 +1,34 @@
+KON = ee
+
+Equalization, by Martyn Shaw & Mitch Golden
+
+-30B
+~6dB
+-94B
+
+-12dB
+
+~15dB
+
+-18dB
+
+-210B
+
+-24dB
+
+-30dB
+
+20Hz
+
+40H2 Giz 100Hz 200Hz — 400Hz
+
+@ Draw Curves (Graphic EQ [| Linear Frequency Scale
+
+TOOoHz 2000H2z 4000Hz  10000Hz
+
+Length of Filter: —=@———=001
+
+Select Curve:(amradio __[#i)(Save/Manage Curves... )( Flatten) (Invert) MG
+
+Cnet) ED
+A

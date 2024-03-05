@@ -1,0 +1,6 @@
+Volts
+
+40. 60 80 “Yoo
+Time(nsec)
+
+Fig. 4 Folded Dipole Antenna Over Steel Pipe

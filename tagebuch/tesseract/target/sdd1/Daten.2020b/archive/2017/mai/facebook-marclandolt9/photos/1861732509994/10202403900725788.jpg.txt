@@ -1,0 +1,8 @@
+marc@kali: ~
+
+Qct 21 06:25:25.000 [notice] Tor 0.2.3.25 (git-3fedSeb096d2d187) opening new log file.
+Oct 21 06:37:38.000 [notice] Heartbeat: Tor's uptime is 12:00 hours, with 99 circuits open.
+I've sent 7.71 GB and received 7.32 GB.
+
+1,1 ALL
+

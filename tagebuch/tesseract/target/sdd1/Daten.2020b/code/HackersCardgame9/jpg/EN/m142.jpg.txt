@@ -1,0 +1,50 @@
+AUGLO IA
+Handy
+
+Kehlkopf Implantat
+
++umgebende Elektronik, z.B. TV, Monitor, Toaster
+Person 2
+
+Person n
+Person self
+
+Video RX
+Bild-Kanal 1 => wir gehen davon aus, dass immer nur eine
+<a der redundanten Kanale verwendet wird, denn
+Bild-Kanal 3 wer schon mal versucht hat 2 TV Sendungen
+Bild-Kanal n wird erahnen weshalb. grundsaétzlich etwas wie FrequenzHopping denkbar
+Video TX
+Handy Kamery, Laptop Kamera, Kamera im Toaster oder in der LED Lampe..
+t CAM)
+ere
+
+Denkbar auch z.B. ein Implantat im Sehzentrum / Sehnerv, schlecht
+
+Auflésung zu erwarten
+
+Positionsdaten TX
+
+GPS Position KoortinatenUrsprung, z.B. Hand, Laptop, TV, Toaster, Leuchtstoffr
+werden merere bendédtigt, Vektoralgebra 3+, ausser Gerat hat selber
+tung => bendtigt fiir Augmented Reality, erhdht Glaubwirdigket
+
+Gre...
+mehrere)
+
+=>Gabe schon mal ein kom
+
+|Kehlkopf Implantat
+
+|umgebende’ Elektronik, z.B.
+TV, Monitor, Toaster
+
+Person 2
+Person n
+Person self
+
+|Bild-Kanal 1
+=> wir gehen davon aus, dass immer nur einer
+
+= Video RX
+

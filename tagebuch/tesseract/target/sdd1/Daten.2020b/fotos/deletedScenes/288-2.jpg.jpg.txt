@@ -1,0 +1,7 @@
+L1L2L3 Stator Laufer Widerstande
+U1 K =
+
+=
+
+V1
+

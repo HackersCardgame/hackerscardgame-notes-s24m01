@@ -1,0 +1,19 @@
+My Serpt nt
+
+[ssh
+MyScript InkRetriever
+Informacje | Ustawienia pobierania
+‘Ustawienia zapisywania atramentu
+
+Wybierz folder zapisywania pla atramentu:
+
+(C:\Users\adrienne Documents MyScript Documents notes ink Devices
+
+Ustawena zaawansowane
+suf lis zurzadzeria po pobraniy
+
+Zastap istniejace piki o tej samej nazwie
+‘Skanuj kaéde urzadzenie USB
+
+Lruchom automatycamie po uruchomieniysystemu Windows
+

@@ -1,0 +1,4 @@
+mar c@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07S figlot -f banner ~ WARNING WARNING this is an alarm call, die Frosch-Stufe wurde aktiviertt " -w 208 | sed -0 “s/ /+/g" | sed -0 “s/#/s/9"
+
+narc@DESKTOP-BO9KF62:~/hackerscardgane-notes-s2In07S figlet -f banner ~ WARNING WARNING this is an alarm call, die Frosch-Stufe wurde aktiviert" -w 200 | sed -e "BY /:/o" | sed -0 "5/#/+/0
+

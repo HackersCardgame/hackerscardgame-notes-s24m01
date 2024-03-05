@@ -1,0 +1,32 @@
+Activities © FirefoxESR + FriJun4 09:38 a Ov
+De Z Ubp> + v
+
+hackaday.com: B (90% nO ©
+
+BLINDINGLY FAST ADC FOR
+YOUR BEAGLEBONE
+
+by: Elliot Williams © 28 Comments
+fY¥YCeu July 31, 2016
+
+[Jason Holt] wrote in to tell about of the release of his PRUDAG project. It’s a dual-channel 10-bit ADC cape
+that ties into the BeagleBone's Programmable Realtime Units (PRUs) to shuttle through up to as much 2820 SEAR OHY
+megasamples per second for each channel. That's a lot of bandwidth!
+
+The trick is reading the ADC out with the PRUs, which are essentially a little bit of programmable logic that’s | searci |
+
+built on to the board. With a bit of PRU code, the data can be shuttled out of the ADC and into the
+BeagleBone’s memory about as fast as you could wish. Indeed, it's too fast for the demo code that [Jason]
+wrote, which can’t even access the RAM that fast. Instead, you'll want to use custom kernel drivers from the
+
+BeagleLogic project (that we've covered here before), NEVER MISS A HACK
+
+But even then, if you don't want to process the data onboard, you've got to get it out somehow. 100 mbit fya
+Ethernet gets you 11.2 megabytes per second, and a cherry-picked flash drive can save something like 14-18
+
+megabytes per second. But the two 10-bit ADCs, running full-bore at 20 megasamples per second each
+
+produces something like 50-80 megabytes per second. Point is, PRUDAQ is producing a ton of data. SUBSCRIBE
+
+So what is this cane useful for? It's limited to the two-volt innut ranae of the ADCs — vou'll need to
+

@@ -1,0 +1,40 @@
+acim reek
+
+BEICMP response time
+
+pat sa a ee
+lavgl S8.6ms Sams S852ms 1145ms
+
+SO epareine: Wee, Ses: STN eRe
+
+iri tao toe
+
+HICH responsetime —lavgl_ ms LOms -226ms 6 Sms.
+
+[Local nade: 192.168. 1.2: WAN (2h)
+
+Local node: 192.168.1.1: Traffic en interface WAN2 (2h)
+
+Local node: 192.168.1792: WAN (2h)
+
+20 Mes 20
+z sees 2 7 Seerees 2 hss es
+2 Rigas 8 3 Phage E: 5 Siaee a2
+on last min avg max : icone Face eo 29 a
+ato2n iw 2 HR Top Incomingtrafc on interface WAN? feval -LASHbps  G0.THbps 68754Kbps al ato2n wg "SO eh Be
+bie a a} ‘utgomgtat oniteace WANE tavel 1S078KEpE SOLKDps aSe7KOpe IT staae img 20 ise 8
+Local node: 152.168.1.2: LAN (2h) ‘Local node: 192.168.1.1: Traffic on interface LAN (2h) Local node: 182.168.179.2: LAN (2h)
+ce
+f Pseeeees ys Pete $3 S22888 z
+: Peakadaaes gas ae beaded a
+lest min avg max ast nin og | ax
+Ss oooh ee Incoming raf on terface LAN favgl 127 Mbps 73674Ktos SOLIZ Kips Lot eek
+we 513 So0s4 Atk Hicatgongtrame enintetacetan’ favgl 237Mbps aLaakips “LAaueps 71 Tete
+Local node: 192.168.1.2: WLAN (2h) Local node: 1$2.168,175.1: Traffic on interface WAND (2h) Local node: 192.168.179.2: WLAN 2h)
+* overs
+° obs
+# REESSLERE r 3
+7 tas mn 29
+row iw svek nsx 26k Wincomingtrafic onetertace WAN2 teva) L73Nbps _70"7Rbps e720KRps Aol
+i a er ry ukgomgtra on terface WAN? lovel 96.46KOpe 2067 KOps “85.97 Kops 1
+

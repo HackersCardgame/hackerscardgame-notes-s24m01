@@ -1,0 +1,17 @@
+20 GPUs waren eine Woche beschaftigt
+
+Mozilla nahm fiir sein eigenes Spracherkennungsprojekt DeepSpeech 2wei wissenschaftliche
+Arbeiten von Baidu als Grundlage und versuchte, diese mit Hilfe von Googles Maschinenlern-
+Bibliothek TensorFlow und den zusammengetragenen Daten umzusetzen - kein leichtes
+Unterfangen, wie sich zeigte. Um belastbare Ergebnisse zu erhalten, mussten die Entwickler
+ein Sprachmodell heranziehen, um homophone und ahnlich klingende Worter mit
+kontextabhangigen Wahrscheinlichkeiten versieht.
+
+Ziel war es, die Fehlerquote unter die Zehn-Prozent-Marke zu driicken. Dass eine
+Spracherkennung jedes zehnte Wort falsch versteht, klingt viel, ist aber nicht weit von
+menschlichem Sprachverstandnis entfernt - hier kamen die Baidu-Forscher auf eine
+Fehlerquote von 5,83 Prozent. Nach eigenen Tests erreicht DeepSpeech 6,5 Prozent. Wer das
+nachbauen will, muss ein bisschen Zeit und Rechenleistung einplanen: beatae tee
+Rechnern mit insgesamt 20 GPUs, das Mozilla verwendete, war eine Woche mit dem Training
+beschaftigt,
+

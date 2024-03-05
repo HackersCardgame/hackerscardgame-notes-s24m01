@@ -1,0 +1,10 @@
+Inventor: 7???
+
+To scan a human body, hopefully simens does not
+have some sort of stuxnet virus here that filters
+implants and wires that were implemented.
+Algorithm would be some interpolating algorithm
+that removes the implant and shows normal brain.
+
+But unsure about that so far...
+

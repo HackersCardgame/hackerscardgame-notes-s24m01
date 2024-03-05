@@ -1,0 +1,64 @@
+cd.textfiles. com
+
+VGA-Kurs - Part #3
+
+"T.C.P."'s Beginner's Guide To VGA Coding"(TM) ist wieder da mit Teil IIZ!
+Zu Beginn als Appetith,ppchen eine erneut schnellere PutPixel-Routine. Die ist
+jetzt meiner Meinung nach nicht schneller zu machen (h”chstens in 386er Code)
+wer anderer Meinung ist, soll seine L”sung hier pr,,sentieren
+
+Wichtig bei dieser Prozedur ist, das stets ein GLOBALE Konstante
+
+"VGA: word = $8000;' deklariert wird
+
+const VGA : word = $A000;
+procedure PutPixel (x,y:word;c:byte) ;assembLer.
+
+asm
+mov es, VGA
+mov dix
+mv  dx,y
+moy bx, dx
+sht  dx,8
+sht —bx,6
+add dx, bx
+add dix
+mov alyc
+stosb
+
+end;
+
+Augerdem noch unentbehrlich: Eine GetPixel-Funktion. Diese ermittelt den
+Farbwert des Pixels, der an den angegebenen Koordinaten steht
+
+function GetPixel(x,
+asm
+mov es,vga
+mov
+mov
+mov
+shl
+sh
+add
+add
+mov
+mov
+end;
+
+:word) : byte;assembler
+
+Diese Funktion verf,hrt bei der Berechnung des Offsets des Pixels haargenau
+so wie die Schwester-Prozedur. Nur am Schlua gibt es eine kleine Znderung
+Statt den Pixel zu schreiben wird der Farbwert, der bekanntlich an der
+Adresse Ah:Y*320+X steht, in AL ausgelesen Und dann als Funktionsergebnis
+zurckgeliefert.
+
+Nun w,re es vielleicht an der Zeit, daa sich der geneigte Leser eine Unit
+
+mit den besprochenen Routinen zusanmenstellt, um die Beispiele einfacher
+kompilieren zu k”nnen und eigene Programme schneller zu erstellen.
+
+Aber nun zur Sache: In dieser Ausgabe werden wir uns einem h,ufig besprochenen
+und geheimnisumwitterten Thema widmen: Dem Scrolly
+
+Was ein Scrolly ist, weid wahrscheinlich jeder. Eine Zeichenkette wird zum

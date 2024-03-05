@@ -1,0 +1,43 @@
+@ Facete0k.
+
+%.
+
+e
+
+1 casiepediaorgnki Navies
+
+| BME Great Reve: %¢ | HOTZ Kontos x |] STRAHLEN- FO. x | @ Prychosen 8S: x |G Ausemus verde x | @ Prychoren as: x | © DieSObemten’ x | W FinkyDel(OPin x | W PinkyDel(@Fin XW Neversoue x +  @ = Oo
+ler Daz »@
+Darin bezeichnet p den (statischen) Druck, 1 den Einheitstensor, Sp die Spur, das hochgestellte D den | jaa | oe
+
+die erste Lamé-Konstante und ¢ = A + 24/3 die Volumenviskositat.
+
+Einsetzen der Divergenz des Spannungstensors in das erste Cauchy-Euler'sche Bewegungsgesetz liefert die Navier-Stokes-Gleichungen,
+| Beweis[Ausklappen]
+
+Der Druck, die Dichte und der Verzerrungsgeschwindigkeitstensor d sind objektiv, siehe Euklidische Transformation, werden also von
+verschiedenen Beobachtemn in gleicher Weise wahrgenommen. Deshalb sind die Navier-Stokes-Gleichungen invariant gegeniber einer
+Galilei-Transformation.
+
+Navier-Stokes-Gleichungen fir inkompressible Fluide { Bearbeiten | Quelltext bearbeiten }
+
+Falls sich die Dichte entlang von Teilchenbahnen nicht andert, hei8t die Strémung inkompressibel. Dies ist
+beispielsweise eine sinnvolle Annahme fiir WASSEF oder Gase weit unterhalb der Schallgeschwindigkeit
+(Mach-Zah! < 0,3). Die Kontinuitatsgleichung vereinfacht sich zur Divergenzfreiheit des
+Geschwindigkeitsfeldes:
+
+V-t=0
+Die Impulsgleichung vereinfacht sich zu:
+
+Coen 3 6g. igh
+
+p tvs =—-Vp+phi+ f
+Hierbei steht p fur den physikalischen Druck, f ist eine Volumenkraft bezogen auf das Einheitsvolumen
+und js ist die dynamische Viskositat. Damit wird eine inkompressible Strémung vollstandig durch ein
+
+partielles Differentialgleichungssystem mit zwei Gleichungen fiir die zwei GréRen Geschwindigkeit 3 und
+Druck p in Abhangigkeit von Ort und Zeit beschrieben. Die Energieerhaltung wird nicht zum SchlieRen des
+
+Flassigkeiten kénnen in
+guter Naherung als
+

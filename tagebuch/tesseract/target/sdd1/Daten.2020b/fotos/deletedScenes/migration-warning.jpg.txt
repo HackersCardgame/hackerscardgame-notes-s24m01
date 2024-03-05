@@ -1,0 +1,8 @@
+‘This project contains UML repository and diagrams of EclipseUML Free Eaton,
+‘You need ta update them in arder to use EclinselIML Enterprise Edtion.
+Please note that ance the project is upgraded, it can not be read by
+EclpseUML Free Edton eryroe, Ther ne downgrade skh,
+
+Are you sure that you want to migrate this project to EcipseLIMCEnterprise
+Edition?
+

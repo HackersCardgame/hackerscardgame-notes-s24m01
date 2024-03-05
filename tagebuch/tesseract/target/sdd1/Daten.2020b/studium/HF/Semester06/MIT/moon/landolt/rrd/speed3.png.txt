@@ -1,0 +1,24 @@
+200
+
+10
+
+km/h
+
+00
+
+50
+
+of
+B00 z10
+Wi Maximum allowed
+
+12:20
+
+12:30
+Bi Good speed
+
+12:40
+
+azs0 13:00
+
+Too fast

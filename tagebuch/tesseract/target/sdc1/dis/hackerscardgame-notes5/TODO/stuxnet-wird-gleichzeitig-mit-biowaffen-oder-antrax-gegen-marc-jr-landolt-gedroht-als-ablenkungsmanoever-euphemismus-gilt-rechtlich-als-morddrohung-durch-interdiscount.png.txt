@@ -1,0 +1,49 @@
+e Sound of HardStyle
+
+e Sound of HardStyle.cof
+
+dom.d
+
+ne24
+
+10-40.mkv
+
+55-59.mkv
+
+S
+
+2.0 TB Disk
+
+Disks Idevlsdd
+
+500 GB Disk Model $T2000DM008-2FR102 (0001)
+WDC WDS50..0A-00H9HO
+
+60 68 Disk Size 2.0TB (2,000,398,934,016 bytes)
+KingDian N480 60GB Partitioning Master Boot Record
+1.078 Disk SerialNumber ZFL3JGTG
+WDC WD10SPZX-21Z10TO
+Assessment Diskis OK (37° C/ 99° F)
+
+5T2000DM008-2FR102
+
+Volumes
+Drive
+Generic STORAGE DEVICE
+
+Drive
+Generic STORAGE DEVICE
+
+Drive
+Generic STORAGE DEVICE
+
+Drive
+Generic STORAGE DEVICE >|-le#
+Drive —_
+Generic STORAGE DEVICE Size 2.0 TB (2,000,397,795,328 bytes)
+CD/DVD Drive Device [dev/sddt
+Slimtype eBAU108 6 L
+UUID 57768BB0790087D3
+Partition Type NTFS/exFAT/HPFS
+Contents NTFS — Not Mounted
+

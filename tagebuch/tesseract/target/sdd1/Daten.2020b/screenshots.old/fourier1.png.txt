@@ -1,0 +1,21 @@
+1 Fourier Analyse
+
+1.1 Harmonische Schwingung
+
+Eine (ungedamp te) Schwingung ist eine sich mit der Periodendauer T wiederholende
+Funktion.
+
+FO =FE+T) ay
+T: _ Periodendauer
+t Zeit
+
+Eine Harmonische Schwingung ist eine solche Schwingung, die nur eine Frequenz hat. Das
+heisst ohne Oberwellen und dergleichen. Sie wird Folgendermassen dargestellt:
+
+FO =A sin(wt +9) (1.2)
+
+A: — Amplitude
+O: Kreisfrequenz, ==?
+
+@: — Phasenverschiebung
+

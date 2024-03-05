@@ -1,0 +1,67 @@
+ten 5 Answers ses | tes
+Teas Tihs answeris OBSOLETE. The P13.3V ais widely assumed to provide SOmA, bu this is
+Use 4g | Petoffciaty documented for recent Pi madels. The ogial Phas an on-board neat
+
+regulator which was kmted, but the B+ and ater have a swteh made regular which can
+Uranewees supply more. The regulator chip (which supplies both 23V and 1) irated at 1A
+uote Raspberry Pi Power Limitations
+
+‘This is an interesting question because thas a ot so concrete answer.
+The power as
++ The 5 Val appears to passed straight through rom the USB andthe curentis therefore med
+to whatever the USB port can supply minus the cutent being drawn by the board (Source 1)
+1 The 33 Vrallcan supply a maximum of S0mA (Source t)
+
+The GPO.
+
+Soheret gets ate fogier There isnt any curent iting features onthe board, so you demand a
+Cetin amount of current rom apn, watt to eriv unt someting breaks.
+
+‘Saying that, from the research Ive done, the absohe maximum you should draw from a single pins
+1 mA HOWEVER, SEES cam cv TMMso its
+balancing act ts recommended though, that a Series resistor is placed onthe GPIO to mt the
+‘uent and prevent damage. The board was realy designed to be buffered before being connect o
+peripheral devices, (Source 2)(Souce 3)
+
+Source 2 and 3 nk to pages that explain the operation ofthe rs dive Setup on the GPIO. 's worth
+‘read though may be abt outside the scope of the question,
+
+‘To summarise rom another source, the GPIO ouput currents
+
+‘Aas of 6mA pe pin wth he total current rom al pins not exceeding SOmAls]
+(Source 4)
+
+eotae 19:17 911286 an a
+
+noe Px
+
+when poweting the Pi Fom the pins?
+
+2) whats he marina numba of GPO pins
+Tan expend wth an how?
+
+‘See me kad uetons
+
+Related
+
+8 inate he nominal GPO Pn Opt
+
+0th minimax otagelcuet
+
+tthe Grund power rings?
+
+‘Sine OC Sule Vane Cut, Howto
+
+600 petecton dedes, maximum pst
+
+Why othe PGP pin uselne 33
+sede SV?
+
+(610 Pins as dita LOM
+
+3°) ead G10 Pins, ease el med the
+
+Dot hay to use specie GPO pins or
+
+Hot Network Questions
+

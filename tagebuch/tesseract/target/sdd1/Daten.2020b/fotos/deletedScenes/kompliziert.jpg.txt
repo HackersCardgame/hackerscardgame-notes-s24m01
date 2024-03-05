@@ -1,0 +1,91 @@
+Integralsubstitution:
+
+4x2 ae
+ne 6 du [ia
+x3 6x41 ue 3xtt en du
+
+Integration und Riicksubstitution:
+
+Das neue Integral ist bereits ein Grund- oder Stammintegral:
+
+1
+fe du = In |u| + C=In|x3 —6x +1] +C
+Lésung:
+
+3x7 -6
+(— dx =In|x3 —6x +1, +C
+x
+
+36x41 (CeR)
+
+(3) Wir berechnen den Fldcheninhalt eines Kreises mit dem Radius r (Bild V-
+
+Bild V-21
+Zur Berechnung des Flicheni
+eines Kreises
+
+Aus Symmetriegriinden beschriinken wir uns dabei auf den im 1. Qu
+liegenden Viertelkreis (in Bild V-21 grau unterlegt):
+
+r
+Akreis = 4° [vr=xax
+0
+
+Dieses Integral ist vom Typ (D) der Tabelle 2 und wird durch die Substitut
+
+Vr? x2 =r cosu
+
+geldst, wobei wir die Integrationsgrenzen mitsubstituieren wollen.
+
+x=r-sinu, dx
+
+=r-cosudu,
+
+—_—_ CL
+
+Wir lésen daher die Substitutionsgleichung x =r-sinw zuniichst nach u auf:
+
+& [x
+x=r-ssinu > sinu=— a) a ie
+und berechnen dann mit dieser Beziehung die neuen Integrationsgrenzen:
+Untere Grenze: x=0 > u= arcsin 0 = 0
+
+Obere Grenze: x=r > u=aresin 1 = 2/2
+
+Nach Durehfithrung der Substitution erhalt man das folgende Integral:
+
+r afd n/2
+Again = 4: | VPP as =4- J 12 cos? u du = 41? - | cos? u du
+0 0 0
+Dieses Integral ist zwar noch kein Grundintegral, kann jedoch mit Hilfe der
+aus der isch t
+Beziehung
+
+cos? u = ; (: + cos (2 2)
+
+wesentlich vereinfacht werden:
+
+n/2 x2
+Axects = 472 * | cos?u du = 27? | ( +eosc2n)d #
+0 0
+afd n/2
+=2r?- i 1 du + 2r?- | cos (2u) du =
+0 0
+a
+=2r? [| 212: if cos (2u) du = nr? +2720 = mr?
+0
+Os
+0
+x2
+
+Wir miissen noch zeigen, daB das Integral J cos (2u) du auch tatsiichlich ver~
+
+8 s
+schwindet, Dieses Integral ist vor Typ (A) aus Tabelle 2 und wird durch die
+folgende Substitution geldst:
+dt
+
+1
+du == dt
+du 2
+

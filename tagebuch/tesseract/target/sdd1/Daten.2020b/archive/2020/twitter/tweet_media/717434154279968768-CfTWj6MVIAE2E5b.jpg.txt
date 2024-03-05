@@ -1,0 +1,74 @@
+your package Depart From Original Country
+
+Switzerland
+
+stination C
+
+ntty
+
+China
+ountry
+
+2016-04-02
+
+2016-03-31
+
+2016-04-05
+
+2016-04-02
+
+2016-04-02
+
+2016-04-01
+
+2016-04-01
+
+2016-03-31
+
+2016-03-31
+
+2016-03-31
+
+2016-03-31
+
+14:44:00
+
+19:32:00
+
+a04:40
+
+10:15:06
+
+15:14)
+
+01:54:29
+
+22:30:15
+
+18:06:56
+
+17:46:36
+
+14a:
+
+Departure from border point of origin country
+
+Mailed
+
+Shipped by air
+
+Export customs clearance complete
+
+arrive export exchange
+
+Export customs clearance complete
+
+arrive export exchange
+
+Export customs clearance complete
+
+Successful departure from Warehouse
+
+Warehouse processing complete
+
+Successful package received by Warehouse

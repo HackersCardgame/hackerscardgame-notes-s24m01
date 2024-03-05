@@ -1,0 +1,42 @@
+marcland@s92: ~/www/hackerscardgame.ch Cl] = |B
+
+google005c65492f842d27.html psychiatrie-leaks.ch
+. nhackerscardgame-notes-s22m08 public_html
+
+hackerscardgame.ch schizophrenie-forum.ch
+hackerspace-aarau.ch suizid-app.ch
+
+hackerspace-aargau.ch
+
+[marcland@s92:~/www] $ reste
+
+bash: reste: command not found
+
+[marcland@s92:~/www] 127 $ reset
+
+Erase set to backspace.
+
+[marcland@s92:~/www] $ cd hackerscardgame.ch
+
+1s
+
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-1)* + 1s
+
+1 clean.sh LICENSE results.txt
+
+1 1.0.26 hackerscardgame.ch massPrint.sh scripts .bullseye|
+
+2 i.html modal. js {TODO}
+
+2.0.1 index.html png
+Bcards} index.php prerequisites.sh
+cert-problem.txt jg README .md
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-1)* +
+
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/ZzLDA@ZPMSvHdkr4UvCOqU.
+No matching host key fingerprint found in DNS
+MBthis key is not known by any other names.
+2y,Are you sure you want to continue connecting (yes/no/ [fingerprint] )? |
+8 public_html
+

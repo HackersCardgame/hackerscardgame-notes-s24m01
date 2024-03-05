@@ -1,0 +1,51 @@
+©2¢e@ oe skpeaers Om Ot NO®O#
+
+2 Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+ha uw Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte_ Wikipedia durchsuchen Q
+
+WikipeDIA Rekursion
+
+Die freie Enzyklopiidie
+%€ Dieser Artikel behandelt unter anderem die Technik der rekursiven Definition in der Mathematik; zum Begriff rekursive Menge siehe Entscheidbar.
+
+Hauptseite
+Themenportale Als Rekursion (lateinisch recurrere zurlicklaufen’) bezeichnet man den abstrakten Vorgang, dass Regeln auf
+Zufalliger Artikel ein Produkt, das sie selbst erzeugt haben, von neuem angewandt werden. Hierdurch entstehen potenziell
+
+Mamachon unendliche Schleifen. Regeln bzw. Regelsysteme heifen rekursiv, wenn sie die Eigenschaft haben, Rekursion
+
+im Prinzip zuzulassen,
+Atikel verbessen
+
+Neuen Artikel anlegen Rekursion ist ein zentraler Begriff in Mathematik und Informatik und hat vielfaltige Anwendungen daruber
+Autorenportal hinaus; diese reichen bis in die Kunst, wo das Phanomen auch als mise en abyme bezeichnet worden ist
+
+Hilfe
+
+iss ancomgen Rekursion ist auch eine Problemlésungsstrategie. Komplexe Sachverhalte kénnen oft mit rekursiv formulierten
+Kontakt Regeln sehr elegant erfasst werden. Das Grundprinzip ist dabei dann das Zuriickfihren einer allgemeinen
+Spenden ‘Aufgabe auf eine einfachere Aufgabe derselben Klasse. Beispielsweise ist die rekursive Programmierung
+
+Ein Beispiel von Rekursion: Ruckkopplung ©
+im VLC media player bei Anzeigen des
+eigenen Bildschirms.
+
+Bestandteil vieler Programmiersprachen. Prozeduren oder Funktionen kénnen sich dabei selbst aufrufen.
+Rekursion und Iteration sind im Wesentlichen gleichmaichtige Sprachmittel
+
+Werkzeuge
+
+Links auf diese Sei
+
+Aino In Mathematik und Informatik erscheint Rekursion auch spezieller in der Form, dass eine Funktion in ihrer
+verlinkten Seiten Definition selbst nochmals aufgerufen wird (rekursive Definition). Wenn man mehrere Funktionen durch
+tiaras! wechselseitige Verwendung voneinander definiert, spricht man von wechselseitiger Rekursion. Nicht jede rekursive Definition ist eine Definition im
+ae eigentlichen Sinn, denn die zu definierende Funktion braucht nicht wohldefiniert zu sein. Jeder Aufruf der rekursiven Funktion muss sich durch Entfalten der
+
+rekursiven Definition in endlich vielen Schritten auflésen lassen. Ist dies nicht erfallt, so spricht man von einem infiniten Regress (in der Informatik auch als
+Endlosschleife bezeichnet)
+
+Artikel zitieren
+Wikidata-Datenobjokt
+

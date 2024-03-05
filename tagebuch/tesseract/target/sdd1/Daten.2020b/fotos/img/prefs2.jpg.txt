@@ -1,0 +1,2 @@
+oisplay scrolbars while in Fullscreen Mode
+display warning before entering Fullscreen Mode

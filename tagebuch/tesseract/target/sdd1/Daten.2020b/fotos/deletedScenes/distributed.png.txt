@@ -1,0 +1,27 @@
+Distributed
+Monitoring
+
+Last Updated: 07-15-2001
+
+Distributed Monitoring Server #1
+
+Central Monitoring Server
+
+Distributed Monitoring Server #2
+
+ocsp
+Command
+
+ocsp
+Command
+
+®
+
+Hosts/services monitored directly by
+distributed server #t, and indirectly by
+‘central server
+
+Hosts/services monitored directly by
+distributed server #2, and indirectly by
+central server
+

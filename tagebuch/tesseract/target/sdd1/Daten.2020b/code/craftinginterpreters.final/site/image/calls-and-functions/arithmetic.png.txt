@@ -1,0 +1,11 @@
+frame-> slots stackTop
+
+pa4n— argCount —,
+ie) 1 2 3 ai ) 6
+script| + |sum| 5 | 6 | 7 |
+
+{|
+
+sum() CallFrame
+
+|

@@ -1,0 +1,12 @@
+gram Dependencies Options
+Detected Cyles in Project
+
+Dependency cycles summary
+
+Select the dependency cycles to display on diagram:
+
+‘ D1 cycle of 2 elements
+
+oa
+Doz
+

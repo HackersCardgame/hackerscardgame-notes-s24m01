@@ -1,0 +1,48 @@
+Activities Fri 20:59
+
+console commands (#¢
+
+a
+marc@debian: ~/Daten.2019/code/cbftp-r983 x marc@debian: ~-/Daten.2019/code/pri33
+@ Fie Edit View Search Terminal Hel File Edit View Search Terminal Hel
+EVENT LOG - . trying to reconnect
+trying to reconnect
+
+:59:19] Event log initialized.
+:59:20] <DataLoaderSaver> Data decryption successful.
+:59:20] <RemoteCommandHandler> Listening on UDP port 55477
+:59:24] <RemoteCommandHandler> Received: ****** prepare MOVIES. x264.STV.EN.AC 1999 rating:8.7 votes:1452417 genres:Action, Sci-Fi
+:59:24] <Engine> Trying to use a nonexisting site:
+:59:24] <Engine> Ignoring attempt to spread the.matrix.1999.x264-ASDF in MOVI 3ITE2']]]
+:59:24] <RemoteCommandHandler> Received: ****** prepare MOVIES.x264.STV.EN.Ac
+:59:24] <Engine> Trying to use a nonexisting site: S
+:59:24] <Engine> Ignoring attempt to spread the.matrix.1999.x264-ASDF in MOVI
+:59:24] <RemoteCommandHandler> Received: ****** prepare MOVIES.x264.STV.EN.Ac
+:59:24] <Engine> Trying to use a nonexisting site: S yt found
+:59:24] <Engine> Ignoring attempt to spread the.matrix.1999.x264-ASDF in MOVI 5+ found
+at found
+at found
+yt found
+dr not even a config file
+figuration item: EN AND EN
+figuration item: EN AND EN
+or not even a config file
+2.py “Login the.matrix.1999.x264-ASDF" user01
+3ci-Fi.CLS.2D.EXTERNAL.nfo year:1999
+Pgdn] Scroll down - [ESC/Enter] Return :: [Pgup] Scroll up - [Pgdn] Sc —!1999 rating:8.7 votes:1452417 genres:Action, Sci-Fi
+MOJO: tt0133093 US:None UK:None
+[['user01', ['SITE2']], ['user@3', ['SITE2']], ['user04', ['SITE2']]]
+NOTIFYING:
+userO1: S/I
+user03: S/I
+user04: S/I
+configFileReader.py:74 - CONFIGURATION ITEM LALA.cfg not found
+configFileReader.py:74 - CONFIGURATION ITEM LALA.cfg not found
+configFileReader.py:74 - CONFIGURATION ITEM LALA.cfg not found
+configFileReader.py:74 - CONFIGURATION ITEM LALA.cfg not found
+configFileReader.py:74 - CONFIGURATION ITEM LALA.cfg not found
+siteParser.py:141 - Site LALA has no rules configured or not even a config file
+ruleChecker. py 'S x26: Duplicated configuration item: EN AND EN
+
+ian: ~/Daten.2019/code/pri33
+

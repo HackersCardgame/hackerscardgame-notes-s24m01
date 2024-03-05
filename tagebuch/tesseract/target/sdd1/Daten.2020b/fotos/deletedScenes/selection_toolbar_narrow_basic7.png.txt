@@ -1,0 +1,3 @@
+Project Rate (H2): Selection Start @ End Length Audio Position
+44100 + ‘Snap To[-] [00 hOO mO0 sy [OOhOOmO0sr |[00h00m00sr
+

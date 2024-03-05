@@ -1,0 +1,39 @@
+Embedding Projector
+
+DATA
+
+1 tensor found
+
+Movie Plots Embeddings v
+Label by
+Titles v
+Color by
+Genres v
+
+Sphereize data @
+
+Load data Publish
+
+T-SNE PCA CUSTOM
+
+Dimension 2D = ) 3D
+
+Perplexiy@ @ 8
+Learning
+SE) 7
+rate e iO
+Re-run Stop
+
+Iteration: 561
+
+(How to use t-SNE effectively.
+
+) | Points: 1843 | Dimension: 50 | Marley & Me (2008)
+
+Show All Isolate 8 Clear
+Data points selection
+Search by
+Star Wars} * Titles ~
+8 matches.
+
+BOOKMARKS (0) @

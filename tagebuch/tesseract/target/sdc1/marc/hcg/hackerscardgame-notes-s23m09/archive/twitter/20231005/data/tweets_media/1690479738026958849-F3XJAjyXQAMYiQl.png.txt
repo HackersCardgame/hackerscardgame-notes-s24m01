@@ -1,0 +1,18 @@
+less) the case for other errors.
+
+Although predictive processing provides a comfortable framework with which to account for our
+results regarding STM, we recognize that there is already a vast literature about the theoretical
+foundations of false memory in LTM. For example, one explanation for the occurrence of
+llusions in LTM comes from’ [47]. [IU states that memory consists of two
+parts, a verbatim part, representing the exact memory input, and a gist part, representing the
+meaning of the input, based on a semantic analysis. Could [ail also explain the current
+jindings in STM? It is possible that the verbatim representation of the visual input is the physical
+pseudo-letter, and that the high-level gist that is stored is something like “letter” and “mirrored”.
+With such a representation, it is possible that the “letter” gist is stronger than the “mirrored gist,
+thus surviving longer. However, [sill] predicts that high similarity between a target and its
+mirrored counterpart should inhibit false memories [48]. This is not consistent with the current
+data: The mirrored counterpart (the real letter) and the target (the pseudo-letter) are extremely
+similar, yet false memories are abundant. Therefore, it seems that [SIN cannot accurately
+account for the occurrence of this type of memory illusions in STM. In contrast to [ZIl, which
+ianecte that memory illiicionc are the reciilt of hiqh_lovel camantic analycic it thiic cagamc.
+

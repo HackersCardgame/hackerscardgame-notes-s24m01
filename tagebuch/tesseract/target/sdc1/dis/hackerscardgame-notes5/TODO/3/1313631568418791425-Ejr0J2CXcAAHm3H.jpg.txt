@@ -1,0 +1,67 @@
+@ © @ Marctandolts Blog f Customizer O11 $10 + Neu & Beitrag bearbeiten
+
+return
+
+} Pi ese Re Ra) 23.1)
+
+var instances=0;
+
+ini algorithm that
+function minimax(depth,
+{
+if(resetCounter) inst<
+else instances+=
+
+var bestMove = [[0,0],
+
+if(depth < 1) return €
+var moves = shuffle(pc
+
+var bestValue=- 1000006
+for(var i = 0; i < mov
+
+return moves;
+
+t t viel re
+function isInCheck(playe
+moves = possibleMoves |
+
+for(var i=0; i<moves.1
+if(board[moves[i] [1]
+return
+
+return F
+acm Dae = @
+
+Hoaxilla Special 22 (afaik kostenpflichtig)
+
+{Als Addon fUr Eure Sendung gedacht. Work in progress.
+
+ir seid paar Jahre aiter, also kann ich meinen Autotext: jUngere diirfen auch weniger wissen
+nicht bellen.
+
+sarcfesktop sik: /ant/</Ueers/are/ncherscardgaae.ch fighet was 5 8
+
+ASS Aes
+
+perten (she CEC) Rolle hopensieren kone. Bo
+
+Q@« 8
+
+@ePFe@ez %
+
+Basa
+
+Willkommen, admin Ml Q
+
+Meta
+
+1 Website Administration
++ Aomelden
+
+1 Feed der Eintrago
+
+* Kommentare-Feed
+
+= WordPress.org
+

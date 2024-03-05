@@ -1,0 +1,28 @@
+1 a Terminal
+c
+
+alfa] =
+
+~marc@debian: /media/marc/7F346F3938B21801$ for i in $(seq 3 24); do git clone htt
+
+ps://github.com/braindef/HackersCardgame4; done
+
+Cloning into ‘HackersCardgamed'.
+4 €remote: Enumerating objects: 8021, done.
+
+{feceiving objects: 7% (625/8021), 457.63 MiB | 41.00 KiB/s
+
+1
+2 a Terminal
+
+3 CLEATS MOA narcedebian: /media/marc/7F346F3938821801$ cd
+marc@debian:~$ cd hackerscardgame-notes6
+
+4 create mode eee oe pees eee rege ONES
+
+Jac
+arc
+
+-ef
+
+181

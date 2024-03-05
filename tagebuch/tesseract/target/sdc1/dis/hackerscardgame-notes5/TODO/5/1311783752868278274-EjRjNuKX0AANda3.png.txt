@@ -1,0 +1,60 @@
+ssecsitysitecom
+
+security site.com
+
++ profsims.com - Networksims
+
+Test simitarity
+
+[Back] This provides an overview of the sting similarity using different methods: (Analyse)
+
+string
+String 2:
+
+‘The results are then
+Levenshtein
+
+‘NeedlemanWunch
+
+‘Smith- Waterman
+
+‘Smith-Waterman Gotoh
+‘Smith-Waterman Gotoh Windowed Affine
+Jaro
+
+Jaro Winkler
+
+QGrams Distance
+
+Block Distance
+
+Cosine Similarity
+
+Euclidean Distance
+
+‘Chapman Length Deviation
+
+Overlap Coefficient
+
+Duldungsstatus
+
+(Duldungsreftex
+
++= Loss of insignificant words: “loans and accounts” and “loans accounts". Try
+
+small changes:
+
+joans and accounts" and "loan and account". Try.
+
++ Rearrangment of words: "loans and accounts” and "accounts and loans”. Try
+
++ Punctuation: "fishing, "campit
++ Case: "Loan Account and Deali
+
+‘and ‘forest$" and "fishing camping and forest". Try
+
+“LOAN ACCOUNT DEALING”. Try
+
+oad, Account, Dei i
+D
+

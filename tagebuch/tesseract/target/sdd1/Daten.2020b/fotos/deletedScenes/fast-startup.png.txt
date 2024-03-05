@@ -1,0 +1,19 @@
+Generating Cached Configuration
+
+Nagios Process
+
+Configuration Logic
+——
+
+Object Precache Fae
+
+Object Config Files
+
+Using Cached Configuration
+
+Nagios Process
+
+Configuration Logic
+4
+
+Object Precache Fie

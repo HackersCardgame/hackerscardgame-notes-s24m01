@@ -1,0 +1,88 @@
+package ch.abbts.bank;
+
+import ch.abbts.bank.userinterface.CLlj
+
+public class BankApplication { ep Bank 6 1
+public static void main(String[] args) { : et
+CLI cli = new CLI(); iG} Source Packages
+} // end main a4
+} // end class
+// Vitel CLI bank
+itel: :
+// Ruator: Marco Bontognali a businesslogic
+// Firma: ABB TS i B Bank.java
+// Beschreibung: Ein Commandline Interface. : i :
+// Benutzerinteraktinen erfolgen textuell. i aa Konto, java
+// Fehlerbehandlung nicht implementiert. i a KreditKonto. java
+
+ao userinterface
+
+q s (a) CLI java
+import ch.abbts.bank.businesslogic. Bank; : [a
+import ch.abbts.bank.businesslogic.Konto; (a BankApplication. java
+import java.util.Scanner;
+
+package ch.abbts.bank.userinterface;
+
+public class CLI {
+// Benutzerinteraktionen
+private enum UserAction {EXIT, NEW, SEARCH, PAYMENT_IN, PAYMENT_OUT, RICHEST, TOTAL};
+
+private Scanner mKeyboard;
+private Bank mBank;
+private static int mAccountNr; // Kontonummer
+
+// Constructor
+
+public CLI() {
+// Keyboard-Objekt erzeugen um ab Tastatur zu lesen
+mKeyboard = new Scanner (System.in);
+
+mBank = new Bank();
+mAccountNr = 1;
+work()?;
+
+} // end constructor
+
+// Benutzerinteraktionen verarbeiten
+private void work() {
+
+UserAction userAction;
+
+System. out.println("Bankprogramm") ;
+
+do {
+userAction = showMenu();
+switch(userAction) {
+
+case EXIT: {
+System. out.println("Bye bye");
+break;
+
+} // end case
+
+case NEW: {
+System.out.printin("Bitte geben Sie den Vornamen einr-*)F
+String prename = mKeyboard.nextLine().trim();
+System.out.printlin("Bitte geben Sie den Nachnamen ein: ");
+String lastname = mKeyboard.nextLine().trim();
+mBank.addKonto(new Konto (prename, lastname, mAccountNr, O)) ?
+System.out.printlin("Konto wurde angelegt.");
+mAccountNrt++;
+break;
+
+} // end case
+
+case SEARCH: {
+Konto konto = search();
+if(konto != null) {
+
+System. out.printin (konto) ;
+
+} // end if
+break;
+
+} // end case
+
+case PAYMENT_IN: {
+Konto konto = search();

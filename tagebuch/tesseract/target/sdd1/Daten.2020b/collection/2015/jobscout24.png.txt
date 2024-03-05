@@ -1,0 +1,33 @@
+& >} G (DB wwwjobscout24.ch/de
+
+Server Error in Application "JOBSCOUT24.CH"
+
+Error Summary
+
+HTTP Error 403.6 - Forbidden
+
+The IP address from which you are browsing is not permitted to access the requested Web site.
+
+Detailed Error Information
+
+Module IpReswictionModule Requested URL hiprIhnwwjobseour24.ch:80/de
+
+Notification BeginRequest Physical Path DsVnetpub\obscour24.chide
+Handler ExtensionlessUriHandler-Integrated-4.0 Logon Method Not yet determined
+
+Error Code 0x80070005 Logon User Not yet determined
+
+Mostlikely causes:
+
++ The server, site, application, or page requested has explicly denied the IP address of the clent computer.
+
+Things you ean wy:
+
++ Verity the IP and domain restrictions in IS Manager.
+{+ Remove the IP restrictions from the configuration'system webServerisecurtyipSecurty section of the configuration flle for the server, ste, application, or page.
+
+Links and More Information
+
+‘SeUIP restrictions at the server, ste, application, of fle level. Verify or change the P restrictions atthe ste level
+View more information »
+

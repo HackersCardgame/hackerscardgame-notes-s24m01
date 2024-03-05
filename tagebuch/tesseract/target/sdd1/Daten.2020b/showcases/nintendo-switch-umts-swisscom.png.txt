@@ -1,0 +1,6 @@
+© Swisscom bietet offentliche (nicht fixe) IP-Adressen mit dem @¥J-CNA Service an. Gegen einen
+Aufpreis von CHF 5.- pro Monat verbindet sich der UMTS Router Uber den Corporate APN. Der
+Corporate APN bietet den Vorteil von offentlichen IP-Adressen. Wichtig: mit jedem neuen
+Verbindungsaufbau bekommt der Router wieder eine neue IP-Adresse. Die IP-Adresse kann via SMS
+
+Befehl abgefragt werden.

@@ -1,0 +1,3 @@
+var cuppa = "joe";
+
+DECLARE UNINITIALIZED b if READY FOR USE

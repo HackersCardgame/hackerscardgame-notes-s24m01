@@ -1,0 +1,9 @@
+@ Recognize hand gestures
+with normal WiFi Gear
+
+Wi-Fi signals enable gesture recognition throughout entire home
+
+https://0x8.ch/HackersCardgame23
+Inventor: ??? Year: ~xxxx
+TODO: Read Specs...
+

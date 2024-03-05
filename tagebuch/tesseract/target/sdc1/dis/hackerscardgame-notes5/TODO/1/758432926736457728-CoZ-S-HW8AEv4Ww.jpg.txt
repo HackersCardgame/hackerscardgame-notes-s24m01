@@ -1,0 +1,44 @@
+Thu 00:
+
+WRX (Rx (OD x (ex (HIM x (BRS x x DD x (3 x (Gtx BK x (Eth x (RC x (BEV x (eT x) TEx
+
+>ws-machine-uefi-secure-boo!
+
+take effect, this will not cause problems with older systems. And even if it does become a
+reality, distributions such as Ubuntu, Fedora, Red Hat, and SUSE won't have any issues as they
+are already using official digital keys to meet the UEFI requirements. For smaller distributions
+(created by developers who cannot afford to purchase the keys), this could be a big issue.
+
+Fortunately, it’s not totally insurmountable. How? Because there are vendors out there selling
+
+modern hardware that is specifically geared toward Linux. Syst
+
+176 has grown into one of the
+
+n is another, similar solution. Both
+
+biggest vendors of Linux desktops and laptops. ZaRe
+companies not only offer outstanding hardware, they give back to the open source community
+
+and serve as a means for Linux users to always have hardware that will work with Linux.
+
+Besides, supporting companies that are geared specifically for Linux and open source software
+
+is a win-win on every level
+
+Also, if you happen to be a developer, working on a Linux distribution, check out this Linux
+
+Foundation publication on Making UEFI Secure Boot Work With Open Platforms.
+
+UEFI proved to not be nearly the impossibility we thought it would present. But with Windows
+10, impossibility could become a reality. How will you deal with purchasing new hardware
+
+should manufacturers start removing the ability to disable Secure Boot?
+
+aiyvGoe
+
+Win10_1511_...iso *
+
+SHOW ALL
+
+x

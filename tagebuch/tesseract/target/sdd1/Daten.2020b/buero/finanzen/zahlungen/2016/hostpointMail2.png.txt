@@ -1,0 +1,19 @@
+me
+windows
+
+Basic
+
+Fri 15:27
+
+mail2 Properties
+
+Permissions Tags
+Name: mai
+
+Type: Folder (inode/directory)
+Contents: 17 items, totalling 23.5 kB
+
+Parent Folder: ftp://ftp.marclandolt.ch/mail/..
+
+Free space: unknown
+

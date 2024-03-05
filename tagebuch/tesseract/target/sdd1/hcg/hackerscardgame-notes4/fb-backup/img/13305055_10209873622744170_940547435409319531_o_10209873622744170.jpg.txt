@@ -1,0 +1,44 @@
+Activities
+
+Terminal + Mon 06:08 dy AW Bw
+
+marc@debian: ~/sound/youtube
+
+File Edit View ch Terminal Help
+
+convert.sh
+
+#1 /bin/bash
+
+sudo apt-get install cclive mpgl23 vlc
+
+mkdir workingDi
+
+cd workingDir
+
+for i in $(cat ../list.txt); do «clive $i;done
+IFS=$'\n' # make newlines the only separator
+
+for i in $(1s); do ../convert.sh $i; done
+
+echo Bitte [FNTER] driicken
+read
+
+mpg123 *.mp3
+#!/bin/bash
+
+cvlc =I dummy "$1" --sout="#transcode{acodec=mp3, vcodec=dummy}:standard{access=file, mux=raw, dst=
+
+1,mp3}" vle://quit &
+
+List. txt
+
+https: //www. youtube. com/watch?
+https: //www. youtube..com/watch?v=tFv7mHT fOnA
+
+fittps: //www. youtube ,com/watch?v=vil3qbXolzw
+
+- INSERT -- 30,9 Top
+
+FGVBE2M8 ts
+

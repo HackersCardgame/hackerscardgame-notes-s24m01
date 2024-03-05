@@ -1,0 +1,58 @@
+@ test. pcap - Wireshark
+
+Ele Edt en Go Conte analze Stl Hee
+Guwaeaalo *® 8/8 ¢oe2 F zg iBiwliaa
+
+ster lbp Se. ee
+
+No. - | Time Source Destination Pratecal Info
+
+12 1.227282 168.0. http > 3196
+3196 > http [ACK] Se
+SUBSCRIBE /upnp/service/Layer3For
+http > 3196 [ACK] Seq=1 Ack=256 W
+
+1025 > 5000 [SYN] Seq=0 Len=0 MSS
+5000 > 1025 [SYN, ACK] Sea=0 Ack=
+HTTP/1.0 200 OK
+
+3196 > http [FIN, Seqe256 Ac
+http > 3196 [FIN,
+
+3196 > http [ACK]
+
+1025 > 5000 [ACK]
+
+inttp > 3196 [FIN,
+
+3197 > http [SYN]
+
+http > 3197 [SYN
+
+3197 > http [ACK]
+
+7 20.2
+2 L001
+1 10.2
+2 20.1
+t 10.2
+2 200
+Hi BORER
+1 10.2
+2 20.1
+1 zs
+2 L001
+
+Frame ii (62 bytes on wire, 62 bytes captured)
+
+Ethernet II, Src: 192.168.0.2 (00:0b:5d:20:cd:02), Dst: Netgear_2d:75:9a (00:09
+
+Internet Protocol, Src: 192.168.0.2 (192.168.0.2), Dst: 192.168.0.1 (192.168.0.1)
+Transmission Control Protocol, Src Port: 3196 (3196), Dst Port: http (80), Seq: 0, Len: 0
+
+OO OF Sb 2d 75 Sa OO Ob Sd 20 cd OF OF OO aS OO
+00 30 18 48 40 00 80 06 G1 2c <0 ab 00 02 cO at
+00 01 Gc 7< 00 50 3c 36 95 Fa GO 00 00 00 70 02
+fa f0 27 20 00 00 02 O4 05 bd O1 O1 O4 O2
+
+[Fier "Dittest pean” 14 KB OOOO: [Fr1200: 105 MO [ewpere Enver]

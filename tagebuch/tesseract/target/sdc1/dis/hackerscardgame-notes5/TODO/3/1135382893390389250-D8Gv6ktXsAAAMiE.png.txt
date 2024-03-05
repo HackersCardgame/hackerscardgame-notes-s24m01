@@ -1,0 +1,40 @@
+© braindef/jamulus © eam
+
+Current Branches Build History PullRequests > uild #2
+
+V- master Update stravis.ymt
+
+© Commit 58ed373
+{2 Compare £470783. .580d373 2
+Y Branchmaster 2
+
+@ Warctandot
+suilobs
+v #34 &  & Compiler cH+
+v #32 GP Xcode: xcode7.2. C++
+v #33 B ece
+
+View config
+
+> #3 passed
+
+Ran for 11 min 3 sec
+© Total time 21 min 33sec
+
+[© about an hour from now
+
+‘no environment variables set
+‘no environment variables set
+
+‘no environment variables set
+
+More options
+
+C Restart build
+
+© 2min 50sec
+© Tmin 51sec
+
+© 10min s2sec
+
+®©oOo

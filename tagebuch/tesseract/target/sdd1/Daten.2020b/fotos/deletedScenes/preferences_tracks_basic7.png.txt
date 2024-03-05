@@ -1,0 +1,30 @@
+‘Audacity Preferences
+Devices
+Playback
+Recording
+Quality
+Interface
+Tra
+‘Import / Export
+Projects
+Libraries
+‘Spectrograms
+Directories
+‘Warnings
+Effects
+
+Update display while playing
+[Clautomatically fit racks vertically zoomed
+
+oa te
+
+Behaviors
+select all audio in project, fone selected
+(Clenable cutlines
+
+Enable dragging ofeft and right selection edges
+Fy Move track focus” cycles repeatedly through tracks
+ting a cp can move other dips
+
+ten
+

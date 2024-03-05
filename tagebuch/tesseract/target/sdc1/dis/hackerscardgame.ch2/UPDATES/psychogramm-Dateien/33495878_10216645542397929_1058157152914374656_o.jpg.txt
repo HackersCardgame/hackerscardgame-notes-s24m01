@@ -1,0 +1,5 @@
+‘TieTacToe mit Mini-Nax Algorithous
+
+Rekursionstiefe: »
+
+Reset

@@ -1,0 +1,27 @@
+o
+
+Eéfordulhat, hogy az automatikus aktivalés nem lehetséges, mert a kiszolgal6
+nem makédik, foglalt vagy a biztonségi bedlitsok meggstolisk a kiszolgsléval
+torténd kommunikéciét. Ebben az esetben hasznalja a négy lépésbél allo
+rmanuélis ativélési eljarést:
+
+1. Kattintson a parbeszédpanel OK gombjéra.
+
+2. Eze letrehoz egy s26vegfélt amelytartalmazza a kédt, a szémitigép egyedi
+azonosttéjat é a termékkédot, Ha aft olyan szémftbgépen hozza lére, ely
+
+nem rendekezkinternetkapesolattal, mésolja aft egy mésik szémit6gépre, &
+kale el onnan.
+
+3. Mésolja az adatokat egy e-mail i
+szolgéltatésunknak a(z) VO
+support<activation studio support@visionobjects.com> cimre, Késitink egy
+
+n visszakiildjak Onnek. A fal egy szémitégépen
+haszndlhat6, ott ahol lérehozta az eredeti kérelmet.
+
+és kuldje az Uzenetet a akti
+
+4, Kattintson kétszer az e-mailhez mellékelt licence.ic éjlra. A rendszer megnyit,
+‘egy kis alkalmazést, amely aktivalja a kézirés-felismeré programot.
+

@@ -1,0 +1,36 @@
+Ed
+Maschine Gerate Hilfe
+
+Neue Doménenstruktur erstellen
+
+Folgenden Doménentyp erstellen:
+
+© Bapare nen neuen Gesarisiuktl
+
+‘Wahlen Sie diese Option, wenn dies de erste Domaine in der Organisation ist, oder
+wenn die neue Domnenstuktur volkommen unabhangig sein sal
+
+™ Untergeordnete Domine in einer bestehenden Doméinenstuktur
+
+‘Wahlen Sie diese Option, wenn die neue Domine als untergeardnete Domine
+ingesetzt werden sol. Sie Konnen z.B. eine neue Domne
+1auptsitzbeispel microsoft.com als untergeorchnete Domaine der Domane
+
+eispiel microsoft.com” eistellen
+
+© Doméinenstiuktur in einer bestehenden Gesamtstuktur
+\Wahlen Sie diese Option, wenn die neue Domaine nicht als untergeordnete
+Domaine eingesetzt werden sol. Dadurch witd eine neue Doménenstukturerstlt,
+die unabhingig von anderen Domanensttukturen besteht
+
+Server 2003 Landev1 [Laufend] - innotek VirtualBox
+
+ae ee
+
+2B || Assistent zum instal
+
+k VirtualBox
+
+Hlergeordnete Doméine
+bmane det Daméne
+

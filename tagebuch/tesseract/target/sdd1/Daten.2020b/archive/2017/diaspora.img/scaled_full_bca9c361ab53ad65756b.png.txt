@@ -1,0 +1,9 @@
+marc.main()
+{
+PadoPfadiheim pp = new PadoPfadiheim();
+EEGreader .addEEGEventTriggger(IF PfadiheimeePfisterer => trigger
+pp);
+cron.daily.add(pp);
+=> aufrechterhalten des Traumas
+Pfadikravat te. addEEGEventTriggger(wenn in Blickfeld => triggerpp);
+=> aufrechterhalten des Traumas

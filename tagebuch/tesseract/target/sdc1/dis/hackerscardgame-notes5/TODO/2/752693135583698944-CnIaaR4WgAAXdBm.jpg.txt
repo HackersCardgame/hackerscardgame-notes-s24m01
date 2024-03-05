@@ -1,0 +1,23 @@
+2 Answers
+
+a
+18
+
+v
+v
+
+active oldest votes
+
+You could modify "/ete/toritorre” or in “path/to/your/torbrowser/Data/Toritorre" to cycle proxies faster
+NaxcircuitDirtiness NUM
+
+Feel free to reuse a circuit that was first used at most NUM seconds ago, but never attach a new
+stream to a circuit that is too old, (Default: 10 minutes)
+
+share improve this answer edited Sep 1014 at9:03 answered Jun 19 Ll at 23:34
+
+= ee hoju
+322 02 11 9,689 #18 684 145
+
+PS -| think the minimum for this is 10 seconds. If you use a lower value, tor will probably default to 10 sec
+anyways. FYI. —Nimo Feb 11 ‘Ld at 7:16

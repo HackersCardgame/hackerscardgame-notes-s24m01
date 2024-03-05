@@ -1,0 +1,154 @@
+By
+
+a
+‘Average Processor Load
+Drive C: Free Space
+Paged Memon Use
+Physical Memony Use
+BING,
+
+ENG.
+Physical Memory Use
+Paged Memon Use
+Drive C: Free Space
+
+‘Average Provessor Load
+
+ENG,
+Physical Memony Use
+Paged Memon Use
+Drive C: Free Space
+
+‘Averane Processor Load
+
+PING
+Physical Memony Use
+Paged Memon Use
+Drive C: Free Space
+‘Average Provessor Load
+
+oe RY
+08-01-2001 22:98:05
+08-01-2001 22:97:04
+8-01-2001 2297312
+PENDING NA
+
+08-04-2001 22:98:05
+
+09-04-2001 2287-04
+8-04-2001 22897:12
+PENDING NA
+
+02-01-2001 22:98:05
+08-01-2001 22897:04
+
+be.04-2001 2297312
+PENDING NA
+
+0e-01-2001 22:86:05
+08-01-2001 2287:04
+oe.04-2001 2287312
+
+PENDING!) wa
+08-04-2001 22:96:06
+09-01-2001 22897:04
+8-04-2001 2207312
+PENDING NA
+
+hy
+(040h am 196
+(00h am 206
+40h am 126
+(04.0 7m 435+
+040h am 496
+
+040h 3m 206
+40h am 426
+(04 0h 7m 435+
+040h 4m 496
+(040n 3m 206
+
+040h am 426
+(040 7m 435+
+40h am 496
+00h 3m 206
+040h 3m 426
+
+040h 7m 435+
+040h am 486
+040h 3m 206
+40h am 126
+(040 7m 435+
+
+48
+18
+48
+08
+48
+
+48
+48
+08
+48
+18
+
+48
+08
+48
+18
+48
+
+08
+48
+18
+18
+oe
+
+an
+
+Lead ole 4-min avg=9.8%, 6-min avg=14.2%, 1S-min avg=14.0%
+
+Disk space ok- 717 MB (23%) of 2906 MB used
+
+Paged memory ok- 221.4 MB (42%) of 5248 MB used
+Service check scheduled for Wed Aug 1:22:97:21 2004
+
+PING ok- Packet lose 20 me
+
+PING ok: Packet lose 20 me
+
+Physical memory ok- 74.8 MB (20%) of 256.4 MB used
+Service check scheduled for Wed Aug 1 22:97:29 2004
+
+Disk space ok- 2358 MB (78%) of 2096 MB used
+
+Load ole ‘-min avg=2.6%, S-min avg=2.0%, 15-min avg=1 6%
+
+PING ok Packet lose
+
+6, RTA
+
+a0 me
+Service check scheduled for Wed Aug 1 22:97:25 2001
+Paged memory ok- 531.4 MB (66%) of 042 MB used
+Disk space ok- 782 MB (26%) of 2906 MB used
+
+Load ole ‘min avg=5.0%, 5:min aver
+
+0%, 45-min aver
+
+Service check scheduled for Wed Aug 1 22:97:27 2004
+Physical memory ok- 360.6 MB (816) of 11.4 MB used
+Paged memory ok- 448.8 MB (60%) of 740.1 MB used
+Disk space ok- 907 MB (30%) of 2006 MB used
+
+Service check scheduled for Wed Aug 1 22:97:20 2001
+
+This shows how service checks have
+been interleaved after three "passes"
+
+FIRST PASS
+
+‘SECOND PASS
+
+THIRD PASS

@@ -1,0 +1,22 @@
+marc@debian: ~/Daten.2017/code/installation-scripts/tools x
+
+File Edit View Search Terminal Help
+#1/bin/bash
+
+foriinl234567890-_abcdefghijklmnopqrstuvwx
+yz
+
+forjinl234567890-_abcdefghijklmnopqrst
+
+forkinl1234567890-_abcdefghijkimnop
+aqrstuvwxyz
+do
+echof$i$j$k.ch
+value=$(dig $i$j$k.ch @192.168.192.1 |grep switch
+echo $value
+
+done
+done
+done
+
+dns-search.sh" 16L, 399C 9,8-29 ALL

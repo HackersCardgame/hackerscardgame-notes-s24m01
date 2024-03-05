@@ -1,0 +1,53 @@
+Local node: 192.168.1.40: Traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle (2h)
+
+10 Mbps.
+SMbps |
+obps
+
+g22 SR SRE ESE SEES SESS ESE B
+
+Incoming traffic on interface Broadcom Corporation NetLink 8CMS7785 Gigabit Ethemet PCle
+BH Outgoing traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+
+Local node: 192.168.1.41: Traffic on interface eth (2h)
+15 Mbps
+10 Mbps
+SMbps
+ey eke SM SHEDS GER E SSH SYS
+gisSRER ESE SESE SE SEES S SES
+
+last ‘min avg ma
+
+\coming traffic on interface ethi fava] 97Mbps 758.08 Kbps 292Mbps 10.65
+
+Hi Outgoingtraffic on interface ethi fava] SMbps © 508.14Kbps 259Mbps 9.96
+
+Local node: 192,168.2.40: Traffic on interface Qualcomm Atheros QCA9SES / AROS6S Wireless Network Adapter (2h)
+10Kbps
+
+ae
+Aan
+Ae
+fan
+
+Incoming traffic on interface Qualcomm Atheros QCA9S6S / ARSSES Wireless Network Adapter
+Outgoing traffic on interface Qualcomm Atheros QCA956S / AR9565 Wireless Network Adapter
+
+06.25
+
+06.04 06:42 I
+
+BW incoming traffic on interface Broadcom Corporation Netxtreme BCMS752 Gigabit Ethernet PC! E|
+Uutgoing traffic on interface Broadcom Corporation NetXtreme 8CMS752 Gigabit Ethernet PCI E|
+
+ICMP loss
+ICMP ping
+ICMP response
+
+ILHTTP service
+ICMP loss
+
+ICMP ping
+
+ICMP respons
+

@@ -1,0 +1,10 @@
+GLOBAL
+
+makeCounter —» <fn makeCounter>
+
+—» <fn count>
+
+counter
+
+count() BODY
+

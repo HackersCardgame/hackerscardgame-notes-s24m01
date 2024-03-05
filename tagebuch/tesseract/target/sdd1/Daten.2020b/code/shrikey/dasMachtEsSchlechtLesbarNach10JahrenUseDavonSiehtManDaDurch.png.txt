@@ -1,0 +1,49 @@
+makerule( $file, $linecnt, $1, $2, $3 ), next if ( $line =~ — m/*rule\s+([*\s=]+)\s*=\s*([*=]+)\s*=\s*(.+)/i )
+makecust( $file, $linecnt, $1, $2, $3 ), next if ( $line =~ m/*custom\s+([*\s=]+)\s*=\s*([*=]+)\s*=(.+)\s#/i )
+makeignore( $file, $linecnt, $1), next if ( $line m/*ignore\s*=\s*(.+)\s*/i
+makeunignore( $file, $linecnt, $1), next if ( $line =~ _m/*unignore\s
+makesectionsunignore( $file, $linecnt, $1), ne=~ m/*sectionsunignore\s
+makecignore( $file, $linecnt, $1 ), next if ( $ine =~ m/*customignore\s*=
+
+)
+
+: )
+s*(.+)\s*/i )
+)
+
+s
+
+siteaffils( $1, $2), next if ( $line = m/*affils\s+([*\s=]+)\s*=\s*(.+)\s*/i )
+
+siteallows( $1, $2), next if ( $line m/*alLows\s+([*\s=]+) \s*=\s*(.+)\s*/i )
+
+sitealias( $1, $2), next if ( $line ~ m/*alias\s+([*\s=]+)\s*=\s*(.+)\s*/i )
+
+sitenewalias( $1, $2), next if ( $line =~ m/*newalias\s+([*\s=]+)\s*=\s*(.+)\s*/i_ )
+
+siteslots( $1, $2, $3, $4, $5), next if ( $line =~ m/*sLots\s+([*\S=]+)\s*=\s* (\d+) \s+(\d+) \s+(\d+) (7:\s4(\d+) )7\S*/i )
+siteprefers( $1, $2), next if ( $line =~ m/*prefer\s+([*\s=]+)\s*=\s*(.+)/i )
+
+sitepreprefers( $1, $2), next if ( $line =~ m/*preprefer\s+([*\s=]+)\s*=\s*(.+)/i )
+
+siterank( $1, $2, $3), next if ( $line = m/*rank\s+([*\S=]+)\s*=\s*([\d. ]+) \s#([\S]+)\s*/i )
+
+sitebanned( $file, $linecnt, $1, $2), next if ( $line =~  m/*banned\s+([*\s=]+)\s*=\s*(.+)\s*/i )
+
+sitesubanned( $file, $linecnt, $1, $2, $3 ), next_if ( $line =~ m/*exempt\s+([*\s=]+)\s*=\s*([*=\s]+)\s*=\s*(.*)\s*$/i );
+siteubanned( $1, $2 ), next if ( $line =~ m/*exenfjt\s+([*\: )\s*=\s*(.+)\s*/i ) 5
+sitefilter( $file, $linecnt, $1, $2, $3 ), next if ( $line m/*filter\s+([*\s=]+)\s*=\s*([*=\s]+)\s*=(.+)\s*/i ) 5
+
+single char sitenames trailing space ..
+siteimdbrating( $file, $linecnt, $1, $2, $3, $4, $5), next if ( $line =~ m/*rating\s+({*\s=]+)\s+=\s*([*=\s]+)\s*=\s*(\d+\.\d) \s+(\d+) \s+(\d+)\s#/i )
+sitetvgenre( $file, $linecnt, $1, $2, $3 ), next if ( $line =~ m/*tvgenre\s+([*\s=]+)\s*=\s*([*=\s]+)\s*=\s*(.*)\s*/i )
+
+globaltvgenre( $file, $linecnt, $1), next if ( $line =~ m/*tvgenre\s*=\s*(.+)\s*$/i )
+
+sitetvstartyear( $file, $linecnt, $1, $2, $3), next if ( $line =~ m/*tvstartyear\s+([*\s=]+)\s*=\s*([*=\s]+)\s*=\s*(\d{4})\s*$/i )
+
+globaltvcountry( $file, $linecnt, $1), next if ( $line =~ m/*tvcountry\s*=\s*(.+)\s*$/i )
+
+sitetvcountry( $file, $linecnt, $1, $2, $3 ), next if ( $line =~ m/*tvcountry\s+([*\s=]+)\s*=\s*([*=\s]+)\s*=\s*(.*)\s*#/i )
+
+# ty status => Current.Ended

@@ -1,0 +1,36 @@
+Wed Jun 30 17:41 a)
+< fra | © uss | i Meiy | Mel) |G writ: | @ CR Writ @ Ame | & Ar Wiel | # Chee | google | @ New | @ XDP | + Port | @ Ame | # Icy8 | A’ Ein! | G pres: | 14Fra hack | Bl My
+
+i)
+O\-Ow LIDOwW P=
+
+x tv x
+
+€ ec @ © | @ https://www.tecchannel.de/a/60-linux-distributionen-im-ueberblick,40
+
+COMPUTERWOCHE fo ]worksHoP
+
+60 Linux-Distributionen im Uberblick
+
+Artikel empfehlen:
+
+NSA SELinux
+
+o iy) (in) @ © Aus den Labors der - des kryptologischen Dienstes der USA - stammt das NSA Security Enhanced
+
+Linux. Die als Prototyp bezeichnete Kombination aus Kernel-Modifikationen und zugehdrigen Utilities
+‘Awww.tecchannel.de/a/60-linu _ implementiert ein striktes Access-Control-System (ACS) auf Basis von Policies, mehrstufigen
+Zugriffsrechten und Benutzerrollen
+
+Drucken: Das ACS beschrankt sowohl die Systemmdienste als auch die Userspace-Programme auf das
+absolut notwendige Rechte-Minimum zur Erfullung ihrer Aufgaben. Dadurch werden typische Risiken
+wie etwa Buffer-Overflow-Attacken in ihren Auswirkungen drastisch reduziert. Einen "root’-Superuser
+
+© gibt es unter SELinux ebenso wenig wie das wenig prazise Hantieren mit setuid und setgid
+
+‘Autor: Die aktuelle Version von NSA SELinux ist als Kernelmodul implementiert, das die vom LSM Kernel
+2.4.21 zur Verfligung gestellten Security Hooks nutzt. Daneben umfasst das System einen Policy-
+21072003Von Jérg Luther Compiler, eine beispielhafte Policy-Konfiguration, eine Reihe modifizierter Daemons sowie zahlreiche
+
+Utilities.
+

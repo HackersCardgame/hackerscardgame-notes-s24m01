@@ -1,0 +1,25 @@
+o
+
+Potrebbe essere impossibileeffettuare automaticamente lativazione, in quanto il
+server potrebbe essere inattivo 0 occupato, oppure le impostazioni di sicurezza
+potrebbero impedire la comunicazione con il server. In tal caso, segui la
+procedura di attivazione manuele, che prevede quattro passaggi:
+
+1. Fai clic su OK in questa finestra di dialogo.
+
+2. Viene creato un file di testo contenente il codice, un identificatore univoco per
+iltuo computer e un codice prodotto, Se questi dati vengono creati su un
+‘computer sprovvisto di connessione a Internet, copia il testo su un altro
+‘computer e invialo da I
+
+3. Copia queste informazioni in un messaggio e-mail e inviale al nostro servizio di
+attivazione, VO support<activation.studio.support@visionobjects.com>.
+‘Creeremo un file di attivazione e te lo reinvieremo vie e-mail. Questo file pud
+‘essere utilizzato unicamente sul computer sul quale é stata creata la richiesta
+originale.
+
+4, Fai doppio clic sul file licence.lic allegato all'e-mail. i apre una piccola
+applicazione che attiva il software di riconoscimento scrttura.
+
+(ok) [Aout
+

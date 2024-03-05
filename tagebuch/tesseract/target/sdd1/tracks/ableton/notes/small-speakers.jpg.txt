@@ -1,0 +1,19 @@
+Small Speakers Mixing Tip
+
+O® EQ@Eight Y
+
+100
+(ES
+P2auureeles O: Lata Lele
+
+Getting your mixes to translate well on small speakers can
+be quite difficult. Try this...
+
+Place an EQ on your master track and filter out everything
+below 500Hz and everything above 5kHz. When you do
+this, you should be able to still hear every instrument. If
+they disappear, your mix won't translate well on smaller
+
+speakers.
+
+PausePlayRepeat.com

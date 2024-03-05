@@ -1,0 +1,47 @@
+W Tub-\ x | W Heimst x | 9 G95)0 x | M Downlo x | @ 21.Sur x | @ Facebo x | BF Base x | @ Frakin x | @ Fruhkin x | @ Facebo x | [] Handy: x | @ GIG x | @ JitsiMe x | @ Wikide: x | G deodin x
+
+f@ malwaretech.com/2013/09/ring3-ring0-rootkit-hook-detection-12.html
+
+93 / Ringo Rootkit Hook Detection 1/2
+
+Ring3 / Ringo Rootkit Hook Detection 1/2
+
+By : MalwareTech Sfietunlelig@-vuptenie) Category : Uncategorized Tags: malware, programming, security, tutorials,
+windows internals
+
+CICIGIGIO’S
+
+Introduction
+
+The cybercrime underworld hasn't given me any exciting malware to reverse and I'm running out of ideas for new
+
+posts, so I'm going to do a2 part article about the techniques used by rootkits to intercept function calls, and how
+to detect them. The first part will explain some hooking methods, the second part will explain how to detect them.
+As | haven't done any kernel mode stuff on this blog. | will be looking at both user mode and kernel mode hooks
+
+on a x86 windows system.
+
+Execution Flow
+
+In order to get a better understanding of the attack surface, I've made a simplified flow chart of a call to the
+WriteFile function in kernel32.dll. This is just an example to highlight key points, | chose the WriteFile function as
+
+it makes for a nice example, and disk I/O is commonly intercepted by malware, however most of the stuff on this
+
+graph will apply to lots of functions.
+
+Rings x = x
+
+MalwareTech
+Stay Connected
+e
+You
+
+Donations
+e
+BECOME A PATRON
+© Donate 4 Donate
+© Donate
+Categories
+e
+

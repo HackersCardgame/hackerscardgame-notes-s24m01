@@ -1,0 +1,83 @@
+Activities [EJ Boxes Dec 31 22:44
+
+ma
+
+Activities @ Thunderbird Dec31 22:44 ©
+
+CTRL Source of: imap://mail%40marclandolt %2Ech@imap.mailhostpoint.ch:143/fetch%3EUID%3E.INBOX%3E192332 - Mozilla Thunderbird
+
+@ File £ iew Go Me Tool File Edit View Help
+@ nbox-mail@marclandolt.ch Fwd Return-Path: <infopjgeybavehostpoint.ch>
+Delivered-To: mailemarclandolt.ch
+GQ @ Bev-Net ° Received: fron mail-1b1.adn.hostpoint.ch ({10.4.2.214])
+infodsnghzdd@hostpoint.ch by popimap018.mail.hostpoint.internal with LMTP
+Q id aGGOMWStJNUAAAAASBAVQA: P1
+Fwd: (envelope- from <infopjgeybavehostpoint.ch>)
+for <mailemarclandolt.ch>; Thu, 28 Dec 2023 13:43:26 +0100
+DEED TIS PER EE PEE ILC) Received: fron mxin014.mail.hostpoint.ch ({10.4.2.214])
+Message ID <be17c2e7400a6811962038489fb04fb3@hostpoint.ch> by mail-1b1.adn.hostpoint.ch with LNTP
+id aGGOMMSt jNUAAAAASBAVQA
+User agent Create Send (envelope-fron <infopjgeybavehostpoint .ch>)
+
+for <mailémarclandolt.ch>; Thu, 28 Dec 2023 13:43:26 +0100
+Received: from nx188 node0t. secure-nailgate.com ({89.22. 108.188]
+Delivered-To mail@marclandott.ch by mxine14.nail.hostpoint ch with esmtps (TLS1.3) tls TLS_AES_256_GCH_SWA3e4
+
+(Exim 4.96.2 (FreeBSD) )
+id 1rTpjH-000055-03;
+Thu, 28 Dec 2023 13:43:15 +0100
+Received: fron web312.dogado.net ({5.44.111.1571)
+: by node@1.secure-mailgate.com with esmtps (TLSv1.2:AES128-GCM-SHA256: 128)
+Blockage temporaire (Exim 4.92)
+(envelope-fron <infopjgeybavehostpoint .ch>)
+id 111pj0-0031H0-Gu; Thu, 28 Dec 2023 13:43:12 +0100
+X-SecureMailgate-Identity: 10239;web312.dogado.net
+
+Return-Path <infopjgeybav@hostpoint.ch>
+
+Chére cliente, cher client, Received: by web312.dogado.net (Postfix, from userid 10239)
+id 20A59280F09; Thu, 28 Dec 2023 13:42:09 +0100 (CET)
+Nous vous informons que notre systéme nous indique que vous r‘avez pas encore activé Date: Thu, 28 Dec 2023 13:42:08 +0100
+Fron: =7u5-ascii7Q?8cv-Net?= <infodsnghzddehos tpoint .ch>
+
+votre numéro de téléphone principal afin que vous puissiez gérer facilement votre compte
+Subject: =?us-ascii2Q?Fud
+
+BCV-Net: Message-ID: <be17c2e7400a681f962038489fb04fb3ehostpoint .ch>
+X-Mailer: Create Send
+Confirmez mon numéro de téléphone en cliquant ici => MIME-Version: 1.0
+Content-Type: text/html; charset-us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-PPP-Message-ID: <170376732908. 729146. 10239457492834378862@web312.dogado.net>
+confiance. X-PPP-Vhost: h607935.web312. dogado. net
+X-Originating-IP: 5.44.111.157
+X-SecureMailgate-Domain: web312,dogado.net
+X-SecureMailgate-Usernane: 5.44,111.157
+Authentication-Results: secure-mailgate.con; aut!
+
+Nous tenons & vous souhaiter la bienvenue & BCV-Net et nous vous remercions de votre
+
+Remarque : Utiisez la fonction correspondante dans le portal en ligne BCV-Net.
+
+ass smtp. aut
+
+44. 111.157@web312. dogado.net
+
+Sineérement. X-Securelailgate-Outgoing-Class: ham
+Meilleures salutations, X-SecureMailgate-Outgoing-Evidence: Combined (0.23)
+BCVSA X-Recommended-Action: accept
+
+X-Filter-ID: Pt3MvcOSN4ikaDQS061kdG1MVNERHBD j RMzItySaT/ Ywfz06rgsws¥G1 /xaGj eMPUtbdvnXkgg?
+3ynVId/Y53cfayevQavF jHzn07-bTSyVUKqGviiol 12q5652hv304rt74xni aPbLFTHSIBRRtOJX*
+SyXvTWSeuSptTO1CtCrOTqs94Wudt jj 7GywOPLyZEb/ 30279 jBTUGVV91CoQzTxgDhRJOtRAGdG
+ieo26h4grWjzLhfdya3Tvos4x64qhqS0qL eVCD04zzes JTrznppiifPEBBAOdQMpyRhQeCE /GGa9
+HlocrI tx2mvX;jxwe jf2h7 ve+1DW012i 2n50SD9XOKnv fbTskq52q3pE 4hivwh JsTGOBN+La0j srNQ
+GuCCAOO:Mx9SuvOQH7OAU jLaizmmRS1pSGZsH1eHOxUY+z8A00 jm INBuznagSobUhvskIH@dVsjs
+AKUzg5pnQBy7/CnB/T4G7eK /iqVFV5VuPHBGFNVDm107TP /hpedéssLHmN9TeSUJQnZ@nb740XS
+‘aC3 4V6unY7a3hhvxqUrMthabagapBeKDDzVqxB3e59Qry2Ey8 /gr3L kki6 /ShcTTA2K6+hM/+Rj
+65AVmeSNOtnf tPo+ /kx3qRE1IpH/ /GBcViUKVnf vmbbENNAOXpFO7SOw3gecOlviAITAGtCSUC3U
+be6ytfsTNq/afQ/ thl8xnxQoRKPuvmxurg4uAuUcHuxPWJCT8W4rSBRe3u/i0S9dsc8s/tiCV76
+UngBSaAFYRKKEPSToLOCpLGpzNzF jSAj3extwHQhoE96apNKSe89p@LAS9A/DNKFKxa446w6Tvwb
+oC \VBOhsC6UIFRSGCkSf1i j /TNFROa0d6uTvBdK TotnwEHz9 j j8ooAq6G/vJyQunDki8cMartrad46d
+xe/32FDGii05wFkSNevUOINDrIqig0z0rY /je¥ /0S1Sp6f*FenS6GAWVU3Pw9HZKQYOTiqgskHCG6
+oy qcFoTrUng8Hoa/R/ LutkoPj tkQK2PU7SRY3fxMh30n6J jurNHA I kw5@m/Nj j2dcevGr+PX7FC+gZ

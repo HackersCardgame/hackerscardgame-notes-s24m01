@@ -1,0 +1,27 @@
+€ > © O tilesttomelmarcldsihomelmre/Oatn.2017Kcodelsadohs index mt
+
+Sudoku Solver mit ??? Algorithmus
+
+solve unambiguously (n=1)
+solve ambiguously (n=2)
+auto solve backtracking when no result (n=2)
+
+revert to guess checkpoint
+
+eT ee eT en
+
+Sudoku 9x9
+
+‘Sudoku Ratsel 14
+‘Schwierigkeitsgrad: schwer
+
+NIBRI|NIO!}D|O}=/n}w
+CO/D)WlA]|a| RIN |O|h
+O/H!) AIN|o}|NI#R/Q@\o
+N] >| O]O|@)/wlom|nm |
+BILWOLNIN|M|Dlw)/-|o
+D)W/MLO/HR/AlaIN|H
+A/O|/@lWIN|OaIny| ID
+WIN ODIR)/O}/M]o/a;=
+AIM) RID! >|} afo!;w\in
+

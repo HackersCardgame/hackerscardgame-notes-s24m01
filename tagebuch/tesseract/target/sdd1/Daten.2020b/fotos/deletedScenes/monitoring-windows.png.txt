@@ -1,0 +1,8 @@
+‘Windows Machine
+
+Monitoring Server
+
+Nagios
+
+h_nt >| Nsclionte+
+

@@ -1,0 +1,10 @@
+gui about
+
+& MP3(n tlename: String)
+
+© close
+
+© play.
+
+@ playStreamdin is: InputStream)
+

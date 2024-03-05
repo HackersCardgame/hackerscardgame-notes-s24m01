@@ -1,0 +1,65 @@
+Re oh
+a
+ee
+
+WixirepiA
+
+The Fee Eyed
+
+a page
+Random aicle
+
+Recent changes
+Uplate
+
+Special pages
+
+Langues
+
+Deaseh
+spate
+Francis
+ahaa indonesia
+
+Cry siipesners Cwm «Ow sWOSOW =
+
+Rt iogpdin Tak Conttutons Cree accent Login
+
+anwle | Tak Read Eat Viewnistory_ [Search Wipe! a
+
+Minimax
+From wipe, the tee encyclopedia
+
+‘This atte s about the decison theory concept For oer uses, ee Minimax (disambiguation).
+
+‘Minimax (sometimes MinMax, MM"or saddle point) isa decision rule used in artificial inteligence, decision theory, game theory, statistics, and philosophy for mining the possible loss fora worst case (maximum loss) scenario, When
+<ealing with gains, ts referred oa "maximin"—to maximize the minimum gain. Orginal formulate fr two-player zero-sum game theory, covering both he cases where players take aternate moves and those where they make simultaneous
+‘moves, ithas also been extended to more complex games and to general decision-making in the presence of uncedainly,
+
+‘Contents nice)
+1 Game theory
+1.1 Ingenera games
+1.2 inzerosum games
+13 Example
+14 Maximin
+15 Inrepeated games
+2 Combinatorial game theory
+21 Minimax algorhm vith aerate moves
+22 Psewdocede
+23 Example
+2 Minimax for indal decisions
+234 Minimax in the face of uncetany
+32 Minimax ereron i statistical decision theory
+33 Non-probabistic decision theory
+4 Maser in posophy
+5 See aso
+6 Notes
+7 Extemal inks
+
+Game theory est)
+
+In general games ex)
+
+“The maximin value isthe highest value thatthe player can be sure to get without knowing the actions ofthe other payers; equivalently tis the lowest vale the other payers can force the payer to receive when they know the player's action, is
+formal defntion i
+

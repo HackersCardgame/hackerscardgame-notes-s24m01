@@ -1,0 +1,19 @@
+Chains: ‘Chain (Double-Click or press SPACE to edit)
+chan rom |p Comme ramen
+Cleese Seer ere
+
+03 seveonaner
+04 NoiseRemoval
+
+05. Truncatesilence 000000,
+06 Leveler
+
+07 Normalize  ApplyGain=yes RemoveDcOffset=yes Level=0.000000
+
+08 Exportttp3
+
+09 END -
+
+p= weet) (oat) (Groveue) (Moveponn) (Goefauts]
+(oc) (cance)
+

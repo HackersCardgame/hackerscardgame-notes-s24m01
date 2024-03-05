@@ -1,0 +1,32 @@
+eee a — a Lee
+% Registrant and onsite contact information can be obtained through use of the
+*°, webbased whois service available from the EURid website www.eurid.eu
+
+%
+
+° WHOIS diasp.eu
+
+Domain: diasp.eu
+
+Registrant:
+NOT DISCLOSED!
+Visit ww.eurid.eu for webbased whois.
+
+Technical:
+Name: Hostmaster Vautron Rechenzentrum AG
+Organisation: Vautron Rechenzentrum AG
+Language: de
+Phone: +49.9415990304
+Fax: +49.94159909307
+Email: hostmaster@vautron.de
+
+Registrar:
+Name: Vautron Rechenzentrum AG
+Website: www.vautron.de
+
+Name servers:
+robotns2.second-ns.de
+ns1.first-ns.de
+robotns3 .second-ns.com
+
+Please visit ww.eurid.eu for more info.

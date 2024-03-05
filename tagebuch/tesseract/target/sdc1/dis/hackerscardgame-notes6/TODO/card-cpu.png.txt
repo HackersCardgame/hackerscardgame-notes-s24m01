@@ -1,0 +1,33 @@
+Activities © FirefoxESR ~
+
+Wed Jun2 16:15
+Nato
+
+hackad.
+
+HOME BLOG HACKADAY.IO TINDIE HACKADAY PRIZE SUBMIT ABOUT June 2, 2021
+
+A DIS-INTEGRATED 6502
+
+by: Brian Benchoff
+fYYCu
+
+>=, =
+
+® 57 Comments
+
+May 16, 2016
+
+if
+
+The 6502 is the classic CPU. This chip is found in the original Apple, Apple Il, PET, Commodore 64, BBC SEARCH
+Micro, Atari 2600, and 800, the original Nintendo Entertainment System, Tamagotchis, and Bender Bending
+
+Rodriguez. This was the chip that started the microcomputer revolution, and holds a special place in the
+
+of polysilicon and metal found in VLSI textbooks and numerous simulators available online.
+
+By using our website and services, you expressly agree to the placement of our performance, functionality and advertising cookies.
+
+Leam more
+https://www.hackaday.com.

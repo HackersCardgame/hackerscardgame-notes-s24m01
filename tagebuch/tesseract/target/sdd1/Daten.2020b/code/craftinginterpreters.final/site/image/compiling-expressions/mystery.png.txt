@@ -1,0 +1,8 @@
+advance() ----"" “ss.2- emitByte()
+
+errorAtCurrent() -s. “"""s emitBytes()
+
+error() oN i aot emitReturn()
+
+consume() ~---777 "> “"*s~~ endCompiler()
+

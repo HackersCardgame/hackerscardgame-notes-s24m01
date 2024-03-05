@@ -1,0 +1,11 @@
+Inventor: Year:
+‘The inventor ofthe programming language Smalitalk
+was the first who used objects in software
+evelopment. It was maybe the first Programming
+Language that used “Object-Oriented
+rogramming". Uke Gutenberg could print
+complete books with letters templates one can
+Create biger things out of such objects. A Class is
+Can be single part of a complete software product.
+Eg. In an. addressbook Class you would have
+

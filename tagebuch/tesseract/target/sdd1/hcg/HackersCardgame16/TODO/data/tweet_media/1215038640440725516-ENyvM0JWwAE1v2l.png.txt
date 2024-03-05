@@ -1,0 +1,44 @@
+See https://www.nic.ch/terms/aup/
+
+Domain name:
+ibarry.ch
+
+Holder of domain name:
+
+Swiss Internet Security Alliance
+SISA Vorstand
+
+c/o SWITCH
+
+Werdstrasse 2
+
+CH-8004 Ziirich
+
+Switzerland
+
+Technical contact:
+Hostpoint AG
+
+Dario Baumgartner
+
+Neue Jonastrasse 60
+CH-8640 Rapperswil-Jona
+Switzerland
+
+Registrar:
+Hostpoint AG
+
+First registration date:
+2019-03-20
+
+DNSSEC:Y
+
+Name servers:
+
+jay.ns.cloudflare.com
+
+mira.ns.cloudflare.com
+marc@gfynsa:~/Daten.2020/tagebuch/2020/januar$ §f
+
+marc@gfynsa:~/Daten.2020/tagebuch/2020/januar$ whois ibarry.ch
+This information is subject to an Acceptable Use Policy.

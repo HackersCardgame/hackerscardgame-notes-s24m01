@@ -1,0 +1,7 @@
+US-unkonditionierter Stimulus (Rei
+UR-unkonditionierte Reoktion
+NS.Neutraler Stimulus (Reiz)
+OR-Orientierungsreaktion
+CS-konditionierter Stimulus (Reiz)
+CR-konditionierte Reaktion
+

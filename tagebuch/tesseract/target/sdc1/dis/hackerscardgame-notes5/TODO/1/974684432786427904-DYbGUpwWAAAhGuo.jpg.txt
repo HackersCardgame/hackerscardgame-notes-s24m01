@@ -1,0 +1,11 @@
+i tet papa: tog agaateciges I ipa: AE nd
+/Daten.2017/code/lox$ javac com/craftinginterpreters/lox/Lox. java
+/Daten.2017/code/lox$ java com.craftinginterpreters. lox. Lox
+
+> 14243"4
+14
+(+ (* 1.0 2.0) (* 3.0 4.0)
+>0
+
+(!= 1.0 1.0)
+

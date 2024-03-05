@@ -1,0 +1,8 @@
+Unix is sexy
+
+who | grep -i blonde | date
+cd ~; unzip; touch; strip; finger
+
+mount; gasp; yes; uptime; umount
+sleep
+

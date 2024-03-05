@@ -1,0 +1,7 @@
+Les nombres minimum et maximum sont modifiables directement.
+Aprés verification, les réponses sur fond vert sont correctes.
+
+lle grile mini 1 maxi 9 gril jen corrigées
+
+Valider
+

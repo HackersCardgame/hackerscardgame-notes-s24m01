@@ -1,0 +1,23 @@
+LOADATAR
+
+ge The Monthfy Software Collection WS
+for the Commodore 64/128" enthusiast $9.95
+
+(Canada $13.95)
+
+Ready to run prog!
+on disk:
+
+CodeQuest ’87
+Winners!
+
+qs \\
+POWER BUDGET x ; i
+
+by Jeff Jones Xx &
+Quo .
+
+DOWN, DOWN, DOWN
+
+by Johnny Harris ae
+

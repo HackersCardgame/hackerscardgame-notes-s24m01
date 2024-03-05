@@ -1,0 +1,40 @@
+earch Terminal
+
+jamerican-english ngerman’ words
+cracklib-small —README.select-wordlist words.pre-dictionaries-common
+@debian: /usr/share/dict$ cat * | grep busines
+
+agribusinesses
+business
+pusiness's
+businesses
+pusinesslike
+businessman
+pusinessman' s
+businessmen
+businesswoman
+businesswoman’ s
+pusinesswomen
+agribusiness
+business
+pusinesses
+businesslike
+businessman
+businessmen
+pusiness's
+Business
+Businesslogik
+Kurierbusiness
+Showbusiness
+agribusiness
+
+agribusinesses
+business
+pusiness's
+pusinesses
+businesslike
+businessman
+businessman's
+businessmen
+businesswoman
+

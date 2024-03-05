@@ -1,0 +1,13 @@
+Local node: 192.168.1.41: Traffic on interface eth1 (1h) Lacal rode: 192 168.40, lfc on terface Broadcom Comperation Netlink BCMS778S Gigabit Ethemet Pcl (2h)
+
+1s Mops 10 Mbos
+nbs
+0 Mbps ans
+Mbps pieee
+Mbps
+bps Ee Obes
+
+last min ag
+incoming ratfic on interface thi avg] 88 Mbps 267Mbps _7.1 Mbps 12.98 Mb Ml Incoming traffic on interface Broadcom Corporation NetLink BCMS778S Gigabit Ethemet PCIe
+Outgoing traffic on interface eth avg] 9.1 Mbps _288Mbps © 7.03Mbps 10.8 ‘Ml Cutgoing traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCIe
+

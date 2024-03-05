@@ -1,0 +1,49 @@
+marc@debian:~/temp$ sudo apt-get install git
+Reading package lists... Done
+
+Building dependency tree
+
+Reading state information... Done
+
+git is already the newest version
+
+@ upgraded, 0 newly installed, @ to remove and @ not upgraded
+marc@debian:~/temp$ git clone https: //github.com/braindef/Shrink-Disorder-Game
+Cloning into 'Shrink-Disorder-Game'...
+
+remote: Counting objects: 1314, done
+
+remote: Compressing objects: 100% (77/77), done.
+
+remote: Total 1314 (delta 33), reused 0 (delta 0), pack-reused 1237
+
+Receiving objects: 100% (1314/1314), 217.47 MiB | 5.24 MiB/s, done.
+
+Resolving deltas: 100% (677/677), done.
+
+Checking connectivity... done
+
+marc@debian:~/temp$ cd Shrink-Disorder-Game/
+marc@debian:~/temp/Shrink-Disorder-Game$ cd fonts/
+marc@debian:~/temp/Shrink-Disorder-Game/fonts$ ls
+
+Bauernschrift. ttf DS-DIGI. TTF FrakturaFonteria. ttf Ruj isHandwritingFont.sfd symbola.pdf
+
+Denise Handwriting. ttf DS-DIGIT. TTF handwriting-draft_free-version. ttf Ruj isHandwritingFont. ttf symbola. ttf
+denise_handwriting.zip ds_diploma.zip handwriting draft.zip ruji-s-handwriting-font.zip Symbola. txt
+
+DIGITAL. TXT Ehmcke-Fraktur Initialen. ttf install.sh Salterio Three. ttf symbola.zip
+
+diplb. ttf English Gothic, 17th c..TTF Intellecta Design Free Fonts License.txt SINNER .TTF VIKS Good Vibrations. ttf
+DS-DIGIB. TTF FETTEFRA. TTF Primitive. ttf sinner.zip zipped
+
+DS-DIGII. TTF fontawesome-webfont. ttf Ruj isHandwritingFont.otf Symbola. docx
+
+ds_digital.zip Fonts-lab_free-font_licence.pdf RujisHandwritingFont-sample. jpg. jpg Ssymbola_hint. ttf
+
+marc@debian
+marc@debian
+
+/temp/Shrink-Disorder-Game/fonts$ ./install.sh *C
+./temp/Shrink-Disorder-Game/fonts$ ./install.sh fj
+

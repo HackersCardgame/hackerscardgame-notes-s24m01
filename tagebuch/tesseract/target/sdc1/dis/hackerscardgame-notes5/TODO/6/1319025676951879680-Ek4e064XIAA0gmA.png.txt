@@ -1,0 +1,67 @@
+Q wir Googie suchen ode Are
+
+P Zur Suche Texter eingeden
+
+as obige formate System kann au urterschiediche Weise inierpretiet werden im folgenden handet es sch um das Aussagenkakl wenn
+‘wi de Variable als Aussagen Propostonen) aufassen. Der Begif Aussace ist cit lech Zu defmeren und Gegenstand Konoverser
+‘Ausenandersetzungen n der Phiosophe. Es mage flgende Arbetsdefnton geen
+
+Definition 3.2, Aussage
+
+Eine Aussace ist das, was duch einen Aussagesatz ausgedrickt wid, wenn wr dan eine Feststelung ber einen Sacha
+twtlen
+
+Ein Ausdruck bezeichnt eine AUssAO® nu dann, wenn eras wads oder FaLscH interpret werden kann. Der Satz London ist de
+“aupistat von Uganda 28. érckt ene Aussage aus, de fasch st. Zwei oder mehree Aussagen Konnen durch Ausdrucke, ee
+‘bedeutangsmatig eta den Worle uct, und, “der, wenn. dann ensprechen zu komplexen Aussagen (Aussagenverbndungen)
+‘verknupt werden Diese Ausdrucke heen Loaiscne KoustaNte, FUWCTOREN, JUNKTOREN oder OpeRaTonen. Wr Koonen aispelsweise
+‘ie obge Aussage und de durch den Satz London it de Havpstedt des Verenften Kongreichs zur Aussagenverbindung London is de
+“Hauptstat von Ugando oder London ist de Houpstat des Verengten Kongretchs veroupien
+‘Aigemen git, wen pund q zwei Aussagen sind, dann ist de Vrknoptung pv qebenfals eine Aussage, wobel das Zechen vce logische
+Konstarte ‘oder symbobsie,
+Inder Atagssprache werden Aussagen durch Satz ausgedrck. Ein und dieselbe Aussage kann dabei durch versciedene Satze
+‘usgedrucki werden. So geben 28. de felgenden Satze de glache Aussage weer
+(85). (@)Sterben ist mense
+
+(©) Jeder Mensch mu sterben
+
+{e)Derllensch st stertich
+Infoser Redeweise nennt man Satz Aussagen, wenn sie Aussagen ausdrocken,
+Bessie von Aussagen sind
+(28). 2) Munchen bet am Rin
+
+(0) 3istene Prmzah!
+
+(6) Die Schiange ist en Voge!
+
+{)Die it ist ecttr als Wasser
+Keine Aussagen sind
+(87). (Em Objeltist server
+
+[Rott besser als ge
+
+{e) Scher dich zum Tete
+Das Aussagenkakl ist eine mogiche konrete terpetation des oigen formal Systems, wobei die VarablenAussagen und die Forme
+‘Aassagenverondungenrepraseneren Ore Were stenen de Wohvhedsertewahy = 1 und fash = 0. Dieabigen semanbschen Regen
+‘efriren die vatoertsrUNKTIONALEN Eigenschaften der logischen Kenstaten
+
+Negation: -P____Esistricht der Fall da, wobei~Pfalsch st wenn P wat ist, und wal, wenn Pfalsch st
+Konpniton: PQ Sowehi Pals auch Q, webei PA Q wat ist gd sowett Pals auch Q wate sin, anderfals ist es flsch
+Dishnkton: Pv. Enweder Poder Q, oder Beides, wobei Pv Qfalsch st qd sowohl Pals auch @falsch ist, anderfas ites wah.
+Impikaton: P= @ Wenn P dann 0, wobelP = O'alsch st gdw Pwahr ist und Ofalsch;anderfals ist es wat.
+
+13.5. Aussagenverbindungen
+
+-AussaaenveRsinouNcen sind Verknopfungen von Aussagen Zu komplexen Aussagen. Verknoptungen von Aussagen sng
+‘Aussagenverondungen nr dann, wenn se enen Walvhetswert haben, ch entweder vain ode asc sind. Demnach snd Aussagen-
+Vverbndingen sebst Aussagen
+
+Die Verknopung ero rch aussageniogische Funcronen, denenin der Altagssprache de Wertr und, oder wenn. dann entprechen,
+Dabeiist jedoch 2u berucksichigen, da de allagssprachichen Werte cht endeuty sind, So at oder mndestens zwei Bedevungen
+(a)entweder.. oer, ader bees (niduses oder)
+
+(D)entweder oder, aber ict bees exlusves oder)
+
+Die spracichen Mate ener Wissenschaftsprache mussen jedoch prazise sen. Se mdssen daher genau defnet werden. Dab entspricht
+‘de aussagenlgische Bedeutung nicht mer de altagssprachichen. Das ist besonders deutch bet der sogenanften MPLKATION (St).
+

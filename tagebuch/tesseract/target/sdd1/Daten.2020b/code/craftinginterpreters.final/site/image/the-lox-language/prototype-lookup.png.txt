@@ -1,0 +1,17 @@
+breakfast OBJECT |
+© serve()
+
+DELEGATES YO
+
+| porkProduct
+© meat = "ham"
+
+OBJECT |
+
+DELEGATES TO
+
+Classy Brunch
+
+© bread = "English muffin”
+© drink()
+

@@ -1,0 +1,4 @@
+“mit Mini-Max Algorithnus / Alpha-Beta Algor’
+Rekursionstiefe: »
+
+importFromURLO

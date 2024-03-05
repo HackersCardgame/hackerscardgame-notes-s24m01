@@ -1,0 +1,66 @@
+ED Quelitect von: imap://mail%40marclandolt%2Ech@imap.mail.hostpoint.ch:143/fetch%3EUID %3E.INBOX%3E147527 - Mozilla Thunderbird -
+Datei Bearbeiten Ansicht Hilfe
+
+Return-Path: <elisabeth. bauhofer@ag.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-1b1.adm.hostpoint.ch ([10.0.@.105]
+by popimape18.mail.hostpoint.ch with LMTP
+id @kngE2u/SGDsHWAA7IESTA
+(envelope-from <elisabeth. bauhofer@ag.ch>)
+for <mail@marclandolt.ch>; Wed, 1@ Mar 2621 13:45:31 +010
+Received: from mxin@18.mail.hostpoint.ch ([10.4.2.218]
+by mail-1b1.adm.hostpoint.ch with LMTP
+id eKHSE2u/SGASEWAASBAVOA
+(envelope-from <elisabeth. bauhofer@ag.ch>)
+for <mail@marclandolt.ch>; Wed, 1@ Mar 2621 13:45:31 +010
+Received: from xmgw@6.ag.ch ([193.47.120.63]
+by mxin@18.mail.hostpoint.ch with esmtps (TLSv1.2:€CDHE-RSA-AES256-GCM-SHA384: 256)
+(Exim 4.92.3 (FreeBSD))
+(envelope-from <elisabeth. bauhofer@ag.ch>)
+id 113yDT-0003jg-8e
+for mail@marclandolt.ch; Wed, 10 Mar 2021 13:45:31 +0100
+IronPort-SDR: Y6XY722¥dqA1RTrQb+NU1SBU3ItV2cY FP] 3mXHMVTOF&+wePSea8mhr+LnySRRy24Fi3+7VxU
+
+5.81, 237, 1610406000
+de"scan"208,217";a="98742293"
+Received: from unknown (HELO xmgu51.ag.ch) ([193.47.120.51]
+by xmgw@6.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 1@ Mar 2621 1:
+Received: from xmgw@6.ag.ch (xmgw@6.ag.ch [193.47.120.63]
+(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+(No client certificate requested)
+by xmguS1.ag.ch (Postfix) with ESMTPS
+for <mail@marclandolt.ch>; Wed, 1 Mar 2021 13:45:3@ +610 (CET)
+IronPort-SOR: M42rMsr4/DxxhDXxRughtk IPTZgJkOwB/SrIngx@0G16ZTkunF yeGl 4ui Qi qcNGe@aNnQKPVS1M
+wSaHCqUTputy
+X-IronPort-AV: E=Sophos;i="5.81,237, 1610406000
+'scan"2@8,217";a="98742290"
+Received: from unknown (HELO smtp.ktag.ch) ([10.116.181.144]
+by xmgw@6.ag.ch with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA2S6; 1@ Mar 2621 13
+Received: from spwex®0033.ADS.KTAG.CH (10.116.181.140) by
+SPWEX@@025.ADS.KTAG.CH (10.116.181.144) with Microsoft SMTP Server
+(version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128 GCM_SHA256) id
+15.1.2176.2; Wed, 1@ Mar 2021 13:45:30 +0100
+Received: from spwex®0@33.ADS.KTAG.CH ([Fe80: :d1@2:e6c6:c627:d6F4]) by
+spwex@@033.ADS.KTAG.CH ([e8@: :d102:e6c6:c627:d6f4%5]) with mapi id
+15.01.2176.009; Wed, 1@ Mar 2021 13:45:30 +010
+Bauhofer Elisabeth GKAOG" <Elisabeth.Bauhofer@ag.ch>
+‘Marc jr. Landolt” <mail@marclandolt.ch>
+Subjec 50-8859-12Q?Read:_Re:_je_mehr_alles_zur_Z=FCrich_Verischerung_zur=FCck?=
+=?1s0-8859-129?_verfolgt_werden_kann_desto_mehr_Terror_macht_diese_Firma
+Thread-Topic: =?iso-8859-1?Q?je_mehr_alles_zur_Z=FCrich_Verischerung_zur=FCck_verfolgt_;
+2450-8859-1?Q?werden_kann_desto_mehr_Terror_macht_diese_Firma’
+Thread-Index: AQHXFG+ZqfZBXZAKZkWukSSaDF/+C6pérlicAgAADI gCAANNy jTABixPZ
+Date: Wed, 1@ Mar 2021 12:45:30 +0000
+Message-ID: <192bFfc23e344b3c899cF2bFeoF7eFda@ag.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-CH
+X-NS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report
+boundary="_@8@_192bfFc23e344b3c899cfabFest70Fdaagch_’
+report -type=disposition-notification
+
+:3@ +0100
+
+:3@ +0100
+

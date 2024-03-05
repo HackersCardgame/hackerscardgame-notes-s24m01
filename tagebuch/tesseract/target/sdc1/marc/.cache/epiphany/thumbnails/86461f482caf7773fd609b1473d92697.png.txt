@@ -1,0 +1,81 @@
+[(Oucareneeneer ren
+
+‘Search
+
+debian 7 debian on eave
+
+Debian on CDs/DVDs
+
+it youwatto aban Deblan on COD or USB sc, ee below forthe vale options, benane®
+In case of problems, please check the FAQ about Debian CDs/DVDs. [Network Install
+Srovenn
+mes
+pany eet ae et crete ge pe a
+
+Dowzad va HTTP
+syne Mors
+very
+
+‘conser the Neto nal media which sale dounload
+
+1G outsanmse aces atcoooinse cone ustonais te
+
++ Download CD/DVD images using HTTP. Many mirrors supply direct HTTP download links
+you can download with your browser or command line tool
+
++ Buy finished Debian media, They are cheap - we do not make any profit with thern! If
+your Internet connection is charged by the minute, this is your only choice. You might
+‘also consider buying media if you only have a slow internet connection, as
+downloading all the images might take a very long time.
+
++ Download CD/DVD images with igdo. The "igdo” scheme allows you to pick the fastest
+ut of 300 Debian mirrors worldwide for your download. It features easy mirror
+selection and “upgrading” of older images to the latest release. Also, Its the only way
+to download Debian DVD images for all architectures.
+
++ Download CD/DVD images with BitTorrent. The Bittorrent peer to peer system lets
+‘many users cooperatively download images at the same time, with minimal load on
+‘ur servers. DVD images are only available for some architectures.
+
++ Download live images using HTTP. FTP or BitTorrent, Also offered as a new alternative
+to the standard images are live images which you can use to try Debian first and then
+install the contents of the image.
+
+‘Official CD/DVD releases are signed so that you can very they are authentic
+
+Debian is available for different computer architectures - make sure you are getting
+images that match your computer! (Most people will need images for “amd64”, Le. 64-bit
+PC-compatibie systems.) Once you have created your own discs, you might be interested
+
+in the artwork for covers of Debian discs.
+
+Latest offical release of the "stable" CD/DVD images: 12.2.0.
+\Soapshts ofthe testing” dtibuton ae created week.)
+
+Information about known installation issues can be found on the installation information
+page.
+
+ebionco.ct fon oekjosal buy jogo biinta misc
+
+‘This page is ao avinbein the flowing languages
+
+Home
+about Stting Debian ows Support sitemap
+‘socicontact twat instal ect ews Debian Intemational Search
+
+ai of Conduct ‘SOUSBISO images sits Secutlvinfrmaten The Debian Blog
+‘se Sotuae ‘SDendors ‘Documentation Bugrenons ‘Debian Micronews
+nats esta ease io Debian Planet
+Denatons Pure Slonds lestalaton ing itch
+
+Leoainia ‘Debian Packages Debian Boks unsivchtectures
+
+Data evacy Developers! Corner Osha vi
+
+‘contacts
+
+Help Debian
+
+Copyright © 1997-2023 5B and others: See censsterms
+Debian a vegistred vadenatk of Setwarein the Publ Interest. ne
+

@@ -1,0 +1,78 @@
+@stype | LThistsHe | Homes? | # understa: | EA Nevenbu | MM Fotterkar | mm StoppKin | © Deploy: | @G)Faced | Marc{LA | IM SwissFo | w Tonkin-2 | 4 TODO\e\ | «9 1933)Ds | Podium:Hac | G tunneldio | w Kapa x | x
+
+<> ¢@
+
+WIKIPEDIA
+Direc Bayle
+
+Houptsote
+2uftge tel
+
+Srigen
+‘atrenpetal
+vite
+
+Unk uf dee Sete
+
+edeungeg 29
+
+Spevabten
+‘Wana Ostenbjot
+
+tnanden
+ox
+
+Fransis
+
+spate
+
+alone
+
+asm
+
+Petuguts
+
+© @ hips: wkpeda.cxg oof Emoeona =
+
+‘ncn angele Oshssonsste Btrge Brtzeont este anmelen
+Arka isusion Lesen | Senin | quate benteten | vesionspscicite a
+Kapazitatsdiode
+
+le Kapazitatediode oder Varicap, auch Varaktor oder Abstimmdiode genannt, tein elektronisches Halbleite-Bautel, Durch Anderung der angelegten Spannung Sse zich eine Variation der Kapazitt von 20:1 erreichen. Somit
+stent eine elekrsch teuerbare Kapasitt ur Verfigung, die die finer Gblchen, erheblich grSBeren Orehkondensatoren weltgehend ersetzt hat.
+
+Inhalteverzeichnis (erbe:ce0)
+1 Funktion peed cathode
+2 Anwendung
+
+21 Abstimmung von LC-Schwingkreisen
+
+23 uteatur
+4 Weblinks
+
+Sehazeichen ake Norm) ©
+
+Funktion (nearbeiten | etext bearbeiten}
+
+Der p:n-bergang einer Diode hat eine Kapazitat dle von der Brete der Raummladungszone abhangig ist. Wid eine Diode in Sperrtchtung betrieben, so entsteht am p-m-Ubergang eine Ladungstragerverarmungszone, an der sich auch eln
+elekviches Fel, bedingt durch die fehlenden Ladungstrager, aufbaut. Mit steigender Spannung vergr&er sich die Breite der ladungsteien Zone, damit nimme die Kapazitst ab. Durch geeignete Dotierung Kénnen Kapazitaten im
+‘Bereich von 3 pF bis 300 pF erreicht werden, Die maximale Sperespannung betragtetwa 30 V.
+
+Anwendung {eeasbsten | Quetext bearbeiten
+Die Kapazttsdiode wird zur Abstimmung von Schwingkreisen in Fitern und Oszilatorschaltungen, zum Beispel anstelle von Drehkondensatoren oder veranderbaren Induktivitaten (Variometer) Zur
+Frequenzwahl in Funkempfangern (2.8. Radios, Fernsehempfanger eingesett
+
+Zusitalch an Lc-Schwingkreise geschaltete Kapazitatsdioden werden zur Automatischen Feinabstimmung (AFC) in Empfangern oder 2urFrequenzmodulation in FM-Sendern eingesetzt
+
+}
+Dle schnelleFrequenzregelung in Phase-iocked loop-Sehaltungen (PLL) mutt oft Kapaaittsdioden, Diese PLL sind Kernbestandtel aller Funkgerate und Handys.
+‘evor etwa im Jahr BEI Tansistoren entwickelt wurden, mit denen man auch oberhalb von 200 MHz Leistungen von einigen Watt erzeugen konnte, behalf man sich mitkihlbaren Kapazittsaloden ]
+(araktoren) zur Frequenzvervielfachung von belspelsweice 140 MHz auf 420 MHz. Dabel wurden dle Verzerrungen einer sinusformigen Spannung durch die stark nichtineare Kennlinie ausgenutat, die \
+beim Betreb von Kapazitatsdiaden mit mehr als 20 V Weehselspannung auftit. Durch geelgnete Verwendung von Schwingkreisen kennte man die gewunschte Oberschwingung ausseben. I
+
+|
+
+Abstimmung von LC-Schwingkreisen (ses:usten| quoitex bearbeiten whccita 5
+
+Zur Frequenzabstimmung von LC-Schwingkteisen wird mit der Spannung U; (in Sprrrichtung gepolt) die Kapacitit der Diode eingestel, ie mit dem Koppelkondensator Cx 2um Kondensator C rapaztatsiogen
+saenraieicoaneteain heats ikea he zs tad ‘el lk tletdin etna eesaveiiie pen dh Sven vei i enenaiattned tie neta edie acadenn tamiianiaieniatt mane ined

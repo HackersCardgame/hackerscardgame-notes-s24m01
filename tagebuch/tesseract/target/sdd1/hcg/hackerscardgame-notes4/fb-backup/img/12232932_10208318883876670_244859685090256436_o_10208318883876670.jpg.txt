@@ -1,0 +1,30 @@
+& *} G | httpsi//books.google.com/ngrams/graph ?content=pedophilia%2Cpaedophilia%2Cmind+control&case_insensitive=on&year_start= 1930&year_end=2008&corpus=¥2| @
+
+Google books Ngram Viewer
+
+Graph these comma-separated phrases: | pedophilia paedophilia,mind control ~ | case-insensitive
+
+between 1930 and 2008 from the corpus [English TJ with smoothing of (3 7), (es
+
+G Tellen 0
+
+Tweet
+
+Embed Chart
+
+0,0000300%
+
+0.0000250% pedophilia (All)
+
+mind control (All)
+0.0000200%
+
+0,0000150%
+0.0000100%
+
+paedophilia (All)
+
+0,0000050% 5 2
+
+0,0000000%
+1930 1940 1950 1960 1970 1980 1990 2000

@@ -1,0 +1,24 @@
+iress, domain, or file hash
+
+No engines detected this URL
+
+URL httpsv/ox8.ch/chessjs/
+Host ox8.ch G
+Last analysis 2019-04-06 23:12:31 UTC
+
+Detection Details Community
+ADMINUSLabs @ clean AegisLab WebGuard @ clean
+AlienVault @ clean Antly-AVL @ clean
+Avira @ clean BADWARE.INFO @ clean
+Baidu-International @ clean BitDefender @ clean
+Blueliv @ clean CLEAN MX @ clean
+Comodo Site Inspector @ Clean CRDF @ clean
+CyberCrime @ clean CyRadar @ clean
+desenmascara.me @ clean DNs8 @ clean
+Dr.Web @ clean Emsisoft @ clean
+EonScope @ clean ESET @ clean
+EsTsecurity-Threat Inside @® clean Fortinet @ clean
+FraudScore @ clean FraudSense @ clean
+G-Data @ clean Google Safebrowsing @ clean
+K7AntiVirus @ clean MalcOde Database @ clean
+Malekal PA clear Malware Domain PA clear

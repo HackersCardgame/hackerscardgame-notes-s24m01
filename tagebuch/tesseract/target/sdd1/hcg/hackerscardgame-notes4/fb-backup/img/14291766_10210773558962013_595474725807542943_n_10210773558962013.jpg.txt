@@ -1,0 +1,22 @@
+fir das Rechnen mit Dualzahlen notwendigen Grundschaltungen (UND, ODER,
+NICHT) verwirklicht werden. Fir sein Modell Z 2 verwendete Zuse bereits elektrome-
+chanische Bauteile. 1940 begann er die Arbeit an dem Modell Z 3. Bin Jahr spater war
+der erste funktionsfahige, programmgesteuerte Rechenautomat vollendet. Die logi-
+schen Schaltungen waren mit ca. 2600 Relais ausgefiihrt. Dieser erste richtige Compu-
+ter konnte 64 Zahlen zu je 22 Dualstellen speichern. Die Eingabe erfolgte bereits diber
+eine Tastatur, die Ausgabe dber Lampchen. Pro Sekunde konnten 15 bis 20 arithmeti-
+sche Grundoperationen durchgefiihrt werden.
+
+Charles Babbage
+John von Neumann
+‘Alan Touring
+
+Konrad 2use
+
+Bill Gates
+Steve Jobs
+
+Abbildung 2.2: Einige wichtige Persénlichkeiten, die zur Entwicklung und Verbreitung des Compu-
+ters einen grofen Beitrag leisteten.
+
+55

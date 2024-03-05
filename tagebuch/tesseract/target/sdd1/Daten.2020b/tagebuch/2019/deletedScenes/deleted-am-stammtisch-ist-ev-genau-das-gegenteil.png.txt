@@ -1,0 +1,149 @@
+Activities ©) Terminal ~ ‘Okt 1 22:17 A 9H Ge
+
+Q marc@debian: ~ Mr = - « @
+
+marc@debian:~/Daten.2019/tagebuch/2019/september$ cd
+marc@debian:~$ rsync -avz Daten.2019 192.168.179.222:~
+marc@192.168.179.222's password:
+
+sending incremental file list
+Daten.2019/musik/reason/not-broken/
+Daten.2019/tagebuch/2019/september/
+Daten.2019/tagebuch/2019/september/191001. txt
+Daten.2019/tagebuch/2019/september/frohsinn.svg
+
+sent 26,627,218 bytes received 151,170 bytes 1,373,250.67 bytes/sec
+total size is 153,670,931,958 speedup is 5,738.62
+
+marc@debian:~$ rsync -avz Daten.2019 192.168.192.234:~
+
+marc@192.168.192.234's password:
+
+sending incremental file list
+
+Daten.2019/musik/reason/not -broken/
+
+Daten. 2019/tagebuch/2019/deletedScenes/
+
+Daten. 2019/tagebuch/2019/deletedScenes/190901. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190902. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190902b. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190908. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190909. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190910. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190912. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190914. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190916. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190916. txt. swp
+
+Daten. 2019/tagebuch/2019/deletedScenes/190917. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190918. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190919. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/190920. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/DROGENRING-AARAU. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/DrKatherineHorton. txt
+
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 06-20-26.png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 06-25-59. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 06-28-14. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-28. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-32.png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-35.png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-42. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-46. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-50. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-09-56. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-10-09. png
+Daten.2019/tagebuch/2019/deletedScenes/Screenshot from 2019-09-02 07-10-13. png
+
+Daten. 2019/tagebuch/2019/deletedScenes/andere-schizos-vor-falschen-prophenten-warnen. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/andere-schizos -vor-falschen-prophenten-warnen2. txt
+Daten.2019/tagebuch/2019/deletedScenes/domink. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/fix-psychiatrie. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/freiheit .txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/
+
+Daten. 2019/tagebuch/2019/deletedScenes/haefliger. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/ index.html
+
+Daten. 2619/tagebuch/2615/deletedScenes/haefliger. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/ index.html
+
+Daten. 2019/tagebuch/2019/deletedScenes/leak.odt
+
+Daten. 2019/tagebuch/2019/deletedScenes/lina-maja-2-tablets.txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/mondfackell.txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/my-tor-node.txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/orlando-ist-IV-betrueger -der-die-psychiatrie-als-basis-und-waffe-missbraucht.txt
+Daten. 2019/tagebuch/2019/deletedScenes/question-from-joseph. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/shrikey-again. txt
+
+Daten. 2019/tagebuch/2019/deletedScenes/shrikeys -mutter-hat -muenchausner-stellvertreter-syndrom-questionmark.png
+
+Daten. 2019/tagebuch/2019/deletedScenes/tagebuch.sh
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/.htaccess -> /home/marc/Daten.2015/myLife/Schizophrenie/ .htaccess~
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/.htpasswd -> /home/marc/Daten.2015/myLife/Schizophrenie/htpasswd
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/1.Eintritt.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/2.Eintritt.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/3.Eintritt.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/4.Eintritt.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/S.Eintritt.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Adambegan. pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Autobillet.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Bluttests.pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Depot Pass.xls -> /home/marc/Daten.2015/myLife/Schizophrenie/Depot Pass.xls
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Eltern_und_claudine. pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Kardex. pdf
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Krankenkasse2009.pdf -> /home/marc/Daten.2015/myLife/Schizophrenie/Krankenkasse2009. pdf
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Riickfall.doc -> /home/marc/Daten.2015/myLife/Schizophrenie/Riickfall.doc
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Riickfall.doc -> /home/marc/Daten.2015/myLife/Schizophrenie/Rickfall.doc
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Seroquel.pdf -> /home/marc/Daten.2015/myLife/Schizophrenie/Seroquel . pdf
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/Zweite.pdf -> /home/marc/Daten.2015/myLife/Schizophrenie/Zweite. pdf
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/htpasswd -> /home/marc/Daten.2015/myLife/Schizophrenie/htpasswd
+
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/personal kénigsfelden.txt -> /home/marc/Daten.2015/myLife/Schizophrenie/personal kénigsfelden.txt
+Daten. 2019/tagebuch/2019/deletedScenes/Schizophrenie/personal kénigsfelden.txt -> /home/marc/Daten.2015/myLife/Schizophrenie/personal kénigsfelden.txt
+Daten. 2019/tagebuch/2019/september/
+
+Daten. 2019/tagebuch/2019/september/191001. txt
+
+Daten. 2019/tagebuch/2019/september/frohsinn.svg
+

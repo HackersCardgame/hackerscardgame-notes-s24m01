@@ -1,0 +1,37 @@
+klebt
+unsichtbar
+progranmierten
+pulsierendes
+ablege
+konzentrieren
+
+finte
+verrichten
+klappe
+
+marc@debian :~/Daten.2017/code/deepLearning$ python suchen.py --bin data/tagebuch.txt.cleaned.bin --positive claudine
+data/tagebuch. txt.cleaned.bin
+
+caludine
+
+philip
+
+melani
+
+philipp
+
+phillip
+
+claudien
+
+cluadine
+kx9rcpp4zi
+mathias
+claudnie
+astrdi
+waltmeier
+
+selbstverletzen
+
+marc@debian :~/Daten.2017/code/deepLearnings 9
+

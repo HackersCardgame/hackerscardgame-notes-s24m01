@@ -1,0 +1,7 @@
+Schema einer einfachen UWB-Quelle
+
+‘gasgefilte Funkenstrecke
+
+o
+
+Druckbehaiter (Stckstoft, 40 at) _koaxiale Pulszufahrung

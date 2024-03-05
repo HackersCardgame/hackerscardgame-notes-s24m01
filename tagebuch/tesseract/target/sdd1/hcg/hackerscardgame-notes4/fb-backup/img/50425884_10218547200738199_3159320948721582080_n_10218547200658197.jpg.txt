@@ -1,0 +1,37 @@
+<html>
+<head>
+</head>
+<body>
+<div id="result">TEST</div>
+<script>
+
+if (gest. J. 1,
+(test(i, J, k, 7,
+(test(i, J, k, 7
+(test(i, J, k, 7
+(test(i, J, 7
+
+alert(i+"-"4j+"-"+k);
+
+— et)
+
+function test(i, j, k, l, m, n)
+
+var rightPlac
+var rightVar=9;
+
+) rightPlace++;
+) rightPlace++;
+) rightPlace++;
+
+if ( ism || ) rightVar++;
+if ( j==l || j=sn ) rightVart
+if ( k=l || ) rightVar++;
+return [rightPlace, rightVar]
+yy
+</script>
+</body>
+
+</html>
+
+BREB

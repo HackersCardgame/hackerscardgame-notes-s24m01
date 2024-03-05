@@ -1,0 +1,5 @@
+egg.scramble(3).with (cheddar)
+
+while loop
+
+scramble

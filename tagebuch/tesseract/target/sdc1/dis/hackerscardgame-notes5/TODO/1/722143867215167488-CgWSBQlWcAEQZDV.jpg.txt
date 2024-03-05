@@ -1,0 +1,7 @@
+Re ee ee
+
+Funktionsweise [bearbeiten | Quelltext bearbeiten]
+
+Das ADS arbeitet mit Mikrowellen einer Frequenz von §8 Gigahertz, die mit einer Antenne auf men
+einer Entfernung von mehr als 500 Metern gerichtet werden kénnen. Haushalts-Mikrowellengerate
+elektromagnetische Strahlung hat eine wesentlich hhere Energiedichte, die Energie dringt jedoch

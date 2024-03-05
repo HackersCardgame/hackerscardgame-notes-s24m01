@@ -1,0 +1,5 @@
+Broadcast messaging is a one-to-many communication in which you
+create a list of contacts and then send them all the same message
+simultaneously. Group texts, on the other hand, involve creating a
+conversation between multiple individuals in which everyone can
+communicate with each other. 27112022

@@ -1,0 +1,7 @@
+Manage tags
+
+To assign tags to the currently selected items, use the checkboxes next to each tag.
+
+© Geography
+O History
+

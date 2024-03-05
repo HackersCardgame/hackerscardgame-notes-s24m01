@@ -1,0 +1,38 @@
+Animierte Visitenkarte
+Bibliothek
+Liegenschaftshewertung
+MDI DEHO
+NummerischeIntegration
+
+sudoku
+Sudoku
+Sudoku
+Sudoku
+Sudoku
+
+Expert
+Expert and generate
+Expert and generate.bak
+HIL
+
+SudokuSolver
+SudokuSolverHask
+
+sudokuSolver with Backtracking
+SudokuSolver with more Guesses
+SudokuSolver with more Guesses.bak
+
+SudokuSolver with one Guess
+Sudoku Tree
+
+Threading
+
+vCard V2
+
+VektorTester
+
+VektorTester.old
+VektorTester .old2
+Visitenkarte
+Visitenkarte2
+Wiirfel

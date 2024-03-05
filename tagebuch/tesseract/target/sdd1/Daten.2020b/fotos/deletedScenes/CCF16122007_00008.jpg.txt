@@ -1,0 +1,41 @@
+mie 7 ABB Technikerschule, Baden
+
+[~~ Ts Eidg. anerkannte hdéhere Fachschule fiir Technik gh enn
+29.8.07
+LA Diisen-Passagierflugzeug
+Elektrotechnik/Elektronik
+(Vogel Band! Kap. 1, 6 - 8)
+Teilaufgabe D: 10 Punkte
+
+Kabel der Bordsprechverbindung
+
+Einleitung:
+
+Im Flugzeug gibt es mehrere Telefone: im Cockpit, bei den Tien, in den Bordkiichen
+(Galleys), etc. Sie sind Uber Kabel mit der Telefonzentrale verbunden. Eine ideale
+Verbindung ist verlustlos, induktivitats- und kapazititatsfrei. Wie sieht das bei einem
+Telefonkabel in der Wirklichkeit aus?
+
+Ziele: Sie kGnnen
+
+das magnetische und elektrische Feld in einem Kabel darstellen,
+
+e Leiterwiderstand, lsolationswiderstand, Induktivitat, Kapazitat eines Kabels
+berechnen,
+
+e das Verhalten des Kabels bei verschiedenen Frequenzen bestimmen.
+
+Prinzipschema: Kabelquerschnitt:
+
+Isolation a-d
+
+Telefon (Sender, Index S): Stromquelle ls = 10 mA oder
+Spannungsquelle Us = 0.5 V;
+
+Kabel: 1=60m; a=2mm;
+
+Leiter (Kupfer): Ocu = 0.0178 Q:mm7/m;  Acy = 0.3 mm’:
+
+Isolation (Index 1): 9 = 10"? Qanm7/m: a= 1: en = 5;
+
+Zentrale (Empfanger, Index E): Re = 50 Q.

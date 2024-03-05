@@ -1,0 +1,7 @@
+‘Administrar etiquetas
+
+Para asignar etiquetas alos elementos seleccionados, use las casilas situadas junto a
+cada etiqueta.
+
+thy
+

@@ -1,0 +1,21 @@
+claude@debian:~$ snmpwalk -v2c -cpublic 192.168.179.3
++3,6.1,2.1,1.1,0 = STRING: "Linux debian 4.4.15-v7+ #897 SMP Tue Jul 12 18:42
+
+OID: iso.3.6.1.4.1.8072.3.2.10
+
+= Timeticks: (47371850) 5 days, 11:35:18.50
+STRING: "Me <me@example.org>"
+
+STRING: "debian"
+
+*C
+claude@debian:~$ snmpwalk -v2c -cpublic 192.168.179.4
+iso.3,6.1,2.1.1.1.0 = STRING: "Linux debian 3.16.0-4-amd64 #1 SMP Debian 3.16.36
+-1+deb8u2 (2016-10-19) x86_64"
+i iso.3.6.1.4.1,8072.3.2.10
+Timeticks: (57343131) 6 days, 15:17:11.31
+= STRING: "Me <me@example.org>"
+
+“C
+claude@debian:~$ ff
+

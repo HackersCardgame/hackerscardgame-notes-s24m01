@@ -1,0 +1,91 @@
+Activities
+
+File Edit
+
+Terminal +
+
+View Search Terminal
+
+Fri 05:37
+
+marc@debian: ~/evaluator
+
+dev
+
+a@ By
+
+12
+12
+12
+12
+13
+13
+13
+13
+14
+14
+14
+15
+15
+15
+15
+16
+16
+16
+18
+19
+20
+26
+31
+31
+37
+38
+38
+39
+59
+60
+60
+61
+498
+
+ich
+menschen
+raus
+wahrheit
+diesem
+neo was
+nichts
+orakel
+anderson
+ar
+
+zeit
+
+hab
+ihnen
+kannst
+selbst
+euch
+sagen
+wissen
+welt
+Leben
+ihn
+
+hast
+bist
+
+uns
+morpheus
+matrix
+trinity
+weiB
+
+neo
+agent
+dich
+dir
+
+narc@debian:~/evaluator$ ff
+
+Help

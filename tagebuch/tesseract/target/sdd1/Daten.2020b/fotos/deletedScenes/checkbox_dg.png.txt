@@ -1,0 +1,19 @@
+‘Special form content area
+
+Form aeaname;~ [birensietr
+
+Field type
+
+(General ||| Advanced
+
+Forms wil be ordered
+alphabeticaly (A-Z) or
+‘numerically (01, 02 etc) in the
+validation table,
+
+Check settings
+
+Vale when checked®: [jes
+
+Vale when not checked: [rel
+

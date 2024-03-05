@@ -1,0 +1,22 @@
+>>> from gensim import corpora, models, similarities
+
+>>
+
+>>> # Load corpus iterator from a Matrix Market file on disk.
+>>> corpus = corpora.MmCorpus('/path/to/corpus.mm')
+
+>>
+
+>>> # Initialize Latent Semantic Indexing with 260 dimensions.
+>>> Isi = models.LsiModel(corpus, num_topics=200)
+
+>>
+
+>>> # Convert another corpus to the Latent space and index it.
+>>> index = similarities MatrixSimilarity(1si[another_corpus])
+>>
+
+>>> # Compute similarity of a query vs. indexed documents
+
+>>> sims = index[query]
+

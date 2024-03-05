@@ -1,0 +1,21 @@
+Vaeter -w 200 |
+
+tt 4 4
++4 4 HOF
+44 4
++4 4 HOF
+
+po oer oar Se SS
+t+ 4 OF
+
+marc@DESKTOP-4129AN1:
+
+*
+
+*
+*
+*
+
+-e"s/ /x/g" | e "s/#/«/g"
+
+FOS ICRI IR IH

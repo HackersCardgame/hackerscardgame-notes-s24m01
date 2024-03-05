@@ -1,0 +1,9 @@
+Tunnel /
+ESAKI Diode
+
+Inventor: Year:
+A tunnel diode or Esaki diode is a type of
+semiconductor that is capable of very fast operation,
+Operates in microwave frequencis. quantum
+‘mechanical effect called tunneling
+

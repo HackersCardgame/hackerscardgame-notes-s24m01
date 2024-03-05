@@ -1,0 +1,100 @@
+if(konto != null) {
+konto.einzahlen(getAmount ());
+
+System.out.println("Neuer Kontostand: " + konto.getKontostand());
+
+} // end if
+break;
+} // end case
+case PAYMENT _OUT: {
+Konto konto = search();
+if(konto != null) {
+if (konto.auszahlen(getAmount())) {
+
+System. out.println("Neuer Kontostand: " + konto.getKontostand());
+
+} // end if
+else {
+System. out.println("Auszahlung nicht méglich!");
+
+System. out.println("Kontostand: " + konto.getKontostand());
+
+} // end else
+
+} // end if
+break;
+
+} // end case
+
+case RICHEST: {
+System.out.println("Das reichste Konto ist:");
+Konto konto = mBank.getReichstesKonto();
+System. out.println(konto) ;
+break;
+
+} // end case
+
+case TOTAL: {
+System.out.println("Das Gesamtvermégen der Bank ist:");
+double total = mBank.getSumme();
+System. out.println(total);
+break;
+
+} // end case
+
+} // end switch
+} while (!userAction.equals (UserAction. EXIT) );
+} // end method
+
+// Meni anzeigen und Benutzereingabe auswerten
+private UserAction showMenu() {
+System. out.println();
+
+System.out.printin ("----------- MENU ------------ "ye // UserAction:
+Systemwout-printin ("Bxit. . 6.0. ci eeu seam oe vse 0"); // EXIT
+System.out.println("Neues Konto anlegen......... 1) // NEW
+
+System. out.println("Konto nach Name suchen...... 2”) 3 // SEARCH
+System-out.printin( "Finzahlen. «.. 0s. oie ei eins wie wun en 3") % // PAYMENT_IN
+System. out.println("Auszahlen....... eee eee eee eee 4"); // PAYMENT _OUT
+System.out.println("Reichstes Konto ermitteln...5"); // RICHEST
+System. out.println("Gesamtvermégen der Bank..... 6"); // TOTAL
+
+System.out.printlin();
+
+System.out.printlin("Bitte wahlen Sie 1..6: ");
+
+int i = mKeyboard.nextInt();
+
+mKeyboard.nextLine(); // leert den Buffer
+
+return UserAction.va Wes ()/ (i); // Umwandlung int -> UserAction
+} // end method :
+
+// Konto suchen
+
+private Konto search() {
+System.out.printin("Bitte geben Sie den Namen ein: ");
+String name = mKeyboard.nextLine().trim();
+Konto ret = mBank.getKonto (name) ;
+
+if(ret == null) {
+System.out.println("Konto nicht gefunden!");
+} // end if
+
+return ret;
+} // end method
+
+// Betrag eingeben
+
+private double getAmount() {
+double ret;
+System.out.println("Bitte geben Sie den Betrag ein (Bsp.: 100.00) 2");
+ret = mKeyboard.nextDouble();
+return ret;
+
+} // end method
+
+} // end class
+
+walues > aa |

@@ -1,0 +1,13 @@
+Aca gape tetris nd aay AE od
+/Daten.2017/code/lox$ javac com/craftinginterpreters/lox/Lox. java
+/Daten.2017/code/lox$ java com.craftinginterpreters. lox.Lox
+
+> 1*24+3*4
+14
+(+
+
+(* 1.0 2.0) (* 3.0 4.0))
+>0
+
+(!= 1.0 1.0)
+

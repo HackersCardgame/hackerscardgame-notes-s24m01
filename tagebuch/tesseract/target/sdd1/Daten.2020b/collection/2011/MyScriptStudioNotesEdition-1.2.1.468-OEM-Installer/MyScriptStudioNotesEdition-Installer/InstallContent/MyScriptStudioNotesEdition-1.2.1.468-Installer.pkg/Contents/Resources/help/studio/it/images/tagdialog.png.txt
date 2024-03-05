@@ -1,0 +1,9 @@
+Gestiscietichette
+
+Per asseqnare etichette agi element attuaimente selezionati, utlizza le caselle di
+spunta accanto a ogni
+
+(eens)
+
+if
+

@@ -1,0 +1,71 @@
+static string parseCommand(vectorestring> commands, string user, bool force, bool debug, bool brief
+
+ring message = “*;
+
+ConmandParserTools: :consume( commands) ;
+
+string ¢
+
+ita
+{
+string userContig = user +
+message 1= CbftpConfigsetter::sendAlisites( userContig );
+
+|] cbse raitn
+
+else
++ ( CommandParserTools::isSite(cl) )
+
+4
+string userConfig = user + “.cfa";
+
+message ¥= CbftpConfigSetter::sendSite(userConfig, cl);
+y
+else
+message ite does not
+eturn message;
+1
+vendit
+“c
+
+marc@DESKTOP-4129AN1: /nnt/d/Daten.2020b/code/pri42s
+marc@DESKTOP-4129AN1: /nnt/d/Daten.2020b/codes. 15
+
+narc@DESKTOP-4129AN1: /nnt/d/Daten.2020b/codes sudo 1s
+
+axb.« applyPatch. sh corrados nvite-shetkey.png br reap
+20264705 852303038272584_8905088048379321963_n.jpg bash vigniere taftinginterpreters labyrinth. 3s prad2 test py
+
+cer? basketball Craftinginterpfeters. final Landevs-ripaL0L psy-Leaks. txt tictactoe
+Fightpit-Atart-ronts bitbucket CreatePateh.sh lernkaertchen py-pttp-0.0 tictactos.7s
+
+FTP bitbuckt debian base on_raspberry3 Lox python. 551 touchpaddebug
+HackersCardgane10 ebitp deepLearning luftdaten cards tdeny
+lackerscardaames ettp-r966 deeplearning..new mnandet brot. 4s fadar vektor
+Hackerscardgane? ebrep.r980 deepLearning 0102 mnetanie.png ratRace ‘ymp502_code_pi
+Hackerscardganed deeplearning test muitp-0.0-1 FesponsiveTutoriel web
+fackerscardganed dont mnodi tied, vektor.pn roteringcube ikideta
+
+Leh dzschokke monitoring sereenkey Mord randomizer.js
+Hattet evaluator multicore, chess. js sereeps Word-randomizer.js.bok
+Minion-Nenory export.txt nyScreeps gorse ponanetosictes
+PACKAGE. 3.4.3 and64.buitd alpha-zero Forum. txt nice message-handler-for-browser =
+
+Prozessdraarail.png addonbutbug.js gitlab ols :
+
+R s gittab-ct -howto anetinepad $
+
+TimeDiagranToot chess with.worker.js happyCubesolver.4s pan_usb :
+
+Private coexist heeeeeelp-please pinidi 2
+
+alt -txt Connent-box indb- dumps no $
+
+amahean convert.sh intefaktivesFotoat bum post e-voting :
+
+narc@DESKTOP-4129AN2; /nnt/a/Daten.2020b/codes aa
+
+ofr Bm & @ @
+
+eao®FPosvarvrnep@uese
+

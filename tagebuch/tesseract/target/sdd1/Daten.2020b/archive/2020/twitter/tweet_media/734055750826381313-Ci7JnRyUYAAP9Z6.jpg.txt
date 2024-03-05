@@ -1,0 +1,28 @@
+0000 AT&T F 12:43 PM 7%)
+
+The file extension is checked against a static
+
+list of known unsafe file extensions:
+
+“ade”, “adp”, “app”, “asp”, “bas”
+“bat”, “cer”, “chm”,.
+“end”, “com”, “epl”,, “ert”, “esh”,
+“exe”, “Exp”, “hlp”,
+“hea”, “Siswt,; “dns”, “hep; “iets
+“38”, “jse”, “ksh”,
+“Ink”, “mad”, “maf”, “mag”, “mam”,
+“maq”, “mar”, “mas”,
+“mat”, “mau”, “mav”, “maw”, “mda”
+“mdb”, “mde”, “mdt”,
+“mdw”, “mdz”, “msc”, “msi”, “msp”,
+“mst”, “ops”, “ped”,
+“pif”, “pri”, “prg”, “pst; “neg”;
+“sci”, “ser”, “sect”,
+“shb”, “shs”,. “tmp; “UPL, “vh";
+“vbe”, “vbs”, “vsd",
+
+“vsmacros”, “vss”, “vst”, “vsw”, “ws
+
+“wse”,
+
+“wsf”, “wsh”

@@ -1,0 +1,13 @@
+Wideness Tip
+
+EN,
+0.0% 100%
+
+You can use a delay effect known as the “Haas Effect” to add perceived
+wideness to a sound. To do this, add a delay set at 100% wet to the tracks
+channel, and set one side to 1ms and the other between 10-20ms. This
+short difference between the left and the right channel is what tricks
+
+the listener into thinking that the sound is wider.
+
+PausePlayRepeat.com

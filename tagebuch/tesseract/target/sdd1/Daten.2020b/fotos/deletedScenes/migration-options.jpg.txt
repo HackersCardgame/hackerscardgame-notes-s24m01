@@ -1,0 +1,12 @@
+© UML Model
+
+Java Model Reverse Engineering
+
+Options:
+| Use the bytecade reverse engineering engine.
+J¥ Take into account the Free UML Repostary
+
+I~ Ignore existing UML annotation
+
+al
+

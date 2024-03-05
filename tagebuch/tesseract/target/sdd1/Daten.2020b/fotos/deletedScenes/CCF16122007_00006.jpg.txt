@@ -1,0 +1,49 @@
+rae nN ABB Technikerschule, Baden
+
+[~~~ fs Eidg. anerkannte hohere Fachschule fur Technik heck
+29.8.07
+LA Diisen-Passagierflugzeug
+Elektrotechnik/Elektronik
+(Vogel Band! Seite 261-276)
+Teilaufgabe C: 10 Punkte
+
+Ventilatorantrieb in Steinmetzschaltung
+
+Einleitung (Schema 26-13-0):
+
+Die Bordtoilette F wird von einem Ventilator beliiftet (LAV F VENT FAN). Der Antrieb
+besteht aus einem Asynchronmotor, der vom einphasigen Netz gespeist wird. Das ist nur
+méglich, weil mit dem Hilfskondensator C die zusatzliche Spannung Uc erzeugt wird.
+Diese Schaltung heisst Steinmetzschaltung. Der Motor kann in Stern- oder Dreieck
+geschaltet sein. Er liefert nur noch einen Bruchteil der Nennleistung.
+
+Ziele:
+
+e Sie begreifen, wie die Steinmetzschaltung funktioniert.
+
+e Sie kénnen die Gleichungen der Schaltung und der Elemente aufstellen und lésen.
+
+e Sie kénnen die asymmetrischen Spannungen und Stréme berechnen, skizzieren
+und beurteilen.
+
+einfache Ersatzschaltung des Asynchronmotors in Steinmetzschaltung:
+
+| |
+< lle I,
+Uc L
+Ic
+R U;
+, _b R
+_— | Uph
+>
+U
+
+3 R
+
+Vv
+U L
+lo
+ltot
+
+Die Wicklungen werden durch L dargestellt, die Belastung durch R.
+Beachten Sie: Alle Spannungen und Stréme sind Zeiger.

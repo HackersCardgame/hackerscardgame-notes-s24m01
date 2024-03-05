@@ -1,0 +1,26 @@
+Patente — Englisch Franzésiseh Stand der Technik.
+
+System for producing artificial telepathy Versffentlichungsnummer W02005055579 AL
+WO 2005055579 Al Publikationstyp Anmeldung
+
+Anmeldenummer PCT/AU2004/000002
+ZUSAMMENFASSUNG Verdtfentlichungsdatum 16. Juni 2005
+
+Eingetragen 6. Jan. 2004
+{A device is proposed which wil provide the user with aform of artificial telepathy, -‘Proritatsdatum a0. a
+namely the ability to communicate with others with no obvious signs of Eringer Lynne Moody, Miles Phillips Moody
+connection. The system comprises a mobile phone ‘engine’ which interfaces to Antragsteller Lynne Moody, Miles Phillips Moody
+an existing or future public mobile telephony network. This device also contains a Titat exportieren BIBTeX, EndNote, RefMan
+very low-power transponder, which is linked wirelessly to one or more Patentzitate (4), Nichtpatentztate (1), Reterenziert von (1),
+corresponding transponders implanted in the body. Connected to these implanted Kiassifizierungen (14), Juristische Ereignisse (3)
+transponders are implanted transducers, one placed in a position such that it Externe petertaecrecsnccene
+
+picks up speech from the user and the other placed in a position such that it
+imparts speech and status signals audible to the user. The transducers may be
+
+connected acoustically, either through bone contact or contact with other tissue, or mioelectrically, through electrodes connected to tissue or nerves. In future
+telecommunications networks, when power level requirements are much lower, the whole device may be implanted and connected directly to a public mobile network
+‘The system is further enhanced by the use of speech recognition technology, which makes operation of the device possible through voice or sound commands without
+the use of manual actions. A further enhancement of the system would be a capability for image transfer through a device connected visually of electrically to the eyes
+and a small camera to record what the eyes see. The characteristics of the device will emulate telepathy, in that it will give seemingly invisible voice and image
+communication with others connected to the network:

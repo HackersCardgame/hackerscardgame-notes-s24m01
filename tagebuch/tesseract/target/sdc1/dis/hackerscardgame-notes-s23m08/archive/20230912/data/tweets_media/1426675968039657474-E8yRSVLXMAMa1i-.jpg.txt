@@ -1,0 +1,110 @@
+@ ere x MPa x | @ Gree x | O Aeivel—» x | W Homes) x X | BE MyPonts x | Pinkyde! x | ED Tweetde: x | Homes? x | G rohospee XW eS eles
+€ > C6 ennkipesscryiicivionsy, go Dan s@
+ss" © Uoavomerien fe Dabntentenr. W Srdemiigese. Uf Te BESTRowt ® AuioPugn Gu Logic Ooch x || Bitedine
+Google Translate oe em
+Aticle Tak Reed Eat Vewhistoy | Seaich Wikipedia Q
+
+WIKIPEDIA
+The Free Encylopedia
+
+Main page
+Contents
+Curent events
+Random artcle
+About Wikipedia
+Contacts
+Donate
+
+Contbute
+Help
+
+Lea to edt
+Community poral
+Recent changes
+Upload fle
+
+Tools
+What ns here
+Related changes
+Spec pages
+Permanent nk
+Page information
+ite tis page
+Wiest tem
+
+Ptlexport
+Download as POF
+Printable version
+
+Evolutionary algorithm
+
+From Wikipedia, the free encyclopedia
+
+In computational inteligence (Ci), an evolutionary algorithm (EA) is a subset of evolutionary computation!" generic population-based metaheuristic
+‘optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection, Cancidate solutions
+to the optimization problem play the ole of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function).
+Evolution of the population then takes place after the repeated application of the above operators.
+
+Evolutionary algorithms often perform well approximating solutions to all types of problems because they ideally do not make any assumption about the underlying
+fitness landscape. Techniques from evolutionary algorithms applied to the modeling of biological evolution are generally limited to explorations of microevolutionary
+processes and planning models based upon cellular processes. In most real applications of EAs, computational complexity Isa prohibiting factor! Infact, this
+‘computational complexity is due to fitness function evaluation. Fitness approximation Is one of the solutions to overcome this dificlty. However, seemingly simple
+EA can solve often complex probiems:!*3#2" "1 therefore, there may be no direct link between algorithm complexity and problem complexty.
+
+Contents [hie]
+1 Implementation
+
+2 Types
+
+3 Comparison to biological processes
+
+4 Related techniques
+
+5 Other population-based metaheuristic methods
+6 Examples
+
+7 Galery
+
+8 References
+
+9 External links
+
+10 Bibliography
+
+Implementation {s:)
+
+The folowing is an example of a generic single-objective genetic algorithm,
+
+Part ofa series on the
+Evolutionary algorithm
+Ail development - Arial fe
+
+Celular evolutionary algoritim =
+Cultural algorithm -Diferential evolution
+Elective fitness - Evolutionary computation
+Evolution sategy - Gaussian adaptation
+Evolutionary multimodal optimization
+Particle swarm optimization
+emetic algorithm - Natural evoluton strategy
+* Neuroevolition
+Promoter based genetic algothm
+‘Spiral optimization aigotm
+Selteoiying code - Polymorphic code
+
+Genetic algorithm
+‘Chromosome - Clonal selection algonthmn
+‘Crossover - Mutation - Genetic memory
+‘Genetic uzzy systems - Selection
+Fy algonthm
+
+Genetic programming
+Ccanesian genete programming
+Linear genetic programming
+‘Grammatical evolston
+Muti expression programming
+Genetic Improvement - Schema + Eurisko
+Party benchmark
+
+Part ofa series on
+ial intelligence
+

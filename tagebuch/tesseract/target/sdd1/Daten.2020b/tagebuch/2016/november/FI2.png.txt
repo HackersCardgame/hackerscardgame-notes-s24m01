@@ -1,0 +1,8 @@
+A. Ausléseeinheit
+
+M Mechanik des Leiters
+Re Erdungswiderstand
+Rg Betriebserdung
+
+@ Last
+

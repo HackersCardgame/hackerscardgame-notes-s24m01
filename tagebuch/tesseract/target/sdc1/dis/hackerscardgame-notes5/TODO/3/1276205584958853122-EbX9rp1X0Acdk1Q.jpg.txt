@@ -1,0 +1,45 @@
+‘A |) Highigh al
+
+bundesnetagentur. de
+
+Match Case
+
+Whole Words
+
+DDECT-Schnuroe-Telefonie -DECT-BNetzA pa - Moria Firefox
+
+@ ine | aM Not | @ Seer | RO 1 Mar | © Heir | com | Ata
+
+‘Schnurlose Telefonsysteme bestehen aus einer Basisstation, die an das Telefonnetz
+angeschlossen ist und einem oder mehreren Handgersten (Mobiteilen). Im Handel in
+Deutschland erhaltliche DECT-Basisstationen unterstiitzen bis 2u sechs gleichzeitig
+telefonierende Benutzer. Die Information (Sprache/Daten) wird zwischen
+Handgeraten und Basisstation mit hochfrequenten elektromagnetischen Wellen
+iibertragen, die von der Basisstation standig und von den Handgeraten nur wahrend
+eines Gespriches ausgesendet werden. Die mittlere Sendeleistung einer
+gesprachsibertragenden DECT-Basisstation betragt typischerweise 10 Miliwatt pro
+Benutzer (250 mW geteilt durch 24 Taktungen/Zeitschiitze), dies eintspricht einer
+maximale Sendeleistung der Basisstation von 60 Milwatt bei sechs angemeldeten
+Nutzern
+
+Die Sendeleistung einer Basisstation im Ruhezustand, d.h. ohne aktives Gesprich,
+betragt nur 1/4 der Gesprachssendeleistung, da die zeitliche Dauer des Impulses im
+Bereitschaftsmodus von 0,4ms (Gesprachsmodus) auf 0,1ms (Bereitschaftsmodus)
+verkirzt ist. Die maximale Sendeleistung des Mobilteils im Sprachmodus betragt
+gemittelt zehn Miliwwatt (250 mW geteitt durch 24),
+
+Fir DECT Handgerate gelten die gleichen Vorschriften wie far Handys. Diese
+Vorschriften beruhen auf den Schutzkonzepten der ICNIRP bzw. der entsprechenden
+EU-Ratsempfehlung,
+
+Der gesetzliche Grenzwert in Deutschland, geregelt durch die 26.
+Bundesimmissionsschutzverordnung (26. BimSchV), betragt fir die gemittette
+Leistungsflussdichte 9,5 Wim? bei der DECT-Frequenz.
+
+Der gerechnete Wert der Leistungsflussdichte (Leistung / Flache) betréat bei einer
+DECT Basisstation mit einem aktiven Sprachkanal in 0,5 m Entfernung 0,006 Wim?,
+bei einem Grenzwert von 9,5 Wim?. Mit zunehmendem Abstand nimmt die
+Leistungsflussdichte ab. Aufgrund der Reflexionen in den Zimmern sollte man bei
+Berechnungen der Mindestwerte maximal mit einer Entfernung von zwei bis drei
+Meter rechnen,
+

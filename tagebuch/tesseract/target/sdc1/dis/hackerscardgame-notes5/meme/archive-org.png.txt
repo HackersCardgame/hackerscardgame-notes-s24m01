@@ -1,0 +1,46 @@
+Activities @ Chromium Web Browser ¥ FriJun4 05:34 a”) O-
+© #HackersCarc x |  #hackerscard: x | fil] WaybackMac! x | [il] WaybackMac! x | @ #hackerscard: x | @ 68747470732 x | @ 68747470733 x | @ 68747470733 x | @ 68747470732 x | [fl] WaybackMac) x | [fl] WaybackMac’ x | + x
+& CS 0. @ diasp.org/tags/hackerscardgame wy 2
+Apps @ Debian.org @ LatestNews @ Help
+[} GJ Elements — Consc Network >> mix
+> og: https://ogp.me/ns# article: https://ogp.me/ns/article# prof ~
+fle: https://ogp.ne/ns/profile#
+’ page-tags action-show overflow: hidden;
+> container-fluid” id="tags_show
+¥ blueimp-gallery blueimp-gallery-controls blueinp-gallery-displa
+y° id="blueinp-gatlery display: block;
+. slides width: 6825px
+> slide ° width: 1365px; left: Opx: trans
+ition-duration: Ons; transform: translate(1365px, Opx) translateZ(Opx);
+> slide 1 width: 1365px; left: -1365px; t
+ransition-duration: Ons; transform: translate(-1365px, Opx) translatez(9p
+”
+> slide 2 width: 1365px; left: -2730px; t
+ransition-duration: Ons; transform: translate(-1365px, Opx) translateZ(9p
+”
+> slide 3 width: 1365px; left: -4095px; t
+ransition-duration: Ons; transform: translate(-1365px, Opx) translateZ(9p
+”
+Y slide 4 width: 1365px; left: -5460px; t
+Tansition-duration: Ons; transform: translate(@px, Opx) transtateZ(@px)
+false ‘https ://diasp.org/camo/050df36../68747.6c6 ,
+Styles Computed Layout Listeners DOM Br >»
+Fi _
+Lenent sty
+a4opx
+#blueinp-gallery .slides .slide-content ietop- 12517478. c35:5
+80px
+15px;
+blueinp-gallery>. slides>. stide>.sLide-con ietop- 12517478. c35:5
+imp-gatlery inp-gatlery>.n
+imp-gatlery : y pau!
+inp-gallery, .blueinp- top: 1a5.17478..c55:5
+gallery>.slides>, slide>. slide-content,
+» onacity 6.25 Pllinear: ~
+Console What's New x x
+Highlights from the Chrome 90 update
+New CSS Flexbox debugging tools
+=|
+
+New Core Web Vitals overlay
+

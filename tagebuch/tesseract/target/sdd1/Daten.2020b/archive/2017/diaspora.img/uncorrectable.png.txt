@@ -1,0 +1,37 @@
+Re Re mw FEE ee Uw Le DB he | jo (ae Li @ Sof x\@R(&VO\mmS (BT G\O2\Gre
+
+&° > G Di mail.fsfeurope.org/pipermail/discussion/2016-April/010912.html
+
+these
+
+Timothy Pearson
+Mon Apr 4 17:06:23 CEST 2016
+
+jormance
+
+* Previous message architecture
+
++ Next message ing
+* Messages sorted by: firmware
+power
+platforms
+-----BEGIN PGP SIGNED MESSAGE- - - -- th
+
+Hash: SHAL
+intel
+all, avail
+proc
+It has recently come to my attention that many in the free software ned
+movement are unaware of a relatively new development on x86 platforms
+
+that permanently removes the ability to use these platforms without also
+continually executing signed, proprietary code at the highest possible
+privilege level. all post-2013 (AMD) and virtually all post- 2009
+(Intel) systems contain this mandatory technology, and therefore, by
+design, can never be converted to run using pure FOSS. Prior to these
+changes projects such as coreboot could be used to replace the boot
+firmware with a FOSS alternative.
+
+The technologies in question are the Intel Management Engine (ME) and
+the AMD Platform Security Processor (PSP). Both serve effectively the
+

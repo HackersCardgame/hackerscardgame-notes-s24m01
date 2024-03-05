@@ -1,0 +1,36 @@
+From Mail Delivery System <Mailer-Daemon@mxoutO17.mailhostpint.ch> tr
+Subject Mail delivery failed returning message tosender
+To Me-<mait@marclandoltch> te
+
+© Reply | > Forward | @ Archive | G Delete | More
+5:24PM
+
+This message was created automatically by mail delivery software.
+
+‘A message that you sent could not be delivered to one or sore of its
+recipients. This is a permanent error. The following address(es) failed
+
+askdgjakljadaaa,ch
+host 2gw03.ag.ch [193.47.120.64]
+SMTP error from renote sail server after ACPT TO:<askdgjakl jadag.ch>:
+550 #5.1.0 Address rejected.
+
+Reporting-MTA: dns; mxout017.nail.hostpoint .ch
+
+Action: failed
+Final-Recipient: fc822:askiaiakljodesa.ch
+
+status: 5.0.0
+
+Renote:Ta: dns; xmgv02.ag.ch
+
+Diageostie-Code! stp; 550 #5.1.0 Address rejected
+
+Return-path: <iail@sarclandalt.ch>
+
+Received: fron {10.0.2.45] (helomasatp012.nail.hostpoint.ch)
+by sxoutOl?.nail.hostpoint ch with esutp (Exim 4.92.3 (Free8s0))
+(envelope. from <injignarclandolt.che)
+4d IjoTh1-coecez-19; Thu, 25 Jun 2020 17:21:35 +0200
+
+Unread:7 Total: 4

@@ -1,0 +1,55 @@
+Land:
+IBAN (Konto):
+
+Zahlung
+Betrag:
+
+Zahlungsgrund:
+
+Zahlungsreferenz:
+
+Belastungskonto:
+Ausfihrungsdatum:
+
+Buchung
+Salérzahlung:
+Einzelbuchung
+Buchungstext:
+
+Auftragsnummer:
+
+‘THUST SABINE
+
+10117 BERLIN
+
+DEUTSCHLAND (DE)
+DE86120300000016780264
+
+EUR 9.90
+
+Bank des Beginstigten
+BIC (SWIFT): BYLADEM1001
+Bankcode:
+
+Name derBank: DEUTSCHE KREDIT BANK A.G. BERLIN.
+
+StrasseiNr.
+PLZIOn: 10117 BERLIN
+
+Land: DEUTSCHLAND (DE)
+Kosten und Instruktionen.
+
+Kosten: Auftellung der Kosten
+Instruktionen: Keine
+
+(CH73 0023 1231 6679 2440 F CHF UBS Privatkonto Marc Landolt jun.
+
+28.07.2011
+
+9931209711423308
+
+Avisierung,
+
+Belastungsanzelge: Nein Ohne Details: Nein
+
+Zu “Ausgefihrie Auftrage” | | Drucken (PDF).

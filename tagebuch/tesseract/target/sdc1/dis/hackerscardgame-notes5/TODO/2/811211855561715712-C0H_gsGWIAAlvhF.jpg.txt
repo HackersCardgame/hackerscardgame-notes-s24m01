@@ -1,0 +1,3 @@
+The 16-core Parallella has roughly 5.0 GFLOPs/W, and the 64-core Epiphany-IV made with 28 nm estimated as 50 GFLOPs/W (single precision),(?*] and 32-board
+system based on them Me crops. comparison, top GPUs from AMD and Nvidia reached 10 GFLOPs/W for single precision in 2009-2011
+timeframe.71

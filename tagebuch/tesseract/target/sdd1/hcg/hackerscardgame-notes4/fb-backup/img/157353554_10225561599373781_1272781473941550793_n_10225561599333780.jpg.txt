@@ -1,0 +1,36 @@
+BVOC)» k/M|O@m| Malo ule
+
+|Srh/@w|Mealwk|/Hvu/OK/Oa|@c|Hc|wul/@k|we| fF «|@o/@o/@A/SeE|Sul/Pn/@n| ss oj@ol|M1/@clck| Go ax + -
+
+€ Gs @ link springer.com/article/10.1007/s10676-018-9466-4 xr 2 @
+vay Springer Link Search Ql Login
+Original Paper | Open Access | Published: 30 July 2018
+Brainjacking in deep brain stimulation and
+autonomy Sections Figures References
+Jonathan Pugh®,, Laurie Pycroft, Anders Sandberg, Tipu Aziz & Julian Savulescu abatact
+Ethics and Information Technology 20, 219-232(2018) | Cite this article Scientific background
+4118 Accesses | 11 Citations | 9 Altmetric | Metrics Brainjacking and the different dimensions of auton...
+Conclusion
+Abstract Notes
+References
+‘Brainjacking’ refers to the exercise of unauthorized control of another’s electronic brain Acknowledgements
+implant. Whilst the possibility of hacking a Brain—-Computer Interface (BCI) has already been Aathor formation
+proven in both experimental and real-life settings, there is reason to believe that it will soon be Rights and permissions
+possible to interfere with the software settings of the Implanted Pulse Generators (IPGs) that About this article
+
+play a central role in Deep Brain Stimulation (DBS) systems. Whilst brainjacking raises ethical
+concerns pertaining to privacy and physical or psychological harm, we claim that the
+possibility of brainjacking DBS raises particularly profound concerns about individual
+autonomy, since the possibility of hacking such devices raises the prospect of third parties
+exerting influence over the neural circuits underpinning the subject’s cognitive, emotional and
+motivational states. However, although it seems natural to assume that brainjacking
+represents a profound threat to individual autonomy, we suggest that the implications of
+brainjacking for individual autonomy are complicated by the fact that technologies targeted by
+brainjacking often serve to enhance certain aspects of the user’s autonomy. The difficulty of
+ascertaining the implications of brainjacking DBS for individual autonomy is exacerbated by
+the varied understandings of autonomy in the neuroethical and philosophical literature. In
+this paper, we seek to bring some conceptual clarity to this area by mapping out some of the
+
+prominent views concerning the different dimension of autonomous agency, and the
+
+& 1) ow ,

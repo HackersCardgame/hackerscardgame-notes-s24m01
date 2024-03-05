@@ -1,0 +1,8 @@
+HTTP status ranges in a nutshell:
+1xx: hold on
+2xx: here yOu go
+S3xx: gO away
+4xx: you fucked up
+5xx: | fucked up
+
+-via @abt_programming

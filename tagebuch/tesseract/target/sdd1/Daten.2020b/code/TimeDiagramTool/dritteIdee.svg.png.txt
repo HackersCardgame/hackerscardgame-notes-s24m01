@@ -1,0 +1,23 @@
+Server
+
+Push/Pull
+
+: Request fakultativ aber Uberall
+
+: implementiert damit man per : :
+: Knopfdruck den aktuellen Wert bt :
+: lesen kann was ohne sehr misahm = .
+! wird wenn man die Verbindung . :
+:  testen méchte : :
+s .
+. .
+. .
+. .
+. .
+: Interfaces zu :
+
+Externe Devices - bestehenden
+ii : Datenquellen
+
+z.B. Raspi mit LoRa Leansesteansesteansesteanststeansteessnstsevansesnnanseeeed
+

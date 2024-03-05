@@ -1,0 +1,41 @@
+= Observer Pattern
+
+(“observer Subject
+server <> +observerCollection
+
+[+update() J +registerObserver(observer)
++unregisterObserver(observer)
++notifyObservers()
+
+y,
+
+| notifyObservers()
+for observer in ohservercoltection
+( concreteObservera | call observer.update()
+t J
+[+update() J
+UNIFIED ~ >
+
+f ConcreteObserverB | MODELING
+
+|+update()
+
+Inventor: Erich Gamma, Richard Helm ... ~1994
+Das Observer Pattern (oder auch Listener Pattern) ist
+ein Design Pattern in der Software Entwicklung. Es
+gehort zu der Kategorie der Behavior Patterns.
+
+Nicht Techies denken allenfalls, dass das "observer
+pattern" heisst, dass alle in der IT and Computer
+Wissenschaft illegale Uberwachung betreiben und
+sogar fur den NSA / CIA arbeiten.
+
+(Verallgemeinerung) In Wirklichkeit hat das Wort
+Observer Pattern nichts mit Uberwachung zu tun.
+
+Aber logischerweise kann das Design Pattern fur
+illegale Uberwachung missbraucht werden.
+
+Um das Design Pattern zu lernen implementiere
+Observer Pattern z.B. in Java or Python
+

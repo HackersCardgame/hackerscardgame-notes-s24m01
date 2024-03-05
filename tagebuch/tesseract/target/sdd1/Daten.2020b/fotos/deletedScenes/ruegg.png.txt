@@ -1,0 +1,6 @@
+ASA ‘(Unknown Denied IGMP type=3, code=t from 197.2.24.146 on interface outside
+@ Asa (Unknown Deny UDP reverse path check from 0.0.0.0 to 192.168.176.1 on interface rueogg
+@O Asa ‘Unknown
+
+Inbound TCP connection denied from 192.168.179.10/22 to 192.168.1.69/65376 flags ACK on interface DMZ
+

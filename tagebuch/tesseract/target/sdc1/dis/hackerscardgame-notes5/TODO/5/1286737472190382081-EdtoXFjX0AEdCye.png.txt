@@ -1,0 +1,59 @@
+Activities &) Terminal ~ Jul24 20:55 Aw Be
+
+writing objects: 100% (8/8), 27.52 MiB | 3.08 HiB/s, done.
+Total 8 (delta 4), reused 0’ (delta 0), pack-reused &
+remote: Resolving deltas: 100% (4/4), ‘completed with 4 local objects.
+
+To github. coa:braindef ackerscardgase1l.9it
+57297600. -2a0adb47 master => master
+narcédebian!~/disk/Mackerscardganelis cd
+eare@debian:~$ cd di
+bash ¢d: diz No such file or directory
+sarcedebian:~$ CO OY
+bash: 0: command not found
+nare@debian:~S cd disk/
+jare@debian:~/disks.¢ Daten. 2020b/tageduch/
+narcédebian:~/disk/Daten.2020b/tagebuchs find . [grep -1 cra°c
+ware@debian:~/disk/Daten.2020b/tagebuchS. fgrep -ri cractro
+Binary file chaos/Komplett.txt matches
+Binary file chaos/att-nospace.txt matches
+Binary file chaossatles.txt matches
+chaos/output.txt:, 2 eractro
+chaos/good-conputer-user.txt:/Infect/ Kids as a Cractro, maybe dt-decision bigger.
+Binary file ayLife.old/ait nospace.txt matches
+Binary file ayLife.old/Tagebuch/2009/konplett. txt matches
+Binary file ayLife.old/Tagebuch/2009/wordcount. txt matches
+nyLife.old/Tagebuch/2009/evaluator Wordcount txt: 3 cractro
+Binary file ayLife.old/Tagebuch/2009/evaluator/‘teap.txt matches
+Binary file ayLife.old/Tagebuch/Analyse/attes. txt matches,
+nyLife.old/Tagebuch/Analyse/output.txt: 2 cractro
+Binary file ayLife.old/Tagebuch/2005/wordcount.txt matches
+nyLife.old/Tagebuch/2005/evaluator /Wordcount Cx 3 eractro
+Binary file myLife,old/Tagebuch/2005/evaluator/tenp. txt natehes
+nyLife.old/Tagebuch/2005/allfaelliger Sohn bzw. Kinder/good-conputer-user.txt:/Infect/ Kids as a Cractro, maybe dt-decision bigger.
+Binary file myLife.old/atl.txt matches
+Binary file all _nospace. txt matches
+2015/wordcount. txt: 26 cractro
+2o1S/evaluator/Wordcount.txt: 4 cractro
+Binary file 2015/evaluator/tenp.txt matches
+Binary file 2015/tenp. txt matches,
+Binary file 2008/komplett. txt matches
+‘ary file 2009/wordcount.txt matches
+2009/evaluator /wordcount txt: 2 eractro
+Binary file 2009/evaluator/temp.txt matches
+Binary file att.txt matches
+inary file myLife/2009/konplett.txt matches
+Binary file ayLiferanalyse/attes. txt matches
+nyLifesAnalyse/output.txt: 2 cractro
+nyLife/2005/Al faeltiger Sohn bev. Kinder/good-conputer-user.txt:/Infect/ Kids as a Cractro, maybe dt-decision bigger
+nary file clean/2018/altes.2015.tar matches
+Binary file clean/2009/alles.2009.tar matches
+Binary file clean/Analyse/aties.2013.tar matches
+Binary file Analyse/altes.txt matches
+analyse/output.txt: 2 cractro
+Binary file 2005/wordcount.txt matches
+2005/evaluator/wordcount.txt: 2 eractro
+Binary file 2005/evaluator/tenp. txt matches
+2005/ALLfaeltiger Sohn baw. Kinder/good-conputer-user.txt:/Enfect/ Kids as a Cractro, maybe dt-decision bigger...
+narc@debian:~/disk/baten.2020b/tagebuchs
+

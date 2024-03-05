@@ -1,0 +1,24 @@
+3 3 8 8
+
+last min ag max last, min ag max
+H Incoming traffic on interface ethO [avg] 464.94 Pops. Obps 148.15 Pbps 1.11 Ebps Ml Incomingtraffic on interface eth [aval Obps bps 13317Pbps 1.11 Ebps
+B Outgoing traffic on interface ethO [ava] Obps Obps 212.38 Pbps 249Ebps HH Outgoing traffic on interface ethl [avg] 16.27 Tbps bps 148.01 Pbps 1.13 Ebps
+
+vigor: Traffic on interface wan-wan1 (3h) vigor: Traffic on interface lan-lan1 (3h)
+100 Mbps 100 Mbps
+i Festal ~ pant inet, mn
+meee 4 es 4 e “ s % Ss # 8 4 mee ft es Ye 4“ se 4 Ss # fo 4 ot
+Hy Hy 7 Hy
+last min wg last min wg
+
+Incoming traffic on interface wan-wanl [avg] 30.65 Mbps 415Mbps 60.78 Mbps Incoming traffic on interface lan-lanl avg] 30.76 Mbps. L.SLMbps 63.63 Mbps 99.
+B Outgoing traffic on interface wan-wanl avg] 27.51 Mbps 1.09Mbps 60.93 Mbps. BW Outgoing traffic on interface lanlanl favo} 32.57 Mbps 453Mbps 62.38 Mbps 9
+
+Zabbix 3.0.32. © 2001-2021, Zabbix SIA
+
+Eby
+
+oby
+
+Bincor
+Houta

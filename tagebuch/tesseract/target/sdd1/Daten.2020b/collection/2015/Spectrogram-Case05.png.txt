@@ -1,0 +1,18 @@
+Electrode on Back of Head 2014-04-30, Test 05
+=a ay oe, Bal i Se 52h ae el
+IFN = 1024, fs = 250 Hz 2 = 7 : °
+Jp Clim = [-26 14] a
+
+Frequency (Hz)
+
+8 Hz 10 Hz 12 Hz
+4Hz 5 Hz 6 Hz
+
+14 Hz
+7Hz
+
+16 Hz
+8 Hz
+
+18 Hz
+9Hz

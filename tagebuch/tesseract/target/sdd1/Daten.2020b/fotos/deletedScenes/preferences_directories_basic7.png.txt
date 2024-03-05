@@ -1,0 +1,25 @@
+‘Audacity Preferences [x=
+Devices Temporary files directory
+
+Playback fe
+Record Loci: | Cases Wrneintacieneipaionty-towe | iehee]
+Quaity Free Space: 254.8 G8
+
+ieee uci cache
+
+Tmport /Export | Pv andor record using RAM (useful for slow drives)
+
+Projects Minimum Free Memory (MB): 16
+
+Libraries If the available system memory falls below this value, audio wil no longer
+
+Spectrograms | be cached in memory and willbe written to dik.
+
+‘Warnings
+
+Effects
+
+Keyboard
+
+Mouse
+

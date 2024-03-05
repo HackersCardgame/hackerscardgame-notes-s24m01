@@ -1,0 +1,50 @@
+Tasks UI Legend &
+Tasks Priorities
+
+(0 Task 2 Very High
+
+& Category ! High
+
+Gy Query Normal (default)
+
+® Date range » Low
+
+Open TaskList. 3 Very Low
+Task Activity
+
+(1) Scheduled for today
+{5 Past scheduled date
+
+© Past Due date
+Adjust Colors and Fonts.
+Task Context
+@ Focus view on active task
+Inactive task with no context
+
+Inactive task with context
+© Active task
+
+Synchronization
+
+> Newtask, open to view
+
+‘changes, open to view
+
++ Outgoing changes
+
+© Unsubmitted outgoing changes
+
+& Synchronization failed, mouse over for details
+© Conflicting changes, need to synchronize
+
+Bugzilla
+
+[a] blocker
+[p) critical
+[s) major
+{a} enhancement
+(2) trivial
+Also see the Getting Started documentation online
+
+® Incor
+

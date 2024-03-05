@@ -1,0 +1,25 @@
+Dear @coldhakca,
+
+As a precaution, we are alerting you that your Twitter account is one
+of a small group of accounts that may have been targeted by state-
+sponsored actors. We believe that these actors (possibly associated
+with a government) may have been trying to obtain information such as
+email addresses, IP addresses, and/or phone numbers.
+
+At this time, we have no evidence they obtained your account
+information, but we’re actively investigating this matter. We wish we
+had more we could share, but we don’t have any additional information
+we can provide at this time.
+
+It’s possible your account may not have been an intended target of the
+
+suspected activity, but we wanted to alert you as soon as possible. We
+
+recognize that this may be of particular concern if you choose to Tweet
+using a pseudonym. For tips on protecting your identity online, you may
+want to visit the "Tor Project (https://www.torproject.org/)" or EFF’s
+
+"Protecting Yourself on Social Networks" (https://ssd.eff.org/en/module
+
+/protecting- yourself -social-networks) .
+

@@ -1,0 +1,21 @@
+Activities) Image Viewer ‘Sep 12 12419
+
+8 2% @ sco3ss2e6
+
+Properties x
+‘Site 5152 3864 pels
+‘Type JPEGImage
+Filesize 67 MB
+Folder 10IMSOCE
+
+Aperture 13.5
+Exposure W6 sec.
+Focal Length 26.0 85mm fim),
+46 (lens)
+\s0 400
+Metering Malt spot
+‘Camera DSC-WBI0
+
+Date Tue, 12 Sept
+2003
+‘Time 112527 AM

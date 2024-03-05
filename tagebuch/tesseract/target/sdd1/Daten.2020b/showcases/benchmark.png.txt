@@ -1,0 +1,11 @@
+readconf ($CONF) ;
+my $bmbooted = new Benchmark
+
+# Handle a test
+
+if (ret) {
+printlogo();
+exit( testRelease( $rel, 1 ) ) if ( $options{1} )
+exit( testRelease($rel) );
+
+}

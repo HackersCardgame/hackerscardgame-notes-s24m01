@@ -1,0 +1,97 @@
+Activities
+
+‘ep Effo ~ RKI
+x
+
+https://diasp.eu
+
+© FirefoxESR >
+
+(16)
+
+Wed Jun2 13:57
+
+By Die Nato Har | G koor
+0 @ ddiasp.eu
+ra Eur
+
+Landev
+
+we °
+
+Freifunk Rombachtael
+
+es ist nur ca 10 Minuten Aufwand, um einen #rsyslog unter #linux
+zu installieren und in allen Router einzutragen:
+
+= http://www.ignored.ch:9000/log/syslog =
+
+A Achtung: Infrastruktur wird mutmasslich auch von fehlbaren Behorden iiberwacht
+
+somit empfehlen wir #TAILS oder mindestens einen MAC-Address-Changer, insbesondere
+fiir Menschen die z.B. Beweismittel beziiglich Straftaten durch z.B. den Staat selber oder
+durch grosse Juristische Personen (Firmen) veréffentlichen méchten
+
+#Freifunk #Rombachtaeli #FreifunkRombachtaeli
+http://marclandolt.ch/FreifunkRombachtaeli!
+
+MAC-Changer Script on #Debian #Jessie
+http://marclandolt.chiscriptichange-mac.sh
+
+unter #WINdows bitte selber schauen.
+
+Marti
+Schu:
+
+(15)
+
+Stati
+
+(16)
+
+120%) | s+
+
+ignin Create account
+
+le
+2hs
+5
+
+Matthias Ammm -
+
+Bitte bedenkt, dass es eigentlich Aufgabe des Daten-Sammlers ist, diese so schnell
+wie méglich zu anonymisieren / pseudonymisieren. Es geht da ja auch etwas um
+Verantwortung, denn Freifunk kann ja wunderbar fiir Bewegungsprofile genutzt werden
+
+Pavithran S -
+
+Tails wie Snowden
+
+lol, snowdens name is really in the software?
+
+Landev -
+“Der NSA hat uns schriftlich versicher
+
+(1)
+
+Ich erachte es da als sinnvoller, aufuzeigen, wie einfach sich Uberwachung
+bewerkstelligen liesse, im eigenen Netz (In der Schweiz meines Wissens legal), und
+so kann dann jeder am Beispiel sehen, wo er mit seiner MAC Addresse (einer von
+~100 eindeutigen Fingerabdriicken) vorkommt und die grdssten Mafia (der Staat) ihm
+dann so den Vergewaltiger-Terroristen anhangen kénnte.
+
+https://www. piraten-aargau.ch/2015/12/16/verseuchungszone-aaraufreenet/
+
+@Matthias Ammm: Ausserdem sollte man sich definitf nicht auf Datensparsamkeit
+beim Erfasser verlassen. GOTO [1]
+
+[1] http://www.welt.de/politik/deutschland/article118949176/Pofalla-erklaert-NSA-
+Affaere-fuer-beendet.html
+
+Martin Schuster -
+Okay, ich gebs zu, ich bin grade zu bloed: Warum soll ich meine Router-logs an
+ignore.ch schicken?
+
+Landev -
+@martin: missverstandnis, oder schlecht formuliert von mir..
+

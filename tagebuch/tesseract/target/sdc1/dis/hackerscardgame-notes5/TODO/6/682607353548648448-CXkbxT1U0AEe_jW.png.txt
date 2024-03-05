@@ -1,0 +1,45 @@
+Spe en CeJts)
+
+7 7 a o7 rT r v5 Tomy
+[fnst]$". ‘I\'11$", ‘into$’, '*I\'ve$", ‘isn\'t$', ‘its(elf)7$', 'it\'s$', ‘Llast$', ‘Less$', ‘*many$', '*me$", ‘*may$", '*might$",
+‘smillions?$', '*Lmn]ine$', '‘*m{uo]st$', ‘*much$', ‘*mustn\'t$', '*my(self)?$', 'near({Ubly)?$", '@neither$', ‘*never$', ‘*next$', '*nineteen$',
+‘sninety$', ‘Aninth$', '*no[rtw] ?$', ‘*nobody$', ‘*n?one$', ‘*noone$', ‘“nothing$', ‘*nowhere$', ‘*off2$", ‘*often$', ‘*olrnl$', ‘*once$", ‘only
+$', ‘others?$', ‘*ought(n\'t) 2", '*ours?$", '*ourselves$', ‘*out$', ‘“over$', ‘“quite$', ‘*rather$', ‘*round$', '*seconds?$', '*seven(teen) 7$',
+"seventh$', 'seventy$', ‘Ashall$', ‘“shan\'t$", '*she\'d$', 'she$', ‘Ashe\'l1$', '*she\'s$', '*should(n\'t)?$", ‘*since$', '*six(teen) 2$',
+‘*sixteenth$', '*sixth$', ‘sixtieth’, '*sixty$', '*so(me)?$", '*somebody$', '*someone$', '*something$', ‘“sometimes$', '*somewhere$', '*soon$',
+‘ostillg', ‘such$", '*ten(th)?$', '*thalnt]$', ‘“that\'s$', ‘*the(ir)?$", ‘*theirs$', '*themselves$', ‘“the[rs]e$’, ‘*thence$', '“therefore$',
+‘Athey\'d$', ‘*they\'11$', ‘Athey\'reg$', ‘Athe[mny]$', '*third$', ‘*thirteen$', ‘*thirty$', ‘*this$', ‘*those$', ‘*though$', ‘*thousands?$', '“three
+$', ‘*thrice$', '“through$', ‘*thus$', ‘“till$', '*too?$', '*towards$', ‘*today$', ‘“tomorrow$', '“twelve$', 'Atwentieth$', ‘Atwenty$', ‘Atwices',
+'stwo$', ‘“under(neath) ?$', ‘*unless$', ‘*until$', ‘*ulps]$', '*very$', ‘Awhen$', 'Awas(n\'t)?$', 'Awe$', 'Awe\'d$', ‘Awe\'l1$', 'Awere$', 'Awe\'re
+$', '*weren\'t$', 'we\'ve$', 'what$', 'whence$', 'where(as)?$', 'which$', 'while$', '*whom?$', '*whose$', 'why$', 'Will$', 'with(in) 7$',
+
+‘Awithout$', '*won\'t$', 'would(n\'t) ?$', ‘*yelst]$', ‘“yesterday$', ‘*your?$', ‘*you\'d$ "*you\'l1$', ‘*you\'re$', ‘*yours(elf) ?$", ‘*yourselves
+$', ‘*you\'ve$', ‘*www$', ‘*com$', ‘“org$', ‘*net$', ‘*more$', ‘*http$', ‘*meine$', ‘“ZORS', ‘wills’, ‘am$', ‘*mal$', '“also$', ‘*neues$', '*wer
+
+$', '*diese$', '“immer$', '*machen$', ‘*ch$', '*keine$', ‘“beim$', ‘*etc$', '“vor$', '*einem$', '*mehr$', ‘*einer$', ‘“war$', ‘*durch$', '*schon$', |
+‘alles’, “wir$', ‘*zb$', ‘aus$', '*the$', '*macht$', 'nach$', '*ber$', '*zun$", '*heute$', 'Aihr$', ‘Anur$', ‘ja$', “seing', 'Mgagen$', '*habe
+
+$', ‘*noch$', '*mir$', '*sind$', '*einen$', '“des$', ‘“wiirde$', '“da$', ‘*werden$', '“kann$', ‘*was$', '“aber$', '“haben$', ‘“um$', '“sich$', '“bei
+$', '*mich$', '*eine$', '“oder$', ‘*dem$', ‘ware$', ‘Awird$', ‘an$', ‘*so$', ‘Awie$', 'wenn$', ‘Awohl$', ‘*sie$', ‘er$', ‘ims’, ‘*als$', ‘auch
+$', ‘*fdr$", ‘*dass$", ‘“es$", '*hat$', ‘*nan$', ‘*dann$', ‘Cauf$', ‘*den$', ‘*nicht$", '*somit$', ‘*ein$', '*ist$", ‘*von$', ‘nit$', ‘*ich$', ‘zu
+$1, ‘ing’, ‘*das$', ‘Cund$', ‘Ader$', ‘Adie$', ‘“gegeniiber$', '“is$', ‘*ob$', 'Awirklich$', ‘*apropos$', '*kein$', ‘*meiner$', ‘Aunter$', ‘Aviel$',
+‘*dieser$', '*ihm$', '*sagt$', ‘“alles$', '*jeder$', ‘Awiirden$', '*soll$', '*bzw$', '*denn$', ‘andere$', '*nun$', ‘Aheissen$', '*dazu$', '“geht$',
+'aviele$', 'Aweshalb$', 'bis$', '“hier$', '*frage$', '*kdnnte$', '*bitte$', '“du$', ‘grad’, ‘*jahre$', ‘*nett$', ‘lassen$', '*seine$', ‘*vom$',
+‘*damit$", '“dies$', '“gut$', ‘*wurde$', '*kdnnen$', ‘*muss$', ‘*seit$', ‘wegen$’, ‘*hatte$', ‘*scheinbar$', '*a$', '*to$', ‘*doch$', ‘*sei$', ‘cia
+$', 'eigentlich$’, ‘jetzt’, ‘“ohne$', ‘~weil$', ‘*wo$', ‘bing’, ‘*eines$', ‘*nlisste$', ‘*of$', ‘*scheint$', ‘*selber$', ‘*gepostet$’, ‘“tater$’,
+‘*danach$', ‘Awieder$', '*teil$', ‘*meing', 'Agibt$', ‘*jahren$', '*jeweils$', ‘*marclandolt$', ‘*marc$', ‘“Landolt$', '*https$', '“logs$', ‘72018
+$', '*2017$', '*2016$', '*2015$', '*2014$", '*2013$', '*2012$", '*2011$", '*2610$', '“2009$', '*2008$", '72007$'
+
+M
+break;|
+default:
+$patterns = false;
+break;
+}
+return $patterns;
+t
+y
+
+Functions to remove empty values from arrays
+
+PHP > Tab Width: 8 > Ln 179,Col31 > INS

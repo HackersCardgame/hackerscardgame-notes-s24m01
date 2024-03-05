@@ -1,0 +1,43 @@
+Q marc@debian: ~/pri35/pci/install me - «0 @
+as
+
+mysql> select * from config2 where configFile = "BBR.cfg
+oo aa
+| configFile | parameter | modifier | term | linenumber |
+
+| BBR.cfg | AFFILS =| | AVRATTNING ELOHiM HENRETTELSE iNSPiRiT NEXTGEN RESURRECTION TViLLAGE XCODE MATTER | 1/
+| BBR.cfg | | | | 21
+| BBR.cfg | blacklist | | -STRiFE -SharpHD -1891 -NEGERLEiF -PRiNCE -sweHD | 3]
+| BBR.cfg | | | | 4)
+| BBR.cfg —|_rule | BOOKWARE | BOOKWARE filter: (AddisonWesley Apress ,CBTNuggets ,Cisco, ICOLLEGE ,OREILLY,Packt ,Pearson, SAMS ,StoneRiver ,Technics,TotalTraining) std | 5 |
+| BBR.cfg | | | | 6 |
+| BBR.cfg —|_rule | GAMES | GAMES group: (ACTIVATED, BAT, CODEX, CPY,HI2U,PLAZA,Razor1911,RazorDOX ,RELOADED , SKIDROW , STEAMPUNKS ,TiNYiSO) std | 7
+| BBR.cfg —|_rule | Dox | DOX group: (ACTIVATED, BAT, CODEX,CPY ,HI2U, PLAZA,Razor1911,RazorDOX , RELOADED, SKIDROW, STEAMPUNKS , TiNYiSO) std | 8 |
+| BBR.cfg | | | | a]
+| BBR.cfg —|_rule | MOVIES | MOVIES bluray x264 1080p group: (AMIABLE, BLOW, DEFLATE , DRONES , GECKOS ,HD4U, PSYCHD ,Replica, SAPHiRE,SiNNERS,SPARKS) limited std stv cls | 10 |
+| BBR.cfg —|_rule | MOVIES | MOVIES bluray x264 1080p year:2018 limited Lrating:5 lvotes:500 FR std | 11 |
+| BBR.cfg —|_rule | MOVIES | MOVIES bluray x264 1080p DK NO SE NORDIC external nodupe 2D cls | 12 |
+| BBR.cfg | | | | 2B |
+| BBR.cfg —|_rule | MOVIES | MOVIES bluray uhdrip 2160p internal group:(IAMABLE) limited stv cls nonfo std | 14 |
+| BBR.cfg —|_rule | MOVIES | MOVIES bluray uhdrip 2160p FI NO SE NORDIC limited stv cls nonfo std | 15 |
+| BBR.cfg —|_rule | MOVIES | MOVIES uhd EN FI NO SE external nodupe 2D cls | 16 |
+| BBR.cfg | | | | 17 |
+| BBR.cfg —|_rule | MOVIES.WEBRIP | MOVIES webrip web stv 1080p 2160p rating:5 votes:1000 Lrating:5 Lvotes:1000 year:2018 Language:(English) h264 h265 x264 x265 limited std | 18 |
+| BBR.cfg —|_rule | MOVIES.WEB | MOVIES webrip web stv 1080p 2160p rating:5 votes:1000 Lrating:5 lvotes:1000 year:2018 Language:(English) h264 h265 x264 x265 limited std | 19 |
+| BBR.cfg | | | | 20 |
+| BBR.cfg —|_rule | ps4 | Ps4 pal rf ntsc std dupesjpn jtag | 21 |
+| BBR.cfg | | | | 22 |
+| BBR.cfg —|_rule | TV.BLURAY | TV 720p 1080p 2160p bluray internal Language:(English) std | 23 |
+| BBR.cfg —|_rule | TV.UHDRip | TV 72@p 1080p 216@p uhdrip internal Language:(English) std | 24 |
+| BBR.cfg —|_rule | TV.SE | TV 720p 1080p 216@p bluray web webrip SE | 25 |
+| BBR.cfg —|_rule |v | TV 72@p 1080p 2160p scripted nw_us nw_gb nw_ca web webrip internal language:(English) std h264 h265 x264 x265 dupeshdtv | 26 |
+| BBR.cfg —|_rule |Tv | TV 720p 1080p 216@p scripted network: (amazon,netflix, youtube, youtube-premium) web webrip internal Language:(English) std h264 h265 x264 x265 dupeshdtv | 27 |
+| BBR.cfg | | | | 28 |
+| BBR.cfg | | | | 29 |
+| BBR.cfg | | | # NAME PATH | 30 |
+| BBR.cfg | cbftp-dir | GAMES | /incoming/games | 31 |
+| BBR.cfg | cbftp-dir | DOX | /incoming/games | 32 |
+| BBR.cfg | _cbftp-dir | MOVIES | /incoming/movies | 33 |
+1 1 1 1 1 1
+
+pep HFn h¥€ta die | mavtee ev “ldmemmi mn mmr ac ob

@@ -1,0 +1,25 @@
+teninatge Aci oo ae
+
+Het is mogelifk dat u niet automatisch kunt activeren omdat de server niet
+beschikbaar of bezet is of omdat beveiligingsinstellingen de communicatie met
+de server mogelijk verhinderen. In dat geval kunt u de handmatige
+activeringsprocedure gebruiken. Deze bestaat uit vier stappen:
+
+1. Klik in dit dialoogvenster op de knop OK.
+
+2. Hierdoor wordt een tekstbestand gemaakt dat uw code, een unieke ID voor uw
+machine en een productcode bevat. Als u dit bestand maakt op een machine
+zonder internetverbinding, kopieert u de tekst naar een andere machine en
+verzendt u deze vanaf dat punt.
+
+3, Kopieer deze informatie in een e-mailbericht en verzend het naar onze
+activeringsservice via VO
+‘support<activation.studio.support@visionobjects.com>. Wij zullen een
+activeringsbestand maken en het u via e-mail toezenden. Dit bestand kan slechts
+‘op één machine worden gebruik, nl. de machine waarop de originele aanvraag,
+werd gemaakt.
+
+4, Dubbelklik op het bestand licence.lic dat als bijlage bij de e-mail is verzonden.
+Hiermee wordt een kleine toepassing geopend die de
+handschriftherkenningssoftware activeert.
+

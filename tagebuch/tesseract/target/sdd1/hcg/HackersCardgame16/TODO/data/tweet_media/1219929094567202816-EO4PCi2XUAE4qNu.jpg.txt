@@ -1,0 +1,51 @@
+@ skype | Cpamus: | yw Home) | @Q7EN | HAADes: | Relays | @A7EW | w Home) | zypren | FBavkre | CD Tweets | EI TnisLin | Gitud | Keydoor | G debian | itu | @anome |GHowio |S bur x + x
+
+ORT ° = of wOouen
+Branpaces J
+Oe
+
+wuxtec ser comands a TT
+
+Tanguageindep link
+
+NAME pckage tracker
+raw man page
+
+Jump
+
+buckle - Nostalgia bucklespring keyboard sound
+
+SYNOPSIS
+buckle options] other versio
+stretch 1402
+DESCRIPTION testing 1402
+unstable 1402
+
+Buckle emulates the sound of an old 16M Hodel-M space saver bucklespring keyboard
+wile typing within an X session
+
+It runs as a background process and plays back the sound of each key pressed and
+released on the keyboard, just as if using an IM Model-H. The sound of each key
+has carefully been sampled, and is played back while simulating the proper
+
+distance and direction for a realistic 30 sound palette of pure nostalgic bliss.
+
+OPTIONS
+DEVICE use OpenAL auto device DEVICE
++ Use a fallback sound for unknom keys:
+“GAIN. set playback gain [0.100]
+a CODE
++ show help
+a List avatlable opentL audio devices
+
+“p PATH oad wav files from directory PATH
+“3 WIDTH set stereo wigth (0.100)
+w Increase verbosity /” debugging
+
+COPYRIGHT
+
+Bucklespring was written by Ico Doornekanp and 1s published under the teras of the
+GW General Public License version 2.
+
+This manual page was written by Dominik George for the Debian project.
+

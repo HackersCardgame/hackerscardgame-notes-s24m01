@@ -1,0 +1,18 @@
+215 0
+
+af
+
+x[audioTac ¥] 10
+
+Mono, 44100H2
+32-bit float 0.05
+
+X[Audio Trac ¥] 10
+
+Mono, 44100H2
+32-bit float 0.0-)
+
+X[Label Track ¥
+
+Label
+

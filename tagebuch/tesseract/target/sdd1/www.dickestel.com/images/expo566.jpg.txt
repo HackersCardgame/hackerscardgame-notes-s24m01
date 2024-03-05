@@ -1,0 +1,5 @@
+OS 4 Kernel (Kickstart Version 52.3)
+Copyright (CC) 1985-2606
+
+Hyperion Entertainment VOF and Amiga, Inc.
+ALL Rights Reserved.

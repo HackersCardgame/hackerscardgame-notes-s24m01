@@ -1,0 +1,60 @@
+Activities © FirefoxESR + FriJun4 09:36 a Ov
+M x ¢ a Fac
+
+hackaday.com, B 70%
+
+BUILDING A SATELLITE-
+TRACKING SYSTEM WITH COLD
+WAR TECH
+
+by: Cameron Coward @ 1Comments
+f¥Y Su August 6, 2016
+
+SEARCH
+The things Hackaday readers come up with and post over on Hackaday.o never cease to amaze us. If
+
+you've never checked it out, be careful — you can easily spend hours (or weeks) of your life just skimming
+through the projects that have been logged there. Many of the builds use modem development tools like | searct |
+
+Arduino and Raspberry Pi, but every so often we come across a project that takes a more difficult road.
+
+That's the case with {Keplermatik’s] Cold War-era satelite-tracking project, also aptly named Keplermatk. NEWER MISS A HACK
+
+This a build that’s stil in progress, which just means you've got the privilege of following along as it
+progresses! What makes this project so special? Aside from the fact that it's purpose is to track satellites,
+we think the sole use of vintage tech is a very cool and very ambitious goal
+
+f¥ean
+
+;Keplermatik] plans to spit the satelitetracking
+console into two sides: an American-tech side for
+‘racking the satellite's position, and a Soviettech
+side for tuning the radio and positioning the
+antenna. The idea is that hell get to use vintage
+technology from both sides of the Iron Curtain
+That should lead to some very interesting lessons
+about how these kinds of systems were designed
+by each side during the Cold War.
+
+SUBSCRIBE
+
+IF YOU MISSED IT
+
+MARINER 4: OUR FIRST
+UP-CLOSE LOOK AT
+MARS
+
+The build is stil in ts adolescence, but is defintely
+worth following along with. But, if you're craving
+more Soviet tech and need it right now, be sure to
+check out this post on Russian Cold War vacuum
+tubes.
+
+© 42 Comments
+
+1-22 VED alsplays will be used forthe “Soviet” side of
+the console KNOW AUDIO: START
+AT THE VERY
+
+BEGINNING
+

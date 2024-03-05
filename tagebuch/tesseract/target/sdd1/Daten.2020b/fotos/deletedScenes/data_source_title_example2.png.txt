@@ -1,0 +1,9 @@
+Snort sources
+
+Week 05 Week 07 Week 09 Week 11. ©» Week 13. Week 15
+From 2008/01/19 15:28:27 To 2008/04/19 15:28:27
+
+| Snort local sources
+Now: 104.11 Avg: 111.03 Min: 47.47 Max: 219.51
+W Snort remote sources
+Now: 667.01 Avg: 769.14 Min: 430.11 Max 2.41 k

@@ -1,0 +1,16 @@
++= Join: elof (~mjo@h10v2ftb31p876.com)
+(+) eof
+(13:09:13) (@ nave) hello
+(13:09:15) C+elof) hi
+(13:09:17) z nicks now known as ick-at
+(13:09:20) (+elof) where's abn?
+(13:09:23) (alin) here
+(13:09:25) (+elof) ok, pm
+(13:09:26) (@karl-berti) bla bla
+art: ingvar (id@h14022615353876,net)
+ingve changes topic to: Preview
+Join: bilythekid (~lame@455-b17ch cbh com)
+(13:09:39) (bilythekid) Hel, is this the preview channel?
+(13:09:42) (@ynav=) Yes ts
+(13:09:44) = Quit: Random (id@c-d7bd70dS.com) (Signed off)
+

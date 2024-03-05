@@ -1,0 +1,41 @@
+PROT O16
+
+JACK Audio Connection kit [(default)] started ® x
+
+Jamulus (3 users) x
+
+085 0.0.1 (Uinux) - Profile: Untit
+patchbay | Id WD | about.
+
+le Scene Collection Tools Help Input | Pan 192
+
+Center
+
+Deley®
+
+urrers@| 22 = e aT
+surtes@!SS
+B | reverb
+aan Mure | MM MUTE | MUTE
+me cist M@™ solo MM SOLO SOLO
+
+z joe ms
+
+Connections - JACK Audio Connection Kit - ©
+
+audio | MIDI ALSA
+
+Readable Clients / Output P Writabte clients / input Por”
+i alsa-jack jackP.5594.2 > IBLJACK input client-o2
+» iil jamutus \ » HIJACK Input Client
+
+> i Jamutus
+
+y yes, if you
+on he normally
+
+e-habit and so Desktop Audio
+CNG
+2 —— Settings vA »
+=o ei Disable tos
+(0) [Marc jr Landolt | Floppy]... 74¢ °o 06:32 187 mp3 31.03.20

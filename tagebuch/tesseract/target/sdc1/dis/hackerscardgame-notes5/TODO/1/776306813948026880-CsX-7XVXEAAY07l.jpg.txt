@@ -1,0 +1,17 @@
+Algorithmus zur erstellung eines "Touringvollstandigen" 3D Avatars diber z.B. #US4877027 oder z.B. #W02005055579A1 && Server/Mainf rar
+
+1) Vocie
+2) 3d Model / Bewegungsmuster
+3) Erinnerungen des Opfers / Bildmaterial von Schliisselszenen
+
+A) autonatisiertes Erstelen / automatisierte Bedienung
+B) autonatisiertes Erstellen / manuetle Bedienung
+
+C) manulelese Erstellen / autonatisierete Bedienung
+D) manuelles Erstellen / manuelle Bedienung
+
+i) KI / al
+ii) automated "Design Patterns"
+
+= INSERT 218,1 99%
+

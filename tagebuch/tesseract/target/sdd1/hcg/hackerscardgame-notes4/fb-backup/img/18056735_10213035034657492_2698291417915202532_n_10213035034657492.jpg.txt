@@ -1,0 +1,22 @@
+marc@debian:
+TEST
+marc@debian:
+
+marc@debian:
+
+marc@debian:
+
+~/temp3/ponysay$ echo TEST
+
+~/temp3/ponysay$ cowsay TEST
+(00)\.
+(_)\ WAN
+~/temp3/ponysay$ echo TEST | xargs cowsay
+(00)\.
+AN WAN
+~/temp3/ponysay$ echo TEST | xargs cowsay | lolcat
+(00)\.
+(_)\ VAN
+[[eeesme|
+Il Il
+~/temp3/ponysay$ fj

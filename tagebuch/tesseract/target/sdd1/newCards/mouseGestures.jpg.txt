@@ -1,0 +1,50 @@
+Activities © FirefoxESR + Jul23 12:52
+
+}
+
+var instances=0;
+
+//minmax algorithm that does the g
+function minimax(depth, player, in
+
+if
+
+//T:
+
+function isInCheck(player) {
+
+Neuenburc
+
+for(var i=0; icmoves. Length; i++, BrowserPlugin, aut der Webseite selber... oder ev. an mehreren Orten gleichzeitig
+) . )
+
+if (board[moves[i] [1] [©]*8+moVE) zeichne mit der Maus langsam Horizontalen, Vertikalen, Kreise,Diagonalen nach linksirechts,
+return ; und jetzt ganz fieberhaft und schnell oder ©iapot fuchteln.
+bitte kein V oder x, dann stirbt die Schildkréte :(
+
+return :
+
+if(resetCounter) instances=0;
+else instances+=1;
+
+var bestMove = [[0,0],[0,0]]; ¢
+if(depth < 1) return evaluateBoa ae \
+var moves = shuffle(possibleMove
+
+var bestValue=-1000000*player; |)
+for(var i = 0; i < moves. length;
+
+return moves;
+
+braucht viel ressourcen we,
+
+moves = possibleMoves(-player) ; | cetestetsoweit aut:
+chromium Linux debian 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u1 (2016-09-03) x86_64
+* . . GNU/Linux
+for(var i=0; i<moves. Length; i++ fretox inux debian 3.16.0-4-amdo4 #1 SMP Debian 3.16.36-1+deb8ut (2016-09-03) x86_64
+if (board[moves[i] [1] [0]*8+move) cnutinux
+retu rn . qupzilla Linux debian 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u1 (2016-09-03) x86_64
+GNU ini
+
+r in der obersten instanz aufgerufen
+

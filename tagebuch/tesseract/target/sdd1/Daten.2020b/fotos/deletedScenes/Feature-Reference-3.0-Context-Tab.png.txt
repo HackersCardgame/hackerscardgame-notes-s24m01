@@ -1,0 +1,29 @@
+Product Development & @ @ 3| |S)
+
+Retrieve Contest.
+
+“@ Copy Context to.
+G@ Cleat Context
+
++ Hements
+189 org.eclipsemylyn.tasks.ui_ [dev.eclipse.org]
+
+sre
+(AR tasks.ui
+[Rj AbstractTaskListFilterjava 1.23
+G AbstractTasklistFilter 1.23
+[Rj TaskTrimWidgetjava 142
+Q TesktrimWidget 1.42
+af TASK_ACTIVATION LISTENER
+Q new TskActivationAdapterd (.)
+@ taskDeactivated(Task)
+<F SHOW_TRIM LISTENER
+Q new IPropertyChangelistener0(..)
+@. propertyChange(PropertyChangeEvent)
+of TasktrimVlidget0
+@ setTrimVisible(boolean)
+‘@ createControl(Composite)
+1 createStatusComposite(Composite)
+D Messagesjava 11
+@ Messages 1.1
+

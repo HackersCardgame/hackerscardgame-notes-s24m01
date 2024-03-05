@@ -1,0 +1,71 @@
+@ Marr Lantot (Blonder X _eToeiDkdeSiedcanebNOBBSE XW Home/ Totter X _@ Moemoxcene| Facebook
+
+i
+var bestValue=-1000000*player;
+for(var i = @; i < moves.length; i+
+
+return moves;
+
+}
+(MM: braucht viel ressourcen wenn ¢
+
+function isIncheck(player) {
+moves = possibleMoves(-player) ;
+
+for(var i=0; i<moves. length; i++)
+if (board{moves[i] [1] [0] *8+moves[i
+return ;
+
+return 7
+
+}
+
+var instances=0;
+
+‘minmax algorithm that doe
+function minimax(depth, player, init,
+{
+
+if(resetCounter) instances=0;
+
+else instances+=1;
+
+var bestMove = [[0,0],[0,0]];
+if(depth < 1) return evaluateBoard(
+var moves = shuffle(possibleMoves (pl
+var bestValue=-1000000*player;
+
+for(var i= 0; i < moves. length; i+
+
+aon pmm=egag-:
+
+eo
+
+sorftzungan mit Via zu, 638i auch dbs etzbndngen zu seein
+
+Oann ht ine Stine mt Fokus de Stale wo man gad epletavszvevhten ee man ale
+
+ntr dr Hat tor Dab ch laren, dss da eine aun Hasetomang mt see
+true mich mit x24 versenden ich Angt habe, ass dar Laer aul de Hut Kies
+
+‘cir ght es sehontr een Enter et rant, wenn ch on engenachsoes Hat
+mean ct, das rd schon mt Aen Recognen eka, es ana da Spihass
+‘Slim she, desist emilch im Lintgchen Sate und int en ganzen Vegan
+Kepertegem Kote Soa, Tae, SenueerBesiging, was ena damsel
+_upoeeren Vttzungen Das macht iebesonae Manne ew Wet a True und
+Wied legen 2 sche,
+
+‘Os abich ach usgeinden ars 0 beste get wenn man 2 Tape vor dem Epiten
+lots Kine Boyton ervendet ama Ha ltr et,
+
+tts Hacker odor Wbowor machen Tater as Leben znszich che ntage
+st pra nd eine Phase er Voretzichke is. maclando hackers Carat
+fete
+
+cou
+
+‘Schreiben Sie einen Kommentar
+
+@esee@stxVrvge
+
+der obersten instanz aufger

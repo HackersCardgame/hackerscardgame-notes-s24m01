@@ -1,0 +1,18 @@
+Inventor:
+
+Originally developed by Delgado, now possibly been
+developed "in secrecy" since 60 Years, placed
+directly in the brain, and with software like OpenBCl
+and maybe Deep Learnign algorithms possibly
+recognizes even detaild thougths. No matter how
+good the encryption would be, if wires are mede out
+of metallic wires such devices would all be
+vulnerable to side channel attacks [fc = A / 2] if
+geometry if the wires are know and there is a device
+with enough power nearby.
+
+| tweeted to Elon Musk asking what he is going to do
+about this vulnerability in Neuralink, but he did not
+answer so far. Maybe Neuralink is just a honeypot for
+older technologies, and maybe Hashtags are filtered
+

@@ -1,0 +1,25 @@
+OP_CLASS
+OP_DEFINE _GLOBAL
+Set up inheritance:
+OP_GET_GLOBAL
+OP_GET_GLOBAL
+
+OP_INHERTT
+
+—_ | class Cruller
+
+any
+
+_ “>
+
+_ | class Doughnut |
+
+_ | class Doughnut |
+
+“9
+
+GLOBALS
+
+vy
+
+class Cruller

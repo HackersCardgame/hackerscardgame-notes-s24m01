@@ -1,0 +1,68 @@
+ABB-TS
+Software Engineering 2
+Klassenhierarchie der GUI GUI-Beispiel
+dell (Teil 1)
+ate eke Menu — PopupMenu import java.awt.*; Hein GUI f Be
+public class GUI extends Frame { isa Fetower
+O21] -
+Object aa Component }ry[ container Window Dialog FileDialog | cd a ier nacieoe f
+[| CheckboxGroup Label hl ScroliPane Frame |
+// Konstruktor
+[| FlewLsyout P| Button om Zr public GUI(String pTitel) {
+H GridLayout | [| Checkbox | super (pTitel) ;
+é mTestBtn = new Button ("Test");
+r[Bordertayout__| [| Choice ote 2 mTextField = new TextField (20);
+[| CardLayout [List | 0 NasetLayout (new FlowLayout ());
+dd(mTestBtn) ;
+GridBagLayout | [| Scrolibar | ee a :
+GridBag- [| Canvas ] TextArea | mTextField.setText ("Hallo Welt");
+Sores } // end constructor
+zi TextComponent TextField
+“~~
+GUI-Beispiel
+fe ar Methoden
+public static void main(String[] args) { ‘ Component
+— al GUE Mens GUL") —void setVisible(boolean b) _ sichtbar
+gui.setVisible (true) ; — void setEnabled(boolean b) aktiviert
+} // end main
+* TextComponent
+d cl ri .
+erat — void setText(String s) Text setzen
+— String getText() Text lesen
+—void setEditable(boolean b) — editierbar
+a
+
+3. Semester
+
+Ubungen
+
+1. Es soll das Projekt GUImitAWT mit der
+Entwicklungsumgebung (NetBeans) analysiert
+und gestartet werden. (Siehe FTP-Server).
+(Achtung: da noch kein Eventhandling
+programmiert ist, funktioniert das Schliessen
+des Fensters nicht. Die Applikation muss mit
+der Entwicklungsumgebung gestoppt werden).
+
+2. Figen Sie einen weiteren Button dem Frame
+
+hinzu. Er soll ,Ok“ heissen.
+
+Ubungen
+
+3. Probieren sie folgende AWT-K
+aus:
+
+Siehe Klassenhierarchie und J
+
+Package. Erweitern Sie dazu das GUI-
+
+Programm.
+
+omponenten
+
+ava API: AWT-
+
+© Marco Bontognali
+
+8. GUI mit AWT Seite 3

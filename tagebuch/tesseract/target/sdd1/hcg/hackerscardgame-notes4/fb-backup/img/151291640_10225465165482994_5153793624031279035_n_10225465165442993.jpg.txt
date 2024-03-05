@@ -1,0 +1,62 @@
+6
++
+i}
+
+English Version (Warning. uses Google Tr
+
+Suizid APP / suizid-app.ch
+
+ProjektBeschrieb. pdf
+
+Erkenntnisse aus dem Funktionalen Prototypen
+
+Programmiert ist so etwas relativ schnell:
+
+Serverseitige Installations Scripts und xMPP Backend auf Debian Linux, Server ab 5$ pro Monat
+WebSeite mit PHP und XMPP Interface als “Zentrale”
+Android App, Java Eclipse mit ADT, Developper Account mit Store, 25$ im Jahr
+
+iPhone App, Objective C, Apple xCode nervt, Developper Account mit Store, 99$ im Jahr
+
+Verantwortung und Systemsicherheit
+
+dies steht auf einem ganz anderen Blatt, betrachtet man die Méglichekeiten 2.B. des NSA, mit Quantum-Inserts, TURBINE, qFire (COMINT) und allfalligen SIGINT und HUMINT Netzwerken, evenutell mit Patenten wie US4877027, W02005055579A1, US616992451 wohl
+mittlerweile zu kompletter Humantelemetrie weiterentwickelt, hat man eher keine Chance einem Opfer oder einer Zielperson wirklich zu helfen, wenn die Geheimdienste das nicht wollen. Was dann sofort auch ein Problem fir die Reputation so eines Projektes
+ware. Der CIA wirde ein Opfer killen und dann die Presse (die im Westen gemass Julian Assange meist einen “geheminen” CIA Zensor hat) als Mulitplikator verwendet um so das Projekt abzuraumen, insbesondere dann, wenn es Zeilpersonen des CIA effektiv schutzen
+konnte.
+
+In Fall Breivik, Charlie Hebdo und auch im warauer Fall vom “Grosimrder™ waren alle im PflegeSystem oder in der Psychiatriesystem, also “Freiwild” fur einige Leute und Hanibal Lecters. So eine Liste ware fur die ignorante dekadente “Herrenrasse” die
+
+perfekte im potentielle Attentater abzurichten
+
+Es gibt aber in diesem Fachbereich schon bereits Organisationen die 2.B. per Mail versuchen so etwas zu machen, was fur normale Lebenskrisen wohl durchaus gehen mag, nicht aber fur Leute die z.B. Targeted Individuals irgend eines Geheimdienstes sind.
+Menschen die solche Dienstleistungen auf dem Netz anbieten sind sich oft der Technischen Méglichkeiten, Hindernissen und Gefahren nicht bewusst. Z.B. erinnere ich da an das Carnivore (FBI) dass ca. vor 10 Jahren kurz in der Presse war, im Wikipedia Artikel
+zu offensichtlich mit FBI angeschrieben ist, also cher CIA, von dem man dann nie wieder was gehért hat...
+
+resetting connections (Sensors: Active Mision Management
+
+redirecting targets for exploitation
+taking control of IRC bots
+corrupting file uploads/downloads
+More!
+(TS//SW//REL) The success rate of these effects is largely determined by the latency
+from tip-to-target. QFIRE is a consolidated QUANTUMTHEORY platform under
+
+o
+a
+a
+
+|e
+
+|»
+EK
+i
+s
+G)
+F
+
+7 @# @& * 19.
+
+1934
+
+02.2021

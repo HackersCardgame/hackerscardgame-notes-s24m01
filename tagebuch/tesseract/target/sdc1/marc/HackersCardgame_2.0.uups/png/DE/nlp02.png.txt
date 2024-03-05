@@ -1,0 +1,32 @@
+WortHaufigkeit
+In Texten
+
+= = |
+
+edo | @Spelicheck JP A | A
+[ Words: 1852, Characters: 12387 ]
+
+https://0x8.ch/HackersCardgame_2.0
+
+Wenn man die WortHaufigkeit in einem Text
+analysiert kann man schon gewisse Aussagen
+uber Text machen.
+
+zB: https://countwordsfree.com/
+
+Beispiel 1:
+
+Ist das Wort "und" ganz weit oben, ist das
+ein Indiz fur Schreibstil eines jungen
+Menschen der zB immer und dann, und dann,
+nee dann schreibt, oder Worter wie "auch",
+"9 er"
+
+Beispiel_ 2:
+
+Man kann je nach dem das Motiv eines
+Textes schneller erkennen, z.B. will die
+Werbung uns einen Artikel verkaufen wurden
+Worter oder Wortgruppen wie "Qualitat,
+"guter Preis" sehr weit oben kommen.
+

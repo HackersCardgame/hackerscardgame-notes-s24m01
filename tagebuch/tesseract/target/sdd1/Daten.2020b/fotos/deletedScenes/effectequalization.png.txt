@@ -1,0 +1,10 @@
+Equalization
+Equalization, by Martyn Shave fitch Golden
+
+-30 dB
+
+20Hz 80Hz 100Hz 200Hz 400Hz  1000Hz 2000Hz 4000Hz 10000 Hz
+©braw curves O Graphic EQ [Linear frequency scale Length of filter:
+
+Sele curve: (EE Save Asn. ][__Dekte
+

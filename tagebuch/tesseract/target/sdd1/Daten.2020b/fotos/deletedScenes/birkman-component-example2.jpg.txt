@@ -1,0 +1,19 @@
+Handedness: From a Right-Handers Perspective
+COMPONENT: Handedness
+
+Right-Handers Perspective
+
+Score 1-9 |10-39]40-60]6 1-89 [90-99
+Always Right
+[Mostly Right
+Alternates Right
+Some right
+Never Right
+1-9: Never use Right-Hand - unless left hand unusable
+10-39: Right-Handed occasionally, sometimes rarely
+40-60: Right-handed 50%, but must use right hand regularly
+61-89: Predominantly Right-Handed
+
+90-99: Only use Right-Hand, if right hand is usable
+
+Birkman - Component example 2

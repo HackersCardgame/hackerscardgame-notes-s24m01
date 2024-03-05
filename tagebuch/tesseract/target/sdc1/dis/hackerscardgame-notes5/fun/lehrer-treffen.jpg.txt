@@ -1,0 +1,11 @@
+Lehrerparchen beim Schiler-Verkuppeln:
+Lehrer:
+"Also ich hab einen Informatiker, einen
+Zimmerman, einen Maurer und einen
+Elektriker"
+
+Lehrerin:
+"Ich hab ein Einhorn, ein Pony, eine
+Katze, eine Hexe und eine Satanistin"
+
+Patternmatching: FAIL

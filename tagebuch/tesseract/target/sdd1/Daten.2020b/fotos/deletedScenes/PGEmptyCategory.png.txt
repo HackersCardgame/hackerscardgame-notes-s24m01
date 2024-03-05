@@ -1,0 +1,12 @@
+Projektkatalog
+
+‘Zum Anzeigen der Auswahim@glichkeiten im Projektkatalog klicken Sie links in der Liste
+auf ein Element,
+
+Mit den Registerkarten oben kénnen Sie Vorlagen oder vorhandene Dokumente &ffnen.
+
+‘Neu - Offnen Sie Vorlagen fur private, geschaftliche oder Schulprojekte.
+Zuletzt verwendet - Of nen Sie Dokumente, die Sie kirzlich verwendet haben,
+Projektcenter - Offnen Sie Projektdateien, die im Projektcentererstellt wurden.
+Einstellungen - Passen Sie den Projektkatalog an Ihre Bediirfisse an.
+

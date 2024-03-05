@@ -1,0 +1,35 @@
+Disk model: ASM1156-PM
+
+Units: sectors of 1 * 512 = 512 bytes
+
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 33553920 bytes
+Disklabel type: gpt
+
+Disk identifier: COEBED23-D04D-4513-B47D-O06F1E1CDD40E
+
+Device Start End Sectors Size Type
+
+/dev/sdeL 2048 206847 © 204800 += 100M EFI System
+
+/dev/sde2 206848 = 239615 32768 16M Microsoft reserved
+/dev/sde3 239616 936625019 936385404 446.5G Microsoft basic data
+
+/dev/sdc4 936626176 937699327 1073152 524M Windows recovery environment
+Command (m for help): q
+
+marc@debian:~$ sudo mount /dev/sdc3 /mnt/ -o rw
+Windows is hibernated, refused to mount
+
+The disk contains an unclean file system (0, 0).
+
+Metadata kept in Windows cache, refused to mount.
+
+Falling back to read-only mount because the NTFS partition is in an
+unsafe state. Please resume and shutdown Windows fully (no hibernation
+or fast restarting.)
+
+Could not mount read-write, trying read-only
+
+marc@debian:~$
+

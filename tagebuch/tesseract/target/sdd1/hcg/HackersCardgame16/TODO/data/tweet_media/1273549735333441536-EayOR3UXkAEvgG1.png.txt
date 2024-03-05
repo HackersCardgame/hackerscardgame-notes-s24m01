@@ -1,0 +1,56 @@
+StaticHauptslte-ZeTeCo -Mozila Firefox x
+fore [Dt | me | Z Te | 035. | Rene | H Ste | G gest | WSeC | W Not! | G mine | G twit | G dere | Wer | MMe | A994 | MERe | Met | Get
+<o¢e a zetecoch a
+
+mic | WHom [Swix |> +
+
+Ynoe« Ow
+
+1 to widgetParserFunctions() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/Includes/Hooks.php on line 195
+Fst » rserFunction_Setup() expected to be a reference, value given in Jhome/zetecoco/www/zeteco.ch/subdomain/wiki/includ #30 view source View story a
+Funetion_Setup() expected to be a ref ue given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/includ, eee
+
+1 to Syntaxhighight GeSHl:onParserfstColirit) expected tobe a reference, value glen in home/zetecoco/www/zeteco.ch/subdomaln/wiklIncludes/Hooks.php offi aiga’Statel) expected to be a
+
++r 1 to DynamicPageListHooks::onParserfirstCallinit() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wikl/includes/Hooks.php o/ jtecoco/www/zeteco.ch
+1 to DynamiePagetisooks-onPrserfstColint) expected tobe a reference, vlve evn in fhome!zetecoco/wuwzeteco.chisubdomain/ikiincudes/Hooks.php offipaiggtecoco/wrw/zet
+
+1 to PFHooks::registerFunctions() expected to be a reference, value given in Jome/zetecoco/wwwizeteco.ch/subdomain/wikilincludes/Hooks.php on ine 195 /Hooks.php on line 195
+
+Warning: Parameter 1 to CargoHooksu:registerParserFunctions() expected to be a reference, value given in /home/zetecoco/wwwizeteco.ch/subdomain/wiki/includes/Hooks.php on tine 1¥éprning: Parameter 1 to
+ring: P 9 a 0) ex given in Jhome orice abt invwikl Mest) Cite:clearState() expected to be a
+
+Warning: Parameter 1 to TemplateDataHiooks-onParserFirstCalini() expected tobe a reference, value given in nome/zetecoco/www/zeteco.ch/subdomain/wikiincludes/Hooks.php on lfg'e¥ce, value ven in
+
+Jarning: Parameter 1 to Cite:clearState() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/Includles/Hooks.php on line /subdomain/wikiincludes
+Warning: Parameter 1 to Cite:clearState() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wikV/Includes/Hooks.php on line 195 eae any
+WaniR@*PaFameter 1 to Cite:clearState() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/includes/Hooks.php on line 195
+Warning: Parameter 1 to CiteclearState() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/includes/Hooks.php on line 195
+Warning: Parameter 1 to {closure}() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wikV/includes/Hooks.php on line 195
+
+Warning: Parameter 2 to Cite:checkRefsNoReferences() expected to be a reference, value given in Jhome/zetecoco/www/zeteco.ch/subdomain/wiki/includes/Hooks.php on line 195,
+
+Warning: Parameter 2 to CitecheckRefsNoReferences() expected to be a reference, value given in Jhome/zetecoco/www/zeteco.ch/subdomain/wik/includes/Hooks.php on line 195
+
+Warning: Parameter 1 to WidgetRenderer::outputComplledWidget() expected to be a reference, value given in Jome/zetecoco/www/zeteco.ch/subdomain/wikl/includes/Hooks.php on line 195,
+
+Warning: Parameter 1 to PageTTansiationHooks:translatablePageNeader() expected tobe a reference, value given in home/zetecoco/www/zeteco.ch/subdomaln/wikl/includes/Hooks.php online 295
+Warping: Parameter 1 to CitesclearState() expected to be a reference, valve given in /home/zetecoco/www/zeteco.chi/subdomain/wikVincludes/Hooks.php on line 195.
+
+Warning: Paratieter 1 to (closure)) expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subsdomain/wiki/includes/Hooks.php online 195
+
+Warring Parameter 2 to CitescheckRefsNoReferences() expected to bea reference, value given in /home/zetecoco/www/zeteco.ch/subdomaln/wikV/includes/Hooks.php on ine 195
+WarilhigPavaieter 2 to Cite:scheckRefsNoReferences() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomaln/wikl/incudes/Hooks.php on line 195
+Warilig:Parainietr 1 to WidgetRenderer::outputCompiledWidget() expected to be a reference, value given in home/zetecoco/www/zeteco.ch/subdomain/wikiIncludes/Hooks.php on line 195
+warping farameter Ito CesclerStatl) expected tobe a reference, value given nome/zetecoco/ww/zeteco.ch/subdomalin/wiklinchdes/Hooks.php on ine 295
+
+warfiigrtilter 3 to Cte:clearState) expected tobe a reference, valve given in fhome/zetecocolwww/zeteco.ch/subdomain/wiklincludes/Hooks.php online 295
+
+warilaghinibor Re Atari Weces to be a reference, value given in home/zetecoco/www/zeteco.ch/subdomain/wikl/Includes/Hooks.php on line 195
+
+‘expected to
+
+Warfith@: Parameter 1 to Cite::clearState() expected to be a reference, value given in /home/zetecoco/www/zeteco.ch/subdomain/wiki/includes/Hooks.php on line 195
+
+Sen ho
+

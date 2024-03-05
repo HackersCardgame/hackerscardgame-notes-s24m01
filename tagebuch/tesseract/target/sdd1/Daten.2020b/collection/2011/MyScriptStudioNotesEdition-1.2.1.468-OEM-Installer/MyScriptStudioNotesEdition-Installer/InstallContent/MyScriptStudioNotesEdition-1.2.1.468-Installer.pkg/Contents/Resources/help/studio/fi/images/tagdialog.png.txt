@@ -1,0 +1,5 @@
+Hallinnoi tuntomerkkeja
+
+Kun haluat asettaa tuntomerkkeja nyt valittuna olevn kohteisin, kata kunkin
+tuntomerkn vieressa olevia valintaruutuja.
+

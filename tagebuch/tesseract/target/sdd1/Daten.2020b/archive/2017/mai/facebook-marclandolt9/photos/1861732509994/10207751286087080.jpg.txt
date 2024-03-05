@@ -1,0 +1,51 @@
+Joogle.com/patents/WO2005055579A1?cl=en
+
+Patents | tngisn | French
+
+‘System for producing artificial telepathy
+Wo 2005055579 Al
+
+ABSTRACT
+
+‘A device is proposed which wil prodde the user with a form of artical telepathy,
+‘namely the abilty to communicate with ethers with no obvious signs ot
+Connection, The system comprises a mobile phone ‘engine’ which interfaces to
+‘an existing of future pubic mabile telephony network. This device also contains a
+very low-power transponder, whichis linked wirelessly to one or more
+cortesponding transponders Implanted in the body. Connected to these implanted
+transponders are implanted transducers, one placed ina postion such that t
+Picks up speech trom the user and the other placed in a position such that it
+Imparts speech and status signals audible tothe user. The transducers may be
+
+Publication number W02005055579 At
+Publication type Application
+
+‘Application number PCT/AU2004/000002
+
+Publication dato Jun 16,2008
+
+Filing date 3an 6, 2008
+
+Prony date Dec 2, 2003,
+
+Inventors Lynne Moody, Miles Philips Moody
+‘Applicant Lynne Moody, Mies Philips Moody
+Export citation BISTEX, Endiote, Retan
+
+‘Patent Chatons (4), Non-Patent Citations (1), Ré
+Classifications (14), Legal Events (3)
+
+ced by (2),
+
+Extemal Links: Patentscope, Espacenet
+
+Connected acoustically, either through bone contact or contact with ether tissue, or mioelectrical, through electrodes connected to tissue or nerves, In future
+telecommunications networks, when power level requirements are much lower, the whole device may be Implanted and connected direct to a public mobile network
+
+‘The system is further enhanced by the use of speech recognition technology, which makes operation of the device possible through vice or sound commands without
+the use of manual actions. A further enhancement ofthe system would be a capability for image transter through a device connected visually or electically tothe eyes.
+
+‘and a small amera to record what the eyes s¢
+‘communication wth others connected to the network
+
+‘The characterstes of the device will emulate telepathy, in that twill ge seemingly imsible voice and image

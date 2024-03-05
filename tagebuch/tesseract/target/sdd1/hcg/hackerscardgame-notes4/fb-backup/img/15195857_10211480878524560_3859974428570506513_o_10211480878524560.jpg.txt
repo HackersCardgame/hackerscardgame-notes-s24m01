@@ -1,0 +1,19 @@
+= NORMAL-UERTEILUNG
+
+Hochbegabung
+
+97,7 99,9
+
+Erfinder: James Alfred Ewing Jahr:~1890
+
+Hier am Beispiel der Verteilung der Intelligenz in
+der Gesellschaft, aber man kénnte auch die Grosse
+von Menschen nehmen, oder z.B. die Anzahl von
+Haushalten mit KUchen-Mixer... aber da musste
+man dann rausfinden, ob es wirklich normalverteilt
+ist
+
+Anwendungsfalle:
+Statistik, Plausibilitaten von z.B. Aussagen
+abschatzen
+

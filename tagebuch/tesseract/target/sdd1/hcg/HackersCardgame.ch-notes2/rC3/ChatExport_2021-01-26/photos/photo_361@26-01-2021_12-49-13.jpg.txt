@@ -1,0 +1,4 @@
+i : r game23
+Inventor: 22? Year: ~xxxx
+TODO: read specs for text here
+

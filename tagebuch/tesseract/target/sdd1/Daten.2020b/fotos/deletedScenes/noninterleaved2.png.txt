@@ -1,0 +1,153 @@
+eT:
+‘Average Provessor Load
+Drive C: Free Space
+Paged Memon Use
+Physical Memony Use
+BING.
+
+ENG,
+Physical Memony Use
+Paged Memon Use
+Drive C: Free Space
+
+‘Average Provessor Load
+
+BING
+Physical Memony Use
+Paged Memon Use
+Drive C: Free Space
+‘Average Provessor Load
+
+BING
+Physical Memory Use
+Paged Memon Use
+Drive C: Free Space
+‘Average Provessor Load
+
+a a
+08-07-2001 23:14:01
+08-01-2001 23:14:49
+2-07-2001 23:14:05
+08-01-2001 23:14:47
+8-04-2001 23:14:40
+
+08-04-2001 23:14:84
+8-04-2001 23:14:59
+08-01-2001 23:14:55
+
+PENDING WA
+PENDING) WA
+PENDING!) wa
+PENDING) WA
+PENDING WA
+PENDING WA
+PENDING WA
+PENDING wa
+PENDING WA
+PENDING) WA
+PENDING WA
+PENDING) WA
+
+(040h Om 266
+(040 Om 24e
+40h Om 226
+040 Om 206
+040h Om 486
+
+40h Om 48
+(040h Om 44¢
+(40h Om 426
+040h am 205+
+(04.0 3m 205+
+
+040h 3m 205+
+(040 3m 205+
+040h 3m 205+
+(040 3m 205+
+04 0h 3m 205+
+
+00h am 205+
+040n 3m 205+
+040 3m 205+
+040h 3m 205+
+(04.0 3m 205+
+
+18
+18
+18
+18
+18
+
+48
+18
+18
+
+08
+
+oe
+
+08
+08
+08
+08
+08
+
+08
+08
+a8
+08
+08
+
+Lead ole 4-min avg=0.2%, S-min avg=1.1%6, 15-min avg=0.8%
+
+Disk space ok- 717 MB (23%) of 2906 MB used
+
+Paged memory ok- 203.4 MB (38%) 024 MB used
+Physical memory ok- 195.8 MB (47%) of 267.4 MB used
+
+PING ok- Packet loze= 0%, RTA= 0.90 me
+
+PING ok- Packet loze= 0%, RTA= 0.20 me
+
+Physical memory ok- 74.9 MB (20%) of 256.4 MB used
+aged memory ok- 55.9 MB (11%) of 607.7 MB used
+
+Senvioe
+
+Semioe
+
+Senioe
+Semice
+Senvioe
+Semioe
+
+Senioe
+
+Senioe
+Senioe
+Semioe
+Senioe
+
+Semioe
+
+check scheduled for Wed Aug 1 23:14:67 2001
+check scheduled for Wed Aug 1 23:14:68 2001
+
+check scheduled for Wed Aug 1 23:18:04 2001
+check scheduled for Wed Aug 1 23:16:02 2001
+check scheduled for Wed Aug 1 23:16:04 2001
+check scheduled for Wed Aug 1 23:16:08 2001
+check scheduled for Wed Aug 1 23:16:08 2001
+
+check scheduled for Wed Aug 4 23:18:10 2001
+check scheduled for Wed Aug 1 23:16:12 2001
+check scheduled for Wed Aug 1 23:16:14 2001
+check scheduled for Wed Aug 1 23:16:16 2001
+check scheduled for Wed Aug 1 23:16:18 2001
+
+Notice how services are checked
+consecutively, inthe order they appear
+inthe list. Compare this to the manner
+in which services are checked with
+‘a service interleave factor greater
+than 1

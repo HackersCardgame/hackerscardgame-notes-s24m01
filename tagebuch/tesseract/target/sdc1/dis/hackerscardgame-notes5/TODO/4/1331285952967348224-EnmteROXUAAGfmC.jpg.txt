@@ -1,0 +1,87 @@
+WIKIPEDIA
+The Free Encycopeds
+
+Main page
+Contents
+Current events
+Random article
+‘About Wikpeda
+Contact us
+Donate
+
+Contribute
+Heb
+
+Learn to ect
+‘Community portal
+Recent changes
+Upload fle
+
+Tools
+What inks here
+Related changes
+‘Special pages
+Permanent ink
+Page information
+Cite this page
+Wikdata iter
+
+Prinvexport
+Download as POF
+Printable version
+
+inother
+
+oe wiiediacrg Bom
+
+noe Pe
+
+Not ioagedin Talk Contributions Create account Log in
+
+‘Aicle Talk Read Edit Viewhistory | Search Wikipedia Q
+
+Fill device
+
+From Wikipedia, the free encyclopedia
+
+Ail device or key loader is a module used to load cryptographic keys into electronic encryption machines. Fill devices are usually hand held and electronic
+‘ones are battery operated,
+
+(Older mechanical encryption systems, such as rotor machines, were keyed by setting the positions of wheels and plugs from a printed keying list. Electronic
+‘systems required some way to load the necessary cryptovatiable data. In the 1950s and 1960s, systems such as the U.S. National Security Agency KW.26
+‘and the Soviet Union's Fialka used punched cards for this purpose. Later NSA encryption systems incorporated a serial port fll connector and developed
+‘several common fill devices (CFDs) that could be used with multiple systems. A CFD was plugged in when new keys were to be loaded. Newer NSA systems
+allow “over the air rekeying® (OTAR), but a master key often must stil be loaded using a fl device.
+
+KY57 voice encryptor Note filpot ©
+
+NSA uses two serial protocots for key fl, BS-101 and DS-102, Both employ the same U-228 6-pin connector type Used for U.S. miltary audio handsets, wih 87 vo
+
+the DS-101 being the newer of the two serial fil protocols. The DS-101 protocol can also be used to load cryptographic algorithms and software updates for
+crypto modules.
+
+Besides encryption devices, systems that can require key fill nclude IFF, GPS and frequency hopping radios such as Have Quick and SINCGARS.
+
+‘Common fil devices employed by NSA include:
+
+‘+ KYK-28 pin gun used with the NESTOR (encryption) system
+
++ KYK-13 Electronic Transfer Device
+
+‘+ KYX-15 Net Control Devicel’l
+
+‘+ MX-10579 ECCM Fill Device (SINCGARS)#)
+
+‘+ KOI-18 paper tape reader. The operator pulls 8-level tape through this unit by hand. AKYK-13 fill device.
+
+‘+ ANICYZ-10 Data Transfer Device - a small PDA-lke unit that can store up to 1000 keys.
+
+‘+ Secure DTD2000 System (SDS) - Named KIK.20, this was the next generation common fill device replacement for the DTD when it started production in 2006. It employs the Windows CE
+operating system!
+
+‘+ ANIPYQ-10 Simple Key Loader (SKL) - a simpler replacement for the DTD.
+
+‘+ KSD-64 Crypto ignition key (CIK)
+
+-- ik-30, a more recent fil device, is trademarked as the "Really Simple Key Loader” (RASKL) wi itn it's
+

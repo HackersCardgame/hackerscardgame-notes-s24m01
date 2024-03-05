@@ -1,0 +1,44 @@
+Fro Project Gugy Meditation
+Panda
+
+® High performance/low power consumption main board
+CPU: FSL MPC7448@1.25GHz(up to 1.7GHz), over 2500MIPS
+Bridge: 128bit AltiVec technology can support multi-media
+
+soft codec
+power consumption < 9W@2500MIPS
+Tsi109 connect to CPU via 200MHz/64bit bus
+
+8 Interfaces
+DIMM: 1 x 256/512 MB DDR2-SDRAM stick
+Ethernet: 2 x 10/100/1000M (RJ45)
+SATA: 2 for HD, CD, DVD, etc.
+USB : 4 x USB2.0 host
+PCI 1: 1 x 64M/32bit/3.3V for graphic daughter card
+PCI 2: 1 x 32M/32bit/3.3V
+miniPCI: 2 for Tuner card and 802.11a/b/g card
+Smart Card: 1 for payment management
+Audio: Stereo Audio In and S-PDIF in
+UWB: 5.1 channel out and S-PDIF out
+UWB module with USB port (optional)
+
+® Graphic Daughter Card
+GPU: XGI
+
+Video: DVI-I/CRT
+From 640x480 to 1024x768
+
+Interface Card: CVBS/S-VIDEO video In/Out
+YPrPb Video out
+
+® Main board
+350m x 200mm
+
+uw Graphic card
+181mm x 76mm
+
+i — se
+ULTRA roel wD TNR. >* freescale =<
+
+Troika, TroikaNG, the troika logo are trademarks of Troika Partners.
+Other brands, logos and trademarks are the property of their respective owners.

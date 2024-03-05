@@ -1,0 +1,9 @@
+Read http://www. octave.org/
+For information about chang
+
+>> 4-(2"2"(9/4))
+ans = -5
+
+>> 4-(2"(9/4)*4)
+ans = -3.5000
+>>|

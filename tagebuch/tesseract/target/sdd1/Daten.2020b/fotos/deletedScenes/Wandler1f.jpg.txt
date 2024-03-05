@@ -1,0 +1,10 @@
+VEB Transformatoren-
+~ u. Réntgenwerk Dresden
+Sete snany, ao Demokratische aan
+
+ld 566/104 87
+15000 /_
+
+WRITE
+rane ' foo/ V3 T0073 bal
+

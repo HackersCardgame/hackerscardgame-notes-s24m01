@@ -1,0 +1,114 @@
+SC
+«
+
+feme | @ Jaye
+
+© @ dewikipedia.org/wiki/Prolog.(Programmiersprache)
+
+006 @ tnesveam esetn
+
+WIKIPEDIA
+
+Die freie Enzyklopadie
+
+Hauptseite
+‘Themenportale
+Zulliger Artikel
+
+Mitmachen
+
+Artikel verbessemn
+Neuen Artikel aniegen
+‘Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verinkten Seiten
+
+Spezialseiten
+Permanenter Link
+Selteninformationen,
+
+mi73ipg a
+
+S ems | @ view | F oor |B 65 | G vor | Der | voc | aM e241 | w Paye | Fink | G mar | BF Kan: | G tour | MY Hier | W" Too
+
+Ak DiebestenFeenar. W Sondermuliepone. fd The 138ESTReveD. B Aus PupinGuyl. @ TresseteRte me. KORG Cotecion3t
+
+Gem wix +
+
+e- 93 x
+atk a@:
+TD Leseiste
+
+& Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Queltext bearbeiten Versionsgeschichte
+
+Prolog (Programmiersprache)
+
+Prolog (vom Franzésischen: programmation en logique,'"! dt.: ,Programmieren in Logik’) ist eine Programmiersprache, die
+‘Anfang der 1970er-Jahre masgeblich von dem franzdsischen Informatiker Alain Colmerauer entwickelt wurde und ein
+deklaratives Programmieren erméglicht. Sie git als die wichtigste logische Programmiersprache.
+
+Erste Implementierungen wichen in ihrer Syntax stark voneinander ab, aber der Edinburgh-Dialekt setzte sich bald als,
+Quasistandard durch. Er war jedoch nicht formal definiert,! bis er 1995 zur Grundlage eines ISO-Standards wurde
+(ISONEC 1321-1), der auch ISO-Prolog genannt wird,
+
+Der erste Prolog-Interpreter wurde in Marseille in ALGOL W realisiert. Der erste Ansatz fur einen Compiler stammte von
+David H. D. Warren aus Edinburgh. Dieser hatte als Zielsprache die des Logik-Prozessors Warren's Abstract Machine und
+erlaubte deshalb weder dynamische Anderungen noch einen Anschluss rlicksetzbarer Preéidikate in anderen
+Programmiersprachen. Der erste voll nutzbare Compiler, der beides erlaubte, wurde von Preben Folkjaer und Christian
+Pichler in Manchen entwickelt. Er verwandte einen anderen, von der TU Wien stammenden, Zwischencode, der
+inkrementell kompiliert wurde; wurden Préidikate verandert, wurde das Kompilat geldscht und beim nachsten Aufruf neu
+kompiliert,
+
+Inhaltsverzeichnis {Verbergen]
+4 Grundprinzip
+2 Syntax
+
+2.4 Boolesche Algebra
+
+B tumbionritticot - | Bl) iwanteobuyedoieg «
+
+Wikipedia durchsuchen Q
+Prolog
+Paradigmen: logisch, deklarativ,
+
+Erschelnungsjahr:
+Designer:
+Entwickler:
+TYpisierung:
+
+Wichtige
+Implementierungen:
+
+Dialekte:
+
+oft auch
+cconstraintbasiert
+1972
+
+Alain Colmerauer
+Philippe Roussell
+schwach,
+<dynamisch
+siCStus, SWI-
+Prolog, GNU
+Prolog, XSB, YAP-
+Prolog
+
+1SO-Proiog,
+Edinburgh Prolog,
+BinProiog,
+Visual/Turbo
+

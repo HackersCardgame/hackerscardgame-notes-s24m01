@@ -1,0 +1,22 @@
+evi sow
+
+fom 100MHz
+
+135W/ 128
+
+Ti, T2-» BB-12 (CTC)
+Fa. GCG-Electronic,
+8042 OberschleiBheim,
+oder 40954 RCA
+oder 40977 RCA
+
+L, 4 Wag. 1 mm @ Silberdraht
+auf 6 mm @ Spulenkern
+mit UKW-Abgleichferrit
+N1 =N4 = 1,5 Wag.
+N2 =N3 =0,5 Wag.
+N5 = 2Wadg. CuL
+
+Bild 68a i
+
+UKW-Leistungstransistoren

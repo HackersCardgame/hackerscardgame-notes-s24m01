@@ -1,0 +1,19 @@
+TEST CIRCUIT (f
+
+}20MHz)
+
++Vec
+FB.
+
+Zout = 508
+
+3a
+
+L.
++|i #
+
+to 20pF" ‘15pF ‘TpF to 20pF to 7pF
+> id Dimensions: mm ye
+
+Le 6 Turns AWG #20, Smm (0. Cy: B2PF, 220pF, A700pF. 104F in paralel
+Lg 10 Turns AWG #26 Enameled Wire on 4mm 0.0. 14mm Length Bakelite. —C,-__B2pF. 220pF, 10uF in parallel

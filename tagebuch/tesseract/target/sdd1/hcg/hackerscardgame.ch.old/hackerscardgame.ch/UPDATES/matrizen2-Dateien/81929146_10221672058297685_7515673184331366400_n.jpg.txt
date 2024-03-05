@@ -1,0 +1,28 @@
+‘0t@styca: ome/mare/isk/Oaten 2020/code/pam.vsb
+5 connect (void) {}
+d-iten for udisk2(...){)
+Value 4¢5310016303i6120102
+ck property for udisk2(Serial, 4C531001630316120102)
+y Key Udisk2(..-) 0)
+Serial: 4€531001630316120102
+Value SanDisk
+ck property for _udisk2(Vendor, SanDisk) {}
+y Key udisk2(..-)4)
+Vendor: SanDisk
+value Ultra Fit
+ck property for udisk2(Model, Ultra Fit) (}
+y Key Udisk2(..-)4)
+Model: Ultra Fit
+Value 262c886e-e98f-4c6f-bidc-53ed9155b3ba
+k:property for udisk2(TdWID, 262c980e-e98t-4c6f-bidi
+
+0
+e98f-4c6f-bldc-53ed915503ba
+item for udisk2(...) matches: 1
+
+forming one tine pad verification.
+is disconnect(...){)
+
+ed.
+‘ome /marc/disk/Daten.2626/code/pam usb# I
+

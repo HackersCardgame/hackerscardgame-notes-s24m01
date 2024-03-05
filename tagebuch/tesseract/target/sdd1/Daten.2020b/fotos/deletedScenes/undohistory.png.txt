@@ -1,0 +1,17 @@
+Undo History =
+Manage History
+
+Action Sze
+Created new project Obytes
+Imported D:\aucio\Tapes Walken’ After Midnight.m4at 26.9 MB
+Deleted 16.37 seconds at t=43.54 3.3MB
+Applied effect: Amplify... 0.6 48 6.1MB
+
+Applied effect: Generate sine wave tone, frequency = 440.00 H2, amplitude = 0.80, 25.304649 seconds 9.5MB
+Applied effect: BassBoost... frequency = 200 Hz, boost = 12.48
+‘Applied effect: Invert
+
+Undo Levels Available 6
+
+Levels To Discard 1
+

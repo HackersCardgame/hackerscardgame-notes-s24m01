@@ -1,0 +1,13 @@
+Activities ['@iferminal +
+
+ASCIIOR
+
+Generate QR Codes, in “ASCII Art”
+
+New Ascii
+
+HTW claude @del
+
+[Daten.2015/Kunden/heftiHess/2017
+
+File Edit View Search Terminal Help

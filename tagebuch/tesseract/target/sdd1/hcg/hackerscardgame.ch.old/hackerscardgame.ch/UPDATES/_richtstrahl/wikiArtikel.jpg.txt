@@ -1,0 +1,65 @@
+Oa Be: su july | 14° PINES | @
+
+© & hittps://dewikipedia.org/wiki/R-905
+
+ortal
+
+\derungen
+
+ye
+diese Seite
+
+yen an
+1 Seiten
+
+aiten
+
+nter Link
+ormationen
+ieren
+Datenobjekt
+
+exportieren
+
+ellen
+herunterladen
+
+sion
+
+n Sprachen
+
+1ks bearbeiten
+
+ax yvVJ0
+
+Das R-905 ist eine Richtfunkstation, die in der Schweizer Armee verwendet wird. Im Groben
+besteht diese Richtstrahlstation aus einem Sende- und Empfangsgerat (SE R-905) — in
+welchem auch der Antennenspiegel integriert ist - dem Bedienterminal (BT) — einem H6rer
+mit Tastatur und LCD — und einer Speiseausriistung (SA 95/1). Dazu kommen noch ein 24-
+V-Akku, ein Stativ mit Abspannseilen, ein Tarnnetz, eine Kabelrolle und ein Fehlerstrom-
+Schutzschalter mit Erdpfahl. Das alles ist einzeln tragbar, wiegt aber zusammen etwa
+
+230 kg.
+
+Uber einen maximal 4 km langen Lichtwellenleiter (LWL) wird ein Bundelschliisselgerat
+(BSG 93) an das SE angeschlossen. Das optische Signal hat eine Nutzdatenrate von
+entweder 2 Mibit/s oder 8 Mibit/s.
+
+Der Frequenzbereich liegt zwischen [EN €@inz und 15,21 GHz, mit einem Frequenzabstand
+von mindestens 150 MHz. Die maximale Reichweite betragt etwa 50 km (gemass altem
+Reglement 55 km). Um die Reichweite zu erhéhen, k6nnen maximal zwei Relaisstationen
+dazwischen geschaltet werden. Eine Relaisstation besteht aus zwei R-905, die mit einem
+Lichtwellenleiter verbunden sind.
+
+Uber einen unverschlisselten Dienstkanal, der zu den Nutz- und Fernbetriebssignalen
+multiplexiert wird, kann mit den anderen Betreibern der BSGs und der SEs telefoniert
+werden.
+
+Weblinks [ Bearbeiten | Quelltext bearbeiten ]
+
+e R-905 bei richtstrahl.che
+
+Many
+
+Richtstrahlanlage R-905
+

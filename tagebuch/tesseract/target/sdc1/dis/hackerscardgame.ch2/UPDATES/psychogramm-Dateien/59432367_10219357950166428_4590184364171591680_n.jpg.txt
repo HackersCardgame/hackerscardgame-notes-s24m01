@@ -1,0 +1,15 @@
+Obersicht » Aktuelle Werte
+
+{43 Sekunden seit der letzton Messung.
+
+‘Sensor| Parameter | Wert
+
+‘sosoir[PM25 23.5 ugh
+'sosoii|PMi0 25.3 ugh
+DHT22 [Temperatur [160°C
+
+DHT22 [rel.Lutteuchie| 69.896
+
+wiri [Signal “60 dBm
+wir [Quaitat 2096
+

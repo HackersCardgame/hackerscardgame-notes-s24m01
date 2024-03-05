@@ -1,0 +1,28 @@
+Font style Si
+
+Font
+
+‘Arial |Normal 124
+
+Arial Black Italic
+
+Century Gothic —| | Bold 28
+
+Comic Sans MS Bold Italic 36
+
+Courier New ; 48 =
+Georaia a 72 Es
+
+- Effects Sample
+
+J Strikeout
+| Underline
+
+AaBbYyZz
+
+Writing System
+
+\any Lr}
+
+| OK Cancel |
+

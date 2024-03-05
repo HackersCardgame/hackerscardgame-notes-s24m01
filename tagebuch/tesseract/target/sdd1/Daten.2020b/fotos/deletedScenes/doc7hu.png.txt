@@ -1,0 +1,18 @@
+Tablazat varazsl6
+
+Ic Ic
+center center
+
+Oszlopok szama 4)
+‘Oszlopok
+
+Oszlop: 4 S|
+Igazitas : Right » v Felsé szegély
+
+\_) Oszlopok egyesitése: 1S
+
+\v Alsé szegély (utolsé sor)
+Jobb szegély (utolsé oszlop) : || » \_. Fliggéleges margé hozzdadasa minden sorhoz
+
+¥ OK || @ Cancel
+

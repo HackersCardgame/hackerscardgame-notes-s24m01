@@ -1,0 +1,16 @@
+marc@debian:~/installation-scripts/desktop/debian/buster$ cd
+marc@debian:~$ cd Downloads/
+
+marc@debian:~/Downloads$ 1s
+
+nOWIFI2b.jpeg noWIFI2.jpeg noWIFIb.jpeg noWIFI.jpeg
+marc@debian:~/Downloads$ diff noWIFI.jpeg noWIFIb. jpeg
+Binary files noWIFI.jpeg and noWIFIb.jpeg differ
+marc@debian:~/Downloads$ diff noWIFI.jpeg noWIFI2. jpeg
+Binary files noWIFI.jpeg and noWIFI2.jpeg differ
+marc@debian:~/Downloads$ diff noWIFI.jpeg noWIFI2b. jpeg
+Binary files noWIFI.jpeg and noWIFI2b. jpeg differ
+
+marc@debian:~/Downloads$ nautilus .
+marc@debian:~/Downloads$ ff
+

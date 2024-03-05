@@ -1,0 +1,15 @@
+Timer |“ 4
+1 EiTimerThread
+1
+
+1 tesa
+k 1 -auiocam
+
+iF EAutocam
+
+1
+1 device
+
+cam
+
+) AutocamMain

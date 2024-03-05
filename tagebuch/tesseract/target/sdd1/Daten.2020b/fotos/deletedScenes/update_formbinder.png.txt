@@ -1,0 +1,6 @@
+|C:Alsers/adrienne /Documents /MyScript
+
+Run full automatic workflow
+
+Device area size for colaborative caibration : [40 [25] milimeters
+

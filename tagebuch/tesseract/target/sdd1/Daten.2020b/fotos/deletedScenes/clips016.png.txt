@@ -1,0 +1,25 @@
+-30-20 -10 G0 10 20 30 40 50 60 70 80 90]
+
+xsxi vy] 10
+Mono, 44100H2 | 05
+
+32-bit float a pbb tpabe bby
+Mute | _Solo
+
+-05
+
+-1.0
+xsx2 vy] io >
+Mono, 44100H2 | 05
+32-bit float _ a
+Mute | solo || 4.
+-1.0
+
+x[orums vy] 1.0
+Mono, 44100H2 | 05
+
+32-bit float 00} ht 4 } , } + ; ' {
+Mute | solo || 4.
+
+-1.0
+

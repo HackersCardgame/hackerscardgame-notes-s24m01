@@ -1,0 +1,43 @@
+Q marc@debian: ~/cbftp-r1037/bin
+
+-_SITE OPTIONS
+
+Name: zh Address: ftp.sunet.se
+Username: anonymous Password: *#*##+%#*
+Login slots: 0 Upload slots: 0
+Advanced slot configuration...
+
+TLS mode: AUTH TLS
+List command: STAT -1
+Max idle time (s): 60
+Force binary mode: [ ] Broken PASV: [ ]
+Use XDUPE: [X] Needs PRET: [ ]
+Configure skiplist...
+
+Base path: /
+
+Disabled: [ ] Allow upload: Yes
+Priority: Normal
+
+Transfer source policy: Allow
+Block transfers from:
+
+Block transfers to
+Aff: AEROHOLiC!
+
+TLS transfers: Prefer off
+
+Download slots: 0
+
+SSCN supported: [X] CPSV supported: [x]
+Proxy: (Global) None
+
+Allow download: Yes
+
+Transfer target policy: Allow
+
+J ancel, undo changes - [s]ections - [S]kiplist
+
+[Enter] Modify - [Down] Next option -
+
+L

@@ -1,0 +1,49 @@
+a
+
+2, W: AG Zoro, Result: WR
+
+Game 6, B: AG Zero, W: AG
+
+W: AG Zero, Result: WR
+
+o, W: AG Zeno, Result: B4R
+
++78
+°
++-96--747 27064601
+
+Lo eaeore|
+
+@x®
+
+sue 13, Bs
+
+W: AG Zero,
+
+Game 16, B: AG Zero, W:
+
+Oo.
+| or876
+OG OOO:
+/Lons896@— 325084.)
+3886
+WAG Zoro, Result: BUR 18, B: AG Zoro, W. AG Zero, Result: WHR 0, BAG Zero, WAG Zero, Results WHR By AG Zero, W- AG Zoro, Result: WR
+46 aac lee. ef ps
+0@| Ooo” £40268 af y 0
+/806O, 2 »
+@
+snuGe
+a6 ®
+62, ra
+58
+o_| o ©
+{ 4 t
++48 ®
+® 1 p25
+to laa 6
+$0- t
+Extended Data Figure 5
+
+AlphaGo Zero (40 blocks) self-play games. The 40-day training run was subdivided into 20 periods. The best player from
+each period (as selected by the evaluator) played a single game against itself, with 2 h time controls. One hundred moves are shown for each game; full
+games are provided in the Supplementary Information.

@@ -1,0 +1,79 @@
+(52 7 Plan: NSS! TheArde —G reco
+
+©
+
+Seren Garde, a Suro)
+
+@ Firefox. aboutcertficate?cert=MllG4zeCCBcugwlBAglQOaL WxOwuVUZHAKIOm2RROZANBGkgbkiGOWwOBAQSFADCBITELMAKGATUEGHMCROHGZAZBGNVBAGTEKA}ZWFOZXIGTWFUY2NCIRIGEGMA. oP
+
+Validity
+
+Not Before
+Not After
+
+Subject AltNames
+
+DNS Name
+DNS Name
+
+Public Key info
+
+Algorithm
+Key Size
+
+Exponent
+Modulus
+
+Miscellaneous
+
+Serial Number
+Signature Algorithm
+Version
+
+Download
+
+Fingerprints
+
+SHA256
+SHA.
+
+@ basic Constraints
+
+Certificate Authority
+
+S copy MMeth
+
+EANeve Qnack Dot Minter AL Warn B over,
+
+“Tue, 02 Aug 2022 00:00:00 GMT
+‘Sat, 02 Sep 2023 23:59:59 GMT
+
+*swebshostpint.ch
+web hostpoinch
+
+RSA
+2048
+65537
+FFAESGFA7:F3:6415:34522F2F:7318:756A70.02 5ACBBAC2STS3SFS.
+
+SO:ARDE:CHEBEESS:46-47.024970983451F7
+‘SHA.256 ith RSA Encryption
+
+3
+
+PEM (cert) PEM (chain)
+
+S0:66S0.A8:FEAE4:60:CC:89:48 10:7: 8C:F OOIOADTEDZOFS439:4,
+‘S6SF.SF:14:30:1C-95:02:60:9C:C05287:168F 4E24:68:89:9D
+
+Dsae
+
+Ore
+
+258
+
+1H Wes
+
+Indexot/ cert x | +
+
+eon

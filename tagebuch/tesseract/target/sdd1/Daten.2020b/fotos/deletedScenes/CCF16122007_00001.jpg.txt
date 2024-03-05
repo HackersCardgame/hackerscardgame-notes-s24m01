@@ -1,0 +1,68 @@
+cA ABB Technikerschule, Baden
+~~ xe Ras
+
+Eidg. anerkannte héhere Fachschule fr Technik
+
+2. Einphasiges oder dreiphasiges Bordnetz?
+(3 P.) Der Betrieb des Flugzeugs
+
+erfordere eine bestimmte elektri-
+Flugzeug-Chassis mit Stempunkt verbunden_ sche Wirkleistung P bei einem
+L Leistungsfaktor cos@. Vergleichen
+Up Sie eine einphasige mit einer drei-
+Nd phasigen Energiebertragung ge-
+isiatsinanaanand mass nebenstehender Abbildung.
+Stellen Sie die Massenverhaltnisse
+von Kupferrundleiter und Isolation
+beider Systeme gemass untenste-
+Flugzeug-Chassis elektrisch isoliert hender Tabelle gegeniber. In bei-
+Eb den Systemen sollen die gleichen
+Leiterspannungen und die gleiche
+O| U iavevaneton Stromdichten in den Leitern herr-
+J schen sowie dieselbe gesamte
+Leistung P bei gleichem Leistungs-
+faktor und gleicher Lange L Uber-
+tragen werden.
+
+bs
+q
+
+Verhaltnis der | Einphasig Dreiphasig
+Géssen
+
+Querschnitt 4 id
+
+Masse Kupfer 4 ?
+
+Masse Isolation | 1 ?
+
+3. Eisenmasse und Spannung
+(2 P.) Suchen Sie eine Beziehung zwischen der Masse des Eisens bei Generator, Trans-
+formator und Drehstrommotor und der elektrischen Kenngréssen U? Wie lautet diese Be-
+
+ziehung in der Form m,, = f,(U,...)? Beachten Sie die Hinweise zur Schreibweise von
+
+Funktionen weiter unten.
+Was geschieht mit der Masse des Eisens wenn Sie die Spannung verdoppeln und die Ubri-
+gen Gréssen konstant halten?
+
+4. Kupfermasse
+(2 P.) Die Kupfermasse m,, wird hauptsachlich durch die Dimensionierung der drei Leitun-
+
+gen zwischen Generatoren und Lasten bestimmt. Dabei muss die Stromiibertragung einen
+geniigend kleinen Widerstand R aufweisen, damit einerseits die Wirkleistungsverluste FP,
+
+und andererseits die Spannungsabfalle AU,,,, nicht zu gross werden. Formulieren Sie fol-
+
+gende Beziehungen zwischen der Masse des Kupfers mz, und der elektrischen Kenngrés-
+
+se | in den Leitungen:
+a) Mit dem Wirkleistungsverlust P, in den Leitungen in der Form me, = f,(F,,1,--.)
+
+b) Mit dem maximal erlaubten Spannungsabfall AU,,,, entlang der Leitung in der Form
+Me, = Fy(AG on fs)
+
+Hinweis: Vernachlassigen Sie hier den Spannungsabfall Uber dem induktiven Lei-
+tungswiderstand X sowie den Skin-Effekt.
+
+30.8.2007/Bo

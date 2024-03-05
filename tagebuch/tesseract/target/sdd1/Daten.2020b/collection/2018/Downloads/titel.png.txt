@@ -1,0 +1,166 @@
+File Edit View
+
+t2527336
+thoooe
+1 row in set
+
+tt0076759
+tt0080684
+tt0086190
+tt0120915
+tt0121765
+tt0121766
+tt0131956
+tt0387563
+tt0466264
+tt1140851
+t1185834
+tt1432993
+tt1970025
+tt2076340
+t2275656
+tt2488496
+t2527336
+t2527338
+tt3162318
+t3395528
+tt3510476
+t3648510
+tt3778644
+tt3810772
+tt4401260
+tt4585812
+tt4644286
+tt4854650
+tt4864556
+tt5568242
+tt5594416
+tt5893180
+tt5957180
+tt6319092
+tt6438108
+
+Search Terminal Help
+
+(0.00 sec)
+
+Saving Star Wars
+
+The Untitled Star Wars Mockumentary
+
+Bob Hope's All-Star Look at TV's Prime Time Wars
+Star Wars: The Clone Wars
+
+Star Wars: A Galaxy in Darkness
+
+Star Wars Heroes & Villains
+
+Star Wars: Star Warriors
+
+Star Wars: Threads of Destiny
+
+Star Wars: The Force Awakens
+
+Star Wars: The Last Jedi
+
+Star Wars: Episode IX
+
+Star Wars: Tremors of the Force
+
+Starter Wars
+
+Star Wars: The Force Unleashed II
+
+Plastic Galaxy: The Story of Star Wars Toys
+Solo: A Star Wars Story
+
+Star Wars: The New Republic
+
+Forsaken: A Star Wars Fan Film
+
+Star Wars: Paths to Rebellion
+
+Star Wars Begins: A Filmumentary
+
+Star Wars: The Fallen Brother
+
+Updating Information for Untitled Star Wars/Boba Fett Project
+Star Wars: The Insurrection of the Empire
+
+Star Wars: The Idiotic Clone Trooper: The Movie
+Star Wars: Will of the Force - An Independent Homage Film
+Star Wars: The Dark Reckoning
+
+A Star Wars Tale: The Last KIng
+
+Star Wars: Lost Horizons
+
+marc@debian: ~
+
+Star Wars: The Last Jedi | Star Wars: Episode VIII - The Last Jedi |
+BREE Sees enner OSES eS Ee Eee Eee ene enn eennnnae +
+
+MariaDB [imdb]> SELECT tconst,primaryTitle,originalTitle FROM basics USE INDEX (basics index) WHERE originalTitle like "*star%wars%" AND titleType="movie";
+
+a awww ne awww ne +
+primaryTitle originalTitle
+tho ppp p rrr pr nnn bpp nn pn npnn nn nn nnn pnn nnn nr nnnrrnnrrnrrnnrrpenennnniieronrnnrrnr rrr nnnnnnnnrnnrrnrrrprrrrrerrrrerrenrrrrrrrrrrercenns
+Star Wars: Episode IV - A New Hope Star Wars
+Star Wars: Episode V - The Empire Strikes Back Star Wars: Episode V - The Empire Strikes Back
+Star Wars: Episode VI - Return of the Jedi Star Wars: Episode VI - Return of the Jedi
+Star Wars: Episode I - The Phantom Menace Star Wars: Episode I - The Phantom Menace
+Star Wars: Episode II - Attack of the Clones Star Wars: Episode II - Attack of the Clones
+Star Wars: Episode III - Revenge of the Sith Star Wars: Episode III - Revenge of the Sith
+Battle of the Stars 3: Stud Wars Battle of the Stars 3: Stud Wars
+
+Saving 'Star Wars'
+
+The Untitled Star Wars Mockumentary
+
+Bob Hope's All-Star Look at TV's Prime Time Wars
+Star Wars: The Clone Wars
+
+Star Wars: A Galaxy in Darkness
+
+Star Wars Heroes & Villains
+
+Star Wars: Star Warriors
+
+Star Wars: Threads of Destiny
+
+Star Wars: Episode VII - The Force Awakens
+
+Star Wars: Episode VIII - The Last Jedi
+
+Star Wars: Episode IX
+
+Star Wars: Tremors of the Force
+
+Starter Wars
+
+Star Wars: The Force Unleashed II
+
+Plastic Galaxy: The Story of Star Wars Toys
+Solo: A Star Wars Story
+
+Star Wars: The New Republic
+
+Forsaken: A Star Wars Fan Film
+
+Star Wars: Paths to Rebellion
+
+Star Wars Begins: A Filmumentary
+
+Star Wars: The Fallen Brother
+
+Updating Information for Untitled Star Wars/Boba Fett Project
+Star Wars: The Insurrection of the Empire
+
+Star Wars: The Idiotic Clone Trooper: The Movie
+Star Wars: Will of the Force - An Independent Homage Film
+Star Wars: The Dark Reckoning
+
+A Star Wars Tale: The Last KIng
+
+Star Wars: Lost Horizons
+

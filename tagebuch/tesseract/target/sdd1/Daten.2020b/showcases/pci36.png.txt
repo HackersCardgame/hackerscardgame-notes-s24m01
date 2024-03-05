@@ -1,0 +1,87 @@
+marc@debian: ~/pri36/src/processRelease
+
+File Edit View Search Terminal Help
+
+~Release(88.Heroes .Update.v1.04.PS4-PRELUDE) -> PS4.RF.DE.EXTERNAL TIME: 2424. 2292485
+~Release(UCL.2018.11.27.Group.H.Manchester.United.Vs.Young.Boys.720p.HDTV) -> SPORTS.MISCSPORT.HDTV.720p.EXTERNAL TIME: 2424.191162m5
+~Release(Truefire.Frank.Vignolas.Jazzin.the.Blues.Vol.1.TUTORiAL-ADSR) -> BOOKWARE.BWMISC.EXTERNAL TIME: 2425.419434m5
+~Release (Adventure. Time.Pirates.of.the.Enchiridion-PLAZA) -> GAMES.EN.WINDOWS.EXTERNAL TIME: 2426. 74267615
+~Release(Wermland. Forever .SO1E06.SWEDiSH.PDTV.x264-PRiNCE) -> TV.x264.PDTV.SD.SE.EXTERNAL TIME: 2427. 7233895
+
+~Release (2036.Nexus .Dawn.2017.1080p.BlURay.x264-FLAME) -> MOVIES.x264.BLURAY.STV.1080p.EN.NEW.2D.EXTERNAL TIME: 2427.797363m5
+IMDB: It
+
+~Release(it.2017.REPACK.BDRip.x264-GECKOS) -> MOVIES.x264.BDRip.STV.SD.IT.NEW.2D.EXTERNAL.REPACK TIME: 2516. 750732ms
+
+TESTS PARRALEL, just for checking if the locks work and nothing crashes
+
+the locks seem to work and we dont have any crash
+
+(this is slower than one after another, because the release blocks each other)
+
+even though it has only 3 seconds for 30 releases = 0.1s
+
+now we wait 10 seconds
+
+~Release(The.Silver.Case.PS4-Playable) -> PS4.RF.SE.EXTERNAL TIME: 57.737560ms
+
+IMDB: It
+
+~Release(it.2017.REPACK.BDRip.x264-GECKOS) -> MOVIES.x264.BDRip.STV.SD.IT.NEW.2D.EXTERNAL.REPACK TIME: 125. 2171715
+
+IMDB: 2036 Origin Unknown
+
+~Release (2036 .Nexus .Dawn.2017.1080p.BluRay.x264-FLAME) -> MOVIES.x264.BLURAY.STV.1080p.EN.NEW.2D.EXTERNAL TIME: 60.214306ms
+
+IMDB: Atomica
+
+~Release(Atomica.2017.1080p.BluRay.x264-ROVERS) -> MOVIES.x264.BLURAY.STV.1080p.EN.NEW.2D.EXTERNAL TIME: 62.212078ms
+
+IMDB: CHIPS
+
+~Release(Chips.2017.1080p.BluRay.x264-DRONES) -> MOVIES.x264.BLURAY.STV.1080p.EN.NEW.2D.EXTERNAL TIME: 59.880920ms
+
+IMDB: Blade Runner 2049
+
+~Release (Blade .Runner.2049.2017.1080p.BluRay.x264-SPARKS) -> MOVIES.x264.BLURAY.STV.1080p.DE.NEW.2D.EXTERNAL TIME: 61.305470ms
+IMDB: 2012. A Failed Revolution
+
+~Release(2012.2017.1080p.BluRay.x264-SPARKS) -> MOVIES.x264.BLURAY.STV.1080p.EN.CLS.2D.EXTERNAL TIME: 58.330105ms
+
+~Release (Carson.Daly. 2019.02.14. Jason.Blum.PROPER.WEB.x264-CookieMonster) -> DAILYSHOWS.x264.WEB.SD.EN.EXTERNAL.PROPER TIME: 56.013783ms
+~Release (Conan.2019.02.14.Aubrey.Plaza.WEB.x264-TBS) -> DAILYSHOWS.x264.WEB.SD.EN.EXTERNAL TIME: 68.202515ms
+
+~Release(88.Heroes .Update.v1.04.PS4-PRELUDE) -> PS4.RF.DE.EXTERNAL TIME: 55.444298ms
+
+~Release(Wulverblade.eShop.NSW-BigBlueBox) -> NSW.RF.DE.EXTERNAL TIME: 56.663433ms
+
+~Release (Xenoblade.Chronicles.2.NSW-BigBlueBox) -> NSW.RF.DE.EXTERNAL TIME: 55.243572ms
+
+~Release (Yesterday. Origins.EUR.NSW-BigBlueBox) -> NSW.PAL.EN.EXTERNAL TIME: 59.831741ms
+
+~Release(After.The.End.The.Harvest .Update.v1.3.0-PLAZA) -> DOX.WINDOWS.EN.EXTERNAL TIME: 34.661800ms
+
+~Release (Age. of .Barbarian.Extended.Cut.The.Slaves.Fortress.Update.v1.8.4-PLAZA) -> DOX.WINDOWS.DE.EXTERNAL TIME: 57.543465ms
+~Release (Age. of Empires .Definitive.Edition.Update.v1.3.5314-CODEX) -> DOX.WINDOWS.DE.EXTERNAL TIME: 53.021221ms
+~ReLease(Formulal.2018.Abu.Dhabi.Grand.Prix.Practice.One.720p.HDTV.x264-VERUM) -> SPORTS.F1.HDTV.720p.EXTERNAL TIME: 54.815960ms
+~Release(Formulal.2018.Brazilian.Grand.Prix.Practice.Three.720p.HDTV.x264-VERUM) -> SPORTS.F1.HDTV.720p.EXTERNAL TIME: 56.493561ms
+~Release(Formulal.2018.Mexican.Grand.Prix.1080p.HDTV.x264-VERUM) -> SPORTS.F1.HDTV.1080p.EXTERNAL TIME: 53.780163ms
+
+~Release (Welcome. To. Sweden. 2014.S01E01.SWEDiSH.720p.HDTV.x264-xD2V) -> TV.x264.HDTV.720p.DE.EXTERNAL TIME: 59.519268ms
+~Release(Wermland. Forever .S01E06.SWEDiSH.PDTV.x264-PRiNCE) -> TV.x264.PDTV.SD.SE.EXTERNAL TIME: 59.327461ms
+~Release(Adventure.Time.Pirates.of.the.Enchiridion-PLAZA) -> GAMES.EN.WINDOWS.EXTERNAL TIME: 42.829636ms
+
+~Release(Affliction-HI2U) -> GAMES.EN.WINDOWS.EXTERNAL TIME: 43.769249ms
+~Release(Truefire.Frank.Vignolas.Jazzin.the.Blues.Vol.1.TUTORiAL-ADSR) -> BOOKWARE.BWMISC.EXTERNAL TIME: 37.968483ms
+
+~ReLease (Udemy.Learn.Ableton.Live.in.a.Day.Complete.Production.Course.TUTORiAL-ADSR) -> BOOKWARE.BWMISC.EXTERNAL TIME: 34.346256ms
+~Release (Academy. fm.Halloween. Project .Walkthrough.In.Ableton.Live.TUTORiAL-ADSR) -> BOOKWARE.BWMISC.EXTERNAL TIME: 40.189274ms
+~Release(UCL.2018.11.27.Group.H.Manchester.United.Vs.Young.Boys.720p.HDTV) -> SPORTS.MISCSPORT.HDTV.720p.EXTERNAL TIME: 58.003098ms
+~Release(V8.Supercars.2018.Coates.Hire.Newcastle.500.Day.3.Coverage.1080p) -> SPORTS.MISCSPORT.1080p.EXTERNAL TIME: 52.103359ms
+~ReLease (WWE. Smackdown. Live.2018.11.27.720p.HDTV.x264-KYR) -> SPORTS.WWE.HDTV.720p.EXTERNAL TIME: 54.290283ms
+
+real 0m14.287s
+user @m23.009s
+sys ome. 883s
+marc@debian:~/pri36/src/processRelease$ ff
+

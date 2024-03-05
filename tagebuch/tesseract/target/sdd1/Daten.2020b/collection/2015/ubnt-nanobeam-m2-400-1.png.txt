@@ -1,0 +1,40 @@
+NanoBeam M2
+
+Basic Wireless Settings
+
+Wireless Mode: [AP-Repeater ¥
+
+Auto
+
+Ws Peers: [24:A4:3C:92:465'8D
+
+ss: PolzistenHabenNeineGehime
+country Code:
+(EEE 602.11 Mode:
+channel wth]
+Chane! Shing 2]
+Frequency, MHz:
+Extension Channel
+
+Frequency List, Hz: (-) Enable
+
+‘Auto Aust to EIRP Limit: @) Enable
+
+‘Antenna: [400-18 i ¥
+
+Gi Hide ssio
+
+‘Output Power: Zz)
+
+26
+
+Data Rate Module:
+Max TX Rate, Mbps: [MCS 15 = 270/300, ¥) @ Automatic
+
+Wireless Security
+
+RADIUS MAC Authentication: () Enable
+MAC ACL: (3) Enable
+
+6m
+

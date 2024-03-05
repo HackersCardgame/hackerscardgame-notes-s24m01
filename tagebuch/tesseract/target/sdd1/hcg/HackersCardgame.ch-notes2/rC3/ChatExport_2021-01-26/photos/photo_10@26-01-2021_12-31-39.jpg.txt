@@ -1,0 +1,35 @@
+Object Recognition
+Action Recognition
+
+on of of Ea
+
+PERSON1 HOLD -PERSONI BEND-OVER PERSON1 DRAG
+
+AGENT
+MANIPULATION mC
+PATIENT
+
+start-frame, end-frarm
+390,
+
+Ox8.c
+Inventor:
+One can identify the potion with cams PatternRecognition
+of a certain period of time
+
+Pseudo Formula:
+
+based on that data one could identify os ae pince many
+actions can be done only with certain objec
+
+Pseudo :
+actionRecog, € Objet,
+
+pulli ullover normally identifies th
+phlice er. . Especally when. you have not that much Hee Ce data
+enti ga nly
+
+maybe almost everything in a period of a month?
+how they know Hines cul ie aly ae their an
+community s Should m tig we can verif
+

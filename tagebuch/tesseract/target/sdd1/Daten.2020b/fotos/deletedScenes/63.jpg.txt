@@ -1,0 +1,123 @@
+Benutzbarkeit von Sicherheitssoftware
+
+Verunsicherte Benutzer
+
+Sichere Programme haben etwas mit mathematischen Einwegfunktionen und makelloser Implementierung zu
+tun, richtig? Stimmt, aber das ist nur die halbe Miete. Gute Programme richten sich nach den Bediirfnissen
+ihrer Benutzer, und das gilt auch fiir Security-Software. Mathias Huber
+
+| 64 | Nur fiir Spez
+
+70 | Effektive Abwehr
+
+Was macht gute Security-Software aus?
+Die Antwort scheint auf der Hand zu
+liegen: wasserdichte Algorithmen, de-
+
+- ren Autoren ihre mathematischen Haus-
+
+aufgaben gemacht haben. Zudem soll-
+ten die Erfinder noch der guten Sitte
+folgen, ihr Verfahren offenzulegen und
+von Zunftkollegen in einer Peer-Review
+gegenpriifen zu lassen.
+
+,Graue Theorie*, mag mancher Secu-
+rity-Kenner einwenden — und hat Recht
+damit, denn die eleganteste Mathematik
+ist keinen Pfifferling wert, wenn sie in
+einem Programm implementiert ist, das
+geheime Schliissel fiir jedermann lesbar
+im Dateisystem ablegt oder sich leicht
+zu einem Puffertiberlauf provozieren
+lasst. Da kein Programmierer fehlerfrei
+arbeitet und niemand alle Eventualita-
+ten vorhersehen kann, will Software au-
+Rerdem standig gepflegt sein. Zu den
+Pflichten des Administrators gehért es
+daher, Advisories zu lesen und sicher-
+heitsrelevante Patches einzuspielen.
+
+Bei Beachtung all dieser goldenen Re-
+geln lauft sauber konzipierte und pro-
+grammierte, stets aktualisierte Security-
+
+Software auf dem Rechner. Doch vor der
+Maschine sitzt der Mensch. Der hat es
+gern bequem, versteht nicht, was diese
+komplizierten Konfigurationsdialoge be-
+deuten sollen, und fiihlt sich von den
+standigen Warnungen bei seiner Arbeit
+belastigt. Da er ohnehin genug zu erle-
+digen hat, versendet er seine E-Mails
+lieber unverschliisselt, klickt die auf-
+dringlichen Fensterchen einfach weg
+oder deaktiviert die vermeintlichen Sté-
+renfriede schlichtweg.
+
+Das ist der erniichternde Befund der Be-
+nutzerforschung zu Security-Software.
+H6chste Zeit also, dass sich deren Ent-
+wickler um ihr Stiefkind Usability kiim-
+mern. Mathematik und Software-Engi-
+neering schaffen nur die Voraussetzun-
+gen fur sichere Computerbenutzung.
+Damit aus der Theorie Praxis wird, sind
+Ergonomie und Psychologie jedoch ge-
+nauso wichtig. Nur dann werden die
+meisten Anwender sichere Programme
+benutzen — Im Idealfall sogar gerne.
+
+Kleine Verbesserungen mit
+groPer Wirkung
+
+Was zu tun ist, beschreibt der Security-
+Experte Peter Gutmann in den folgen-
+den Artikeln. Er zeigt die Probleme auf,
+die haarstraubenden ebenso wie die
+unscheinbaren, und macht Lésungsvor-
+schlage. Erfreulicherweise kénnen be-
+reits erstaunlich einfache MaSnahmen
+die Bedienbarkeit von Security-Software
+deutlich verbessern.
+
+Von benutzerfreundlichen Programmen
+profitieren nicht nur die Anwender, die
+dann endlich verstehen, was mit ihren
+Daten passiert und in den Genuss tech-
+nischen Schutzes kommen. Auch die
+Entwickler haben etwas zu gewinnen:
+Erst wenn Security-Software den Ruf
+
+verliert, nur fiir Experten benutzbar zu
+sein, kann sie eine gréf—ere Anwender-
+basis erobern und tiber die kleine Nerd-
+Ecke hinauswachsen.
+
+Zugegeben, die Verfahren hinter vielen
+sicheren Programmen sind nicht einfach
+zu verstehen. Doch auch technisch we-
+niger gebildete Computerbenutzer ha-
+ben ein Anrecht darauf, dass ihre Mails
+vertraulich bleiben und auch niemand
+sie beim Online-Shopping beklaut oder
+aber ihren Rechner in eine Spamschleu-
+der verwandelt.
+
+Wer das Kapitel iiber asymmetrische
+Kryptographie in Simon Singhs Buch
+»Geheime Botschaften* gelesen hat,
+der weif, dass man auch ein Verfahren
+wie den Diffie-Hellman-Schliisselaus-
+tausch anschaulich und allgemein ver-
+standlich erkldren kann. Dieses Sach-
+buch wurde ein Publikumserfolg - an-
+wenderfreundliche Sicherheitssoftware
+kann das ebenfalls schaffen. =
+
+infos
+
+(1) Simon Singh: ,,Geheime Botschaften’,
+Taschenbuchausgabe bei DTV, ISBN 978-3
+423-33071-8
+

@@ -1,0 +1,32 @@
+1 Konfiguration Webcam A Bilder Webcam B
+Bilder Webcam A
+
+Konfiguration Webcam B
+
+Tomcat
+Server
+
+Webbrowser
+
+AutoCam
+WebInterface
+
+Client C (Betrachter)
+
+Bilder
+Client-Konfiguration
+
+AutoCam
+nt
+
+Client-Konfiguration
+
+Client A
+
+Webcam A.
+
+Webcam B
+
+AutoCam
+Client
+

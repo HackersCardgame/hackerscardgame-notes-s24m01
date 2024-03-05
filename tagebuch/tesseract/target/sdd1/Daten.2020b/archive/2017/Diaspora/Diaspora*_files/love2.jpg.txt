@@ -1,0 +1,7 @@
+Inputs
+
+(P+y?-1P -x7 7 =0
+
+Implicit plot:
+
+Enable nteractivty ©

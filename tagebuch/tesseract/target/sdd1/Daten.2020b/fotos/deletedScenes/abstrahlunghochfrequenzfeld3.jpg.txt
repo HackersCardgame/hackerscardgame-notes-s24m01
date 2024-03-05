@@ -1,0 +1,10 @@
+Antenne
+
+‘Widerstand
+Diode
+
+L Koaxialkabel =
+
+Masse (-) Schwingkreis
+
+Ankopplung

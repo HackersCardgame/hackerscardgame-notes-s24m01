@@ -1,0 +1,29 @@
+‘Audacity Preferences
+eves
+Aaya
+Quality
+Sette
+Trade
+‘Import / Export
+‘Projects
+tirores
+eectovans
+Srecones
+Warns
+tree
+‘Keyboard
+owe
+
+(Overdub: Play other tracks while recording new one
+[Flsoftware Playthrough: Listen while recording or monitoring new track
+(uncheck when recording “stereo mix")
+Latency
+‘Audio to buffer: 100 milseconds (igher = more latency)
+Latency correction: -130 | miliseconds (negative = backwards)
+Sound Activated Recording
+
+(F)sound activated Recording
+60 “50 °
+
+‘Sound Activation Level (48): a)
+

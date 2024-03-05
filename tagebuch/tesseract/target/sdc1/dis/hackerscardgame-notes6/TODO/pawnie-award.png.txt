@@ -1,0 +1,38 @@
+Activities © FirefoxESR ~ AW Or
+
+up Eff » RK! G koo bec Mir Mir Jun Z Ub: Bte’ w Ge >+v
+ea O | @ https://www.heise.de/security/meldung/Black-Hat-2014-Und-das-Pwnie-geht-an-2289121.html Bie LiNnDOnw P=
+Security )7-Tage-News ) 08/2014 ) Black Hat 2014: Und das Pwnie geht an...
+Black Hat 2014: Und das Pwnie geht an...
+Jedes Jahr werden auf der Black-Hat-Konferenz mit einer glamourdsen
+Zeremonie die Pwnie Awards verlichen. Dieses Jahr ging der Security-Oscar unter
+anderem an Heartbleed, Apple, den Hacker Geohot und Mt.Gox-Chef Mark
+Karpeles.
+Lesezeit: 2 Min. In Pocket speichern qd) & Os
+08.08.2014 13:59Uhr | Security
+Die Pwnie Awards, die Oscars der Security-Gemeinde, pramieren sowohl die Anzeige
+coolsten Hacks als auch die heftigsten Fehler des Jahres. Gewonnen haben dieses
+Jahr unter anderem Heartbleed, AVG, Apple mit dem GotoFail-Bug und Mt.Gox-
+Chef Mark Karpeles. Die offizielle Bestatigung der Gewinner durch die UNSERE EMPFEHLUNG
+
+Organisatoren der Pwnies lasst allerdings weiterhin auf sich warten, da diese
+nach eigenen Angaben noch nicht niichtern sind. Dazu muss man wissen, dass
+auf die Siegerehrung eine Party folgt, die legendiare Ausmate erreichen soll.
+
+Der Pwnie fiir den beeindruckendsten Server
+Bug geht in diesem Jahr, natiirlich, an
+Heartbleed. Dessen Entdecker sagte beim
+Entgegennehmen des Preises, er habe die
+Liicke vor allem deswegen éffentlich gemacht,
+um einen Pwnie Award zu gewinnen. Leer aus
+ging Dan Farmer, der dieses Jahr kolossale
+Bugs im Fernwartungsprotokoll IPMI
+
+offenlegte. Den Pwnie fiir den besten Client
+Unter Hackern begehrt: Der diesjahrige
+
+Bug rumte Geohot ab, der vier
+Pres (ile: Pwnie Awards)
+
+Sicherheitsliicken aneinander reihte, um
+Chrome beim Pwnium-Wettbewerb das Handwerk zu legen. Damit setzte er sich

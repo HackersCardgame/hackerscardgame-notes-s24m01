@@ -1,0 +1,9 @@
+a declared here
+
+GLOBAL m—~ BLOCK 3 BLOCK AFTER a
+
+=
+
+LoxFunction
+
+o closure

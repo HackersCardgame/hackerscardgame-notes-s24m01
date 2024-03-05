@@ -1,0 +1,55 @@
+Meth EB Neve @ Hac: @Home © Roun’ OxBeh/H»_netapna’ @ ithe w Sehne|_G action hackerscsa2Bjpg(i i Goooi: _G “action Sense’ Minko Starts: @Proble Webseite | MM Mul | + a
+
+€e>s@ © B hitps://royalsocietypublishing.orgidoi/10.1098/rsif 2010.0230 ow oe
+
+THE ROYAL SOCIET
+
+ust ©0%B| Signin
+
+Home Content Information for ~ Abeutus ~ Sign up » Submit
+
+JOURNAL OF THE ROYAL SOCIETY
+INTERFACE
+
+8 open accass Research ates 2 2..s, &
+Seero, _ Multi-camera real-time three-dimensional eee
+B View POF tracking of multiple flying animals
+This Issue
+‘Andrew, Straw Krsn Branson, Tus R, Neumann and Mae. Dickinson
+A Toots < share Published:44 July 2010 httpsu/dol.org/t01098rsit2010.0230 =|
+
+Cite this article Abstract
+‘SERGE ‘Automated tacking of animal movement allows analyses that would not otherwise be
+‘possible by providing great uantties of data, The adstonal capabilty of tracking in real
+Abstract time—with minimal ltency—opens up the experimental possibilty of manipulating
+sensory feedback, thus allowing detailed explorations ofthe neural basis for contol of
+1 introduction behaviour Here we describe a sytem capable of racking the threeimensional (06 March 2011
+positon and body oxentation of animals suchas fhes and bits. The system operates Volume 8 Issue 56
+
+2. Two-dimensional feature | yh less than 40 ms latency and can track multiple animals simultaneously. To achieve
+
+aaa ‘these results, a multi-target tracking algorithm was developed based on the extended
+
+Siete Kalman fiter and the nearest neighbour standard iter data association algorithm. In one Article Information
+Implementation, an Teamera sytem capable of acing thee fessmitaneouly at Dot: wtzonmn0
+
+4.comera anders GO'tames per second using» gga network of ine standrd ne Pent 4and Gore ——_~ubMe
+
+‘alain 2 Duo computers. This manuscipt presents the aonnle and details ofthe algorithms Prblshed by tse
+‘employed and shows tee inplerentatons ofthe system. An experiment was Online SSN s002
+
+S. implementation nd | permed ung the vacking system to measure the elect of vail conaston the AIA story
+
+idl speed of Drosophila melanogaster. At ow contrasts, speed is more variable and faster en
+
+‘eeipsaie cnaverage tan aigh const Ths, the ye is akendy oust tool to std the beiptelsiacle see
+
+posses tteucbiology we bahavou of ely fying anima conbined wih oer iecriques, Pemeapeogetnen
+ich as vital ely ype computer apis or genetic manpaon, he wackng pommeunneoenar
+
+eet of cntst on "stem would offer a power new way to lnvesignte te Bolgy of ying anima.
+
+Seed reuitonn LUcense:
+
+https://royalsocletypublishing,org/doi/10.1098/rsif.2010.02308/ohVe. a ae
+

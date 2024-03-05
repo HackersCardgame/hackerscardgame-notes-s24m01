@@ -1,0 +1,5 @@
+(notice) Tor 0.2.3.25 (git -3fedSeb@96d20187) opening
+(notice) Heartbeat: Tor's uptine is 12:00 hours, with
+
+§ received 7.32 G8.
+

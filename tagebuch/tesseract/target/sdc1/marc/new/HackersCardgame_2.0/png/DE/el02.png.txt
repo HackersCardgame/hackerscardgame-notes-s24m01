@@ -1,0 +1,30 @@
+C64 RAM-DAC
+( GrafikKarte)
+
+->  inmos9024-[F
+
+‘a MSC1F1P-
+
+SCART (f)
+2»
+
+Qo00000000
+QO000Hongo
+
+https://0x8.ch/HackersCardgame 2.0 —
+
+Der RAM-DAC im C64 HeimComputer war so Zu
+sagen die Grafikkarte. Da ist ein Speicher
+drin fur jedes Pixel welches dann am TV
+dargestellt wird. Diese Pixel werden von
+oben Links nach unten Rechts zeilenweise
+ausgelesen, dann in ein RGB-HV-Sync Signal
+ubersetzt und dann zB per Scart an den TV
+geschickt.
+
+Heutige GrafikKarten funktionieren
+Komplizierter und mittlerweile oft auch
+Digital aber um das_ Grundkonzept Zu
+verstehen ist dies ein tolles
+Anschauungsobjekt.
+

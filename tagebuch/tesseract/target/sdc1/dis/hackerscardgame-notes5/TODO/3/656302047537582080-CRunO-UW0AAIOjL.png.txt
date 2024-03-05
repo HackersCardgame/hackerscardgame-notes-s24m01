@@ -1,0 +1,15 @@
+Local node: 192.168.1.41: Traffic on interface eth1 (5d)
+
+15 Mbps
+10 Mbps
+SMbps
+Obps "
+a@es¢s 32888 5 SS FERS SESRSS SAAR
+= 8e@esee¢h8 en 8h Fe see a $s & og
+2 °
+El 3
+a a
+last min avg max|
+BH Incoming traffic on interface ethl [avg] 4.03Mbps 15.13Kbps 433Mbps 19.18 M|
+BH Outgoing traffic on interface ethl [avg] 4.14Mbps 13.76 Kbps 4.36Mbps 12.8 M
+

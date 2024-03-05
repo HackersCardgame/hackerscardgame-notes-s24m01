@@ -1,0 +1,47 @@
+juni9 22:15 @ Uy
+
+1 q a Terminal Q x
+“marc@debian: /media/marc/7F346F3938B21801/hcg$ git*C
+(reverse-i-search)"': *C
+marc@debian: /media/marc/7F346F3938B21801/hcg$ for i in $(seq 1 24); do git clone sae . 5
+4 € https: //github.com/braindef /HackersCardgame$i; done Jacob Appelbaum at 30c3: To Protect And Infect, The Militarization of
+ypornng into 'HackersCardgamel'... argument
+50 a Terminal a = * desiree lértscher die ganzen tiefen
+© Other
+al -Z, --null terminate values with NUL byte
+7 --name-only show variable names only
+d -- includes respect include directives on lookup
+BIE --show-origin show origin of config (file, standard input, blob, com
+9 mand line)
+--default <value> with --get, use default value when missing entry
+| c
+d marc@debian: /media/marc/7F346F3938B21801/hcg$ git config --unset https.proxy 1Odb82da4dfe05e044b88b6219a702780b306b4bcz
+¢ fatal: not in a git directory . _
+1 | marc@debian: /media/marc/7F346F3938B21801/hcg$ git config --local --unset https.p| Terminal Q = x
+roxy
+fatal: --local can only be used inside a git repository 8: ttl=118
+2 marc@debian: /media/marc/7F346F3938B21801/hcg$ git config local --unset https.pro Q mes
+3 create mode LUU644 TUDU/SCreE oe in 5 git directory 8: ttl=118
+4 create mode 100644 tagebuch/ narcedebian: ynediasmarc/7F346F3938B21801/hcgs git config --local Q mes
+fatal: --local can only be used inside a git repository :
+5) marc@debian: /media/marc/7F346F3938B21801/hcg$ git config --local --list 8: ttl=118
+AG anon Benrnenn fatal: --local can only be used inside a git repository Bs testis
+ie terrordrohung behinhaltet narcedebian: smedia/marc/7F346F3938821801/hcg$ git config --global --list & peiens
+"notfalls" ermorden zu kOnnen {221 oUt youcoonte-con 8: ttl=118
+user.name=Your Name oa iets
+7 marc@debian: /media/marc/7F346F3938B21801/hcg$ ff os vyces rium eco. S. iets
+5 5 64 bytes from 8.8.8.8: ttl=118
+3Sat 19 Jun 2021 07:14:54 AM CEST 64 bytes from 8.8.8.8: ttl=118 time=10.5 ms
+2 18 116 958 cyberWAR20210619.txt Pe ae.8 cotist
+--- 8.8.8.8 ping statistics ---
+9 dd85371ba9c9e3alb1d7d9f2d9F97a585bF68F64136b/70ea1d5d851e49ae9OOal2610 packets transmitted, 2423 received, +83 errors, 8.2197% packet loss, tine 2 73659CE
+646257ms
+cyberWAR20210619. txt rtt min/avg/max/mdev = 6.104/13.007/458.394/10.201 ms, pipe 4
+| [main d5fc740] save marc@debian: /disk/marc/hackerscardgame-notes6$ git clone https: //github.com/brai,
+ndef /HackersCardgame3
+- Cloning into 'HackersCardgame3'...
+iles changed, insertions(+), eletions 4
+
+3 delete mode 100644 TOD0/2021-06-03 15-25-24.mkv
+4 delete mode 100755 TODO/kartenlegen.svg
+5

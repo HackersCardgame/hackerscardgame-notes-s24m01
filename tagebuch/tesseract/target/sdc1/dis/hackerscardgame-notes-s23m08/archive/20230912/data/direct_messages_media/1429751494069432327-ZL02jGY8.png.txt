@@ -1,0 +1,63 @@
+€} Quelltext von: imap://mail%40marclandolt%2Ech@imap.mail.hostpoint.ch:143/fetch %3EUID%3E.INBOX%3E1:
+
+Mozilla Thunderbird ~
+
+Return-Path: <nga-ksk@kyusho.co.jp>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-1b1.adm.hostpoint.ch ([10.4.2.218])
+by popimap@18.mail.hostpoint internal with LMTP
+id cFFPDRipImFPFARApKpzRw
+(envelope-from <nga-ksk@kyusho.co.jp>)
+for <mail@marclandolt.ch>; Sun, 22 Aug 2621 17:11:25 +0260
+Received: from mxin@18.mail.hostpoint.ch ([10.4.2.218])
+by mail-1b1.adm.hostpoint.ch with LMTP
+id AMSiDR1pImHWFAEASBAVQA
+(envelope-from <nga-ksk@kyusho.co.jp>)
+for <mail@marclandolt.ch>; Sun, 22 Aug 2621 17:11:25 +0260
+Received: from [157.65.22.191] (helo=157-65-22-191.pro.static.arena.ne. jp)
+by mxin@18.mail.hostpoint.ch with esmtps (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+(Exim 4.94.2 (FreeBSD))
+(envelope-from <nga-ksk@kyusho.co.jp>)
+id 1mHp88-@00LR3-NM
+for mail@marclandolt.ch; Sun, 22 Aug 2021 17:11:25 +0200
+Received: from ec2-13-114-140-156.ap-northeast-1.compute.amazonaws.com (ec2-13-114-140-156.ap-northeast-1.compute.amazonaws.com [13.114.14@.156])
+(Authenticated sender: nga-ksk@kyusho.co.jp)
+by 157-65-22-191.pro.static.arena.ne.jp (Postfix) with ESMTPA id 8A9144EE1768
+for <mail@marclandolt.ch>; Sun, 22 Aug 2621 23:33:58 +090 (JST)
+From: DPD Schweiz <kurier@7@dpd.com.a>
+To: mail@marclandolt.ch
+Subject: mail@marclandolt.ch : Paketnummer - 1550488058988
+Date: 22 Aug 2621 14:33:58 +0000
+Message-ID: <2@21822143357 . ED1DB29715FF9C2A@dpd.com.a>
+MIME-Version: 1.0
+Content-Type: text/html;
+charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Vs-State: SPAM
+X-Hostpoint-Spambox: NO
+
+DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.@ Transitional //EN" “http: //www=
+=2Ew3.org/TR/xhtm11/DTD/xhtml1-transitional .dtd">
+
+<html xmlns:0=3D"urn: schemas-microsoft-com:office:office” xmlns:v=3D"urn:sc=
+
+hemas-microsoft-com:vml" xmlns=3D"http: //wuw.w3.org/1999/xhtml"><head>
+:AllowPNG/><o:PixelsPer=
+
+:PixelsPerInch></o:0FFiceDocumentSettings></xml>< ! [endif] -->
+
+<meta http-equiv-3D"Content-Type” content=3D"text/html; charset=3Dutf-8">
+
+<meta name=3D"viewport” content=3D"width=3Ddevice-width">
+
+=[if !mso]><!-->
+
+<meta http-equiv-3D"X-UA-Compatible” content=3D"IE=3Dedge">
+
+~<! [endif] -->
+
+<title></title>
+
+~<! [endif ]-->
+<style type=3D"text/css">
+

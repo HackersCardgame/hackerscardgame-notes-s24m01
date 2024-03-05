@@ -1,0 +1,81 @@
+cA ABB Technikerschule, Baden 3. Semester
+ames
+
+wee oy Eidg. anerkannte hohere Fachschule fiir Technik 2007/2008
+
+LA Diisen-Passagierflugzeug
+Elektrotechnik/Elektronik
+
+(Vogel Band I, Kapitel 1.5, 6, 7, 9)
+
+Teilaufgabe B: Frequenzabhangigkeit des Bordnetzes
+
+10 Punkte
+
+Ziele:
+
+2 to 00 AWG only
+
+Aromatic
+
+Polyamide
+Braid
+
+Sie kénnen die Wider- DOUGLAS EXSTO0S - WARE
+standszunahme durch
+Stromverdrangung in
+
+runden Leitern berech-
+
+nen und kennen die
+Conductor - 22 to 00 AWG
+
+Zusammen hange ZW i- Tin-Coated Copper > : Jacket - Extruded
+
+i- (24 AWG Nickel-Coated High- ae Modified Cross-Linked
+schen Frequenz, Wi Siewh Secgertioe | Ethylene: Tetratluoroathylone
+derstand und der Dicke
+
+Extruded Modified Cross-Linked
+Ethylene-Tetrafluoroethylene
+
+des Runddrahtes.
+
+Sie kennen die Zu-
+
+sammenhange zwi- Abbildung 1: Phasenleiter im MD-11
+schen der Masse von
+
+Kupfer bzw. Eisen und
+den elektrischen Kenngréssen der Stromerzeugung/-umwandlung und Strom-
+tibertragung.
+
+Aufgabenstellung:
+
+Frequenzabhangigkeit im Bordnetz
+Die Wahl der Frequenz wirkt sich in vielfaltiger Weise auf die Eigenschaften des Bordnetzes
+
+aus.
+
+Bei dieser Teilaufgabe untersuchen Sie die Frequenzabhangigkeit von Eisenmasse und weite-
+ren elektrischen Merkmalen eines Bordnetzes.
+
+Gesucht:
+
+1.
+
+Eisenmasse und Frequenz:
+(2 P.) Mit welchem Gesetz bekommen Sie eine Beziehung zwischen der Masse des Ei-
+
+sens m,, bei Generator, Transformator und Drehstrommotor und der Frequenz f ? Wie
+lautet diese Beziehung in der Form m,, = f,(/...-)? Beachten Sie die Hinweise zur
+Schreibweise von Funktionen weiter unten.
+
+Was geschieht mit der Masse des Eisens wenn Sie die Frequenz verdreifachen und die
+Ubrigen Gréssen konstant halten?
+
+Widerstandszunahme durch Stromverdrangung:
+(5 P.) Héhere Frequenzen bewirken, dass nicht mehr der gesamte Leiterquerschnitt q
+vom Strom durchflossen wird. Die Stromdichte nimmt vom Rand her gegen die Leitermit-
+
+9.7.2007 Bo

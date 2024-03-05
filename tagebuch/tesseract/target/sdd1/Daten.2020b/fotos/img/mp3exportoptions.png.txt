@@ -1,0 +1,10 @@
+‘Specify MP3 Options
+MP3 Export Setup
+BitRate Mode: © Preset ©Variable ©) Average @ Eonstant
+
+Quality [128 kbps: =
+Variable Speed: Fast,
+Channel Mode: © Joint Stereo @) Stereo
+
+Coc) Cerra)
+

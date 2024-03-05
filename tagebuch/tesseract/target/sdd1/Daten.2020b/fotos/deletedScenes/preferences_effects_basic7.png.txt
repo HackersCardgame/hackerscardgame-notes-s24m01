@@ -1,0 +1,10 @@
+iyouist
+AMP
+vst
+
+Restart Audacity to apply changes.
+vsT effects
+
+Display VST effects in graphical mode
+Rescan VST effects next time Audacity is started
+

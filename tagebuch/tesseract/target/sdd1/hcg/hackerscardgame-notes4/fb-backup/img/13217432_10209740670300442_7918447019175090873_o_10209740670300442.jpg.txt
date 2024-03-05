@@ -1,0 +1,32 @@
++2 channel simultaneous sampling
+*Bluetooth Low Energy connection
+microSD card logging up to 32GB
+
+*2x AA battery
+
++0.5%DC, 1%AC Basic Voltage Accuracy
+
+Low Voltage
+*Resistance: 200-20MQ
+Diode Test to 1V
+*Continuity
+
+“Voltage to 1.2V
+
+Voltage Output Current Clamps.
+External Shunts
+
+High Voltage
++10M input impedance
+‘Max. 600VDC, 420VAC
++2 divider ranges:
+
+*60V range
+
+*600V range
+
+Current Common
+
+Fused 10A Continuous Max
++10kA 600VAC max interrupt
+Burden: 20nV/mA,

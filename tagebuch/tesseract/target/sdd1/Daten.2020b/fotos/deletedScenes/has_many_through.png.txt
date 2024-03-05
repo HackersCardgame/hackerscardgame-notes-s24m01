@@ -1,0 +1,37 @@
+Model: Physician
+has. mary ‘appoints
+a.m ‘pati, srcugh
+= sapcinimenis
+
+a co Meet Appointment
+eee
+
+physician a
+appointment date
+
+Model: Patient
+has. may ‘appoints
+has. many ‘physics, though
+= sapciniments
+
+[a [nee |
+
+class Physician < ActiveRecord: :Base
+has_many :appointments
+has_many :patients, :through
+end
+
+:appointments
+
+class Appointment < ActiveRecord: :Base
+belongs_to :physician
+belongs_to :patient
+
+end
+
+class Patient < ActiveRecord: :Base
+
+has_many :appointments
+
+has_many :physicians, :through => :appointments
+end

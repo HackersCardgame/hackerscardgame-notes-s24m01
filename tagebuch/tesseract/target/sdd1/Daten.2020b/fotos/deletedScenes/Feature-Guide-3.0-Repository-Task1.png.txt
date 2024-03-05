@@ -1,0 +1,22 @@
+© improve ordering in scheduled presentation [2 =
+e Bug Eclipse.org | iv
+
+=y [improve ordering in scheduled presentation ] =
+"y Attributes a!
+
+Component [Ul | Target milesto.. 9 [|
+Priority: P3 =| Severity:
+Dependson(S..| | _Blocks: |
+URL: (http:// ]
+Keywords: [ +]
+
++ Private ia]
+
+Scheduled: |This Week “° ~| Due: [Choose Date ~| Estimate:
+
+‘Description @o
+Enter a description for the Bugzilla task here. a
+
+~ Duplicate Detection z
+© Context| 8 Bugzilla]
+

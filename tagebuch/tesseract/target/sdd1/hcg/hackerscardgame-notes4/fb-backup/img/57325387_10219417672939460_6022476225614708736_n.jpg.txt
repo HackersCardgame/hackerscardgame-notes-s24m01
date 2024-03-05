@@ -1,0 +1,52 @@
+>
+Zsynthi VSTE4 [3 SynthtVSTES [ASYMEREVSTBR TTS Syneni vsTes [6 synths vST64
+
+‘Synth! MIDI configuration
+‘Synthmorph sequences
+[Synthmorph-Syntht Pluto Box (1
+
+C
+=
+Cao) xD) |
+[+] [2]
+a :
+5
+
+t#info ExtBank:Synthmorph-Synth1 Pluto Box
+
+[BASS Acid /33:KEY Jantina 65:LEAD Planum [97:1
+34:KEY Aphelion__|66:LEAD Going TB.
+35:KEY Hydra 67:LEAD Horizon 199
+ished __|36:KEY Neptune __|68:LEAD Subsurfac_|10
+tos 5) |37:KEY Uranus 69:LEAD Triangle OT:
+[38:KEY Fluffy. 70:LEAD Vintage 0
+med
+
+SS Tholin = 6 |
+39:KEY Minverva
+[8:BASS EM |
+
+\SS D
+
+ASS Flex 14
+i: BASS AfterSubs [43:KEY Chords [75
+SS Eris [44:KEY TheSharp [76
+
+[45:KEY Plucky) "|
+“Sauron [46:KEY FM We Lov [7%
+415:ARP Al 47:KEY Seabora 79
+16:ARP DSMO '48:KEY Drops [80
+17:ARP_FM Expo 49:KEY Planet X [81
+48:ARP Tesla 50:KEY Ceres
+
+61°KEY Tanaering
+3
+31:KEY Opbital
+32:KEY Guitar
+
+128 Programs
+
+enon)
+
+von
+

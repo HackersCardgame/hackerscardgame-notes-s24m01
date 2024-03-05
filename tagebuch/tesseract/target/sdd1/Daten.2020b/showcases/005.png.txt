@@ -1,0 +1,28 @@
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+
+new rls
+time
+section
+rule
+sites
+sites
+spare
+
+I.Tonya.2017.COMPLETE.BLURAY-LAZERS
+
+10.03.2018 06:03:05
+
+BLURAY
+
+BLURAY. RET
+
+EXN,SF,EXN,SF,EXN,SF,SF,EXN,SF,EXN
+
+1:EXN=>SF 2:EXN=>SF 3:EXN=>SF 4:SF=>EXN 5:SF=>EXN
+EXN(1L:1 u:4 d:0)

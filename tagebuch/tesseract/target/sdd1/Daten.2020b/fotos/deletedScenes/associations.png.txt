@@ -1,0 +1,14 @@
+Has One and Belongs To
+
+Picture has_one : thumbnail
+
+‘Thunbnail belongs_to :picture
+
+Has Many
+
+User has_many :computers
+
+Has and Belongs to Many
+
+User has_and_belongs_to_many :religiouscults
+

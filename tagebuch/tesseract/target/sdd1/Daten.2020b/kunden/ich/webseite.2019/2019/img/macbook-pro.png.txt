@@ -1,0 +1,21 @@
+[@xB8083C%¢ 255 /usr/bin/r2)> pd $r @ sym. .L94+4869 # Bx3c9c
+n. 00
+mov edi, [ebxei 04]
+mov esi, [espe 7c]
+mov eax, [espe 3d]
+mov duord [espe
+
+mov [esp], ea
+
+syn. imp.r_core_prompt()
+
+(4)
+mov fespl,
+
+syn. inp.r_th_lock_enter()
+nov ed
+mov Cesp], edx
+
+syn, inp.r_core_pronpt_exect)
+mov Lespt
+

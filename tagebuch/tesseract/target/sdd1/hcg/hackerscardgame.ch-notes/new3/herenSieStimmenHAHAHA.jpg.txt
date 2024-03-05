@@ -1,0 +1,51 @@
++n 0 © Pw =
+
+C)> iC a © | & bitps://pubmed.ncbi.nim.nih.gov/20204164/ a
+
+Find NCBI SARS-CoV-2 literature, sequence, and clinical content: https://www.ncbi.nlm.nih.gov/sars-cov-2/
+
+National Library of Medicine
+
+National Cente jotechnology Int
+
+PublQed. gov | Search
+
+Advanced User Guide
+Save Email Send to Display options
+> Speech Commun. 2010 Apr 1;52(4):367-379. doi: 10.1016/j.specom.2010.01.001. FULL TEXT LINKS
+Brain-Computer Interfaces for Speech PMC ruitent
+Communication
+acnons
+
+Jonathan $ Brumberg ', Alfonso Nieto-Castanon, Philip R Kennedy, Frank H Guenther
+
+Affiliations + expand
+PMID: 20204164 PMCID: PMC2829990 DOI: 10.1016/j.specom.2010.01.001 | Favorites |
+Free PMC article
+
+Abstract (vy) Cf) @
+
+This paper briefly reviews current silent speech methodologies for normal and disabled individuals.
+Current techniques utilizing electromyographic (EMG) recordings of vocal tract movements are useful
+for physically healthy individuals but fail for tetraplegic individuals who do not have accurate
+voluntary control over the speech articulators. Alternative methods utilizing EMG from other body ¢ Title & authors
+parts (e.g., hand, arm, or facial muscles) or electroencephalography (EEG) can provide capable silent
+
+VIGATION
+
+communication to severely paralyzed users, though current interfaces are extremely slow relative to. Abstract
+normal conversation rates and require constant attention to a computer screen that provides visual
+feedback and/or cueing. We present a novel approach to the problem of silent speech via an
+intracortical microelectrode brain computer interface (BCI) to predict intended speech information
+directly from the activity of neurons involved in speech production. The predicted speech is
+synthesized and acoustically fed back to the user with a delay under 50 ms. We demonstrate that the
+Neurotrophic Electrode used in the BCI is capable of providing useful neural recordings for over 4
+years, a necessary property for BCls that need to remain viable over the lifespan of the user. Other
+
+Figures
+Similar articles
+
+Cited by
+
+https://doi.org/10.1016/jspecom.2010.01.001
+

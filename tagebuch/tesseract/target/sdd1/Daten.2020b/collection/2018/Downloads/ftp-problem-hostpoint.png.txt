@@ -1,0 +1,62 @@
+marcland@s30: ~
+
+File Edit View Search Terminal Help
+-rw-r--r-- 1 marcland = marcland 549024 Nov 15 2016 zu
+-rw-r--r-- 1 marcland = marcland 549024 Nov 12 ji
+226-Options: -a -l
+
+Of fensicht
+
+‘Lich- -Suendenbocke-ExlamationMark
+
+226 53 matches total
+ftp> exit Modified
+221-Goodbye. You uploaded @ and downloaded 0 kbytes.
+221 Logout.
+[marcland@s30:~/www/Ox8.ch] $ exit
+Logout
+Connection to ftp.marclandolt.ch closed. Documents
+marc@debian: $ ssh marcland@ftp.mar|
+Password for marcland@s30.server.hostpoint.ch: } Downloads
+Last login: Sun May 20 23:36:26 2018 from 80.219.30.46
+Music
+Welcome to . . .
+This location could not be displayed.
+a wr m m \ FAG Pictures
+1 rie propre Sorry, could not display all the contents of “/ on ftp.marclandolt.ch”
+Videos e } late
+Pott oN tt bi Ns
+a! ae Trash
+I} LbN vty LL \_/ (3
+marcland on ftp.m,
+Host: 530. server.hostpoint.ch
+os: FreeBSD 10.4
+
+Other Locations
+
+[marcland@:30:~] $ ftp ftp-marclandolt.ch
+
+Connected to ftp.marclandolt.ch.
+
+1220-- --- Welcome to Pure-FTPd [privsep] [TLS] -
+220-You are user number 2 of 100 allowed.
+
+220-Local time is now 00:27. Server port: 21.
+
+220-This is a private system - No anonymous login
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivill
+Name (ftp.marclandolt.ch:marcland) :
+
+331 User marcland OK. Password required
+
+Password:
+
+230 OK. Current directory is /
+
+Remote system type is UNIX.
+
+Using binary mode to transfer files.
+
+#tp> []
+

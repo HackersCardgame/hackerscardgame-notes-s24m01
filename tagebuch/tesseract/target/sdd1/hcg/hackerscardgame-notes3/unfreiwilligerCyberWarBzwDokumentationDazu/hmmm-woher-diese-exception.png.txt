@@ -1,0 +1,68 @@
+drwxr-xr-x 115 marc marc 4096 Mar 24 14:08 code
+marc marc 4096 Apr 21 2020 collection
+marc marc 4096 Apr 21 2020 deletedScenes
+marc marc 4096 Apr 21 2020 erfindungen
+marc marc 4096 Apr 21 2020 for1978
+marc marc 4096 Apr 21 2020 fotos
+marc marc 4096 Apr 21 2020 goStraightToHelLFacebookForThat--evidence
+marc marc 4096 Apr 21 2620 kunden
+marc marc 4096 Apr 21 2020 Leaks
+marc marc 70 Nov 30 2019 .~Lock.koerperpflege.odt#
+marc marc 4096 Apr 21 2020 logfiles
+marc marc 33916181 Apr 21 2020 mordversuchDurchAfghanen.mov
+marc marc 4096 Apr 21 2020 moserRevictimiting
+marc marc 4096 Oct 29 09:51 musik
+marc marc 4096 Apr 21 2020 notes
+marc marc 4096 Apr 21 2620 python
+marc marc 4096 Oct 1 2019 Recordings
+marc marc 4096 Apr 21 2020 reverseEngineering
+marc marc 250678 Apr 21 2020 schach.png
+marc marc 86016 Apr 21 2020 screenshots
+marc marc 20480 Mar 17 3:16 showcases
+marc marc 4096 Apr 21 2020 software
+marc marc 12288 Mar 24 14:16 sort
+marc marc 4096 Apr 4 2020 tagebuch
+marc marc 4096 Apr 21 2020 templates
+marc marc 4096 Mar 112620 TODO
+drwxr-xr-x 3 marc marc 4096 Mar 24 14:15 Videos
+narc@debian:~/Daten.2020$ rm Traceback (most recent call last)
+File "/usr/Lib/python3/dist-packages/pyatspi/registry.py", Line 209, in eventWrapper
+return callback(event)
+File "/usr/Lib/python3/dist-packages/orca/event_manager.py", Line 803, in _processkeyboardEvent
+keyboardEvent = input_event.KeyboardEvent (event)
+File "/usr/Lib/python3/dist-packages/orca/input_event.py", line 262, in _ init
+if len(self.event_string) > 1 \
+TypeError: object of type 'NoneType’ has no len()
+Traceback (most recent call last)
+File */usr/Lib/python3/dist-packages/pyatspi/registry.py", Line 209, in eventWrapper
+return callback(event)
+File "/usr/Lib/python3/dist-packages/orca/event_manager.py", Line 803, in _processkeyboardEvent
+keyboardEvent = input_event.KeyboardEvent (event)
+File "/usr/Lib/python3/dist-packages/orca/input_event.py", line 262, in _ init
+if len(self.event_string) > 1 \
+TypeError: object of type 'NoneType’ has no len()
+“C
+
+marc@debian:~/Daten.2620$ *C
+marc@debian:~/Daten.2620$ *C
+marc@debian:~/Daten.2620$ *C
+marc@debian:~/Daten.2620$ 14:18:47.547522 - EVENT MANAGER: No focus
+
+Traceback (most recent call last)
+File "/usr/Lib/python3/dist-packages/orca/generator.py", line 244, in generate
+result = eval (formatting, globalsDict)
+File "<string>", line 1, in <nodule>
+NameError: name ‘labelandwame' is not defined
+
+During handling of the above exception, another exception occurred
+
+Traceback (most recent call last)
+File "/usr/Lib/python3/dist -packages/orca/generator.py", line 255, in generate
+globalsDict[arg] = self. methodsDict[arg] (obj, **args
+File "/usr/Lib/python3/dist-packages/orca/generator.py", Line 385, in _generateLabelAndName
+name = self, generateName(obj, **args
+File "/usr/Lib/python3/dist-packages/orca/generator.py", line 327, in _generateName
+name = obj name
+gi.repository.GLib.GError: atspi_error: Method "Get" with signature "ss" on interface “org. freedesktop.DBus.Properties" could not be processed as object /org/ally/atspi/accessible/6 does not exist
+a
+

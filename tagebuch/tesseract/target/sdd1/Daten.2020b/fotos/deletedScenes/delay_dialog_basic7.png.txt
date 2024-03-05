@@ -1,0 +1,22 @@
+by Roger Dannenberg, modified by David R. Sky
+
+Released under terms of the GNU General Public License Version 2
+
+Delay type: ‘bouncing bal! makes the echoes occur increasingly dose
+together (Faster); reverse bouncing bal! makes them occur increasingly far
+apart (slower). In either bouncing bal effect, delay time is not time between
+echoes but the * maximum * delay time in bounces.
+
+Applying delay can cause cipping (distortion), especialy when reducing the
+decay value and using more echoes. It's normally best to use Effect > Amplify
+
+to set the peak amplitude to -6 dB before using delay.
+on
+
+Decay amount [d8; negative vale increases volume]: 6 0
+Delay time [Seconds]: 0.50 0
+Pitch change per echo [semitones; negative value =lower, Ois off]: 0.00 0
+imintice G i}
+
+Coo) Cerra)
+

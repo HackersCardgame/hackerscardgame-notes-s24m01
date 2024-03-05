@@ -1,0 +1,97 @@
+% Abuse contact for ‘213.144.137.160 - 213.144.137.191' is ‘abuse@init7.net'
+
+inetnum:
+netname:
+descr:
+country:
+admin-c:
+tech-c:
+status:
+mnt-by:
+created:
+
+last-modified:
+
+source:
+
+role:
+
+address:
+address:
+address:
+
+abuse-mailbox:
+
+phone:
+fax-no:
+admin-c:
+tech-c:
+nic-hdl:
+org:
+mnt-by:
+created:
+
+last-modified:
+
+source:
+
+role:
+address:
+address:
+admin-c:
+tech-c:
+mnt-by:
+nic-hdl:
+created:
+
+last-modified:
+
+eniree.
+
+213.144.137.160 - 213.144.137.191
+TRASH-NET
+
+Trash.net
+
+CH
+
+VT641-RIPE
+
+ISHM-RIPE
+
+ASSIGNED PA
+MNT-INIT7-NOC
+2004-12-10T10:41:02Z
+2017 -04-03T14: 46 :38Z
+RIPE # Filtered
+
+Init Seven Hostmaster-Team
+Init7 (Switzerland) AG
+Technoparkstrasse 5
+CH-8406 Winterthur
+abuse@init7.net
+
++41 44 315 44 00
+
++41 44 315 44 01
+LIMO-RIPE
+
+ISNO-RIPE
+
+ISHM-RIPE
+ORG-ISA1-RIPE
+MNT-INIT7-NOC
+2003-04-29T21:01:05Z
+2018 -02-23T16:05:44Z
+RIPE # Filtered
+
+Verein trash.net
+Postfach 6203
+CH-8023 Zuerich
+0T600-RIPE
+0T600-RIPE
+MNT-INIT7-NOC
+Vt641-RIPE
+2004-12-20T08:01:01Z
+2017 -04-03T14: 46 :38Z
+RTPE # Filtered

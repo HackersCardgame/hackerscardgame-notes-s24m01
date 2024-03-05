@@ -1,0 +1,17 @@
+15
+
+[xlineview v] 10
+Mono, 44100H2
+
+32-bit float
+
+| Mute | Solo |
+
+laa
+
+0.0
+
+[label Tack ¥]
+
+‘Question 1
+

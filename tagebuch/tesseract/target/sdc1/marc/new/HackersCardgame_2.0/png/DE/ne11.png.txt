@@ -1,0 +1,28 @@
+Implantat
+Firmware
+
+erigwe
+¥ pull ate for :
+am) 2-10
+
+_ fret
+fiat
+t.
+
+/IOx8.ch/HackersCardgame 2.0
+
+So ein Implantat hat logischerweise eine
+Firmware und vermutlich mindestens einen
+verbindungskanal wie WiFi oder Bluetooth.
+Die Firmware ware’ grundsatzlich eine
+StateMachine (in01) welche verschiedene
+Zustande annimmt. Die Aussenkanale wie
+WiFi oder Bluetooth waren logischerweise
+Hackbar, das nennt man BrainJacking, da
+gibts Wissenschaftliche Papers dazu
+(nel2).
+
+Beispiel einer solchen Statemachine.
+=> Aggressiv (neQ1) => GlUcklich (neQ2)
+=> Mude => dann wieder Aggressiv (ne01)
+

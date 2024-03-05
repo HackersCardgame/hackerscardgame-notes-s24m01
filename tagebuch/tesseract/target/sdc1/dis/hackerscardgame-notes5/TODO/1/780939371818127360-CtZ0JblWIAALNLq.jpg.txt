@@ -1,0 +1,9 @@
+Laclede: 192 268..40. lfc en reerface Broadcom Corporation Netlink BCMS7785 Gigabit Ethenet PCle(2h)
+100 Mbps
+
+sa Mbps
+obps
+
+1 Incoming traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCIe
+1 Outgoing trafic on interface Broadcom Corporation NetLink BCH57765 Gigab Ethemet PCIe
+

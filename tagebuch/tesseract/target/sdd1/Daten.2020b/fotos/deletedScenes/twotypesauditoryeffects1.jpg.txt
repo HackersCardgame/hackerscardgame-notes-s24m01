@@ -1,0 +1,18 @@
+aig
+ile
+513
+£18
+alg 2
+ae
+0.
+
+T T
+
+ot 4 10
+
+PULSE REPSTiTICS AaTS x 20Co
+
+Fig.¥. RF sound threshold versus pulse-
+repetition rate. Pulse duration
+is 10 usec.
+

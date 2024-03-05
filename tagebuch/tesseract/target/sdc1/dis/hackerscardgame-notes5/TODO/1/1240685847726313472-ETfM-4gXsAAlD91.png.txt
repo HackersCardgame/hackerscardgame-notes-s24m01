@@ -1,0 +1,48 @@
+marc@debian: /usr/share/dict x
+
+File Edit View Search Terminal Help
+
+vindicators
+
+vociferating
+
+vociferation
+
+vociferation's
+
+woodcarving
+
+woodcarving's
+
+woodcarvings
+
+marc@debian: /usr/share/dict$ cat american-english |grep c |grep o|grep r |grep n
+lgrep a |grep -P "*...... $"
+
+Dacron
+
+Franco
+
+acorns
+
+anchor
+
+candor
+
+cantor
+
+carton
+
+cornea
+
+corona
+
+crayon
+
+macron
+
+racoon
+
+rancor
+
+marc@debian: /usr/share/dict$ JJ

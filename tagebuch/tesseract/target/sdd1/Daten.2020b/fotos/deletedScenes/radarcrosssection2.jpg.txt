@@ -1,0 +1,22 @@
+REAR VIEW
+
+= 410 M
+2°20 MC
+Le © 2890 MC
+2.4800 MG
+*9375 MG
+2
+0.8
+ba
+CROSS-SECTION
+SQUARE METERS
+Q os U2
+Se,
+Ra
+We
+VERTICAL POLARIZATION HORIZONTAL POLARIZATION
+FRONT VIEW
+
+Fig. 2—Average bistatic radar cross section of a man as a function
+of target aspect angle, with frequency and polarization as param-
+eters.

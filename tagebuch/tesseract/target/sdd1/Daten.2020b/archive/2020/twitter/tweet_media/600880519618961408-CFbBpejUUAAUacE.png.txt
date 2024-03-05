@@ -1,0 +1,87 @@
+marc@kali:~/Daten.2015$ mdSdeep -r ./Daten.2013/myLife/Tagebuch/2001/Disketten
+
+8f4676b4a1 28207 e6d85d48a6896c7ec
+2598 1ee5a940a0ec 38661¢ f04a51b6de
+1 fafe699 fa05985dbd53aac57ab1 a6b8
+7220 fc57cbec98e1508646f f3e31 ffea
+238ea12f fd933b686d32F11bffaee20e
+97 Fc26del 4be4ed9 fadbf35b3a39F15
+b931c1 f640d1 abdac069393aalbdc9af
+784462997 ab65e7 cb5e2dc £40532367b
+16b5d9b4e92e6e2cb0d4ce63133c9cd5
+d4457641e8d249242b1 f7dae0029a1b0
+386c62c650b47eb15 F45767585457 ebb
+3d2687 lefcdl f8c7ed2dc F7835b42409
+2680ccbe32e F95488cdbObd38840f665
+2b2 fad3399c70F7466954e017330f2ea
+9f4dc77abc3F15220654409217067d52
+a7 8b F49c 4325499b8b3 F8c 88c 3a860aa
+cc796da038750 fe5a0a91b8b0512c8b5
+1054741d07a2d8ad9 f f189bdc87c3813
+105dca2F3c20fc8bec2923d417a6al2b
+e8deQaeeab f65dbdd7084a042F7ee6c9
+
+Tat wy se s/Ratan OMTEt
+
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+/home/marc/Daten.
+
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+2015/Daten.
+
+2013/myLife/Tagebuch/2001/Disketten/.DS_Store
+2013/myLife/Tagebuch/2001/Disketten/2001/Oktober/18.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/Oktober/21.txt
+2013/myLife/Tagebuch/2001/Disketten/difficultLetter.txt
+2013/myLife/Tagebuch/2001/Disket ten/2001/Oktober/26.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/Oktober/14.txt
+2013/myLife/Tagebuch/2001/Disket ten/2001/Oktober/17.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/Oktober/16.txt
+2013/myLife/Tagebuch/2001/Disket ten/2001/Oktober/15.txt
+2013/myLife/Tagebuch/2001/Disket ten/2001/Oktober/13.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/21 .txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/18.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/17.txt
+2013/myLife/Tagebuch/2001/Disket ten/201/November/23.txt
+2013/myLife/Tagebuch/2001/Disketten/201/November/19.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/@1 .txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/11.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/22.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/November/16.txt
+2013/myLife/Tagebuch/2001/Disketten/2001/__.txt

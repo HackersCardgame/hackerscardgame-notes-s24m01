@@ -1,0 +1,34 @@
+—
+
+vr fs
+“|:
+
+ad
+
+SYSTEM REQUIREMENTS
+Mac
+‘mao0S 10.12/10.19 (04-bit Windows 7/8/10
+
+VST 3, AAX, AU compatible host VST 3. VST 2, AAX compauile host
+application tor saing as plugin | application for using ws pugn
+
++ 64-bit Intel or AMD multi-core processor (Intel i8 or faster recommended)
+"+ 4 GB RAM (8 GB or more recommended) * 115 GB fre HO space
+__ = 1440 x 900 display resolution (1920 x 1080 recommended)
+= Graphics card with DirectX 10 and WODM 1.1 support (Windows only)
+= 0S-compatible audio hardware”
+‘An internet connection is required for activation, account setup and
+personal/product registration. A download is required for the installation.
+
+*AS10-compatible audio hardware is recommended for low-latency pertormance.
+
+For recommended
+please reter to the
+
+© steinberg
+
+www.steinberg.net
+
+Yo
+
+gat

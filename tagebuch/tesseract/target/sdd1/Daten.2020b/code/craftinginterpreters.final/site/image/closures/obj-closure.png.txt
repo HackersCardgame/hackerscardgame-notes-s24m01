@@ -1,0 +1,6 @@
+ObjClosure ObjFunction
+[function o-———| constants | Q-— value array
+
+/d | ae ol bytecode
+
+’ captured variables go here...

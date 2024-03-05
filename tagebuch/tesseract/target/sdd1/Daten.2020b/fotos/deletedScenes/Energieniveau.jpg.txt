@@ -1,0 +1,9 @@
+Energie
+
+dem Tisch
+Energieniveau 2
+Energiedifferenz
+Stein auf
+dem Boden
+Energieniveau 1
+

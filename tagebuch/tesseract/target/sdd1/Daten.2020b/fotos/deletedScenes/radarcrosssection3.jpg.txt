@@ -1,0 +1,7 @@
+VERTICAL POLARIZATION [ORIZONTAL POLARIZATION
+FRONT VIEW
+
+Fig. 3—Average relative bistatic radar cross section of a man as a
+function of target aspect angle, with frequency and polarization
+as parameters, (The curves are normalized with respect to the
+radar cross section of the front aspect.)

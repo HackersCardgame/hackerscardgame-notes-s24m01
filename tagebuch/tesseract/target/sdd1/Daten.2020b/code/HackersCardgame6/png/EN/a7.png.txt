@@ -1,0 +1,33 @@
+[c] Abstract Factory Facade Proxy
+
+Adapter [Te] Factory Method Observer
+
+Bridge Flyweight Singleton
+
+[c] Builder Interpreter State
+
+Chain of Responsibility iterator Strategy
+Command Mediator Template Method
+Composite Memento Visitor
+Decorator [c ] Prototype
+
+https://Ox8 ch/HackersCardgame6
+
+Inventor:
+
+Design Patterns are well known in_ Software
+Development, but can be applied also in Sociology,
+Psychology, Architecture, Electronics (for example an
+Operational Amplifier or op-amp is some sort of
+design pattern too)
+
+For example the Jus Primae Noctis Card (some sort of
+psycholog design pattern) some assholes use to
+foced her own daugther after they attract me with a
+computer course and then they’ used _ this
+permanently changing design pattern over a period
+of 20 years to snipe me away from the things i was
+doing in this moment. That is the prove that there
+are "white"-torture design patterns Juilan Assange
+talked about at HITB SecConf 2009 Malaysia...
+

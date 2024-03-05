@@ -1,0 +1,10 @@
+[x[Audiol
+Mono, 44100Hz ]
+32-bit float OC)
+
+[xaudo2
+
+Mono, 44100H2
+
+32-bit float
+

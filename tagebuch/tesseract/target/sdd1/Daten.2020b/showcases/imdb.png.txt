@@ -1,0 +1,56 @@
+marc@debian: ~/Daten.2017/code/shrikey/python/pciNG/imdb
+
+File Edit View Search Terminal Help
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb
+Movie not found in IMDb
+
+Movie not found in BoxOffice
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb
+MovieID (tconst): tt2527336
+
+MovieRanking (averageRating): 7.4
+
+starwars8.htm
+
+Max US Screens: 4232
+
+Max UK Screens: 723 -- [723, 0, 0, 665, 0, 452, 274, 0,
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb
+MovieID (tconst): tt0133093
+
+MovieRanking (averageRating): 8.7
+
+matrix. htm
+
+Max US Screens: 2903
+
+No UK Screens found
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb
+MovieID (tconst): tt0242653
+
+MovieRanking (averageRating): 6.7
+
+matrixrevolutions.htm
+
+Max US Screens: 3502
+
+python3 imdb.py
+
+python3 imdb.py
+
+94, 0, 64, 5]
+python3 imdb.py
+
+python3 imdb.py
+
+Max UK Screens: 467 -- [467, 466, 428, 339, 268, 238, 63, 11, 11, 9]
+
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG/imdb
+
+"Star Wars:The Last Jedi"
+
+"Star Wars: The Last Jedi"
+
+"The Matrix"
+
+"The Matrix Revolutions"

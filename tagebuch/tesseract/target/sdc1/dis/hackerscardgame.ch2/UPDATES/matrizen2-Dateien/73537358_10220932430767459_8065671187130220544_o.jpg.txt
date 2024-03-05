@@ -1,0 +1,15 @@
+Subject
+
+(onereteoneener]
+
+Inventor: Year:
+The observer patter (also calle listener pattern) is
+‘a design pattem in software development. it belongs
+to the category of behavior patterns, Inthe
+programming language Java it would need an
+Interface (public nterface Observer) and it would be
+Used with "implements Observer" (needs exercise
+‘and maybe qfre, quantuminserts, Turbine, Tarmoil
+tries to make it hard for you to lear) It does not
+peer elie pelea peter napine rnin apa iat
+

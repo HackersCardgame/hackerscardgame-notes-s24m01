@@ -1,0 +1,20 @@
+DAL DA2 ADI AD2 _ Digital card
+
+eam @1] O02 0% O% | disconnect
+Clear All Digital Output
+
+014203M40sM60708
+‘Analog
+
+Digital Input
+set All
+
+@oeoe
+Clear All 1 2 3 4 5
+
+Tot Counter 1
+BG] (Reset | ims >
+Digital
+Counter 2
+a eases GG] (Reset) (ims >
+

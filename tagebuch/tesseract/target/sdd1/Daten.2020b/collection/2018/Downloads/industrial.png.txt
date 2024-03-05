@@ -1,0 +1,64 @@
+marc@debian: ~/Daten.2017/code/shrikey/python/pciNG x
+
+File Edit View Search Terminal Help
+
+NI
+
+/
+
+/ if . / / Jf
+/
+
+/. /
+\+[pHASE . COMBOGEN . iNTERFACE ] +: \_/: >>
+
+I. |
+<< ==/==+[PCI-2.2]+/,
+
+>> new rls : LEARNNOWONLINE.SQL.2014.DEVELOPER.WORKING. CNBC .WITH.XML-THEOS
+
+>> time 21.03.2018 14:22:54
+>> section : BOOKWARE
+>> rule BOOKWARE
+
+>> sites : DZN,GP,DZN,GP,DZN,GP,DZN, GP,DZN,GP,DZN,GP,MF, GP, MF, GP,MF, EXN,MF,EXN, RATS, EXN, RATS, EXN, RATS, EXN, RATS, EXN, CE, SF, CE, SF,SF,CE, SF, CE, SF, ZH
+>> sites: 1:DZN=>GP 2:DZN=>GP 3:DZN->GP 4:DZN->GP 5:DZN=>GP 6:DZN=>GP 7:MF=>GP 8:MF=>GP 9:MF=>EXN 10:MF=>EXN 11:RATS=>EXN 12:RATS=>EXN 13:RATS
+EXN 14:RATS=>EXN 15:CE->SF 16:CE=>SF 17:SF=>CE 18:SF=>CE 19:SF->ZH
+>> pre DZN MF
+>> spare: ZH(1:3 u:3 d:4)
+
+Landevs Software:
+
+LEARNNOWONLINE . SQL.2014.DEVELOPER.WORKING. CNBC .WITH.XML-THEOS BOOKWARE
+
+‘/Daten.2017/code/shrikey/python/pciNG$ ./test.sh LEARNNOWONLINE.SQL.2014.DEVELOPER.WORKING .WITH.XML-THEOS
+
+7 1 /
+
+/ if . / / Jf
+/
+
+/. /
+\+[pHASE . COMBOGEN . iNTERFACE ] +: \_/: >>
+
+I. |
+<< ==/==+[PCI-2.2]+/,
+
+=> new rls : LEARNNOWONLINE.SQL.2014.DEVELOPER.WORKING.WITH.XML-THEOS
+
+>> time 21.03.2018 14:22:59
+>> section : BOOKWARE
+>> rule BOOKWARE
+
+>> sites DZN,GP,DZN,GP,DZN,GP,DZN,GP,DZN,GP,DZN,GP,MF,GP,MF,GP,MF,EXN,MF,EXN,RATS,EXN,RATS, EXN, RATS, EXN, RATS, EXN, SF,CE,SF,CE,SF,ZH, SF, ZH, CE, SF
+
+>> sites + 1:DZN=>GP_2:DZN=>GP 3:DZN->GP 4:DZN->GP 5:DZN=>GP 6:DZN=>GP 7:MF=>GP 8:MF=>GP 9:MF=>EXN 10:MF=>EXN 11:RATS=>EXN 12:RATS=>EXN 13:RATS
+EXN 14:RATS=>EXN 15:SF=>CE 16:SF=>CE 17:SF=>ZH 18:SF=>ZH 19:CE->SF 20:CE=>ZH
+
+>> pre DZN MF
+
+>> spare: ZH(U:1 u:l d:4)
+
+Landevs Software: LEARNNOWONLINE.SQL.2014.DEVELOPER.WORKING.WITH.XML-THEOS
+
+marc@debian:~/Daten.2017/code/shrikey/python/pciNG$

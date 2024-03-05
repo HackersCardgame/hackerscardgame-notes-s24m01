@@ -1,0 +1,14 @@
+insert Resource
+
+Resource ype
+Accelerator
+Biman,
+Bp Cursor
+Dialog
+i HTML
+leon
+i Menu
+‘bs Sting Table
+|B Toolbar
+Version
+

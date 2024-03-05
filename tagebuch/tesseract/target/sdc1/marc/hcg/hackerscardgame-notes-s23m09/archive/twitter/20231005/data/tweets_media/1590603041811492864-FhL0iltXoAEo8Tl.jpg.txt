@@ -1,0 +1,46 @@
+City mw New BSc A Was OF esp: BCC BCC |: BAM ham Suse west SCOr ErTow GYAN twit Shadov Owic Qseen WN |Osx|> + vx
+
+6 © B ditpssigithub.com! : 'e © tw eg
+
+Pullrequests Issues Marketplace Explore
+
+© seemoo-lab/mobisys2018_nexmon_softwar:
+
+> defined_radio » Qvowicn 5 - Yok oT > sas
+© Code © lesues 16 11 Pullroquests © Actions (H] Procts © Securty Lx nsights
+
+P master 1b
+
+on
+
+cototle — Addile~ RAB About
+
+Proof of concept project for operating
+Broadcom Wi-Fi chips as arbitrary signal
+transmitters similar to software-defined
+
+2) matniasseemoo bems339: fed vrsion te
+
+[ma payioad_ generation experimental aw signal radios (SDRs)
+mse bemt399: fixed version te 1D Readme
+B ucense working fmuare patches that uses oct! 426 t load iq samples ito A View teense
+DB Makefie asic support 1350 (Raspberry Pi Syearsago TIS Sa
+
+© Ss veatching
+README ma Update README md syeusa90 verte
+1D patenis working fmwae patches that use loc! 426 te load iq samples ito 5 years 290
+
+README:md
+
+NextmMon
+
+Nexmon Software Defined Radio Languages
+
+‘This projects EEE © Shal'soos @ MATLAB 2
+that transmit arbitrary signals in the Wi-Fi bands. In this example, we patch the Wi-Fi firmware of BCM4339 devices 261525 © Makate
+installed in Nexus 5 smartphones and BCM43455c0 devices installed in Raspberry Pi 83+ computers. The
+
+111ac Wi-Fi chips into soft
+
+ry that tu nod radh
+

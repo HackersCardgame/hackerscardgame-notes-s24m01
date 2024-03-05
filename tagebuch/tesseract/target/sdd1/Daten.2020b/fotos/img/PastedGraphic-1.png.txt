@@ -1,0 +1,34 @@
+Auftragsdaten > Kontrolle > Bestatigung des Begiinstigten > Auftragsbestatigung
+
+Ihr Aufirag wurde als Zahlungsauftrag SEPA entgegengenommen. Er wird bel
+
+WA encprectendom Guhebon am 26102011 auogett
+Der von Ihnen bestétigte Zahlungsempfanger wurde fur zukinfige Zahlungen
+Inder Liste "Bestatigte BegUnstigte"eingeflgt
+
+Begiinstigter Bank des Begiinstigten
+Name: BTB - BUSINESS TO BUSINESS OHG BIC (SWIFT: BYLADEM1RBG
+StrasseiNr.: Bankcode:
+Name derBank: SPARKASSE REGENSBURG
+PLZ/On: 93049 REGENSBURG:
+StrasseiNr.: 5, LILIENTHALSTRASSE.
+Land: DEUTSCHLAND (DE)
+IBAN (Konto): DE347505 0000 0181 8544 07 PLZIOM: 93049 REGENSBURG:
+Land: DEUTSCHLAND (DE)
+Zahlung Kosten und Instruktionen.
+Betrag: EUR 96.00 Kosten: Auftellung der Kosten
+Zahlungsgrund: Instuktionen: Keine
+Zahlungsreferenz:
+Belastung.
+Belastungskonto:  CH73 0023 1231 6679 2440 F CHF UBS Privatkonto Marc Landolt jun.
+Ausfihrungsdatum: 26.10.2011 Status: Y Vollvisiert
+Buchung Avisierung,
+Salérzahlung: Nein
+Einzelbuchung: Ja Belastungsanzeige: Nein ‘Ohne Details:
+Buchungstext: MAC AUTOCAD
+‘Auftragsnummer: 9931298T10996473
+
+Neue Zahlung | | Als Vorlage speichern
+
+Drucken (PDF)... |
+

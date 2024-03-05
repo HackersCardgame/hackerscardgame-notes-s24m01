@@ -1,0 +1,17 @@
+x|Narration_w] 1.0
+Mono, 44100F
+
+16-bit PCM os
+
+= + | 0.04
+9
+
+L -o54
+9
+
+-1.0
+
+[Background ¥] 1.0
+Stereo, 44100H2
+46-bit CM 0.0
+

@@ -1,0 +1,29 @@
+marcland@s92: ~/www/hackerscardgame.ch Qe x
+
+Host: s92.server.hostpoint.internal
+n os: FreeBSD 12.4
+
+[marcland@s92:~] $ cd www/®x8.ch/HackersCardgame_2.0
+[marcland@s92: ~/www. HackersCardgame_2.0] master(+1/-1) +
+remote: Enumerating objects: 18, done.
+remote: Counting objects: 100% (18/18), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 12 (delta 6), reused 11 (delta 5), pack-reused @
+Unpacking objects: 100% (12/12), 2.30 MiB | 7.48 MiB/s, done.
+From https: //github.com/HackersCardgame/HackersCardgame_2.0
+e583c04..3f8b6c0 master -> origin/master
+1 Updating e583c04. .3f8b6cO
+Fast-forward
+TODO/beta-version-karten/chem01.svg | 1133 +++++++++444++t+ttttttttttt tt ttt
+- photo_2023-09-10_23-56-28. jpg | Bin @ -> 214359 bytes
+png/DE/part2/chem@1.png | Bin @ -> 1328466 bytes
+3 files changed, 1133 insertions(+)
+create mode 100644 TODO/beta-version-karten/chem01.svg
+create mode 100644 photo_2023-09-10_23-56-28.jpg
+create mode 100644 png/DE/part2/chem@1.png
+MB (marcland@s92 :~/www HackersCardgame_2.0] master(+1/-1) + cd
+7, [marcland@s92:~/www/®x8.ch] $ cd
+
+|-522m08 public_html
+schizophrenie-forum.ch
+

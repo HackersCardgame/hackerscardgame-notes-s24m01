@@ -1,0 +1,40 @@
+marc@debian:~/Daten.2019/musik/ableton/tracks$ tree -L 2
+
+[— 2017
+[— 20170712
+[— 20171128
+[— 20171129
+'— 75 Project
+[— 2018
+[— 20180207
+[— 20180403
+[— 20180619
+[— 20181010
+[— 20181016
+[— 20181026
+[— 20181120
+[— 20181126
+[— 20181126. bak
+[— 20181126. bak2
+'— Unbenannt Project
+[— 2019
+[— 20190327
+[— 20190328
+[— 20190407
+[— 20190407 Project
+[— 20190414
+[— 20190425
+[— 20190502
+[— 20190507
+[— 20190508
+'— 20190509
+t— README .md
+[— Template
+L— 20190508 Project
+— test Project
+[— Ableton Project Info
+[— Desktop. ini
+L_ test.als
+
+32 directories, 3 files
+marc@debian:~/Daten.2019/musik/ableton/tracks$ fj

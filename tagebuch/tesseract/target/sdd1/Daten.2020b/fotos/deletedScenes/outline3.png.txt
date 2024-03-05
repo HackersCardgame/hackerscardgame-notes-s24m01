@@ -1,0 +1,50 @@
+Q #6 eGwX
+
+"29 BHA ry -
+
+© Layout A
+
+‘&Y LINE_SEP: String
+‘8 LINE_SEP_LENE int
+
+@ formate)
+
+© getCorienttype9
+© getFocterd
+
+© getHeader()
+
+@ ignoresThrowable()
+
+A
+
+2 HTMLLayout
+
+YF LOCATION_INFO_OPTION: String, D PatternLayout
+2, leationinto: boolean
+$F TTLE_OPTION: sting
+
+© SimpleLayout
+
+shut StingButter
+‘DEFAULT _CONVERSION PATTERN: String a2
+
+[TRACE PRET Sng 8 TTCC_CONVERSION PATTERN String & Sinpetayouto
+
+2 tile String Gene) © ctiveteoptions()
+& Patter avout) © format)
+
+© activateoptions() © ignoresthrowrebieg
+
+& appendThrowableAsHTML() © activeteOptions()
+
+Aes © fonet()
+
+B oeteanertType0 © getConversionPatter()
+
+Oars @ tetrntiod
+
+O cetensero © setConversionPatter()
+
+© ignoresThrowrebieg
+

@@ -1,0 +1,19 @@
+> new rls Mommy .Needs . Cock. 15.XXX.DVDRip .x264-WOP
+
+>> time 10.03.2018 06:03:11
+
+>> section : DIVX
+
+>> rule DIVX.RET
+
+>> sites SF,SH,SF,SH,SF,SH,SF,SH,SF,SH,GP,DZN,GP,NJ,GP,DZN,GP,DZN,DZN,SH,
+TG,DZN,TG,EXN,M,1TG,M,TG,TL,M,TL,M,NJ,AU,AU,LR,LR, TL
+
+>> sites 1:SF=>SH 2:SF=>SH 3:SF=>SH 4:SF=>SH 5:SF=>SH 6:GP=>DZN 7:GP=>NJ
+
+EXN=>GP 13:EXN=>GP 14:EXN=>GP 15:GOT=>EXN 16:GOT=>EXN 17:TG==DZN 18:TG=>EXN 19:M
+AU==LR 25:LR=>TL
+
+>> pre SF
+
+>> spare GOT(1:1 u:3 d:0) TL(1l:1 u:3 d:0)

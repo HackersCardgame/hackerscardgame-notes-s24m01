@@ -1,0 +1,26 @@
+New attribute
+
+Create a new class attribute
+
+Properties |Z. Tagged Vas | savedoc |
+
+stereotpe |
+
+ane [rane
+
+twe [Stee SSS
+Dimensien [6 El
+
+Attribute
+Vistiity «public protected ( package @ private
+
+Deut vabe |
+
+Medifiers [static [7 final J transient I~ volatile
+
+~Aecessors
+
+M Use accessors
+
+Vistbiity pubic protected package private
+

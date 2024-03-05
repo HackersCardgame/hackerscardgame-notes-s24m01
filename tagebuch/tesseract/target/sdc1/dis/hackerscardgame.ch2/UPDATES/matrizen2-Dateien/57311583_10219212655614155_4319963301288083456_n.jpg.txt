@@ -1,0 +1,17 @@
+ges & versions
+
+Buster Life cycle
+the release
+
+1-09: Distribution codename @ announced
+
+16-17: Stretch is released, and buster becomes testin«
+11-12: Transition freeze (@ announced)
+
+2-12: Soft freeze
+
+3-12: Full freeze
+
+> explanation of freeze types for details.
+
+and updates

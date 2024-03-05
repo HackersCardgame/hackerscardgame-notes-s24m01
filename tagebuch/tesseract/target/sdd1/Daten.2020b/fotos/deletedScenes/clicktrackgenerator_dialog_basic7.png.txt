@@ -1,0 +1,21 @@
+Click Track. (=<)
+
+by Dominic Mazzoni, modified by David R. Sky
+Released under terms of the GNU General Publi License version 2
+For help, select one of two help screens in ‘Action choice’ below.
+
+sawncoce
+
+Tempo [beats per minute]: 120 0) 30 - 300 beats/minute
+Beats per measure [bar]: 4 0) 1-20 beats/measure
+Number of measures [bars]: 16 0 1- 1000 bars
+Optional cick track duration [minutes seconds]: Whole numbers only
+Individual dick duration [miliseconds]: 10 0 1-100ms
+Start time offset [seconds]: 0.0 Qv 0-30 seconds
+nt
+Noise dick resonance - discernable pitch [a]: 1 QU 1-20
+MIDI pitch of strong cick: 92 Q— 1s-us
+DI pitch of week: 80 a) 18-116
+
+Coo) Cerra)
+

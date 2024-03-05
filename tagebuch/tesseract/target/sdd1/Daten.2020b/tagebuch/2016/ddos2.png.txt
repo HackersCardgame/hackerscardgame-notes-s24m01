@@ -1,0 +1,9 @@
+Laclede. 192 268:.40. Traffic en weerface Broadcom CompertonNelirk BCMS77ES Gigabit EthemetPCle(2h)
+100 Mbps
+
+sa Mbps
+obps
+
+1 Incoming traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCIe
+Outgoing trafic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+

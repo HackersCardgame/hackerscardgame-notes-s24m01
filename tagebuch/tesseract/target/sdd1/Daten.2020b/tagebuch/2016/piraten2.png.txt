@@ -1,0 +1,33 @@
+Domain name:
+piraten-aargau.ch
+
+Holder of domain name:
+Stefan ott
+
+Bernastrasse 46
+
+CH-3005 Bern
+
+Switzerland
+
+Contractual Language: French
+
+Technical contact:
+Stefan Ott
+Bernastrasse 46
+CH-3005 Bern
+Switzerland
+
+Registrar:
+Gandi SAS
+
+First registration date
+2010-12-27
+
+DNSSEC:N
+
+Name server:
+a.dns.gandi.net
+b.dns.gandi.net
+c.dns.gandi.net
+

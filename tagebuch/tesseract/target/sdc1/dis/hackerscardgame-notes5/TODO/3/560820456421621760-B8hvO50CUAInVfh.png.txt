@@ -1,0 +1,20 @@
+Quake on an oscilloscope
+
+KepuliGames
+
+ea 1.829.724
+
++ Hinzufigen = «@ Teilen  +** Mehr 1@ 11.409 Bl 97
+
+Ver6ffentlicht am 28.12.2014
+
+Playing E1M1 of Quake on a Hitachi V-422 oscilloscope.
+
+The rendering is done a laptop and the scope shows the generated audio signal as two dimensional
+vector graphics.
+
+MEHR ANZEIGEN
+
+Alle Kommentare
+
+(© Kommentare sind flr dieses Video deaktiviert.

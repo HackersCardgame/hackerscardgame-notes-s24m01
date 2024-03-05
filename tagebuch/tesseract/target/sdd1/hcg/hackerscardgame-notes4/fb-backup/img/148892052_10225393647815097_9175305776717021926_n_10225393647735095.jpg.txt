@@ -1,0 +1,42 @@
+-A129AN1: ~/armbian
+
+if £57b718e05b2376586094255091b0a3236542b3F31 ebSb89F71Fa57637 7d268e7b9489ab68dbd3b96caca@b834F3ceS8cbe4abbabSesad23c9e651¢
+i818cb407  Armbian_21.02.1_Orangepi4_focal_current_5.10.12_desktop.img.xz
+
+[1]+ Terminated gedit (wd: ~)
+(wd now: ~/armbian)
+
+2
+
+$ vim sums.txt
+$ my /mnt/c/Users/marc/Downloads/balenaEtcher-Setup-1.5.116.exe .
+$ shaS12sum *
+je10e7c59d915e0a68d45662F2707 abbOaat479dd7df6aSaaGe33dcdeS1ddbbd1bo3e6ad8cFc49eSclecc49beaa2694bb1a4Facbada9857F2720c8a04|
+90616972 Armbian_21.02.1 Orangepi4_bullseye_legacy_4.4.213.img.xz 985742720c8a0490611
+Jd733817623e53acb8cc4eed3a4dFdebsobbsbaesdeasf1c8e1ebaesadf14d2986F05c94Fb1075F625d893143Fc5S6@a5Sd549b291ddbdesedbae1 194 01190807e
+His0729947 Armbian_21.02.1_Orangepi4_buster_current_5.10.12.img.xz
+pple 4db1aea36b5feSb183dSd33edd786Sacdcfb2a80283b8dee6d1 2ce3e7¢830e041 3bae7c19579C3Fadb1d4929ebc257181e3bc@2c2c9625eFb1eSc6 14
+3b89aSd9_ Armbian_21.02.1_Orangepi4_focal_current_5.10.12.img.xz
+if £57b718e05b237658609425509Fb0a3236542b3F31ebSb89F71Fa576377d268e7b9489a68dbd3b96cacadb834F3ces8cb640bb4bSes9d23c9e651.
+818cb487 Armbian_21.02.1_Orangepi4_focal_current_5.10.12 desktop (1).img.xz
+IF F57b7@18e05b2376586094255091b0a3236542b3F31 ebSb89F71Fa57637 7d268e7b9489ab68dbd3b96cacadbS34F3ceS8cbe4obb4bSesad23c9e651¢
+Ig18cb4@7 _Armbian_21.02.1_Orangepi4_focal_current_5.10.12_desktop. img.xz
+fgqro70SdacO6fc64c753437686d488aadbf6a297153ca1601d5d51c4f6eb6284011F 067 ZedbabSc3eSS0c24aF4b837Gea5S8B6968d1 Fda8a5309057b2515}
+JacdiSe6c _balenaftcher-Setup-1.5.116.exe
+Fbb66eSdabde35233ad8b4eabd6e4c7d53ee17F72a4e921Sbbec31ced91a739Faec34df31cFc3512dSaa4d52e705044¢3a58b63318ed6d
+bS77e127sums.txt
+
+$ shaSi2sum **C
+$ vim sums
+$ cp sums.txt /mnt/c/Users/marc/Downloads/ 8cb407
+2 $ git add -A && git commit -m “hash” 5150cd15e6c
+[master 826fe51] hash 965776127
+
+2 files changed, 20 insertions(+
+mode 160755 balenaftcher-Setup-1.5.116.exe
+mode 160644 sums.txt
+
+: $
+
+sductPors| uNNNETEIGraRAS
+

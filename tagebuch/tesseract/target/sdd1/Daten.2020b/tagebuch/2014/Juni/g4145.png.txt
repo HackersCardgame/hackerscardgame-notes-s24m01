@@ -1,0 +1,77 @@
+‘marc(@kal:—(Daten.2014/myLife/Tagebuch/201A/evaluator$ /evaluateWordcount.sh
+94 psychiater
+02 mutmassung
+111 hypothese
+42 aarau
+112 psychiatrie
+126 p
+128 ot
+144 system
+270 nea
+
+‘marc@kali:—/Daten.2014/myLife/Tagebuch/2013/evaluators JevaluateWordcount.sh
+701 vater
+717 visual
+838 irgendwer
+911 blank
+913 system
+1025 stimme
+11468 alienfalls
+1791 pfisterer
+1978 elaudine
+
+‘marc@kal:~/Daten.2014/myLifeTagebuch/2012/evaluators JevaluateWordcount.sh
+239 mutter
+248 kind
+255 matia
+271 ektem
+5301 stimme
+303 vater
+368 primezettel zuber
+372 system
+453 clousine
+
+7b4n/sh
+
+Find .. -nane te ext? onyftles.txt
+Juhite read lines do cat "sline"; done < myfiles.txt | tr ‘\ou" | tr
+upper:]" *Estowers]* | te’ -d *[spunct:]" | tr -d'[o-9]" | sort | unt
+la -c | sort -n >tenp.txt
+
+Jssed = 's/[\d128-\d255}//" tenp. txt
+
+lspert -t.bak -pe ‘s/[*[zasctt:]]//a" tenp. txt
+
+lspert -A:bk -pe 's/[4[sasett:]]//93" tenp. txt
+
+lstconv -F utr-s -t ascit//transltt. tenp. txt
+
+ler“ *\0" < temp. txt > Wordcount. txt
+
+sed <1 *5/(*[sprtnt:)}//" Wordcount. txt
+
+Jecho arep -vit \"\C S(whtle read Line; do echo \
+
+txt Wordcount. txt >temp.sh
+
+Jsed -e '5/| 51)"/)"/o" tenp.sh oF tUter.sh
+
+lennod +x ftUter.sh
+|./ftlter.sh | tatl -ni00
+
+marc@kali:—(Daten.2014/myLife/Tagebuch/2011/evaluator$ JevaluateWordcount sh
+230 hypothese
+251 pc
+254 mani
+256 kind
+215 frau
+277 variante
+291 zettel
+4325 visual
+338 menschen
+351 leute
+438 nowzettel
+493 system
+688 claudine
+957 stimme
+

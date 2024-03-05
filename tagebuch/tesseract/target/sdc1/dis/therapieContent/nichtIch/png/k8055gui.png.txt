@@ -1,0 +1,20 @@
+Card Address, ,DA1_ DA2~ ,AD1-, AD2~ Inputs
+EISK5EISK6 yg a 0102030405
+Sanne Outputs
+Connected at
+address 0 Counter. Counter2
+pl TT
+Set All Digital Reset Reset
+
+Clear All Digit.
+
+——— Debounce Tim) |-Debounce Tin
+Set All Analog O Oms O Oms
+Clear All Anak © 2ms © 2ms
+
+fl fl 89 119
+
+© 10ms © 10ms
+© 1000ms © 1000ms
+
+Output Test

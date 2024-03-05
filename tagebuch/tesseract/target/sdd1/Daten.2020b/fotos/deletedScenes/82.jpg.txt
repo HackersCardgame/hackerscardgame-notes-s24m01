@@ -1,0 +1,110 @@
+Anwender
+
+82/5
+s Ob sein Programm funktioniert, klart jeder Entwickler durch Tests. Bei der Benutzbarkeit verzichten viele auf
+g diesen Schritt. Dabei sind Usability-Tests nicht schwer und bei Sicherheitssoftware besonders wichtig. peter cutmann
+
+rsuchen, wie gut be-
+nutzbar ein Programm in der Praxis ist.
+Das lauft in zwei Phasen ab: Nummer
+eins beginnt bereits vor der Implemen-
+tierung - die Tests klaren, wie die Soft-
+ware aussehen soll. Die Phase zwei folgt
+nach dem Programmieren: In ihr priift
+der Tester das Entwicklungsresultat, wel-
+ches nur zu oft betrachtlich von den ur-
+spriinglichen Planen abweicht.
+
+Erst testen
+
+Tests wahrend der Entwurfsphase stiit-
+zen sich meistens auf Papierskizzen [1]
+oder Prototypen, welche mit GUI-Buil-
+dern oder grafikféhigen Skriptsprachen
+recht schnell entstehen. Sie liefern eine
+gute Einschatzung, wie User auf das GUI
+reagieren, und treiben die weitere Ent-
+wicklung voran. Beim Paper Prototyping
+libernehmen Entwickler die Rolle des
+Computers. Sie interagieren mit dem An-
+wender und legen ihm jeweils die pas-
+sende Interface-Skizze vor. Ohne von
+GUL-Experten zu stammen, eignen sich
+die Reaktionen der Anwender bestens
+
+fiir Vorhersagen, welche GUI-Entwiirfe in
+der Praxis scheitern.
+
+Ebenfalls niitzlich ist es, sich einen oder
+mehrere typische Anwender vorzustellen
+und zu tiberlegen, wie diese vermutlich
+mit der Software umgehen. Dabei helfen
+einige Fragen: Was wollen die Anwender
+erledigen? Wie gut kommen sie mit den
+Sicherheitsmechanismen zurecht? Wie
+reagieren sie auf Sicherheitswarnungen?
+Die Idee dabei: Statt einfach viele ver-
+meintlich ntitzliche Features anzuhaufen
+und sich nachtraglich zu iiberlegen, wo-
+fiir sie gut sein kénnten, nimmt der Ent-
+wickler die Perspektive des Benutzers
+ein und konzentriert sich auf die Funkti-
+onen, welche sein Anwender tatsachlich
+braucht und die er auch versteht.
+
+Der imaginare Benutzer darf allerdings
+nicht als Ersatz und Ausrede dienen, um
+auf echte Anwendertests zu verzichten.
+Viele Projekte verschwenden erstaunlich
+viel Zeit auf hypothetische Diskussio-
+nen, was denn die Anwender theoretisch
+tun wiirden, wenn sie am System safen,
+statt einen von ihnen tatsdachlich bei der
+Arbeit zu beobachten.
+
+Nur zu oft widersprechen Interfaces den
+Erwartungen der Anwender, wie etwas
+funktionieren sollte. Eine Studie mit un-
+terschiedlich ausgebildeten Benutzern un-
+tersuchte deren Erwartungen an 6ffentli-
+che Schliissel und das Zertifikatmanage-
+ment [2]. Die Resultate weichen stark
+von der X.509-Modellvorstellung ab. Das
+ist wohl einer der Griinde sein, warum
+sich X.509-PKI (Public Key Infrastructure)
+nicht wirklich durchsetzt.
+
+Die Benutzer zu fragen, wie sie denken,
+dass etwas funktionieren sollte, ist eine
+liberragend hilfreiche Entwurfstechnik.
+Etwa wenn es ums Speichern der priva-
+ten Schliissel geht. Sollen sie in einem
+einzelnen grofen File auf der Festplatte
+landen? In mehrere Dateien verstreut? In
+der Registry (falls das Programm unter
+Windows lauft)? Auf einem USB-Token?
+Im Homeverzeichnis? In einem versteck-
+ten Unterverzeichnis unter Home?
+
+Offene Fragen
+
+Immer mehr Fragen drangen sich auf:
+Was passiert, wenn der User auf eines
+der Files klickt? Was, wenn er einen be-
+stimmten Schltissel auf eine andere Ma-
+schine verlagern will? Was, wenn er alle
+kopieren méchte? Was passiert mit den
+Schliisseln, wenn der Anwender diesen
+Rechner oder diesen Account nicht mehr
+verwendet? Wie sind die Schliissel ge-
+schiitzt? Wie kommen sie ins Backup?
+Sollen sie tiberhaupt dort landen?
+
+Uber jede dieser Fragen lasst sich treff-
+lich und endlos streiten. Viel einfacher
+und zielgerichteter ist es, den Usern
+selbst diese Fragen zu stellen. Viele wer-
+den sich nicht auskennen, oder es wird
+ihnen egal sein, aber im Laufe der Zeit
+ergibt sich ein klares Bild vom typischen
+Umgang mit Schltisseln. Dieses Modell

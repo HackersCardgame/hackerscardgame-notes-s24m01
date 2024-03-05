@@ -1,0 +1,25 @@
+[x[AudioTrac -v] 1.0
+Mono, 44100H2
+
+32-bit float
+
+| Mute [ Soi | 9-54
+acy
+
+L kr | 0.04
+9
+
+-0.54
+
+-1.0
+
+[eaudoTac ¥] LO
+Mono, 44100H2
+
+32-bit flat 0.5]
+| Mute | Solo |
++ | 0.04
+oO
+Logit fos]
+1.0
+

@@ -1,0 +1,10 @@
+GLOBAL
+
+— Cake class
+
+— Cake instance
+
+|taste —_LoxFunction
+
+PARENT nos ' closure
+

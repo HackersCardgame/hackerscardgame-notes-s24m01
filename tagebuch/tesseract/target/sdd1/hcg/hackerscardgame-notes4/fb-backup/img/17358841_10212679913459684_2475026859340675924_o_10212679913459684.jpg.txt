@@ -1,0 +1,26 @@
+@)  Hierarchie
+
+ZI\
+00
+J\Z\NIN
+
+4a ad
+
+Erfinder: 22? Jahr: ~?
+Die Aufbauorganisation bildet das —  meistens
+hierarchische — Geriist einer Organisation (z. B. einer
+Behodrde oder eines  Unternehmens). Wahrend die
+Aufbauorganisation die Rahmenbedingungen festlegt, d.
+h. welche Aufgaben von  welchen Menschen’ und
+Sachmitteln zu bewaltigen sind, regelt die
+Ablauforganisation die innerhalb dieses  Rahmens
+ablaufenden Arbeits- und Informationsprozesse. Von
+einigen wegen unserer Gene vom "Wolfsrudel" bevorzugte
+organisation, Problem:
+
+Use Cases
+
+Im Fall einer feindlichen Ubernahme oder Infiltration
+muss nur der oberste Knoten (Netzwerkgraphen :: Knoten
+und Kanten) in Besitz genommen werden...
+

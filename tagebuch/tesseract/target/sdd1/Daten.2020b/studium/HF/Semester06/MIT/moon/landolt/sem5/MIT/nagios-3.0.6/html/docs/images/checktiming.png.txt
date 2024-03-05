@@ -1,0 +1,14 @@
+Service Check Timing
+
+check interval
+
+Legend:
+
+Xn = Service reaper event
+‘chedluled time for service check
+‘Actual time for service check
+
+fervice check completion
+heck resuts processed
+lext scheduled service check
+

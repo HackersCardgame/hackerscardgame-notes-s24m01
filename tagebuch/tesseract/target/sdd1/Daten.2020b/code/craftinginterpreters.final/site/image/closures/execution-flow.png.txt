@@ -1,0 +1,13 @@
+st ART!
+
+r fun outer ()£
+var x= "value";
+c middle(){£
+fun inner()£<«———_,
+Ls print xj; ——G@Laccess x]
+
+3 DONE/*+——
+
+return inner;
+
+return middle; —,

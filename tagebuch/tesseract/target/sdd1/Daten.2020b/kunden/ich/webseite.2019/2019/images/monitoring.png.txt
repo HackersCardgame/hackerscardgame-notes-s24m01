@@ -1,0 +1,16 @@
+last min age
+Incoming traffic on interface wen-wanl avg] $00.77 Keps 69.07 Kbps 485.44 Kbps
+WOutgoingtratc on interface wan-wanl [avg}_-23.88KBps7.26Kbps 20.47 Kbps
+
+192,168.179.1: Traffic on interface lan-lan3 (15m)
+
+exbps
+4 Kbps
+2kbps
+obps
+g
+
+last min ag max
+Incoming traffic on interfacelar-lan3 avg] L35Kbps 920bps 238KbpsS.35Kbp |
+Outgoing tratc on interfacelarclans [avg] LOSKbps BSbps 175Kkbps 3S8Kbp |
+

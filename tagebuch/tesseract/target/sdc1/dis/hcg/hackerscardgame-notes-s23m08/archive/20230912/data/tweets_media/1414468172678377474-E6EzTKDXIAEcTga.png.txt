@@ -1,0 +1,4 @@
+Ir C@DESKTOP-B99KFG2 :~/hackerscardgane-notes-s21m67/tagebuch$ figlet -f banner * S(date) =—* -w 208 | sed -e “s/ /x/g" | sed -0 “s/#/x/g”
+
+\c@DESKTOP-B99KF62 : ~/hackerscardgame-notes-s21m07/tagebuchs I
+

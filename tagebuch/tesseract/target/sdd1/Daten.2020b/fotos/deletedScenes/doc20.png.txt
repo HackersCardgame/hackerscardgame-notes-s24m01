@@ -1,0 +1,10 @@
+\labeliA Labels
+\section{Other section}
+\begin{myenvironment}
+Some stuff
+\end{myenvirronment}
+
+\end{document}
+
+dy Normal Mos
+

@@ -1,0 +1,23 @@
+PERSON1 HOLD PERSON DRAG
+
+AGENT AGENT AGENT
+MANIPULATION CHANGE POSTURE 5 MANIPULATION
+PATIENT ATIENT
+
+start-frame, end-frame, agent, object, verb, probability, importance, observed
+
+756, 791, PE TOP, ii
+2, 1133, PERSONI, BAG2, “HAUL”, 0.966, 4,0
+
+Inventor: xxxxx
+
+Today there is software that recognizes what one
+currently is doing. Input data does not need to be
+video, it could also be audio, postitional data (maybe
+one could do this even with a c64) or DBS, Neuralink,
+Stimoceiver Data.
+
+If they have things like m98 / m99 Cards they put
+anoying eventtriggers on everything. | really hate
+that since it wastes my time
+

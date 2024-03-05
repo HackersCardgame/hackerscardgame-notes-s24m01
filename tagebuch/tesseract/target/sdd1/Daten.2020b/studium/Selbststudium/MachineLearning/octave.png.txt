@@ -1,0 +1,77 @@
+10
+
+BEORE
+
+16
+7
+18
+19
+20
+2a
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+BSos
+
+36
+37
+38
+
+plot(t,t)
+
+xlabel( 'Time')
+ylabel('value')
+
+Vegend( ‘sin’, ‘Cosine’, 'asdf")
+title('my plot’);
+
+print -dpng 'myPlot.png'
+
+figure(1); plot(t,yl)
+
+figure(2); plot(t,y2)
+
+subplot(1,2,1)  %devides grid in a 1x2 grid, access first element
+plot(t,y1)
+
+subplot (1,2,2)
+
+plot(t,y2)
+
+axis([0.5 -0.5 -2 21)
+
+clt;
+clear
+#}
+
+‘A = magic(25)
+imagesc(inv(A))
+imagesc(inv(A)), colorbar, colormap gray;
+
+Figure 1
+
+File Edit Help
+Owns ly Axes Grid Autoscale
+
+(4.0426, 0.53652)
+
+0.0015
+
+0.001
+
+0.0005
+
+0.0005
+
+-0.001
+
+-0.0015
+

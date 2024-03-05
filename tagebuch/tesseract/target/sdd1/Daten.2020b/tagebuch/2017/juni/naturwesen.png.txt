@@ -1,0 +1,27 @@
+ret
+no 1 naturwesenbegleiters
+10 1 nicht
+10 1 nur
+pay 1 oft
+om 1 rekonstruktion
+1 1 sehr
+fa 1 sein
+t 1 seines
+an 1 stattfand
+on 1 unbemerkt
+t 1 viele
+rey 1 weste
+Dm 1 wichtigstes
+8 1 zeichnen
+t 1 zu
+ary 2er
+a 2 hier
+2 junge
+Lt 2 mann
+p 3 der
+it 3 die
+ta 3 und
+10 3 war
+p ‘marc@debian:~/Daten.2017/code/evaluators lj
+
+rc@debian /Daten 2017/code/installation- -scripts/monitoring/debian$ cd

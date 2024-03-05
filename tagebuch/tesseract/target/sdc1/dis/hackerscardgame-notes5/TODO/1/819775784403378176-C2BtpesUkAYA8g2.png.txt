@@ -1,0 +1,45 @@
+express.de
+ns.udag. de
+ns.udag.net
+ns.udag.org
+
+connect
+
+Hostmaster united-domains AG
+Organisation: united-domains AG
+Address: Gautinger Str. 10
+PostalCode: 82319
+
+City: Starnberg
+
+CountryCode: DE
+
+Phone: +49.8151368670
+
+Fax: +49,81513686777
+
+Email: hostmaster@united-domains.de
+Changed: 2016-01-19715:01:56+01:00
+
+{(Zone-C]
+
+Type: PERSON
+
+Hostmaster united-domains AG
+Organisation: united-domains AG
+Address: Gautinger Str. 10
+PostalCode: 82319
+
+City: Starnberg
+
+CountryCode: DE
+
+Phone: +49.8151368670
+
+Fax: +49,81513686777
+
+Email: hostmaster@united-domains. de
+Changed: 2016-01-19T15: 19: 40+01: 00
+
+c laude@deb ian:~/Daten. 2017/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/scripts$ ff
+

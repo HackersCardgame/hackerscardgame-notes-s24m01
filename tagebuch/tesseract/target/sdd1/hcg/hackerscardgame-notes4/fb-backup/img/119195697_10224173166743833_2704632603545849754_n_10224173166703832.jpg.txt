@@ -1,0 +1,17 @@
+Harrie Mm Ret ie | een Et
+
+In der klassischen Logik (und allgemein in Systemen, in denen aus zwei Aussagen deren Konjunktion hergeleitet werden kann und
+umgekehrt), fallt der jeweils durch die Formulierung (1) ausgedriickte Sachverhalt mit dem durch die Formulierung (2)
+
+ausgedriickten Sachverhalt zusammen.
+
+Ebenso fallen obige Sachverhalte in der klassischen Logik (und allgemein in Systemen, in denen es eine Abtrennungsregel gibt und
+in denen das Deduktionstheorem gilt) mit der Giltigkeit bzw. Herleitbarkeit des folgenden Satzes zusammen:
+
+(AA 7A) > B
+Also:
+: (A \ +A) — B beziehungsweise + (A \ =A) > B
+
+Man bezeichnet daher auch oft den Satz selbst, also (A NA A) — B, als ,ex contradictione sequitur quodlibet*.
+
+Dieser Satz lasst sich innerhalb vieler logischer Systeme (vgl. Kalkiil) herleiten, sogar in der intuitionistischen Logik. Logiken, in

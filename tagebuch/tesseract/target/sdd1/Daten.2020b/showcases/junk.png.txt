@@ -1,0 +1,44 @@
+marc@debian: ~/Daten.2019/code/pri35/pci
+
+File Edit View Search Terminal Help
+
+MariaDB [pci]> select count(*) from basics where primaryTitle like "__";
+
+$---------- +
+count(*) |
+$---------- +
+410 |
+$---------- +
+1 row in set (0.128 sec)
+MariaDB [pci]> select * from basics where primaryTitle like
+tt0008810 | movie 99 99 ic) 1918 Crime
+tt0018033 | movie It It 0 1927 72 Comedy , Romance
+tt0023412 | movie He Le rosier de Madame Husson (0) 1932 80 Comedy
+tt0045361 | movie EL EL 0 1953 92 Drama, Romance
+tt0055159 | movie Me Me ic) 1961 97 Drama
+tt0056801 | movie 8s 8s i) 1963 138 Drama
+tt0057011 | movie Dr Dr (0) 1962 87 Comedy
+tt0059153 | movie It Es ic) 1966 86 Drama
+tt0067274 | movie Jo Jo (0) 1971 85 Comedy
+tt0069450 | movie VD VD ic) 1972 107 Drama
+tt0071898 | movie Ne Ne ic) 1975 82 Drama
+tt0077532 | movie FM FM 0 1978 104 Comedy ,Drama,Music
+tt0078721 | movie 10 10 0 1979 122 Comedy , Romance
+tt0082481 | movie Gu Gu ic) 1981 101 Horror
+tt0084091 | movie At At ic) 1982 116 Drama
+tt0085951 | movie Mo Mo ic) 1983 105 Horror
+tt0087867 | movie PX PX ic) 1982 90 Drama
+tt0092811 | video Cv Cv 0 1987 40 Music, Short
+tt0092932 | movie Du Du ic) 1987
+tt0092950 | movie Ei Ei 0 1988 58 Drama
+tt0094934 movie Da Da 0 1988 102 Drama, Fantasy
+tt0095109 | movie Es Es ic) 1988
+tt0102178 | movie K2 K2 0 1991 102 Action, Adventure,Drama
+tt0103604 | movie A3 A3 ic) 1992
+tt0110757 | video 0z 0z ic) 1994
+tt0111582 | movie UV UV ic) 1994 73
+tt0116165 | movie Ed Ed (0) 1996 94 Comedy, Family, Sport
+tt0118530 | movie 18 18 ic) Romance
+tt0120577 | movie 54 54 0 1998 93 Drama,Music
+tt0122040 | movie Mo Mo 0 1993
+

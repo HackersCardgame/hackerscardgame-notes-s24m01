@@ -1,0 +1,80 @@
+a
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./DUNE 2
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+./Krezie
+
+marc@debian:~/Daten.2019/musik/vst/dune3/_userconfig/Synapse Audio/DUNE 3/Soundbanks$ find .
+
+3531
+
+marc@debian:~/Daten.2019/musik/vst/dune3/_userconfig/Synapse Audio/DUNE 3/Soundbanks$ ff
+
+Factory/Arp/Ariette the Mermaid K5.TxXp
+Factory/Arp/Little TB II MK. fxp
+Factory/Arp/Share of Energy KS.fxp
+Factory/Arp/Avalon Light RH. fxp
+Factory/Arp/Arpwner RH. fxp
+Factory/Arp/Stormer KS. fxp
+Factory/Arp/The Aggressor EDT. fxp
+Factory/Arp/FM 303 ST.fxp
+Factory/Arp/Mixed Feelings ST.fxp
+Factory/Arp/The Vault JB. fxp
+Journeys/SY Revelations. fxp
+Journeys/SY Into the Unknown. fxp
+Journeys/ATM Detecting Life. fxp
+Journeys/BR Armies Arriving. fxp
+Journeys/BE_Spellbound. fxp
+Journeys/SY Ice Cave. fxp
+Journeys/PD_The Scorching Sun. fxp
+Journeys/PD_ Adrift. fxp
+Journeys/ARP_The Reef. fxp
+Journeys/SY_ Intoxication. fxp
+Journeys/LD Sky Castle. fxp
+Journeys/PL_Cave Expedition. fxp
+Journeys/BA Imperial. fxp
+Journeys/WND_ Sax! .fxp
+
+Journeys/PL_ Fragments of the Orient. fxp
+Journeys/STR Mountainpeak. fxp
+Journeys/STR Keys for the King. fxp
+Journeys/SY Trip through the Fields. fxp
+Journeys/STR Violin. fxp
+Journeys/BA Ripper. fxp
+Journeys/LD Bird of Prey. fxp
+Journeys/PD_ The Big Nothing. fxp
+Journeys/SY Eden. fxp
+
+Journeys/SY Morning Breeze. fxp
+
+|grep -P fxp |we -l
+

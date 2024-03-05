@@ -1,0 +1,87 @@
+2
+1
+2
+4
+1
+
+1
+
+marcland
+marcland
+marcland
+marcland
+marcland
+marcland
+
+marcland
+marcland
+marcland
+marcland
+marcland
+marcland
+
+marc@debian: ~
+
+Aug
+Dec
+Aug
+Aug
+Jan
+495762505 Sep
+
+08:48 temp
+
+2019 test.c
+
+05:08 Tod
+
+04:25 trans
+
+2022 tuvok.jpg
+
+03:00 twitter-2022-09-23-d
+
+1392464e060b58d59f5bb020419245b0f19f9acf6c8551a7a41db8ebab5ee51. zip
+
+18707111 Mar 17 2020 vanilla-core-3-3.zip
+4096 Aug 18 09:04 www
+
+5077423 Mar 21 2019 ww.marclandolt.ch.1
+
+-TW-r--P-- 1
+drwxr-xr-x 13
+-PW-r--P-- 1
+
+marcland
+marcland
+marcland
+
+marcland
+marcland
+
+marcland
+marcland
+marcland
+
+marcland
+marcland
+
+[marcland@s92:~] $ chmod a+x .
+[marcland@s92:~] $ Connection to ftp.marclandolt.ch closed.
+marc@debian:~$ xdotool key KP_del*C
+Imarc@debian:~$ ssh marcland@ftp.marclandolt.ch
+
+1
+
+61865984 Aug 1 00:14 xaa
+49327971 Aug 1 00:14 xab
+
+(marcland@ftp.marclandolt.ch) Password for marcland@s92.server.hostpoint. interna
+
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failure
+
+s
+Disconnected from 217.26.52.40 port 22
+
+marc@debian:~$ fj
+

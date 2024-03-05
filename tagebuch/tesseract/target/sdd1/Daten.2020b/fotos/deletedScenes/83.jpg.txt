@@ -1,0 +1,175 @@
+passt auf die Erwartungen der Anwender
+und ist fiir sie deshalb verstandlich und
+einfach zu benutzen.
+
+Usability-Tests sind seit vielen Jahren er-
+folgreich im Einsatz. Beispielsweise in
+den friihen 80ern bei Apple: Wann im-
+mer ein neues Interface-Feature fiir Ap-
+ple Lisa (Abbildung 1) zu implementie-
+ren war, hat Larry Tesler einen Apple-
+Angestellten dazu verdonnert, das Fea-
+ture auszuprobieren. Wenn es der Ange-
+stellte nicht verstand, haben es die Ent-
+wickler verdndert oder verworfen.
+
+Mit dem Anwender reden
+
+Im Gesprach mit den Anwendern zeigen
+diese haufig Probleme auf, an die kein
+Entwickler im Traum gedacht hatte. Al-
+lerdings funktioniert das nur, wenn die
+User unvorbelastet an die Sache heran-
+gehen - sie diirfen das Interface noch
+nicht gut kennen, sonst fallen ihnen die
+Probleme nicht mehr auf. Es gilt also, die
+Probanden gelegentlich zu wechseln.
+Wer die Sicherheits-Usability seiner Soft-
+ware serids evaluieren will, kommt um
+echte Tests vor dem Ausliefern der Ap-
+plikation nicht herum. Programme dage-
+gen vorsichtshalber als Beta-Release zu
+kennzeichnen, diese auf die Anwender
+loszulassen und dann auf Beschwerden
+zu warten, ist kein Ersatz.
+
+Sobald die Applikation fertig ist, emp-
+fiehlt es sich, ein paar Nicht-Techniker
+an den Rechner zu setzen und zu beob-
+achten. Sinnvollerweise protokolliert der
+Tester alle Aktionen der Anwender, ohne
+sie bei der Arbeit zu stéren. Es geniigt,
+die Klicks und Eingaben zu notieren.
+
+Die Auswertung folgt spater. Fiir welchen
+Teil der Aufgabe brauchen die Anwender
+
+am ldngsten? Wann gucken sie in das
+Handbuch oder fragen gar nach Hilfe?
+Haben sie die Aufgabe auf sichere Weise
+geschafft? Haben sie dabei ihre eigenen
+Erwartungen an Sicherheit erfiillt oder
+nur die des Entwicklers? Ist es méglich,
+problematische Stellen mit Hilfe sicherer
+Defaults zu beheben? Auf wie viele Feh-
+lermeldungen stoSen die Anwender?
+Tests mit der fertigen Implementierung
+fiihren oft zu héchst tiberraschenden Re-
+sultaten, die keiner der Entwickler je er-
+wartet hatte (siehe Kasten ,,Beispiel E-
+Mail”). So waren die Entwickler des Ano-
+nymisierers Tor [3] verbliifft, als User
+ihre privaten Schliissel an andere Tor-Be-
+nutzer sendeten, obwohl sie es hatten
+besser wissen sollen. Die Lésung war
+ganz einfach: Seit der Dateiname mit
+»secret_« beginnt, ist simtlichen Anwen-
+dern klar, dass sie dieses File besser
+nicht herumschicken.
+
+PGP lést das Problem dhnlich; es erlaubt
+dem User nur, 6ffentliche Schliissel aus
+einem Keyring zu exportieren. Das gilt
+auch, wenn der Anwender ausdriicklich
+den privaten Ring als Quelle angibt. Win-
+dows geht bei seinem Schliisselhandling
+nach PKCS#12 genau umgekehrt vor und
+verschleiert jeden Unterschied zwischen
+privatem und 6ffentlichem Teil. Es legt
+beide Schliissel in eine gemeinsame di-
+gitale Identitat, also ein PKCS#12/PFX-
+File. Kein User ahnt, dass die Datei sei-
+nen geheimen Key enthalt. Ein Paper [4]
+vergleicht die Situation mit Rattengift in
+einer Fruchtsaftflasche, die gut zugang-
+lich im Ktichenschrank steht.
+
+Auch bei Hardware tiberrascht die Erwar-
+tung der testenden User oft die Entwick-
+ler. Zum Beispiel bei privaten Keys auf
+einer Smartcard oder einem USB-Cryp-
+to-Token. Theore-
+tisch sind USB-To-
+ken in fast jeder
+
+Abbildung 1: Apples Li-
+sa gilt als Meilenstein
+in der Entwicklung gut
+benutzbarer GUIs. Die
+Entwickler haben jedes
+neue Feature zunachst
+mit Normalanwendern
+getestet und es nur im-
+plementiert, wenn es
+diesen Test auch be-
+standen hatte.
+
+Hinsicht den Smartcards tiberlegen: Sie
+sind kompakter, unempfindlicher, einfa-
+cher zu schiitzen (weil kein Standard die
+Gréf&e vorschreibt), flexibler (weil sie zu-
+satzliche Schaltungen enthalten kénnen),
+sie brauchen kein spezielles Lesegerat,
+und so fort. Smartcards haben einen ein-
+zigen Vorteil: Sie erinnern die Anwender
+nicht wie USB-Tokens eher an herk6mm-
+liche Metallschliissel, welche sie an Ver-
+wandte und Freunde verleihen und beim
+Nachbarn hinterlegen.
+
+Fur Smartcards gilt dieser lockere Um-
+gang nicht. Niemand gibt sie aus der
+Hand, wenn sie mit einem grof&en Foto-
+Aufdruck des Eigentiimers personalisiert
+sind, dazu noch dessen Namen und Ge-
+burtstag nennen, eine eingescannte Un-
+terschriftenprobe und Hologramme oder
+andere auffallige Merkmale. Manchmal
+gentigt eben ein Stiick angewandter Psy-
+chologie, um Sicherheit zu erhéhen.
+
+Mehrere Iterationen
+
+User-Interface-Design ist tiblicherweise
+ein interaktiver Vorgang. Die drei Schritte
+Design, Implementierung und Test genii-
+gen deshalb in der Praxis kaum, um al-
+le potenziellen Probleme abzuschiitteln.
+Das gilt besonders fiir den komplexen
+und schwer vorhersehbaren Bereich der
+Sicherheits-GUIs. Anstatt eines einfachen
+Testdurchlaufs empfehlen sich mehrere
+Runden mit Usertests, welche mit einem
+recht generischen Design beginnen und
+diesen auch als Low-Fi bekannten Proto-
+typ anhand der Erfahrungen und der Be-
+nutzerkommentare verfeinern.
+
+Tests mtissen weder komplex noch teuer
+sein. Der Usability-Experte Jakob Nielsen
+zeigt, dass bereits eine Gruppe von fiinf
+Anwendern verlassliche Usability-Ergeb-
+nisse liefert [5]. Je mehr User teilneh-
+men, umso mehr tiberschneidet sich de-
+ren Herangehensweise, die Tester erfah-
+ren von jedem zusdtzlichen Anwender
+immer weniger Neues. Wer tiber 20 Kan-
+didaten verfiigt, sollte sie lieber in vier
+Gruppen einteilen, denen er unterschied-
+liche Entwicklungsstande vorlegt. Ahn-
+liches gilt fiir heterogen zusammenge-
+setzte Gruppen, die sowohl aus Laien als
+auch aus Experten bestehen. Hier ist es
+besser, sie in zwei homogene Einheiten
+aufzuspalten, da sie sonst widerspriich-
+liche Ergebnisse liefern. >
+
+Sec-Usability
+
+| Anwender
+
+Attacken abwehren
+
+a
+w
+

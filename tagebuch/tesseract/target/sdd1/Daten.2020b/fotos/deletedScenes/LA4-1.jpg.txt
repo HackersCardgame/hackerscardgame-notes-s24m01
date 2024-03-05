@@ -1,0 +1,51 @@
+cA ABB Technikerschule, Baden
+aX aeXe
+
+wes Yr «Eig. anerkannte hohere Fachschule fir Technik |
+
+SS 2008
+
+Software Engineering
+
+Freigabe-Visum: ew
+
+Zielsetzung:
+
+i Die Studenten haben ausreichende Kenntnisse Uber die Softwareentwicklungsgebiete:
+
+Objektorientierte Analyse
+
+Objektorientiertes Design
+
+3-Schicht Architektur einer Applikation
+
+Programmierung grafischer Benutzerschnittstellen (GUI)
+
+und sind in der Lage praktische Anwendungen der Leitenden Aufgabe "Disen-
+Passagierflugzeug" zu lésen.
+
+Ausgangslage:
+
+Das Dusen-Passagierflugzeug Bombardier Challenger 604 ist mit einem Flight
+Management System (FMS) ausgeristet. Dieser Bordcomputer Ubernimmt fir den
+
+= Pilot samtliche Berechnungen die im Zusammenhang mit der Navigation des
+Flugzeugs stehen. (Siehe Anhang und www.bombardier.com)
+
+Die Route eines Fluges wird bestimmt von Luftraumen, die aus politischen
+oder militarischen Griinden vorgegeben sind. Vor dem Start eines Fluges gibt
+der Pilot alle so genannten Waypoints (Wegpunkte) die sich auf seiner Route
+befinden in das FMS ein. Das FMS berechnet nun den Steuerkurs, die Distanz
+und die Zeit (bei gegebener Geschwindigkeit) zwischen den einzelnen
+Waypoints. Zusdatzlich wird die Reisedistanz und die Reisezeit der Route
+zwischen Origin (Startpunkt) und Destination (Endpunkt) ermittelt.
+
+Nach dem Start wird der erste Waypoint angeflogen. Ist dieser erreicht, so
+libergibt nun das FMS seine neuen Daten dem Autopilot und dieser fuhrt eine
+Kurskorrektur aus die den neuen Waypoint anvisiert. Dieser Vorgang wird
+solange wiederholt, bis die Destination angeflogen werden kann.
+
+Ein Waypoint ist meistens eine Funkstation, es werden aber heute vermehrt
+auch virtuelle Waypoints definiert. Sie bestehen aus einer Koordinate (Z.B.:
+
+M. Bontognali

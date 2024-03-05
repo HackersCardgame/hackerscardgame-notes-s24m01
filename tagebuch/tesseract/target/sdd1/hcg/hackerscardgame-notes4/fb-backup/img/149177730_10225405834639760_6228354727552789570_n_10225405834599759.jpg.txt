@@ -1,0 +1,38 @@
+EZ Neuenburgerstrasse6-10: Cust: X fim = x
+
+< eo ©  G Git.0x8.ch/zabbix/screens.php2ddreset=1 ~OW NOSwe =
+V4 Ns151),@ Monitoring inventory Reports Configuration Administration Q share 2? 2
+
+Screens Screens
+
+All screens | UPC-Monitoring
+
+Filler a
+Zoom: m 15m 30m th 2h 3h 6h 12h 4d 3d 7d 14d 1m 3m 6m ty Al 2021-02-10 22:43 - 2021-02-11 22:43 (now!)
+< <ol>
+«« ty 6m 1m 7d 1d 12h th 5m | 5m 1h 12h 1d 7d 1m 6m 4y a» 1d fixed
+192;168, 192.234: DNS=Times (1d)
+moms 192.168,192.1: Traffic on interface wan-wan2 (1d) 192.168.192.234: Traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet (1d)
+ne | 800 Kbps 150 Mbps
+
+600 Kors
+soms : Vol ee
+ome Didi sill dia, hu w sii'iage
+(gebeded BSREES obes aeeee rr  —————————————
+feet min nox g : g
+Sms 3ms ms _6oms
+i cablecom2 6ms ns 11.26ms 117ms min
+i cablecom3 5ms ns 8&76ms 74ms Bi Incoming traffic on interface wan-wan2 [avg] 456 bps 1, Hl incoming traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg]
+BH cablecom4 gms 2ms 884ms  75ms Bi Outgoing traffic on interface wan-wan2 [avg] 182, \utgoing traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg]
+i Google DI 13ms 3ms  933ms 86 ms
+i Homerouter sms 3ms 845ms 90 ms
+google.com: Ping (1d) www.hostpoint.ch: Ping (1d)
+a 6
+«0 0
+last. min ag max last min avg
+100% 100% 100% 100% ICMP loss lava] ICMP loss [aval 0% == 0% = 0.04%
+0 0 0 0 MP ping [aval BE ICMP ping [aval 1 1 1
+0 0 0 ° TDICMP responsetime {avg} 16.75ms 0 TD ICMP responsetime [avg] 20.85ms  9.1ms 20.8ms__175.9ms
+w.twitter.com: Ping (1d) marclandolt.ch: Ping (1d) facebook.com: Ping (1d)
+
+11.02.2021

@@ -1,0 +1,51 @@
+Halli HaLle
+
+ich habe Ofters Pech bei Ihnen wenn ich Hardsare kaufe, die dann nicht
+fit Linux Lauft, es scheint dass da immer Murphies Gesetzt (oder der
+NSA/CIA) zuschlagt
+
+Ich brauchte folgendes (gunstige Produkte)
+
+1x PCL 1GB Netzwerkkarte
+
+1x USB 16B Netzwerkkarte
+(am besten USB263,geht auch eins dass nur USB2 unterstutzt)
+
+1x USB WLAN Netaverkkarte mit 801.11bgn
+
+bas wirde ich auch selber finden im Shop, ich suche aber Produkte
+Welche out of the Box mit Linux Kernel 3.16+ funktionieren (Debian
+Jessie) also wo man nicht noch irgend einen Treiber instalLieren, der
+Jann im worst case noch irgend eine NSA/CIA infizierte Firmare ins
+ROM der Netzverkkarte Ladt, die meisten NIC’s haben ja heute ein ROM,
+vorallen WLAN NIC"s
+
+Mit freundlichen Grussen
+Mare Landolt
+
+dipl Informatiker HF
+Rombachtali 13
+
+5022 Rombach
+
+079 201 07 87
+smail@narclandolt.ch
+
+PS: Danke fUr die Festplatte, sie ist gekommen, eingebaut und Lauft
+perfekt mit Linux @
+
+azu hatte ich auch noch eine Frage *Vermeidungsverhalten zu erwarten*
+{geass den neusten Infos kann ja auch auf die Firmware von Festplatten
+Malware geladen werden, Ja man kann sogar ein kLeines Linux drauf
+Laufen lassen, folglich Equation Group Hack [1], komen wir in Thren
+Shop irgendwie herausfinden welche Festplatten grundsatztich
+Anfizierbar waren und welche nicht? Wir gehen davon aus, dass die
+Equation Group Malware weiter von NSA / CIA betrieben wird, also
+sollte man betroffene Hardware seiden! Weil die Einstellung, USA wird
+das dann schon wieder selber runter Loschen und es nicht missbrauchen,
+Wissen wir ja seit Snowden dass das nie passieren wird :/
+
+a
+http://w. spiegel .de/netzwelt/web/equation-aroup-kaspersky-veroet fentli
+eht-bericht-a-1022960.htal
+

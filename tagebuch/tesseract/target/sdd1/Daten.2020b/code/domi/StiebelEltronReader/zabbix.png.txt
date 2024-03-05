@@ -1,0 +1,37 @@
+i (2) x \ (1) x ( @ Dias x {401 x \ B Con x \ Ed tink x \ Neu x \ = STIE x ) BJ Neu x \ By) Con x \ @ Stie’ x
+€ > S O [© 192.168.0.11/zabbiv/items.php flter_set= 1&hostid= 10109 axle ®
+Apps © Debian.org @ LatestNews © Help
+AUSSENTEMPERATUR setshf=lve""AUSSENTEMPERATUR"] 15m 90d «305d_—_Entemal check Enabled
+BIVALENZTEMPERATUR HG etshf'lve""BIVALEN2TEMPERATUR H2G" 15m 90d -365d_—_Etemal check Enabled
+BIVALENZTEMPERATUR WW etshf'lve""B1VALENZTEMPERATUR WW 15m 90d -365d_—_Etemal check Enabled
+RUCK HEIZKREIS getsht-ve\/DRUCK HEIZKREIS) 15m 90d -365d_—_Etemal check Enabled
+FESTWERTSOLLTEMPERATUR etshflve""FESTWERTSOLLTEMPERATUR 15m 90d -365d_—_Etemal check Enabled
+ISTTEMPERATUR setsht-ve'yISTTEMPERATURY 15m 90d -365d_—_Etemal check Enabled
+ISTTEMPERATUR HKG etsht-tve"ISTTEMPERATUR HK} 15m 90d -365d_—_Etemal check Enabled
+ISTTEMPERATUR HK2 etsht-lve"ISTTEMPERATUR HKC2" 15m 904 «365d—_Estemal check Enabled
+LeistuNs we etsht-tve"/LEISTUNG WP] 15m 904-365 Enteral check Enabled
+ste PU PUMPE getsht-tve\/LST PU PUMPE 15m 904 -365d_—_Evtemal check Enabled
+wea getsht tive 2 2 15m 90d -365d_—_Etemal check Enabled
+wwe2 getsht ive H224 15m 90d -365d_—_Etemal check Enabled
+v2 Meizen sue etshf'lve""WM2 HEIZEN SUMIME”] 15m 90d -365d_—_Etemal check Enabled
+PUFFERISTTEMPERATUR sets lve"*PUFFERISTTEMPERATURY) 15m 90d -365d_—_Etemal check Enabled
+PUFFERSOLLTEMPERATUR etshf'lve""PUFFERSOLLTEMPERATUR"] 15m 90d -365d_—_Etemal check Enabled
+ReSTSTILLSTANOZEIT etshf'lve"*RESTSTILLSTANDZEITY 15m 90d -365d_—_Etemal check Enabled
+UCKLAUFISTTEMPERATUR ets lve""RUCKLAUFISTTEMPERATURY) 15m 90d -365d_—_Etemal check Enabled
+SOLLTEMPERATUR panicle“ SOCeTEPERATOr 15m 804 -365d—_Etemal cheek Enabled
+SOLLTEMPERATUR HK 2 setshf'lve""SOLLTEMPERATUR HK 2] 15m 90d -365d_—_Etemal check Enabled
+SOLLTEMPERATUR HK 2 setsf'lve""SOLLTEMPERATUR HK 2"] 15m 90d -365d_—_Etemal check Enabled
+vo weizen etsht-ve""VO HEIZEIT] 15m 90d -365d_—_Etemal check Enabled
+vo weizen UME etsht-tive,"VO HEIZEN SUMME) 15m 90d -365d_—_Etemal check Enabled
+vo weizen Tas etsht-ve"VO HEIZEN TAG’) 15m 90d -365d_—_Etemal check Enabled
+Vo WARMWASSER getsht ves’ V0 WARMWASSER"] 15m 90d -365d_—_Etemal check Enabled
+Vo WARMWASSER SUNIE etsht-ve" VO WARMWASSER SUMIME'] 15m 90d -365d_—_Etemal check Enabled
+Vo WARMWASSER TAG getsht-ve" V0 WARMWASSER TAG 15m 90d -365d_—_Etemal check Enabled
+VeRFLUSSIGERTEUE. etsht-ve","VERFLUSSIGERTEM") 15m 90d -365d_—_Etemal check Enabled
+votunensreot etsht-ve""VOLUMENSTROW'] 15m 90d -365d_—_Etemal check Enabled
+VORLAUFISTTEMPERATUR HZ setshf'lve""VORLAUFISTTEMPERATUR 1H2" 15m 90d -365d_—_Etemal check Enabled
+
+(©) zbxexport_te...xml *
+
+Enza «
+

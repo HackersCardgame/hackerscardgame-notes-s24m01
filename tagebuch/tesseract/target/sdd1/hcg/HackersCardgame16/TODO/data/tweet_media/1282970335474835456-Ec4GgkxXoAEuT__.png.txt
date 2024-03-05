@@ -1,0 +1,38 @@
+‘Activities | &) Firefox ESR ~ Juli4 11:27
+
+/ MBE: braucht viel ressourcen we) vonersonen austesen kann, insbesonder be shidattsnbiden’,solteasoiniedem | in der obersten instanz aufgerufen
+
+function isIncheck(player) { Bowser eine Funiton geben Mouse-Tackng au deaktverent
+moves = possibleMoves(-player) ; Tempest tacks
+for(var i=0; icmoves.length; i++
+if(board[moves [i] [1] [0] *8+move Horizontalenvertkalen Kreise Olagonalen nach linksirechts,
+return 3 rap
+
+return pa area
+}
+var instances=0;
+
+//minmax algorithm that does the g
+function minimax(depth, player, in
+
+{
+if(resetCounter) instances=
+else instances+=1;
+
+var bestMove = [[0,0],[0,0]];
+if(depth < 1) return evaluateBoa
+
+var moves = shuffle(possibleMove
+
+|
+var bestValue=-1000000*player;
+for(var i = 0; i < moves. length;
+return moves;
+
+}
+
+//M@@HH: braucht viel ressourcen wel
+function isInCheck(player) {
+moves = possibleMoves(-player) ;
+
+r in der obersten instanz aufgerufen

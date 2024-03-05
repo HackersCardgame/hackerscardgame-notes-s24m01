@@ -1,0 +1,9 @@
+MyScript Studio Forms Edition - Video Tutorial
+
+A short video tutoralis availabe to help you get started with MyScript Stuco Form Edition. Do
+you want to watch it now?
+
+1 Do net show this dialog at application startup any more.
+
+(Yes:tmant to watch te vdeo] No, X want to go steight to the appicaton |
+

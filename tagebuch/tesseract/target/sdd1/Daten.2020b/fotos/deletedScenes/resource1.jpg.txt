@@ -1,0 +1,41 @@
+[Lesson38.cpp] Woe
+
+‘Ga Lesson38 - Microsoft Visual C=
+
+[Bick thw reat Brot Bid Sok non Ep als)x/
+[2 oA Merce (Bie al Sl) #
+
+eS a EC
+
+Wakepace Ue Jett Nolctee's Lesson 38+
+= Ellesonse _ Seas nebo sgnadev net
+
+[= Ex Seutce 8h now at objet
+Sauce en a ob
+
+[lena Tienes enancnanenniminemntnte
+(Ga ester Fes
+If Ei Reso ies
+| Ei Eterna Dependencies
+
+Hinclude <windovs b>
+Hnclude <lsgl-h
+Hinclude <glsgla-hy
+Binclude <G1\glouz.h>
+Ginclude “HekeGh
+include “resource h*
+
+fprogna connent( Lib. “opengl32.1ib" ) ssi
+
+Se ey
+30a. gg Reva
+
+Sifliekina |
+
+Iresson38 axe - 0 ervar(s), 0 varning(s)
+
+(EID) sua (osbo-\ Pra nes T Frain Fes 2) Rote) SeL aaah
+aoa eae os Or int.cat
+
+Tea [ava Ea
+

@@ -1,0 +1,17 @@
+Monitoring Server
+
+Nagios
+
+‘check_snmp 1,
+¢ ‘check_mrtgtraf
+
+MRTG
+
+—_
+
+Router / Switch
+
+‘1D Value,
+Port Status,
+ate
+

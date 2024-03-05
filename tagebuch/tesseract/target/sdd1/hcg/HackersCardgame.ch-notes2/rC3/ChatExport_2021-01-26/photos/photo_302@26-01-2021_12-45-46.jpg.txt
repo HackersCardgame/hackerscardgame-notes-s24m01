@@ -1,0 +1,44 @@
+ik tant Te Constant) meger = Onstant RK. Meer
+Type bit. we Matix is array (i-1 downto 0, j-1 dow wnto 0) of (k-1 downto 0)
+En id Assem_Badr_Pkge:
+
+brary ALL; USE Work.Assem_Badr_Pkge.ALL
+eau De ce Module is
+Port ( Matrix, Matrix2, Matrix3: in bit_V_Matrix. Matrix_OUT: out bit_V_Matrix)
+End Entity
+= Architecture Behav of De_Morgan_Module is
+signal AND3_NOT, NOT_OR3: bit_V_Matrix: Begin
+Process (Matrix1, Matrix2, Matrix3) is
+Variable Var1, Var2, pret, pre2, n1, n2, n3 : bit_V_Matrix; Begin
+= Fori in i-1 downto 0 loop
+= Foi ole j-1 downto 0 loop
+M: ND M: ND M:
+
+= NOT pre1(i,j
+= NOT Matrix3(i,j)
+
+= AND3_NOT(i,j) X rs NOT. ORS)
+End loop; Eni ta op; End process:
+
+Inventor: Year:
+
+Like Pee Ken Thompson Hack one could _ infect
+
+directly the Hardware. For example implementet like
+hat went only after Siemens PLC's to brick
+
+nuclear centrifuges this sort of Stuxnet would go
+
+against VHDL / Verilog Software
+
+Worst case there are also a variants that go against
+
+. In 2019 there was the public case where
+tern media blames the Chinese for placing
+additional Chips on Supermicro Servers to obfuscate
+this sort of attack. They even protected the details
+about VHDL /Verilog. Some of them you can mitigate
+software, tin foil, by useing a jamming device to jam
+specific frequencies or with a soldering iron, some
+you can not, choose your hardware wisely
+

@@ -1,0 +1,63 @@
+thermal .powerc
+kl_ipc snd_soc_sst_ipc snd_soc_sst_dsp snd_soc_acpi_intel_match snd_soc_acpi regs ie pomress 9 bye pr ine Mere perros ae nm “ee
+vc 0 im. -vmalloc v videobuf2_memops ~seq_midi_event videobuf2_v412 vfio_iommu_tupe1 snd_raun
+usb snd_seq videodev kvm btrt1 aes_x86_64 btbcm crypto_simd btintel abypass wn,
+arse_keymap snd_timer dem rtsx_pci_ms snd yp cryptd gluehelper bluetooth intel_cstate ir Joydev input_leds media drm_kms_helper snd_seq_device intel_wmi_thur
+
+ecdh_generic serio_raw soundcore sysfilirect mei_me sysimgblt 62S0_dw cfg60211 mei idma64 intel_pch_thermal virt_dme i_pad
+1p parport ip_tables x_tables autofs4¢ rtsx_pci_sdmmc psmouse ahci 76169 intel_lpss.pci 12c_i601 rtsx.pci libahci realtek intel_ipss wmi video pinctri_cannonlake pinctri_intel ‘on
+[ 29.897982] CR2: ffffbee27?ce75100
+29.898791] ---[ end trace 5a39S52facd4169bS ]---
+29 9oee2i} Galle: 60 60 €5 eh ar os eee ea
+6 $ c3 4c e8 2 40 ce 69 da 44 01 £3 48 Gd 04 4 <c7> 04 90 00 00 5
+29.901281] RSP: 0018:ffffbeeic19239a68 EFLAGS: 00010216 Ore ORE GF 00 M0 a OE Re ae a0 Oe Ge ae 2 ee
+29.902192] RAX: ffffbeeic2175000 RBX: 000000002eb40042 RCX: 0000000080400030
+29.903058] RDX: 000000002eb40040 RST: 0000000000000002 RDI: ffffSe6Sdb02aedo
+29.903925] RBP: ffffbee1c1923a90 ROB: 0000000000000000 ROS: ffffffff8ec57200
+29.904793] R10: ffff9e65aa979e4d0 R11: 0000000000000001 R12: ffff9e6Sdb02a608
+29.905732] R13: ffff9e6Sdb5162fO R14: 0000000000000002 R1S: ffff9e6SdbO2asdo
+29.906588] FS: 00007f5475d7ff80(0000) GS: fff f9e6Sde240000 (0000) kn1GS:0000000000000000
+29.907446] CS: 0010 DS: 0000 ES: 0000 CRO: 0000000080050033
+29.908289] CR2: ffffbee27ce75100 CR3: 000000045a780003 CR: 00000000003606e0
+| Pun a command as administrator (user “root"), use “sudo <command>"’.
+See “man sudo_root" for details.
+
+marcédebian:~s
+marcédebian:”$ ip addr
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default glen 1000
+link/ loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+inet 127.0.0.1/8 scope host lo
+valid_lft forever preferred_lft forever
+inet6 ::1/128 scope host
+valid_lft forever preferred_lft forever
+2: enp6sOf1: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc fq_codel state DOWN group default glen 1000
+link/ether 98:28:a6:0c:b7:4c brd ff:ff:ff:ffiffiff
+3: wlp0s20f3: <NO-CARRIER, BROADCAST ,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default glen 1000
+link/ether 94:b8:6d:c4:d0:60 brd ff:ff:ff:ff:ff:ff
+marcédebian:~$ [ 475.207529] r8169 0000:06:00.1 enp6sOfi: Link is Up - 1Gbps/Full - flow control off
+
+en me ee
+=e
+
+{ 475.208867] IPv6: ADDRCONF(NETDEV_CHANGE): enp6sOfi: link becomes ready
+
+{ 475.232372] pcieport 0000:00:1d.0: AER: Corrected error received: 0000:00:1d.0
+
+{ 475.236271] pcieport 0000:00:1d.0: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+{ 475.238207] pcieport 0000:00:1d.0: device (8086:a995] error status/mask=00001000/00002000
+
+{ 475.239580] pcieport 0000:00:1d.0: (12] Timeout
+
+{ 485.296808) pcieport 0000:00:1d.0: AER: Corrected error received: 0000:00:1d.0
+
+{ 485.241316] pcieport 0000:00:1d.0: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+{ 485.243136] pcieport 0000:00:1d.0: device [6086:a935) error status/mask=00001000700002000
+
+{ 485.244081] pcieport 0000:00:1d.0: {12] Timeout
+
+{ $06.953617] pcieport 0000:00:1d.0: AER: Corrected error received: 0000:00:1d.0
+
+{ 506.958146] pcieport 0000:00:1d.0: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+{ 506.960072] pcieport 0000:00:1d.0: device [6086:8935) error status/mask=00001000/00002000
+
+{ S06.960969] peleport 0000:00:1d.0: (12) Timeout

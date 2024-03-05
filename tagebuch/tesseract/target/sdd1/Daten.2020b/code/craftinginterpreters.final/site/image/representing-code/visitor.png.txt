@@ -1,0 +1,6 @@
+Beignet [accept() | visitBeignet()
+Cruller — [accept() || visitCrullerO
+
+WW
+
+Pastry Visitor class

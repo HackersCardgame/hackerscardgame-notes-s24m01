@@ -1,0 +1,17 @@
+walk up to superclass...
+
+Doughnut class
+o-—\——— > | superclass
+
+Cruller class
+
+superclass
+
+METHODS
+@ finish()
+
+— METHODS
+
+° cook ()
+
+look in Cruller... nope found it!

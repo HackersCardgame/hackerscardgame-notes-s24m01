@@ -1,0 +1,54 @@
+Activities srminal
+
+dev FO Bw
+
+sent 9,249,747 bytes received 13,937 bytes 975,124.63 bytes/sec
+total size is 5,666,140,211 speedup is 611.65
+
+claude@deb ian:~$ whois psychiatrie-leaks.ch
+
+whois: This information is subject to an Acceptable Use Policy.
+See https: //mww.nic.ch/terms/aup/
+
+Domain name:
+psychiatrie-leaks.ch
+
+Holder of domain name:
+
+Narc Landolt
+
+Rombachtali 13
+
+CH-5022 Rombach
+
+Switzerland
+
+Contractual Language: German
+
+Technical contact:
+Hostpoint AG
+
+Dario Baumgartner
+
+St. Dionysstrasse 31
+CH-8645 Rapperswil-Jona
+Switzerland
+
+Registrar:
+Hostpoint AG
+
+First registration date:
+2014-09-03
+
+DNSSEC:N
+
+Name servers:
+ns.hostpoint.ch [217.26.51.254]
+
+ns.hostpoint.ch [2a00:d7 d]
+ns2.hostpoint.ch (217.26.53.254]
+ns2.hostpoint.ch [2a90:470:0:b:: 1d]
+
+ns2.ignored.ch [91,138.20.50]
+ns3.ignored.ch [91.250.98, 194]
+claude@deb ian: ~$

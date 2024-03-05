@@ -1,0 +1,3 @@
+[II Y@aA | iti iit)
+
+t-byte tag t-byte padding 8-byte union

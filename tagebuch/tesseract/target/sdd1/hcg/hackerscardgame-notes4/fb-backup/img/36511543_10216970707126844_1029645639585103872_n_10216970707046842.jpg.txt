@@ -1,0 +1,9 @@
+Mandelbrot
+
+Threshold: 20 | [RRearaw | [ Copy to URL |
+
+Selection X1: /-1.4079192286040088 |selection Y1: |0.1370627532768942 ]
+Selection x2: [1.407se26190678514 [Selection Y2: [0.13688205276430027
+
+To zoom into the Fractal image select a rectangle with the mouse.
+

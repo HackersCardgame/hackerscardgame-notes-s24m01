@@ -1,0 +1,41 @@
+eo¢e@ oe spoherpee,
+
+Informatikmaterialien
+
+von Tino Hempel
+
+Richard-Wossidlo-Gymnasium Ribnit-Damgarten
+Fachbereich Informatik
+
+Arithme'
+
+PROLOG
+
+PROLOG ist nicht die Programmiersprache, um umfangreiche wissenschaftiche Berechnungen zu programmieren. Dennoch sind die grundlegenden Berechnungen und Vergleiche méglich und fur die Lésung von logischen
+
+Problemen nutzbar.
+Grundrechenoperationen
+PROLOG kent ie Ganechenepuratonen und tte abe Set
+Seheibunize Operation
+xr ‘ston
+xe Manttaten
+
+Onision
+
+as Eigen sins Rechenoperaton muss tts sine Veabln began werden, ee ulgabe vont ris Operate
+
+Auswertungsoperator — is-Operator
+
+[Fatoge wor Jeenerteng ]
+p= ae ae ates a Lad agi nt ean See
+= it |
+
+Se) eal
+
+Ferny Vt nt bain oreninnanane a
+
+et er rettn Soe moss en
+rsmerasher Wen steer
+
+Feemeling bow 22
+

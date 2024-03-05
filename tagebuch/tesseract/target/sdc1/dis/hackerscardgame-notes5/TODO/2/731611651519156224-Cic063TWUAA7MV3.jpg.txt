@@ -1,0 +1,20 @@
+Cuerex > Blue Gur a
+>implying arm Chips aren't infected already
+
+foobario2 > Cue’
+
+3 years ago 6
+4. First of all, this whole article is stupid. If the NSA put in a "permanent" backdoor then they would
+be exposing the exact same backdoor to the Chinese, Russians, Iranians, North Koreans, Al
+Queda, etc. etc, Newsflash: The NSA uses all these chips too and they don’t want to give up a
+"secret" backdoor to their own enemies. There's no such thing as magic despite what the author
+of the article believes
+
+2, Second of al: As you said RMI chips could be compromised if we believe this magic fairy tale
+Considering that ll chins are heavily used in smartphones/routers/other communication
+devices, it would actually make *more* sense to put backdoors in those chips instead of x86 parts
+that are often used in many applications where the NSA wouldn't be that interested (e.g. NSA don't
+care about spying on your video game files...). 'm *not* saying that ARM chips have backdoors,
+I'm just pointing it out.
+
+4a |v + Shate>

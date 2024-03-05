@@ -1,0 +1,16 @@
+[& MyScript InkRetr
+
+MyScript InkRetriever
+Om | Nedlastingsinnstilinger | Enhetsinnstillinger_
+
+MyScriptInkRetriever hjelper deg med 8 overfare dolumenter fra USB-siriveenheter ti datamaskinen,
+klk Neste for & starte konfigurasjonen,
+
+Siekklsten over kompatible enheter,
+
+‘Ikke vis denne siden ved neste opnstart Neste >>
+
+Copyright Vision Objects 2003-2010 wu. visionebiects.com
+
+Go)
+

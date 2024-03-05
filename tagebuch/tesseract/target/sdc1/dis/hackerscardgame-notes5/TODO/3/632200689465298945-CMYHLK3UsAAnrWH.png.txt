@@ -1,0 +1,48 @@
+<= -} (SG LD google.com/patents/W
+
+Google
+Patents English French
+
+System for producing artificial telepathy
+WO 2005055579 A1
+
+ABSTRACT
+
+‘A device is proposed which will provide the user with a form of ariicial telepathy,
+namely the ability to communicate with others with no obvious signs of
+connection. The system comprises a mobile phone “engine' which interfaces to
+an existing or future public mobile telephony network. This device also contains a
+very low-power transponder, which Is linked wirelessly to one or more
+corresponding transponders implanted in the body. Connected to these implanted
+transponders are implanted transducers, one placed in a position such that it
+picks up speech trom the user and the other placed in a position such that it
+imparts speech and status signals audible to the user. The transducers may be
+
+Publication number 02005055579 AL
+
+Publication type Application
+Application number PCT/AUz004/000002
+
+Publication date Jun 16, 2005
+
+Filing date Jan 6, 2008
+
+Priority date @ Dec 2, 2003
+
+Inventors Lynne Moody, Miles Philips Moody
+Applicant Lynne Moody, Miles Philips Moody
+
+Export Citation BIBTeX, EndNote, RefMan
+
+Patent Citations (4), Non-Patent Citations (1), Referenced by (1),
+Classifications (14), Legal Events (3)
+
+External Links: Patentscope, Espacenet
+
+connected acoustically, either through bone contact or contact with other tissue, or mioelectrically, through electrodes connected to tissue or nerves. In future
+telecommunications networks, when power level requirements are much lower, the whole device may be implanted and connected directly to a public mobile network
+‘The system is further enhanced by the use of speech recognition technology, which makes operation of the device possible through voice or sound commands without
+the use of manual actions. A further enhancement of the system would be a capability for image transfer through a device connected visually of electrically to the eyes
+and a small camera to record what the eyes see. The characteristics of the device will emulate telepathy, in that it will give seemingly invisible voice and image
+
+communication with others connected to the network.

@@ -1,0 +1,66 @@
+Ir.
+
+a,
+
+Iv.
+
+Preece -Pecceoure
+
+-plug outlets, 2
+suppressed outlet, 6-p.
+
+garn OM; ay, monitor, disk drive, and finall
+
+pow
+
+‘Y
+6Shke ond! gi
+m white noise generator and shock generato:
+Borge (1eft knob). Set shock
+
+(ight knob) -
+
+piug in power cords to restraint boxes.
+
+4. To set up interface: ;
+5 i " Cc. 1 or C. 2) dnte
+Bo mesh at tee (cs
+peer "READY." appears, type NEW and pres!
+5. ‘To run desired program:
+a. Put disk labeled "SHOCK PROGS" into drive
+|b. Type LOAD "[filename}",8 and pre:
+c. Type RUN then answer each question and pret
+Program Names
+SHOCK Delivers fixed-duration shocks on a VI schedull
+EYR-; Delivers shocks to two escape-yoked pairs.
+Increase response requirement, F1/F3
+Decrease response requirement, F2/F4
+Impose minimum 0.8-s delay, F5/F6
+(Print out.data with EYR2CHK)
+‘TRIPLE
+
+©
+
+Work backwards from Step 3 above.
+
+Delivers escapable shocks to three rats.
+Increase response requirement, F1/F3/F5
+
+Decrease response requirement, F2/F4/F6
+Impose minimum 0.8-s delay,
+
+0 1/2/3
+(Print out data with TRIPLECHK]
+f equipment.
+
+5k t be terminat: ematurely:
+Press RUN/STOP key
+Type
+
+POKE 56846,0 and press Return
+
+Restart program by typing RUN
+
+#f six else fails, turn off computer and start
+
+_— @

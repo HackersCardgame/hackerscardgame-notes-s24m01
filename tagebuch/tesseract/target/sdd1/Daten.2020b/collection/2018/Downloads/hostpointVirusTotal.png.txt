@@ -1,0 +1,43 @@
+>] VirusTotal
+
+€ > S O[ 4 Secure | https:/;www.virustotal.com/#/file/577be532c3ce7728914814934cb6baa3cea26c1b7a753a2ec33ecf154b5bFF08/detection @*x ¢ Qo
+Apps @ Debian.org @ LatestNews @ Help @# Pure CSS3Page [} Pure CSS3Page J jQueryZoom €) Isitpossible to) [Building an appl’ [Building an appl
+DS] search orscana URL P address, domain, ote hash Q wl signin
+No engines detected this file e
+SHA256 577be532c3ce7728914814934cb6baa3cea26c1b7a753a2ec33ech1 SADSbAOS,
+Filename BAK
+File size 105.04 KB
+Lastanalysis 2018-05-20 02:56:53 UTC
+Detection Details Community
+
+Ad-Aware @ clean ‘AegisLab @ clean
+
+AhnLab-V3 @ clean ALYac @ clean
+
+Antiy-AVL @ clean Arcabit @ clean
+
+Avast @ clean Avast Mobile Security @ clean
+
+AVG @ clean Avira @ clean
+
+AWware @ clean Babable @ clean
+
+Baidu @ clean BitDefender @ clean
+
+Bkav @ clean CAT-QuickHeal @ clean
+
+clamav @ clean cmc @ clean
+
+Comodo @ clean Gyren @ clean
+
+Drweb @ clean Emsisoft @ clean
+
+eScan @ clean ESET-NOD32 @ clean
+
+F-Prot @ clean F-Secure @ clean
+
+Fortinet @ clean GData @ clean
+
+Ikarus @ clean Jiangmin @ clean
+
+K7AntiVirus @ Clean K7GW @ Clean oa

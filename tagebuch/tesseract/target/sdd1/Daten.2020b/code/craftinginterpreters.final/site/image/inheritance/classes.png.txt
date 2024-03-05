@@ -1,0 +1,30 @@
+classA {
+method () {
+print "A method’;
+i 3
+3
+class B<AL
+
+method () £
+i print "B method”;
+
+CALLS
+
+3
+
+—— test) ¢
+
+super.method ();
+
+4
+}
+
+INHERITS FROM
+
+class C<BL
+method() {...}
+
+test ()t..3
++ CALLS
+
+C().testQ);

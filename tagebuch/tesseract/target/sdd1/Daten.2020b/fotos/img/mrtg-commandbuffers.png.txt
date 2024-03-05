@@ -1,0 +1,4 @@
+3 16.0
+oe 6 8 10 12 14 16 18 20 22 0 2 4 6 8 10 12
+
+Max Used: 29.0 Average Used: 0.0 Curent Used:0.0

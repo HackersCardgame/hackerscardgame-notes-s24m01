@@ -1,0 +1,15 @@
+LibreOffice 4.3
+
+LS Libreoftice
+
+Version: 4.3.3.2
+Build ID: 430m0(Build:2)
+
+LibreOffice is a modern, easy-to-use, open source
+productivity suite for word processing, spreadsheets,
+presentations and more.
+
+This release was supplied by The Document Foundation/Debian.
+Copyright © 2000 - 2014 LibreOffice contributors.
+LibreOffice was based on OpenOffice.org.
+

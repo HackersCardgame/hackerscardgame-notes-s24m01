@@ -1,0 +1,101 @@
+GisHelpSeeker: boolean
+disLoggedin: boolean
+
+‘SETAG: String
+
+_chumarciandot.spa backend
+
+<<Java Class>> <<Java Class>> <Slava Ciass>> <lava Giass>>
+@MainActivity @ChatMessageListener (@ManagementChatMessageListener @xXmppService
+cumarclandot spa ui actives ch marlando spa backend chmarclandot spa backend chmaclandok spa backend
+@servemame: String ‘SFTAG: String SETAG: String SETAG: String ‘SFTAG: Sting
+ees FMainActnvtyo ‘EF chamessagetistenerd ‘FManagementChatMessageListonerd S'SERVICE_INPUT: Sting
+ee © oncrese Gund) vot 9 roceseMessane(Chat Meso SY service_ovTPUT sting
+cSmanagementPassword: Sting oeoumeceneip est SFCONNECT: Sting
+fchatPanner Sung a npeabiosseap om SFCONNECTED: sting
+Susemame: Sting ocelot SV.CONNECT_FAILED: Sting
+password: Sting peacoat SYDISCONNECT: Sting
+supporter: Sting o ceesumen wai SYINEED_HELP: String
+Phopsecker Orig ‘@ onCreateOptionsMenu(Menu):boolean SY OFFER_HELP: String
+PiomiontessaqoSont: bookeen ‘@ onOptionsitemSelected(Menultem):boolean| “slave Class SFLOGGED_IN: Sting
+isSupporter: boolean @smackAsyncTask eee
+
+SFOPEN_CHAT String
+
+een
+
+SFOPEN_CALL: String
+
+Available: boolean
+<FisConnected: boolean
+ree: boolean
+ringing boolean
+
+FContigd
+
+“<<Java Class>>
+mppBroadcastReceiver
+‘chumarclandot spa uiactivties
+
+‘eXmppBroadcastReceiver)
+{@ onReceive(Context Intent): voks
+
+<<Java Class>>
+@ChatFragment
+chmarlandot spa.uifagments
+
+<<lava Class>>
+@MyRxReceiver
+‘umarclandok spa. kagments
+
+EMyRaRecoWver)
+{@ onReceive(Context intent) void
+
+‘@ chatTextView: TextView
+‘4 sendButton: Button
+ditToxt: EditToxt
+
+[1 Foratreameno
+
+‘@ onCreate View(Layoutinflater ViewGroup, Bundle) View
+‘© onClick(View):vokd
+‘@ onkey(Viewint KeyEvent):boolean
+
+‘4 conConfi: ConnectionConfiguration
+
+© chat Chat
+FSmackAsyncTask)
+
+{ dolnBackgrounes Voi): Void
+
+€@ login(ting Sting String) void
+€@ chatCreatod(Chat boolean) voks
+
+‘oem ietereanecan |, s0astoncT
+
+SFOPEN_HELP: Sting
+SFOPEN_LOGIN: Sting
+SFOPEN_SEARCH Sting
+SPACCEPT Sting
+SPDECLINE: Sting
+
+{(/MESSAGE_FROM_FRAGMENT_CHAT String
+
+SFMESSAGE_TO_FRAGMENT_CHAT Sting
+SF SEND_TO_ACTIVITY Sting
+S'SEND_TO_SERVICE: Suing
+
+ar Ringtone
+
+receiver: BroadcastReceiver
+
+FX mppServiced
+
+@ onCreste(:void
+
+{© openAbertO void
+
+{@ onSupporterAccept0:void
+{© onSupporterDecined void
+{© onBindntent Binder
+

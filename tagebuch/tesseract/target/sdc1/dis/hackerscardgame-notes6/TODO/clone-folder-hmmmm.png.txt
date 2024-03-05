@@ -1,0 +1,88 @@
+Sat Jun 19 1:
+
+3 ® US Ro 8) 8) 8) 8) eo eo 8) 8) 8) Hise 8) 8) 8) 8) O Ho Ell Leic: | nic v Up SH XxX
+€ Cc a O | & https://stackoverflow.com/questions/651038/how-do-you-clone-a-git-repository-into-a-specific-folc a@-uUw =]
+stackoverflow — Product 1
+Hot Meta Posts
+Home | know how to move the files after I've cloned the repository, but this seems to break Git, and I'd
+7 like to be able to update just by calling git pull . How can | do this? Re-tagging ions related to
+Pt Unix/Linux text processing out of shel
+
+© Questions
+
+Users
+
+Your privacy
+
+Get updates on
+questions and
+answers
+
+‘On Windows you can move files from folder where you will clone t
+
+t
+rerecogni
+
+31. Synonym prop
+[ullongpressge:
+
+marc@debian: ~
+
+File Edit View
+
+Search Terminal Help
+fatal: unable to update url base from redirection
+asked for: https://gitlab.com/HackersCardgame/hackerscardgame-no
+
+Ener ennnnmmnnnmmnmnrmmn ster /ni chtAnschauenAusserMedicPersonal/info/refs?service=
+
+Just use : git clone giturl . — user1188429
+voila is the spelling — Mat
+
+@MatthiasDailey volla is the actual spelling — silk
+
+redirect: https://gitlab.com/HackersCardgame/hackerscardgame-no
+ster
+
+marc@debian:~$ git clone https://gitlab.com/HackersCardgame-notes5
+
+9 offen use walan to see if people notice. ~ NIT HCloning into 'HackersCardgame-notes5'...
+Username for ‘https://gitlab.com': “*C
+marc@debian:~$ git clone https://gitlab.com/HackersCardgame/hacke
+20 Answers s5
+Cloning into 'hackerscardgame-notes5'...
+Option A:
+
+3633 — git clone git@github.com:whatever folder-name
+
+Ergo, for right here use
+
+git clone git@github.com:whatever .
+
+Option B:
+
+Move the .git folder, too. Note that the .git folder is hidder
+
+so be sure to show hidden files.
+
+my /where/it/is/right/now/* /where/I/want/it/
+
+my /where/it/is/right/now/.* /where/I/want/it/
+
+The first line grabs all normal files, the second line grabs dot-files. Itis also possibe to do it in one
+line by enabling dotalob (ie. shont -« dotalob ) but that is probably a bad solution if vou are
+
+warning: redirecting to https://gitlab.com/HackersCardgame/hackers¢
+
+Enumerating objects: 13862, done.
+Counting objects: 93% (7775/8360)
+marc@debian:~$ git clone https://gitlab.com/HackersCardgame/hacke
+s5 nichtAnschauenAusserMedicPersonal
+Cloning into 'nichtAnschauenAusserMedicPersonal'...
+warning: redirecting to https://gitlab.com/HackersCardgame/hackers¢
+5.git/
+remote: Enumerating objects: 13862, done.
+remote: Counting objects: 100% (8360/8360), done.
+remote: Compressing objects: 100% (8220/8220), done.
+feceiving objects: 40% (5564/13862), 831.61 MiB | 20.76 MiB/s
+

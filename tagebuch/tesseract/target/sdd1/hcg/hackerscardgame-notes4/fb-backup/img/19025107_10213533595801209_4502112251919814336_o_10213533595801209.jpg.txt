@@ -1,0 +1,29 @@
+Activities _@ Chromium Web Browser ~ Mon 02:20 dev
+@D x
+© © 192.168.179.241
+
+Apps © Debian.org @ Latest New:
+
+Graphs Group | network ¥) Host 91198241 ¥  Graph| Ping 128
+
+Filter a
+Zoom: 5m 15m 30m th 2h 3h Gh 12h 1d 3d All 2017-06-11 22:44 - 2017-06-12 00:41
+< Pee
+«« 1d 12h 1h 5m | 5m 4h 12h 1d »» 2h fixed
+
+91,138,24.1: Ping (2h)
+12
+
+Lo
+
+© ICMP loss [avg] 0% 0% 0% 0%
+lm ICMP ping [aval 1 1 1 1
+MICMPresponsetime [avg] 144.3ms 71ms 59.75ms 192ms
+© Trigger: Ping loss is too high on 91.138,24.1 [> 20]
+
+© Trigger: 91.138.24.1 is unavailable by ICMP [= 0]
+
+© Trigger: Response time is too high on 91.138.24.1
+
+zbx_export_te....xml =| AusgefihrteZa....pdf  unatendet.jpg (8) zbxexport_te....xml ‘S| zbx_export_: (©) zbxexport_s...xml
+

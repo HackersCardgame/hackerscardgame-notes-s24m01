@@ -1,0 +1,87 @@
+[Dy http//192.168.17¢ x / [} rombach DrayTek V
+
+GY G [) 192.168.1.1
+
+Vigor292 O'Series
+
+Dual-WAN Securify Router
+
+auto Logout” RG |
+
+Wizards
+Online Status
+
+WAN
+
+LAN
+Load-Balance/Route Policy
+NAT
+rewall
+User Management
+Objects Setting
+csM
+Bandwidth Management
+
+Applications
+VPN and Remote Access
+Certificate Management
+USB Application
+System Maintenance
+Diagnostics
+
+External Devices
+
+Product Registration
+
+All Rights Re
+
+v2920_2015....cfg
+
+WAN >> Internet Access
+
+WAN 2
+
+Static or Dynamic IP (DHCP Client)
+® Enable Disable
+
+Keep WAN Connection
+Enable PING to keep alive
+PING to the IP
+PING Interval 0 minute(s)
+
+WAN Connection Detection
+
+WAN IP Network Set
+
+ngs | WAN IP Alias
+
+® obtain an IP address automatically
+Router Name [rombach
+Domain Name  ignored.ch
+
+DHCP Client Iden
+
+er*
+Username
+Password
+
+Specify an IP address
+
+Mode ARP Detect ¥ IP Address {91.198 20.50
+Ping IP Subnet Mask 255.255.255.192
+Tm Gateway IP Address [91.138.20.1
+
+DNS Server IP Address
+mtu 1442 | (Max:1500)
+Primary IP Address
+RIP Protocol Secondary IP Address
+Enable RIP
+Default MAC Address
+© Specity a MAC Address
+MAC Address
+oo | [18 | ap [fen | [ba | FF
+Note : WAN is Backup mode idle Timeout can be set un. else Idle Timeout will be -L
+
+DrayTek
+
+¥ Show all downloads.

@@ -1,0 +1,19 @@
+Erfinder: 4.C.F von Minchhausen Jahr: ~1977
+Das Minchhausen-Stellvertreter-Syndrom (FOP Factitious
+Disorder by Proxy), benannt nach Hieronymus Carl
+Friedrich von Mnchhausen, ist das __Erfinden,
+Obersteigern oder tatsachliche Verursachen von
+Krankheiten oder deren Synptonen bei Dritten, meist
+Kindern, um anschlieBend die medizinische Behandlung
+zu verlangen. Es handelt sich um eine subtile Form der
+Kindesmisshandlung, die bis zum Tod des Opfers fahren
+kann.(1] Haufig ist der von der Stérung Betroffene ein
+Elternteil, meist die Mutter.
+
+Use Cases
+
+Eigener Subtyp ,nicht naher bezeichnete vorgetauschte
+StOrung” im psychiatrischen Klassifikationssystem DSM
+IV definiert oder was ist ein paranioder Psychiater
+der die Verantwortung eh nicht tragen kann / will
+

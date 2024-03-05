@@ -1,0 +1,10 @@
+Bg Flight Management System - Berechnung
+
+StartWaypoint_[ Ziel Waypoint Kurs Distanz[Nw] | Flugzeit min)
+LSZH EBT [242,82 24,79 297
+EBT ROTOS [247,83 [12.40 1,49
+ROTOS ULMES [231,62 22,58, 274
+ULES iLsco [229,04 (65.03, 7.80
+Geschwindigkeit: 500 [Knoten}
+Distanz: 124,80) [NM]
+Zeit: 14,98) [min]

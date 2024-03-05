@@ -1,0 +1,78 @@
+Monatliches Uberweisungslimit einrichten
+
+Belastungskonto
+
+Begiinstigter
+
+Name
+Strasse und Nr
+PLZ und ont
+Land
+
+IBAN (Konto)
+
+Zahlungsdetails
+
+Betrag
+Zahlungsgrund
+Austihrungsdatum,
+
+Zahlungsreferenz
+
+S_CH73.00231231 6679 2440 F Aktueller Saldo
+
+== UBS Privatkonto, Marc Landolt jun. CHF 26'900.33
+
+POUR LES REFUGEES - FOR THE REFUGE BIC (SWIFT)
+
+Bankcode (Fedwire)
+
+MONTREAL Name
+Kanada (CA) Strasse und Nr
+003123599300001 PLZ und ort
+
+Land
+
+CHF 100.00
+Greetings to Snowden :)
+29.12.2017
+
+Zahlungsausfihrung in der Wahrung des Ziellandes
+
+Zahlung in CHF belasten und dem Begiinstigten in CAD gutschretben
+
+Kosten und instuktionen
+Kosten
+
+Instrultionen
+Ausfihrung als
+
+Buchung
+Buchungstext
+
+Buchung
+
+Avisierung
+
+EET 4s voriage spoichom
+
+Aufteilung der Kosten
+Keine
+
+Zahlungsauftrag Ausland
+
+Snowden Refugees
+
+ROYCCAT2MIC
+
+ROYAL BANK OF CANADA
+1 PLACE VILLE MARIE INTERNATIONAL
+MONTREAL
+
+Kanada (CA)
+
+Einzelbuchung status @) Vollvisiert
+Ohne Avisierung Auftragsnummer 9931362TI6335931
+
+Drucken (PDF)...
+

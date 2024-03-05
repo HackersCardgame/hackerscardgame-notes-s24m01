@@ -1,0 +1,7 @@
+HOw: MANIPULATION SEND-OVER: CHANGE-POSTURE RAG: MANIPULATION stor "HALT
+
+mn sor nowt poet NT ary
+rs aro i aren
+
+‘start-frame, end-frame, agent, object, verb, probability, importance, observed
+

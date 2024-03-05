@@ -1,0 +1,17 @@
+Schema der Ammoniak-Synthese
+
+Er: des Synth isch Erzeugung von Ammoniak
+tf J
+
+CH,.H,0 N.H,,CO, NH,N2,H;
+
+Kataly-} Kom-
+sator pressor
+
+H,0
+
+Ammoniaktank
+
+Ausgangsstoffe Konvertierung Druckwasche Synthesereaktor NH3-Verfliissigung
+
+A

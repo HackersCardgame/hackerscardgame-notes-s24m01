@@ -1,0 +1,37 @@
+After this operation, 2131 kB of additional disk space will be used.
+Do you want to continue? [Y/n]
+Get:1 http://archive.ubuntu.com/ubuntu bionic/main amd64 librecode@ amd64 3.6-23 [528 kB]
+
+http: //archive.ubuntu.com/ubuntu bionic/universe amd64 fortunes-min all 1:1.99.1-7build1 [55.1 kB]
+Fetched 621 kB in 1s (1107 kB/s)
+Selecting previously unselected package librecoded:amd64.
+(Reading database ... 12215@ files and directories currently installed.)
+Preparing to unpack .../librecode@_3.6-23_amd64.deb ..
+ing librecodeo:amd64 (3.6-23)
+
+previously unselected package fortune-mod.
+
+to unpack .../fortune-mod_1%3a1.99.1-7buildi_amd64.deb ..
+
+fortune-mod (1:1.99.1-7build1)
+
+previously unselected package fortunes-min.
+Preparing to unpack .../fortunes-min_1%3a1.99.1-7buildi_all.deb ..
+lunpacking fortunes-min (1:1.99.1-7build1)
+Setting up fortunes-min (1:1.99.1-7buildi) ...
+setting up librecoded:amd64 (3.6-23) ...
+setting up fortune-mod (1:1.99.1-7build1)
+Processing triggers for man-db (2.8.3-2ubuntu@.1) ...
+Processing triggers for libc-bin (2.27-3ubuntui.2) ...
+
+$ fortune
+
+jab spatestens 10:00 wird Satan wieder seine Protein-Rechner-Gehilfen mit Jahrgang 1970 und alter in
+meinen Stream hangen, Suicide Death Bots gegen mich aktivieren und wieder mit a b 0
+( ) um diese IMHO “weg zu >>>> therapieren <<<<"
+
+-- Marc jr. Landolt
+i$
+
+Dateien und Gerate
+

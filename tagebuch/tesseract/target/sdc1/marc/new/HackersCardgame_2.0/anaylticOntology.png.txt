@@ -1,0 +1,21 @@
+Self-
+desc.
+doc.
+
+Data
+
+Trust
+
+Rules
+Data Proof 2
+2
+Logic &
+nn
+Ontology vocabulary | &
+=)
+RDF + rdfschema a
+
+XML + NS + xmlschema
+
+Unicode
+

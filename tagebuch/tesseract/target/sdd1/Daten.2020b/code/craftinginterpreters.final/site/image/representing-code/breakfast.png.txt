@@ -1,0 +1,5 @@
+breakfast
+protein “with” breakfast “on the side”
+cooked “eggs” : bread
+
+poached eggs with English muffin on the side

@@ -1,0 +1,30 @@
+Spannung Ue CVI
+
+12
+
+110
+
+108
+
+106
+
+104
+
+102
+
+108
+
+98
+
+96
+
+94
+
+induktiver Spannungsabfall ——
+
+200
+
+400
+Frequenz [Hz]
+
+600 00 1900

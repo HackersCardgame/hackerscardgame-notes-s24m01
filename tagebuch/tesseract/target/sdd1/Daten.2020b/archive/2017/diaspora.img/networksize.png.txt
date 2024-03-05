@@ -1,0 +1,9 @@
+Number of relays
+
+— Relays
+
+— Bridges
+
+2
+
+The Tor Project - https://metrics.torproject. org/

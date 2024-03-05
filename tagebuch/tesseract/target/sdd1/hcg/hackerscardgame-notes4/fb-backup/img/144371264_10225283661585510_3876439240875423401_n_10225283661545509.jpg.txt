@@ -1,0 +1,54 @@
+This 1s Bob. Like any ptocess, Bob
+Bob isa has his threads, with
+Linux whom he shares context,
+process. memories and love.
+
+And \ike all processes,
+inevitably sometime he
+will be killed.
+
+When we gracefully kil!
+a process with a soft
+SIGTERM,..
+
+-..we give him ...and say goodbye
+the chance to to each
+
+talk with his other.
+
+kids about it.
+
+So, the Kids That's a
+
+Finish there process
+
+tasks... life!
+
+On the other
+hand, when
+
+we brutally
+killa
+
+process with
+
+a SIGKILL,
+
+we prevent
+them from
+Finishing their
+yob and say
+
+So please, DON’T use
+SIGKILL. Give the kids
+( the chance to leave the
+
+Dad,
+are we
+going?
+
+kernel in peace.
+
+Be nice.
+
+Daniel Stor: {turnoff.us}

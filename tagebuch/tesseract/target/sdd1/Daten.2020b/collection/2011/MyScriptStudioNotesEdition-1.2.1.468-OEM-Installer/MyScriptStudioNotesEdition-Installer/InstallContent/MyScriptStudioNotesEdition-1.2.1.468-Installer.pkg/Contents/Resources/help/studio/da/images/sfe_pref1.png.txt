@@ -1,0 +1,11 @@
+Indstillinger
+
+‘Generelt \(/Sprog \("Ordbog \("Noter ("Forms
+
+Konvertering
+‘Bevar linjeskft under konvertering af ren tekst
+
+‘Mappe ti eksporterede fer
+
+[[c:/Users/adrienne /Documents/MyScript Documents/export
+

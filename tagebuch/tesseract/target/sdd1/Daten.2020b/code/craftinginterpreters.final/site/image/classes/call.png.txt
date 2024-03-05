@@ -1,0 +1,16 @@
+GLOBAL
+
+—+ Cake class
+
+—+» Cake instance
+
+taste
+closure
+
+LoxFunction
+
+PARENT
+taste() BODY
+
+adjective  —> “delicious”
+

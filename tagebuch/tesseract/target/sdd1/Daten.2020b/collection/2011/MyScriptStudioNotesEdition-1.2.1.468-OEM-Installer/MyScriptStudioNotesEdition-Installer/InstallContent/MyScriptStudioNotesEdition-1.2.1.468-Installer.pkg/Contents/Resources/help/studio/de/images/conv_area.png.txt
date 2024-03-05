@@ -1,0 +1,12 @@
+@ Einstellungen fur Bereiche mit speziellen Inhalten
+
+Inhaltstye Sprache ea
+
+Druckschrift
+GROSSBUCHSTABEN
+
+Schreibschrift
+
+Diese Einstelungen werden
+‘auf den aktuellen Bereich angewendet.
+

@@ -1,0 +1,19 @@
+Syst nt rrr
+
+MyScript InkRetriever
+
+Tietoja | Noutoasetukset
+
+‘Musteenvarastointiasetukset
+Valtse mustetiedoston salytyskansio:
+[C:\Users\adrienne Documents MyScript Documents notes_\Ink Devices
+
+Lsdasetukset
+‘Selvité tedostot laitteesta lataamisen jakeen
+
+Kirjoita samannimisten tiedostojen paaile
+
+‘Skannaa jokainen usb late
+
+‘Kaynnista automaattisesti Windowsin kaynnistyksen yhteydessé
+

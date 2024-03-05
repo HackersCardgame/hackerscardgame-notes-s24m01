@@ -1,0 +1,16 @@
+i Advanced Options
+
+Prony Setings
+BD) iro seyer ia cont htc a getevay beeen alc nebokand ge
+network such as the Internet
+Proxy Host Port
+User 1D
+Password
+Test connexon tothe proxy
+License Server Setings
+a The role of icense server isto dstibute tokens to computers seeking to use an
+application protected with an activation code.
+Token Server Address |
+
+‘Test connexion to the server
+

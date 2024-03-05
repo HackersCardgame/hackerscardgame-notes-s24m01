@@ -1,0 +1,16 @@
+MyScript InkRetriever
+
+Névjegy | Beolvasés bedlitésai | Esckizbedlitésok
+
+|A MyScript InkRetriever akaimazéssal dokumentumokat talthet le az USB-csatlakozéval rendekezs
+iréeszkézokr4l a szamitégénére.
+Kattintson a Tovdbb gombra a konfigurécié indtészhoz.
+
+Akompatiiis esakb20k istéignak ellendrzése,
+
+‘A kovetkezé indtéskor ne jelenjen meg ez az oldal Tovabb >>
+
+Copyright Vision Objects 2003-2010 wu. visionebiects.com
+
+=z
+

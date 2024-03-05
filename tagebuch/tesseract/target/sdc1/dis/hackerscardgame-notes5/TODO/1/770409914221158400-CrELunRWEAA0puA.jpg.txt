@@ -1,0 +1,13 @@
+Lecal node: 192.1681 40: Traffic on iterface Broadcom Comoration NetLink BCMS7785 Gigabit Ethemet Pe (2h) Local node: 192.168.179.3-b: Traffic on interface eth (2h)
+
+20 Mbps: Mbps
+Mbps
+SMbps amps
+2Mbps
+
+obps
+
+last min av
+Incoming traffic on interface Broadcom Corporation NtLink BCMS7785 Gigabt Ethemet PCIe Incoming traffic on interface eth fav) 69983 kbps 352bps 245 bps
+BH Outgoing traffic on intertace Broadcom Corporation NetLink 8CMS7785 Gigabit Ethemet Pcle H outgoing traffic on ntertace eth [oval 68192 Kbps | 320bps  248Mbps
+

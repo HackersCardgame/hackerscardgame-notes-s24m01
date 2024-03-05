@@ -1,0 +1,9 @@
+a
+AT [15~*C
+
+TE epee errr for i in $(seq 1 10000); do sleep $(( ( RANDOM % 10) +
+
+4] /)) && xdotool key F5; done
+
+Ieac
+‘ee ”C

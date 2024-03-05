@@ -1,0 +1,19 @@
+‘Advanced Mining Options ea)
+
+a Channel: 1
+Stereo — Left
+
+Channel: 2
+
+Channel: 3
+
+Stereo — Right
+
+Channel: 4
+
+Channel: 5
+
+Channel: 6
+
+Output Channels: 6 f o
+

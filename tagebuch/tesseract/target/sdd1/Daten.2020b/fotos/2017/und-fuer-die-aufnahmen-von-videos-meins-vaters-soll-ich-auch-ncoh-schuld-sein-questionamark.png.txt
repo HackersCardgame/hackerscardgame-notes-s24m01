@@ -1,0 +1,54 @@
+File Edit View Insert Format Styles Sheet Data Tools Window Help x
+
+B-sa-- m Q ie % Xx E
+A267 vy fx LS 951.2 v
+(@ Tis documentis open in read-only mode. Edit Document x
+
+za 8 c DLE lF G H 1 J K L M N ° P Q R sil
+195 | 905.1) 240 Dekalog 5-8 dip HIO | 1988 __Kieslowski Kraysziof
+196 | 906.1 200 Dekalog 9+10 dip HIO | 1988 | _Kieslowski Kr2ysztof
+197 | 451.2) 200 Der Zufall miglcherweise 1981 | _Kieslowski Krzysztof
+198 | 946.1 200 Die zwei Leben der Veronik Kieslowski Krzysztof
+199 | 965.1 200 Ein kurzer Film Uber das Toten P| 1988 _[Kieslowski Krzysztof
+200 | 203.1 200 Ein kurzer Film Uber die Liebe 1988 | _Kieslowski Krzysztof
+201 | 459.4 200 Ohne Ende 1984 | _Kieslowski Krzysztof
+202
+203
+204 | 1019.1 200 Das Schioss im Spinnenwald 3/1957 (Kurosawa Akira
+205 | 83.1 180 Die sieben Samurai 3/1954 [Kurosawa Akira
+206 | 955.2 200 Kagemuscha 3/1980 (Kurosawa Akira
+207 | 272.1 200 Ran 1985 | _Kurosawa Akira
+208 | 243.1 200 Rashomon 3/1950 [Kurosawa Akira
+209 | 385.1 200 Uzala, der Kirgise 3/1975 (Kurosawa Akira
+210 | 1025.1) 200 ‘Yojimbo der Leibwachter Kurosawa Akira
+211
+212
+213
+214 | 425.3 200 Biinde wut 1936 _Lang Fitz
+215 | 472.2) 200 Blinde wut (Fury) USA 1936 Lang Fritz
+216 | 967.2) 200 Die 1000 Augen des Dr. Mabuse DIF 1960, Lang Fritz
+217 | 991.1 200 M- Eine Stadt sucht einen Morder D 1930, Lang Fritz
+218 | 677.1 200 Rache fir Jesse James USA 1944) W_ Lang Fritz
+219
+220
+221 | 386.2 200 1937 Kunst und Macht Leiser Erwin
+222 | 860.1 200 Der Mitlufer 1984 | _Leiser Erwin
+223 | 1018.2) 200 Eichmann und das Dritte Reich CH 1961 _Leiser Erwin
+224 | 1013.1 200 Mein Kampf Adolf Hitler CHID| 1960 _Leiser Erwin
+225 | 1026.2 200 Pimpfwar jeder D | 1992, __Leiser Erwin
+226
+227
+228 | 378.1) 200 /Aergerim Paradies 1932 | __Lubitsch Emst
+229 | 367.3) 200 Carmen D 1918 __Lubitsch Emst
+230 | 368.2) 200 Ein himmlischer Siinder 1943 |__Lubitsch Est
+231 | 992.3) 200 Engel USA 1937 __Lubitsch Emst
+232 | _856.2/ 200 Rendezvous nach Ladenschluss USA 1939 _Lubitsch Emst
+233 | 671.1 200 Sein oder nicht Sein Lubitsch Emst
+234 | 373.1 200 Sein oder Nichtsein 1942 | _Lubitsch Est
+235 | 371.2) 200 /Sumurun D 1920, _Lubitsch Emst
+236
+
+VILME Titel —_Regisseure iibersichtEtikette ~~ Nummern —Makroiibersicht~— Makros
+Sheet 2 of 6 PageStyle_Regisseure ibersicht
+
+1 ‘Average: 951.2; Sum: 951.2 = + 100%

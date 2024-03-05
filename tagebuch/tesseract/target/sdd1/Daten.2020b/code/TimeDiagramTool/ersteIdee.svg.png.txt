@@ -1,0 +1,59 @@
+Adressierung:
+INTERFACE://Adresse/Steuerungstyp/Wert
+
+RS485://BUS1/SteuerungB/Wert3
+
+Poller Service
+
+ierung (HTML)
+
+snmp://<ipAdressen>/OID
+
+RS 485 Interface
+
+Steuernungstyp A
+Steuernungstyp B
+
+Steuernungstyp C
+
+ev. Liste der verfugbaren
+Werte die Ausgelesen
+werden kénnen wie if_count
+bei SNMP
+
+Wert 1
+Wert 2
+Wert 3
+
+http://<ipAdresge>/SteuerungA/Wert2
+
+HTTP Interface
+
+Steuernungstyp A
+Steuernungstyp B
+Steuernungstyp C
+
+ev, Liste der verfligbaren
+Werte die Ausgelesen
+werden kénnen wie if_count
+bel SNMP
+
+Wert 1
+Wert 2
+Wert 3
+
+SNMP Interface
+
+Steuernungstyp A
+Steuernungstyp B
+Steuernungstyp C
+
+ev. Liste der verfigbaren
+Werte die Ausgelesen
+werden kénnen wie if_count
+bel SNMP
+
+Wert 1
+Wert 2
+Wert 3
+

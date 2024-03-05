@@ -1,0 +1,15 @@
+categories
+
+cp NEWS (1
+‘System Administrators (4)
+
+| FAQ/ Frequently asked
+‘questions (4)
+
+Hints and tips (5)
+Tutorials (0
+‘Apps (2)
+
+EN - FORUMS (2)
+FR - FORUMS (3
+

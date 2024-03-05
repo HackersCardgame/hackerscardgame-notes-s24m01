@@ -1,0 +1,12 @@
+Global
+
+Ose 1
+
+‘FMO
+
+MSEG
+
+‘Arp/Seq
+
+Matrix
+

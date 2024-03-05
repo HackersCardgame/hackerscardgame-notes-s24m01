@@ -1,0 +1,54 @@
+Activities) Terminal ~
+
+As
+As
+
+path to seript ~
+parent path
+Seript mane -
+
+echo -© "s(red)s{o} s{@)s{default)"
+
+# get the newest updates
+aes eos
+
+ShowandExecute “cat -e /var/Lib/dpkg/Lock™
+
+ShowandExecute “apt --fix-broken Sip instalt*
+Showandéxecute “dpkg --configure -a*
+ShowandExecute “apt-get -y $ip updatet
+ShowandExecute “apt-get -y $ip upgrade
+ShowandExecute “apt-get -y $ip dist-upgrade™
+
+showandexecute “apt-get -y $ip install sudo git vim nano
+laa ki ania shinee enh
+
+# edit repository List
+fasnsnnsnsnsantntanansoannanannanssnsnsnsntansuseenasesnannanesnanennanenaann
+if YESHO “Edit /etc/apt/sources.List?™
+
+then
+
+Showandéxecute “SEDITOR /etc/apt/sources.List*
+
+fn
+
+# edit repository List
+faansnnsnsnsansntansnsnasnanasuansausnsansntensuseenasnenannanesnanesnaneniann
+if YESHO "add panblue or panusb™
+then
+ShowindExecute vapt-get -y Libpan-blue*
+vin /etc/pan.d/connon-auth
+echo *
+erat
+"f the noraal timeout for scanning
+watch out for a tiny tineslot for scanning
+4 Values <200b><2o0b>Between 3 and 15 seconds are valid
+Eameout = 3:
+
+>
+4# configuration for user korzendorfer
+
+aw ae
+
+ay

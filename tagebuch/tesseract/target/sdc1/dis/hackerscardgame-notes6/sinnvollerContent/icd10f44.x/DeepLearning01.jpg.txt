@@ -1,0 +1,27 @@
+Marc Jr LANdolt =
+fe. 31. Mai um 11:31-@
+
+Hi #DemoScene Stefan Bader Wikileaks Chaos Computer Club DEFCON Hacking
+Conference Hackaday OpenBC! Universitat Basel Universitat Bern ETH Zurich
+Fernfachhochschule Schweiz (FFHS) Fachhochschule Nordwestschweiz FHNW
+Mystery Demoscene Theater 9000 Demodays Demoscene Methodisch inkorrekt
+BartoCast Hoaxilla Podcast
+
+i need expert advice:
+
+hypothesis:
+with a needle array in the short term memory one could segment the short term
+memory
+
+whiteNoise between electrode 1&2 would jam segment (1) and therefor lock
+segment(t)
+
+t: would imply that there must be some sort of timecode like in #startrek
+
+QUESTION:
+is it possible to emulate such blindSpots in GANs / DeepLearning?
+
+A) Needle Array
+
+Ay in short
+

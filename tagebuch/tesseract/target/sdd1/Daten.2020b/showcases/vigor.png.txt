@@ -1,0 +1,82 @@
+Vigor - Mozilla Firefox x
+
+[i (2) Facebook x | 2 Fefes Blog x | ¥ (*) Twitter x | @ (3) fr-049: of spirits taker x | © Skype x | KF (2) Psychosen&Schizoph x | IJ NEXT von landev ox | D Vigor x | +
+
+©) 2 en © @& https://192.168.179.1 “Ow YVINDOw =
+DrayTek Vigor2960 Series 14:17:37 Login: Admin ae
+
+‘System Maintenance >> Syslog | Mail Alert >> Syslog File Q
+
+‘syslog File | Syslog Access Setup || Mail Alert
+
+ Retresn FH Download Log FAT Clear Sysiog Auto Refresh
+
+Log
+1 <13>Mar 23 08:14:37 Vigor: oad balance pool reset(28582) alittwvan2 is changed (cal rom 20-B_poo)
+2 <1d.>Mar 23 08:14:36 Vigor: pluto[13858): INTERFACE wan.wan2 DOWN...tree interface and release connections
+3 <161>Mar 23 08:14:33 Vigor: wan2(dhep) is down,
+“Objects Setting 4 <166>Mar 23 08:14:33 Vigor: wand(ahep) is down,
+oa 5 <13>Mar 23 08:14:33 Vigor: [check sla lan} 09-pv6 set down wan:wan2, tema
+
+6
+
+lv
+
+8
+
+9
+
+Routing
+NAT
+
+Firewall
+
+«<13>Mar 23 08:14:32 Vigor: udhcpe: hotplug_event: cd_mode=, action=fdown => start hotplug-call face
+‘<13>Mar 23 08:14:32 Vigor: udhepe: hotplug_event: ed_mode=, action=fdown
+<<13>Mar 23 08:14:32 Vigor: udhepe: case=deconfg: clear all old routes
+
+Applications
+
+VPN and Remote Access
+
+‘Certificate Management
+
+Sai Proxy <<13>Mar 23 08:14:32 Vigor: udhcpe: case=decontig: enter
+Bandwidth Management 10 <d3>Mar 23 08:14:32 Vigor: uahepe: get proto=dhep
+USB Application 11 <165>Mar 23 08:14:30 Vigor: wan? iup(27803): SETUP INTERFACE PART
+System Maintenance 12 <165>Mar 23 08:14:30 Vigor: [27803] END itdown wan2 (called by tup)
+13 <165>Mar 23 08:14:29 Vigor: tdown(27803) (dhcp): kl process pid(26296) of wan2
+14 <165>Mar 23 08:14:28 Vigor: [27803] START iidown wan2 (called by tup)
+15 <165>Mar 23 08:14:28 Vigor: ========== wan? iup(27803): IFDOWN PART /
+
+16 <1>Mar 23 08:14:27 Vigor: conn_dect(6922): wan2{dhep,,OS:down,PD:0): interface not found, do up
+17 <165>Mar 23 08:14:18 Vigor: wan? up(27592): another fup wan2 is running....abort
+
+18 <13>Mar 23 08:14:18 Vigor: conn_dect(6922): wan2{dhep,,OS:down,PD:0): interface not found, do up
+19 <165>Mar 23 08:14:09 Vigor: wan? tup(27391): another fup wan2 i running....abort
+
+20. <13>Mar 23 08:14:09 Vigor: conn_dect(6922): wan2(dhep,OS:down,PD:0): interface not found, do fup
+21 —<165>Mar 23 08:13:59 Vigor: wan2 fup(26878): another up wan? is running....abort
+22 _<13>Mar 23 08:13:59 Vigor: conn_dect(6922): wan2(dhep,OS:down,PD:0): interface not found, do fup
+
+23 <165>Mar 23 08:13:50 Vigor: wan2 fup(26675): another up wan? is running.....abort
+
+‘24 <13>Mar 23 08:13:50 Vigor: conn_dect(6922): wan2(dhep,OS:down,PD:0): interface not found, do fup
+
+<16S5Mar 23 08:19:42 Vigor: wan? #up(25479): another fp wan? runnin... abort
+
+‘<13>Mar 23 08:13:41 Vigor: conn_dect(6922): wan2(dhep,,OS:down,PD:0): interface not found, do fup
+-<165>Mar 23 08:13:33 Vigor: wan2 tup(26215): another fup wan2 is running....abort
+
+-<13>Mar 23 08:13:32 Vigor: conn_dect(6922): wan2(dhep,OS:down,PD:0): interface not found, do fup
+<<13>Mar 23 08:13:28 Vigor: load balance pool reset(25837)altitiwan2 is changed (callfrom 20-1b_poo)
+
+External Devices <<141>Mar 23 08:13:27 Vigor: plutol13858): INTERFACE wan-wan2 DOWN...jtee interface and release connections
+
+31 <161>Mar 23 08:13:25 Vigor: wan2{ahp) is down,
+
+‘Support Area
+ee 32 <166>Mar 23 08:13:24 Vigor: wana{ahep) is down,
+
+33. _<13>Mar 23 08:13:24 Vigor: [check_sla_lan] 08-ipv6 set down wan:wan2,item4
+

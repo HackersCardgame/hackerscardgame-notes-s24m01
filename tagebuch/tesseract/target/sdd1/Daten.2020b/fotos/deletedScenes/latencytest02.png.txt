@@ -1,0 +1,36 @@
+1.980 1.990
+
+2.090, 2.010 2.020 2.030 2.040
+
+2.050
+
+2.060
+
+2.080
+
+X[Audio Trac ¥] LO
+
+Mono, 44100H2 4
+16-bit PCM
+
+Mute [Solo
+
+X[Audio Trac ¥] 10
+
+Mono, 44100H2 | 0.5-
+16-bit PCM
+
+Mute [Solo
+
+Project Rate (Hz):
+
+44100 |(%)
+
+i=}
+
+Selection Start: OQEnd @ Length
+
+Snap To [00h 00 m 02.000 sy] (00h 00 m 00.073 s=
+
+Audio Position:
+00h 00 m00.000 s=

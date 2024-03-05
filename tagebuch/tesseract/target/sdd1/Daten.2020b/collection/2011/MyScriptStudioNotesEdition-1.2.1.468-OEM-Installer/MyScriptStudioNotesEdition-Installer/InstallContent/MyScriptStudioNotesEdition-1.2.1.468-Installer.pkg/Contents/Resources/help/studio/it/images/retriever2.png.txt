@@ -1,0 +1,17 @@
+ MySerpt nthe
+
+MyScript InkRetriever
+Info su | Impostazioni direcupero | Impostazioni dispositivo
+
+“Impostazion conservazione scrittura
+Scegi cartela di conservazione fle scrittura:
+‘C:\Users adrienne Documents MyScript Documents notes\ink Devices (sfegia...]
+
+‘Impostazioniavanzate
+Elmina fie dal dispositive dopo il download
+‘Sovrascrvi fle esistenti con lo stesso nome
+
+‘Cerca in ogni dispositive USB
+
+‘Avvia automaticamente alfavvio di Windows
+

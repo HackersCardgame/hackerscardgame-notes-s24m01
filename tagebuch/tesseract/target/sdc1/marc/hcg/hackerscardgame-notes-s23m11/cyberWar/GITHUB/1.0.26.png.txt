@@ -1,0 +1,81 @@
+Text Appearance
+
+8 marcland@s92: ~/www/h
+
+> +++ b/jpg/EN/index.php
+@@ -189,7 +189,7 @@ Printing the cards gives you a offline copy, cutting
+them out makes you focus ~1
+
+$csv = array_map('str_getcsv', file('cardNames.csv'));
+array_walk($csv, function(&$a) use ($csv) {
+
+- $a = array_combine($csv[@], $a);
+
++ // $a = array_combine($csv[], $a);
+
+ws
+
+array_shift($csv); # remove column header
+
+[marcland@s92 : ~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* + git diff
+HEAD |we
+311 1701-13102
+
+[marcland@s92: ~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* # git rev-
+parse HEAD
+
+[marcland@s92:~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* + cd ,,
+Mbash: cd: ,,: No such file or directory
+[marcland@s92:~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* 1 + reset
+Erase set to backspace.
+
+[marcland@s92 : ~/www/hackerscardgame.ch/1.0.26] main(+2/-275)* # cd ..
+
+[marcland@s92: ~/www/hackerscardgame.ch] main(+2/-275)* + tar czf 1.0.26.
+tar.gz 1.0.26
+
+marcland@s92: ~/www/hackerscardgame.ch/1.0.26 Q =x
+Use '--' to separate paths from revisions, like this:
+‘git <command> [<revision>...] -- [<file>...]'
+
+[marcland@s92:~/www/ .. rscardgame.ch/2.@.2]
+b70ac74c971bdf91f8c03a3b263f faefb67ac815
+[marcland@s92:~/www/ .. rscardgame.ch/2.@.2]
+
+master 128 + git rev-parse HEAD
+
+master + AC
+
+bash: d: command not found
+
+[marcland@s92:~/www/ .. rscardgame.ch/2.®.2] master 127 + reset
+
+Erase set to backspace.
+
+[marcland@s92 : ~/www/ rscardgame.ch/2.@.2] master £ cd 1.A?4?A42A2A2A2A2A2AC
+[marcland@s92 : ~/www/ rscardgame.ch/2.0.2] master 130 + RESET
+
+bash: RESET: command not found
+
+[marcland@s92:~/www/ .. rscardgame.ch/2.0.2] master 127 + reset
+
+Erase is backspace.
+
+[marcland@s92:~/www/ ... rscardgame.ch/2.@.2] master # cd ..
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-275)* + cd 1
+1/ 1.0.24/ 1.0.26/ 1.0.26.tar.gz
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-275)* + cd 1.0.
+[marcland@s92:~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* +
+c
+
+26
+git diff HEAD |w
+
+311 1701 =: 13102
+[marcland@s92 : ~/www/hackerscardgame.ch/1.0.26] main(+2/-275)* +
+AD
+e166eb25 fe686fad612d90ce7eddacSadfbc7f8a
+[marcland@s92:~/www/hackerscardgame.ch/1.@.26] main(+2/-275)* +
+
+git rev-parse HE
+

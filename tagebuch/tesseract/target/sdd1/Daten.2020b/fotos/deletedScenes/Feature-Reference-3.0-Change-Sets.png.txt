@@ -1,0 +1,11 @@
+Gvetlev oe ele s@elaer =a
+Sets for CVS (org.eclipse.m...rimWidget.java)
+‘4 {Sq >correct typo in trim widget
+4 {2p >org.eclipse.mylynctasks.ui_ [dev.eclipse.org)
+4 iq >src/org/eclipse/mylyn/internal/tasks/ui
+[Bi > TaskTrimWidget,java 1.43
+
+“4 Gy >org.eclipse.mylyn.tasks.core [dev.eclipse.org]
+“4 @jq >stc/org/eclipse/mylyn/internal/tasks/core
+[if > AbstractSearchHandlerjava 14
+

@@ -1,0 +1,57 @@
+Local node: 192.168. 1.2; WLAN (2h)
+
+IP Address MAC Address Netbios Name Interface *|
+192.168.179.2 10-7B-EF VLANL P
+
+192.168 .179.20 24-A4-3C VLANL i
+
+192.168.179.21 24-A4-3C VLANL
+
+192.168.179.31 64-6C-B2 VLANL :
+
+192.168 .179.33 8C-BF-AG VLANL
+
+192.168 .179.37 50-A7-2B VLANL om ra
+192.168.179.40 BO-10-41 VLANL id otek Tok 5 pat)
+192.168.1.2 10-7B-EF
+
+192.168.1.11 14-20-27 Local node: 192.168.1.1: Traffic on interface WAN2 (2h)
+192.168.179.111  14-CC-20 20 Mops
+
+192.168.1.40 40-FO-2F 1S Mops,
+
+$192.168.1.41 00-18-88 rombps
+
+192.168.179.130  00-16-3E
+
+192.168.179.132 00-16-3E SMbps
+
+192.168.179.140 00-16 -3E obps
+
+192.168.179.146  80-1F-02
+192.168.179.156  00-16-3E
+192.168.179.166  00-16-3E
+91.138.20.1 28-94-0F
+
+192.168.179.223 14-CC-20 Icomingtraffic on interface WANZ favgl 1.08 Mbps 12055 Kbps _1.86Hbps 1e
+Hi Outgoingtraffic on interface WAN2 [avg] 110.2Kbps 48.57 Kbps 144,94Kbps 1
+
+LANL : 192.168.1.1/255.255.255.0, DHCP server: On
+
+Index IP Address MAC Address Leased Time HOST ID
+
+1 192.168.1.41  00-18-8B-DD-E9-67 FIXED IP
+
+LAN2 : 192.168.179.1/255.255.255.8, DHCP server: On
+
+Index IP Address MAC Address Leased Time HOST ID
+
+1 192.168.179.30 A4-9A-58 71:07:36 android-9274!
+
+2 192.168.179.31 64-6C-B2 71:20:03 android-d7 5!
+
+3 192.168.179.33 8C-BF-A6 71:42:25 android-5446!
+
+4 192.168.179.37 50-A7-2B 71:02:38 android-25d6i
+
+: 192.168.178.1/255.255.255.0, DHCP server: Off

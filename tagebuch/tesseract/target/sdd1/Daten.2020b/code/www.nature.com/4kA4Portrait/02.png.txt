@@ -1,0 +1,124 @@
+a Self-play s
+
+aS ——> = ——> = mp see $3
+MN 4\ ZN
+RONnON Rennes RON en
+
+Ss So S3
++ + t
+
+Figure 1 | Self-play reinforcement learning in AlphaGo Zero. a, The
+program plays a game sj, ..., sr against itself. In each position s;,an MCTS
+ag is executed (see Fig. 2) using the latest neural network fg. Moves are
+selected according to the search probabilities computed by the MCTS,
+a,;~ 7. The terminal position sz is scored according to the rules of the
+game to compute the game winner z. b, Neural network training in
+AlphaGo Zero. The neural network takes the raw board position s; as its
+input, passes it through many convolutional layers with parameters 0,
+
+and outputs both a vector p;, representing a probability distribution over
+moves, and a scalar value v;, representing the probability of the current
+player winning in position s;. The neural network parameters 6 are
+updated to maximize the similarity of the policy vector p; to the search
+probabilities 7r,, and to minimize the error between the predicted winner
+and the game winner z (see equation (1)). The new parameters are used in
+the next iteration of self-play as in a.
+
+repeatedly in a policy iteration procedure””*: the neural network’s
+parameters are updated to make the move probabilities and value (p,
+v) =fo(s) more closely match the improved search probabilities and self-
+play winner (7, z); these new parameters are used in the next iteration
+of self-play to make the search even stronger. Figure | illustrates the
+self-play training pipeline.
+
+The MCTS uses the neural network fy to guide its simulations (see
+Fig. 2). Each edge (s, a) in the search tree stores a prior probability
+P(s, a), a visit count N(s, a), and an action value Q(s, a). Each simulation
+starts from the root state and iteratively selects moves that maximize
+
+a Select b= Expand and evaluate
+
+A Repeat
+
+Figure 2 | MCTS in AlphaGo Zero. a, Each simulation traverses the
+tree by selecting the edge with maximum action value Q, plus an upper
+confidence bound U that depends on a stored prior probability P and
+visit count N for that edge (which is incremented once traversed). b, The
+leaf node is expanded and the associated position s is evaluated by the
+neural network (P(s, -),V(s)) =fo(s); the vector of P values are stored in
+
+an upper confidence bound Q(s, a) + U(s, a), where U(s, a) x P(s, a)/
+(1+ Ns, a)) (refs 12, 24), until a leaf node s’is encountered. Thi s leaf
+position is expanded and evaluated only once by the network to gene-
+rate both prior probabilities and evaluation, (P(s’, -), V(s’)) = fo(s’).
+Each edge (s, a) traversed in the simulation is updated to increment its
+visit count N(s, a), and to update its action value to the mean evaluation
+over these simulations, Q(s,a) =1/N(s,a) Vor sas! Vs" ) where
+s,a—s' indicates that a simulation eventually reached s! s’ after taking
+move a from position s.
+
+MCTS may be viewed as a self-play algorithm that, given neural
+network parameters @ and a root position s, computes a vector of search
+probabilities recommending moves to play, 7 = a¢(s), proportional to
+the exponentiated visit count for each move, 74x N(s, a)!/7, where 7 is
+a temperature parameter.
+
+The neural network is trained by a self-play reinforcement learning
+algorithm that uses MCTS to play each move. First, the neural network
+is initialized to random weights 0. At each subsequent iteration i> 1,
+games of self-play are generated (Fig. 1a). At each time-step t, an MCTS
+search 77; = ag,_,(s+) is executed using the previous iteration of neural
+network f,,_ anda move is played by sampling the search probabilities
+7. A game terminates at step T when both players pass, when the
+search value drops below a resignation threshold or when the game
+exceeds a maximum length; the game is then scored to give a final
+reward of ry € {—1,+1} (see Methods for details). The data for each
+time-step t is stored as (s;, 7}, Z;), where z;= try is the game winner
+from the perspective of the current player at step t. In parallel (Fig. 1b),
+new network parameters 6; are trained from data (s, 77, z) sampled
+uniformly among all time-steps of the last iteration(s) of self-play. The
+neural network (p, v) = f, (s) is adjusted to minimize the error between
+the predicted value v and the self-play winner z, and to maximize the
+similarity of the neural network move probabilities p to the search
+probabilities 7. Specifically, the parameters are adjusted by gradient
+descent on a loss function / that sums over the mean-squared error and
+cross-entropy losses, respectively:
+
+(p.v)=f,(s) and 1=(z—v)?
+
+where cis a parameter controlling the level of L2 weight regularization
+(to prevent overfitting).
+
+a" logp + c¢||6|/? (1)
+
+Empirical analysis of AlphaGo Zero training
+
+We applied our reinforcement learning pipeline to train our program
+
+AlphaGo Zero. Training started from completely random behaviour and
+
+continued without human intervention for approximately three days.
+Over the course of training, 4.9 million games of self-play were gen-
+
+erated, using 1,600 simulations for each MCTS, which corresponds to
+
+approximately 0.4s thinking time per move. Parameters were updated
+
+© Backup d Play
+
+i
+yas AN
+
+Cn]o?
+
+N NEN %
+
+AAA ABA A A A
+
+ua
+
+the outgoing edges from s. ¢, Action value Q is updated to track the mean
+of all evaluations V in the subtree below that action. d, Once the search is
+complete, search probabilities 7 are returned, proportional to N!/’, where
+Nis the visit count of each move from the root state and 7 is a parameter
+controlling temperature.

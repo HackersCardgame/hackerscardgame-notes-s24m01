@@ -1,0 +1,39 @@
+Activities GJ Terminal + Fri 19:07 dev A BY
+
+marc@debian: ~/Daten.2015
+
+Terminal Help
+
+ackage ch.marclandolt.applet;
+
+public class LochQuadrat extends java. applet. Applet
+{
+
+public void init() ()
+public void paint (java.awt.Graphics g
+{
+if(!lochQuadrat(g, 200, 200, 50, 100)) System.out.printin("Radius gr<94>sser als halbe Kantenl<84>nge.
+if(!lochQuadrat(g, 200, 200, 100, 50)) System.out.println("Radius gr<94>sser als halbe Kantenl<84>nge.")
+}
+public void LochQuadrat() {}
+
+public boolean lochQuadrat(java.awt.Graphics g, int xm, int ym, int r, int s)
+
+{
+if(/>s) return false
+int xO=xm-s.
+int yO=ym-s;
+for (int i=0; i<2*s; i++)
+{
+if ((s-iJ>r) g.fillRect(x0, y@, 2's, 1)
+else
+{
+int d = (int)Math.sqrt(Math.pow(r, 2)-Math.pow(s-i, 2))
+g.fillRect(x0,y0, d, 1)
+g. fillRect(x0+2's, yO+2*s, -d, 1)
+}
+}
+
+return true
+
+1,1 Top

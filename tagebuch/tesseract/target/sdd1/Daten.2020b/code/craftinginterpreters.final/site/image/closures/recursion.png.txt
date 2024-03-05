@@ -1,0 +1,12 @@
+resolveUpvalue (inner )
+call resolveLocal (middle)
+not found...
+recurse on enclosing ———————> resolveUpvalue (middle )
+call resolveLocal (outer)
+found it!
+add upvalue to middle
+capturing outer local
+found upvalue / +——______—. return middle upvalue index
+add upvalue to inner
+capturing middle upvalue
+return upvalue index

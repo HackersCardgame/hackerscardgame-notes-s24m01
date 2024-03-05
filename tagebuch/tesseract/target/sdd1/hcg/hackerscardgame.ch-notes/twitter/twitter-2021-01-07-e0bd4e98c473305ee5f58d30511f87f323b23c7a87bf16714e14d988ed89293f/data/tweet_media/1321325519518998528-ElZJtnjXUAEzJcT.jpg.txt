@@ -1,0 +1,14 @@
+Windows
+
+How to install tablet driver
+
+1. Download the diver by saving the fle to any easily
+accessible folder
+
+2. Double click on downloaded fle to runt
+23, Follow the Installation Wizard steps.
+4, Reboot computer
+
+NOTE: Connect USB cable between tablet and USB port of
+yur computer directly (Only Pen Tablets)
+

@@ -1,0 +1,89 @@
+ACCEpL-Laniguage: Ue-Un, en-US
+
+Content-Language: de-CH
+
+X-MS-Has-Attach:
+
+X-NS-TNEF-Correlator:
+
+Content-Type: multipart/report;
+boundary="_@@@_192bfFc23e344b3c899cFabFesf70Fdaagch_’
+report -type=disposition-notification
+
+MIME-Version: 1.0
+
+X-SM-outgoing: yes
+
+X-Vs-State: LEGIT
+
+X-Hostpoint -Spambox:
+
+No
+
+--_00_192bFFc23e344b3c899c FabFest70Fdaagch_
+Content-Type: multipart/alternative;
+boundary="_0@2_192bfFc23e344b3c899c fabFest70Fdaagch_’
+
+--_002_192bFFc23e344b3c899c FabFest70Fdaagch_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Ihre Nachricht
+
+‘An: Bauhofer Elisabeth GKAOG
+Betreff: Re: je mehr alles zur Z=FCrich Verischerung zur=FCck verfolgt w=
+erden kann desto mehr Terror macht diese Firma
+Gesendet: Mittwoch, 10. M=E4rz 2021 12:19:14 (UTC+@1:0) Amsterdam, Berl=
+in, Bern, Rom, Stockholm, Wien
+
+wurde am Mittwoch, 10. M-E4rz 2021 13:45:30 (UTC+01:00) Amsterdam, Berlin,=
+Bern, Rom, Stockholm, Wien gelesen
+
+--_@2_192bFFc23e344b3c899C FabFest7OFdaagch,
+Content-Type: text/html; charset="iso-8859-
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+
+<meta http-equil
+1>
+
+<meta name=3D"Generator” content=3D"Microsoft Exchange Server">
+
+- converted from text --><style><!-- .£mailquote { margin-left: 1pt; pad=
+ding-left: apt; border-left: #8@00@ 2px solid; } --></style>
+
+</head>
+
+<body>
+
+<font size-3D"2"><span style=3D" font-size: 10pt;">
+
+<div class=3D"PlainText">Ihre Nachricht <br>
+
+<br>
+
+&nbsp;&nbsp; An: Bauhofer Elisabeth&nbsp; GkAOG<br>
+
+&nbsp;&nbsp; Betreff: Re: je mehr alles zur Z=FCrich Verischerung zur=FCck =
+verfolgt werden kann desto mehr Terror macht diese Firma<br>
+
+&nbsp;&nbsp; Gesendet: Mittwoch, 1@. M=€4rz 2021 12:19:14 (UTC&#43;01:00) A=
+msterdam, Berlin, Bern, Rom, Stockholm, Wien<br>
+
+<br>
+
+&nbsp;wurde am Mittwoch, 10, M-E4rz 2621 13:45:30 (UTCR#43;@
+
+» Berlin, Bern, Rom, Stockholm, Wien gelesen. </div>
+</span></Font>
+
+</body>
+
+</html>
+
+D"Content-Type” content=3D"text/html; charset=3Diso-8859-=
+
+@) Amsterdam=
+

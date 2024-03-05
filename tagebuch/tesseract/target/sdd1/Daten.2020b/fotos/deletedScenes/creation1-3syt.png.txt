@@ -1,0 +1,26 @@
+© ew Java Project
+
+Create a Java project
+
+Create a Java project in the workspace or in an external Location
+
+Project nane: [Sample
+
+Contents
+
+Ooreate new project in workspace
+
+OCreate project from existing source
+
+IRE
+@se default JRE (Currently ’ jrel.5.0_11’) Configure JRE:
+
+Oltse « project specific JRE
+
+Project Layout
+@se project folder as root for sources and class files
+
+create separate source and output folders Configure default
+
+© Ghee >] (Bea) (tact
+

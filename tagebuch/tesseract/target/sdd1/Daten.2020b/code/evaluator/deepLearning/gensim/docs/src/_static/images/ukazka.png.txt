@@ -1,0 +1,16 @@
+{rom gensim import corpora, models, similarities
+
+# Load corpus iterator fom a Matrix Market fle on cisk.
+corpus = corpora. MmCorpus(/patitolcerpus mm)
+
+#Iniialze a transformation
+# (Latent Semantic Indexing wih 200 iatent dimensions.
+Isi= models siMode(corpus, num_topics=200)
+
+Convert ancther corpus tothe latent space and index it
+Index = similarities MatixSimlarity('sfanother_corpus})
+
+# determine similarity of a query document against
+‘each document the index
+‘ims = indesfquery]
+

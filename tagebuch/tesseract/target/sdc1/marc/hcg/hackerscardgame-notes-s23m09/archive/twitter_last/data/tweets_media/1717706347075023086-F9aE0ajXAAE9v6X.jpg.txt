@@ -1,0 +1,49 @@
+7 90:47:58 choose-mirror [30080] : DEBUI col F ir . debian
+
+s/bookworm/Release -0 - | grep -E ‘(Suite [et
+
+48:53 init: starting pid 353,
+
+9:15 init: process '-/bin/sh' or restart.
+
+9:08 choose-mirror [30080]: DEBUG: cE http: //deb.debian.org/debian
+ts/stable/Release -0 - | grep -E ‘*(Suitel
+
+27 0:50:26 kernel $33. 153462] 3 ice number 13
+27 00:51:01 kernel: 568.776461) zc device number 14 using xhci_h
+
+27 00:51:01 kernel: 568.980540] @, idVendor=ed6d, idProduct=c
+, beddevice=24.10
+27 00:51:01 kernel: 568.980554]
+per=0
+27 00:51:01 kerne 568 .980562]
+27 00:51:01 kerne 568.980567)
+27 @8:51:01 kernel 569000070] hiddevo, hidraw1:
+D v1.11 Device [Logitech USB Receiver] on usb-0000: 3
+; 27 @8:51:01 kernel: [ 569.139665] input: Logitec! ad Gen as /devices/pcieeee:00/0000: 00:1
+p/usb1/1-3/1-3.1/1-3.1.141-3.1. 1:1, 2/0003: 0460: C528. 80: @46D:4018.0013/input/input34
+t 27 00:51:01 kernel: [ 569.194066] logitech-hidpp-device 0003:0460:4018.0013: input,hidraw2: USB
+ID v1.11 Mouse [Logitech M215 2nd Gen] on usb-0000:00:14.0-3.1.1/input2:
+a kernel: [ 569.141635] input: Logitech K330 as /devices/pciceee:00/0000:00:14.e/usb1
+-1.1/1-3.1.1:1,270003:046D:C52B .0012/0003:046D:4016.0014/input/inputss
+{[ S69.141778] logitech-hidpp-device 0003:046D:4016.0014: input,hidraw3: USB
+KID v1.11 Keyboard [Logitech K390] on usb-0000:00:14.0-3.1.1/input2:2
+1:01 kernel: (€ S69.149569] input: Logitech Wireless Device PID:4e55 as /devices/pcioeee:
+4.0/usb1/1-341-3.171-3.1.171-3.1.1:1.2/0803: 8460: C528. 0012/0003: 846D: 4055. 0015/ input/ inp
+
+ct 27 @@:51:01 kernel: [ 569.149722] logitech-hidpp-device 0003:046D:4055.0015: input, hidraw4: USB
+HID vi.11 Mouse [Logitech Wireless Device PID:4@55] on usb-0000:00:14.0-3.1.1/input2:3
+
+jet 27 @@:51:02 kernel: [ 569.155551] input: Logitech K54e/K545 as /devices/pcieeed:00/0000:00:14.0
+fusb1/1-3/1-3.1/1-3.1.171-3.1.1:1.270003:046D:C52B . 0012/0003! 046D: 4076. 0016/ input / inputs?
+
+det 27 O@:51:02 kernel: [ 569.1557e7] logitech-hidpp-device 0003:0460:4076.0016: input,hidrawS: USB
+HID v2.11 Keyboard [Logitech K540/K545] on usb-0000:00:14.0-3.1.1/input2:4
+
+Oct 27 o 205 kernel: [ 5S?2.757520] logitech-hidpp-device 0003:046D:4076.0016: HID++ 4.1 device c
+onnected .
+
+Ings: Mfr=1, Product=2, Serial
+
+usB
+

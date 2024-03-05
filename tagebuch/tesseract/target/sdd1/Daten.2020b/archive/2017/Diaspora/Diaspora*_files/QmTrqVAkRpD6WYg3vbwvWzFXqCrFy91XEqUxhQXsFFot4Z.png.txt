@@ -1,0 +1,34 @@
+SOURCE: ShortList
+
+é
+a
+
+Protect your communications.
+
+The first step, Snowden says, is to encrypt your phone calls and texts.
+The easiest way to do that is with an app, Signal, that’s free and approved
+by computer security experts.
+
+Lock down your hard drive.
+
+If you don't encrypt your data, someone with your computer and basic
+skills could read all your files. Snowden’s fix? Turn on encryption on all
+your computing devices. It's pretty easy, and tools are built into Windows,
+Mac OS X, iOS, and Android.
+
+Keep your passwords straight.
+
+One of the riskiest online behaviors is reusing the same password for multiple
+sites. So if someone gets your password by hacking, say, an online store, and
+it's the same password as your email, you could be in a lot of trouble. Snowden
+recommends using a password manager to make unique, secure passwords for
+every site, and it will help you remember them as well.
+
+Turn on two-factor.
+
+Two-factor simply means that if you’re logging into a website, your password
+won't be enough — you'll need to certify it’s you by receiving a text message
+or emall. Snowden recommends turning two-factor on for everything that
+supports it, including Gmail, Facebook, Twitter, Dropbox, and your Apple ID.
+
+BUSINESS INSIDER,

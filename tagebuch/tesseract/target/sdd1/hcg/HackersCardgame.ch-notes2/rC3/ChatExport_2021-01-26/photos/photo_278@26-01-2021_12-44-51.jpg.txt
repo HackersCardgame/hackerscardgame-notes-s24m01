@@ -1,0 +1,17 @@
+0x8 ch/HackersCardga
+Inventor: Satan Year: ~2010
+Using a Network Monitoring Software like RRD, zenoss
+or zabbix to monitor your gear is on one hand a good
+idea, if someone donwloads gigabytes of data from
+some of your computers you would maybe notice that
+
+questions, especially not legitimate
+questions. On the other hand it's also not such a
+great idea, at least not with SNMPv2. Link-Stat is only
+one bit, but it would tell Satan, that you just enabled
+your laptop and if he has something like the m98 card
+
+SNMPv2 is hacked SNMPv3 whould also not make a
+big difference. on one hand YAY, on the other hand
+not that much of a YAY, but i'm Honey Pot anyway...
+

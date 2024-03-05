@@ -1,0 +1,15 @@
+Jahrliches Treffen
+der Wirtschaft mit der Lehrerschaft:
+
+Wirtschaft:
+"Wir brauchen einen Informatiker,
+zwei Zimmermanner, einen Akkord-Maurer,
+einen Elektriker und zehn Putzfrauen."
+
+Lehrerschaft:
+“Ich hab drei Einhorner, zwei Ponies,
+zehn Superhelden, zwei Geheimagenten,
+vier Spikes, eine Hexe und sechs Satanistinnen"
+
+PatternMatching: FAIL
+

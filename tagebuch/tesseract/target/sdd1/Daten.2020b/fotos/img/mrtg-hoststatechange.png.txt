@@ -1,0 +1,16 @@
+8.0
+
+6.0
+
+4.0
+
+Percent,
+
+2.0
+
+0.0
+
+Week 04 Week 05: Week 05 Week 07 Week 08
+
+Max Active Check % Change: 70 Average Active Check% Change: 10 Curent Active Check % Change: 0.0
+Max Passive Check % Change: 0.0 Average Passive Check% Change:0.0 Current Passive Check % Change: 0.0

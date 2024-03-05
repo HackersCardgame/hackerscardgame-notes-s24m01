@@ -1,0 +1,13 @@
+oO : . 15 ‘i ‘i 30|
+
+[lintewiew ~~] 10
+Mono, 44100H2
+32-bit float a
+| Mute | Solo |
+[1.0
+
+[ellabel Track ¥]
+
+)}————
+|
+

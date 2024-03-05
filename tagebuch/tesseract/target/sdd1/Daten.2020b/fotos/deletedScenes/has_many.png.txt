@@ -1,0 +1,7 @@
+Model: Order
+
+class Customer < ActiveRecor
+has_many :orders
+end
+
+ase

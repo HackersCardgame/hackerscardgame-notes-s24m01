@@ -1,0 +1,9 @@
+marc@windoof: ~/hackerscardgame-notes-s23m07
+
+View Search Terminal Help
+Marc@windoof :~/hackerscardgame-notes
+txt
+(1975c27f1c57418708421e44cdc6le7cO +tagebuch/2023/juli/SABOTAGE. txt |
+marc@windoof : ~/hackerscardgame-notes -s23m07$ []
+
+3m07$ md5sum tagebuch/2023/juli/SABOTAGE.

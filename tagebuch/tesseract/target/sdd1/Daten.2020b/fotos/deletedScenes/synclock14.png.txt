@@ -1,0 +1,12 @@
+[x[audior wv] 1.0
+Mono, 44100Hz 1
+32-bit float 0.05
+
+ol-10
+
+[xao2 +] 10
+Mono, 44100H2
+32-bit float 0.0-
+
+O10
+

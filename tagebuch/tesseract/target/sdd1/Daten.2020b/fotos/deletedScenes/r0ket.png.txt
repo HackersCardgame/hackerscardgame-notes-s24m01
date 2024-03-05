@@ -1,0 +1,95 @@
+USB BATTERY CHARGER vest POWER SWITCH VOLATGE MONITOR
+>
+= e g
+9 8 g
+ICS >
+oe om et
+mie vDDVBAT to aa
+Ea ape 10 “ 2 MF-MSMD035 is
+uF a ola
+5 5 R24 tk o vosr evi
+= cmp CHES SIAL24) star THERM a 3
+4 stare KIA s GE
+Ps 6 RE__ 2.2k ©,
+ol Le PROG [ {| __eexi_2
+alls Ale eal 10k s
+5 ys ae ———=xi_3 gule
+MCP73833 ~
+GND a
+GND GND GND GND GND GND GND GND
+MODUL BUS HACKER BUS POWER MANAGEMENRE; © POWER! GULATOR ©
+3 g g
+au § ls §
+GND a
+MO6X2PTH t our
+MODULA ssveexe 1 [> ]2 SO uBt UB2 16 soone_[iour voor [ oonr
+vec_exe_i2 fl" ]1_Busint mosl___s | Ta scx’ —}e nes —}e_ 2 si2301DS
+Es2_ ofS Te sc 5 8 me CTY apse oz] 03] ]_wcPi700 oT ony
+{8 7 Sb D: z 8 4 pad FET X} pad EET Td 49V3 EXP \
+i] 6 5 CL 2 10 af vec. EXP pe Es vec. EXP
+scx 4 {2 D]s wos BusINT i> Dfi2 veo ex a}2— cnn a}2— cnn aL
+ML 2 1 4 EXP 1 4 EXP. 1 4 EXP GND
+MODULB
+MO6X2PTH GND Mio" Mio"
+GND
+DISPLAY a LEDs,, , Ley, (optional) SD CARD 4MBit DATAFLASH NAVIGATION BUTTON
+S Bice
+ok veG_LCD ik apenesac 1o3
+fe 4u7 AIS fe SIM +1 rica tape | 1AB2
+> | cs Sl so a eine LEFT TABI >
+ut 1k AR IZ0128GG MOS! 3} 5) SCk GND —BIN2 81 pown Dummy [-2—BIN4
+Bh ais 2V0 EXP yoo AST vec os sab BINS 1 | yp
+Wl ssia sox J oix , Sa hc cs we Hb! :
+wos! 2 | Soa ik Ap feniesac GND 8” cxp COMMON
+GND RI7 LEDS MISO 7 19 AT45DB041D _
+cs + GND
+RESET 1k ar feniesac
+LEDs GND GND
+LED- —
+NC GND
+DD
+“ RADIO eno
+@ @ @
+S
+2
+100nF | 100nF | 100nF
+cis] ois] cis
+g FERRITE 49V9 BE T aa
+9
+162 2
+RESETIPIOO_o TuSPIOI_oiADUICTaaE_caPo [fF ——HOLTAGE = jc ROP RLOISMD
+Pl0o. ICLKQUTICT22B0_MATZIUSB_FTOBGLETDOPPIO! _1/AD2/CT328 1 MATO s 3
+PIOo_2/SSELICT1 680_CAPO TRSTIPIO1 Z/ADSICT2B1_MAT o al]
+PIOo_s/USB_VBUS SWDIOIPIO!_s/AD4/CT32B1_MAT2 ava oT
+PIOo_a/SCL PIO1_AIADSICT32B1_MAT3WAKEUP
+PIOO_SISDA PIOI_SIRTSICT32B0_CAPO
+PIGo_s/USB_CONNECTISCK PIO1 “BIRXDICTS2B0_MATO
+PIOo_7icTs PIOL_7TXDICTS2B0_MATI
+Pioo-aniSO/CTB0_MATo ol_eictieeicearo [P—POWER_GOOD
+PIOo_g/MOSICT16BO_MAT1/SWO PIO1_S/CT16B1_MATO pet
+SWCLK/PIOO_10/SCK/CT16BO_MAT2 PIO1_10/AD6/CT16B1_MAT1 [>——csh
+TDVPIOO_1 1/ADO/CT32B0_MAT3 PIO1_11/AD7 #2 _— Eps
+{2 S_DF
+PlO2_oIDTR a
+- fe cs
+i use_DM PIO2_/DSR
+a & USES —2ol Use_or Poxpocp 2 —LGD-RST
+Bak ss Pid2_sini 82 ——QHRG_STAT
+5S I =a + PIO2_4 [1
+Onn S XTALIN PIO2_S fs
+xtalour poss [——siNe
+[BIN
+ano pioes (2 Sad.
+vooisvs) ross {BIN}
+Ploz_io [22 S85
+[si scx
+joone | tone ODIO) Ploz_11/SCK
+oF Wssio Plos_o S——BESINT TITLE: r@ket
+|az ssa
+PIOa1
+vss rose SSS. ano
+[1s BINS [-
+PIOs_s Document Number: REU:
+Upor ase
+Date: 6/20/41 3:5@ PM [Sheet: 1/4
+

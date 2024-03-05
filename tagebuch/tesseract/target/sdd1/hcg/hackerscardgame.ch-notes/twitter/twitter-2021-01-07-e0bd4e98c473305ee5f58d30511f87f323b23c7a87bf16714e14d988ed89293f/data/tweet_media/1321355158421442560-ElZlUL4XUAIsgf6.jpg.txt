@@ -1,0 +1,26 @@
+)2 eo © @ biion/inkseae or “Ow nO® Or
+
+(8: Windows 10 pro GAD Tablet Wacom tues 4 pro & Cnt 16,
+Problem inkscape 1.0 doesn" ecognae the ables and pen pressure doesnt work
+
++. win bot Wacom nuos 4 & Cini 16 connected, neal nkscape-0.92 5.64 ee.
+“his version seems abl to recogne Its 4 but nt Cini 16. However, instal win oth devces connected to computer able fo mae recognize Cn 1628
+3. Goto Eat > Input Dewees
+
+44 Oninput Device, check each of 4 Wacom pen & eraser and select 'S
+
+etineseape
+
+5. Open C:users\useriame}AppData\Roaminginkscapelpreterences xn
+
+6 Unita inscape, Haske to Keep Preferences, check
+7 Restart computer
+
+9. Open inkseape by tablet pen
+
+10. Now, the pen presue opton on Pena & Brush shous
+
+Hope nis nett
+
+m 9843 Beain
+

@@ -1,0 +1,13 @@
+ABBEY ROAD REVERB TRICK
+
+The Abbey Road Reverb trick is essentially an EQ before the reverb
+ona send channel with a 600Hz hi-pass and a 10kHz low-pass.
+
+This technique eliminates annoying high-end frequency content
+and cuts out the low-end mud from the reverb which
+increases the clarity.
+
+It’s important to mention that the two frequency points are merely
+guidelines. Never be afraid to experiment with the range.
+
+PausePlayRepeat.com

@@ -1,0 +1,176 @@
+DFSG : :
+ms Understanding Debian
+— The universal operating system
+
+Software versions
+
+Sources (2014-03-20)
+
+Lastest versions always are
+incorporated in Sid (unstable).
+
+Experimental Unstable Testing Stable
+
+_ 3.13456 3.13456 3.2446)
+27.0.1-1 24.4.0esr-1 24.3.0esr-1 24.4.0est-1-deb7u2
+
+— 32.0.1700.123-4 32.0.1700.123-4 32.0.1700.1231-deb7ul :
+Distribution Popularity 7. gs
+2.1.2-2+b2 2.1.2-2+b1 2.0.3-5 ) —————saraatch.com
+
+0.48.4-3+b1 0.48.4-3+b1 0.48.3.1-1.3 ) ‘400! ; Distribution of a Registered Debian users
+48. 48 483.14. 00 TAZA SS Daren AO Regtered Detar users
+2.8.6-1 2.8.6-1 2.8.2-2 a / developers ” BBE HH
+
+* Courtesy
+3.8+4 3.8+4 3.447 . A around the world & finux Counter Project
+
+4.11.7-1 4.11.7-1 4.8.4-6
+
+Sakepoere
+
+Debian.net : Intended for:
+repositories
+
+Experimental: area for In general it is used to
+bleeding edge version incorporate a great set of
+and experimentation. It packages before going
+
+is used periodically. into unstable.
+
+1993 1994 1995 2001 2010 2011 2012 2013 2014
+
+Unstable f Release Process &
+- Unstable: also k SID, - 2,
+2001-07 < 4 the neighbor who broke toys. 2010-08
+
+i | r Eternally unstable. This is an
+
+2 area for package stabilization.
+Stable: when a new SID: Still in Development
+version is released, it
+gets a codename. The
+first codename was i
+Buzz, from Toy Story Testing: Jessie
+movie. 4 stabilization area
+
+for the distribution testing
+
+as a whole. It is version
+released as stable
+
+version when ready. Under the
+> —— ee Bw y ; DFSG, all
+changes made
+in Debian are
+made available
+to upstream
+authors,
+benefiting
+Debian itself
+and other
+distributions.
+
+DFSG
+
+siadojaaep pue
+siesn snoinzueapy
+
+jes9us5
+
+When a new version is
+0.91 released as stable, it
+immediately open space
+1994-01 in testing .Then a new
+cycle of distribution = 2011-02
+stabilization is started =
+for a future release. The
+
+0.1 Security process follows a
+1993-08 eam continuous and natural
+
+flow. A Debian Live: provides a
+framework to build
+
+SJaAseas pue
+siasn aAlzeAasuoD
+
+official or customized
+
+; Debian Live images to The Debian
+potato boot into Debian without Lenny Administrator's
+1996-12 1998-07 2000-08 2002-07 requiring installation. 2009-02 Handbook
+
+On 1993-08-16, lan New jogo) | 2003-08-16 f Debian Women: Seeks to provide Debian Mentors: 2011-08-16 \\
+
+Murdock announced 10 years of N f community. Actively engaged with Focused on helping 18 years.
+the birth of Debian. 1999-05 Debian Project - stakeholders and encourages women to iy new developers. ge of majority,
+
+5+© become more involved with Debian.
+
+sina ack 9
++ como — Gebian 2 =
+Claudio F Filho (filhocf) <filhocf@gmail.com> lj = ron a
+03/10/2013 - version 2.1 - Made with Inkscape. C)OOO @pebConr siz \DebConf 8 ¢ Rebéont) dati ; Re
+Understanding Debian is licensed under a\Creative BY NCSA Pure blend DebConf 1 De f5 "DebConf 9) : Opevconill “ °
+
+Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License - Sa you mi ” (dies, | Sia
+
+Vaumarcis
+ba Pure Blend: Debian Pure Blends
+Debian is a trademark of Software Public Interest Inc. . QBS Kea provide a solution for special groups of
+All trademarks are exclusive property of their respective owners. debian? med e : target users with different skills and
+All characters in the movie in the Toy Story movie are the property of Pixar/Disney. ' SCIENCE mistry interests.
+
+Many cliparts used here are from OpenCliparts.org project. 7 . {7 . Derivatives: Debian provides : iduction
+Derivatives afy ‘inspire 6) e ; a solid found f sit i io
+4 (ui .
+
+gpulinéx new custom
+
+|Get nvolved Firsts steps (easy) Participating more inside of Debian (medium)
+in the Developers’ Corner, like New
+
+Found a bug? Send a patch! intainers* ,
+d W Maintainers’ Guide, Debian Policy
+http:/www.debian.org/Bugs/ OO Manual or Debian Developer's
+
+Install, try and use = Reference.
+
+in your computer. Pp ) http://www.debian.org/Devel/ Cope nt toot mania
+http://www.debian.org/distrib/ =" cam
+
+Read the technical documentation
+
+ay
+
+Translate Debian web pages, manuals or cD = Do you like (promote meetings, , Subscribe in the devel lists, talk
+package descriptions. © Perecta 9 Adopt an orphaned package or start a packaging
+
+Participate in Debian Popularity Contest | ) » http://www.debian.org/doc/ddp parties on special with a new software, alone or by joing in a team. with other developers and join a
+
+; i x team with similar interests in
+Say "yes" at install time. It will help to http://www.debian.org/devel/website/ Debian days, or
+
+; B Debian Project.
+choose packages for the first CD/DVD : i i i presentations about
+and to assess user base for any package ( nttp://www.debian.org/international/I10n/ddtp Debian at IT events Help new developers coming in Debian Project as (i) WELCOME and ENJOY!
+
+http://popcon.debian.or in your city or a mentor. Learn from people experienced in
+pil/pop of country. packaging practices and learn to understand the
+
+http://www.debian.org/doc/ddp
+
+Found a bug? Report it! You can use
+the webpage or "reportbug" tool. y
+
+http://www.debian.org/Bugs/
+
+Write a manual, book or other Join to Debian Day. Debian way.
+materials that can help new users.
+
+Do you like
+to write?
+
+The Debian UU.
+

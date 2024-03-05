@@ -1,0 +1,93 @@
+(1) Lar x (1) Fa x | @ Rusta x Skype x | 4 Files) x | @ (17 «1 x Domir x | B https:) x | B https: x | B https: x | [B] Corsai x | 4 Files: x | [B] ASI
+
+S Cc OG https nullbox.ch/que >)
+
+H Apps © Debian.org © LatestNews © Help ‘ef AsRock Fatallty
+
+[["Was ergibt die Kubikwurzel aus 642","Mathematik",'"],["2","8","4","16"]]
+
+for i in $(seq 1 20000); do wget https://nullbox.ch/question.php -O $i; done;
+for f in *; do (cat "${f}"; echo) >> ../all.txt; done
+
+marc@debian: ~/Daten.2017/code/zschoekk
+
+File Edit View Search Terminal Help
+
+[["Wieviel einer Pizza bleibt Ubrig, wenn jemand zuerst einen Drittel und dann einen Viertel davon verspeist?","Mathematik","",1],["2\/5 Pizza","5\/12 Piz
+"3\/4 Pizza","1\/7 Pizza"]]
+ieviele Vetomachte gibt es im Sicherheitsrat der UN?" iti ™ 0),["5","22","3","13"]]
+weit ist die Erde von der Sonne entfernt?", "Physik 1), ©08'000 Km","1 AE" © Lichtjahre","15 Lichtminuten"]]
+den sehr kurze und eng anliegende Shorts fiir Frauen genannt?","Lifestyle","",0],["Hot Pants","Lot Tants","Shot Flants","Bot Rants"]]
+wird der tiefste Punkt der Erdoberflache genannt?","Geografie","",1],["Atlantis Dark","Challenger Deep","Discovery Black","Columbia Narrow"]]
+d die Zahl unterhalb des Bruchstriches genannt?", "Mathematik","",1],["Quotient", "Nenner", "Dividend", “Zahler"]]
+ird eine Wasserpfeife auch genannt?","Lifestyle","",0],["Schischa","Tschitsu","Schlitscha","Shiatsu"]]
+d ein Programmfehler auch bezeichnet?","Digital","",1],["Hog", "Bug", "Bee", "Fly"]]
+wird ein unveranderliche Grésse in der Physik genannt?","Physik","",1],["Fixum", "Konstante", "Unikante", "Axiom"]]
+"Wo begann die Industrialisierung? Wirtschaft","",3],["USA", "Frankreich", "Deutschland", "England"]]
+"Wo betatigt sich «Das Phantom» omic","",0], ["Im Dschungel", "In den Bergen" In der Wiiste","In der Grossstadt"]]
+["Wodurch wird das sogenannte Ma ktgleichgewicht bestimmt?", "Wirtschaft","",3],["Geld und Dienstleistung", "Kapital und Boden"
+ind Nachfrage"]]
+["Wodurch zeichnen sich Edelgase aus?","Chemie","",0],["Volle Valenzschale", "Wenig Protonen","Harter Atomkern","Keine Neutronen"]]
+["Wo findet alle fiinf Jahre die Documenta statt?","Kultur","",1],["Karlsruhe", "Kassel", "Bonn", "Augsburg"] ]
+["Wofiir steht die Abkiirzung «SUV»?","Lifestyle","",3],["Subtle Upperclass Vessel" ng Urban Vehicle","Slim Unity Van","Sport Utility Vehicle"]]
+["Woftir steht die Abkirzung «Yuppie»?","Lifestyle","",1],["You Only Party Once","Young Urban Professional","Youth Pro Earth","Yound Underage Pie Eaters"]
+
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+
+Arbeit und Lohn",
+
+i
+[
+[
+[
+if
+[
+[
+[
+[
+[
+[
+u
+if
+[
+[
+[
+]
+[
+
+["Woftir steht RAM?","Digital","",2],["Read Answer Machine","Random Alert Matter","Random Access Memory","Read Access Model"]]
+
+[["Womit wird die Ordnung der Elemente dargestellt?","Chemie","",1],["Elemententabelle", "Periodensystem", "Atomreihe", "Zyklusliste"]]
+
+[["Woran starb Michael Jackson mit 51 Jahren?","Unterhaltung","",2],["Uberdosis Kaffee", "Uberdosis Drogen","Uberdosis Medikamente","Uberdosis Alkohol"]]
+[["Worauf bezieht sich der Begriff «Kultur»?","Kultur","",1],["Auf alles Naturgegebene","Auf alles von Menschen Gemachte","Auf alle sichtbaren Gegenstande
+" "Auf alles"]]
+
+[["Wortiber regt sich Donald Trump beziiglich des amerikanischen Aussenhandels speziell auf?", "Wirtschaft", " ,L["Hohe Produktionskosten im Ausland
+Importe", "Negative Aussenhandelsbilanz", "Drogentberschuss"] ]
+
+[["Worum kiimmert sich die UNO-Organisation «WHO»?","Politik" ], ["Staatsverschuldung", "Gesundheit", "Menschenrechte", "Migration" ]]
+
+[["Wo steht im Jahre 2018 dass hdchste Gebaude der Welt?","Technik","",2],["New York", "Singapur", "Dubai", "Montreal"]]
+
+[["Wovon brauchen Computerspieler am besten viel?","Digital","",2],["MBS","TBD","FPS","BPS"]]
+
+[["Wovon ernahrt sich die Spinnen-Art «Portia» iologie","",0],["Spinnen", "Insekten", "Schlangen", "Mausen"] ]
+
+[["Wovor haben die unbesiegbaren Gallier in «Asterix und Obelix» Angst?","Comic","",2],["Dass sie von den Westgoten iiberfallen werden.","Dass Julius Caesa
+rs Rache nimmt.","Dass ihnen der Himmel auf den Kopf fallt.","Dass sie keine Wildschweine mehr essen kénnen."]]
+
+[["Wo wurde Napeleon Bonaparte geboren?","Geschichte","",3],["In Bastia","In Paris","In Nantes","In Ajaccio"]]
+
+/Daten.2017/code/zschoekk$ sort 1 all.txt il
+
+2017/code/zschoekk$

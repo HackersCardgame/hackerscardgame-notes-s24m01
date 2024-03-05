@@ -1,0 +1,31 @@
+Analytische
+Ontologie
+
+Data
+Data | Logic
+
+| Ontology vocabulary
+
+Digital Signature
+
+RDF + rdfschema
+
+XML + NS + xmlschem philoO2
+https://0x8.ch/HackersCardgame_2.0
+
+Die Analytische Ontologie ist eine
+Teildisziplin innerhalb der Analytischen
+Philosophie. Wie die klassische Ontologie
+untersucht sie die allgemeinsten Merkmale
+und grundlegenden ,Bestandteile“ der
+Wirklichkeit und wie diese _,ineinander
+greifen“. Sie fragt danach, was als
+fundamentale Arten des Seienden angenommen
+werden sollen (Dinge, Eigenschaften,
+Sachverhalte, Ereignisse, Prozesse etc.),
+wie diese zu verstehen sind und in welchen
+Abhangigkeitsbeziehungen sie  zueinander
+stehen.
+
+Grafik ist zum Thema Semantisches Web
+

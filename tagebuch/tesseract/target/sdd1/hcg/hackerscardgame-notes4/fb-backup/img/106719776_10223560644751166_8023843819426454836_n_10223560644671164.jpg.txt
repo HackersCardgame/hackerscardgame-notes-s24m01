@@ -1,0 +1,13 @@
+Das Scirpt meiner Wenigkeit mit dem ich 3&4 Lehrjahrs Lehrlinge
+zum Thema unterrichtet habe: https://marclandolt.ch
+/doc/KoaxialeAnlagen0.5.7.pdf?page=38 der Pegel ist afaik
+irgendwo bei 67dbuV, also tiber den 63dbuV Planungspegel. Auch
+geht das aktuelle Modem problemlos. Bei Docsis 3.1 ist ja afaik
+
+einfach ein zwei weitere Transport-Stréme mdglich, sonst sollte
+sich also nichts andern also tippe ich da schwer auf irgend nen
+Hack, entweder der Firmware-FTP Server oder Etterfilter (Deep
+Packet Injection / ich bin versucht zu sagen Mongo in the middle
+aber technisch korrekt heisst es Man in the Middle)... ich werde das
+auch auf Twitter stellen damit die anderen Gleichaltrigen und
+

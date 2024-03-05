@@ -1,0 +1,22 @@
+DHCP Server Configuration
+© Enable Server © Disable Server
+CEnable Relay Agent
+
+Start IP Address 1192.168.179.30
+
+IP Pool Counts 69
+
+Gateway IP Address [192.168.179.3
+
+Lease Time 259200
+
+(s)
+
+@ Clear DHCP lease for inactive clients periodically.
+
+DNS Server IP Address
+
+Primary IP Address
+
+Secondary IP Address
+

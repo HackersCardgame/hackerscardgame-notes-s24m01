@@ -1,0 +1,22 @@
+Inventor: 77777777
+
+Action 1
+Action 2
+
+Action n
+
+~2222
+
+Specific Events can trigger Actions, Events could be
+Sounds, tuning on Light-Switch (maybe evaluated by
+Emartmeter and the a list of what device uses how many
+wats), mages, Automatic Behavior Recognition, websites
+(ors), Buttons or Mouse gestures on a computer, Handy
+for even if you draw a circle with your hand inthe air. One
+an racognize events with Al (Pattern Recognition, Deep
+
+Learning.)
+
+For Example if Jrg S. would have fired illegally with 9
+pee ata tld cM ea drt ae
+

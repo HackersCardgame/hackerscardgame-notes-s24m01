@@ -1,0 +1,23 @@
+® Installation of the software
+
+1. Format the key
+
+Papershow For Office
+ra cmmeuomgenew PAPERSHOW™ installation for MacOSX, you need to
+
+format the Papershow flash memory key in the FAT file system.
+
++ Inthe 'Finder' application, open the ‘Applications’ section.
++ Browse in the Utilities folder.
+
++ Run the Disk utility application.
+
+* Select the 'NO NAME! removable disk.
+
++ Select the Erase tab and the MS DOS file sytem.
+
+* Click on the Erase button.
+
+A Papershow pen: You should have bought a Papershow kit
+compatible with Windows and MacOSX . Only the pen called
+'Papershow vi.1' can be paired with an Apple MacOSX.

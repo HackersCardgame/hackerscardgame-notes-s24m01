@@ -1,0 +1,15 @@
+Remote Server
+Service type: FTP (with login) Y
+(Use GNOME Keyring Manager for authentication
+Alias: ftp.marclandolt.ch
+Server: ftp.marclandolt.ch
+Optional information
+Port:
+Folder: U
+
+Username: marcland
+
+Password: 9°
+
+Help Cancel Ok
+

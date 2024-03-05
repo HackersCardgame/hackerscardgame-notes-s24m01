@@ -1,0 +1,33 @@
+apropos wissenschaftlicher part und esotherischer part
+in diesem fall ware schizophrneie ein vorteil, hiesse das sind alles menschen die genug anti-intelligenz-doof sind um neiht nur
+eine geschichte mit zu bekonmen..
+
+Fri Aug 13 01:35:03 CEST 2021
+383 1987 18762 IRATEMONK.txt
+
+[main 4f060b2] save
+
+1 file changed, 7 insertions(+)
+
+defde59905dbd40a206374dc6Fd07a569ad6bdc59c788b21bddfc96b397dccced38037d9739da851677d682a6057225bbal f0ea637e432Fac30622561efacd0
+TRATEMONK. txt.
+
+also der technische part ware jetzt allenfalls mal klar wo dsa problem liegt, das will schreibrehcte auf den datentrager...
+
+dann kann ich ja keine fehler zugeben, also gebe ich einen fehler zu, das ist NICHT weil der datentrager nur read only ist,
+sondern das Knoppix wurde irgendwo zwischen meinem windows computer und meinem offline laptop mit einem “modul" erweitert, die
+knoppix datenpartion unsauber auszuhangen, dann wurde das zuriick dateiert, es ist weil Knoppix viel vorher entschieden hat da
+reiser fs dafiir zu nehmen [ware eine ExitStrategie / tarnung der iibertragung] alos so wie die chemitroden afaaik dann geziindet
+werden bevor ich in die badewanne gehe und dann behauptet wird es sei wegen dem gift im wasserleitungssystem
+
+dennoch filesystem mit hash ware allenfalls etwas sinnvolles.
+
+Fri Aug 13 01:56:31 CEST 2021
+
+396 2131 19827 TRATENONK.txt
+[main cd99a7f] save
+
+1 file changed, 8 insertions(+)
+€252c6473cSddac20bd4eebc62f1ce8348fd3a5747e8 f9465d104b9c7b7275b227 3abobfd91b38adf065a149f8d1592af96829a128Fd057 F359debb521c95662
+TRATEMONK. txt
+

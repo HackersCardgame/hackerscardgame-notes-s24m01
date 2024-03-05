@@ -1,0 +1,11 @@
+UML Model
+
+Java Model Reverse Engineering
+
+Options:
+IM Use the bytecade reverse engineering engine.
+
+I Ignore existing UML annotation
+
+al
+

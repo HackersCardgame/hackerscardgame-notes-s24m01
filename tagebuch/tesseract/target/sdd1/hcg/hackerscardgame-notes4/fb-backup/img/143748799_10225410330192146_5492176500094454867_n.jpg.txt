@@ -1,0 +1,39 @@
+_ 2 oF
+
+(=
+
+Conmand “gnome-termianl” not found, did you wean:
+it Linc enor Lite a peaaheGARSRSSCAHT” cham SoEIS oesiur eevee, cannot open Alga sevlee “detaut
+(ieee 1ibGl error: failed @ Such file or directory
+
+bck reer: fatlee [9900563e19fH2c30] main audio output error: module net functions
+[e0097#0acce3#750] main decoder error: felled to create audio output
+
+ALSA Lib confmisc.c:767:(parse_card) cannot find card ‘9
+ALSA Lib conf.c:4528:( snd config evaluate) {unction snd func card drive
+fat fed error: No such file or directory
+ALSA Lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA Lib conf .c:4528: (snd config evaluate) function snd func concat returned
+ree] such file or directory
+i) ALSA Lib confmisc.c:1246:(snd_func_refer) error evaluating nanc
+ALSA Lib conf.c:4528:(_snd_config @valuate) function snd_func_refer returned err
+
+vets b conf.c:5007: (snd_con uate erro ar directo|
+
+1 expand)
+
+'b pem.¢:2495; (snd_pcm_open_noupdate) Unkn
+[o000s63e191b2c30] alsa au
+
+9 such file or directory
+[e0e0563e19#62c30] main audio output error: osule not functions
+[o0007f03cce3#750] main decoder error: failed to create audio owtput
+Object: :-O0bject: Timers cannot be stopped fron another threat
+marc@DESKTOP-4129AN1:~s cd /nnt/d/ilackerscardgane?3
+mmarc@DESKTOP-4129AN1: /nnt/d/HackersCardgame23$ ff
+
+own PCM
+‘output error: cannot open ALSA device “defau
+
+nom
+

@@ -1,0 +1,67 @@
+| maunt-Optonen toreeisers- Li x | @ mounts —manpages-de—Dr x | @ Never Tos 1X | © Reise mount options |i filesystems -Remount root RW KW. Cy
+
+e5¢ 8
+
+WIKIPEDIA
+
+Die freie Enzyklopiidie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+‘Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+
+ined org/wk/Cryptoga
+
+ene ie been res
+
+x o+ eo = ox
+an a@®
+
+ston TB twain
+
+LW Sondemiidepenie. ff Te 128ESTRnet  Auso Pu
+
+2 Nicht angemeldet Diskussionsseite Beitdge Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte __ Wikipedia durchsuchen Q
+
+Cryptographic File System
+
+Das Cryptographic File System (CFS) ist ein auf einen NFS-Daemon aufsetzendes verschliisseltes Dateisystem, das unter
+verschiedenen unixahnlichen Betriebssystemen (wie z. B. BSD und Linux) eingesetzt werden kann. Es wurde von Matt Blaze bei AT&T
+Research entwickelt und unter der BSD-Lizenz freigegeben. Die von der aktuellen CFS-Version von Matt Blaze unterstiitzten
+Verschliisselungsverfahren sind DES im Hybridmodus mit zwei Schliisseln, 3DES mit drei Schitisseln, Blowfish mit 128-Bit-Schliissel,
+MacGuffin und SAFER-SK128.
+
+Eigenschaften von CFS:
+« Einfache Installation und Wartung
+
+* Funktioniert auch auf NFS-Freigaben
+* Sicherung der Daten auch im Betrieb auf ein geoffnetes Verzeichnis
+
+Weblinks [Bearbeiten | Quetitext bearbeiten |
+# CFS-NFS A Cryptographic Filesystem&? Projekt-Homepage von CFS auf SourceForge.net (engl.)
+© Crypto File System - Sesam schliefe dich!©@ Artikel auf Pro-Linux
++ Encrypting your Disks with Linux¢# Artikel des Kélner Chaos Computer Clubs (engl)
+« Kryptographische Dateisystemet® Artikel der FLUG (Freiburger LUG)
+

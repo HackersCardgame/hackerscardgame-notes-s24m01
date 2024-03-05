@@ -1,0 +1,34 @@
+[[e] Abstract Factory Facade Proxy
+
+Adapter [eS] Factory Method Observer
+
+Bridge Flyweight [| singleton
+
+[S| Builder Interpreter State
+
+Chain of Responsibility Iterator Strategy
+Command Mediator Template Method
+Composite Memento Visitor
+Decorator [TE] Prototype
+
+https://0x8.ch/HackersCardgame/7
+
+Inventor:
+
+Design Patterns sind funktionierende
+Losungsschablonen fur wiederkehrende
+Designprobleme in der Architektur, in der
+SoftwareEntwicklung aber auch in Psychologie und
+Soziologie.
+
+Ein Design Pattern besteht normalerweise aus
+mehreren Klassen (Schablonen oder Objekte). Ein
+einzelnes Design Pattern ist eine Sammlung von
+verschiedenen Schablonen. Z.B. die Form einer
+einzelnen Treppenstufe und die  Bauplane
+(Stahlarbeit oder Holzarbeit) fur das Gelender und
+z.B. die Montageanweisung des Teppichs.
+
+Psychology: Archetypes
+Sociology: Archetype Combinations
+

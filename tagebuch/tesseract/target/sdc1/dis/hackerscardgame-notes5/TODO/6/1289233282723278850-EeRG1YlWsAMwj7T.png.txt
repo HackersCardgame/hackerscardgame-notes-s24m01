@@ -1,0 +1,83 @@
+<>¢@
+
+1 Home/Twit' | @ ()Facebock | © nerdpoteh* | @ nerdpoleh* | @ Skype {6 esoterikcor | @ O4)Pinere | G Das-+Astols | w Home /Twitl | CTweetDeck | G minedlsatm | BI BashHiston) | w Starsete/7 | Ww Oftby-o° x [kx
+oa iipeia.org : a -oF NOSwa =
+
+Rrucnt angemeldet Dshussonssete Setrige Bonutzetenterstlen Anmelden
+
+Artikel Diskussion Lesen Gearbiten  Queltet bearbeiten Versionsgescichte a
+
+x
+
+WIKIPEDIA
+Direc Bayle
+
+Houptsote
+2uftge tel
+
+Srigen
+‘atrenpetal
+vite
+
+Unk uf dee Sete
+
+edeungeg 29
+
+Spevabten
+‘Wana Ostenbjot
+
+inadaen
+ngieh
+
+espaol
+
+Frongls
+
+alone
+
+es
+
+Pycemt
+
+Ting Wt
+
+ox
+
+@ ‘Mach mit bein Wettewer Wikipedia Artikel brauchen Fotos" und gewinne einen Preis.
+
+Off-by-one-Error
+
+Ein Offby-one-Error oder Of-by-one-Fehler (deutsch etwa Um-Eins-daneben Fehler! oder Plus:minuseins Syndrom 2] abgekbrzt OBOE), scherzhaft auch KEUSTAMIET da Shnlich kingend, oder =1-Problem, bezeichnet in der
+Informatik einen Programmierfehler bel dem eine Zahlenangabe oder eine Anzahl ausgefuhrter Schritte um 1 2u gf08 oder 2 Kein st. Zum Beispil ist die Grd8e eines Speicherblocks um 1falsch oder es wird in einem Putter um einen
+‘Schrit zu wetin den Speicher geschrieben, wobei der Speicher eines anderen Putters bzw. einer Variable Uberschrieben wird 2)
+
+Inhalteverzelchnis (verbe9e0)
+1 Allgemeines
+
+2 Haurig Ursachen (Auswahl)
+3 Folgen
+
+4 Beispiele
+
+5 Weblinks
+
+Allgemeines oesibeiten| oueitext bearbeiten
+Ooftby-one-Feerereignen sich oftim Umgang mit Datenfldern, Arrays, Vektren,Lsten, Zeichenketen oder anderen inazierbaren Datentypen.
+
+Oftby-one-Febier kénnen leicht unterlaufen und sind sehr schwer2u finden, vor allem, da se sich sehr aufig nur unter ganz speziellen Bedingungen bemerkbar machen, Auch bel der Durchsiht des QueltexteskBnnen sie seh leicht
+Aersehen werden Erschwerend kommt hinzu, dass ndizes oder Offsets im Queltext meist durch Vaiablen oder Formelngebildet werden. MaBnahmen von Compiler/ntrpreter oder gat Betrebssystemen, die ein Uberschreiten einer
+Putfergrenze um jedes einzeine Byte registrieren, greifen auch nur in dem Spezafal, das der gesamte reserviertePutfer genutt werden so
+
+‘Wenn ein Offby-one-Fehler gefunden und okaliser ist st erin der Regel sehr einfach zu beheben,
+
+Hiufige Ursachen (Auswahl) (sesrsten| austen barbeten 1
+sib verschiedenste ehlerutsachen, de im Ergebnis au einem Offby one ror fen, Besplete
++ Ene huge Fehlerquele it der Unstand, dass man be der Programmierung das Z3hlen hSURQ Bel OBeginnt und nicht mit (2ero-based numbering). Be einem Array mit 10 Daenfeldernbedeute ds, dass ce Datenfeder nicht ie
+Indies 1 bis 10 haben, sondern de Indices 0 bis
++ Eine weitere huge Felerquel it de Verwending von Nulbytes, vor allem bei Zechenketten, ao Text. Oas lye it en in Textncht vorkommendes Zechen mitdem Wert O und marker das Ende einer Zeichenkete, wahrend
+der eigentiche Puffer fr die Zeichenkete um ein Viefaches grS8er sin kan, Dadurch muss man bel variaben Ptferinhalten de Putlergrte nicht stndig verdndern und ebenco die Lange der Zeichenkete nicht separatangeben
+Durch das Nulbyte seine Zechenketealrdingsprinzpell um ein Zechen anger, as ie Zeichenkete an ich ang st Belspelweise it de Zeichenkette Hallo" somit 2war5Zeichen lang, Bendigt aber 6 Zeichen im Speicher
+Funtionen die dle Lange einer Zeichenketeermitein und zurickgeben, ziblen das Nulbyte nicht mit
++ offbyronesFeherteten auch hut as Folge sogenannter Zaunpfahifenier aut, also durch ae Verwechslung von Distanzen und Anzahien be er indiierung,
+
+Pelee tetcienQumbettnadent

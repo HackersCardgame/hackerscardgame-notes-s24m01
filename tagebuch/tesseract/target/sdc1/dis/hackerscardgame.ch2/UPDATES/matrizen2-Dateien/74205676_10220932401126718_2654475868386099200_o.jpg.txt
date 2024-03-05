@@ -1,0 +1,6 @@
+C64 ASSEMBLER
+
+LD A, (al6)
+3 16 4
+
+Even better

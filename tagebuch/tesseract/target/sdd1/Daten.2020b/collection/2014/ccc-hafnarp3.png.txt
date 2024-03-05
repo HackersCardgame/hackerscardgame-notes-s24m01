@@ -1,0 +1,475 @@
+Krypto fiir die Zukunft
+ued
+
+(Wein Kleiner Rant diber
+Elliptische Kurven,
+‘Quantencomputer, Bitcoins
+und die NSA et al.
+
+Funky File Formats
+Ange Albertini
+
+‘Advanced binary tricks to:
+‘evade identification or
+detection - exploit encryption
+‘or hash collision
+
+EFI bootkits for Apple
+MacBooks.
+
+Trammell Hudson
+
+Inthis presentation we
+‘demonstrate the installation
+of persistent firmware
+‘modifications into the EFI boot
+ROM of Apple's popular
+MacBooks. The boothit can be
+‘easily installed by an evil-maid
+
+‘osmo-gmr: What's new?
+tnt
+
+‘At 29C3 we introduced the
+very first steps of the
+‘osmo-gmr projects. During
+this talk, we will present the
+various advances that have
+been made in this project on
+various aspects (voice codec,
+crypto algorithm, ..)
+
+Lightning Talks Day 2
+gedsic
+
+Lightning Talks are short
+lectures (almost) any congress
+Participant may give! Bring
+your infectious enthusiasm to
+‘an audience with a short
+attention span! Discuss a
+program, system or technique!
+Pitch your projects and ideas
+
+GIFs: Tod eines
+Mediums. Und sein
+Leben nach dem Tod.
+Felix Mitze
+
+|Im Grunde sind GIFs Schnee.
+von gestern. Es gibt zahlreiche
+AAlternativen, die das, was ein
+GIF kann, besser kGnnen. Und
+trotzdem haben sich GIFs als
+kKuiturtechnik durchgesetzt.
+
+Cyber Necromancy
+Joseph Tartaro, Matthew
+Halchyshak
+
+Reverse engineering is not all
+binaries and byte-code. The
+black art also extends to
+networks and unobtainable
+{game servers. In this talk we
+0 into the gruesome details
+‘of how we dug through the
+
+lrauovards af rrnenie hinarios
+‘Attacks on UEFI
+security, inspired by
+Darth Venamis's misery
+and Speed Racer
+
+Rafal Wojtczuk, Corey
+Kallenberg
+
+‘On modern intel based
+‘computers there exists two
+powerful and protected code
+regions: the UEFI firmware
+
+{Im Vortrag sollen technische
+und gesellschaftliche
+Konsequenzen vom Microsoft
+kontrollierten Windows 8
+Secure Boot Architektur und
+rmogliche Gegenmassnahmen
+diskutiert werden,
+
+Lightning Talks Day 3
+Theresa
+
+Revisiting SSL/TLS
+Implementations
+Sebastian Schinzel
+
+We present four new
+Bleichenbacher side channels,
+and three successful
+Bleichenbacher attacks
+‘against the Java Secure Socket
+Extension (SSE) SSUTLS
+implementation and against
+
+DPS: PIR for Privacy-
+preserving Presence
+Tan Goldberg, George
+Danezis, Nikita Borisov
+-<pin the wake of the
+Snowden revelations andthe
+‘explicit targeting of address
+book and buddy list
+information, social service
+providers may wish to actively
+
+Virtual Machine
+Introspection
+
+Tamas K Lergyel
+
+"New methods and approaches
+for securing cloud
+‘erwironments are becoming
+increasingly more critical as
+traditional host security
+strategies are not wel
+integrated into virtual
+
+Lightning Talks Day 4
+breakthesystem
+
+UNHash - Methods for
+better password
+cracking
+
+Tonimir Kisasondi
+
+This tlk will show a new
+method for password cracking
+called UNHash, UNHash as a
+tool uses rulefiles that are
+something in between of a
+DSL (Domain specific
+
+Finding the Weak
+Crypto Needle in a Byte
+Haystack
+
+Ben H.
+
+Using the same stream cipher
+key twice is known to be a Very
+Bad Idea, but keystream-
+resuse vulnerabilities are stil
+very much a thing ofthe
+present - both in legitimate
+
+Beyond PNR: Exploring
+ine systems
+
+saper
+
+Ever wondered what the
+‘ayptic <code>QNY27R</code>
+‘on your airline reservaton,
+means? This talk explores
+typical computing
+‘erwironment as seen in the air
+transport industry. Discover
+
+Tiny trustworthy secure
+modular operating
+systems
+
+hhannes, David Kaloper
+
+We present Mirage 05, a
+modular library operating
+system developed from
+scratch in the functional
+programming language
+‘OCaml. Each service, called
+
+SCADA StrangeLove: Too
+‘Smart Grid in da Cloud
+‘Sergey Gordeychik, Aleksandr
+Timorin
+
+For two years SCADA
+StrangeLove speaks about
+Industrial Control Systems and
+nuclear plants. This year we
+‘want to discuss Green Energy.
+‘Our hackers vision of Green,
+Crypto Tales from the
+Trenches
+
+"Nadia Heninger, Julia Angwin
+Julia Angwin and Jack Gillum
+will tellus stories about how
+they use crypto and privacy-
+‘enhancing technologies as
+high-profile journalist, and
+rant in an entertaining way
+about how these tools have
+
+‘The Matter of
+Heartbleed
+
+Zakir Durumeric
+
+‘The Heartbleed vulnerability
+‘took the Internet by surprise in
+April of this year. The
+‘winerabilty was one of the
+‘most consequential in the
+history of the Internet, since it
+allowed attackers to
+
+Eye Wear Computing
+ai Kunze
+
+The talk gives an overview
+about the emerging field of
+‘smart glasses and how they
+‘an be used to augment our
+mind (e.g. how to improve our
+brain with technology) The
+talkwill focus mostly on how
+‘to-quantity cognitive tasks in
+
+Security & Hacki
+
+Code Pointer Integrity
+gannimo
+
+Programs are full of bugs,
+leading to vunerabilities. We'l
+‘discuss power and limitations
+‘of code-pointer integrity (CPD),
+2a strong but practical security
+policy that enforces memory
+safety forall code pointers,
+protecting against any form of
+Fantrl-flow black attark fo @
+EMET5.1-Armor or
+Curtain?
+
+René Freingruber
+
+EMET (Enhanced Mitigation
+Experience Toolkit) is an
+application which can be used
+to further harden a Windows
+system by adding additional
+‘security protections to running.
+processes. These protections
+
+ECCHacks
+jb, Tanja Lange
+
+This talk will explain how to
+work with elliptic curves
+constructively to obtain secure
+and efficient
+implementations, and will
+highlight pitfalls that must be
+avoided when implementing
+elliptic-curve crypto (ECC). The
+
+Other
+
+Automatically Subtitling
+the C3
+
+timebaumann
+
+Transcribing a talk comes,
+relatively easy to fast typists,
+whereas turning a transcript
+into time-aligned subtitles for
+‘a video requires a much larger
+human effort. In contrast,
+‘speech recognition
+
+Uncaging Microchips
+Peter Laackmann, Marcus
+Janke
+
+‘An entertaining, thriling and
+‘educational journey through
+‘the world of chip preparation.
+Deep insight into amateur- as
+well as professional methods
+‘and equipment is given, for
+‘the first, most important steps
+
+foe analucic and attarke nn
+‘The Internet of TR-069
+‘Things: One Exploit to
+Rule them All
+
+ior
+
+TR-069 isthe de-facto
+standard remote management
+protocol that ISPs
+‘surreptitiously use to control
+‘consumer-premises
+‘equipment (these would be
+
+Ich sehe, also bin ich
+Du
+
+starbug
+
+Viele
+‘Authentifizierungsverfahren,
+koennen mit Hilfe von
+Kameras beobachtet und so
+"gehackt" werden, Der Vortrag.
+soll zeigen, dass man sich
+<dafuer nicht mebr in der
+
+Unlocking the
+bootloader of the
+BlackBerry 9900
+
+Alex
+
+Inthis talk, Iwill show how to
+unlock the bootloader of a
+BlackBerry9900 using 3
+different exploits chained
+together, and also how to fully
+‘compromise any Pre-0510
+
+‘Switches Get Stitches
+Eireann Leverett
+
+This talk will introduce you to
+Industrial Ethernet Switches
+nd their vunerabilties. These
+are switches used in industrial
+‘environments, like
+substations, factories,
+refineries, ports, or other
+‘other homes of industrial
+
+Glitching For noobs
+exide
+
+Despite claims ofits
+‘obsolescence, electrical
+alitching can be a viable attack
+vector against some ICs. This
+presentation chronicles a
+‘quest to learn what types of,
+electrical transients can be
+introduced into an integrated
+
+Do you care about
+babushka processors?
+Rudolf Marek
+You definitely should care. The
+{aim ofthis talks to provide
+insight to the security,
+architecture and yes you
+‘guessed it, vulnerability ofthe
+‘AMD System Management
+Unit (SMU) firmware found in
+Heartache and
+Heartbleed: The
+insider's perspective on
+the aftermath of
+Heartbleed
+
+Nick Sullivan
+
+Two weeks after the
+Heartbleed bug was
+‘announced, CloudFlare
+natched the Hearthieed hue
+
+(In)security of Mobile
+Banking
+
+ercfliol, Paul Irolla
+
+This talk presents a deep
+analysis of banking mobile
+‘apps available in the world.
+Based on static and dynamic
+analysis as well as on the
+‘analysis ofthe final source
+‘code we show that avast
+
+Practical EMV PIN
+interception and fraud
+detection
+
+‘Andrea Barisani
+
+This talks follows our previous
+EMV research uncovering new
+findings as well asa detailed
+analysis of Chip & PIN fraud
+markers in order to benefit
+cardholders, as well as issuing
+
+‘The Perl Jam: Exploiting
+a20Year-old
+Vulnerability
+
+‘Netanel Rubin
+
+tide EXPLOIT ALL THE PERL.
+We chained several of Pers,
+ridiculous syntax quirks in
+‘order to create a surprisingly
+powerful attack bringing down
+‘some of the most popular
+
+Mining for Bugs with
+Graph Database
+Queries
+
+fabs
+
+While graph databases are
+primarily known as the
+backbone of the modern
+dating world, this nerd has
+found a much more
+interesting application for
+
+Mobile self-defense
+arsten Nohl
+
+We know that mobile networks
+‘can — and do — attack us on
+‘many fronts. As ths talk will
+show, even 3G or 4G are
+attackable. Its high time that
+‘we upgrade from complaining
+toself-defense.
+
+$87: Locate. Track.
+Manipulate.
+
+Tobias Engel
+
+‘Companies are now selling the
+ability to track your phone
+number whereever you go.
+With a precision of up to 50
+meters, detailed movement
+profiles can be compiled by
+‘somebody from the other side
+
+ATale of Commercial
+Malware and a Spy
+Operation
+
+‘, gad

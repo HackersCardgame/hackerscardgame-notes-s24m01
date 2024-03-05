@@ -1,0 +1,16 @@
+Piturtary gland
+
+Inventor Goit Year -0
+The hypophysis (gr. ‘Yméguot.g hypdphysis) is a
+hormonal gland, which plays a central role in the
+regulation of the hormone system in the body. It is
+a kind of interface with which the brain regulates
+the release of hormonal processes such as growth,
+reproduction and other metabolisms
+
+Use Cases
+
+Controls the hormonal system of the human body,
+can be influencet with chemical substances, as
+well as with conditioning, sport...
+

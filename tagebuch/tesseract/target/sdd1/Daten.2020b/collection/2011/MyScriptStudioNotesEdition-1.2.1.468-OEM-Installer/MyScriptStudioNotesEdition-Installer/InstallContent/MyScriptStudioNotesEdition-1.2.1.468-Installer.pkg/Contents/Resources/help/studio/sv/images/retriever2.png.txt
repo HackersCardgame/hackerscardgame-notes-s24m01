@@ -1,0 +1,15 @@
+S MySerpt inthe
+
+MyScript InkRetriever
+‘Om | nstaingsrférhamting | Enhetsnstlningar
+nstaillningar for lagring av black
+\Valj mapp for lagring av blackfiler:
+\C:\Users \adrienne Documents \MyScript Documents |notes \ink Devices
+
+Avancerade instalningar
+Radera fler fn eneten efter nedladdning
+‘Skriv éver existerande fler med samma namn
+‘skanna alla USB-enheter
+
+‘Starta automatiskt nér Windows startar
+

@@ -1,0 +1,16 @@
+gram Dependencies Options
+Project Libraries
+
+Select the libraries to filter dependencies shown on diagram
+
+Select the elements:
+
+> CBATRE System Library [jdk1.5.0_09]
+OG mytibjar
+
+> C>org.eclipse.core.runtime
+OG orgeclipse.swt.gtk.linux.x86_64_3.2.1.v3235,jar
+> Ot-org.eclipse.ui
+
+1G runtime_registry compatibility jar
+

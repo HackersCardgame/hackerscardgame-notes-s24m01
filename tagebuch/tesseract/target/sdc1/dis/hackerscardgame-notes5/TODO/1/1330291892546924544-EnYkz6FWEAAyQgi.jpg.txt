@@ -1,0 +1,20 @@
+Schall berechnet werden.
+
+Onlinerechner
+
+Geben Sie einen der beiden Werte ein.
+Frequenz 15||GHz | 15 GHz
+
+Wellenkange m_—_»| 20mm
+
+Wahlen Sie das Medium bzw. die Art der Schwingung
+Medium / Art [elektrische Schwingung im Raum
+
+Dezimalstellen |2 Me
+
+Rechnen
+
+Formel zur Berechnung der Frequenz und Wellenlange
+
+Die Wellenlange bezeichnet die Lange einer Periode einer sich ausbreitenden Schwingung.
+

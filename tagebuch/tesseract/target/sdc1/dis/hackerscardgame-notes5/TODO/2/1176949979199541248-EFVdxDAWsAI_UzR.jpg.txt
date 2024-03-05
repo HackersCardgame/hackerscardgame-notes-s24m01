@@ -1,0 +1,7 @@
+narc@debian:~$ rsync -avz haefliger.txt 192.168.179.222:~
+marc@192.168.179.222's password:
+sending incremental file list
+
+sent 64 bytes received 12 bytes 30.40 bytes/sec
+total size is 3,608 speedup is 47.47
+ercadeblaniac iil

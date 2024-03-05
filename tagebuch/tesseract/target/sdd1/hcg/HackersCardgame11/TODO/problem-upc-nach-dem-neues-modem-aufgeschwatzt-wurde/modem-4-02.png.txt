@@ -1,0 +1,16 @@
+Halli Hallo, beim 3. Modem dass dan angekommen ist
+war eben der Fall dass das beim ersten mal Einstecken
+griin geleuchtet hat und danach nie wieder. Ich
+vermute es hat damals die Firmware vom FTP-Server
+gezogen und dass da der FTP Server entweder von Dr.
+Hansjiirg Pfisterer und Urs Blum seiner
+Studentenverbindung gehackt war oder mit etwas wie
+EtterFilter Deep Packet Injection betrieben wurde. Ich
+vermute das selbe k6nnte wieder passieren sobald ich
+die Box anstecke. Habt ihr wie ich beim letzten mal
+vorgechlagen hab das Security Team diesbeziiglich
+informiert? Dann ist es Ublich einen Techniker vorbei
+zu schicken wenn es nicht geht, meiner Meinung ist
+aber das HFC in Ordnung, auch der Digital-TV lief ohne
+Problmeme, aber das Modem nicht.
+

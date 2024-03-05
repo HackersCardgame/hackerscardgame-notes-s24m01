@@ -1,0 +1,14 @@
+Security checklist
+
+Anti-SQL-injection SSL and OpenSSL
+protection up to date
+
+Multi-factor
+Passwords hashed authentication on the
+with salt back-office
+
+i Preventing the PM from
+ena data sending the whole unencrypted
+latabase by email
+
+CommitStrip.com

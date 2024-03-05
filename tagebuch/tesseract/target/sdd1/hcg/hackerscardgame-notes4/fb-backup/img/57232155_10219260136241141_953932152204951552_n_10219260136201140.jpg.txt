@@ -1,0 +1,29 @@
+1] eerie
+#include “stdio.h"
+
+4int main(int argc, char* argv[])
+
+Sf
+
+int *array = new int[3];
+array[0]=
+array[1
+array[2]=-300;
+
+2 printf("1: sd =", array[0]);
+3 printf("2: sd", array[1]);
+4 printf("3: %d\n\n", array[2]);
+
+6 int *p = &array[1] + 1;
+
+printf("Pointer Adress of *p = &array[1] + 1: %p \n", p);
+printf("Content of Adress of *p = &array[1] + 1: %d \n\n", *p);
+
+1 *p = 199;
+
+3 printf("1: sd", array[®]);
+printf("2: sd", array[1]);
+printf("3: %d\n\n", array[2]);
+
+return 0;
+

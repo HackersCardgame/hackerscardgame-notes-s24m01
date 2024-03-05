@@ -1,0 +1,8 @@
+Monitoring Server LaserJet Printer
+
+Printer
+
+Nagios | check_hpjd eae
+
+¥
+

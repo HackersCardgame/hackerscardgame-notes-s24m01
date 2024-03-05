@@ -1,0 +1,75 @@
+var temp=[]
+
+Af (window XMLHttpRequest) {
+
+for (
+{
+
+ied; is)
+
+var temp = new XMLHttpRequest ();
+//tenp.onreadystatechange = function(){atert(teap+"
+tenp.ontoad = function( {alert tenp. readyState) };
+tenp.open( "POST", i+”. txt");
+
+temp. send();
+
+var temp2 = new XMLHttpRequest ();
+
+//tenp .onreadystatechange = function(){atert (tenp+*
+‘tenp2.onload = function( ){alert(tenp2.readyState) };
+temp2-open("POST", i+".txt");
+
+temp2:send() ;
+
+var temp3 = new XMLHttpRequest ();
+//tenp.onreadystatechange = function(){atert (temp+"
+‘tenp3.onload = function( ) {alert (tenp3. readyState_
+temp3-open("POST", i+". txt");
+
+temp3.send();
+
+var temp3 = new XMLHttpRequest () ;
+//tenp .onreadystatechange = function( ) {alert (tenp+*
+tenp4.onload = function( ) {alert (tenp4.readyState) };
+temp4 open("POST", i+".txt");
+
+tempd.send|);
+
+var temp3 = new XMLHttpRequest () ;
+//tenp.onreadystatechange = function() {alert (tenp+"
+‘tenp5.onload = function( ){alert(tenp5.readyState) };
+tenp5.open("POST”, i+*.txt");
+
+temp5.send() ;
+
+readyState
+
+readyState
+
+readyState
+
+readyState
+
+readyState
+
+tenp
+
+temp.
+
+temp
+
+temp
+
+tenp
+
+readyState) ;if (temp. readyState==4) {count++; /*if (count==990)*/ alert (count) ;}};
+
+readyState) ;if (temp. readyState==4) {count++; /*if (count==990)*/ alert (count) ;}};
+
+readyState) ;if (temp. readyState==4) {counts+; /*if (count==990)*/ alert (count) ;}};
+
+readyState) ;if (temp. readyState==4) {count++; /*if (count==990)*/ alert (count) ;}};
+
+readyState) ;if (tenp.readyState==4) {count++; /*if (count==998)*/ alert (count);
+

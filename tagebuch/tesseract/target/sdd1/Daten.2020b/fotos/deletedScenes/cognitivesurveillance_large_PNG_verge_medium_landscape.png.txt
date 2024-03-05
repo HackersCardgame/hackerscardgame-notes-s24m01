@@ -1,0 +1,10 @@
+acer cr cet cent pk AgeNT
+MaNPuLaTION SEND-OVER: CHANGE-POSTURE DRAG: MANIPULATION stor HALT
+PanENT be PATIENT
+
+(__ start-frame, end-frame, agent, object, verb, probability, importance, observed»)
+
+, HAUL", 0.966, 4, 0
+
+133, PERSON1, BAG:
+

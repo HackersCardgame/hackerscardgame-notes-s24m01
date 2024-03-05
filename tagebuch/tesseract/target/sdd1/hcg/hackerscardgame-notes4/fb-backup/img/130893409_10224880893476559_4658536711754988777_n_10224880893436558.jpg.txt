@@ -1,0 +1,26 @@
+ec @ ps://datasheetspdf.com/
+
+we) OY +nO© Pw =
+
+vee aunage
+
+3.1 Package Diagram
+
+2
+3
+GPio_c2 1 36|—GPI0_B?
+GPio_c1 2 35 GPI0_B6
+GPIo_ci2 3 34 GPIO_BS
+GPIO_c13 4 33 GPIo_a2s
+GPIo_ci4 Cs 32 AD
+- as 32(— GPIO_A24
+pacavss 6 MVsilicon : :
+DACVMID C7
+pace Cs AP8048A = Sage
+DACL C9 28 [= GPIO_A20
+DACVDD [410 27 3crie_ais
+Mics 411 26[ GPI0_als
+xIN COR 25 (= GPIo_/
+
+Figure 1 Package Diagram (LQFP48-7x7mm / TOP View)
+

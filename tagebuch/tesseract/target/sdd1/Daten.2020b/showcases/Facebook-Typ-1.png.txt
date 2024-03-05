@@ -1,0 +1,82 @@
+@ Thunderbird mail ~
+
+© Conny Sanchez hat ety. x
+
+“cet Messages ¥ / Write C)chat @Address Book | Tag v
+
+~3EUID%3E.INBOX.Archives.2019%3E3716 - Mozilla Thu... — 2
+
+From Facebook <notification@facebookmail.com> yz
+Subject Conny Sanchez hat etwas in Desperate Aluhats gepostet
+Reply to Antworte, um einen Kommentar zu hinterlassen <g+414knehb000000nU607a007cOvkgckwq000zg¢j86ql045146)
+
+Delivered-To: mail@narclandolt.ch
+
+To Desperate Aluhats <548083112281010@groups.facebook.com> y Received: from zrh-1b3.core.hostpoint.net ([10.31.0.61])
+yimap018.mail.hostpoint.ch with LMTP.
+@ Thunderbird thinks this message is Junk mail. ] Be apna locgaaay este ies
+
+(envelope-from <notification@facebookmail.com>)
+: a Pan for <mail@narclandolt.ch>; Tue, 24 Sep 2019 22:40:53 +0200
+Hallo Marc, sieh dir die Beitrage an. Received: from mxinO15.mail.hostpoint.ch ([10.4.2.215])
+
+by zrh-1b3.core.hostpoint.net with LMTP id 2AHFLLV/iLIKBAEAIMI1+g
+; Tue, 24 Sep 2019 53 +0200
+
+Facebook Received: from 66-220-155-135.mail-mail.facebook.com ([66.220.155.135] helo=mx-out.. facebook. com)
+
+— by mxin®15.mail.hostpoint.ch with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256: 128)
+(Exim 4.92.2 (FreeBSD) )
+(envelope-from <notification@facebookmail.com>)
+id 1iCrcD-000Cah-KM
+for 2009@marclandolt.ch; Tue, 24 Sep 2019 22:40:53 +0200
+
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+
+$=51024-2013-q3;_t=1569357653;
+
+Conny Sanchez hat ein Foto in Desperate Aluhats geteilt bh=TOXyZ0VXTOY MHZNXR} XLOWyTE7iTVOaIWKONWTFMO=;
+h=Date:To: Subject : From:MIME-Version: Content-Type;
+24. September um 22:40 b=G1WGoaGg@z5WyiUYF jDw/e hF2TZLNVX9K8G jghj 2RBLyeSULKyiLASKHIOTYNko
+
+‘S0eJ¥39104dwOrpFSrfIKDU63ABXIT3Cdwj QCK7.2KtPywGMtPX4q7iPTqgY3++EVIK
+‘J9I5ZBhPOdaHOXrE2EdY2gGI1xEAGSGnE3a/PIKY=
+Received: from facebook. com (vg9p/HBuS8KdGGStzTvaX4vacthyqBc/NUSLVLYWcFdvM7HnYdhb2NGUKB+tMWYV 2401:db00: 3020: 900c: face:0000:0009: 0000)
+by facebook.com with Thrift id 99dc9fledf0b11e997d97cfe9050861c-bOcbf9e0;
+Tue, 24 Sep 2019 13:40:53 -0700
+X-Facebook: from 2401:db00:3020:a015:face:0:95:0 ([MTI3LjAUMC4x])
+by ww. facebook.com with HTTPS (ZuckMail) ;
+Date: Tue, 24 Sep 2019 13:40:53 -0700
+To: Desperate Aluhats <548083112281010@groups. facebook. com>
+Subject: Conny Sanchez hat etwas in Desperate Aluhats gepostet
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Facebook" <notification@facebookmail..com>
+Reply-to: "Antworte, um einen Kommentar zu hinterlassen* <g+414knehb000000nU607a007cOvkgckwq000z9¢j86q1045146@roups . facebook. com>
+Errors-To: notification@facebookmail.com
+X-Facebook-Notify: group_activity: from non_friend; mailid=5935243b9d13855e9e0865931dac3f746e696
+List-Unsubscribe: <https://wmw. facebook. com/o. php?k=ASOXQU-aS_CbA1iMSu=14413907266mid=5935243b9d138655e9e08665931dac3746e696>
+List-1d: <548083112281010..groups. facebook. com>
+[=] Gefallt mir [=] Kommentieren In-Reply-To: <744841732605146-548083112281010@qroups . facebook. com>
+References: <744841732605146-548083112281010@groups. facebook. com>
+Feedback-ID: 0:group_activity:Facebook
+X-FACEBOOK-PRIORITY: ©
+X-Auto-Response-Suppress: ALL
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+
+Auf Facebook ansehen EMail: boundary="b1_4d5e2f236510cce4134fdc7ae6531b50"
+Aut Facebook ansehen Finstellungen bearbeiten X-FB- Message-ID: <744841732605146-848083112261010G0roups. facebook com>
+
+Message-ID: <99dc9fledf0b11e997d97cfe9050861c -bOcbf9e0@31de16bb8bda877416b0608361cddb7919bd55a76e1892724608a28264eb590>
+X-Vs-State: SN
+X-Forwarded-Original-Recipient: 2009@narclandolt.ch
+
+Antworte auf diese E-Mail, um diesen Beitrag zu kommentieren. X-Original-To: 2009@narclandolt.ch
+X-Hostpoint-Spambox: NO
+
+-b1_4d5e2#236510ccc4134fdc7ae6531b50
+Diese Nachricht wurde an 2009@marclandolt.ch gesendet. Falls du diese E-Mails in Zukunft nicht Von Facebook erhalten 7
+
+= mail@marclandolt.ch: Downloading message 10 of 63 in 2019... rl
+

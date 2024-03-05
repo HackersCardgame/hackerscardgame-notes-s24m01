@@ -1,0 +1,21 @@
+ABB-15 3. Semester
+Software Engineering 2
+
+Ubungen Hausaufgaben
+4. Testen Sie folgende LayoutManager: 1. Ubungen fertig stellen
+¢ BorderLayout . :
+» GrdLayout 2. yo Bach folgende Kapitel lesen:
+* NULL-Layout 27.1 — 27.3 (ohne Listing 27.2)
+27.5.1
+30.1 - 30.4.2
+
+31.1 + 31.2 (ohne 31.2.4)
+32.2 — 32.9 (Uberblick verschaffen,
+uberfliegen, ohne Eventhandling)
+
+Hinweis: Bei Beispielen aus dem Buch soll folgende Zeile
+auskommentiert werden:
+
+addWindowListener(new WindowClosingAdapter(true));
+
+© Marco Bontognali 8. GUI mit AWT Seite 4

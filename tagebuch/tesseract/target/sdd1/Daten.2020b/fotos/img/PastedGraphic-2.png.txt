@@ -1,0 +1,33 @@
+Begiinstigter Bank des Beginstigten
+
+Name: BTB - BUSINESS TO BUSINESS OHG BIC (SWIFT: BYLADEM1RBG
+StrasseiNr.: Bankcode:
+
+Name derBank: SPARKASSE REGENSBURG
+PLZ/On: 93049 REGENSBURG:
+
+StrasseiNr.: 5, LILIENTHALSTRASSE.
+Land: DEUTSCHLAND (DE)
+IBAN (Konto): DE34750500000181854407 PLZIOM: 93049 REGENSBURG:
+
+Land: DEUTSCHLAND (DE)
+Zahlung Kosten und Instruktionen.
+Betrag: EUR 96.00 Kosten: Auftellung der Kosten
+Zahlungsgrund: Instuktionen: Keine
+
+Zahlungsreferenz:
+
+Belastung.
+Belastungskonto:  CH73 0023 1231 6679 2440 F CHF UBS Privatkonto Marc Landolt jun.
+Ausfihrungsdatum: 26.10.2011
+
+Buchung Avisierung,
+
+Salérzahlung: Nein
+
+Einzelbuchung: Ja Belastungsanzeige: Nein Ohne Details: Nein
+Buchungstext: MAC AUTOCAD
+
+‘Auftragsnummer: 9931298T10996473
+
+Zu "Ausgefhrte Aufrrage” | | Drucken (PDF)...

@@ -1,0 +1,12 @@
+OUTLINE DRAWING Dimensions in mm
+
+120.7, 9.6202
+
+PIN
+
+© base
+
+@® EMITTER (FIN
+
+® coutector
+T-30€ ® Fin (emiTtER)

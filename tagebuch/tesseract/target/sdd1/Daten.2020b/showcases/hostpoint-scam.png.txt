@@ -1,0 +1,108 @@
+Activities @ Thunderbird ~
+
+File Edit View Go Message EventsandTasks Tools Help
+
+@& Inbox - mail@marclando! | @ Votre/vos nom(s) de do x
+
+"Get Messages v / Write v Cichat BAddressBook | Tag v
+
+From Hostpoint Ag <Abussup2154200432327 @myloc.de> vy
+Subject Votre/vos nom(s) de domaine arrive(nt) bientét a expiration...
+To info@marclandolt.chyy
+ate 12 Apr 2019 16:02:44 +0100
+<20190412160244.019AC5040BCE6332@myloc.de>
+» <abussup2154200034214@myloc.de>
+
+ered-To mail@marclandolt.ch
+
+@ Thunderbird thinks this message is Junk mail.
+
+{| HosTPoInt
+
+Bonjour ,
+
+En tant que titulaire du domaine (Reg-C) et selon la réglementation de ICANN en vigueur, vous étes dans obligation de
+confirmer votre adresse email
+
+Veuillez confirmer votre adresse email dans un délai de 14 jours.
+
+Confirmer Il'adresse emai
+
+‘Sinous ne recevons aucune confirmation de votre part dans le délai imparti, nous serons dans obligation dappliquer
+les exigences de ICANN et de désactiver votre/vos domaine(s) mentionné(s) ci-dessus.
+
+Les nowvelles dispositions de ICANN prévoient que l'adresse email doit étre vérifiée et confirmée dans le cadre dun
+nouvel enregistrement ou dune modification. ICANN s'assure ainsi de la validité des données enregistrées.
+
+Nous vous remercions pour votre contribution
+
+Cordialement,
+
+Gunter Eberling
+Responsable Relation Client
+
+@® Thunderbird now contains calendaring functionality by integrating the Lightning extension.
+
+=
+
+a
+
+Source of: imap://mail%40marclandolt %2Ech@imap.mail-hostpoint.ch:143/fetch%3EUID%3E.INBOX%3E119017 - Mozilla Thunderbird x |< > x
+
+File Edit View Help <O>
+Return-Path: <abussup2154200034214@nyloc.de> peels
+Delivered-To: mail@narclandolt..ch q
+Received: from zrh-1b3.core.hostpoint.net ({10.31.0.61])
+
+by popimap018.mail-hostpoint.ch with LMTP
+id yNndFBersFwuwAAR7JESTA
+(envelope- from <abussup2154200034214@nyloc. de>) i
+for <nail@narclandolt.ch>; Fri, 12 Apr 2019 17:13:27 +0200
+Received: from mxinOl7.mail.hostpoint.ch ([10.4.2.217]) (Sdays)
+by zrh-lb3.core.hostpoint net with LMTP id yNVOFBersFzGbwEAIMIL+g
+} Fri, 12 Apr 2019 17:13:27 +0200
+Received: from authsmtp39.register.it ({81.88.55.162] helo-authsmtp. register. it)
+by mxin017.mail.hostpoint.ch with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+(Exim 4,91 (FreeBSD) )
+(envelope- from <abussup2154200034214@nyloc. de>)
+id IhExhR-0006me-Lz
+for info@narclandolt.ch; Fri, 12 Apr 2019 17:02:44 +0200
+Received: fron myloc.de ([188.165.195.28])
+by cnsmtp with ESMTPSA
+id ExhithrGvoxqa€xhPh951j; Fri, 12 Apr 2019 17:02:41 +0200
+X-Rid: andra@sint-patrick.eu@188.165.195.28
+From: =7UTF-87Q?Hostpoint Ag?=<Abussup2154200432327@nyloc..de>
+To: info@narclandolt.ch
+Subject: =7UTF-8787Vm90cmUvdn921G5 vbShzKSBkZSBkb21haWSLIGFycml2ZShudCkg¥ml LbnTDtHQgwéAgZXhwaXJhdGlvbiAuLis=
+Date: 12 Apr 2019 16:02:44 +0100
+Message-ID: <20190412160244..019AC5049BCE6332@nyloc.de>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+boundary=" NextPart_000 0012 D6141B41.2863411C"
+X-CMAE-EnveLope: MS4wfBK8FBeESy1Ry7 jel eBOYvKVK63sSoypHYuxMsCGBAXJtDyVR2U43N+ovtdD7LP/q9/cbotk/ tAGKBhGoneF LoK2GkSB3dpykXTKTpGOMUNAYNch6 fw
+++hleSLEf+YgAibqwnhbs2djESY19Uj UIQZBPgRUxTWunECypPENhi+IPLwK@nX f9N6qztapUs60EjKQ==
+X-Vs-State: SPAM
+X-Forwarded-Original-Recipient: infognarclandolt..ch
+X-Original-To: info@marclandolt.ch
+X-Hostpoint-Spambox: NO
+- NextPart_000_0012 06141841. 2863411C
+Content-Type: text/html;
+charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+<a href=30"https: //t.co/mZy8HchSxH" target=30" blank"><ing style alt src=:
+“cid:xlgdilx.jpg" width=30"730" height=30"674" border=30"0">
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600. 19301"></HEAD>
+<BODY>
+<TABLE style=3D'VISIBILITY: hidden" celLSpacing=300 celLPadding=300 width
+=30520 align=3Dcenter bgColor=30#ffffff border=300 #FFFFFF;? background-col=
+or: collapse; ?border-collapse:>
+<TRODY>
+<TR>
+<1D style=3D"VISIBILITY: hidden" height=3015 ?padding: Opx; 1px;? font-size
+></TD></TR>
+<TR>
+<1D style=3D"VISIBILITY: hidden" bgColor=3D#ffff00 align=30center ?padding:=
+Tearnmore Disable Keep x
+
+( Today Pane v.

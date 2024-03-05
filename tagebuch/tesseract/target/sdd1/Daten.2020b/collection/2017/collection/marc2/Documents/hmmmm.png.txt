@@ -1,0 +1,14 @@
+marc@debian: /home/disk1$ wget http: //ia800302.us.archive.org/5/items/archiveteam- twitter-stream-2012-01/archiveteam-twitter-2012-01.tar
+--2016-09-17 01:23:36-- http: //ia800302.us.archive.org/5/items/archiveteam- twitter-stream-2012-01/archiveteam-twitter-2012-01, tar
+Resolving ia800302.us.archive.org (ia800302.us.archive.org)... 207.241.228.12
+
+Connecting to ia800302.us.archive.org (ia800302.us. archive.org) |207.241.228.12|:80... connected
+
+HTTP request sent, awaiting response... 200 OK
+
+Length: 23596308480 (226) [application/x-tar]
+
+archiveteam-twitter-2012-01.tar: Permission denied
+
+Cannot write to ‘archiveteam-twitter-2012-01.tar’ (Permission denied).
+marc@debian: /home/disk1$ fj

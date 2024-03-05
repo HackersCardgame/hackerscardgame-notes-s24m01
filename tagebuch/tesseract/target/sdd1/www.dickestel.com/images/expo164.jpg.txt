@@ -1,0 +1,57 @@
+Intropucinc AMY’05 From Troika
+
+Flex ATX form factor 190 x 170 (measuring just 20 mm larger than mini1TX 170 x70) Priore (te
+Standard 20 pin ATX power connector, kes 2 ‘Audio "kryptos” sound system
+
++ Processor
+*2xPC! slot complies withthe PCI2.1 specification
+PPC IBM 800mhz 750GL processor Soldered directly to motherboard. 1.x 66 Mhz, 3.3V 32bit. for Graphics eee
+
+Future upgrades to 1 Ghz possible. 4x 33hune, 3.30 3204
+
+133 MHz Frontside bus.
+‘© PC Standard Real Time clock, 3 high granularity timers
+
+‘Northbridge and CMOS RAM.
+‘Tundra Semiconductor TSI-107 Northbridge device.
+
+Provides the SDRAM and PCI interfaces. ‘* Temperature Control system
+interface to the 4 MBit of Flash memory Controls the speed of up to two independent fans, via
+OMA controller software control using the 12C bus.
+
+‘An I2C bus interface to the system and provides PCI and interrupt arbiters.
+
+‘* Amy Geekport
+‘Southbridge ‘A simple, memory mapped interfact
+‘AMD Geode cs5536 Companion connected to Northbridge via a 66 MHz PC! bu: ‘brew devices to be added.
+
+Bit interface to PPC with readiwritelchip.
+interrupttines.
+
+40 user UO pins available, can be reprogrammed by
+the user using VHOL, basic GPIO port design as.
+
+‘Ethernet
+RTL8110 Gb/100/10 Ethernet controller.
+
+irexaumensmacencvomen ee
+oT oe
+
+SO rear omar
+
+East aoa tape tn decree dence
+
+Aes a cerclaagome
+ori 3
+
+SBS hormones eco
+a
+
+é
+
+‘2x DIMM memory slots operating at upto 133 MHz,
+(Regular,Unbuffered, Off the shelf PC100/133 SDRAM. 1G8Pin. Max of 1GB)
+
+eee. vIn sounnMAX PowerPe VGeekrort
+serene a te ncn tae on tan une aig Aneto Gone nt cosines nr rs nome nen er Orie
+

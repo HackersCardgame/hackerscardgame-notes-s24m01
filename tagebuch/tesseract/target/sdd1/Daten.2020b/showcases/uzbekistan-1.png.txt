@@ -1,0 +1,142 @@
+KE Nodir = | MW (2) Me x | GB 0802: x | Ej Opfer x | [B] Casio x | fi] Three x | © Skype x | EH Neuer x | © plush x | Ej Opfer x | @ (1e 4 x | W (*)Tw x | B https x | B 0802: x | | FallB) x | 6 Down x | © sessio x | +
+
+<€>-¢0
+@ Debian.org © Latest News
+
+Apps
+
+© tor-browser-lin...xz
+
+® imgingest-65...png_ *
+
+@ Help ‘of AsRockFatallty [J Neuenburgerstra
+
+S stackoverflow
+
+Home
+PUBLIC
+© Stack Overfiow
+Tags
+Users
+
+Jobs
+
+Teams
+
+@ https://stackoverflow.com/questions/4015729/php-session-start
+
+—i2 (© KB15/100HCos
+
+Search.
+
+PHP session_start()
+
+What is this really?
+
+1g Does it start a current session based on cookies? Got that from the PHP website. How does
+PHP control the session? If | start a session when a user opens up my login page, what do |
+even use that session for? Can | use the current session to get info about the logged in user?
+
+php session
+
+9
+share improve this question cece Ju 2617 at 20:48 SIRGaea eA
+Alexander Farber
+7,963 °52 ©184 ©5323 13 ©23
+5 Answers active oldest votes
+The PHP session system lets you store securely data in the $_SESsToN global array. A typical
+example is to store the user's identifier in the session when they type in their password:
+22
+
+if (Suser = try_login($login, $password))
+$_SESSION['user'] = $user;
+
+YM _ Then, you can access that information on all other pages
+if (isset($_sesston['user']))
+
+logged in |
+echo user_nane($_SESSION['user']);
+
+The data is stored on the server, so there is no risk of tampering (on the other hand, mind your
+disk usage)
+
+Starting the session lets the current request use $_SESSION . If this is the user's first visit, the
+array will be empty and a new session cookie will be sent for you
+
+Closing the session merely prevents the current request from using $_SESSTON , but the data
+stays around for the next requests.
+
+Destroying the session throws away all the data, forever. The sessions are destroyed a certain
+duration after the last visit (usually around 30 minutes).
+
+share improve this answer answered Oct 25 10 at 14:54
+
+Vietor Nicollet
+2L3k 2 ©41 ©87
+
+Oooh okay. So it's an empty global array that you can use to store user values (or other values), to
+maintain their unique experience within the website. — Scott Oct 25 10 at 14.56
+
+Web_KB15_1...pdf * Web_KB15_1...pdf *  [&)_ facebook-mar.
+
+~  @& 75128838_8b...zip ~
+
+asked 7 years, 11 months ago
+
+36,193 times
+
+year, 2 months ago
+
+Linked
+
+0 Where to start_session
+
+HEDIB rats session and cookies in pp and
+viet stored
+
+HEB comparing session variable in where
+clause in mysql select query
+
+0 Howto allow a user to log into a website
+and save their username information in
+PHPIHTML?
+
+0 Howto call PHP case from another PHP
+case
+
+HEI conceating Hit elements through
+PHP enor
+
+Related
+
+EBD How can prevent SQL injection PHP?
+EE) Pa: Detete an clement trom an array
+4004 Howto getthe cient P address in PHP?
+
+Reference — What does this symbol
+mean in PHP?
+
+Do sessions really violate RESTIuness?
+
+Check it PHP session has already
+started
+
+How does PHP toreach’ actually work?
+
+What are Long-Polling, Websockets,
+Server-Sent Events (SSE) and Comet?
+
+934 Reference - What does this error mean in
+PHP?
+
+Why shouldnt! use mysql_* functions in,
+PHP?
+
+ ‘stitch-tilo-bath.jpg
+
+&
+
+Q*
+
+€@re
+

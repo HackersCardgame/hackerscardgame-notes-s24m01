@@ -1,0 +1,44 @@
+Use WiFi as (general
+purpose) Software
+efined Radio
+
+ed @PinkyDef
+
+Hello @bitluni
+with @nexmon_dev one can
+
+use WiFi Chip as SDR in the
+WiFi Bands. Is it possible to
+disable the Bandpass filter on
+the WiFi-Chip with firmware so
+that one can use the Wifi
+ADC/DAC as general-purpose
+SDR from 0 to 5GHz?
+
+CC: @unibern @UniBasel
+@ETH_en @TUDarmstadt
+Tweet ibersetzen
+
+Nexon
+
+Nexmon Software Defined Radio
+
+https://0x8.ch/HackersCardgame 2.0
+
+Eine Wifi-Karte ist eigentlich ein ADC/DAC
+Wandler. Es gibt keinen Schwingkreis der
+die Freugenz vorgibt. Um Storungen anderer
+Frequenzbander ZU verhindern
+hat es einen der nur 2.4GHz
+und 5GHz durch lasst. KOnnte man den aber
+per Firmware ausschelten oder dessen
+Grenzfrequenzen umschalten ware jede WiFi-
+Karte auch ein general purpose SDR_ von
+0-5GHz. Nehmen wir mal an die Neuralink
+Verbindungs-Frequenz ist bei 1.2GHz konnte
+man mit einer normalen Wifi-Karte auch
+Geister im Neuralink einblenden - und
+Menschen unfreiwillig mit elektr. -/
+psychologischer Kriegsfuhrung "segnen"
+oder sich als Gott ausgeben.
+

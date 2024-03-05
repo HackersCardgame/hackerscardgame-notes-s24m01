@@ -1,0 +1,19 @@
+*R
+
+‘Where Vis the voltage, is the current, and Ris the resistance. Rearranging the formula, we
+get
+
+VIR
+005V /6:22 x 10*-2 ohms
+0806A
+
+To calculate the power required, we can use the formula:
+
+Power = Voltage * Current
+005V*0.806A
+0.0403 Watts or 40.3 milliwatts
+
+Therefore, to induce a 5OmV voltage across a golden wire with a length of 2cm anda
+diameter of 0.1mm at 30GHz, approximately 40:3 milliwatts (or 00403 Watts) of power
+‘would be required. Please note that this calculation assumes a constant resistivity value and
+neglects other factors that may affect the wire's electrical behavior at high frequencies.

@@ -1,0 +1,20 @@
+sTeleskop-Antenne
+
+max, 2W, 100 MHz
+
+6V/0,6W by = Swag. auf Smm @ Spulenkern mit
+| Abgleichferct
+La = 4 Wag, fest angekoppelt
+x) Spulenmite
+2n3553
+&
+2n3866
+A
+
+e(e of
+von unten
+gesehen
+
++ UB
+“T" 9-12voIt
+

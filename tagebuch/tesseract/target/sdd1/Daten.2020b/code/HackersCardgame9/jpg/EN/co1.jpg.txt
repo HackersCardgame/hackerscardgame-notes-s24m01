@@ -1,0 +1,36 @@
+"_{ operandi —
+
+J 4 “01.19%, *!
+we result :
+
+7 ry ai
+
+ee
+,” -—_
+
+( ‘opEntered. ) ( operand2 .
+
+Fore
+
+'O"..'9'" .”
+
+Inventor: xxx Year: ~???
+https://en.wikipedia.org/wiki/UML_state_machine
+
+If you have a production line (that can be abused to
+programm stimulus-reaction-habits), the line can
+have several different states, so you have to define
+the states and how / when (eg. eventtrigger) they
+change, see eg. Siemens S7 PCL
+
+The same principle is unfortunately also abused
+aganist humans or even children:
+
+1. Normal: loop { you will be raped } =>
+
+2. : someone says "Fu** your Mother" =>
+
+3. Rage
+
+Induced with eg t1 or t* card
+

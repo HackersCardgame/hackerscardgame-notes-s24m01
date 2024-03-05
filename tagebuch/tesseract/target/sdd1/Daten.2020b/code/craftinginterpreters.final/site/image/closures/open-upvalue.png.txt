@@ -1,0 +1,9 @@
+ObjFunction
+
+chunk oy -->
+ObjClosure | constants =Q;——~--- --
+| function
+
+upvalues | upvalue array ObjUpvalue
+
+ie) o}—>| location =)

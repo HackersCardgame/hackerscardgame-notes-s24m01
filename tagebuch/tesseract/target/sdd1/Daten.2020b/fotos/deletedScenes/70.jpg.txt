@@ -1,0 +1,111 @@
+Anwender
+
+a
+Ss
+
+Attacken abwehren
+
+~
+°
+
+© photocase.com
+
+Statt mit einem dicken Panzer wehrt sich der Kaktus mit diinnen Stacheln. Die behindern ihn nicht beim Wachs-
+tum und schiitzen trotzdem effektiv. Ahnlich sollten Entwickler Sicherheitssoftware entwerfen und sie den
+Bediirfnissen und Verhaltensmustern ihrer Anwender anpassen. reter Gutmann
+
+1 es, an ihren Program-
+men herumzukonfigurieren, besonders
+wenn es sich um komplexe Sicherheits-
+technik handelt, die sie nicht verstehen.
+Eine Usability-Studie fiir PKIs [7] unter-
+suchte dazu eine Gruppe von technisch
+hervorragend ausgebildeten Anwendern,
+die meisten mit einschlagigem Doktor-
+grad. Die Kernfrage: ,,Wie lange brau-
+chen sie, um sich ein X.509-User-Zerti-
+fikat auszustellen?“ Antwort: mehr als
+zwei Stunden. Die Probanden werteten
+den Test als einen der schwierigsten, der
+
+ihnen je gestellt wurde.
+
+Grob verschatzt
+
+Das ist kein Einzelfall. Sicherheitsexper-
+ten unterschatzen tiberaus hdufig, wie
+lange ein Anwender fiir eine Aufgabe
+tatsdchlich braucht. Wenn es die Gilde
+der Sicherheitsexperten in zehn Minuten
+schafft, dann gilt das auf keinen Fall
+auch fiir Durchschnittsbenutzer. Diese
+
+sind vielleicht nach zehn Stunden immer
+noch nicht fertig. Um solche Hiirden zu
+vermeiden, muss sich eine Applikation
+so weit wie méglich selbst konfigurieren
+und dem User nur wenige, ihm vertraute
+Optionen iiberlassen. Ein Netzwerkser-
+ver kénnte etwa wdhrend der Installa-
+tion ein selbst signiertes Zertifikat aus-
+stellen und es automatisch bei der wei-
+teren Kommunikation verwenden.
+
+Theorie und Praxis
+
+Die theoretische Sicherheit der selbst sig-
+nierten Variante ist zwar deutlich nied-
+riger als bei dem Zertifikat einer aner-
+kannten CA. Weil sich jedoch kaum je-
+mand eine solche Beglaubigung leisten
+wird, ist ironischerweise die effektive
+Sicherheit bei simplen, selbst signierten
+Zertifikaten hdher. Wer die Zusammen-
+hange gut genug versteht, um sich ein
+besseres Zertifikat zu besorgen, der kann
+dies ja jederzeit nachholen.
+
+Einen pragmatischen Mittelweg geht die
+Plug & Play-PKI [2] in Cryptlib. Die Bibli-
+othek stammt vom Autor dieses Beitrags.
+Mit ihr ortet ein Clientprogramm selbst-
+standig einen CA-Server und kommuni-
+ziert mit ihm. Der Anwender braucht nur
+noch einen Namen sowie ein Passwort
+einzutippen. Das ist in weniger als einer
+Minute erledigt, auch ohne Doktortitel in
+Informatik. Bei Appliances, also Gerdten
+ohne Bedienoberflache, sollte der Herstel-
+ler das Zertifikat vorkonfigurieren.
+
+Passworter sind besser
+als ihr Ruf
+
+Wie Teil 1 der Reihe belegte, sind die Be-
+nutzer im Umgang mit Passwortern bes-
+tens getibt. Eine Applikation tut gut da-
+ran, beim traditionellen Username-Pass-
+wort-Schema zu bleiben und diese Daten
+durch einen sicheren Tunnel (SSL/TLS
+oder SSH) zu tibertragen, statt auf kom-
+plexe PKIs zu setzen. Bei naherer Be-
+trachtung erweisen sich PKIs oft genug
+auch nur als umstandlich ausgefiihrter
+User-Passwort-Mechanismus: Der Benut-
+zer tippt Username sowie Passwort ein,
+um seinen geheimen Schliissel zu de-
+chiffrieren, welcher ihn dann im zweiten
+Schritt authentifiziert.
+
+Da viele User unsichere Geheimwérter
+wahlen, empfehlen sich Protokolle wie
+das passwortbasierte TLS-PSK (Trans-
+port Layer Security, Pre-Shared Keys,
+[3]). Es verzichtet darauf, dem Gegen-
+liber das Codewort preiszugeben, auch
+nicht durch einen sicheren Tunnel. Ein
+positiver Nebeneffekt beim Einsatz von
+TLS-PSK ist dessen beiderseitige Authen-
+tifizierung. Nicht nur der Client muss
+sich ausweisen, auch der Server authen-
+tifiziert sich gegentiber dem Client. Das

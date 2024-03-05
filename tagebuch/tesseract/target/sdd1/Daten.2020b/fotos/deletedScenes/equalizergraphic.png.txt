@@ -1,0 +1,12 @@
+200 Equalizatic
+
+Equalization, by Martyn Shaw & Mitch Golden
+
+20Hz 40Hz 6lHz 100Hz 200Hz 400Hz 1000Hz 2000Hz 4000H2  10000Hz
+
+ODraw Curves @ Graphic EQ B-spline [aa] Length of Filter: —==="4001
+Select Curve:( unnamed __[#i)( Save/Manage Curves... )( Flatten) (_Invert_) MI Grids
+faxras)
+
+yy,
+

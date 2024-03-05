@@ -1,0 +1,111 @@
+Activities @ Chromium ~
+
+J genkemel/ce - Ge
+cian
+
+Octave - Gen’
+
+‘twitter.com
+
+7] Facebook
+
+Q Notifications
+
+Marc Landolt jun
+@FailD
+
+Foll
+
+Trends for you
+
+w to the
+
+(7) Twitter
+
+Sun 09:05
+© Diaspora Europe
+
+Yay, endlich geschafft (nach 1 Woche)
+und gdm zu installieren. Das ist irgendwie noch ein bi
+aber eine gute ubung|
+
+Cedric Meury
+Underpaid and our Kindle
+
+amazonkindle
+
+Underpaid and exhausted: the human cost of your Kindle
+
+In the Chinese city of Hengyang, we find a fatigued, disposable workforce
+assembling gadgets for Amazon, owned by the world's richest man
+
+Geldspielgesetz Ja! & @geldspiel_ja - 5h
+Countdown fur das gemeinnutzige ft! Gebt euren
+
+Abstimmung am 10. Juni
+
+Stimme JA
+
+Liv Erickson @r
+
+4 Compile x
+
+File Edi w Search Terminal Hi
+/darwinLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/gnuLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/hpLib.rules /var/tmp/portage/x11-misc/x
+lorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/ibmLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/1nxLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6
+/1nxdoc. rules /var/tmp/portage/x11-misc/xorg-cf-files-1..6/work/xorg-cf-files-1.0.6/necLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/noop.rules /var/tmp/portage/x11-misc/xorg-
+cf-files-1.0.6/work/xorg-cf-files-1.0.6/nto.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/oldlib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/os2.ru
+les /var/tmp/portage/x14-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/os2Lib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/osfLib.rules /var/tmp/portage/x11-misc/xorg-cf-files
+-4.@.6/work/xorg-cf-files-1.0.6/scoLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sequentLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sgiLib
+rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sunLib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sv3Lib.rules /var/tmp/portage/x11-misc/xorg-cf-fil
+les-1.0.6/work/xorg-cf-files-1.0.6/sv4Lib.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/QNX4.rules /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/xf86.rules
+/ var /tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Imake.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Library.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6
+/work/xorg-cf-files-1.0.6/Motif.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/OpenBSDLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Server.tmpl /var
+/ tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/ServerLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Threads.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6
+/work/xorg-cf-files-1.0.6/WinLib.tmpl '/var/tmp/portage/x14-misc/xorg-cf-files-1.0.6/image//usr/1ib64/x11/config
+
+/usr/1ib/portage/python3.5/ebuild-helpers/xattr/install -c -m 644 /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/X11.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files
+-4.0.6/bsdiLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/bsdLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/cde.tmpl /var/tmp/portage/x11-misc/xo
+Irg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/cygwin.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/mingw.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.9.6/dar
+lwinLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/hpLib.tmpl /var/tmp/portage/x14-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/gnuLib.tmpl /var/tmp/portage/x11-mise/xorg-cf-
+Files-1.0.6/work/xorg-cf-files-1.0.6/ibmLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/1nxLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Inxdoc.t
+Impl. /var/tmp/portage/x14-mise/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/necLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.9.6/work/xorg-cf-files-1.0.6/os2Lib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1
+0.6/work/xorg-cf-files-1.0.6/osfLib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.9.6/sgilib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sunLib.tmpl /va
+r/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sv3Lib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sv4Lib.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/wo
+Irk/xorg-cf-files-1.0.6/xf86.tmp1 /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/xorg.tmpl /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/cross.def site.def /var/tm
+p/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/xf86site.def /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/xorgsite.def /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work
+/xorg-cf-files-1.0.6/xorgversion.def /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Imake.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Amoeba.cf /var/tmp/port
+lage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/DGUX.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.9.6/dmx.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.
+lo.6/DragonFly.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/FreeBSD.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/Mips.cf /var/tmp/portage/x11-misc/xorg-cf
+-files-1.0.6/work/xorg-cf-files-1.0.6/NetBSD.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/0penBSD.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/0ki.cf /va
+Ir/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/cygwin.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/mingw.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xo
+rg-cf-files-1.0.6/Win32.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/apollo.cf '/var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/image//usr/1ib64/x11/config
+/usr/1ib/portage/python3.5/ebuild-helpers/xattr/install -c -m 644 /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/bsd.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-4
+.0.6/bsdi.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/convex.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/cray.cf /var/tmp/portage/x11-misc/xorg-cf-file
+Is-1.0.6/work/xorg-cf-files-1.0.6/fujitsu.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/generic.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/gnu.cf /var/tm
+p/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/hp.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/ibm.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-file
+ls-1.0.6/isc.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/linux.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/luna.cf /var/tmp/portage/x11-misc/xorg-cf-fil
+les-1.0.6/work/xorg-cf-files-1.0.6/macII.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/mach.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/minix.cf /var/tmp/
+portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/moto.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/ncr.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-file
+Is-1.0.6/nec.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/nto.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/os2.cf /var/tmp/portage/x11-misc/xorg-cf-files-
+1.0.6/work/xorg-cf-files-1.0.6/osf1.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/pegasus.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sco.cf /var/tmp/por
+tage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sco5.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sequent.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-fil
+les-1.0.6/sgi.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sony.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/sun.cf /var/tmp/portage/x11-misc/xorg-cf-file
+Is-1.0.6/work/xorg-cf-files-1.0.6/svr3.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/svr4.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/ultrix.cf /var/tmp/p
+lortage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/usl.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/lynx.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files
+-4.0.6/x386.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/QNX4.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/darwin.cf /var/tmp/portage/x11-misc/xorg-cf-fi
+lLes-1.0.6/work/xorg-cf-files-1.0.6/xfree86.cf /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6/xorg.cf '/var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/image//usr/1ib64/X11/config
+
+make[1]: Leaving directory '/var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/work/xorg-cf-files-1.0.6 build
+
+>>> Completed installing xorg-cf-files-1.0.6 into /var/tmp/portage/x11-misc/xorg-cf-files-1.0.6/image/
+
+Final size of build directory: 2328 KiB (2.2 MiB)
+Final size of installed tree: 1568 KiB (1.5 MiB)
+
+lecompressdir: bzip2 -9 /usr/share/doc
+
+>>> Installing of
+
+>>> Emerging (22 of 34)
+lapack-lite-3.1.1.tgz BLAKE2B SHA512 size ;-)

@@ -1,0 +1,62 @@
+camjpg
+
+Marc {LAN) | Ox8.ch
+
+— | + AutomatischerZoom ¥.
+
+root: Tree
+
+with root = NIL denoting the empty tree. Trees are commonly used to represent collections of data
+in order of ascending key values, making retrieval very efficient. The following statements represent
+a search in an ordered binary tree, whose similarity to the binary search in an ordered array is
+remarkable. Again, p is an auxiliary variable (of type Tree).
+
+p= root
+
+WHILE (p # NIL) & (p.key #x) DO
+IF p.key <x THEN p= p.right
+ELSE p= pleft
+END
+
+END:
+
+IF p # NIL THEN found END
+
+40
+
+N.Wirth, Programming in Oberon, 2014
+
+This example is a repetitive version of the tree search. Next we show the recursive version. It is, in
+addition, extended such that a new node is created and inserted at the appropriate place, whenever
+no node with key value x exists
+
+PROCEDURE search(VAR p: Tree: x: INTEGER): Tree;
+VAR q: Tree:
+BEGIN
+IF p# NIL THEN
+IF p.key <x THEN
+q = search (p.right, x)
+ELSIF p.key > x THEN
+q= Search (p* left, x)
+ELSE
+a=P
+END
+ELSE (‘not found, hence insert*)
+NEW(q); d.key = x; qJeft = NIL; q.right := NIL
+END
+RETURN q
+END search;
+
+The call search(root, x) now stands for a search of x in the tree represented by the variable root
+
+And this concludes our examples of operations on lists and trees to illustrate pointer handling. Lists
+and trees have nodes which are all of the same type. We draw attention to the fact that the pointer
+facility admits the construction of even more general data structures consisting of nodes of various
+types. Typical for all these structures is that all nodes are declared as record types. Hence, the
+record emerges as a particularly useful data structure in conjunction with pointers
+
+i ©
+
+Son
+BSOAR
+

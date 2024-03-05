@@ -1,0 +1,191 @@
+Anwender
+
+Sec-Usability
+
+Attacken abwehren
+
+gen, dass dem User die Folgen seines Ur-
+
+teils bewusst sind und er die Aktion
+
+nicht versehentlich auslést. Dazu gehé-
+ren mindestens die folgenden Vorsichts-
+mafnahmen:
+
+® Event-Buffer l6schen (Mausklicks und
+Tastenanschlage). Das verhindert, dass
+das Programm auf Entscheidungen rea-
+giert, welche fiir einen anderen Dia-
+log gedacht waren.
+
+® Keine Defaultaktionen verwenden. Zu
+leicht lést eine versehentlich beriihrte
+Leertaste die Aktion aus. Als sichere
+Variante bleibt nur, nichts zu tun. Auf
+keinen Fall darf der User versehent-
+lich ein Dokument signieren.
+
+@ Im Zweifel einen Anwalt fragen, um
+Wortwahl und Aufbau des Dialogs so
+zu gestalten, dass Gerichte die Ent-
+scheidung des Users anerkennen.
+
+In Abbildung 2a ist der erste Entwurf ei-
+
+nes Warndialogs zu sehen, gedacht fiir
+
+ein Programm, das digitale Signaturen
+ausstellt. Ein Anwalt kénnte vor Gericht
+behaupten, dass seine Klientin mit dem
+
+Klick auf »OK« blo& eine Warnung quit-
+
+tierte. Da Richter selten eine fundierte
+
+IT-Ausbildung genossen haben, stehen
+
+die Chancen gut, dass der Anwalt damit
+
+durchkommt und das Gericht den Ver-
+trag fiir nichtig erklart.
+
+Richtige Beschriftung
+
+Im zweiten Versuch haben die Entwick-
+ler hinzugelernt und die Beschriftung
+der Buttons gedndert (Abbildung 2b).
+Jetzt muss jedem Benutzer klar sein,
+dass er mit dem Klick auf »Signieren«
+den Vertrag unterschreibt. Trotzdem gibt
+es ein Schlupfloch fiir Advokaten: Der
+»Signieren«-Button liegt an der Stelle, an
+der sich iiblicherweise der »Abbrechen«-
+Knopf befindet. Mit Halbwissen aus den
+Design-Richtlinien der Plattform bewaff-
+net, kGnnte der Anwalt einen Richter da-
+von tiberzeugen, dass inkompetente Ent-
+wickler mit dieser falschen Anordnung
+ihre User verwirren. Der dritte Anlauf
+schlieflich (Abbildung 2c) beriicksich-
+tigt auch diese Forderung.
+
+Solch kleinkariert anmutende Anfeindun-
+gen muss ein Programm bestehen, will
+es auch in dem feindlichen Umfeld einer
+Gerichtsverhandlung nicht den Kiirzeren
+ziehen. Gefdhrlicher als der verriickteste
+Phisher und schlimmer als jeder Geheim-
+
+dienst sind Expertengutachten der Ge-
+genseite. Auch gegen ihre gefiirchteten
+und ausgekliigelten Attacken muss sich
+eine Applikation wappnen.
+
+Unverzichtbar:
+sichere Vorgaben
+
+Ein sicheres Programm braucht sinn-
+volle Defaults. Insbesondere muss die
+am nd&chsten liegende Option auch die
+sicherste sein. Klickt ein Benutzer in je-
+dem Dialogfenster auf »OK«, sollte das
+ihn und andere nicht in Schwierigkeiten
+bringen. Ein Beispiel ist in Abbildung 3a
+und 3b zu bewundern: Egal, was im Text
+des Fensters steht, die Anwender werden
+den Dialog nur als Hindernis wahrneh-
+men und wie tiblich auf »Ja« (oder »OK«)
+klicken. Ware »Ja« die sichere Variante,
+dann wiirde die instinktive Handlung
+des Users ihn schiitzen.
+
+Usability-Tests haben gezeigt, dass man-
+che Benutzer tatsachlich in jedem Fens-
+ter »OK« anklicken. Daraus leitet sich ein
+einfaches Testverfahren ab: Der Entwick-
+ler wahlt in einem Versuch immer und
+iiberall »OK« und priift, ob das Ergebnis
+in jedem Fall die sichere Entscheidung
+war. Darauf folgt ein zweiter Versuch un-
+ter der Annahme, dass jede Frage aus
+einem Angriff resultiert. Wenn hinter
+»Wollen Sie das Dokument wirklich 6ff-
+nen?« nicht die Einladung zu der Weih-
+nachtsfeier wartet, sondern ein Wurm
+mit einem makro-verseuchten Office-Do-
+kument, verwandeln sich vermeintlich
+harmlose Fragen schnell in heikle Ent-
+scheidungen. Sehr viele Programme hal-
+ten diesem primitiven Test nicht stand.
+
+Wechselspiel
+
+Ein wirksames Mittel gegen das Ja-Kli-
+cker-Problem sind Multiple-Choice-Fra-
+gen anstelle einfacher Ja-Nein-Entschei-
+dungen. In einem realistischen Testsze-
+nario [5] mussten die Kandidaten die
+
+Ein potentieles Sicherheitsproblem ist aufgetreten,
+Wollen Sie fortfahren?
+
+Abbildung 3a: Die Entwickler iiberlassen in diesem
+Dialog dem User die Beurteilung, ob das nicht néher
+genannte Sicherheitsproblem gefahrlich ist.
+
+Korrektheit von Schliissel-Fingerprints be-
+werten. Ein Drittel der Kandidaten erlag
+Angriffen, wenn ihnen das System einfa-
+che Ja-Nein-Fragen stellte. Hatten sie da-
+gegen die Wahl zwischen fiinf Optionen,
+bei denen eine ,,Keine Antwort ist kor-
+rekt“ lautete, fiel die Fehlerrate auf na-
+hezu null. Wahrend beim Ja-Nein-Test
+die Kandidaten nicht lange tiberlegten
+und sogar erkennbare Unregelmafigkei-
+ten als voriibergehende Fehler deuteten
+und einfach ignorierten, zwang sie die
+langere Auswahlliste zum Nachdenken
+iiber das Problem und die Liésung.
+
+Die Windows-Shareware Winzip nutzt
+eine dhnliche Technik: Solange das Pro-
+gramm nicht bezahlt und registriert ist,
+begriift es den Anwender mit einem Hin-
+weisdialog. Bei jedem Start vertauscht
+die Software die Anordnung der Buttons.
+Das zwingt die User, den Text auch zu
+lesen, anstatt blind immer auf »Cancel«
+zu driicken. Auch der neuseeladndische
+Zoll vertauscht auf seinem Einwande-
+rungsformular ein paar der Ja-Nein-Fra-
+gen. Damit wird es unméglich, einfach
+alle Kastchen in einer Spalte anzukreu-
+zen, ohne die Fragen zu lesen. Das ist
+besonders hinterhdltig, wenn man be-
+denkt, dass die Leute dieses Formular
+nach ihrem Zwélf-Stunden-Flug noch im
+Halbschlaf ausfiillen.
+
+Gute Bremsen
+
+Auch viel versprechend: die gefahrliche
+Antwort fiir einige Zeit sperren (nicht
+anklickbarer, grau gefarbter Button). Das
+gibt dem User Zeit, den Text der Dialog-
+box tatsachlich zu lesen, bevor er sich in
+Gefahr begibt. Um keine Verwirrung zu
+stiften, braucht der Button einen sicht-
+baren Countdown. Daran erkennen die
+Anwender, dass es nach der Pause wei-
+tergeht, und nutzen die Zeit wirklich fiirs
+Lesen und Uberlegen.
+
+Auch diese Technik ist von lastigen Re-
+gistrierdialogen bekannt. Eventuell bleibt
+
+@ — Wolen Sie dass dieses Fenster verschwindet?
+
+Abbildung 36: Die Benutzer nehmen den Dialog aus
+Abbildung 3a so wahr wie diesen und klicken wie im-
+mer auf »Ja«. Sie wollen nur schnell weiterarbeiten.

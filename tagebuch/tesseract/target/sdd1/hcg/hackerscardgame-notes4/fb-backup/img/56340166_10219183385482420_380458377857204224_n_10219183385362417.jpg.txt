@@ -1,0 +1,100 @@
+{ress, domain, or file hash
+
+Detection Details
+
+ADMINUSLabs
+
+Alienvault
+
+Avira
+
+Baidu-International
+
+Blueliv
+
+Comodo Site Inspector
+
+Cybercrime
+desenmascara.me
+Dr.Web
+
+EonScope
+
+EsTsecurity-Threat Inside
+
+FraudScore
+
+G-Data
+
+K7AntiVirus
+
+Siblebeli
+
+No engines detected this URL
+
+URL httpsv/ox8.ch/chessjs/
+Host ox8.ch
+
+Last analysis
+
+Community
+
+>
+
+2019-04-06 23:12:31 UTC
+
+AegisLab WebGuard
+Antiy-AVL
+BADWARE.INFO
+BitDefender
+
+CLEAN MX
+
+CRDF
+
+cyRadar
+
+DNsB
+
+Emsisoft
+
+ESET
+
+Fortinet
+FraudSense
+
+Google Safebrowsing
+
+MalcOde Database
+
+Malware Domain
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Clean
+
+Pitees

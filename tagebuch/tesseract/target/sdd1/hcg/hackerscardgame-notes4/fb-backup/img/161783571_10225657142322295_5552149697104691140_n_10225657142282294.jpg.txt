@@ -1,0 +1,2 @@
+sed -i -e "s/bloder Militar-Helm/AutistenHelm/g" img.jpg
+

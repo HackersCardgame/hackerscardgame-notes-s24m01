@@ -1,0 +1,10 @@
+Neural network:
+he(x)€R* (he(x)); = i” output
+
+m K
+J(8) = -= YOY yf? log(he(w))x + (1 = yf?) log(1 = (he(x))x)
+
+i=1k=1
+L-1 s1 +
+
+m 2g 2a 2

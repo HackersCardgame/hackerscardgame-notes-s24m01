@@ -1,0 +1,8 @@
+ASA
+ASA
+
+(cisco W
+KiscoW
+
+Deny inbound UDP from 192.168.178.32/42437 to 192.168.1.105/25563 on Interface rucegg
+Dony inbound UDP from 192.168.178.32/58500 to 192.168.1.105/25563 on Interface rueegg

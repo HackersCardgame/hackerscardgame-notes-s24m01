@@ -1,0 +1,15 @@
+Erfinder Jahr
+Stuart Meloy ~1960
+Funktionsweise
+
+Ursprunglich ein Ruckenmark Impantat mit dem bei
+Ratten ein Orgasmus ausgelést werden konnte,
+Heute um alle Nervenbahnen des Riickenmarks
+werweitert und mit einem 3D Model der Person im
+Computer in einer 3D Umgebung (wie in Computer-
+Spielen) als Roboter / Soldat / Killer "benutzbar"
+
+Anwendungsfalle
+
+z.B. das Handy als UpLink zum Mainframe (die US
+Army nutzt die Cry-Engine mit PhysX)

@@ -1,0 +1,11 @@
+[x[Audion vy 1
+Mono, 44100H2 |
+32-bit float OS
+
+O|-1.07
+[x[audio2 _v] 10
+Mono, 44100H2 ly © S
+32-bit float 0 Pott as fot | s
+
+©|-1.0) v v
+

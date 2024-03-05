@@ -1,0 +1,20 @@
+foe OOP::Klasse (Schablone)
+
+Erfinder Jahr
+Alan Kay ~1993
+Funktionsweise
+
+der Erfinder der Programmiersprache Smalltalk
+benutzte als erster den Begriff
+
+bjekt rientierte rogrammierung __,object
+oriented“, Schablonen gibt es aber schon langer,
+z.B. Gutenberg und die Buchstaben seiner
+Druckmaschinen. Eine Klasse (Class) ist eine
+einzelne Vorlage
+
+Anwendungsfalle
+
+Vereinfachung durch "vorgedruckte" Vorlagen /
+Schablonen
+

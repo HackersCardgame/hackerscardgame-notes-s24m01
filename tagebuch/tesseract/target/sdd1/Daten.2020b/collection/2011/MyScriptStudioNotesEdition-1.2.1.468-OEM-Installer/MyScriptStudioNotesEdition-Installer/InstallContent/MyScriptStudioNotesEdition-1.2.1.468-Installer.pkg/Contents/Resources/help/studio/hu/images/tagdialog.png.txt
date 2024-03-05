@@ -1,0 +1,5 @@
+Cimbék kezelése
+
+Hasznalja 2 cimkék mellet jelolénégyzeteket, ha cinkéket szeretne rendelni a jelenleg
+kjelot elemekhez.
+

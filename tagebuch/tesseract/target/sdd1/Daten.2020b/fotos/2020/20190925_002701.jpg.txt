@@ -1,0 +1,142 @@
+The programs included with the Ubuntu system are free software;
+
+the exact distribution terms for each
+
+program are described in the
+
+individual files in fusr/share/doc/*/copyr ight.
+
+Ubuntu comes with ABSOLUTELY
+applicable law.
+
+NO WARRANTY, to the extent permitted by
+
+To run @ command as administrator (user "root'), use " as
+See “man sudo_root" for details. ty un “nate <ogumand>”.
+
+marc@debian:~$ [ 129.598044] pcieport 0000:00:1id.0:
+
+a Pe Ne ee Ne ee ae en ee
+
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+
+129.538174]
+129.538253]
+133.575618]
+135.580464]
+137.585226]
+139.590157]
+141.595087]
+143.599989]
+145.604828]
+147.609747]
+149.612698]
+159.648438]
+
+rce@debian:~sS
+
+185.678005]
+185.678019]
+185.679620]
+185 .679903]
+185.679914]
+185 .680238]
+185.680251]
+185.680258]
+185.680268]
+185.680277]
+185.680294]
+185.680309]
+185 ..680335]
+185.680346]
+185.680377]
+185.680388]
+185.680401]
+185.680414]
+
+PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID
+device [8086:a395] error status/mask=00001000/00002000 ‘
+[12] Timeout
+
+: disp: ch 4 fini: bado0100
+
+: disp: ch 8 fini: bado0100
+
+: disp: ch 3 fini: badoo100
+
+: disp: ch 7? fini: badoo100
+
+: disp: ch 2 fini: bad00100
+
+disp: ch 6 fini: badoo100
+
+: disp: ch 1 fini: badoo100
+
+: disp: ch 5 fini: bad0o100
+
+nouveau : disp: core fini: bad00100
+nouveau 0000:01:00.0: secboot: suspend failed, -110
+
+[ 183.676227] nouveau: DRM-master:00000000:00000080: suspend failed with -110
+nouveau 0000:01:00.0: disp: ch 20 init: bad00100
+
+nouveau: DRM:00000000:0000917a: init failed with -16
+
+nouveau: DRM:00000000:00009870: init failed with -16
+
+nouveau: DRM:00000000:00000080: init failed with -16
+
+nouveau: DRM-master:00000000:00000000: init failed with -16
+
+BUG: unable to handle kernel paging request at ffffaeid3Scce1100
+
+#PF error: [WRITE]
+
+PGD 45ddS5b067 P4D 45dd5b067 PUD 0
+
+Oops: 0002 [#1] SMP PTI "
+cpu: 3 PID: 558 Comm: kworker/3:2 Tainted: G H 5.0.0-29-generic #31-Ubuntu
+
+Hardware name: Acer Predator PH31?-S2/Sienna_CFS, BIOS V1.15 06/12/2018
+Workqueue: pm pm_runt ime_work
+
+pcieport 0000:00:1d.0:
+pcieport 0000:00:1d.0:
+nouveau 0000:01:00.
+nouveau 0000:01:00.
+nouveau 0000:01:0
+nouveau 0000:01:0
+
+0
+
+nouveau
+
+: sevo_wait+0x61/0x140 [nouveau]
+es os Oe c3 4c 89 ff e8 9d c2 30 e0 89 da 44 01 f3 48 8d 04 95 00 00 00 00 81 fb f7 03 00 00 Of 86 Sc 00 00 00 49 Gb 44 24 70 «
+
+RSP: 0018:ffffaeic83033bco EFLAGS: 00010216
+
+RAX: ffffaeic81fe1000 RBX: 000000002eb40042 RCX:
+RDX: 000000002eb40040 RSI: 0000000000000002 RDI:
+REP: ffffae1c83033be8 ROB: 00000000000270a0 ROS:
+
+0000000000003102
+ff ff8be410c626d0
+fff ff fffa06s7Zee

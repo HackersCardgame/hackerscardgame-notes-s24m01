@@ -1,0 +1,25 @@
+D)
+[ email WWW phone ... \
+
+browser chat ... \
+
+—_-)
+
+File Stream ...
+
+SMTP HTTP RTP...
+
+Individual apps
+
+Individual links
+
+ethernet PPP ...
+
+CSMA async sonet ...
+
+IP UDP P2P BCast ...
+
+copper fiber radio ...
+
+copper fiber radio
+

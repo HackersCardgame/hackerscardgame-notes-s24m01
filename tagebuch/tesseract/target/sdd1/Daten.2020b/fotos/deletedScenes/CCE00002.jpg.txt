@@ -1,0 +1,135 @@
+Von:
+
+Betreff:
+Datum:
+
+An:
+Envelope-To:
+Delivery-Date:
+Received:
+
+Received:
+
+Received:
+X-Spam-Checker-Version:
+X-Spam-Level:
+X-Spam-Status:
+
+Domainkey-Signature:
+
+Dkim-Signature:
+
+Message-Id:
+X-Maxcode-Template:
+X-Email-Type-Id:
+X-Xpt-Xsi-Name:
+Content-Type:
+Mime-Version:
+X-Whitelisted-By:
+
+Auch ncoh per
+posl Unlercoey S
+
+"service @paypal.ch" <service @paypal.ch>
+
+Receipt for Your Payment to bimbos17
+
+28. Dezember 2010 16:36:02 MEZ
+
+Marc Landolt <mail@marclandolt.ch>
+
+mail@marclandolt.ch
+
+Tue, 28 Dec 2010 16:36:08 +0100
+
+from [10.0.2.12] (helo=mxin005.mail.hostpoint.ch) by dist001 _mail.hostpoint.internal with esmtp (Exim 4.72
+(FreeBSD)) (envelope-from <payment@paypal.com>) id 4PXbao-0006yc-5N for mail@marclandolt.ch; Tue,
+28 Dec 2010 16:36:08 +0100
+
+from [66.211.168.231] (helo=mx1 .phx.paypal.com) by mxin005.mail.hostpoint.ch with esmtp (Exim 4.72
+(FreeBSD)) (envelope-from <payment @paypal.com>) id 4PXban-000C6h-7R for mail@marclandolt.ch,
+Tue, 28 Dec 2010 16:36:06 +0100
+
+(qmail 32430 invoked by uid 967); 28 Dec 2010 15:36:02 -0000
+
+SpamAssassin 3.3.1 (2010-03-16) on mxin005.mail.hostpoint.ch
+
+No, score=-12.1 required=4.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,LOTS_OF_MONEY,
+RCVD_IN_DNSWL_HI,RFC_ABUSE_POST,SPF_PASS,USER_IN_DEF_SPF_WL autolearn=disabled
+version=3.3.1
+
+s=dkim; d=paypal.ch; c=nofws; q=dns; h=Received:Date:Message-Id:Subject:X-MaxCode-Template:To:
+From:X-Email-Type-Id:X-XPT-XSL-Name:Content-Type: MIME-Version;
+b=0IKu8tinkDK9XpfRUNEfvOoxIMdZtmjaQiivWdmPBdtPPGkQqcitF2Ty
+
+51 &sRqvhuKGS8E6VfjyUA7QQdL4FS2dmZSs+aT GH/nwZ8Hsk7yLdR/6Jk XLTSN3aYKyeDn/
+
+btriG4 THomumTzilbvwmCkewqUrL5XcbIzHuVW83UYc s=;
+
+v=1; a=rsa-sha256; c=relaxed/relaxed; d=paypal.ch; i=service @paypal.ch; g=dns/xt; s=dkim;
+t=1293550565; x=1325086565; h=from:sender:reply-to:subject:date:message-id:to:cc: mime-
+version:content-transfer-encoding:content-id: content-description:resent-date:resent-from:resent-sender:
+resent-to:resent-cc:resent-message-id:in-reply-to: references list-id:list-help:list-unsubscribe: list-
+subscribe:list-post:list-owner:list-archive; z=From:=20"service @ paypal.ch"=20<service @ paypal.ch> |
+Subject:=20Receipt=20for=20Your=20Payment=20to=20bimbos1 7I
+Date:=20Tue,=2028=20Dec=202010=2007:36:02=20-0800 IMessage-
+
+Id:=20<1293550562.32430 @paypal.com>!To:=20Mare =20Landolt=20<mail @marclandolt.ch>IMIME-
+Version:=201.0; bh=2yf7 Ap0r2zfbzMziJfrhigFGzr6DuynY 79+R8MdF xS8=; b=SdMyu+uug59SjOZBwSg0/
+G2Zr9rw+ni KAdRFeMvwfyl3AOgCY PE8CUhn 2RmgBTtu8CsDA8w232gRaBhYIB2Ba9GowS46/IIL
++ngAQVPY+7mHt27HL yexScj6kEPwifC Vc5FM2RIGSESVWwD YiT4pVAAJdaWBkOSrvLuVSLHhkk a
+<1293550562.32430 @paypal.com>
+
+email-receipt-auction-payment
+
+PP843
+
+email_pimp/CH/en_US/auction/ReceiptAuctionPayment.xs!
+
+multipart/alternative; boundary=--NextPart_048F8BC8A2197DE2036A
+
+1.0
+
+list.dnswl.org.dnslist
+
+: 28. Dec 2010 16:36:01 GMT+01:00
+Pay Pal Transaction ID: 87L53889BS026780R
+
+Hello Marc Landoit,
+
+You sent a pay
+
+ent of 96.76 GBP to bimbos17 (gary.darby2@btinternet.com)
+
+To see all the transaction details, log in to your PayPal account.
+
+It may take a few moments for this transaction to appear in your account.
+
+Seller
+bimbos17
+
+Note to seller
+You haven't included a note.
+
+gary.darby2@btinternet.com
+
+Shipping address Shipping details
+
+Marc Landolt
+
+Rombachtali 13
+
+Standard Delivery
+
+CH-5022 Rombach
+
+Switzerland
+
+Description
+
+kewalk SO)
+
+Unit price Qty Amount
+
+ME STUDIO boxed)xp/vi £87.95 GBP 4 £87.95 GBP

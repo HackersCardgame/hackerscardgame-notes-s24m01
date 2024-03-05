@@ -1,0 +1,71 @@
+Verhalten im Frequenzbereich [Bearbeiten | Quelltext bearbeiten ]
+
+Tiefpass [Bearbeiten | Quelltext bearbeiten ]
+
+T
+Widerstand und Kondensator bilden einen frequenzabhangigen Spannungsteller, der auch eine Phasenverschiebung von maximal > (90°) bewirkt. Die Impedanzen Z sind R baw. 1/ (jw). Fur das RC-
+
+w
+Glied gilt fir eine harmonisch oszillierende Spannung der Frequenz f = a
+mT
+Zi
+Up = Ug
+Zn+ Zo
+
+und somit fir das Ubertragungsverhalten, das als Quotient von Ausgangs- zur Eingangsspannung definiert ist:
+
+[Co
+Ue Zn+Zo R+ A Lt jwRC 1450"
+jot
+
+rs
+
+wobei die normierte Frequenz Q = w/wp sich aus der Division von Kreisfrequenz w = 2nf und Grenz-Kreisfrequenz (Ubergangsfrequenz, Eckfrequenz oder englisch cutoff frequency) we = 1/t = 1/(RC)
+7
+ergibt. Daraus ergibt sich die Grenzfrequenz fc, bei der Blindwiderstand und Widerstand den gleichen Wert annehmen, die Phasenverschiebung also 7 (45°) und die Dampfung etwa 3 dB betragt
+f 1
+© On RC
+
+Fiir tiefe Frequenzen Q << 1 ist H ungefahr 1, Ein- und Ausgangsspannung etwa gleich, weshalb man den Bereich auch engl. als Passband bezeichnet.
+Fir Frequenzen Q >> 1 fallt H mit 20 dB pro Dekade = 6 dB pro Oktave ab. Der weggefilterte Bereich wird englisch mit Stopband bezeichnet.
+
+Bei sehr tiefen Frequenzen, die deutlich kleiner als die Grenzfrequenz sind, fallt der Ladestrom des Kondensators nicht ins Gewicht und Eingangs- und Ausgangsspannung unterscheiden sich nur
+unmerklich. Die Phasenverschiebung betragt annahernd 0°.
+
+Steigt die Frequenz, dauert es - im Vergleich zur Schwingungsdauer - immer langer, bis der Kondensator auf die Eingangsspannung aufgeladen ist. Deshalb steigt die Phasenverschiebung.
+
+Bei sehr hoher Frequenz strebt diese dem Grenzwert von 90° zu, allerdings wird dann die Spannung am Kondensator auch unmessbar klein.
+
+Hochpass [Bearbeiten | Quelltext bearbeiten ]
+
+Die Verschaltung als Hochpass unterscheidet sich von der des Tiefpasses durch Vertauschung von R und C. Demgemae gilt
+
+Zr
+Us = Ue Fo
+und
+Have Zr _ R _ jwRC _ ja
+UW. Zot+Gr LyR 1+jwRC 1450’
+
+jee
+
+Der Amplitudengang ist gegentiber dem Tiefpass entlang Q = 1 gespiegelt, hohe Frequenzen kénnen nahezu ungedampft passieren.
+
+Amplitudengang einesRC-
+Tiefpassfilters. Die Ordinate zeigt
+das Amplitudenverhaitnis |#7| in
+Dezibel, die Abszisse die
+normierte Kreisfrequenz Q in
+logarithmischer Darstellung.
+
+cE
+Phasenverschiebung als a
+
+Funktion der normierten Frequenz
+Qam RC-Glied.
+
+= Spannung
+ZStrom
+
+Phasenverschiebung von 90° ©
+zwischen Strom und Spannung
+am Kondensator

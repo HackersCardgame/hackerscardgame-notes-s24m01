@@ -1,0 +1,17 @@
+logout
+
+scconnection to ftp.marclandolt.ch closed
+marc@debian:~/disk$ which rsycn
+
+/disk$ which rsync
+
+d
+
+/disk$ 1s -la /usr/bin/rsyne
+
+1 root root 480320 Jul 10 19:35 /usr/bin/rsync
+
+marc@debiai
+rwxr-Xx:
+marc@debiai
+

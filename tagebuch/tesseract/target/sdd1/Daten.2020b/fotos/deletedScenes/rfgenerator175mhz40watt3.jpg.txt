@@ -1,0 +1,16 @@
+TO-92L,
+
+OUTLINE DRAWING Bimeesions in mm
+
+psa
+3
+2 1
+3
+0.8] pa {e
+ft i]
+5 i Los
+
+Oy BASE
+@ COLLECTOR
+@® ewirter
+

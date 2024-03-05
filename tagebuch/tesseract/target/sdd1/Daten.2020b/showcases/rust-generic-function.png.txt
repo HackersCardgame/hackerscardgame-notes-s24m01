@@ -1,0 +1,51 @@
+fn main() {
+let v1
+let v2
+
+vec!['a','b','c','d'];
+vec!['x','y','z'];
+
+println!("{:?}", longer_vector_char(&v1, &v2));
+
+let v3
+let v4
+
+vec![1,2,3,4,5,6];
+vec![1,2,3,4,5,6,7];
+
+println!("{:?}", longer_vector_int(&v3, &v4));
+
+let v5
+
+vec! ["xTEST1".to_string(),"TEST2".to_string(),"TEST3".to_string(),"TEST4".to_string()];
+let v6
+
+vec!["TestX".to_string(), "TestY".to_string(), "TESTzzzz".to_string()];
+
+println!("{:?}", longer_vector_string(&v5, &v6));
+
+println!("{:?}", Longer_vector(&v1, &v2));
+
+println!("{:?}", Longer_vector(&v3, &v4));
+
+println!("{:?}", Longer_vector(&v5, &v6));
+}
+
+fn longer_vector<'a, T: ‘a>(x: &'a[T], y: &'al[T]) -> &'alT] {
+if x.len() > y.len() { x } else { y }
+}
+
+Uy
+
+fn longer_vector_int<'a>(x: &'a[i32], y: &'a[i32]) -> &'a[i32] {
+if x.len() > y.len() { x } else { y }
+
+}
+
+fn Longer_vector_char<'a>(x: &'a[char], y: &'a[char]) -> &'a[char] {
+if x.len() > y.len() { x } else { y }
+}
+
+fn longer_vector_string<'a>(x: &'a[String], y: &'a[String]) -> &'a[String] {
+if x.len() > y.len() { x } else { y }
+}

@@ -1,0 +1,72 @@
+Typ
+
+Anwendung
+Windows Installer...
+
+Anwendung
+Anwendung
+53M Audio File (V..
+
+Anwendung
+‘SVG-Dokument
+Anwendung
+PNG-Datei
+
+JPG-Datei
+GIMP 2.10.20
+
+Microsoft Edge P..
+ZIP-komprimierte..
+‘Anwendung
+
+ZIP-komprimierte..
+
+ZIP-komprimierte...
+
+XML-Dokument
+MP3-Datei
+MP3-Datei
+MP3-Datei
+MP3-Datei
+
+GroBe
+
+90'891 KB.
+126°519 KB
+39°385 KB
+39'385 KB
+
+[@ instalation von Inkscape -
+
+Wird installiert
+Bitte warten Sie, wahrend Inkscape instalirt wird,
+
+Fehler beim Uberschreiben der Datei:
+“C:\Program Files\Inkscape\bin\gdb.exe™
+
+Klicken Sie auf Abbrechen, um abzubrechen,
+
+‘auf Wiederholen, um den Schreibvorgang ereut zu
+
+versuchen,
+
+‘oder auf Ignorieren, um diese Datei zu aberspringen.
+
+Open-source
+
+vector graphics editor
+
+‘<Zurick || Weiter > || Abbrechen
+
+956'473 KB
+260911 KB
+207KB
+166 KB
+376329 KB
+42123 KB
+10940 KB
+4312 KB
+2815 KB
+31966 KB
+4115 KB
+

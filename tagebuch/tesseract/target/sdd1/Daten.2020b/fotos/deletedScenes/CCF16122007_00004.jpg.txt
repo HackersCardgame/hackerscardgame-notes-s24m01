@@ -1,0 +1,57 @@
+cA n ABB Technikerschule, Baden
+
+—— fas Eidg. anerkannte héhere Fachschule fur Technik
+
+te kontinuierlich ab. Der Wirkwiderstand R,-(f) im Leiter nimmt daher mit wachsender
+Frequenz zu. R, bezeichnet den Gleichstromwiderstand.
+
+Berechnen und zeichnen Sie das Verhaltnis RU) fir Frequenzen f = 0...1000 Hz fiir
+
+die drei Rundkupfer-Drahtquerschnitte q = 25, 120 und 240 mm?.
+
+3. Induktiver Spannungsabfall:
+
+2 >
+
+(3 P.) Nebenstehendes Ersatzschaltbild “i y
+zeigt eine Phase des Bordnetzes. ;
+Die Leitung (L=40m) zwischen Generator an
+
+Re I.
+
+mit der Phasenspannung U, =115V und
+
+der ohmschen Last R, = 0.325Q besitzt ) \ Ha
+neben dem Wirkwiderstand R auch einen
+
+frequenzabhangigen Blindwiderstand X.
+
+Daten: Ryo =10.3mQ und L = 0.0336mH
+
+Berechnen und zeichnen Sie bei Raumtemperatur (20°C) und unter Vernachlassigung
+der Stromverdrangung:
+
+a) (2 P.) Die Phasenspannung Ue an der Last als Funktion der Frequenz f in der Form
+U, = f,(/) fiir Frequenzen f = 0...1 kHz.
+
+b) (1 P.) Um wie viele Prozent verkleinert sich die Spannung Ue bei der Frequenz 400
+Hz gegentber einem Betrieb bei 60 Hz?
+
+Hinweise zur Schreibweise von Funktionen
+
+Die Platzhalter f,, f, stehen fiir Funktionen, die von den Studierenden herauszufin-
+den sind.
+
+Beispiel: Ist in einem magnetischen Kreis eine Beziehung zwischen der Windungs-
+zahl N in Abhangigkeit von der magnetischen Feldstarke H und dem Strom J ge-
+sucht, so kénnen wir dies in folgender Form aufschreiben:
+
+N= f(4,J)
+
+f steht dabei als Platzhalter fur eine noch zu bestimmende Funktion. In der Klam-
+mer stehen die Argumente H,/.
+
+In den Aufgaben geht es darum, dass Sie den Platzhalter f durch einen passenden
+
+mathematischen Ausdruck ersetzen. Sie finden diesen Ausdruck, indem Sie geeig-
+9.7.2007 Bo

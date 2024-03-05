@@ -1,0 +1,208 @@
+Anwender
+
+84
+
+Attacken abwehren
+
+Sec-Usability
+
+In der Praxis bewdhrt es sich, die User
+wdhrend des interaktiven Designprozes-
+ses ihre Gedanken laut aussprechen zu
+lassen. Das klart, warum sie sich fiir ihre
+jeweiligen Aktionen entschieden haben.
+Stolpersteine und unklare Programmteile
+fallen auf, vorausgesetzt, die Tester wer-
+ten die Kommentare auch wirklich aus.
+Gut méglich etwa, dass ein Anwender
+eine Dialogbox tibersieht oder eine Mel-
+dung falsch versteht und deshalb spater
+in eine Sackgasse rennt. Dann wird er
+wilde Theorien aufstellen, woran er und
+die Software gescheitert seien. Die Tester
+miissen jedoch erkennen, dass die Wur-
+zeln des Problems tiefer liegen.
+
+Driiber reden
+
+Das Verbalisieren beeinflusst aber auch
+die Handlungen der Anwender. Weil sie
+ihre Aktionen erklaren und begriinden,
+denken sie ausgiebiger dariiber nach und
+andern folglich ihr Verhalten. In Tests
+Zeigt sich, dass die sprechenden User ei-
+ne GUI-Aufgabe viel besser erledigen als
+ihre schweigenden Kollegen. Als Gegen-
+manahme k6nnten Tester ihre Proban-
+den zunachst schweigend die Aufgabe
+erledigen lassen und nur an kritischen
+Punkten einhaken. Fragen wie ,,Was er-
+warten Sie, dass als Nachstes passiert?“
+oder ,,Haben Sie diese Reaktion so er-
+wartet?“ decken sofort fehlerhafte An-
+nahmen im Interface-Design auf.
+
+Statt eigene Aktionen zu erklaren, setzt
+eine Variante des Verfahrens auf zwei
+User, welche ihre Handlungen gegensei-
+tig kommentieren. Dabei agieren sie un-
+gezwungener und verfalschen das Ergeb-
+nis weniger als beim Einzeltest.
+
+Beispiel E-Mail
+
+Beim Interface-Test entlarven geschickt
+gestellte Aufmerksamkeitsfallen, ob ein
+Proband ausreichend aufpasst. Das sind
+kleine Anomalien oder Fehler im GUI,
+uber die ein Kandidat eigentlich stolpern
+miisste, wenn er seine Aufgabe wirklich
+versteht. Sollte er sich nur durchschum-
+meln, dann wird er von diesen Fallen
+nichts bemerken und mit seinen Versu-
+chen fortfahren.
+
+In Standardapplikationen ist das Durch-
+schummeln meistens in Ordnung, solan-
+ge das Ergebnis stimmt. Beispielsweise
+beim Entfernen des Rote-Augen-Effekts
+zahlt nur, dass hinterher das Foto natiir-
+lich wirkt. Bei Sicherheitsaufgaben ist
+die Versuch-und-Irrtum-Methode héchst
+gefahrlich. Selbst wenn das Ergebnis wie
+erwartet aussieht, kann durch einen Feh-
+ler in der Zwischenzeit langst ein An-
+greifer sein Unwesen treiben. Geschickt
+platzierte Kopiererfallen entlarven solch
+gefahrliches Durchschummeln.
+
+Selbst nach der Auslieferung ist das Tes-
+ten nicht beendet. Weitere Testschritte
+finden quasi in der Retrospektive statt.
+Die meisten Verfechter dieser Methode
+empfehlen drei Monate bis ein Jahr nach
+einer Release als besten Zeitpunkt fiir
+eine Review. In dem Zeitraum seit der
+Ver6ffentlichung hatten Anwender Gele-
+genheit, sich mit der Software vertraut zu
+machen und Problemfelder zu erkennen.
+Auch das Programm hatte ausreichend
+Gelegenheit, sich in freier Wildbahn zu
+bewdhren und dabei Schwachen im De-
+sign zu offenbaren.
+
+Wichtig sind nachtragliche Tests vor al-
+lem fiir Situationen, mit denen die Ent-
+wickler nicht rechneten und auf die auch
+kein Anwendertest sté&t. Als die Auto-
+
+Ein typischer Konflikt zwischen den User-Er-
+
+wartungen und dem Sicherheitsdesign ist bei
+
+E-Mail-Programmen zu beobachten. Den Benut-
+
+zern ist Folgendes meist nicht bekannt:
+
+1 Angreifer konnen Nachrichten wahrend der
+Ubertragung im internet verandern.
+
+@ Eine verschliisselte E-Mail ist nicht vor Ma-
+nipulationen sicher.
+
+@ Signierte Nachrichten sind geschiitzt.
+
+User glauben, dass eine verschliisselte Nach-
+
+ticht auch integritatsgesichert ist und die Sig-
+
+natur der herkémmlichen Unterschrift mit Kuli
+
+auf Papier gleicht, ohne Verbindung zum Inhalt
+
+der Mail. Solche Missverstandnisse fallen nur
+
+in Praxistests und beim User-Feedback auf.
+
+Mail-Clients sollten eine digitale Signatur eher
+als ,,Schutz vor Manipulation” bezeichnen. Auf
+die Tatsache, dass Verschliisselung keine Inte-
+gritaétssicherung bietet, kann das Programm
+via GUI oder Technik reagieren. Das GUI konnte
+den User warnen, dass Verschliisselung nicht
+vor Modifikation schiitzt. Genauso gut kénnte
+die Technik die erwartete Integritatssicherung
+nachriisten, indem sie einen MDC (Modifica
+tion Detection Code) in die Verschliisselungs-
+schicht einfiigt oder sie mit einem MAC (Mes-
+sage Authentication Code) umrahmt. Die zwei-
+te Lésung ist vorzuziehen, da sie die Technik
+an die Erwartung der Anwender angleicht und
+
+nicht den umgekehrten Weg versucht. é
+
+ren von RFC 1738 [6] URLs der Form
+»Benutzer@Host« in ihre Spezifikation
+aufnahmen, haben sie sicherlich nicht
+mit Gaunern gerechnet, die solche URLs
+konstruieren: »http://www.bankofame-
+rica.com@1234567/«. Die Adresse fiihrt
+zu einem Rechner mit der IP-Adresse
+1234567, sieht jedoch vielmehr aus wie
+der DNS-Name einer Bank.
+
+Tests in feindlicher Umgebung (also in
+der realen Welt) liefern wertvolle Hin-
+weise fiir sicheres Interface-Design. Ob-
+wohl Angreifer kaum bei den Tests koo-
+perieren werden, hilft das jahrelang an-
+gesammelte Wissen tiber typische An-
+griffstechniken. Neue Applikationen soll-
+ten die alten Fehler nicht wiederholen.
+Biicher wie [7] und [81 diskutieren etli-
+che Fehlfunktionen detailliert, um diese
+kiinftig in Software zu vermeiden, die si-
+cherheitsrelevante Informationen verar-
+beitet oder anzeigt.
+
+Man muss es nur tun
+
+Zu viele Entwickler verzichten vielleicht
+auf Usability-Tests, weil der Begriff kom-
+pliziert und nach Aufwand klingt. Dabei
+sind es sehr einfache und praktikable
+Methoden, die viel zur Aufklarung bei-
+tragen. Gerade bei sicherheitsrelevanten
+GUIs ist der Schritt unverzichtbar: Eine
+Security-Funktion, die niemand korrekt
+verwendet, ist nutzlos. (fjl) a
+
+Infos
+
+[1] Carolyn Snyder, ,,Paper Prototyping: The
+Fast and Easy Way to Design and Refine
+User Interfaces“: Morgan Kaufmann, 2003
+
+[2] Peter Gutmann, ,,PKI Technology Survey and
+Blueprint”, 2003: [http://www.cs.auckland.
+ac.nz/~pgut001/pubs/pkitech.pdf]
+
+[3] Tor: [http://tor.eff.org/index.html.de]
+
+[4] Peter Gutmann, ,,Lessons Learned in Imple-
+menting and Deploying Crypto Software”:
+Proceedings of the 1ith Usenix Security
+Symposium, August 2002, S. 315
+
+[5] Jakob Nielsen, ,,Why You Only Need to Test
+With 5 Users”, Marz 2000: [http://www.
+useit.com/alertbox/20000319.html]
+
+[6] RFC 1738, ,,Uniform Resource Locators”:
+[http://www.ietf.org/rfc/rfc1738.txt]
+
+[7] John Viega und Gary McGraw, ,,Building
+Secure Software”: Addison-Wesley, 2001
+
+[8] Michael Howard und David LeBlanc, ,,Wri-
+ting Secure Code“: Microsoft Press, 2001

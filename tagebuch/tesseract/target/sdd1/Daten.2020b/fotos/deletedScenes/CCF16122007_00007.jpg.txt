@@ -1,0 +1,50 @@
+— n ABB Technikerschule, Baden
+
+a
+wees xx Eidg. anerkannte hdhere Fachschule flir Technik
+
+Teilaufgabe C: Ventilatorantrieb in Steinmetzschaltung Seite 2 /2
+29.8.07
+
+C1. (3 P.) Daten der Schaltung:
+a) (2 P.) Motordaten am Drehstrom-Bordnetz:
+Leiterspannung: Uy =3x200V; f=400Hz; PnN=300W; cos on=0.8
+Bestimmen Sie die Ersatzelemente Rn, Ln.
+
+b) (1 P.) Motordaten am Einphasen-Bordnetz (Steinmetzschaltung):
+Phasenspannung: Up, = 115 V; f=400Hz; Pe = 30 % Pn; cos ge = 0.5; Le = Ln
+Wir nehmen an, dass dank des Kondensators ein symmetrisches Drehstromnetz
+geschaffen wird.
+
+Berechnen Sie nun das Ersatzelement Re.
+
+C2. (4 P.) Spannungen und Stréme der Steinmetzschaltung:
+Wahlen Sie den Spannungswinkel up = 0, den Hilfskondensator C = 3.3 pF.
+Berechnen Sie mit Hilfe der Angaben von Aufgabe C1.b);
+- die Spannungen U;, Uz, Us, Uc mit den Winkeln @u1, uz, Pus, Puc:
+- die Strome |y, la, Iz, Ic mit den Winkeln O11, 12, G13, Pic;
+
+Tipps: - Berechnen Sie zuerst den Widerstand Zit, @ztot, den Strom ltot, Pitot-
+- Rechnen Sie mit komplexen Zahlen, das ist viel einfacher!
+
+C3. (2 P.) Zeigerdiagramm der Steinmetzschaltung:
+Skizzieren Sie die Ergebnisse von Aufgabe C2 in der komplexen Ebene:
+- die Drehspannungen U,, U2, U3, Uc mit den Winkeln @u1, @u2, Pus, Puc:
+- die Drehstréme |), lo, I3, Ic mit den Winkeln 14, 12, O13, Pic.
+
+Geben Sie den Spannungs- und Strommassstab an.
+
+C4. (1 P.) Qualitat der Drehspannungen der Steinmetzschaltung:
+Wie nahe kommen wir an den Sollwert der Spannungsamplitude Upnn und den Soll-
+wert der Phasenverschiebung Agn zwischen den Spannungen?
+
+U; U, U;3
+PhN Upnn Upun
+und die Verhaltnisse der Phasenverschiebungen (Betrag) zwischen den Spannun-
+AGuiu2 A®u2u3 A®u3u1
+AQy A®y AQn
+
+Berechnen Sie die Verhaltnisse der Amplituden in Prozent
+
+gen in Prozent.
+

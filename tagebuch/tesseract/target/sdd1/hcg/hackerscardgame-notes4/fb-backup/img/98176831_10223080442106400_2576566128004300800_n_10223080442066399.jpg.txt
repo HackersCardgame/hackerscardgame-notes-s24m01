@@ -1,0 +1,79 @@
+Activities [J Terminal ~ Mon 18:44 ao By
+
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Domain name: fb-stalking.com
+
+Registry Domain ID: 2527440200 DOMAIN _COM-VRSN
+
+Registrar WHOIS Server: whois.namecheap.com
+
+Registrar URL: http: //www.namecheap.com
+
+Updated Date: 0001-01-01T00:00:00.00Z
+
+Creation Date: 2020-05-18T13:20:35.00Z
+
+Registrar Registration Expiration Date: 2021-05-18T13:20:35.00Z
+Registrar: NAMECHEAP INC
+
+Registrar IANA ID: 1068
+
+Registrar Abuse Contact Email: abuse@namecheap.com
+
+Registrar Abuse Contact Phone: +1.6613102107
+
+Reseller: NAMECHEAP INC
+
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+
+Registrant Name: WhoisGuard Protected
+
+Registrant Organization: WhoisGuard, Inc.
+
+Registrant Street: P.0. Box 0823-03411
+
+Registrant City: Panama
+
+Registrant State/Province: Panama
+
+Registrant Postal Code:
+
+Registrant Country: PA
+
+Registrant Phone: +507.8365503
+
+Registrant Phone Ext:
+
+Registrant Fax: +51.17057182
+
+Registrant Fax Ext:
+
+Registrant Email: d7fe90c6b3be4588a76a87032410b6d2. protect@whoisguard.com
+Registry Admin ID:
+
+Admin Name: WhoisGuard Protected
+
+Admin Organization: WhoisGuard, Inc.
+
+Admin Street: P.O. Box 0823-03411
+
+Admin City: Panama
+
+Admin State/Province: Panama
+
+Admin Postal Code:
+
+fe a i

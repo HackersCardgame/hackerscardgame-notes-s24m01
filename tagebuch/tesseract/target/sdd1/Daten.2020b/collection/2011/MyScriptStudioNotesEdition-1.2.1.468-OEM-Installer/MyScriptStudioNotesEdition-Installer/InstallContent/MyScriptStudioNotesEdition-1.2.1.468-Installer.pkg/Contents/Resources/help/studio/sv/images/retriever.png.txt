@@ -1,0 +1,14 @@
+S My Serpt inter rr i
+
+MyScript InkRetriever
+‘Om | Instringarfochamtring | Enhetsnstlringar
+
+MyScriptInkRetriever hialper dig Gverfora dokument fran dina USB tangentbordsenheter til din dator.
+Kicka p8 Nasta-knappen fér att starta konfigurationen.
+
+Kontrolera listan p8 kompatibla enheter
+
+\isa inte denna sida igen asta >>
+
+Copyright Vision Objects 2003-2010 wu. visionebiects.com
+

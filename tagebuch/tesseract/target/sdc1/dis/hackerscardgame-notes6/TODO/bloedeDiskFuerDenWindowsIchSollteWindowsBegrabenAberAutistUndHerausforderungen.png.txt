@@ -1,0 +1,33 @@
+Terminal
+
+Idev/sdb - GParted
+
+Applying pending operations
+Depending on the number and type of operations this might take a long time.
+
+Completed Operations:
+
+marc jr
+¥ Details
+
+start: 2048
+
+end: 3907028991 wort
+size: 3907026944 (1.82 TiB) »ch genau
+
+~ check file system on /dev/sdbl for errors and (if possible) fix them
+~ ntfsresize
+
+ntfsresize v2017.3.23AR.3 (libntfs-3g)
+
+$MFTMirr does not match $MFT (record 0). h
+ERROR(5): Opening '/dev/sdb1'as NTFS failed: Input/output error
+NTFS is inconsistent. Run chkdsk /f on Windows then reboot it TWICE! srechtVe
+The usage of the /f parameter is very IMPORTANT! No modification was
+and will be made to NTFS by this software until it gets repaired.
+
+Save Details
+
+1 operation pending
+
+urs blum bezichtig somit alle richter straffallig z

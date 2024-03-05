@@ -1,0 +1,45 @@
+WikirepiA Q Search Wikiped Create account Login. +++
+
+TheFreeEncelpedia a
+
+Graph theory Ba TH languages
+
+‘Contents fhe} ‘Acie Tak Read Edt Viewhistory Tools
+(Top) From Wikipedia, the ree encyclopedia
+> Definitions
+his atc is about sets of vertices connected by edges. For graphs of mathematical functions, see Graph ofa function. For other uses, see Graph
+> Applications (aisambiguation)
+History In mathematics, graph theory is the study of graphs, which are mathematica structures used to model pairwise
+> Representation relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are
+
+> Problems connected by edges (also called links or lines). A distinction is made between undirected graphs, where edges
+
+— Riv ios velss ecndball/at esa! cha cenne vaged Kalle wine eveeians Gina ae OO
+
+Cone of the principal objects of study in discrete mathematics,
+Notes
+References Definitions est
+
+> Extemnal inks ei
+
+Further information: Glossary of graph theory ick tcbsh
+
+Definitions in graph thoory vary. The folowing are some ofthe more basic ways of defining graphs and rolatod
+‘mathomatical structures.
+
+Graph [edi}
+In one restricted but very common sense of the term, Ia graph is an ordered pair G = (V, E) comprising
+
++ V, a sot of vertices (also called nodes or points)
+
+© EC {{2,9) | 2.y  V and 2 # y} , a sel of edges (also called links or lines), which are unordered pairs
+
+of vertices (thats, an edge is associated with two distinct vertices).
+
+‘To avoid ambiguity, this typeof object may be called procisoly an undirected simple graph
+Inthe edge {, y}, the vertices 2 and y are called the endpoints of the edge. The edge is said to Join z and yy
+{and tobe incident on 2 and on y. A vertex may exist in a graph and not belong to an edge. Multiple edges, not
+allowed under the definition above, are two or more edges that join the same two vertices. i
+
+cone more general sense ofthe term allowing mul ‘graph is an orderod tiple G = (VE.
+

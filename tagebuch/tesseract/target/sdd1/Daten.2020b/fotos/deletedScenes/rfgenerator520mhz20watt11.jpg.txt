@@ -1,0 +1,13 @@
+OUTLINE DRAWING Dimensions
+
+svaMax
+
+couLecTor
+@ EMITTER (FLANGE
+@ aase
+
+@ EMITTER [FLANGE]
+®
+
+TIE FIN (EMITTER)
+

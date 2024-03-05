@@ -1,0 +1,23 @@
+Starting Nmap 6.47 ( http://nmap.org ) at 2016-10-03 16:22 CEST
+
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (@ hosts up) scanned in 3.08 seconds
+
+claude@debian:~$ ping ott.net
+
+PING ott.net (77.109.144.131) 56(84) bytes of data
+
+C64 bytes from 77.109.144.131: icmp_seq=1 ttl=58 time=18.0 ms
+
+--+ ott.net ping statistics ---
+
+1 packets transmitted, 1 received, 0% packet loss, time Oms
+rtt min/avg/max/mdev = 18.099/18.099/18.099/0.000 ms
+claude@debian:~$ ping piraten-aargau.ch
+
+PING piraten-aargau.ch (77.109.144.133) 56(84) bytes of data
+nC
+
+--+ piraten-aargau.ch ping statistics ---
+
+1 packets transmitted, 0 received, 100% packet loss, time oms

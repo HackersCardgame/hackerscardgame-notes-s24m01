@@ -1,0 +1,24 @@
+‘Verklemmungsverhinderung (deadlock prevention) (searbeiten | ueltext bearbeiten |
+Grundsatalich gilt: Existiert nur ein Prozess in einem geschiossenen System, so kann dieser niemals verklemmen. Ebenso kann ein Prozess, der nur ein Betriebsmittel benatigt nicht verklemmen.
+‘Treten Verklemmungen ein, so kGnnen diese in der Regel nicht normal beseitigt werden, Stattdessen sollte die Betriebsmittelverwaltung versuchen, praventive MaSnahmen anzuwenden, um eine geeignete Sequentialisierung 2u
+‘erreichen. Man spricht von einer Verhinderung, wenn mindestens eine der vier Bedingungen fir eine Verklemmung nicht erfl wird,
+Preemption durchfihren
+inem Prozess werden Betriebsmittl entzogen, um sie einem anderen zuzutellen.
+Hold and wait verhindern
+Jeder Prozess gibt zu Beginn an, welche Betriebsmitel er bendtigt. Falls alle bendtigten Betriebsmitte gleichzeitig frei sind, bekommt sie ein Prozess auf einmal zugeteilt
+Mutual Exclusion beseitigen
+Die benatigten Betriebsmitte! fir alle Prozesse 2ugdnglich 2u machen, indem man den exklusiven Zugriffaufist. Alternativ Spooling (eispiel: Drucker) oder Virtualisierung von Betriebsmitteln (Beispe!: CPU).
+Circular Wait ausschliesen
+Betriebsmittel werden linear geordnet und in aufsteigender Reihenfolge vergeben.
+
+Verklemmungsvermeidung (deadlock avoidance)  2esrveten | Qultex bearbeiten}
+
+Zusatzlich kann man versuchen, die Verklemmung zu vermeiden (stellenweise auch Verklemmungsverhitung genannt). Dadurch sind Verklemmungen zwar theoretisch maglich; das System versucht jedoch die Prozesse so 2u
+‘Gberwachen, dass diese nicht verklemmen. Dieses Vorgehen basiert auf der Methode des sicheren Zustands. Ein Zustand gilt dann als sicher, wenn mindestens eine Scheduling-Rethenfolge existiert, in welcher alle vorhandenen Prozesse
+beendet werden kénnen, selbst wenn diese noch ihre maximalen Ressourcenanforderungen stellen sollten.
+
+Bel einer Vermeidung massen alle moglichen folgenden Vorgange bekannt sein. Hierbel wird haufig der Bankieralgorithmus angewandt, bei dem die Betriebsmittel nur dann einem Prozess zugetellt werden, wenn sie vollstandig
+_zurickgegeben werden. Beispielsweise hat ein Prozess n insgesamt fnf Betriebsmittel und er bendtigt noch drei weitere Betriebsmittel zur vollstindigen Ausfihrung. Das Betriebssystem stellt nach drei weitere Betriebsmittel 2u
+\Verfugung. Ein Prozess na besitzt zwei Betriebsmittel und fordert noch acht Betriebsmittel. Demzufolge erhaitProzess m die drei Betriebsmittel. Damit besizter alle Ressourcen, um vollstandig verarbeitet zu werden, worauf dem.
+Betriebssystem nach der Verarbeitung acht Betriebsmittel frei zu Verfgung stehen, die nun Prozess mp zugeteilt werden kOnnen. Eine Vermeidung ist oft sehr schwierig, da man schlecht abschatzen kann, welcher Prozess gendgend
+

@@ -1,0 +1,106 @@
+Anwender
+
+g
+‘tay yy
+| } |
+
+LGA AU
+
+|
+
+74
+
+Attacken abwehren
+
+Software soll sich am User orientieren und nicht umgekehrt - diese simple Weisheit gilt bei Sicherheitspro-
+grammen besonders. Nur wenn die Applikation sich jederzeit verhalt wie erwartet, eine verstandliche Sprache
+spricht und optische Hilfen gibt, schiitzt sie den Anwender ausreichend. peter utmann
+
+en oft sehr konkrete Vor-
+stellungen, wie Software zu funktionie-
+ren hat und in welcher Reihenfolge wel-
+che Tatigkeiten anstehen sollen. Weicht
+eine Applikation von diesem Schema ab,
+bereitet sie den Benutzern gro&e Schwie-
+tigkeiten. Als abschreckendes Beispiel eig-
+net sich das Erzeugen eines Schliissel-
+paars (6ffentlicher sowie privater Key).
+Wer an einer Unix-Kommandozeile sitzt,
+der wirft gew6hnlich GPG oder OpenSSL
+an, flittert die Kommandozeile mit einer
+langlichen Folge von Optionen, reagiert
+auf Nachfragen des Programms und war-
+
+tet darauf, dass das Tool die Schliissel an
+der vom User vorgegebenen Stelle ablegt.
+Fiir CLIs (Command Line Interfaces) ist
+dieser Ablauf normal - die Benutzer er-
+warten es nicht anders.
+
+Dummerweise haben die GUI-Entwickler
+das Interface stur tibernommen: Die Op-
+tion »-k Schliissellange« mutiert mal zu
+einer Combobox mit einer Liste vorgege-
+bener Werte, und aus »-a Algorithmus«
+wird vielleicht ein Satz Checkboxen. Ab-
+bildung 7 zeigt eines dieser missgliickten
+Designs. Dieses Exemplar scheut nicht
+einmal davor zuriick, in einem Experten-
+
+modus den User wieder auf die Komman-
+dozeile zuriickzuwerfen.
+
+Dieses GUI ist lediglich eine grafische
+Fortsetzung des CLI, das jeder Komman-
+dozeilenoption ein grafisches Element zu-
+ordnet. Doch damit nicht genug: Die Op-
+tionen verteilen sich gelegentlich tiber
+mehrere aufeinander folgende Fenster. Ei-
+ne grofe 6ffentliche CA (Certification Au-
+thority) geht noch weiter - sie qualt ihre
+User durch elf Bildschirmseiten, in denen
+sie ihre Daten eintippen, bevor sie ein
+Schliisselpaar erzeugen diirfen.
+
+Halbe Sachen
+
+User, die das Kommandozeilen-Interface
+kennen, finden sich in diesen GUI-Um-
+setzungen noch ganz gut zurecht. Wer
+liber diesen Erfahrungsschatz nicht ver-
+fiigt, der wird die Oberflache hingegen
+kKaum verstehen. Ihm bereitet es dann
+enorme Miihe, ein Schliisselpaar fiir ei-
+nen E-Mail-Client oder fiir den Webser-
+ver anzulegen. Er wird sich mindestens
+folgende Fragen stellen:
+
+™@ Was ist ein Schliisselpaar?
+
+™ Warum brauche ich zwei Keys statt
+
+nur einen?
+
+Welche Schliisselgrde brauche ich?
+
+Wer sind DSA und El Gamal?
+
+Was passiert nach Ablauf der Giiltig:
+
+keit des Schliissels?
+
+f@ Warum fragt mich mein E-Mail-Pro-
+gramm nach der E-Mail-Adresse - die
+kennt das Programm doch langst?
+
+i Was kommt ins Kommentarfeld?
+
+l@ Warum kennt der Computer meinen
+Namen nicht, ich habe mich doch
+eingeloggt?
+
+Kurz gesagt: Dieser Dialog ist unbrauch-
+
+bar - das Beste, was ihm passieren kann,
+
+ist ein freundliches »rm -rf«.

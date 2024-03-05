@@ -1,0 +1,42 @@
+whois: This information is subject to an Acceptable Use Policy
+See http: //www.nic.ch/terms/aup.html
+
+Domain name:
+salesmaster.ch
+
+Holder of domain name:
+Netmaster GmbH
+
+Fabio Russo
+
+Gartenstrasse 17
+
+CH-8002 Ziirich
+
+Switzerland
+
+Contractual Language: German
+
+Technical contact:
+Hostpoint AG
+
+Dario Baumgartner
+
+St. Dionysstrasse 31
+CH-8645 Rapperswil-Jona
+Switzerland
+
+Registrar:
+Hostpoint AG
+
+First registration date
+2001-07-27
+
+DNSSEC:N
+
+Name servers:
+ch.ch-inter.net
+
+je.ch- inter.net
+Be aieeis
+

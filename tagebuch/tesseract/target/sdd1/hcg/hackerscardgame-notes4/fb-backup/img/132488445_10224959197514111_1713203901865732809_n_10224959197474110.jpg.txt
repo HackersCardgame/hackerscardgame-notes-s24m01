@@ -1,0 +1,48 @@
+Bi Rech | EE Monts |B monte D2 D rex @ hich | heckerscon | Witte, | BB Tweet | Marc | Marc|
+
+camjpg | Ens0ST0% | @® Messe
+
+# Faced
+
++ iv O ©
+
+rowser, BrowserPlugin, auf
+
+if(resetCounter) insté
+else instances+=1;
+
+bestMove = 0 , 0 | Zeichne mit der Maus langsam Horizontalen, Vertikalen,Kreise,Diagonalen nach links/rechts, und
+jetzt ga erhaft un ell oder ertappt fuchteln.
+bitte kein V oder X, dann stirbt die Schildkréte :(
+
+if(depth < 1) return €
+moves = shuffle(pe 1. convert to linear array
+
+bestValue=- 1000006
+for( i= 0; i < mov
+
+return moves;
+
+[ToDo
+isInCheck(playe
+moves = possibleMoves (
+
+for( i=0; i<moves.|
+if(board[moves[i] [1
+return ;
+
+return i
+
+instances=0;
+
+minimax(depth,
+
+if(resetCounter) insté
+else instances+=1;
+
+aor; @ mpm emgage
+
+0409
+
+4/0 @® # B gem
+

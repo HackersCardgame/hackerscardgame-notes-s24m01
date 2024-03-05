@@ -1,0 +1,6 @@
+dconnectionstring (params):
+
+Joint \ (k, v) for k, v in parans. itens(
+
++ buildConnect ionstring nyParans) det
+

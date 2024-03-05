@@ -1,0 +1,79 @@
+Activities [) Terminal + Jan 12 06:47 v0 iy
+
+GitHub - zpehome/pam_usb: [UNMAINTAINED] Hardware authentication for Linux using ordinary USB Flash Drives. - Mozilla Firefox - a x
+
+x Gem fails to buildonUb x | +
+
+Home / Twitter x | Ml TweetDeck x | @ skype x | hackerscardgame.ch/jpo/c) x [@XCMMME, EMME J: Makefiles and subdirect x | @ installation - How Inst
+
+© | & https://github.com/zpehome/pam_usb vin Oo
+(ws) Why GitHub? Enterprise Explore Marketplace Pricing Sign in
+
+Q marc@gfycia: ~/disk/Daten.2020/code/pam_usb
+
+Save to /etc/pamusb.conf ?
+[Y/n] y
+Done.
+B $ sudo pamusb-conf --add-user marc
+which device would you like to use for authentication ?
+* Using "/dev/sdc" (only option)
+
+: marc
+: [dev/sde
+Save to /etc/pamusb.conf ?
+[Y/n] y
+Done.
+: $ sudo pam
+pam-auth-update pandice panfile pamon panstretch-gen pan_timestamp_check  pamusb-conf
+pamcut pam_extrausers_chkpwd pam_getenv pamstack pam_tally pamusb-agent.
+pandeinterlace pan_extrausers_update pamoil panstretch pam_tally2 panusb-check
+: $ sudo pamusb-check
+lUsage: panusb-check [--help] [--debug] [--config-path] [--service=name] [--dunp] [--qutet] [--debug] <usernane>
+$ sudo pamusb-check marc
+
+Authentication request for user "marc" (pamusb-check)
+
+Performing one time pad verification...
+
+Error communicating with D-BUS
+
+Probing volume (this could take a while)...
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+Error communicating with D-BUS
+
+README.md
+

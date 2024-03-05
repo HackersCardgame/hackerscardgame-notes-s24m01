@@ -1,0 +1,230 @@
+Keyboard battery low
+
+fa
+
+Wireless keyboard is very low in power. This device will soon
+A stop functioning if not charged.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 12 threads
+compressing objects: 100% (22/22), done
+Writing objects: 100% (22/22), 305.02 KiB | 21.79 MiB/s, done
+“Total 22 (delta 16), reused (delta 0), pack-reused 0
+3To https: //gitlab. com/HackersCardgame/hackerscardgame-notes6
+8aa47ca..57a9b23_ main -> main
+|marc@debian: /disk/marc/hackerscardgame-notes6$ git add -A && git commit -m"...
+-..." && git push
+)[main 387f7c8]
+~ 1 file changed, 5 insertions(+
+
+Terminal Q
+
+Dusername for ‘https://gitlab.com': hackerscardgame minal @t
+Password for ‘https: //hackerscardgame@gitlab.com' : ewee
+
+warning: redirecting to https: //gitlab. con/HackersCardgame/hackerscardgane-notes| <2) 44 ne
+
+6-git/ ithub.com’ :
+
+Enumerating objects: 15, done. . :
+
+[counting objects: 100% (15/15), done. A
+
+yoetta compression using up to 12 threads P
+
+Compressing objects: 100% (12/12), done. one
+
+jwriting objects: 100% (12/12), 1.24 KiB | 1.24 MiB/s, done.
+
+Total 12 (delta 9), reused @ (delta 0), pack-reused 0
+
+)To https: //gitlab.com/HackersCardgame/hackerscardgame-notes6
+57a9b23..387f7c8 main -> main
+
+marc@debian: /disk/marc/hackerscardgame-notes6$ ff
+
+96 MiB | 7.32 MiB/s, done.
+
+9), pack-reused 0
+
+done.
+
+5-25-24.mkv is 58.08 MB; this is larger t
+race Size of 50.00 MB
+
+: GHOO1:
+
+lL [main 0950500] save remote: error Large files detected. You may want to try Git Large File S
+. . torage - https://git-lfs.github.com.
+» 1 file changed, 2 inSelremote: error: Trace: 2138ff9bee86b947cf fad56b05af58f7b8a4a38a494c49c01137babaa7
+48cd15
+3 remote: error: See http://git.io/i€Pt8g for more information.
+A A remote: error: File ToDO/kartenlegen.svg is 115.60 MB; this exceeds GitHub's fil
+‘dDOS jetzt auf seiten verre init of 100.00 ns “es
+5 To https: //github.com/HackersCardgame/hackerscardgame-notes6b
+
+! [remote rejected] main -> main (pre-receive hook declined)
+
+Wed 16 Jun 2021 04:47: Bkerror: sited to push some refs to ‘https: //github.com/HackersCardgame/hackersca
+rdgame-notes6b'
+
+] 216 1365 12042 Cybe MVnarcedebian: /disk/marc/hackerscardgame-notesobs []
+
+38cd8060144b34c75ee596ab0cele9ef6d9F32fbbd40498142e28e80c85830810b0bI?":*:
+
+Q0e8:
+00e8:
+:fixme
+00e8:
+00e8:
+00e8:
+L 00e8:
+
+00e8:
+00e8:
+:fixme
+00e8:
+a0e8:
+
+cyberWAR20210616. txt
+)[main b83f148] save
+) 1 file changed, 3 insertions(+)
+
+o0e8
+
+2+= mirror auf github.com/HackersCardgame/hackerscardgame-notes6b
+
+3--> bzw. am uploaden...
+ilblInan nm ln JOADII AA:.EID:.12a2 DN COoCcT
+
+o0e8
+
+:fixme:
+:fixme:
+:fixme:
+:fixme
+:fixme
+:fixme
+:fixme:
+:fixme:
+:fixme:
+:fixme:
+fixme:
+
+fixme
+fixme
+
+fixme:
+fixme:
+fixme:
+fixme:
+fixme:
+
+fixme
+
+fixme
+
+fixme:
+
+dxgi:
+dxgi:
+dxgi:
+:dxgi:
+:dxgi:
+:dxgi:
+dxgi:
+dxgi:
+dxgi:
+dxgi:
+dxgi:
+:dxgi:
+:dxgi:
+:dxgi:
+dxgi:
+dxgi:
+dxgi:
+dxgi:
+dxgi:
+:dxgi:
+:dxgi:
+:dxgi:
+dxgi:
+
+Terminal
+
+d3d11_swapchain Presentl Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+d3d11_swapchain GetDesc Ignoring
+d3d11_swapchain Present1 Ignored
+
+x nedizin studenten schon relativ frihe
+ann in das zwangsmassnahmensystem der 1940er
+1 der uni basel studiert) zu wirgen...
+
+Qe
+
+Present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+ScanlineOrdering and Scaling.
+
+present parameters 0x22f230.
+
+1391¢c21907d51896679c4255e557eaf f8ef9491F897aék

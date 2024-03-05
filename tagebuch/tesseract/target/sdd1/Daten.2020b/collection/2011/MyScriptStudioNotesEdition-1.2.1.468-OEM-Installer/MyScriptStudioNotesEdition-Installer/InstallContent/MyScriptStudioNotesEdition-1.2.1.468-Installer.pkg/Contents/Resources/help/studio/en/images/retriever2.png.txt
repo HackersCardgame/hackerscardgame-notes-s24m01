@@ -1,0 +1,13 @@
+MyScript InkRetriever
+
+(C:\Users\adrienne Documents MyScript Documents notes ink Devices
+
+‘Advanced settings
+‘Clear fies from the device after downloading
+
+‘Overurite existing fies of the same name
+
+‘Scan every USB device
+
+Launch automatically on Windows startup
+

@@ -1,0 +1,9 @@
+Number of relays
+
+— Relays
+= Bridges
+
+aug:
+
+The Tor Project - https://metrics.torproject.org/
+art date (yyyy-mm-dd): [2016-07-13

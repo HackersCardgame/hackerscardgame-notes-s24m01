@@ -1,0 +1,8 @@
+taste LoxFunction
+9 closure
+
+GLOBAL
+
+— Cake class
+
+— Cake instance

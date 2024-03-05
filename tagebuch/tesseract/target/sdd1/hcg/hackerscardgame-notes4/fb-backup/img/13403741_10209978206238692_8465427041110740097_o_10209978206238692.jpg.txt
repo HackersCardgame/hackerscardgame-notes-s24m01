@@ -1,0 +1,36 @@
+Medical Imaging
+Public Software
+
+inVesalius is a free software (GNU GPL 2) build
+in collaboration with the community. It
+generates 3D medical imaging reconstruction
+based on a sequence of 2D DICOM files
+acquired with CT or MRI equipments, providing
+several visualization tools
+
+Current version: 3.0.0 Beta 5
+Available for: GNU Linux, MS Windows
+Note: MacOS x (only 32bits)
+
+First Steps
+
+= Register
+enshots
+= Download
+
+= Questions? Use the forum!
+
+Contribute!
+
+ound a bug?
+
+= Translate to your language
+= Download the source-code
+
+= How to send patches
+
+= Team & Credits
+
+tw
+
+@debian-med +

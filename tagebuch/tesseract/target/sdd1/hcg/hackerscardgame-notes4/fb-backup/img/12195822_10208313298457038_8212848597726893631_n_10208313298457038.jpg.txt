@@ -1,0 +1,47 @@
+Sind Sie kindisch?
+|
+D1 JA
+
+(GB vein
+
+|
+
+=
+
+|
+
+| sind Sie rassistisch?
+
+| JA
+|
+
+|
+ NEIN
+
+|
+—————
+
+\o
+
+@ NEIN
+
+Sind Sie nervos?
+
+JA
+
+| sind Sie betrunken?
+
+(C1 3A
+
+[a NEIN
+
+Sind Sie paranoid?
+
+oO
+
+[x] NEIN
+
+JA
+
+Treffen Sie Entscheidi
+

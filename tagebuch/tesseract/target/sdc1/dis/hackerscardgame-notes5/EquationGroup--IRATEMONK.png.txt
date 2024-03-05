@@ -1,0 +1,25 @@
+Activities © FirefoxESR + Tue Jun8 10:18
+
+ty
+
+nakedcapitalism.comi 240%) | + Oz nNOOw PN
+phone and you're wondering If It was secure - yeah maybe.
+Good luck.
+
+Here’s one where they replaced the hard drive firmware.
+
+There was a talk at OHM this year [OHM2013] where a guy
+talked about replacing hard drive firmware. You were onto
+something. You were really onto something. Whoever you
+are, you were onto something. Because the NSA has a
+program here, IRATEMONK, and that’s exactly what they do.
+They replace the firmware in the hard drive, so it doesn’t
+matter if you reformat the hard drive, you’re done. The
+firmware itself can do a whole bunch of stuff.
+
+So. Here are the names of the hard drive companies were it
+works: Western Digital, Seagate, Maxtor and Samsung, and
+of course they support FAT, NTFS, EXT3 and UFS. They
+probably now have support for additional file systems, but
+this is what we can prove.
+

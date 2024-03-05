@@ -1,0 +1,38 @@
+Activities © FirefoxESR ~ SunJun27 18:52 a” Or
+EZ Neuenburge Warenkorb Warenkorb J Ableton Live All Little 1 Ml Matt Tytel MH Little 10 © Cursynth-al | € (2)Linux Grou; | @ (2)Marc JrLA) | © WildMics Spec | “f v18-NinjaDo | w Debianvers x | + x
+
+LiDOw P=
+
+€ ec @ © | & hitps://en.wikipedia.org/wiki/Debian_version_history 190%
+
+Debian 11 (Bullseye) | edit]
+
+Debian 11 (Bullseye) is the upcoming release of the operating
+system as of spring 2021. However, no exact release date has
+been set yet.
+
+On 12 November 2020, it was announced that "Homeworld", by
+Juliette Taka, will be the default theme for Debian 11, after
+winning a public poll held with eighteen choices.!1781
+
+Bullseye is dropping the remaining Qt4/KDE 4 libraries and
+Python 2,[1791[180] The first of the code freezes, readying Debian
+11 for release, began on 12 January 2021,[181]
+
+Development freeze timetable:
+
+A preview version of Debian Bullseye with ©
+e January 12, 2021: transition freezel181] GNOME and sample applications open
+
+e February 12, 2021: soft freezel1821
+e March 12, 2021: hard freezel!183]
+
+mjuly 17, 2021: full freeze
+
+Bullseye will not support the older big-endian 32-bit MIPS architectures, !184]
+
+Bullseye is expected to ship with Qt 5.15 and KDE Plasma 5.20.!185] Bullseye is not expected to have LTO
+enabled by default.[186]
+
+Debian 12 (Bookworm) [edit]
+

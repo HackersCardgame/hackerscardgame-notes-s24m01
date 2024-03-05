@@ -1,0 +1,6 @@
+Checks
+
+46 8 10 12 14 16 18 20 22 0 2 4 6 8 10
+
+Max HostChecks:60 Average Host Checks:20 — Cusrent Host Checks: 30
+Max Service Checks:0.0 Average Service Checks: 0.0 Cuttent Service Checks: 0.0

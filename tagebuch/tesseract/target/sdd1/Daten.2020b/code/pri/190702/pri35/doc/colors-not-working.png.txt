@@ -1,0 +1,95 @@
+[21:46:12] <borls> because I see it
+[21:46:25] <landev> !pri test The.Matrix.1999.x265.bluEra’
+
+(21:46:26) <pRI-irc> @ test 1 The.Matrix.1999.x265.bluEray-ASDF
+(21:46:27)  <pRI-irc> The.Matrix.1999.x265.bluEray-ASDF
+[21:46:29]  <pRI-irc>
+
+[21:46:31]  <pRI-irc> ReLeaSe: © [1m.[36mThe.Matrix.1999.x265.bluEray-ASDF- [Om
+[21:46:33]  <pRI-irc> Group: © [1m-[35mASDF*[@m
+[21:46:35]  <pRI-irc> FeaTurS: = [32mCODEC:[@m: »[34mx265-[Om, ~[32mCLS-[Om: ~[34mCLS.[Om, »[32mMOVIEGENRE™[Om: = [34mAction,Sci-Fi>[Om, ~[32mDUPE~ [Om
+
+[34mnoDupe*[Om, ~[32mINTERNAL~[Om: ~[34mEXTERNAL*[Om, ~[32mIMDB-[Om: ~[34mnfo-[@m, »[32mVIDEOSOURCE:[@m: »[34mBLURAY:[Om, *[32m0S~ [Om
+[21:46:37] <pRI-irc> = [34mWINDOWS: [Om, *[32mBOOKWARETYPE™[Om: ~[34mBWMISC:[@m, ~[32mLANGUAGE:[Om: = [34mEN*[@m, ~[32mAPPSTYPE:[Om: = [34mstdapp~ [Om
+[32mDIMENSIONS: [Om: = [34m2D\[Om, ~[32mSECTION:[Om: ~[34mMOVIES.[@m, ~[32mSCREENS*[@m: © [34mSTV- [Om
+[21:46:39]  <pRI-irc> SEcTiON: © [1m [31mMOVIES.x265.BLURAY.STV.EN.Action, Sci-Fi.CLS.2D.WINDOWS . EXTERNAL .nfo* [@m
+[21:46:41]  <pRI-irc> [36mThe Matrix: [Om [33m (1999). [Om
+[21:46:43]  <pRI-irc>
+
+[21:46:45] <pRI-irc> [0;36m- = [0;37m>- [0;36m>- [1;36m>. [OmTitles(p/o) (1m. [37mThe Matrix.[Om / © [@m\[37mThe Matrix:.[Om-[1m-[33m (1999)*[Om
+[21:46:47]  <pRI-irc> [0;36m- = [0;37m>- [0 ;36m>-[1;36m>. [Om IMDB: tt0133093 ~[1m-[32m8.7 © [Om [33m1462440° [Om
+
+[21:46:49] <pRI-irc> [0;36m- = [0;37m>- [0 ;36m>-[1;36m>. [Om genres: Action, Sci-Fi
+
+(21:46:51) <pRI-irc> [0;36m- = [0;37m>-[ [om MOJO: tt@133093-[1m-[31m US: None* [Om [1m [34m UK: None*[@m
+
+[21:46:53] <pRI-irc> ---
+[21:46:55] <pRI-irc> [0;36m- »[0;37m>"[0;36m>"[1;36m>" [0m DUpE: noDupe
+[21:46:57] <pRI-irc> [0;36m- »[0;37m>"[0;36m>[1;36m>"[0m DuPeDaTE: None
+
+[21:46:59] <pRI-irc> ----------------------------------
+
+[
+[
+[
+0; 36m>".[1; 36m>
+[
+[
+
+[21:47:01] <pRI-irc> [ 1m: [31mNOTIFYINC
+[21:47:03]  <pRI-irc> [1m [34muser@5: = [Om>.[1m-[32mBRW-.[Om-[37m/*[Om-[36mDOX-@ »[Om
+[21:47:05]  <pRI-irc> [1m.[34muser@1: © [@m>.[1m-[32mBRW:.[Om-[37m/*[Om-[36mDOX-@ »[Om
+
+[21:47:07]  <pRI-irc> =:
+
+[21:47:09]  <pRI-irc> *[41m-[37m2019-01-24 2
+found’. [Om
+
+(21:47:11) <pRI-irc> © [41m [37m2019-01-24 21:46:25,494 [ERROR | configFileReader.py:72]
+found’. [Om
+
+[21:47:13] <pRI-irc> *[41m.[37m2019-01-24 21:46:25,495 [ERROR | configFileReader.py:72]
+found’. [Om
+
+(21:47:15) <pRI-irc> © [41m [37m2019-01-24 21:46:25,495 [ERROR | configFileReader.py:72]
+found’. [Om
+
+[21:47:17] <pRI-irc> *[41m-[37m2019-01-24 21:46:25,495 [ERROR | configFileReader. p)
+found’. [Om
+
+(21:47:19) <pRI-irc> *[41m-[37m2019-01-24 21:46:25,495 [ERROR
+
+(21:47:21) <pRI-irc> *[41m-[37m2019-01-24 21:46:25,526 [ERROR
+
+[21:47:23]  <pRI-irc> *[41m-[37m2019-01-24 21:46:25,526 [ERROR
+
+2] > CONFIGURATION ITEM /home/s/s-dev/pri/pri33/lib/../cfg/DOM.cfg not
+
+v
+
+CONFIGURATION ITEM /home/s/s-dev/pri/pri33/lib/../cfg/DOM.cfg not
+
+v
+
+CONFIGURATION ITEM /home/s/s-dev/pri/pri33/lib/../cfg/DOM.cfg not
+
+v
+
+CONFIGURATION ITEM /home/s/s-dev/pri/pri33/lib/../cfg/DOM.cfg not
+:72)
+
+v
+
+CONFIGURATION ITEM /home/s/s-dev/pri/pri33/lib/../cfg/DOM.cfg not
+
+siteParser.py:114] > Site DOM has no rules configured or not even a config file..[0m
+MOVIES.x264-0: Duplicated configuration item: EN AND EN:[@m
+MOVIES.x265-0: Duplicated configuration item: EN AND EN:[@m
+
+[21:48:49] <Landev> can you make a screenshot from your window and uplaod it to pri33 / issues?
+[21:49:10] <borls> yes sec
+[21:51:34] <borls> https: //groot .dnsfor.me:4432/pri/pri33/blob/master/doc/pri-irc-screenie. PNG
+
+[21:52:12] <Landev> ok good, and what irc client do you use?
+[21:53:03] <landev> i ust get junk, thats also something we should test genrally
+171-S55-A4hl] ehorles jireci

@@ -1,0 +1,74 @@
+last min avg max
+WICHP loss fo 0% "Om “0% "Ow.
+Ic ping im 2d ok 7 1
+HIICHPresponsetime aval 9.8ms_L7Ims 246ms _11.5ms
+
+ice toss
+
+(CM ping
+EIcMP response time
+
+last, min ag max
+a es i LY
+(ova) et 1 1
+(vg) 44.7ms @oms 32.35ms1695ms,
+
+last, m
+fav 0%
+fava 1
+
+fave) 242ms 1
+
+192 268.179.4: Taft on terface Broadcom Ceparatcn NetUnk BCHS7785 Giabt heme Pte (2H)
+somes
+
+aps
+zombes
+asmps
+roHepe
+SaGsaiss eae eG Geers
+geeeeeeiisississssse8ses ¢
+
+Incoming traffic on interface Broadcom Corporation NetLink 8CMS7795 Gigabit Ethemet PCIe
+Tl Outgoing traffic on interface Broadcom Corperation NetLink 8CMS?7785 Gigabit Ethemet Pcle
+
+incoming traffic on interface WAN
+Hi Outgoing trac on interface WANE
+
+192.168.179.1: Traffic on interface WAN2 (2h)
+
+Geese teas
+last min
+
+ov) 4 78Kbps 304 Kbps
+
+fovgl 29.94 Kbps 28-98 Kbps
+
+731. S2kops
+7822 Kops
+
+02020016:
+
+Incoming traffic on interface th
+Outgoing traffic on interace eth
+
+esos
+
+ov 2
+fev 1
+
+292268179.4 Tae on ntrface Qualcomm Atheros QCASS6S /ARSSES Wirelestetwor Adopter (2h)
+exes
+
+Soo Kbps
+200 Kops
+
+100 Kops
+
+192.168.179.20: Traffic on interface ethO (2h)
+
+rips
+wide
+kbps
+
+192.168.179.3: Taffic

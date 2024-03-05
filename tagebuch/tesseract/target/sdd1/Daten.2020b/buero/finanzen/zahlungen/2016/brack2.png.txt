@@ -1,0 +1,7 @@
+Offene Posten
+
+Belegnummer Datum Tage Falligkeit' — Mahnstufe —Belegart Betrag _Resthetrag
+8862063 14.03.18 49 24.03.16 1 Rechnung 112.50 112.50
+ZE VESR 02.05.18 0 02.05.16 0 Zahlung 102.50 102.50
+
+Total: CHF 10.00

@@ -1,0 +1,218 @@
+Wissenschaftler, die sich den kleinsten
+Bausteinen der Materie verschrieben
+haben, forschen mit gigantischen Anlagen.
+In Ermangelung alternativer Beobach-
+tungsgeriite bleibt ihnen nichts anderes
+iibrig, als subatomare Teilchen stark zu be-
+schleunigen und aufeinanderprallen zu las-
+sen. Aus dem, was dann folgt, kénnen sie
+Hinweise auf die innere Struktur der betei-
+ligten sowie neu produzierter Teilchen er-
+langen.
+
+Wie beim Urknall
+
+Zum Betrieb geeignet sind alle frei vor-
+
+kommenden, geladenen Atombausteine,
+
+also Elektronen und Protonen sowie deren
+; ’ Hotes er
+
+Da schon ein schwaches Glied die Kette
+zum ZerreiBen bringt, wird jeder Kandidat
+vor dem Einbau auf Herz und Nieren unter-
+sucht. Techniker bugsieren die pro Sttick 30
+Tonnen schweren Stahlrohren vor dem Ein-
+bau durch die extra dafiir errichteten Hallen
+des CERN-Dorfes. Hier entscheidet sich,
+ob der Priifling direkt via Portalkran 100
+Meter in den Untergrund wandert, oder
+zwecks Nachbesserung zuriick zur Montage
+fihrt. 1300 dieser 15 Meter langen Dipol-
+Réhren werden am Ende den Beschleuni-
+gerring formen, dazu kommen noch Stre-
+oa mit komplizierten Quadropol-Seg-
+
+jenten fir die Feinregelung des Strahls
+tod tact ac
+
+miichtigen Quarkbombe zum Einsatz zu
+bringen, erwiesen sich bereits in den 90er-
+Jahren als nicht zielfiihrend.
+
+Der jetzt im Bau befindliche europaische
+Ring geht in allem an die Grenzen des
+Machbaren, sowohl technisch als auch fi-
+nanziell. Bei der Konstruktion des Be-
+schleunigerrings waren die Erdkriimmung
+und sogar die von den umliegenden Al-
+penmassiven verursachten Gravitations-
+asymmetrien zu beriicksichtigen. In die
+Kalibrierung der Experimente gehen die
+Gezeiten und die Mondphasen ein.
+
+Wenn der Ring fertig ist, stehen den Wis-
+Kollisi ien von 100
+
+Begonnen hat alles 1931 mit einem Be-
+jer aussah wie eine Keksdose.
+
+Antimaterie, Neutrale Teilchen sind unge-
+cignet: Sie reagieren nicht auf die magne-
+tischen Leitfelder des Rings. Auch Quarks
+kann man nicht direkt verwenden, denn sie
+lagern sich infolge der starken Kernkraft
+sofort zusammen.
+
+In dem 26,7 Kilometer langen Ring des
+LHC beschleunigt man deshalb Protonen
+und schwere Atomkerne bis auf nahe
+Lichtgeschwindigkeit. Um die schweren
+Elementarteilchen auf der Bahn zu halten,
+sind 9 Tesla starke Felder ce ie) erfor-
+dert supraleitende, auf minus 271,4 Grad
+Celsius oder 1,8 Kelvin gekithlte Spulen,
+in denen der Strom widerstandslos zirku-
+liert. Genau genommen entstehen beim
+CERN sogar zwei Ringe, eng
+
+Die niichste Generation fand in einer Gara-
+ge Platz, dann folgten Fabrikhallen.
+SchlieBlich buddelten die Forscher ihre Be-
+schleuniger unter die Erde. Die in Elektro-
+nenyolt gemessene Beschleunigungsenergie
+stieg von einigen tausend Elektronenvolt in
+den Bereich Mega, Giga und heute Tera.
+Entsprechend wuchs der Aufwand.
+
+Noch in den 80er-Jahren gab es mehrere
+solcher Anlagen: in den USA, der ehema-
+ligen UdSSR und beim CERN; alle von
+vergleichbarer Leistungsfihigkeit. Heute
+ist nur noch das CERN iibrig. Die anderen
+GroBprojekte fielen dem Rotstift zum
+Opfer. Den Physikern in den USA war es
+nicht gelungen, den Politkern den Sinn
+be
+
+der geschmiegt. In diesen beiden Réhren
+zirkulieren die Teilchen gegenliufig.
+Beide Ringsysteme nutzen dieselben Mag-
+netspulen und dasselbe Kithlsystem. Von
+auBen sichtbar ist nur die blaue Rohre, die
+alles umschlie8t.
+
+des statistischen Rauschens sind sie
+eine wichtige Hilfe, auf die wir nicht
+verzichten kénnen.*
+
+Deshalb bleibt — trotz weltweit ver-
+teiltem Rechnen — eine Kopie aller ins
+Grid gestellten Daten beim CERN.
+Das sind immer noch 500 MByte/s, die
+einerseits ins Tierl und gleichzeitig
+auf die eigenen Speichersysteme zu
+schieben sind. Pro Jahr belauft sich der
+Output des gesamten Rings auf 15 Pet-
+abyte, das entspriiche der Speicherka-
+pazitiit von 3 Millionen DVDs.
+
+Viel Arbeit fir
+
+die Tape-Roboter
+Grundsitzlich benutzt das CERN
+
+dazu nur Magnetbiinder. Disks dienen
+
+nur als kurzfristige Datenpuffer.
+»Platten waren einfach zu teuer“, so
+
+iX 5/2006
+
+eines e-
+greiflich zu machen, das vor allem dazu
+dient, einige noch offene Fragen der
+Grundlagenforschung zu erhellen und das
+keinen sichtbaren Nutzen fiir Militar und
+Heimatschutz besitzt. Alle Uberlegungen,
+die gigantischen Kernkriifte in einer tiber-
+
+Dr. Wolfgang von Riiden, ,,Binder
+sind mit aktuell 50 Cent pro Gigabyte
+die preiswerteste Lésung. Platten
+kamen uns 10-mal teurer.“ Im Keller
+des Rechenzentrums stehen Band-
+speichersilos von Storagetek, IBM
+und weiteren Herstellern. Hier sind
+die Ergebnisse des Elektron/Positron-
+Beschleunigers verzeichnet, dem Vor-
+laufer des LHC. Auch vom LHC gibt
+es schon jede Menge Daten, aller-
+dings sind sie nicht gemessen, son-
+dern simuliert worden.
+
+GeV (Gigaelektronenvolt) bis zu mehreren
+TeV (Teraelektronenvolt) zur Verfiigung.
+Das ist deutlich mehr als irgendwo sonst
+auf der Welt und diirfte fur das Higgs lo-
+cker reichen. AuBerdem erwarten die Phy-
+siker bei mehr als 0,5 TeV ein supersym-
+metrisches Teilchen, das es seit dem Ur-
+knall nicht mehr gegeben hat. Eventuell
+lassen sich aus den Ergebnissen dann auch
+endlich Hinweise auf die Existenz oder
+Nicht-Existenz.jener versteckten Raumdi-
+mensionen ableiten, die seit zwei Jahr-
+zehnten in den Képfen von Theoretikern
+herumspuken. Diese ,,Superstrings* sollen
+alles, was bislang in verschiedenen, zuein-
+ander unvertriiglichen _ physikalischen
+Lehrgebiuden zusammengetragen wurde,
+unter einen Hut bringen. Ahnlich wie beim
+Higgs gibt es allerdings bislang keinen
+Hinweis auf Dimensionen jenseits der ein-
+steinschen Raum/Zeit-Welt aus vier Di-
+mensionen. Geduld werden die Forscher
+auf jeden Fall brauchen. So zeigt sich das
+Higgs, wenn tiberhaupt, nur alle 10 ® Kol-
+lisionen. Wenn es soweit ist, fallt hoffent-
+lich nicht der Rechner aus.
+
+te in Betrieb, wird die Kapazitit end-
+giiltig nicht mehr ausreichen.
+
+Die anfallenden Datenmengen wiir-
+den 15 Powderhorn-Silos pro Jahr fiil-
+len, jedes bestiickt mit 5000 Kassetten.
+Eine Entlastung soll die Umstellung
+auf neue Speicherkassetten mit héherer
+Datendichte bringen. Statt aktuell 200
+GByte finden dann 500 GByte auf
+einer Kassette Platz, macht um den
+Faktor 2,5 weniger Kassetten und
+damit auch weniger Silos. Bis es so-
+weit ist, miissen die Kandidaten um-
+
+Die last ruht auf 10
+indsen Powderhorn-Bandsil
+von Storagetek. Sie arbeiten schon
+heute am Anschlag und ackern pro
+Woche 70000 Tape-Mounts ab.
+Damit sind wir am Limit", erlautert
+der Chef der IT-Abteilung, ,,schneller
+kénnen die Roboterarme gar nicht zu-
+greifen.“ Gehen die neuen Experimen-
+
+Priifungen iiber sich erge-
+hen lassen. ,,Zur Zeit testen wir Syste-
+me von IBM und Storagetek", erklart
+von Riiden, ,die Entscheidung fallt
+noch in diesem Jahr.“ Vor allem mit
+den LTO-Drives hat man gute Erfahrun-
+gen gemacht.
+
+Da das Institut seinen gesamten Da-
+tenbestand alle vier Jahre auf die je-
+
+103

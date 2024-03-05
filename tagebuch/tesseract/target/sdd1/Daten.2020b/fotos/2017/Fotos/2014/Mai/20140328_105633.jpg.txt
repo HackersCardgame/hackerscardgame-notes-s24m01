@@ -1,0 +1,30 @@
+iy
+
+Security Advanced
+HP Computer Setup
+
+@ RAID
+[9 Ctrit Prompt
+(4) USB Charging Port
+Disable charging port
+in all sleep/off states below(%):
+| Wake on USB
+Enable Turbo Boost on DC
+Virtualization Technology (VTx)
+Virtualization Technology for D
+Trusted Execution Technology (
+HP HV Secure Boot
+
+i] Intel® Smart Connect Technology
+ij =~Multi Core CPU
+
+The above setting has been enabled because Deep sleep is set to On or Auto
+Intel(R) HT Technolc
+
+The above s gt ena d because Deep s et to On or Auto.
+
+Smart Card Reader Power
+Powered on if card is 5
+
+Always nowered on
+

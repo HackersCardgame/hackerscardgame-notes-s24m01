@@ -1,0 +1,10 @@
+condition expression
+
+OP_JUMP_IF_FALSE
+OP_POP
+
+body statement
+
+OP_LOOP
+OP_POP
+continues...

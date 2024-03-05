@@ -1,0 +1,20 @@
+‘ispiay fies of folders that the user dove not have rights to
+
+T Eneble access-based enumeration on this shared folder
+
+T Apply this folder's setting to all existing shared folders on this
+
+Erfinder
+CIA
+
+Funktionsweise
+
+Je nach Berechtigung werden "offiziell" bestimmte
+Ordner im Windows Netzwerk nicht angezeigt, aber
+scheinbar machen die "netten" Herren das auch auf
+Social Media und der Welt wird "Uberwachung"
+vorgesetzt (Objekt-Fixierung && Falsche Spur)
+
+Anwendungsfalle
+Zensur bzw "Geheimhaltung"
+

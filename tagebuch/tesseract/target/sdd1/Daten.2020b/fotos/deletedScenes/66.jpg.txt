@@ -1,0 +1,205 @@
+-
+GC
+bel
+=
+o
+=
+€
+<=
+
+66
+
+Attacken abwehren
+
+Sie kniipften ihr Sicherheitsgefiihl an das
+blo&e Vorhandensein eines Zertifikats.
+Ironischerweise verhielten sich die An-
+wender sicherer, wenn die Seite nicht
+SSL-geschiitzt war. Damit erweist sich
+SSL sogar schlimmer als ein Placebo: Es
+verleitet User dazu, gedankenlos Daten
+zu tibermitteln. Ein mit solchen Eigen-
+schaften ausgestattetes Medikament wa-
+re langst verboten.
+
+Phisher nutzen heutzutage die Urteils-
+heuristik gezielt fiir ihr so genanntes Se-
+cure Phishing aus. Sie stellen einen SSL-
+geschiitzten Webserver bereit, dem die
+User ahnungslos samtliche Bankdaten an-
+vertrauen, nur weil der Server irgendein
+Zertifikat verwendet.
+
+Ganz ohne Zusammenhang
+
+Implizit und ohne den User zu informie-
+ren, vertrauen Browser vielen CAs und
+folglich einer gewaltigen Menge an Zerti-
+fikaten. Der User kommt mit dem Begriff
+der Zertifikate deshalb erst in Kontakt,
+wenn ihm sein Webclient eine Warnung
+prdsentiert. Er weif§ damit dann nichts
+anzufangen - ihm fehlt der Kontext.
+
+Theoretische und tatsachliche Siche'
+
+Die theoretische Sicherheit einer Applikation
+weicht oftmals erheblich von der effektiven
+ab. Theoretisch wiirden wir alle PKI und Chip-
+karten zur Authentifizierung verwenden. Dum-
+merweise sind beide Techniken so mithsam im
+praktischen Einsatz, dass kaum jemand sie ver-
+wendet. Ihre effektive Auswirkung auf die Si-
+cherheit ist damit viel geringer als die her-
+kémmlicher Benutzernamen und Passwérter.
+Sicherheitsexperten konzentrieren sich gern
+auf die theoretisch héchste Sicherheit. Deren
+praktischer Nutzen ist aber viel geringer, so-
+bald frustrierte Anwender die Techniken miss-
+brauchen, abschalten oder umgehen.
+
+Einseitige Konzentration
+
+Noch schlimmer gestalten sich die Dinge, wenn
+die Entwickler bei aller Perfektion vergessen,
+weniger perfekte MaBnahmen auch nur halb-
+wegs sicher zu gestalten. Passworter gelten
+weithin als unsicher. Sie sind es aber nur, weil
+es die meisten Sicherheitsprotokolle so wollen.
+Die am weitesten verbreiteten Protokolle fiir
+passwortbasierte Authentifizierung - SSL und
+SSH - verbinden sich frohlich mit jeder Gegen-
+stelle, die sich als Server ausgibt, und verraten
+ihr das Passwort.
+
+Beide Protokolle versuchen nicht einmal, trivi-
+ale SchutzmaBnahmen einzusetzen, etwa die
+
+Bei einer Umfrage
+stellte sich heraus,
+dass die meisten
+Anwender ein SSL-
+Zertifikat gleich-
+setzen mit einer
+Plakette an der Tiir eines Geschafts (zum
+Beispiel ,,Mitglied der Metzgerinnung“)
+oder dass es nichts weiter besagt, als
+dass sein Besitzer dafiir gezahlt hat (Letz-
+teres ist oftmals naher an der Realitat,
+als es sein diirfte). Die Folgen dieser fa-
+talen Assoziation: Benutzer halten wenig
+von vertrauenswiirdigen (trusted) Zerti-
+fikaten und kiimmern sich daher auch
+nicht um ungiiltige, falsche oder abge-
+laufene Exemplare.
+
+Vermutlich ware die beste Lésung fiir
+sichere Netzwerkverbindungen der Ein-
+satz der passwortbasierten Authentifizie-
+tung von TLS (siehe Kasten ,,Theoreti-
+sche und tatsdchliche Sicherheit”). Es
+verwendet automatisch eine gegenseitige
+Authentifizierung, welche ohne Zertifi-
+kate auskommt. False Positives kommen
+nicht vor: Entweder der Handshake klappt
+und beide Seiten haben sich vollstandig
+authentifiziert, oder die Sitzung schlagt
+
+Neue Sicherteits-Updates verfligbar
+
+wsd@ 03:10,
+
+12.12.2005
+
+Abbiidung 3a: Suses Watcher informiert zu unauffdllig iiber neue Updates. Nach
+einem Klick auf den Text verschwindet er und stért nicht weiter.
+
+fehl - ohne Ausweg tiber kontraproduk-
+tive Warndialoge.
+
+Die meisten Anwender gehen den Weg
+des geringsten Widerstands, selbst wenn
+sie wissen, dass das wenig sicher ist. Si-
+cherheit ist kaum das Wichtigste fiir ei-
+nen Benutzer - wenn sie stort, umgeht
+er sie [3]. Studenten des Dartmouth Col-
+lege in den USA bevorzugten weiterhin
+Passworter, obwohl ihnen die Uni kos-
+tenlos wesentlich sicherere USB-Tokens
+bereitstellte. Passw6rter empfanden die
+Studenten als praktischer.
+
+Die User mégen es nicht, wenn ihnen
+jemand ein bestimmtes Interface vor-
+schreibt. Eine Gartner-Untersuchung [4]
+kam zu dem Ergebnis, dass Benutzer,
+obwohl sie sich vorgeblich mehr Sicher-
+heit wiinschen, im Ernstfall lieber bei
+ihren gewohnten Passwortern blieben,
+anstatt sichere Chipkarten und RSA-Keys
+zu verwenden [5].
+
+Challenge-Response-Verfahren, bei denen sich
+der Client authentifiziert, ohne das Passwort
+preiszugeben. Die perfide Logik dahinter: Pass-
+worter gelten sowieso als unsicher, also gibt
+sich kein Protokollentwickler die Miihe, Pass-
+worter zu schiitzen.
+
+Mehr als zehn Jahre nach der Einfiihrung von
+SSL gibt es endlich die ersten Ansatze, ein-
+fache passwortbasierte Challenge-Response-
+Authentifizierung nachzuriisten. Doch passiert
+dies jetzt unter dem Vorwand rechenschwa-
+cher Gerdte, welche eine PKI-Authentifizierung
+nicht beherrschen. Nicht so bei SSH, obwohl es
+ausdriicklich entwickelt wurde, um keine Pass-
+worter mehr im Klartext zu verschicken. Wah-
+rend der Ubertragung ist es nun zwar ver-
+schliisselt, aber der Empfanger erhalt immer
+noch das Klartext-Passwort.
+
+Spatfolgen
+
+Viele dieser paradoxen Erscheinungen wurzein
+in den Anfaéngen der Crypto-Community, die
+sich aus den Regierungsdiensten entwickelt
+hat. Fiir Kryptologen ist nur méglichst perfekte
+Sicherheit akzeptabel. Das fiihrt zu Alles-oder-
+nichts-Ansatzen, bei denen in der Praxis im-
+mer , nichts” herauskommt. Bietet ein Produkt
+wirksame, aber nicht perfekte Sicherheit, dann
+werden Sicherheitsexperten diese Schwache
+
+heftig kritisieren. Sie bevorzugen eine theore-
+tisch perfekte Lésung, selbst wenn sie prak-
+tisch unerreichbar oder unbenutzbar ist.
+
+Usability gehorte niemals zu den Anforderun-
+gen fiir Sicherheitsprotokolle oder Security
+Policies. Folglich landen kritische Sicherheits-
+entscheidungen so ungiinstig im Userinterface,
+dass die Benutzer Wege finden, um ungeliebte
+Sperren zu umgehen. Sie verstehen den Hin-
+tergrund nicht und fihlen sich nur behindert.
+Am besten sind Sicherheitsfeatures, die die
+Entwickler den Benutzern problemlos erklaren
+k6nnen, so dass diese sowohl das Risiko ver-
+stehen als auch die angemessene Reaktion.
+Niemand braucht Angst vor einfachen, aber
+wirksamen MaBnahmen zu haben, selbst wenn
+sie nicht das theoretische Optimum darstellen.
+
+Keine Ausrede
+
+Eines darf allerdings nicht passieren: den Ver-
+zicht auf theoretisch perfekte Sicherheit als
+Ausrede fiir schwachen Schutz zu verwenden.
+Wer selbst gebastelte Verschliisselungsverfah-
+ren oder unausgegorene Sicherheitsprotokolle
+statt bewahrter und anerkannt sicherer Stan-
+dards einsetzt, gefahrdet seine Benutzer villig
+unndtig. Angemessen geschiitzte Passwérter
+statt PKI zu verwenden ist dagegen eine ver-
+tretbare, wirksam sichere Alternative.
+

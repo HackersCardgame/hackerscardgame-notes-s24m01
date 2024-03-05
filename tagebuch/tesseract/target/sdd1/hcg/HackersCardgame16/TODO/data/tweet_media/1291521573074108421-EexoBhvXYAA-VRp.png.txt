@@ -1,0 +1,37 @@
+From nerdpol.ch* <diaspora@nerdpolch>
+
+‘We received an unauthorized request from your account, Marc jr Landolt
+To Me <mail@marclandolt.ch> #7
+
+Hello Mare,
+
+iaspora* has detected an attempt to access your session which might be unauthorised. To avoid any chance of your data being compromised, you have been signed out. Don wory; you can safely sign in again now.
+A request has been made using a incorrect or missing CSRF token, This might be completely innocent, butt could be a cross-site request forgery (CSRF) attack,
+
+This could have been caused by:
+
+‘An add-on manipulating the request or making request without the token;
+tab left open fom a past session
+
+‘Another website making requests, wth or without your permission;
+
+‘Various other external tools,
+
++ Malicious code tying to access your data
+
+For more information on CSRF see hiins/viuvowasp orgindex php/Cioss-SiteRequestFargery_(CSRE).
+Ifyou see this message repeatedy, please check the points above, including any browser add-ons,
+
+‘Thank you, The diaspora® email robot!
+
+extol ‘knee a
+
+nprove Mozila Thunderbird by automatically reporting memory usage, performance, and responsiveness to Mozilla? Learn More.
+
+© Reply | > Forward
+
+& Archive | @ Junk|| G Delete | More v
+115AM
+
+Yes No x
+Unread: 27 Total: 79. () Today Pane «

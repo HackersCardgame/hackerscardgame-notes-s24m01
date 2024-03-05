@@ -1,0 +1,10 @@
+1.2 Uberlagerung von Harmonischen Schwingungen
+
+Uberlagert man nun mehrere Harmonische Schwingungen so entsteht eine neue Schwingung.
+Haben die Schwingungen (grin Kurven) die gleiche Frequenz entsteht wieder eine
+Harmonische Schwingung (rot). Haben die zwei Ausgangskurven (schwarz)
+unterschiedliche Frequenzen so entsteht eine nicht harmonische Schwingung (blaue Kurve).
+
+Diese Eigenschaft kann man sich zu Nutze
+machen um andere Periodischen Funktionen zu beschreiben:
+

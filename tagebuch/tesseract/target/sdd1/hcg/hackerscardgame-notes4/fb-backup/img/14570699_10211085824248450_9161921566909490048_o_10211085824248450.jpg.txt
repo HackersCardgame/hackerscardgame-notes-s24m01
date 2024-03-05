@@ -1,0 +1,35 @@
+hmmm the simulator, seems to work on my debian jessie.
+
+4873 git clone hitps:/ait
+4874 Is
+
+4875 cd salto_simutator/
+4876 cat README |grep apt-get
+
+4881 sudo apt-get install build-essential
+41883 sudo apt-get install libsdll.2-dev
+41885 sudo apt-get install flex bison
+41886 make
+
+4.887 bin/salto disks/games.dsk.Z
+
+41888 history
+marc@debian:~/salto_simulators
+
+om/br
+
+>_simulator
+
+jechnology
+
+history
+
+but how to use the alto system seems to be another question, there is not even a
+
+help command.
+‘Ox Alto Restoration Part 8
+
+> Lan
+2 = Directory Listing
+calculator. RUN [ENTER] opens the Scientific Calculator
+

@@ -1,0 +1,7 @@
+OP_GET_LOCAL (this ) - | Cruller instance |
+OP_GET_UPVALUE (super) - | Cruller instance | Doughnut class |
+OPGET_SUPER “finish” Tf finish) —_ |
+
+OP_CONSTANT [Fn finish | “icing”
+
+OP_CALL | nil

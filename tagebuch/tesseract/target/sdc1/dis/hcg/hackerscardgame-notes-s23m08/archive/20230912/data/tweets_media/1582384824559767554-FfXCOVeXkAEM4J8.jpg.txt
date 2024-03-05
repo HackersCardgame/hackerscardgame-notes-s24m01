@@ -1,0 +1,52 @@
+Activities ©) FirefoxESR ¥
+
+FULL of STARS
+
+Oct 18 16:53 ©
+
+Demo Sct
+
+\VRDemo Most Firefox
+
+Demo Scene - VRDemo
+
+Point Cloud Kit for Unreal Engine 4
+
+Home
+
+Contact
+
+- . Documentation
+
+<=
+
+Data Flow
+
+Importing PLY Files
+
+CPU Data Readback
+
+Demo Scene - Galaxy ¥
+
+Demo Scene - LIDAR
+
+Surrounded by Point
+
+- © ?.
+
+PointCloudkit VRDemo ~
+
+M WEITERE VIDEOS. FO
+
+— 4 “oe
+rH
+
+> 022/495
+
+This demo was optimized for Oculus Rift, but it should be easy to adapt to other VR
+devices. In the Level Blueprint the property “teleportMode” can be changed between:
++ TeleportSwift : Press the right Motion-Controller stick in up direction to activate
+
+the teleport arc.
+* TeleportTriggered : Click the right Motion-Controller stick/pad to activate the
+

@@ -1,0 +1,136 @@
+Hierarchy
+
+© E&Y 9 OP toetj.usa 23
+
+‘go exanple
+Biel Leet
+(Bere
+exemple
+GB org. apache. Logtj
+(2) Appender. java
+BD tnpenderskeleton. java
+{D) Asynekppender. java
+(0) Basi cCongi gurstor. java
+{D) Category. java
+(2) Categoryiey. java
+[2] ConsoLeAppender. java
+(2) DeityRolt ingFiekppender. java
+[J] Defaul CategoryFactory. java
+[D) Dispateher. java
+(2) FiteAppender. java
+Bp Wierareny, java
+2) MwLLayout. java
+SQ maLayout
+SF egalArgmentBxception
+SP Locatrow_napa_ orton
+F rrmz_orrzon
+48 TRACE_PREFTX
+Dur SIZE
+2 Locationlnge
+ax caPacrTY
+2 sbuf
+2 title
+@ activateOptions 0
+
+Gs format CoggingEvent)
+getContentType0)
+getFooter 0
+
+getHeader 0
+getLocationtnfo 0
+getTitleO
+
+i gnoresThrovable 0
+setLocationlnfo boolean)
+setTitle Gtring)
+
+D) Layout. java
+
+D) Level. jave
+
+(D) Logger. java
+
+[D) Lodtansger. java
+
+B) moc, java
+
+Be. java
+
+‘Bp Patterntayout, java
+
+DD) Priority. java
+
+copooppp
+
+Cs|
+
+a 1
+
+Open
+Open Type Hierarchy
+
+of tat
+Beery
+52 Copy Qualified Wane
+
+(Bi Baste
+
+Build Path
+Source
+
+Refactor
+
+ey Inport.
+
+References
+
+Declarations
+
+Bun As
+Debug As
+
+Compare With
+Replace With
+
+Properties
+
+Open Call Mierarchy
+
+‘HM Delete
+
+ALUShigttT >
+
+WA Export
+
+Toggle Method Breakpoint
+
+Restore fron Locel History.
+
+m
+CerltaLeen,
+
+Cert
+
+ceric
+
+cer
+Delete
+
+ALtShigtts
+
+ALtEnter
+
+500.
+
+600,
+
+[> voia appendThrowableasHTML (String[] s,
+
+if(s != null) (
+int len = s. length;
+if (len == 0)
+
+StringBuffer sbuf)
+
+throws 11.
+

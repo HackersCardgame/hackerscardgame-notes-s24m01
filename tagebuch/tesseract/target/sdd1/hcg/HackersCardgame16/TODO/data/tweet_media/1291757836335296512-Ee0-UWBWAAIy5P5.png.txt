@@ -1,0 +1,20 @@
+marc@debian :~/disk/HackersCardgamel2$ fgrep -r -i landev cards/
+cards/DE/methods/m140. svg: id="flowPara40772">My wannabe Hacker Name i
+st landev. If one would lock at people as some sort of software or program you c
+an start on a shell, one could put himself or others into mpetauspan
+cards/DE/methods/m140. svg: id="tspan1225">[
+
+“Vv _-v</tspan></
+text>
+
+icards/EN/methods/m140. svg: i
+
+flowPara40772">My wannabe Hacker Name i,
+
+st landev. If one would lock at people as some sort of software or program you c
+an start on a shell, one could put himself or others into <flowSpan
+cards/EN/methods/m140. svg: id="tspanl225">landev -d -v -v -v</tspan></
+text>
+
+marc@debian :~/disk/HackersCardgamel2s ff
+

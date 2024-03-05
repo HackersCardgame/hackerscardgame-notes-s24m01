@@ -1,0 +1,19 @@
+Expr.Literal
+
+(header) Double
+Expr.Binary ieee sl. (header)
+Cheader)
+left Token
+operator ols (header)
+right | type PLUS String
+
+lexeme o-——] (header)
+literal null vat
+
+line 1
+
+Expr. Literal
+
+(header) Double
+value o-——4] (header)
+2.0

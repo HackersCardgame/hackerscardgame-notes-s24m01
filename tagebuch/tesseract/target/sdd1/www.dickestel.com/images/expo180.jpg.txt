@@ -1,0 +1,25 @@
+Heathkit EC-1
+Educational Analog Computer
+
+Introduced by Heathkit 1959
+Cost $400.00
+Kit form or pre-assembled.
+
+Input Analog voltage
+Output Analog voltage
+Complexity 9 Operational Amplifiers
+
+The EC-1 was used mainly by Educational Institutions and
+Industrial Companies, for teaching , training and research
+purposes. It was also used by electronic hobbyist.
+
+Unlike Digital computers, Analog computers operate
+continuously, limited by the frequency response of the
+amplifiers and circuitry.
+
+Analog computers were used mainly to solve and simulate
+both mechanical and mathematical problems. Analog
+computers were especially useful in solving Gh vione
+problems in which the problem can be expressed in the form
+
+of a differential equation.

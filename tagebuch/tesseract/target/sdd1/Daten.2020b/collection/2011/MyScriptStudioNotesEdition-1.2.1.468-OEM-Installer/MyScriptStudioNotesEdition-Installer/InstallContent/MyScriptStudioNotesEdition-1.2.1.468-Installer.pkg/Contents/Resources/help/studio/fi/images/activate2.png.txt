@@ -1,0 +1,26 @@
+SECS
+
+ams
+
+o
+
+Aktivointi ei ehka ole mahdollista, koska palvelin on poissa kaytdsta tai varattuna,
+
+tai suojausasetukset voivat estaa viestinnn palvelimen kanssa. Voit
+tapauksessa kayttaé manuaalista aktivointia, joka koostuu neljasta vaiheesta:
+
+1. Napsauta OK-painiketta tassa valintaikkunassa.
+
+2. Tami luo teksttiedoston, joke sisat88 koodislatteesiyksidlisen tunnuksen ja
+tuotekoodin. Jos luot taman latteess,jossa ei ole Intemnet-yhteytt3, kopioi tim
+teksti toiseenlaitteeseen ja lahetd se sielta.
+
+3, Kopioi nama tiedot sahképostivestiin ja lahetd se aktivointipalveluun
+‘osoitteeseen VO support activation studio.support@vvisionobjects.com>.
+‘Teemme aktivointitiedoston ja lahetamme sen sinulle sahkopostitse. Tata
+tiedostoa voidaan kayttaa vain yhdessa laitteessa eli sind lateessa, jossa
+alkuperdinen pyynt6 lucti
+
+4, Kaksoisnapsauta viestin litetty@ licence.lic-tiedostoa, Tima avaa pienen
+sovelluksen, joka aktivoi kasikrjoituksen tunnistusohjelmiston.
+

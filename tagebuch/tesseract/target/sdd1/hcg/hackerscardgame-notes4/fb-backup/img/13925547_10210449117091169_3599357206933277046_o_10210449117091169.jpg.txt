@@ -1,0 +1,48 @@
+marc@debian:~$ sudo apt-get purge chromium
+
+* No device configured for user "marc".
+
+[sudo] password for marc:
+
+Reading package lists... Done
+
+Building dependency tree
+
+Reading state information... Done
+
+The following packages were automatically installed and are no longer required:
+lLibasnl-8-heimdal Libgssapi3-heimdal Libhcrypto4-heimdal
+Libheimbasel -heimdal Libheimntlm@-heimdal Libhx509-5-heimdal
+Libkrb5-26-heimdal Libroken18-heimdal Libwind®-heimdal rtmpdump
+
+Use ‘apt-get autoremove' to remove them
+
+The following packages will be REMOVE!
+chromium*
+
+@ upgraded, @ newly installed, 1 to remove and 2 not upgraded.
+
+After this operation, 159 MB disk space will be freed.
+
+Do you want to continue? [Y/n] y
+
+(Reading database ... 250801 files and directories currently installed.
+
+Removing chromium (51.0.2704.79-1~deb8ul)
+
+Purging configuration files for chromium (51.0.2704.79-1~deb8ul)
+
+Processing triggers for hicolor-icon-theme (@.13-1)
+
+Processing triggers for gnome-menus (3.13.3-6
+
+Processing triggers for desktop-file-utils (@.22-1)
+
+Processing triggers for mime-support (3.58
+
+Processing triggers for man-db (2.7.0.2-5
+
+Processing triggers for menu (2.1.47
+
+marc@debian:~$ ff
+

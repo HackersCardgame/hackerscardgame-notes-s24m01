@@ -1,0 +1,14 @@
+Carpeta de archivos temporales
+Ubicacién: C:\Users\José VAppData|.ocal\Temp\audacity. temp
+
+Espacio libre: 23.7 GB
+
+Caché de audio
+
+[lReproduci yfo grabar uiiizando RAM (itl en discos lentos)
+
+‘Cantidad minima de memoria ibre (Mb): 16
+
+Sila memoria disponible desciende por debajo de este valor, el aucio
+dejard de ser aimacenado en memoria y se escrbiré en el disco.
+

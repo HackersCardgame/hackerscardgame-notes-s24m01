@@ -1,0 +1,42 @@
+Ne ee
+
+version: 4.5.0,2948
+
+{Affichage || Stylo_—||_— Marqueur Apropos |
+
+istré pour: Mnemis Test <info@mner
+
+Changer de licence.
+
+is.com>, pour usage personnel
+
+{© 2009 Mnemis SA, All rights reserved.
+
+Warning: this software is protected by copyright lis and international treaties. ll repraduction or distribution of ths software, in whale arin
+part, by any means whatsoever, Is strily prohibited. Anyone nat complying with these provisions Is qulty of forgery and liable to penalties
+provided by law.
+
+Prtians ofthe Unibard safoare use the following third pary modules
+
+OpenSSL open source code. Copyright © 1998-2008 The OpenSSL Project.
+'SSLeay open source code. Copyright © 1995-1998 Eric Young (eaycryptzaf.com.
+
+Virtual Printer software. Copyright © 1999-2006 Twa Pilot,
+
+Phonon. Copyright © 2005-2007 Matthias Kretz (kretz@hde. ora),
+
+(Copyright © 2009 Nokia Corporation and/or is subsidiaries).
+
+Contact: Nokia Corporation (at-infonakia.con.
+
+ECU Toolkit. Copyright © 2009 Nokia Corporation and/or Its subsidiaries). Contact: Nokia Corporation (qt-info@nakia.com)
+WebKit open source cade. Copyright © thelr respective owners (wuw.webKiLora)
+
+ColorPicker. Copyright © 2009 Stefan Pete (win eyecon.t0)
+
+(Ri Contréle automatique des nouvelles versions du logi
+
+Tislges par tue] (CO
+
+el | Contrdler si une nouvelle ver:
+

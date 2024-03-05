@@ -1,0 +1,17 @@
+public class
+protected class
+private class o
+
+‘lasse(Schablone) tome
+
+Inventor: Year:
+
+Tell the computer to define an object, which is 9
+element (212) where the possible values are defined
+and and stored it in Memory (see also struct / C++ )
+but there are also "functions" that are called
+
+methods". A classimembers/methods can be public,
+protected and private, There are (-arorsearoewenie
+Static membersimethods :
+

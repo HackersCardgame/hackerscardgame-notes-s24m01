@@ -1,0 +1,19 @@
+192, 168.192.1: Traffic on interface lan-lan4 (5h 56m 24s)
+
+600 Kbps
+400 Kbps
+200 Kbps
+ohn lg
+last min avg
+[Incoming traffic on interface lan-land [avg] 104,78 Kbps Sbps _ 4.18 Kbps
+BH Outgoing traffic on interface lan-land [avg] 5.9Kbps Obps 11.31 Kbps
+
+—_
+
+1230
+
+07-23 12:46.
+
+ma
+204.06
+424.82

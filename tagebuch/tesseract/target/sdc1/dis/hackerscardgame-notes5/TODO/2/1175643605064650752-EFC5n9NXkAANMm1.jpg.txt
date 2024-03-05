@@ -1,0 +1,30 @@
+Q root@degi
+narc@degtan:~/favourite-denoscene-stuff-strange.mp3/favourite-demoscene-stuff.mp3$ cd
+marc@degtan:-$ sudo su
+[sudo] password for marc:
+Sorry, try again.
+[sudo] password for marc:
+rootedegian: /hone/marc# cd
+root@degian:-# fgrep -r sufficient /etc/
+ity/j. # the subject name alone is not =//\<\-9! to uniquely identify the certificate
+
+auth ou) 208 pam_rootok.so
+# permitted earlier by e.g. "-'\<\«"* pam_rootok.so”).
+# auth So) 8 pam_wheel.so trust
+2 auth suffictent pam_rootok.so
+auth — suffictent pam_succeed_if.so user ingroup nopasswdlogin
+
+# When the module is present, “required” would be (When SELinux
+
+# When the module is present, "required" would be °°» (When SELinux
+
+auth sufficient pam_rootok.so
+
+auth sufficient pam_rootok. so
+
+# following Line is «(| \«1:. This however assumes that the connected scanner (or to be more
+Jese.shi# «0/1005 to enable the just mentioned behavior, even if the
+# not -.'* <<». to stop acct once after booting if your machine remains up.
+# simultaneous connections to the same domain could be =.» to
+
+rootedegtan:~# ff

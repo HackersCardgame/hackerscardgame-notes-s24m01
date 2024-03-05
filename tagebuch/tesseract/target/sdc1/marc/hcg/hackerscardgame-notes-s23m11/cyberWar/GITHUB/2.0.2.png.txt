@@ -1,0 +1,31 @@
+marcland@s92: ~/www/hackerscardgame.ch/2.0.2 Qi=/) x
+
+I | im
+I | im
+—]! tl tl Pleb belie bis bot
+ILI I-I
+
+— -| Il —/ |—_II-] \-1
+
+Host 592.server.hostpoint. internal
+os: FreeBSD 13.2
+
+[marclandes92:~] $ cd www/hackerscardgame.ch
+[marcland@s92:~/www/hackerscardgame.ch] main(+2/-275)* * cd 2.0.2
+[marclandes92:~/www/ .. rscardgame.ch/2.@.2] master # git diff HEAD
+[marclandes92:~/www/ .. rscardgame.ch/2.@.2] master * git rev-parse head
+
+head
+
+fatal: ambiguous argument ‘head’: unknown revision or path not in the working tr
+ee
+
+Use '--' to separate paths from revisions, like this
+
+"git <command> [<revision>...] -- [<file>...]'
+
+[marcland@s92:~/www/ .. rscardgame.ch/2.0.2] master 128 + git rev-parse HEAD
+b70ac74c971bdf91f8c03a3b263f faefb67ac815
+
+[marcland@s92:~/www/ .. rscardgame.ch/2.0.2] master +
+

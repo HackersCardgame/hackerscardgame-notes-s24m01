@@ -1,0 +1,29 @@
+goddies
+
+ArrayList al = new ArrayList (a.length);
+
+for (int i = 0; i < a.length; i++)
+al.add (a[i]);
+
+return al;
+
+}
+
+// Useful until java 1.5 -ghuang
+static public int[] toIntArray (ArrayList list)
+
+{
+
+int[] result = new int[list.size()];
+
+for (int i=0; i< umber) Veta
+4
+
+Inventor:
+
+They also seem to have an ArrayList of
+things i would like to finish, things that i love
+to do. so of a27 does not work they play this
+card. a27 and a27b together they are used -
+> m7, m8 cards
+

@@ -1,0 +1,28 @@
+1arc@ .
+
+main
+
+3 fimarc@debian: /disk/marc/hackerscardgame-notes6b$ alt einf
+creamarc@debian: /disk/marc/hackerscardgame-notes6b$ cd
+creamarc@debian:~$ cd hackerscardgame-notes6
+Jsernimarc@debian:~/hackerscardgame-notes6$ git add -A && git commit -m *
+asswiit push
+
+-emot«{main b920763]
+
+atal_ 1 file changed, 6 insertions(+)
+
+ame-;fatal: unable to access ‘https: //gitlab.com/HackersCardgame/hackerscardgame-note
+arc@s6/': The requested URL returned error: 403
+Isern;marc@debian:~/hackerscardgame-notes6$ git push
+asswfatal: unable to access ‘https: //gitlab.com/HackersCardgame/hackerscardgame-note
+umeS6/': The requested URL returned error: 403
+unt-marc@debian:~/hackerscardgame-notes6$ ff
+
+elta
+
+ef8f3e47
+
+es!
+arc@
+

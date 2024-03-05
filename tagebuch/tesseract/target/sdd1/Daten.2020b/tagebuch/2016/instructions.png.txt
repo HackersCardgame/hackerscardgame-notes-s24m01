@@ -1,0 +1,53 @@
+pea}
+
+XII, Jo turn off equipment:
+
+nN.
+
+et, 6-plug outlet
+ni Surge-euppressed outlet, 6-P!
+
+. Turn oR! ply, monitor, disk drive, and finally
+3. Gower supply,
+
+Be iice ncine genercos ant Ser
+urn on wate aot Ser shock Goneratore co deliver |
+ect.
+es ;
+Pi rcc aise iabeiea tnaysierd...° (c. 2 con
+
+ Bype Soap tL 28678, 1 and press R
+B: Biker wneaby." appears, type NEW and press.
+
+to run desired program:
+
+Put disk labeled "SHOCK PROGS" into drive
+‘Type LOAD "[filenane]",2 and pres
+‘type RUN then answer each question and presi
+
+‘program Names
+
+SHOCK Delivers fixed-duration shocks on a VP schedt
+EYR-2 Delivers shocks to two escape“yoked pairs.
+Increase response requirement, F1/F3
+Decrease response requirement, F2/F4
+Impose nininum 0.8-s delay, P5/F6
+(Print out data with EYR2CHK)
+TRIPLE Delivers escapable shocks to three rats.
+Increase response requirenent, F1/P9/25
+
+Fesponse Fequirenent, £2/24/86
+Impose minimum 0.8-s delay, T2738" 4
+(Prine out data with TRIPLEcie
+
+Work backwards from step 3 above.
+
+a. Pre
+
+RUN/STOP Key
+
+2. Type —PoRE 56046,0 and press Return
+
+Restart program by typing RUN
+
+Ae all eles faite, curn off computer and een

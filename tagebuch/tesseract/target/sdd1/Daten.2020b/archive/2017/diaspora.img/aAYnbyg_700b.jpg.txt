@@ -1,0 +1,44 @@
+Gameboy Raspberry Pi... | feel like | could
+cry...
+
+The Gameboy will always hold a fond place in my childhood
+heart. | have always wanted a Gameboy Light, but they were
+never released in the US and the ones on eBay in decent
+condition are pretty pricey.
+
+Given that, | built my own.
+
+Running for the first time with the modified
+LCD screen
+
+In order for this project to work, the LCD had to be modified to
+run off of 5 volts. After several failed attempts at finding a 5V in,
+lucked on it!
+
+Yes, it runs DOOM!
+
+“Slaten <<
+
+Removed the 12V Power regulator and jump soldered to the in
+Capacitor. Works like a charm at 5V!
+
+Work all done, firing up with the battery for
+the first time
+
+\
+Ae
+9
+
+| found a pretty cheap 4800mAH external battery that puts out
+5V, 1AMP which should power it for decent amount of time.
+
+Best Gameboy game?
+
+SEP, S
+
+NES as well...
+
+Woo"sv96 VIA
+
+DOOM? Why not!
+

@@ -1,0 +1,11 @@
+Sudoku Solver
+
+you can clear it and enter your own, but it does not solve all sudokus yet
+
+revert to guess checkpoint
+
+guesses: 0
+selectionArray: --
+
+https://github.com/braindef/sudoku. js
+

@@ -1,0 +1,47 @@
+Nevenburgerstasse6-10: Custom screns [refreshed every30 sec] - Masia Firefox
+
+om
+
+< Reo | Meo: | @ Shp | EWM |B Mye | MOTT | @ OSC | ENP |RDMor | w Hom | w Piet |e Ure | dour | Reo @ | We: | O ne
+<oc¢e 197.168.192.234
+icHP ping wg ~~OS~SC~«SCSSCS ICNP ping lava) r i Y i
+Hicuerespensetime iv = 9 Biicaeresponsetime favel 17.0ms 12.2ms 41.7ams 3435ms
+wonuttter:com: Ping (3h) ‘marclandolt.ch: Ping (3h)
+
+Nast, min avg max Yast, min avg max
+cue loss fovg "Om "Om SOF omer micMeP lose fag "0% "0% oem ET %
+(EMP ping teva 7 : 7 i EME ping feval 7 i 7 :
+Bice respensetime lavgl 42m 22ems SAzome 3204ms Bice responsetime [ave] 17.0ms 10Sms 45.80ms483.7ms,
+
+192,168.192.1: Taffic on interface wan-wanl (3h)
+
+192.168, 192.1: Taffic on interface wan-wan2 (3h)
+
+Bs:
+
+& ry 3 a: 3
+last min ag let min ag
+incoming trafic on interface wanwanl avg) 1283 Mbps S17 Meps 26:4 bps 7 Mincomingtrafc on terface wanwar2 avg) Obpe Gbps Gbps
+Dutgeingiratic on ineracewanwanl [avg] 1233MBps S9MOps 1613Mbps 7 MPOwtgongtratie en mtertacewanarara [aval OBps Obps Ops
+
+192.168,192.1: Taffic on interface lan-lant (3h)
+
+192.168, 192.1: afc on interface lan-lan3 (3h)
+
+O60: | Qin [Nx )> + v
+
+10% snNOSKOH =
+ICH ping lava) 10 ago 1
+Hicuprespensetime [avg] 341.6ms 0 760Ims 493.7ms
+
+facebook.com: Ping (3h)
+
+eeee
+
+Tost, min avg max
+cup loss fovg “Om "Om 018% one
+IEMP ping tava 1 1 i
+Bicuerespensetime [avg) 1Sms 95ms 43.62ms 4206ms,
+
+192.168.1921: Waffic on interface lan-land (3h)
+

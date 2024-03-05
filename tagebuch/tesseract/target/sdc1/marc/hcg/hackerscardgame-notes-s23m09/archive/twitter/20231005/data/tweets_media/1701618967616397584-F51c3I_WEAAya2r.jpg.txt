@@ -1,0 +1,18 @@
+commit de7631c70d6d77d3a9baa212095ef9a9dd9280d6
+
+Author: Your Name <you@example.com>
+
+Date: Tue Sep 12 15:22:34 2023 +0200
+
+marc@debian: ~/hackerscardgame-notes-s23m08$
+
+marc@debian: ~/hackerscardgame-notes-s23m@8$ lspci -nn | egrep -i "3d|display|vga
+
+@0:02.@ Display controller [0380]: Intel Corporation CoffeeLake-S GT2 [UHD Graph
+ics 630] [8086:3e92]
+
+@5:00.@ VGA compatible controller [0300]: NVIDIA Corporation GK208B [GeForce GT
+730] [10de:1287] (rev al)
+
+maxrc@debian: ~/hackerscardgame-notes-s23m08$ |
+

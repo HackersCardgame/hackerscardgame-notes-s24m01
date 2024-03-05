@@ -1,0 +1,40 @@
+w Tut | w Hei | © G2 |
+
+€ © @ cardgame.morr.cc/2Q15711870&lang=de
+
+Dov | @ 24. | @ 07 | @ | Go| B sts |@ wi | @ wk @ x GS dee | © Ma | w tel | @ can | w tise |S talc |. | Never? | MM val | wi figs | G liste | aM cot
+
+Wikidata Card Game Generator
+
+Ludicrously cool!” @arae t jal “It's awesome!” @
+
+ann “Superb” @t
+
+Generate your own card game, suitable for playing Top Trumps, using Wikidata!
+
+Think of a topic, and type its singular form into the search box over at Wikidata. Then, look for the entity ID near the top,
+which starts with Q. For example, the ID of chemical element is Q11344. Paste it in this box, and click Generate:
+
+German (de) - Deutsch v
+
+Q15711870 |
+
+Generate |
+
+Here are some other topics you can try: capital, metro system, country, astronomical body, island, hackerspace, computer
+model, telescope, card game.
+
+How does this work? We fetch items from Wikidata which are instances of arbitrary subclasses of the topic provided in the
+URL. We'll then find the properties which occur most often, and select the 32 cards which have as many of these as
+possible filled in. If your card is missing data or images, why don't you add that information to Wikidata? :)
+
+Made for the Wikidata-Workshop 2019 in Ulm by bleeptrack and blinry. Source code is on GitHub, feel free to suggest
+ideas or report bugs!
+
+An error occurred while generating the cards: Error loading
+https://commons.wikimedia.org/wiki/Special:FilePath/Goofy%20Disney.jpg?width=1000
+
+mM ani | +
+
+lo) peu
+

@@ -1,0 +1,31 @@
+Marc Jr Landolt
+2 Std
+
+Halli Hallo, ich hatte da mal eine Frage: ein Tiefpass ist ja grundsatzlich ein
+RLC-Glied, hat man C,L,R bzw Z{C] und Z[L] und eine gegebene konstante
+Frequenz (f) bzw. Kreisfrequenz (a), kann ich die die Grenzfrequenz des
+Filters berechnen. Wie misste ich die Formel umstellen, wenn ich jetzt
+einen virtuellen Modularen Filter programmieren mchte mit einer
+variablen Eingangsfrequenz (sprich Musik), bzw. mit einem Eingangssignal
+(U). Ware so eine Formel stateless, oder milsste ich da mit Fourier
+Transformation immer bestimmte Zeitabschnitte betrachten oder reicht da
+irgend ein Nummerisches Integral/Differential? (Hatte leider nen
+Fensterplatz in Mathe)
+
+| O: 8 Kommentare
+
+1 Getattt mir © Kommentieren
+
+MusicoseoRG
+Filters — Musicdsp.org documentation
+
+Love «Antworten 2 Std oO
+@ Mare sr Landott Autorin genau das was Ich gesueht habe,
+
+dann war wohl das problem, dass ich "dsp" noch im suchfeld
+hatte schreiben sollen...
+
+Gefallt mir - Antworten -2 Sta.
+
+@ Ame Schmid Delphi. bts det auch in Cobol?
+Gcotailt mir Antworten 17 Min

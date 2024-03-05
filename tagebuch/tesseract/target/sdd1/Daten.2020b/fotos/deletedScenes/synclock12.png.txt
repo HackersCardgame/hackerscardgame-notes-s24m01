@@ -1,0 +1,10 @@
+[x[Audior —v] 1.0
+Mono, 44100Hz 1
+32-bit float 0.0-
+
+[Ando
+
+Mono, 44100H2
+
+32-bit float
+

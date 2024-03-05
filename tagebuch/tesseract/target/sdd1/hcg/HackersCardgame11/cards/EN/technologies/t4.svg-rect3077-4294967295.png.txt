@@ -1,0 +1,21 @@
+https://0x8.ch/HackersCardgame10
+
+Inventor: Hans Berger Year: ~1929
+EEG was originally developed by neurologist Hans
+Berger. The Brain Computer Interface is an EEG that
+recognizes patterns of brain currents with software
+(pattern recognition, Al, Deep Learning) and can
+activate events e.g. to start the loT-Toaster or more
+worse thigns like flushing your brain or starting a
+SuicideDeathBot (card b4, a1l6) Today with more
+computing power, there are much more possibilities
+than in 1929.
+
+If the interface is bidirectional things could become a
+Self-fulfilling prophecy, (see card co2)
+
+Can be used as lie detector or to control computer
+games, read thoghts memory and read moods
+(stress / relaxation, eg. NeuroSky MindWave
+Software)
+

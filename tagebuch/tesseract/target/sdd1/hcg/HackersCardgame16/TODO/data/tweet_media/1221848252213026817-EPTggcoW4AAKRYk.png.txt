@@ -1,0 +1,4 @@
+marc@debian:~/installation-scripts/audio/mic$
+marc@debian:~/installation-scripts/audio/mic$ date
+Mon 27 Jan 2020 06:30:13 PM CET
+marc@debian:~/installation-scripts/audio/mic$ Jf

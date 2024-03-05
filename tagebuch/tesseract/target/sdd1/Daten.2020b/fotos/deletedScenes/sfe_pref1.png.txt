@@ -1,0 +1,10 @@
+Preferencias
+
+((Gerera | (“idiomas |(Dieconano (Fame |(Not=
+
+‘Mantener los retornos de linea al convert sélo texto
+
+(Carpeta para los archivos exportados
+
+[[c:/Users/adrienne /Documents/MyScript Documents/export
+

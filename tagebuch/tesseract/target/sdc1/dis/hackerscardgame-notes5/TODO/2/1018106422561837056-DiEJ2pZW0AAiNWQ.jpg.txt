@@ -1,0 +1,13 @@
+marc@ns382762:~$ nmap 178.82.219.75 -p5353
+
+Starting Nmap 7.40 ( https://nmap.org ) at 2018-07-14 12:05 UTC
+
+Nmap scan report for 178-82-219-75.dynamic.hispeed.ch (178.82.219.75)
+Host is up (@.026s latency).
+
+PORT STATE SERVICE
+
+5353/tcp closed mdns
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+marc@ns382782:~$

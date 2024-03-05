@@ -1,0 +1,6 @@
+\When saving a project that depends on other audio fies
+
+Always copy all audio into project (safest)
+Do not copy any audio
+© Ask user
+

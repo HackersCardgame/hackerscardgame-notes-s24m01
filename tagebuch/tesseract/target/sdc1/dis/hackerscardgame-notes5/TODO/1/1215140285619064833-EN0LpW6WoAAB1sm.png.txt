@@ -1,0 +1,38 @@
+Q marc@gfycia: ~/mirrors/gitlab - 20 ®@
+marc@gfycia:~/mirrors/gitlab$ cd .
+marc@gfycta:~/mirrors$ cd gitlab/
+marc@gtycta:~/mirrors/gitlab$ git clone https://gitlab.com/braindef/HackersCardg
+
+ame6
+Cloning into 'HackersCardgame6'...
+
+warning: redirecting to https://gitlab.com/braindef/HackersCardgane6.git/
+remote: Enumerating objects: 2927, done.
+
+remote: Counting objects: 100% (2927/2927), done.
+
+remote: Compressing objects: 100% (2715/2715), done.
+
+fatal: the remote end hung up unexpectedly MiB | 11.85 MiB/s
+
+fatal: early EOF
+fatal: index-pack failed
+marc@gfycta:~/mirrors/gitlab$ git clone https://gitlab.com/braindef /HackersCardg
+
+ame6
+Cloning into 'HackersCardgames'.
+warning: redirecting to https://gitlab.com/braindef/HackersCardgane6.git/
+remote: Enumerating objects: 2927, done.
+
+remote: Counting objects: 100% (2927/2927), done.
+
+remote: Compressing objects: 100% (2715/2715), done.
+
+remote: Total 2927 (delta 188), reused 2924 (delta 188), pack-reused 0
+Receiving objects: 100% (2927/2927), 1.02 GiB | 9.89 MiB/s, done.
+Resolving deltas: 100% (188/188), done.
+
+Checking out files: 100% (3232/3232), done.
+
+marc@gfycia:~/mirrors/gitlab$
+

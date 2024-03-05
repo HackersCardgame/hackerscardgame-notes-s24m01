@@ -1,0 +1,51 @@
+5
+&
+
+© ec @ © G& 192.168.192.234 /zabbix/screens,php?elementi NOSCO¢ =
+V4N2121R4 Monitoring Inventory Reports Configuration Administration Q share 2? 2
+
+Screens Screens
+
+All screens | UPC-Monitoring
+
+Filer a
+Zoom: 5m 15m 30m 1h 2h 3h 6h 12h 1d 3d 7d 14d 1m 3m 6m 1y All 2020-12-06 01:16 - 2021-01-05 01:16 (now!)
+< < rl >
+«« ty 6m 1m 7d 1d 12h 1h 5m | 5m 1h 12h 1d 7d 1m 6m Ay a» 1m fixed
+192.168.192.234: DNS-Times (1m)
+60 ms
+192.168.192.1: Traffic on interface wan-wan2 (1m) 192.168.192.234: Traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet (1m)
+dome e Mbps 100 Mbps
+Mbps
+20 ms
+4 Mbps 50 Mbps
+ome BREE AMEMEN RTA ANRELERSSEEEERES 2Mbps L
+SSR SS ase SS PSs gah See RS Bae SSB
+BLS On RY RAURRS GAS ORERO RPS RnRAckcanyal & S AUACS Ua eae Ohpaee ea are ae won a egerneoe an bps a Ha 2 KIMLeSuTarNternypen An etacesaienncermos wie = ih
+a a Pee e eee eae aR RRRR GRR RRR ERS S RES SRR G RR ER RGR RR RAR RRA GRR RRR RRS GREE
+last min avg max 3 g By a
+ablecoml [avg] «= 4ms = 3ms_7.04ms_—-237ms
+Hicablecom2 [avg «Sms 3ms 7.05ms 130ms last min avg max la
+Hicablecom3 [avg] 7ms 3ms 7.0l1ms 106ms i Incoming traffic on interface wan-wan2 [avg] 4kbps Obps 131Kbps 14.86 M__ Incomingtraffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg] 92.97
+Hicablecom4 [avg] 6ms 3ms 674ms 92ms BH Outgoing traffic on interface wan-wan2 [avg] 17.97 Kbps Obps 69.3Kbps 15.18M Il Outgoing traffic on interface Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet [avg] 94.03
+joogieDNS [avgl 9ms 3ms 7.66ms 1llms
+BHomerouter [avg] 10ms 2ms 682ms 174ms
+www.upe.ch: Ping (1m) google.com: Ping (1m) www hostpoint.ch: Ping (1m)
+150 6 20
+8
+100 4 :
+50 2 b
+2
+° ° a of L A:
+iz Cee ee cate eee RRRGRERRRSE SEE EER ER eee eRe RRR RRR GRERESSER SES EBER
+last min avg max last min avg max last min avg max
+[avg] 100% 100% 100% 100% ICMP loss [avg] 0% 0% 0.11% 100% ICMP loss fava) 0% 0% 0.02% 100%
+ICMP ping [aval 0 0 0 0 ICMP ping [aval a 0 0.9767 1 ICMP ping [aval 1 0 0.997 1
+TEICMP response time [avg] 0 0 0 0 TICMP response time [avg] 18.6ms. 0 16.88ms 540ms TICMP response time [avg] 19.1ms. 0 15.99ms 145.8ms
+ww twitter cam: Pina (1m) marclandolt.ch: Ping (1m) facebook.com: Ping (1m)
+
+192.168.192,234/zabbi«/charts,php?graphid=599&period=25920008.stime=2022120601 164 1 &sid=0b94387¢73e6e0)
+or
+
+05.01.2021
+

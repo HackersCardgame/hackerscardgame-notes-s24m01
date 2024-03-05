@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>
+</title>
+</nead>
+<body>
+<hi>Panky Function</hi><br>
+<form method="POST" action="<?php echo $ SERVER[
+<input type="text" name="enter" /><br>
+<input type="submit" name="star" value="star" />
+<input type="submit" name="four" value="four" />
+</form>
+<?php
+function star ($string) {
+Srespnit="";
+
+for($i = 0;$i < strlen($string) ;$i++) i
+$result = $result . $string[$i]
+
+return $result;
+
+function /four ($string) {
+$result="";
+if(strlen($string) > ¢){
+Smax = 4;
+
+else{
+$max = strlen($string);
+
+for ($i=
+$result = Sresult . $string[$i];
+
+O;$i < Smax;$i++){
+
+return $result;
+
+|i£(1 ($_POST['e
+| if(isset($ POST['
+echo star($ POST['
+
+| if(isset($ POST[
+echo four($ POST['
+
+?>
+</body>
+</atml>

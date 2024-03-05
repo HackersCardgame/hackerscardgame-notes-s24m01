@@ -1,0 +1,41 @@
+Activities | > Terminal + Mon 13:43 dey F 4) By
+
+marc@debian: ~
+
+File Edit ch Terminal Help
+E!DOCTYPE html
+<html
+<head>
+meta charset="utf-8
+‘Link rel="stylesheet" type="text/css" href="../doc/small-style.css" target="_blank
+/head:
+<body class=center>
+<br><br>
+hi><font color=tomato>MF r</font></h1
+font color=pink>Jump to position (in Seconds) in any mp3 on the internet with a given URL</font:
+<br:
+abe
+<br:
+<br:
+
+=pink>" . $ GET["t"] ."s</font></h3>
+
+"“eh3><font color=lightblue>" . $ GET["URL"] . "<font color=white> jumping to </font><font colo
+
+<br><br><br>
+
+audio id=\"audio\" controls=' yes'>
+<source src=!" $ GET["URL"] . "'></audio>";
+
+<script>
+var aud = document.getElementById(\"audio\")
+
+aud.currentTime=" . § GET["t"] ."
+aud. play ();
+
+</script>
+
+/body:
+</html
+
+“seekTo.php" 58L, 1617C written aga Top

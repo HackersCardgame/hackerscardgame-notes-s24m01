@@ -1,0 +1,28 @@
+<script>
+
+9 for(i=0; i<10; i++)
+
+for(j=0; j<l0; j++)
+for(k=0; k<10; k++)
+af (ftest(i, j, k,
+(test(i, j, k,
+(test(i, j, k,
+(test(i, j, k,
+(test(i, j, k,
+alert(it"-"+j+"-"+k);
+
+) function test(i, j, k, 1, m, n)
+
+var rightPlace=0;
+var rightVar=0;
+
+if ) rightPlace++;
+if ) rightPlace++;
+if ) rightPlace++;
+if rightvar++;
+if rightvar++;
+if rightVar++;
+
+return [rightPlace, rightVar];
+
+BREB

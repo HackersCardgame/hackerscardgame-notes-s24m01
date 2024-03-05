@@ -1,0 +1,70 @@
+1e-]
+
+Zahlung erfassen
+Kontoubertrag
+
+EI
+
+lun
+
+Enfasste Dauerautrage
+
+Bestatigte Begiinstigte
+
+Saldovorschau
+
+Filterkriterien
+Zahlungen
+
+Alle Zahlungen
+Wahrung
+Begiinstigter
+IBAN (Konto-tir)
+Bewag
+Daum
+
+Anzeigen
+
+n
+
+4
+
+Zahlungen im Uberblick
+
+Pendent Nicht ausgefiihrt Gescannte Einzahlungsscheine Ausgefiihrt
+ST Datum Begiinstigter Buchungstest IBAN (Konto) Whra
+a.
+
+® 27.09.2016 HELSANA VERSICH. AG Krankenkasse 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 HELSANA VERSICH. AG Krankenkasse 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 IBA STROM AG Strom 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 INTRUM JUSTITIA AG IntrumJustizia 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 LIVIT AG Miete 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 LIVIT AG Garage 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 SWISSCOM SCHWEIZ AG ‘SwisscomFixnet 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 UBS AG CardCenter 2316679 2440F CHF
+UBS Privatkonto_
+
+® 27.09.2016 YETNET yetnet 2316679 2440F CHF
+
+GENOSSENSCHAFTSVERBAND
+
+UBS Privatkonto
+
+Drucken (PDF).
+
+Total pro Wahrung

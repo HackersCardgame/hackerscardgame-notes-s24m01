@@ -1,0 +1,81 @@
+Totaitaer | Electronics | © Liveste
+
+@
+
+ce
+
+Gam
+ie
+eal
+% x
+
+WIKIPEDIA
+
+Die freie Enzyklopadie
+
+Hauptseite
+Themenportale
+Zufailliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+
+Neuen Artikel
+anlegen
+
+Autorenportal
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Datei hochladen
+
+fox
+
+Security through obscurity
+
+pean
+(©1362) | 39645 | Hackers | Marc{LA’ | w Home/T» | KU(@)Faced: | (DTweetDe- | w Marc{LA) | Z Tertordro | @ (1396)De. | = Ren % Student |G geststdes | w Secu
+
+£n0o 6 Ow
+
+wikipedia.org B vm
+
+Srailder M Cy Diskussion Einstellungen Beta Beobachtungsliste Beitrage Abmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelltext bearbeiten Versionsgeschichte Mehr v__ | Wikipedia durchsuchen Q
+
+Security through obscurity
+
+Security through obscurity oder Security by obscurity (deutsch Sicherheit durch Obskuritat”, auch Sicherheit durch
+Unklarheit”) ist ein Prinzip in der Computer- und Netzwerksicherheit. Es versucht, die Sicherheit eines Systems oder eines
+Verfahrens zu gewahrleisten, indem seine Funktionsweise geheim gehalten wird.
+
+Das Gegenkonzept dazu ist Sicherheit durch weitestgehende Transparenz, als Kerckhoffs’ Prinzip oder Full disclosure
+
+bezeichnet. Ausgehend von der Kryptologie wird hierbei vorgeschlagen, so wenig wie méglich geheim zu halten, um dieses
+dann umso leichter schiitzen und gegebenenfalls ersetzen zu kénnen.(2]
+
+Das Prinzip security through obscurity ist sehr umstritten. So rat das National Institute of Standards and Technology (NIST),
+Sicherheitssysteme nicht auf dieser Basis zu konzipieren: “System security should not depend on the secrecy of the
+implementation or its components.”(2)
+
+Auf diesem Prinzip beruhende Systeme sind intransparent flir dessen Anwender und damit wenig geeignet, Vertrauen in
+Sicherheit zu schaffen: ,Security by Obscurity ist ein Prinzip, das nicht nur ungeeignet als Sicherungsprinzip bleibt, es ist
+obendrein kundenfeindlich."(3)
+
+Hintergrund [ Bearbeiten | Quelltext bearbeiten ]
+
+Hinterfragte Sicherheit, pauschale Zusicherung und spektakulares Scheitern war bereits in der Friihzeit der Informations- und
+Kommunikationstechnik zu Beginn des 20. Jahrhunderts bekannt und mit Guglielmo Marconi verknipft, dessen vermeintlich
+

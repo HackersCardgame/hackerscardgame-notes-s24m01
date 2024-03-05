@@ -1,0 +1,14 @@
+Das Schweizer Online-Wahl-System ist wohl nicht koscher.
+
+The implementation of the commitment scheme in the SwissPost-Scytl mixnet uses a trapdoor
+commitment scheme, which allows anyone who knows the trapdoor values to generate a
+shuffle proof transcript that passes verification but actually alters votes. This allows
+undetectable vote manipulation by an authority who implemented or administered a mix
+
+server.
+
+“undetectable vote manipulation’ ist eine Eigenschaff, die man bei einem Online-Wahisystem tendenziell
+eher ausschlieRen will.
+
+PERMALINK: http: //blog. fefe de?ts=a2794FF7
+

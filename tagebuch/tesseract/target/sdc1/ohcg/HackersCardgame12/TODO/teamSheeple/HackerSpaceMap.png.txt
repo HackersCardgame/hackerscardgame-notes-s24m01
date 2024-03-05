@@ -1,0 +1,61 @@
+Activities ©
+
+irefox ESR ¥ a4) @
+@ We Gtagy | @ve wHac —Sea Ef Lis Mo x Bex co j >+v x
+NnO®SO #&
+
+< gob: | BE ba  linuz | @ 36C | Schedul | G 36c2 | Schedul | Lecture: | Lecture’ | Lecture: | G 36c2 | BR Pro
+
+€ ea
+
+attps://wiki.hackerspaces.org/Special:FormEdit/Hackerspace
+
+special page
+
+Hackerspaces Create Hackerspace: :Prozessor Aarau
+
+Communication
+
+Active hackerspaces —_j— Hackerspace
+
+ALL hackerspaces Fill in basic information of this Hackerspace:
+> add a hackerspace Insert the name of a previously uploaded Logo, or upload a new one here.
+
+List of events ProzessorAarau.jpg Upload file
+
+> add an event
+List of projects Insert the English name of the country. Don't use shortcuts.
+> add a project Switzerland
+
+Recent changes
+Insert the English name of the state or province if available. Don't use shortcuts. Shortcuts have to get filled into the field "region code" coming later.
+
+Aargau
+Go
+Insert the English name of the city. Don't use shortcuts.
+Search
+Aarau
+Upload file
+Special pages Insert the date when the hackerspace got founded.
+Printable version 1 October ¥ — 2019
+
+Geographic coordinate in latitude/longitude; the exact form is signed decimal degrees of any precision, separated by a comma and no space.
+47.3962357/8.0369685
+Give the number of members:
+
+>10
+
+How much does the membership fee cost. Give the currency (ie. USD), payment mode (ie. monthly/yearly) and other information
+
+GHE 30 / Day
+CHE 250 / Year
+
+Fill in the size of your rooms and add the unit (ie. m* or ft)
+
+500m2/250 unlocked)
+
+What is the current status of this hackerspace?
+
+active v
+
+Is your hackerspace open to exchanges?

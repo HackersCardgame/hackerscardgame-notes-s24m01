@@ -1,0 +1,77 @@
+4 unde | EANed
+
+<> ¢@
+
+fg
+
+(ia
+a
+
+w
+
+Xa
+
+WIKIPEDIA
+Thetis Enyce
+
+tain page
+
+Community pot
+Recent changes
+pla fe
+Felted changes
+Special pages
+Page formation
+Ce tis page
+
+anguges
+
+Wi Foite | mu Stop; | @ Skyp: | MM Potts | CA Twee | OM | BOM | OO | GOP! | w Yous | Bstrap | stray | Adve | strap | Bstrop | Mess | Bere | w Marc | @0Gx | otinto | wr x | +
+a wikipedia.org aor noe Pw a
+
+‘Enot logged in Tak Contibitions Crest account Log in
+
+aricle ok ead lt View history a
+
+x
+
+@ CR SS eS
+
+Fill device
+
+From wikipedia. the free encyclopedia
+
+Af device or key loader is 2 module used to load cryptographic keys into electronic encryption machines. Fill devices are usually hand held and electronic ones are batery operated.
+
+‘der mechanical encryption systems, such as rotor machines, were keyed by setting the postions of wheels and plugs from a printed keying list Electronic systems required some way to oad the
+‘necessary cryptovariable data. In the 1950s and 1960s, systems such as the U.S. National Security Agency KW-26 and the Soviet Union's iaka used punched cards for this purpose. Later NSA encryption
+systems incorporated a serial prt fill connector and developed several common fil devices (CFOs) that could be used with multiple systems, A CFD was plugged in when new keys were to be loaded.
+Newer NSA systems allow “over the ar rekeying* (OTAR),buta master key often must sil be loaded using a fill device.
+
+NSA uses two serial protocols or key fil, DS-102 and DS-102. Both employ the same U-229 6-pin connector type used fr U.S. miltary audio handsets, withthe 05-101 being the newer ofthe two serial
+fil protocols, The DS-101 protocol can also be used to load cryptographic algorithms and software updates fr crypto modules.
+
+Besides encryption devies ystems that can requte key filncude IF, GPS and frequency hopping radios Such as Have Quek an SINCOARS. Ig sehen pret fee
+
+‘Common fill devices employed by NSA include:
++ 17%-28 pn gun used with the NESTOR (encryption) system
++ 14-13 Electronic Wansfer Device
++ 7x5 Net Control Device!)
++ 6-10579 ECCM Fill Device (SINCGARSI2!
++ KO/18 paper tape reader. The operator pulls 8level tape through this unt by han.
++ ANICYZ-10 Data Transfer Device - a small POA-like uni that can store up to 1000 keys
+
++ Secure D702000 system (SDS) Named KiG-20, this was the next generation common fill device replacement forthe DTD when it started production in 2006. It employs the Windows CE operating
+system 2) ‘ARV device °
+
++ AN/PYQ-20 Simple Key Loader (SKL)-a simpler replacement forthe DTD.
++ KS0-68 Crypt ignition key (Ck)
++ Kik-30, a more recent fil device, is trademarked asthe “Really Simple Key Loader” (RASKL) with “single button key-squrt”t supports a wide varity of devices and keys.)
+
+‘The older K¥K-13/91 E715 and Mx-10579 are limited to certain key types
+
+Seealso (est
++ Listof cryptographic key types
+
+References («st
+

@@ -1,0 +1,12 @@
+From Mail Delivery System <Mailer-Daemon@mxout017.mail.hostpoint.ch>
+Subject Mail delivery failed: returning message to sender
+
+To Mew
+This message was created automatically by mail delivery software
+
+A message that you sent could not be delivered to one or nore of its
+recipients. This is a permanent error. The following address(es) failed
+
+4 Reply > Forward |) a Archive | @ Junk | @ Delete | More >
+
+12:46 PM

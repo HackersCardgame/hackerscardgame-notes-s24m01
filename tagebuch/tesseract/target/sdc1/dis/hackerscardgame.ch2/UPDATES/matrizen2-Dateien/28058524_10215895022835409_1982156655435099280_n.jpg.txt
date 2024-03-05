@@ -1,0 +1,22 @@
+((test(i, j,k, 6, 8, 2) == "1,0
+(test(i, j,k, 6, 2, 4) == "0,2
+(test(i, J, k, 2; 0, 6) == "0,2
+(test(i, J, k, 7, 3; 8) == "0,0
+(test(i, §, ky 7, 8, 0) == "0,2
+plert(4" je 4h;
+
+test(i, J, Ke Ly mn)
+
+rightPlace=0;
+
+1) rightPlacers:
+if (j==n) rightPlacers:
+if (keen) rightPlacess:
+
+if ( isem || issn ) rightVars:
+if ( j=l |] j==n ) rightvarss;
+if (kat || keom ) rightvares;
+
+return [rightPlace, rightVar};
+
+BREE

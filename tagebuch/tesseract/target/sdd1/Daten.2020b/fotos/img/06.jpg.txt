@@ -1,0 +1,209 @@
+Rechnernetze
+
+Das CERN - Europdische Organisation fir Kernforschung
+
+Gegriindet wurde das CERN (Centre Eu-
+ropéen de la Recherche Nucleaire) 1954
+im diinn besiedelten Grenzgebiet zwischen
+der Schweiz und Frankreich. Aus zunichst
+elf Mitgliedsstaaten wurden inzwischen
+zwanzig. 3000 Mitarbeiter sind beim
+CERN beschiiftigt, vernetzt sind sie mit
+rund 6500 Gastwi i
+
+CMS, ATLAS, ALICE und LHCb ange-
+schlossen. Im Fokus stehen das Higgs-
+Boson, das Quark-Gluon-Plasma, Verlet-
+zungen der CP-Invarianz (Charge Parity)
+sowie Mesonen und das Bottom-Quark.
+
+~ CMS: Der Compact Muon Solenoid zeichnet Pro-
+ton-Proton-Kollisionen auf.
+
+von Uni-
+versititen und Forschungsinstitutionen.
+Hauptarbeitsgebiet des CERN sind der Bau
+und Betrieb groBer Teilchenbeschleuniger
+und der dazugehérenden Messtechnik. Das
+CERN erforscht weder Kernspaltung noch
+Kernfusion, sondern den inneren Aufbau
+von subatomaren Teilchen. An den neuen
+Teilchenbeschleuniger LHC (Large Hadron
+Collider) sind die vier GroSexperimente
+
+weils aktuelle Generation von Band-
+systemen umkopiert, halten sich Aus-
+fille in Grenzen. Statistisch ,,lebt* ein
+Datentriiger zehn Jahre. Bei der groBen
+Menge der eingesetzten Binder macht
+das im Schnitt trotzdem ein defektes
+Band pro Monat. Kénnen die CERN-
+Techniker dem ladierten Datentriger
+nicht aus eigener Kraft seine Geheim-
+nisse entlocken, fliegt das widerspen-
+stige Exemplar zu einem herstellerei-
+genen Speziallabor in die USA.
+
+2003 gelang es den Technikern des
+CERN, mithilfe von 45 Stk-9940B-
+Bandlaufwerken, iiber mehrere Stunden
+hinweg 1,1 GByte pro Sekunde auf
+Bander zu schreiben, in Spitzen 1,2
+GByte. ,,Bis zum Start des Regelbe-
+triebs miissen wir zwei bis drei Mal
+schneller werden, sonst gehen wertvolle
+Daten verloren“, erliutert von Riiden.
+Aber auch diese Hiirde sollte zu neh-
+men sein. ,,Heute sind wir schon deut-
+lich weiter als 2003“, so von Riiden,
+Ende des Jahres sollte dann alles start-
+klar sein.“
+
+Kein Grid ohne Software
+
+Neben einer Sicherheitskopie der
+Rohdaten bleibt das zentrale Register
+aller Messdaten beim CERN. Das Insti-
+tut weiB also stets, welche Partnerorga-
+nisation welche Bits auf welchen Tape-
+Systemen in Verwahrung hat und fiihrt
+zudem Buch iiber mégliche Versions-
+abweichungen der Daten im Grid von
+denen im eigenen Archiv. ,,Dazu haben
+wir eine spezielle Middleware entwi-
+ckelt, sie halt uns Versionskollisionen
+vom Leib“, so von Riiden.
+
+Da die beteiligten Institute unmég-
+lich alle immer auf dem gleichen Soft-
+warestand zu halten sind, soll das Grid
+
+104
+
+~ ATIAS (A Toroidal LHC Apparatus) zeichnet wie
+der CMS Proton-Proton-Kollsionen auf, ist aber an-
+ders konstruiert.
+
+~ ALICE (A Large lon Collider Experiment) ist ein
+Vielzweckdetektor, der den Zusammenprall schwe-
+rer lonen aufzeichnen soll.
+
+= LHCb: Das Large Hadron Collider Beauty Experi-
+
+geniigend
+
+ment soll SrenetereteZiipet und seltene Hao-
+dronen-Zerfalle beobachten.
+
+Schon frih erkannten die CERN-Wissen-
+schaftler, dass es nicht méglich sein
+wiirde, bei dem streng limitierten CERN-
+Budget die gesamte Datenverarbeitung
+wie bei fritheren Experimenten im eigenen
+Haus zu halten. Aus der Not wurde eine
+Tugend. Uber ein Grid schaufelt das
+CERN die Messwerte zu den angeschlos-
+senen Partnerorganisationen. Es wei8 aber
+stets, in welchem Knoten sich die Daten
+befinden. Mit Rechnernetzen kennt man
+sich am CERN aus. 1989 legte Tim Ber-
+ners-Lee hier die Grundlage fiir das World
+Wide Wel
+
+um jedem Teilnehmer die Informatio-
+nen ,,mundgerecht*, seinem Software-
+Stand entsprechend, zu liefern. Dies
+iibernimmt ein Release-Management
+fiir die Middleware.
+
+Fiinf Mitarbeiter feilen auBerdem
+stindig an den
+
+CERN »Die verfiigbare Soft-
+ware war fiir unsere Anforderungen ein-
+fach nicht schnell genug*, so von Rii-
+den. ,,Unser CAStor (CERN Advanced
+Storage Manager) sorgt etwa dafiir, das
+die Nutzer statt diverser Bandsilos nur
+einen einzigen virtuellen Datentriiger zu
+
+men des Grid, um Angriffe iiber das
+Netz abzuwehren; weltweit sind rund
+50 Personen stindig damit befasst.
+Zwar haben die CERN-Experimente
+weder einen militirischen noch einen
+kommerziellen Nutzen, doch jeder Zu-
+sammenprall ist ein Unikat, das man
+ungern verlieren méchte.
+
+Wie bei der voluminésen Hardware
+gilt auch bei der Software die CERN-
+Philosophie: Alles, was bereits vorhan-
+den ist, wird benutzt, der Rest selbst
+entwickelt. Um das Budget zu schonen,
+setzt man bevorzugt auf freie Software
+oder, wo die nicht weiterhilft, auf Part-
+nerschaften mit kommerziellen Herstel-
+lern. Erst danach wird dazugekauft —
+oder selbst programmiert. So sind we-
+sentliche Teile der Speichersoftware im
+
+ice |eg.web.cern.ch/LCG
+
+EGEE public.ev-egee.org
+
+EGEEizenz _public.evegee.org/license/
+license? him!
+
+LHC@home __|hcathome.cern.ch
+
+Costor castor.web.cern.ch/castor
+
+LHC Ihe.web.cern.ch/Ihe
+
+CMS imsinfo.cern.ch/Welcome.himl
+
+ATLAS wyew.atlas.ch
+
+ALICE aliceinfo.cern.ch
+
+LHCb thcb.web.cern.ch/lheb
+
+sehen den Rest regelt das
+Programm im Hintergrund“.
+
+Die selbstentwickelte Software stel-
+Jen die Grid-Entwickler ihrerseits wie-
+der fiir andere Projekte zur Verfiigung.
+Eine Open-Source-Lizenz des EGEE
+regelt die Bedingungen fiir den Um-
+gang mit und die Weitergabe der Grid-
+Software wie etwa die Lightweight
+Middleware for Grid Computing (gLite).
+
+Anlaufstelle Open Lab
+
+Als Plattform fiir eine Partnerschaft
+mit IT-Firmen hat sich das CERN das
+»Open Lab“ erdacht. Und da sich mit
+Namen des renommierten Forschungs-
+zentrums gut werben lisst, zahlen
+Konzerne minimal 800 000 Schweizer
+Franken (500 000 Dollar), um im Open
+Lab mitarbeiten zu diirfen. Hier testen
+sie Dinge, die erst Jahre spiiter auf den
+Markt kommen. Eine Beobachtung
+stimmt allerdings bedenklich: Es sind
+vor allem US-amerikanische Firmen,
+die beim Open Lab des europiiischen
+CERN mitmachen. Gerade hat Intel
+einen Drei-Jahres-Vertrag unterschrie-
+ben. Europiische Firmen zieren sich.
+Immerhin stiegen 2006 mit Fsecure
+und Stonesoft zwei finnische Firmen
+ins Boot. Vielleicht ein Anfang. (sun)
+
+BERNHARD SCHONE
+ist freier Journalist. KR
+
+ix 5/2006

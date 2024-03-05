@@ -1,0 +1,6 @@
+(short Term)
+Scheduling Preempt,-
+
+Unblock is done by another task (a.k.a. wakeup, release, V)
+Block is a.k.a. sleep, request, P)
+

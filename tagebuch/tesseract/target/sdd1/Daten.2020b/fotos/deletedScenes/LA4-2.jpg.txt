@@ -1,0 +1,40 @@
+C a ABB Technikerschule, Baden
+Sas * Eidg. anerkannte hdhere Fachschule fir Technik
+
+LA (Leitende Aufgabe) Software Engineering Seite 2 von 5
+
+N 47 Grad, O 7 Grad) und einem 3-5 stelligen Kirzel zur Identifikation
+(Z.B.: LSZH fir Flughafen Zurich Kloten).
+
+Die Distanz wird in nautischen Meilen angeben [NM] (1 NM = 1.852 Km). Die
+Fluggeschwindigkeit wird in Knoten angegeben [KTS] (1 KTS = 1 NM/h).
+
+Ein Steuerkurs wird zwischen 0 und 359 Grad angegeben. Dabei gilt: 0 Grad =
+Norden, 90 Grad = Osten, 180 Grad = Siiden und 270 Grad = Westen.
+
+In der Flugterminologie wird die Verbindung zwischen zwei Waypoints als Leg
+bezeichnet. Ein Leg lasst sich so darstellen:
+LSZH A
+=
+
+Steuerkurs
+
+Distanz
+VEBIT
+
+Die Navigationsdaten der Waypoints von Zirich-Kloten nach Genf sind wie folgt:
+
+Output
+Flughafen Waypoint | Breitengrad | Langengrad | ike | Pisfana) +
+(Latitude) (Longitude)
+Zirich-Kloten LSZH N47275 E008329 ~~
+VEBIT N47161 E008004 ;
+ROTOS N47114 E007435
+ULMES N46573 E007176
+Genf LSGG N46143 E0Q06066
+A stelle Mele
+
+Der Breitengrad N47275 entspricht nérdlich, 47 Grad und 27.5 Minuten.
+Der Langengrad E008329 entspricht dstlich, 8 Grad und 32.9 Minuten.
+
+M. Bontognali

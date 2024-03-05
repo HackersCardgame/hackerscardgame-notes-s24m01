@@ -1,0 +1,17 @@
+SweetThings
+
+Captain
+
+-Name Wins
+
+-Country
+
+-Scoze
+Age -Losses
+Player [1]
+Name wins | yy onaran
+-Country "Germany"
+-Scoze
+
+-Age -Losses
+

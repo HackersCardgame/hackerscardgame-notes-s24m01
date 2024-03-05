@@ -1,0 +1,148 @@
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+bytes
+te
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+[
+
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+from
+
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+179.
+
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+146:
+
++ 192.168.179.146 ping statistics
+
+icmp_: eseaeet ttl=64
+i 5 ttl=64
+ttl=64
+ttl=64
+ttl=64
+6 ttl=64
+ttl=64
+ttl=64
+ttl=64
+4 ttl=64
+ttl=64
+ttl=64
+ttl=64
+1 ttl=64
+icmp_seq=56 ttl=64
+
+time=187 ms
+time=136 ms
+time=244 ms
+time=135 ms
+time=129 ms
+time=131 ms
+time=258 ms
+time=233 ms
+time=265 ms
+time=181 ms
+time=349 ms
+time=260 ms
+time=230 ms
+time=48.2 ms
+time=138 ms
+

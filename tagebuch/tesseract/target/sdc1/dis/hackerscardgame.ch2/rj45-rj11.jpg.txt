@@ -1,0 +1,36 @@
+avmde;
+
+i OD © Oe
+
+rechts auBen und Pin 8 links auBen.
+
+Die Kabeladern fiir Festnetztelefonie (ISDN/analog) werden von den Pins 1, 2, 3, 6, 7 und 8 des
+Steckers am einfachen Kabelende zu den Pins 4, 5, 1, 8, 3 und 6 des schwarzen Telefon-Steckers am
+geteilten Kabelende durchgeleitet (siehe Abb.).
+
+Festnetz 1
+
+Pa ash
+7*O
+
+‘ 4 ISON FRITZ!Box
+
+Ganges graves Kabelende)
+
+DSL 1
+
+Ouirzes graves Kabelende)
+
+ie
+
+4
+OCOQQCOO CO
+
+Abb.: Belegung des DSL/Telefon-Kabels
+
+2 Anschluss fiir ISDN-Geradte FON SO
+
+s
+
+#
+

@@ -1,0 +1,22 @@
+‘Sag das selbe nochmals auf Englisch
+
+The CPU ring you are referring tois likely "Ring 0" or "Kernel Mode.” In x86/x86-64 o
+architectures (commonly used in most desktop and laptop computers), there are four
+protection rings (Ring 0 to Ring 3), with Ring 0 being the highest privilege level and typically
+
+used by the operating system kernel. Ring 0 has the highest privileges and direct access to
+the computer's hardware and resources.
+
+The graphics card driver is usually executed in Ring 0 because it needs to access and
+control the graphics card's hardware. This allows the driver to efficiently perform graphics-
+related tasks and have direct access to the graphics card's full capabilities.
+
+However, the specific ring in which the graphics card driver runs can vary depending on the
+operating system and architecture. In most modern operating systems and x86/x86-64
+architectures, the graphics card driver runs in Ring 0 to ensure the best possible
+performance and direct hardware access.
+
+Ifyou need specific information about which ring the graphics card driver runs in ona
+particular system or hardware, you should consult the technical documentation of the
+operating system or the graphics card driver itself. This information can vary depending on
+the hardware and software configuration.

@@ -1,0 +1,123 @@
+PAPERSHOW - Help -
+
+000 06 &
+
+Ihrem PAPERSHOW-USB-Stick durchzufuhren,
+
+200. PAPERSHOW 2.1
+
+Select Bluetooth Device
+Remove the cap from the pen and wait unt the "PAPERSHOW" name is
+
+found. Select the device name and lick the “Pai” button. To par the
+en, you wil need to enter the pins 1728
+
+Bluetooth Devices
+
+>APERSHOW
+
+Searching for devices ~ 1 found
+
+[)Remember this device
+
+Caneel) ee)
+
+2. Entfernen Sie den Deckel des tits. Wenn Sie das Betriebssystem “Tiger” verwenden,
+warten Sie bitte, bis die griine Leuchtdiode des Stifs blinkt und Klicken Sie dann auf den
+Button Suchen.
+
+3. Wenn Ihr Bluetooth®-Stit mit dem Namen ‘PAPERSHOW 1.1" in der Liste der
+Peripheriagerdte erscheint, wahlen Sie ihn aus und Klicken Sie auf den Button Auswahlen.
+
+4. In der Dialogbox, die am Bildschirm erscheint, geben Sie den Code 1728" ein und klicken
+auf den Button Pairing,
+
+Pairing Request from PAPERSHOW 1.2
+
+Q Pairing Request from: PAPERSHOW 1.1
+Please enter apasskey to use with this device,
+
+PAPERSHOW 1.1.
+
+Wahlen Sie ein Bluetooth-Gerat
+
+Verschluss des Stiftes abnehmen und warten bis der Name PAPERSHOW
+angezeigt wird. Gerat auswahlen und auf den Paar-Button klicken. Fur
+das Pairing des Stiftes mUssen Sie folgenden PIN-Code eingeben: 1728
+
+Bluetooth-Gerate
+Name
+Jabra 8T3030
+
+‘Suche nach Geraten - 0 gefunden.
+
+(Dieses Gerat merken
+
+Bluetooth-As:
+
+4—_
+FREIGABEN
+(B marc's remote deskto.
+
+[5 MARCSTIMECAPSULE.
+
+help.exe help2.exe
+
+om I>
+FA schreibusch
+8 mare
+
+AX Programme
+(5) Dokumente
+
+ze
+
+InstallMac.zip
+
+papershow.exe
+
+SUCHE
+© Heute
+© Gestern uo
+© Letzte Woche ~_ pxcview.dll
+(Gale Bilder
+
+Readme before rehash.exe
++ LJNONAME » © papershow
+
+installMac
+
+Willkommen zum Bluetooth-Assistenten.
+
+Wenn Ihr Gerat in der Liste erscheint, wahlen Sie es aus und klicken Sie
+auf ,Fortfahren*. Falls Sie Ihr Gerat nicht in der Liste finden,
+vergewissern Sie sich, dass es eingeschaltet und ,sichtbar*
+Informationen finden Sie in der mitgelieferten Dokumentation zu
+Ihrem Gerat.
+
+Gerate ye
+
+PAPERSHOW 1.0 Maus
+
+Belkin M35 Headset
+
+Marcel ‘Smartphone
+
+Marc Landolts MacBook Pro ‘Tragbare Computer
+
+SY suche nach Geraten - 4 gefunden
+
+rare
+
+Ppshpdf.dil
+
+reinitapp
+
+(Neues Gerat konfigurieren
+
+11 von 41 ausgewahit, 169.3 MB verfugbar
+
+>
+
+© Bluetooth-Status in der Meniileiste anzeigen Weitere Optionen ...) (?)
+

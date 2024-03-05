@@ -1,0 +1,60 @@
+The DENIC whois service on port 43 never discloses any information concerning
+the domain holder/administrative contact. Information concerning the domain
+holder/administrative contact can be obtained through use of our web-based
+whois service available at the DENIC website
+
+http://www. denic .de/en/domains/whois-service/web-whois html
+
+oF J of of a oP BP
+
+Domain: inchpoint.de
+
+Nserver: ns1.antagus.de
+
+Nserver: ns2.antagus.de
+
+Status: connect
+
+Changed: 2016-03-10T09: 10:52+01:00
+
+[Tech-C]
+
+Type: PERSON
+
+Name: Roman Busikov
+Organisation: Inchpoint GmbH
+Address: Ikarusalle 16
+PostalCode: 30179
+
+City: Hannover
+
+CountryCode: DE
+
+Phone: +495118984735
+
+Fax: +495118984776
+
+Email: itteam@inchpoint.de
+Changed: 2016-01-15T11:20:27+01:00
+
+[Zone-C]
+
+Type: PERSON
+
+Name: Roman Busikov
+Organisation: Inchpoint GmbH
+Address: Ikarusalle 16
+PostalCode: 30179
+
+City: Hannover
+
+CountryCode: DE
+
+Phone: +495118984735
+
+Fax: +495118984776
+
+Email: itteam@inchpoint.de
+Changed: 2016-01-15T11:20:27+01:00
+claude@debian:~$ J
+

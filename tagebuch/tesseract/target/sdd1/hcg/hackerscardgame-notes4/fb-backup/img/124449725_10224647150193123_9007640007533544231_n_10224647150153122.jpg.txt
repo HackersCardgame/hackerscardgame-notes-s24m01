@@ -1,0 +1,32 @@
+B cratting interpreters x eae x
+
+€ em © & hitps://craftinginterpreters.com
+
+A handbook for making programming languages.
+
+This book contains everything you need to implement a full-featured, efficient
+
+scripting language. You'll learn both high-level concepts around parsing and semantics
+
+and gritty details like byte tation and garbage collection. Your brain will
+|. It’s a blast.
+
+garbage collection, lexical scope, first-class functions, closures, classes, and
+inheritan d into a few thousand lines of clean, fast code that y
+thoroughly understand because you write eac! ourself.
+
+And you can read the whole book, for free, online:
+
+START READING
+
+I Want to Hold the Book in My Hands
+
+ll me old-fashioned, but the word “book” to me still implies ink and flattened
+rectangles of wood pulp. This book is not quite there yet. The chapters are written, but
+lam still designing the print edition. If you want to know when that's ready, have I got
+
+1834
+SF cei200
+
+ou = @
+

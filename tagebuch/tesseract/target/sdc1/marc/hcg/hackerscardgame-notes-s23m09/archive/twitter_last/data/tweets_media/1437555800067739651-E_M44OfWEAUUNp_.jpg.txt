@@ -1,0 +1,12 @@
+Strategie des Bundedandes
+
+27002028 Simple Neural Network Deep Learning Neural Network
+
+> mit Synapsen |
+Pe |
+
+4
+Ausgabe
+
+@input Layer @Hidden Layer @ Output Layer
+

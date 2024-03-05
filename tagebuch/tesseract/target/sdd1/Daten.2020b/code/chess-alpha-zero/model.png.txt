@@ -1,0 +1,487 @@
+input: | (None, 18, 8, 8)
+output: | (None, 18, 8, 8)
+
+input_1: InputLayer
+
+input_conv:
+
+input: | (None, 18, 8, 8)
+output: | (None, 256, 8, 8)
+
+-256: Conv2D
+
+y
+
+input_bat
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+tchnorm: BatchNormalization
+
+vy
+
+in
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+: Activation
+
+aput_rel
+
+A
+
+resl_convl-3-256: Conv2D
+
+input: ] (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+!
+
+res1_batchnorml: BatchNormalization
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+y
+
+resl_relul: Activation
+
+input: | (one, 256
+
+8,8)
+output: | (None, 256, 8, 8)
+
+resl_conv2-3-256:
+
+Conv2D
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+y
+
+res1_batchnorm2: BatchNormalization
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+resl_add: Add
+
+input: | [@None, 256, 8, 8), (None, 256, 8, 8)]
+output: (None, 256, 8, 8)
+
+!
+
+resl_relu2: Activation
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+x
+
+res2_convl-3-256: Conv2D
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+/
+
+res2_batchnorml: BatchNormalization
+
+input: ] (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+v
+
+res2_relul: Activation
+
+input: | (one, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+input: | Qone, 256, 8, 8)
+
+res2_conv2-3-256: Conv2D
+
+output: | (None, 256, 8, 8)
+
+y
+
+res2_batchnorm2: BatchNormalizati
+
+input: ] (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+ion
+
+res2_add: Add
+
+input: | [(None, 256, 8, 8), (None, 256, 8, 8)]
+output: (None, 256, 8, 8)
+
+l
+
+res2_rel
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+lu2: Activation
+
+a
+
+res3_convl-3-
+
+Sonv2D
+
+input: | Qone, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+/
+
+res3_batchnorml: BatchNormalization
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+y
+
+res3_relul: Activation
+
+input: | (None, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+res3_conv2-3-256: Conv2D
+
+input: | Qone, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+y
+
+res3_batchnorm2: BatchNormalization
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+res3_add: Add
+
+input: | [(None, 256, 8, 8), (None, 256, 8, 8)]
+
+output: (None, 256, 8, 8)
+
+l
+
+res3_relu2
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+: Activation
+
+A
+
+input: | Qone, 256, 8, 8)
+
+res4_convl-3-256: Conv2D
+
+output: | (None, 256, 8, 8)
+
+!
+
+res4_batchnorml: BatchNormalization
+
+input: | Qone, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+v
+input: jone, 256, 8, 8
+res4_relul: Activation [= N )
+- output: | (None, 256, 8, 8)
+
+res4_conv2-3-256: Conv2D
+
+input: | (None, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+y
+
+res4_batchnorm2: BatchNormalization
+
+input: | Qone, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+in
+
+put: | [(None, 256, 8, 8), (None, 256, 8, 8)]
+
+res4_add: Add
+
+ou
+
+atput: (None, 256, 8, 8)
+
+!
+
+res4_relu2: A
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+ctivation
+
+x
+
+input:
+convl-3-256: Conv2D P
+
+: | (None, 256, 8, 8)
+
+output: | (None, 25
+
+. 8, 8)
+
+/
+
+input: | (None, 256, 8, 8)
+
+res5_batchnorml: BatchNormalization
+
+output: | (None, 256, 8, 8)
+
+v
+
+ul: Activation
+
+input: | (one, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+input:
+
+(None, 256, 8, 8)
+
+res5_conv2-3-256: Conv2D
+
+output:
+
+(None, 256, 8, 8)
+
+y
+
+res5_batchnorm2: BatchNormalization
+
+input: | (None, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+input: | [(None, 256, 8, 8), (None, 256, 8, 8)]
+
+resS_add: Add
+
+outpu
+
+at: (None, 256, 8, 8)
+
+l
+
+<5_relu2: Activation
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+a
+
+input: | (None, 256, 8, 8)
+res6_couv1-3-256: Conv2D
+output: | (None, 256, 8, 8)
+input: | (None, 256, 8, 8)
+
+res6_batchnorml: BatchNormalization
+
+output: | (None, 256, 8, 8)
+
+y
+
+res6_relul: Activation
+
+input: | (None, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+res6_conv2-3-256: Conv2D
+
+input: | Qone, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+yv
+| input: | @vone, 256, 8, 8)
+res6_batchnorm2: BatchNormalization
+output: | (None, 256, 8, 8)
+input: jone, 256, 8, 8), (None, 256, 8, 8
+res6_add: Ada | w ON u
+- output: (None, 256, 8, 8)
+
+l
+
+res6_relu2: Activation
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+A
+
+input: | Qone, 256, 8, 8)
+
+res7_convl-3-256: Conv2D
+
+output: | (None, 256, 8, 8)
+
+!
+
+res7_batchnorml: BatchNormalization
+
+input:
+
+(None, 256, 8, 8)
+
+output:
+
+(None, 256, 8, 8)
+
+y
+
+input: | @one,
+
+res7_relul: Activation
+
+output: | (None, 256,
+
+res7_conv2-3-256: Conv2D
+
+input: | (None, 256, 8, 8)
+
+output: | (None, 256, 8, 8)
+
+y
+
+res7_batchnorm2: BatchNormalization
+
+input:
+
+(None, 256, 8, 8)
+
+output:
+
+(None, 256, 8, 8)
+
+Ny
+
+input: | [@None, 256, 8, 8), (None, 256, 8, 8)]
+
+res7_add: Add
+
+output:
+
+(None, 256, 8, 8)
+
+!
+
+res7_relu2: Activation
+
+input: | (None, 256, 8, 8)
+output: | (None, 256, 8, 8)
+
+ea
+
+value_conv-1-4: Conv2D
+
+input: | (None, 256, 8, 8)
+
+input: | (None, 256, 8, 8)
+
+output: | @one, 4, 8, 8)
+
+policy_conv-1-2: Conv2D
+
+output: | one, 2, 8, 8)
+
+\
+
+value_batchnorm: BatchNormalization
+
+input: | (None, 4, 8,
+
+3) input: | @one,
+
+output: | (None, 4, 8,
+
+policy_batchnorm: BatchNormalization
+
+2
+
+. 8, 8)
+
+8) output: | (None,
+
+. 8, 8)
+
+v
+
+value_relu: Activation
+
+input: | (None, 4, 8, 8)
+output: | (None, 4, 8, 8)
+
+y
+
+value_flatten: Flatten
+
+input: | (None, 4, 8, 8)
+output: | (None, 256)
+
+vy
+
+value_dense: Dense
+
+input: | (None, 256)
+
+output: | (None, 256)
+
+v
+
+value_out: Dense
+
+input: | (None, 256)
+output: | one, 1)
+
+yv
+
+input: fone, 2, 8, 8)
+policy_relu: Activation -“! N )
+
+output: | (None, 2, 8, 8)
+
+y
+
+input: | (None, 2, 8, 8)
+
+policy_flatten: Flatten
+
+output: | @one, 128)
+
+v
+input: | (None, 128)
+
+output: | (None, 1968)
+
+policy_out: Dense
+

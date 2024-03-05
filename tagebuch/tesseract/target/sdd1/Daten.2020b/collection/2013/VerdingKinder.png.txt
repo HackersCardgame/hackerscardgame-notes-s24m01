@@ -1,0 +1,55 @@
+Von: Mare Jun. Landolt, (un)
+
+Betreff: Webseite
+
+Datum: 27, Mai 2013 03:36:23 MESZ
+‘An: hh@pension-campanula.ch
+
+Sicherheit: #&Signien (mail@marclandolt.ch @EdUAZGqGF9GS7C))
+
+> @ 2Annange, 115 KB (Sichern ¥ ) (_Ubersioht )
+
+Guten Tag
+
+ich hatte letzthin Gelegenheit mit einem
+von ihren Insassen zu sprechen. Er hat,
+‘erwahnt, dass scheinbar kein Internet
+vorhanden sei, meiner Meinung nach ein
+Fehler, da sich das Leben heute (insbesondere
+‘bei der jdngeren Generation) doch recht,
+festim Netz abspielt.
+
+Ich habe selber eine Geschichte als
+‘Mensch mit Behinderung, und mir
+
+hat das Netz relativ gut geholfen meine
+Probleme zu sen (Stichwort Psychoedukation)
+des weiteren ist es fr die Junge Generation
+
+ein Mittel sich gegenseitig zu helten.
+
+Insofern waren die Kosten auch nicht sehr
+gross, schatzungsweise 200.— Initialkosten fdr Hardware:
+und dann jeweils 30.—-im Monat, baw. vermute
+
+ich, dass fur das Baro ja bereits ein Netzwerk vorhanden
+ist, und dass man dann einfach zwei isolierte
+
+Netzwerke machen misste oder ein Double NAT.
+
+Entsprechend misste man natirlich ein Gerat
+kaufen, welches das DHCP Logfile speichert, fUr
+
+den Fall dass es Missbrauch gibt, auch relativ einfach
+zu bewerkstelligen.
+
+PS: Ich will nicht irgendwie Business Machen oder so,
+stehe aber fr Fragen geme zur Verfgung.
+
+Mit freundiichen Grossen
+
+Mare Landolt
+ipl. Informatiker HF
+
+Internet
+Massgeschneiderte Angebote fiir rasantes Surfen

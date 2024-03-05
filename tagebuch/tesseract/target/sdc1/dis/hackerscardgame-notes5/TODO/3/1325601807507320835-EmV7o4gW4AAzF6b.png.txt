@@ -1,0 +1,28 @@
+This message was created automatically by mail delivery software.
+
+‘A message that you sent could not be delivered to one or more of its
+
+recipients. This is a permanent error. The following address(es) failed:
+Anfo@inetitut-bartoschek.de
+
+hhost x1 pub.mailpod9-cph3.one.com [185.164.14.118]
+
+SSHTP error from remote mail server after RCPT T0:<infodinetstut-bartoschelk, de>:
+
+550 5.1.1 Unknown recipient
+
+Reporting-MTA: dns; mxoutel4.nail.hostpoint.ch
+
+Action: failed
+Final-Recipient: rfc622;info@institut-bantoschek.de
+status: 5.0.0
+
+Renote-NTA: dns
+Diagnostic-code:
+
+‘x1. pub.mailpod9-cph3-one com
+‘smtp; 550 5.1.1 Unknown recipient
+
+—Bitte an Hans Joachim Maaz wetteteten em!
+
+Betreff: Bitte an Hans Joachim Maaz weiterleiten

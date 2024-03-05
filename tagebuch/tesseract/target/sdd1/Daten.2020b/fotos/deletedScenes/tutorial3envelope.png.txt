@@ -1,0 +1,25 @@
+[Narration ¥
+
+Mono, 44100H2
+
+32-bit float
+
+Mute_[_ Solo
+9
+
+L R
+9
+
+[Background 1
+
+Stereo, 44100H2
+
+32-bit float
+Mute_[_ Solo
+Logi | 10
++ g.4| oof
+
+X[label Track ¥
+
+First Narraion
+

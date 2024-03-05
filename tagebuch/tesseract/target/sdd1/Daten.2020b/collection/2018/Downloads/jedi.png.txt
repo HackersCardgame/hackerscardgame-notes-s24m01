@@ -1,0 +1,13 @@
+marc@debian a
+
+Daten.2017/code/shrikey/python/pciNG/imdb/db$ fgrep -ir “der jedi
+title.akas.ts' 34
+
+Star Wars: Episode VI - Die Riickkehr der Jedi-Ritter DE \N imdbDisplay _\N )
+66 Die Riickkehr der Jedi-Ritter  XWG —\N \N \N 0)
+
+1 Collider Jedi Council US \N AN new title 0
+
+title.basics.tsv.bak:tt5619980 tvSeries Collider Jedi Council AMC Jedi Council 0 2015 = \N \N Talk-Show |
+marc@debian :~/Daten.2017/code/shrikey/python/pciNG/imdb/dbs lj
+

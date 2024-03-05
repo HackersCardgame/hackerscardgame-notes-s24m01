@@ -1,0 +1,234 @@
+Inputitask
+ui
+
+TAL: boolean
+
+& InputMask()
+@ getParentClass(): InpuiMask
+@_newFieg,
+@ openFieg,
+@ saveFieg,
+@ xmiExporto,
+.
+°
+
+>emlimportQ
+ccaloulted,
+
+ButtonActionListener
+
+(© actionPerformen)
+
+dmport, Cally
+
+MenuBarActionListener
+(© actionPerformed)
+MyWindowd istener
+© windowClosingd)
+TableActionListener
+© tableChangedo)
+
+| enstantiete, mport, Cals
+
+@ maincin args: String)
+
+© Marshaller
+javax mind
+
+© Unmarshaller
+Javan ml ine
+
+© Runnable
+Dialog javaleng
+
+javax swing
+
+OutputMask
+oui
+
+& OutputMask(in pParent: JFrame, in pData: String[l], in pSpeedt String)
+
+MyWindowd istener
+
+© windowCtosing()
+
+2 mLegs: ArrayListsLeg>
+12 mWaypoints: ArrayListeWaypaint=
+
+& Route)
+& Routetin deta: String], in pSpeed: double)
+© addLeg(in pleg: Leg)
+
+cleerLegs0)
+
+getLeatin pNumber: int): Leg
+
+getSpecd: double
+
+getTataDistance(: double
+
+agetTotalTimeQ: double
+
+getWaypointin pNumber: int): Waypoint
+getWaypoints(): ArrayList<Waypoint>
+legsToRoundedArray(: Stinall
+setLeutin plea: Lea)
+
+setSpee(in pSpeed: double)
+setTotalDistancetin pTotaDistence: double)
+setTotalTimetin pToteTime: double)
+setWaypointin vat Waypoint)
+
+size: int
+
+| import, Cals | enstantiate, Imports
+
+Teg
+
+= Waypoint
+
+data
+
+® distance: dauble
+© from: String
+
+© heading: double
+© time: double
+
+2 to: String
+
+AboutMask
+ui about
+
+© body: Font
+2 credits: Sting [0.11
+© folmage: mage
+
+oF scale: double
+start: double
+
+1 time: int
+
+& AboutMask(in pParent: JFrame)
+
+1 axldAlphalmage(n g2at Graphics20)
+
+1 cresteGrephics20(in pict: int, in pHeight: int: Graphies20
+2 crawDemotin pith: inn pHeiht: inn 92: Grepries2D)
+a ito)
+
+@& maintin argy: Strinal)
+
+© painttin &: Graphics)
+
+© rund
+
+star
+
+1 ston()
+
+(© windowActivatedtn e: WindowEvent)
+
+‘windowClosedin &: WindowEvent)
+
+‘windowClosingine: WindowEvent)
+‘windowDeactvatedn e: WindowEvent)
+‘windowDeiconified(n e: WindowEvent)
+‘windowlconitied(n e: WindowEvent)
+
+‘windowOpenedtin &: WindowEvent)
+
+T
+| caccesss
+
+|
+|
+|
+|
+|
+| «Cal
+|
+|
+|
+|
+
+Matrix
+ui about
+
+‘© mAdeitionainformation: String
+© mLatitude: String
+
+12 mLongjtude: String
+
+12 Name: String
+
+& Matrix(in mt: doublet)
+
+@ dfn m1: doublet, in m2: double): double
+@ actin st: double( i): doublet}
+
+@ det(in mt: double(f): double
+
+Lego
+
+& Leg(in pFrom: String, in pTo: String, in pDistance: double, in pHeading: double, in pTime: double)
+
+getDistance(): double
+© getFrom(: Sting
+
+(© getHeadingd): double
+
+© getTimeg: douile
+
+© getTo(: Sting
+
+(© setDistancetin distance: double)
+(© setFromin trom: String)
+
+(©. setHeading(n heading: double)
+(© setTime(in tine: doute)
+
+(© setTo(into: Sting)
+
+& Waypoinit)
+
+ Waypoint(in data: String())
+
+© getAdationalisormation(: Sting
+gel attuse0: Sting
+getLongtuded: String
+getName: String
+
+setLatitude(in pLatitude: String): boolean
+setLongitude(in pLongitude: String): boolean
+ssetName(in Name: String)
+
+@ testLatitudetin pLatitude: String): boolean
+@ testLongitude(in pLongitude: String): boolean
+
+<setdtionallnformation(in Audltionalinformation: String)
+
+@ identty(in columns int): double( I]
+
+@ inverse(in mt: double): double)
+
+@& maincin args: String)
+
+@ mun mt: double), in m2: double): doublet)
+
+@ scalartuln mt: double), in scalar: double): doublet)
+@ sub(in m1: doublet, in m2: double): double)
+
+@ subDet(in s1: doublefI], in xPos: int, in yPos: int: double(}
+@ toConsoletin mt: double()
+
+@ transpone(in mt: doublef[(): double( I]
+
+@ turnFree(in rotationAis: double(): double(}
+
+@ xcTurntin angle: double): double)
+
+@ yTurtin angle: double): double)
+
+@ zTurntin angle: double): double)
+

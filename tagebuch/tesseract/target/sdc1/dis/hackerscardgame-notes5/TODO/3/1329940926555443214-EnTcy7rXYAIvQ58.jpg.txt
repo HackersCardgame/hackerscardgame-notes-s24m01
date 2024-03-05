@@ -1,0 +1,37 @@
++woe Pw =
+
+e2¢e@ © B 5s tetstureothingseom/S22'-psae-a r i a
+
+applications for wireless RFID chips. The pChip uses an external antenna to receive radio waves, which
+can be transformed and wirelessly transmitted asa unique ID number.
+
+‘The datas written during the fabrication process, using ROM, ands therefore non-rewritable, providing
+a high level of authenticy. "By taking advantage of the merits of compactness, high authenticity and
+wireless communication, and combining it with internet technology, the p-Chip may be utlized in a broad
+range of applications such as security, transportation, amusement, traceability and logistics” - said
+Hitachi engineers who worked on the project. Hitachi is continuing to develop technologies that increase
+communication’ distance range and decrease antenna size, whilst preserving high reliability and aiming
+for Improved productivity. The company said thatthe enhanced compactness and thinness ofthe new
+chip has further broadened the range of possible applications, including gift certificates that can be
+authenticated. The new REID “powder” can also be incorporated into thin paper, such as currency,
+creating so-called “bugged” money.
+
+Miniature RAD chips may also have advanced military applications such as smartdust. Smartdust isthe
+concept of wireless MEMS (Micro-Electro- Mechanical Systems) sensors that can detect anything from light
+and temperature to vibrations. Using a large amount of sensors is not a new concept - the US. military
+‘experimented with this idea already during the Vietnam War (Operation Igloo White) While the older
+sensors were relatively large and only somewhat effective, Professor Christopher Pister from UC Berkeley
+suggested in 2001 to create a new type of micro sensor that could theoretically be as small asa grain of
+sand, Research into this idea is ongoing and is being funded by DARPA (the Defense Advanced Research
+Projects Agency).
+
+What was only a theoretical concept in 2001 has now become a realty with the latest development by
+Hitachi, and could find its way to intelligence agencies across the world. RFID chips are also a source for
+Increasing controversy surroundingissues of privacy. An RFID chip can be used to track the location of
+
+‘This website uses cookes to Improve your experience, We!
+
+sume you're ok with thi, butyou can opto
+
+oe pe ||
+

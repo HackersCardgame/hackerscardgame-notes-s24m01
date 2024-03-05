@@ -1,0 +1,4 @@
+Use text,
+not images,
+for text.
+Thanks.

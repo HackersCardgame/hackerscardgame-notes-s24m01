@@ -1,0 +1,84 @@
+cisco
+
+Products and ences Solone Support Lear
+
+Cisco Configuration Engine
+
+Simplify Router and Switch Deployments
+
+‘The Cisco Configuration Engine isa highly secure, scalable and reliable network management software solution
+that runs on RHAT Linux, Solaris, or VMware. By taking advantage of inteligent agents inside Cisco IOS
+Software, the Configuration Engine helps to enable the "call-nome" architecture. With this architecture, a new
+device, with minimal and identical bootstrap configuration, can identify the location of the Configuration Engine.
+It can also automatically connect with it, and ask for the correct configuration
+
+Save Time and Money
+
+Using the embeded features in Cisco IOS Software, a Cisco Configuration Engine-enabled solution can
+dramatically lower deployment costs by eliminating device staging process. Many existing customers have
+achieved time and cost savings when setting up remote sites.
+
+Improve Efficiency
+
+‘The Cisco Configuration Engine provides a highly distributive delivery system for configuration updates and
+device image upgrades. This system helps to enable efficient management and updating of the remote
+network
+
+Benefits of implementing Cisco Configuration Engine include:
+
+‘+ Reduced deployment costs (Cisco IT achieved 12 percent to 14 percent savings for zero-touch deployment
+to teleworker employees)
+
++ Accelerated customer premise equipment (CPE) deployment
+‘+ Automation of routine operations, resulting in fewer manual errors and increased uptime
++ Intuitive web-based graphical user interface
+
++ Support for third-party devices
+
+Primary features include:
+
++ Zero-touch deployment for initial rollout
+
++ Cisco IOS bulk configuration updates
+
++ Cisco 10S software image distribution and activation
+
+‘+ Web Service API for programmatic access
+
++ Intuitive web-based graphical user interface
+
+Featured Content
+
+Flexibility and Productivity for Teleworkers
+Leam more about the Cisco Virtual Office, a highly secure solution that extends onsite-quality video, voice,
+wireless, and data services to your remote workforce.
+
+Related Versions and Product Literature
+
+Fonte say Beers beg
+
+plore isco
+
+Contact Cisco
+
+Get acall from Sales
+Product / Technical Support
+‘Training & Certification
+1-800-553-6387
+
+US/CAN | Sam-5pm PT
+
+Support
+
+A support information for
+(Cisco Configuration Engine
+
+‘Support Documentation And Software
+
+Related Links
+Products
+‘Advanced Services
+Related Tools
+Service Finder
+
+Search Q.

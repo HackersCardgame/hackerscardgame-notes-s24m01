@@ -1,0 +1,97 @@
+public abstract class Kult
+{
+
+public String Helden
+public String Feinde
+public String Symbole
+protected String Rituale
+
+private String Geheimnisse
+
+public String Triggerwort
+
+public void .....,
+
+}
+
+Freimaurer
+
+XXXX
+unbildung
+WinkeLmass/Zirkel
+2727
+
+7722
+
+7227
+
+Nazis
+
+Hitler
+
+Juden.
+
+Hakenkreuz
+
+Juden hauen
+
+Ahnenerbe
+
+Nazi
+
+Juden
+
+Anne Frank
+Nazis
+Davidsstern
+sabbat
+
+7722
+
+Vergasen
+
+Mafiosi
+
+Don Corleone
+Kanarienvagel
+Tatovierung
+Mafia Eid
+
+Polizei gekauft
+
+Kokainnase
+
+Romer
+
+Caesar
+Sklaven
+Jupiter
+Kolosseum
+
+Ahnenerbe
+
+7227
+
+Militar
+
+Offizier
+Anderes Land
+Dienstwaffe
+Huhn téten
+
+Bunker mit Equipment
+
+Regeliibertretung
+durch Militars
+
+Hackerscene
+
+Kevin Mitnik
+Zombis
+Wiirfel
+LanParty
+Snowdens
+Haftbefehl
+gefalscht
+
+kein WLAN

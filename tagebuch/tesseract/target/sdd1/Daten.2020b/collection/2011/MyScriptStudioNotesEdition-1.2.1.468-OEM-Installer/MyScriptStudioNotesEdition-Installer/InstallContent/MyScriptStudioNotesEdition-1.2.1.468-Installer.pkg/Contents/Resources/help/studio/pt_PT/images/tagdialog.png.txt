@@ -1,0 +1,5 @@
+‘ir etic
+
+Para atribuiretiquetas aos itens actualmente seleccionados, use as caixas de seleccdo
+‘que esto perto de cada respectiva etiqueta.
+

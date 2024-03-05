@@ -1,0 +1,16 @@
+Offset
+
+Noise
+
+vco2
+
+I
+
+vcol
+
+VCF
+
+Keyboard
+
+ADSR
+

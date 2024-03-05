@@ -1,0 +1,4 @@
+Multiple Sensors )
+
+Electromagnetism (xy.2), Temperature, Sound
+‘and it has. synthetic sensor (calculated dyin/dt)

@@ -1,0 +1,16 @@
+8.0
+
+6.0
+
+4.0
+
+Percent,
+
+2.0
+
+0.0
+
+Sat Sun ton Tue ed Thu Fri Sat Sun
+
+Max Active Check % Change: 50 Average Active Check% Change: 20 Cument Active Check % Change: 0.0
+Max Passive Check % Change: 3.0 Average Passive Check % Change:0.0 Current Passive Check % Change: 0.0

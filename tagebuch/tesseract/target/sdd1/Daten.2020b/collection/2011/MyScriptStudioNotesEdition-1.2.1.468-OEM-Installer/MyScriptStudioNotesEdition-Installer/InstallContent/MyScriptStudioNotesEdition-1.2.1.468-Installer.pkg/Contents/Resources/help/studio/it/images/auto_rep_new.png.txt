@@ -1,0 +1,2 @@
+Inserisc o seleziona una parola e un valore di sostituzione:
+

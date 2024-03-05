@@ -1,0 +1,185 @@
+Anwender
+
+68
+
+Attacken abwehren
+
+Sec-Usability
+
+eher, um die Werbung einzublenden, oh-
+ne die Geschwindigkeit der Seite durch
+SSL zu bremsen.
+
+Noch erschreckender: Manche Bank trai-
+niert ihre User regelrecht zum kiinftigen
+Phishing-Opfer. So die Bank of America
+und American Express (Abbildungen 4a
+und 4b): Beide versichern, dass die Da-
+ten nach der Eingabe in eine unsichere
+Seite per SSL iibermittelt werden. Der
+User soll blind den Angaben in der unsi-
+cher iibertragenen Seite vertrauen.
+Besonders deprimierend ist, dass beide
+Beispiele keine Ausnahmen darstellen.
+Offenbar sind es nicht nur Anwender, die
+das zertifikatsbasierte Sicherheitsmodell
+von SSL falsch oder gar nicht verstehen,
+sondern auch grofe Finanzinstitute. Wer
+Sicherheitsmechanismen plant, muss ne-
+ben Unverstandnis auch mit widerstre-
+benden wirtschaftlichen und politischen
+Interessen rechnen. Oft helfen dann nur
+Lésungen auf der gleichen (wirtschaftli-
+chen und politischen) Ebene.
+
+Lehren zwecklos
+
+Vollkommen zwecklos ist es, Probleme
+mit den Sicherheitsfunktionen eines User-
+Interfaces per Benutzeraufklarung lésen
+zu wollen. Computersicherheit ist ein-
+fach zu komplex, und die Motivation der
+Anwender, alle Feinheiten zu lernen, ist
+viel zu gering. Keiner will Anleitungen
+lesen, auch wenn sie ihm in Form von
+Popup-Dialogfenstern begegnen. Angrei-
+fer sind gut darin, die Komplexitat und
+das fehlende Verstaéndnis der User fiir ih-
+re Zwecke auszunutzen.
+
+Als warnendes Beispiel mag die Folge
+des I-Love-You-Wurms dienen: Erst nach
+
+vielen Jahren hatten es die meisten Be-
+nutzer miihsam gelernt, niemals auf At-
+tachments von unbekannten Absendern
+zu klicken. Kein Problem fiir die Angrei-
+fer. Heute scheinen die Wiirmer von
+Freunden, Verwandten, Kollegen und Ge-
+schaftspartner zu stammen - die Adres-
+sen sind natiirlich gefalscht. Niemand
+kann es sich leisten, alle Attachments
+dieser Absender zu ignorieren. Jahre der
+Benutzerschulung waren nutzlos.
+
+Unsicherheit ins Format
+eingebaut
+
+Viel besser ware es, Software so zu ent-
+wickeln und die Anwender so zu trainie-
+ren, dass sie nur noch ungefahrliche Do-
+kumentenformate verschicken. Formate
+also, welche sich passiv verhalten und
+auf dem Zielsystem keinen Schaden an-
+tichten kénnen.
+
+Doch im Gegenteil tauchen tiberall Tu-
+ring-Maschinen auf: In ihrer Jagd nach
+Erweiterbarkeit verwandeln Entwickler
+alles, vom Office-Dokument tiber PDF bis
+zur URL einer Webseite, in eine Program-
+miersprache. Leider sehen viele dieser
+gefahrlichen Dokumententypen gar nicht
+aus wie eine Programmiersprache. Ent-
+sprechend schwer bis unméglich ist es,
+deren aktive Funktionen zu deaktivieren
+oder iiberhaupt aufzuspiiren.
+
+Deutlich besser ware der Least-Privile-
+ges-Ansatz: Der Viewer fiir dieses Pro-
+gramm sollte mit so wenig Rechten wie
+méglich laufen (Sandbox-Prinzip), um
+im Ernstfall méglichst wenig Schaden
+anzurichten. Diese und weitere grundle-
+gende Sicherheitsmafnahmen sind zwar
+seit den 60er- und 70er-Jahren in der In-
+formatik bekannt,
+
+Browser security indicators
+
+You may notice when you are on our home page that some
+| familiar indicators do not appear in your browser to confirm the
+entire page is secure. Those indicators include the small "lack"
+| icon in the bottom right corner of the browser frame and the
+| ‘s" in the Web address bar (for example, “https").
+
+To provide the fastest access to our horne page for all of our
+millions of customers and other visitors, we have made signing
+in to Online Banking secure without making the entire page
+secure. Again, please be assured that your ID and passcode
+are secure and that only Bank of America has access to them.
+
+Bankot America
+
+Abbildung 4a: Dieses Finanzinstitut setzt den Zugang zum Onlinebanking in eine
+unsicher iibertragene Seite und iiberredet die User dennoch, ihre Daten einzutra~
+gen. Genau ein solches Verhalten wiinschen sich alle Phisher.
+
+finden aber immer
+noch viel zu wenig
+Beachtung.
+
+Benutzerschulung funktioniert auch des-
+halb nicht, weil sie viel zu oft als Auf-
+fangbecken ftir alle Probleme herhalten
+muss, welche der Entwickler in der Pro-
+grammoberflache nicht lésen kann oder
+will. Die perfide Logik: Wenn ein Pro-
+blem zu kompliziert fiir eine einfache
+Lésung ist, dann erklaren wir dies zur
+Aufgabe der Schulung. Es ist dann das
+Problem von jemand anderem!
+
+Wenn ein Dialogfenster dem User dem
+Sinne nach folgende Frage stellt: ,,Hier
+k6nnte vielleicht etwas Gefahrliches pas-
+sieren. Dennoch fortfahren?“ (Abbildung
+5), dann zeigt dies, dass der Applikati-
+onsentwickler schlichtweg aufgegeben
+hat. Alle Wirksamkeit der Sicherheitsme-
+chanismen einer Software hangt nun am
+Urteil des Benutzers. Dieser wird zwar
+kopftiber in die erstbeste Sicherheitslii-
+cke fallen, es ist dann aber seine Schuld
+und nicht die des Entwicklers. Darauf
+hofft zumindest Letzterer.
+
+Angriffe auf das
+User-Interface
+
+Angreifer sammeln zusehends Erfahrung
+darin, Schwachen von Benutzerschnitt-
+stellen auszunutzen. Sie testen ihre Tech-
+niken im grofen Stil in der realen Welt.
+Klar, dass sie erfolgreiche Strategien wei-
+terentwickeln und unwirksame aufge-
+ben. Diese Evolution schreitet schneller
+voran als die eines grofgen Teils gew6hn-
+licher Software. Usability-Experten be-
+fiirchten sogar, dass ihre Arbeit eher den
+Angreifern nutzt als den Anwendern: Da
+Cracker besser verstehen, wo Usability-
+Probleme liegen, kénnen sie die norma-
+len User gezielter in die Irre flihren.
+
+In einer Welt, in der Spammer mit Lin-
+guisten zusammenarbeiten, um Spamfil-
+ter zu umgehen, und sich Phisher die
+Hilfe von Psychologen holen, um ihre
+
+American Express
+
+Higher Standards secure area.
+
+Abbildung 4b: Die Uberredungsversuche von Abbildung 4a sind kein Einzelfall.
+Auch dieses Kreditinstitut konditioniert seine User dazu, ihre Daten in eine
+
+Security is important to everyone!
+
+Please be assured that, although the home page itself does not have an
+“https” URL, the login component of this page is secure. When you enter
+your User ID and password, your information is transmitted via a secure
+environment, and once the login is complete, you will be redirected to our
+
+unsichere Seite einzutragen.
+

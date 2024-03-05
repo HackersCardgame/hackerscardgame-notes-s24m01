@@ -1,0 +1,46 @@
+_—
+2
+3
+ne)
+fe}
+&
+&
+2.
+oe)
+roe)
+N
+=
+‘9
+t+
+Oo)
+
+DDR4 DIMM_A1
+
+(64bit, 288-pin module)
+
+DDR4 DIMM_A2
+
+(64bit, 288-pin module)
+
+DDR4 DIMM_B1
+
+(64bit, 288-pin module)
+
+DDR4 DIMM_B2
+
+Noonan
+
+EATXPWR
+
+OOOO00O0g
+
+QOOOo0OO00
+
+O00
+OOO
+
+BOOT_DEVICE_LED
+VGA_LED
+
+DRAM_LED
+CPU_LED

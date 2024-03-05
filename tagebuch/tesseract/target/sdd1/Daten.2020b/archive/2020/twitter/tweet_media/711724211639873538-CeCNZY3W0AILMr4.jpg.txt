@@ -1,0 +1,15 @@
+marc@kalai:/etc$ uname -a && cat /etc/os-release
+
+Linux kalai 4.4.0-1-amd64 #1 SMP Debian 4.4.6-1 (2016-03-17) x86_64 GNU/Linux
+PRETTY NAME="Debian GNU/Linux stretch/sid"
+
+NAME="Debian GNU/Linux"
+
+TD=debian
+
+HOME_URL="https: //ww.debian.org/"
+
+SUPPORT_URL="https: //www.debian.org/support'
+
+BUG REPORT URL="https://bugs.debian.org/"
+

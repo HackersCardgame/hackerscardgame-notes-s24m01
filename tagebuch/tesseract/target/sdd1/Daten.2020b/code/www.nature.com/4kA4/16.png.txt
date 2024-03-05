@@ -1,0 +1,11 @@
+Extended Data Table 1 | Move prediction accuracy
+
+KGS train KGS test GoKifu validation
+Supervised learning (20 block) 62.0 60.4 54.3
+Supervised learning (12 layer !”) 59.1 55.9 -
+Reinforcement learning (20 block) - - 49.0
+Reinforcement learning (40 block) - - 51.3
+
+Percentage accuracies of move prediction for neural networks trained by reinforcement learning (that is, AlphaGo Zero) or supervised learning. For supervised learning, the network was trained for 3
+days on KGS data (amateur games); comparative results are also shown from ref. 12. For reinforcement learning, the 20-block network was trained for 3 days and the 40-block network was trained for
+40 days. Networks were also evaluated ona validation set based on professional games from the GoKifu dataset.

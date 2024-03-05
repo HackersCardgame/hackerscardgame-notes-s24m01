@@ -1,0 +1,51 @@
+WAN >> Internet Access
+
+WAN 2
+
+Static or Dynamic IP (DHCP Client)
+@Enable QO Disable
+
+Keep WAN Connection
+© Enable PING to keep alive
+
+PING to the IP
+
+PING Interval © |minute(s)
+
+WAN Connection Detection
+Mode ARP Detect
+Ping IP
+TTL:
+
+MTU 1442_| (Max:1500)
+
+RIP Protocol
+CEnable RIP
+
+WAN IP Network Settings
+
+© Obtain an IP address automatic
+
+Router Name [rombach
+Domain Name [ignored.ch
+* : Required for some ISPs
+
+© Specify an IP address
+
+IP Address 91.138.20.50
+‘Subnet Mask 255.255.255.192
+Gateway IP Address
+
+DNS Server IP Address
+
+91,138.20.1
+
+Primary IP Address
+‘Secondary IP Address
+
+© Default MAC Address
+© Specify a MAC Address
+MAC Address:
+
+00 | -/18 | -/4D et | [D1 | “FF
+

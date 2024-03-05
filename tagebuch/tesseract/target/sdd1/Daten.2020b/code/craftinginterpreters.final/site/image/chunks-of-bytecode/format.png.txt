@@ -1,0 +1,7 @@
+OP_RETURN OP_CONSTANT
+
+Lo opcode
+[ot |< opcode [00 [23 J+ constant index
+sd UHH
+
+1BYTE 2 BYTES

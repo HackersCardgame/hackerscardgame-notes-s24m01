@@ -1,0 +1,60 @@
+telegram
+
+enexas zeocesce
+
+surge-supp:
+xn On y, monit
+power SUPPLY, BON
+
+; 5
+on white nois aS
+Penge (left knob). n
+Tright knob) «
+
+1. gettataed eat
+rs to deliver 0.6
+plug in power
+go set up inte
+put disk labeled
+River "READY.
+run desired
+Put disk lak a “SHOCK FROGS"
+per pal a eanih(c chandansvas{onch(quamtiee
+
+into drive
+
+and press Reti
+and press Re’
+Nane
+
+SHOCK Delivers fixed-duration shocks on a VT schedull
+EYR-2 Delivers shocks to two escape:
+
+joked pairs.
+response
+
+equirement, F1/F3
+response requirement, F2/F4
+nimum 0.8-s delay, F5/F6
+(Print out.data with EYR2CHK]
+TRIPLE Delivers escapable shocks to three rats.
+Increase response requirement, F1/F3/F5
+
+Decrease response requirement, F2/F4/F6
+Impose minimum 0.8-s delay, 1/2/3
+
+(Print out data with TRIPLECHK]
+To turn off equipment:
+
+Work backwards from Step 3 above.
+
+1£_session must be terminated prematurely:
+
+1. Press RUN/STOP key
+2. Type —-POKE 56846,0 and press Return
+3. Restart program by typing RU
+
+4. If all else fails,
+
+turn off computer and start
+

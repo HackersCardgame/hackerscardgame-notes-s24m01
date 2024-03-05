@@ -1,0 +1,62 @@
+create mode 100644 ableton/20210611 Project/20210611-23-arranged-dritter-versuch-14.als
+copy ableton/20210611 Project/{20210611-23-arranged-dritter-versuch-09.als => Backup/20210611-23-arranged-dritter-versuch-09 [2021-06-16
+create mode 100644 ableton/20210611 Project/Backup/20210611-23-arranged-dritter-versuch-09 [2021-06-16 031212].als
+create mode 100644 ableton/20210611 Project/Backup/20210611-23-arranged-dritter-versuch-10 [2021-06-16 031642] .als
+create mode 100644 ableton/20210611 Project/Backup/20210611-23-arranged-dritter-versuch-12 [2021-06-16 032132] .als
+create mode 100644 ableton/20210611 Project/Backup/20210611-23-arranged-dritter-versuch-13 [2021-06-16 032457] .als
+create mode 100644 ableton/20210611-23-arranged-dritter-versuch-14.wav
+create mode 100644 ableton/20210611-23-arranged-dritter-versuch-14.wav.asd
+create mode 100644 ableton/ableton-on-linux.png
+
+Username for ‘https://gitlab.com': hackerscardgame
+
+Password for ‘https: //hackerscardgame@gitlab.com':
+
+warning: redirecting to https://gitlab.com/HackersCardgame/hackerscardgame-notes6.git/
+
+Enumerating objects: 40, done
+
+Counting objects: 100% (40/40), done
+
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (35/35), done
+
+Writing objects: 100% (35/35), 41.43 MiB | 956.00 KiB/s, done
+
+Total 35 (delta 8), reused @ (delta 0), pack-reused 0
+
+To https: //gitlab.com/HackersCardgame/hackerscardgame-notes6
+
+e026fff..e4ce68a main -> main
+marc@debian: /disk/marc/hackerscardgame-notes6$ re*Rguide*Ct
+marc@debian: /disk/marc/hackerscardgame-notes6$ figlet -f banner “ echo I will guide you \ |" -w 200 | sed -e “s/ /x/g" | sed -e "s/#/+/g"
+rons * *
+eeeeren ere reeeaareaeteey * pirterten tte * FORTE AEE ECE ER ES ktet * *
+* ir td tetera eter * pirterten inte * ir tht ttre trated ich tekttrtteatea dette * *
+rere Josie * pirterten inte * * firth tek tokio iri ira trite eit irs *
+* * eit te teeter * ikki REI * itt tke ttrk eaten eit iste te ttre * *
+* ei tt deter teeter * romeraran * ir tir dete treater dette eit iste te ttre * *
+ereeeemereret eae oeeteey Joie tortoicrtira irr ee reenee re eeeaeeeeraneetrse’ irtertosesiriirit ie erties
+marc@debian: /disk/marc/hackerscardgame-notes6$ figlet -f banner " | sed -e 's/i /WE /g'" -w 200 | sed -e "s/ /«/g" | sed #419"
+* tee * foe reeeeeees * tee
+* peereneererareesey Juri iiae ite irtektrktrtt Josette
+fief te * iets * ite irtine irr tite tirktre irish
+JESSE TRIE RRA interiors pitti eeeenenemenratats pitti *
+* foe eirteir te * irtine * * irik tirktre * foe
+irdeto ttre eirteir te * ir ter tent * * itt ttrktre * eirteir te
+* peerenreereraretsny oeees eres fief te eereeeeeeer reas. roeee
+
+:/disk/marc/hackerscardgame-notes6$ figlet -f banner " WE will guide you" -w 200 | sed -e "s/ /x/g" | sed -e "s/#/+/g"
+eeeeens
+
+* *
+inte ttrktre pirterten tte * FORTE AEE ECE ER ES ktet
+itt ttrktre pirterten inte * ir tht ttre trated ich tekttrtteatea dette
+Joctaroninie pirterten inte * * firth tek tokio iri ira trite eit irs
+irik tirktre ikki REI * itt tke ttrk eaten eit iste te ttre
+itt ttrktre romeraran * ir tir dete treater dette eit iste te ttre
+
+JEDI SE TARA RAIA SISOS SII SDAA II ee reenee re eeeaeeeeraneetrse’ irtertosesiriirit ie
+marc@debian: /disk/marc/hackerscardgame-notes6$ ff
+

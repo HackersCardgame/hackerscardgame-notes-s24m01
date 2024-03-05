@@ -1,0 +1,33 @@
+Activities
+
+© Restore Session
+
+€
+
+Cc
+
+x
+
+x
+
+-ch1.ubs.com)
+
+BM Ein Archiv deiner Daten
+
+x
+
+Sep 12 12:58
+
+x | © Server Not Found
+
+@ 12.04 - How to recover/t
+
+e=en-CH
+
+We can't connect to the server at ebanking-ch1.ubs.com.
+
+If that address is correct, here are three other things you can try:
+
+* Try again later.
++ Check your network connection
+* IF you are connected but behind a firewall, check that Firefox has permission to access the Web.

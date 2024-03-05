@@ -1,0 +1,18 @@
+eae Quick Array 96
+1
+
+1 $x$
+
+2 $y$
+
+3 $z$
+
+Num of Rows, 3 ¢
+
+Num of Columns 1 ¢
+
+Columns Alignment Center v
+
+Environment array y
+OK | Cancel
+

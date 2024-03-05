@@ -1,0 +1,48 @@
+91.205.193.232 - - [28/Jan/2015:21:07:30 +0100] "GET /images/coexist.png HTTP/1.1" 200 873773 "-" "Camo Asset Proxy 2.2.0"
+
+91.138.20.50 - - [28/Jan/2015:21:11:48 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 "Mozilla/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Ubuntu
+Chromium/39.0.2171.65 Chrome/39.0.2171.65 Safari/537.36"
+
+199.16.156.124 - - [28/Jan/2015:21:14:30 +0100] "GET /robots.txt HTTP/1.1" 404 1095 "-" "Twitterbot/1.0"
+
+185.20.4.143 - - [28/Jan/2015:21:14:30 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 206 30721 "-" "Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0"
+199.16.156.124 - - [28/Jan/2015:21:14:30 +0100] "GET /robots.txt HTTP/1.1" 404 1095 "-" "Twitterbot/1.0"
+
+199.16.156.124 - - [28/Jan/2015:21:14:30 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 "-" "Twitterbot/1.0"
+
+178.32.216.192 - - [28/Jan/2015:21:14:30 +0100] "GET /images/ atheatersSocietyMap.svg HTTP/1.1" 200 293918 "http: //www.marclandolt.ch/images/opdeatheatersSocietyMap.svg" "LivelapBot/0.2 (http://
+site. livelap.com/crawler)"
+
+74.6.254.119 - - [28/Jan/2015:21:14:31 +0100] "GET /robots.txt HTTP/1.1" 404 1095 "Mozilla/5.0 (compatible; Yahoo! Slurp; http: //help.yahoo.com/help/us/ysearch/slurp)"
+
+74.6.254.119 - - [28/Jan/2015:21:14:31 +0100] "HEAD /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 - "-" "Mozilla/S.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+199.16.156.124 - - [28/Jan/2015:21:14:30 +0100] "GET /images, atheatersSocietyMap.svg HTTP/1.1" 200 293918 "-" "Twitterbot/1.0"
+
+74.6.254.119 - - [28/Jan/2015:21:14:31 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 "Mozilla/5.0 (compatible; Yahoo! Slurp; http: //help.yahoo.com/help/us/ysearch/slurp)"
+184.169.203.101 - - [28/Jan/2015:21:14:32 +0100] "HEAD /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 - "-" "Google-HTTP-Java-Client/1.17.0-rc (gzip)"
+
+184.169.203.101 - - [28/Jan/2015:21:14:32 +0100] "HEAD /images, atheatersSocietyMap.svg HTTP/1.1" 200 - "-" "Google-HTTP-Java-Client/1.17.0-rc (gzip)"
+
+195.65.18.98 - - [28/Jan/2015:21:14:33 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 “0
+
+50.17.173.211 - - [28/Jan/2015:21:14:37 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 "-" "Mozilla/5.0 (Macintosh; Intel Mac 0S X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0
+(FlipboardProxy/1.1; +http://flipboard.com/browserproxy)"
+
+54.166.112.98 - - [28/Jan/2015:21:15:16 +0100] "GET /images/MeEatheatersSocietyMap.svg HTTP/1.1" 200 293918 "-" "Recorded Future"
+
+74.112.131.243 - - [28/Jan/2015:21:15:32 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 200 293918 '"-" "Mozilla/5.0 ()"
+
+23.29.122.195 - - [28/Jan/2015:21:18:03 +0100] "HEAD /images/opdeatheatersSocietyMap.svg HTTP/1.1" 206 - "MetaURI API/2.0 +metauri.com"
+
+23.29.122.195 - - [28/Jan/2015:21:18:03 +0100] "HEAD /images, atheatersSocietyMap.svg HTTP/1.1" 206 - "-" “MetaURI API/2.0 +metauri.com"
+
+23.29.122.195 - - [28/Jan/2015:21:18:03 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 206 262145 "-" "MetaURI API/2.0 +metauri.com"
+
+23.29.122.195 - - [28/Jan/2015:21:18:03 +0100] "GET /images/opdeatheatersSocietyMap.svg HTTP/1.1" 206 262145 "-" "MetaURI API/2.0 +metauri.com"
+
+66.249.64.92 - - [28/Jan/2015:21:39:29 +0100] "GET /ts/Semester3/CD%200.0.2/Softwareengineering/javadoc/1a/Tuple.html HTTP/1.1" 200 12867 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://wuw.google.com/
+
+bot. html)"
+178.154.178.248 - - [28/Jan/2015:22:28:40 +0100] "GET /robots.txt HTTP/1.1" 404 1095
+
+"Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

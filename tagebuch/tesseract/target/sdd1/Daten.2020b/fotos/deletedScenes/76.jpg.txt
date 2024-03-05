@@ -1,0 +1,192 @@
+Anwender
+
+76
+
+Sec-Usability
+
+Attacken abwehren
+
+Um sicher mit Anderen zu kommunizieren,
+miissen Sie einen Verschliisselungsschhissel
+erzeugen, Die Daten in diesem Schhissel
+weisen aus, dass er dem Benutzer »Hans
+Beispiel« mit der E-Mail- Adresse
+shans@sample.com« gehért,
+
+Wenn Sie diese Binstelhmgen des Schiissels
+andem wollen, Klicken Sie auf »Daten andem«,
+andemfalls auf »Schlissel erzeugenc,
+
+issel erzeugen | Daten andem
+
+Abbildung 3: Teil eins des Wizard, der dem User dabei hilft, einen
+Key zu erzeugen. Er orientiert sich an den Zielen des Anwenders.
+
+krumme Schliissellange vermisst. Doch
+das einfache, geradeaus gedachte Inter-
+face muss der Defaultfall bleiben. Gele-
+genheits-User andern die Konfiguration
+ihres Programms nicht, selbst wenn es
+eine Option fiir einfaches Arbeiten gibt.
+Sie fiirchten zum Beispiel, damit etwas
+kaputtzumachen.
+
+Designbeispiel: Schliissel
+erzeugen
+
+Wie aktivitdtsorientiertes Design bei der
+Schliisselerzeugung aussieht, zeigt eine
+Ubung. Die Aufgabe lautet, einen User-
+
+Bekannte Metaphern
+
+Key fiir E-Mail-Verschliisse-
+lung zu kreieren. In Abbil-
+dung 3 ist die erste Seite des
+Wizard zu sehen. Sie erklart,
+was warum passieren wird,
+und sie enthalt den automa-
+tisch ermittelten Namen und
+die Mailadresse. Stimmen die
+Daten nicht, erlaubt es das
+Programm, die korrekten De-
+tails anzugeben.
+
+Etliche Details sind wichtig in
+diesem simplen Dialog. Zum
+Beispiel nennt die Titelleiste den Vor-
+gang ,,Schliissel erzeugen“ und nicht
+»Schliissel generieren“, wie in vielen an-
+deren Schliissel-GUIs. Die Benutzer er-
+zeugen auch Dokumente und Bilder, sie
+generieren sie nicht, daher ist
+dieser Begriff vertrauter. Au-
+Rerdem spricht der Text nur
+von ,,Schltissel* und nicht
+von einem ,,Schliisselpaar*.
+Weil die meisten User das
+
+sie hilft. Zudem sagt die Titelzeile klar,
+dass es nur noch einen weiteren Schritt
+gibt. Der User braucht keine Langzeitfol-
+ter zu beftirchten.
+
+Sinnvolle Defaults
+
+Als Default-Button ist »Schliissel erzeu-
+gen« mit Absicht aktiviert. Das gibt den
+meisten Usern die Chance, durch einen
+einfachen Druck auf die [Enter]-Taste
+voranzukommen. Zudem ist der Button
+mit einem Imperativ beschriftet anstatt
+mit einer passiven Bestatigung. Die Auf-
+schrift »Schliissel erzeugen« verdeutlicht,
+welche Aktion der Knopf auslést, ganz
+im Gegensatz zum gefiirchteten »OK«.
+Auch wer sofort [Enter] driickt, darf si-
+
+Ihr Schiissel wurde erzeugt und gespeichert.
+
+Damit Andere mit Ihnen sicher kommunizieren.
+kénnen, miissen Sie die Informationen tiber
+Ihren Schliissel verdffentlichen. Wollen Sie das
+
+Prinzip der asymmetrischen
+
+verdiffentlichen |
+
+Kryptographie nicht kennen,
+verwirrt die technisch kor-
+rekte Bezeichnung mehr, als
+
+Abbildung 4: Im zweiten Schritt fragt der Wizard freundlich, ob der
+Benutzer seinen éffentlichen Schliissel publizieren will.
+
+Viele User schrecken davor zuriick, Sicherheits-
+funktionen einzuschalten, weil sie die Schwie-
+rigkeiten beim Einrichten mehr fiirchten als die
+Gefahr durch fehlende Security. Gut gewahlite
+Metaphern helfen, diese Zuriickhaltung zu iiber-
+winden. Jeder kennt zum Beispiel Schiiissel so-
+wie deren Sicherheitsfunktion im realen Leben.
+Schliisselahnliche Gerate eignen sich folglich,
+um Sicherheitsparameter zwischen Systemen
+zu tibertragen: ein USB-Stick etwa.
+
+Wie das sinnvoll funktioniert, macht das WNSK
+vor (Windows Network Smart Key). Windows
+speichert den WIFI/802.11-Verschltisselungs-Key
+Zusammen mit anderen Konfigurationsdaten auf
+einem USB-Medium (Abbildung 5). Der Benutzer
+
+&
+
+Abbildung 5: Jeder herkémmliche USB-Speicher-
+stick eignet sich hervorragend als Sicherheitsme-
+dium. Seine Handhabung erinnert an Schliissel.
+
+steckt diesen USB-Stick einfach in die weite-
+Ten Gerdte seines WLAN, um sie ebenfalls si-
+cher zu konfigurieren.
+
+Weil USB-Sticks iiber geniigend Speicher verfii-
+gen, gelingt es damit, den kompletten Vorgang
+zu automatisieren, ohne auf Sicherheit zu ver-
+zichten (WNSK-Dateien sind etwa 100 KByte
+gro). Kein Mensch wiirde diese Daten kom-
+plett abtippen wollen - aus Kompatibilitatsgriin-
+den ist es dennoch maglich, die wichtigsten
+Teile des WNSK-Inhalts auszudrucken und auf
+dem Zielsystem wieder einzutippen.
+
+Zeitlich und ortlich beschrankt
+
+Die bekannte Schliisselmetapher sorgt dafiir,
+dass die User den Mechanismus verstehen und
+tatsachlich einsetzen. Zudem ist er sehr ein-
+fach anzuwenden. In der Fachsprache heift so
+etwas Location-limited Channel. Der Kommuni-
+kationskanal ist sicher, weil nur legitime User
+physikalischen Zugang zu den konfigurierten
+Gerdten haben. Kennt das Bedrohungsszenario
+Angreifer, die iiber das Netzwerk eindringen,
+dann ist dieser einfache Kanal sicherer als je-
+der noch so komplexe Smartcard-, X.509- und
+CA-Ansatz. Uber das Netz schafft es kein An-
+greifer, einen USB-Stick anzustpsein.
+
+Ahnlich dem értlich fimitieren Kanal funktio~
+niert die zeitlimitierte Variante namens Time-
+
+limited Channel. Zwei Gerate miissen dabei ih-
+re Sicherheitsinitialisierung in einer sehr kur-
+zen Zeitspanne abschliefen, beispielsweise, in-
+dem der Anwender gleichzeitig einen Knopf an
+beiden Geraten driickt. Das zu initialisierende
+Gerdt nimmt an, dass nur erwiinschte Partner
+in just diesem Moment antworten. Dieser Me-
+chanismus kombiniert zeitlich und Grtlich li-
+mitierte Kandle, weil der Benutzer den Knopf
+physisch driicken muss und weil das gleichzei-
+tig auf zwei Geraten zu geschehen hat.
+
+Einfach und trotzdem sicher
+
+Diese Techniken vereinen sehr einfache An- |
+wendung mit einem hohen Grad an Sicherheit.
+Allerdings ist Vorsicht angesagt, zum Beispiel
+beim Grtlich limitierten Kanal. Denn hier ha-
+ben die Bluetooth-Entwickler einen entschei-
+denden Fehler begangen. Bei ihrer Technik darf
+jeder, nicht nur der autorisierte Benutzer, eine
+Sicherheitsinitialisierung erzwingen (Forced Re-
+Pairing genannt).
+
+In der Folge hat sich Bluejacking zum Volks-
+sport entwickelt. SpaBvégel und iible Zeitge-
+Nossen kapern hiermit munter fremde Blue-
+tooth-Gerdte. Wer einen ahnlichen Sicherheits-
+mechanismus entwickelt, sollte sich genau an-
+sehen, was Bluetooth macht, und es auf gar
+keinen Fall imitieren.
+

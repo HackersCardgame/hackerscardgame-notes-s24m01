@@ -1,0 +1,14 @@
+Fluggeschwindigkeit: 500; [Knoten]
+
+Flughafen Waypoint Breitengrad Langengrad °
+
+(Zirich-Kloten [LSZH INa7275 (008329
+\veBIT IN47164 lEvo8004 °
+
+ROTOS INa7444 IE007435
+
+[ULMES IN46573 lE004176
+
+Gent [LSGG IN46143 |E006066
+4
+

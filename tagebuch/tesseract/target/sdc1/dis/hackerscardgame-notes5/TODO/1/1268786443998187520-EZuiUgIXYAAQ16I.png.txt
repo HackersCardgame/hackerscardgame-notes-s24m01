@@ -1,0 +1,50 @@
+1 file changed, 1 insertion(+)
+
+Enumerating objects: 5, done.
+
+Counting objects: 100% (5/5), done.
+
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (3/3), done.
+
+Writing objects: 100% (3/3), 352 bytes | 352.00 KiB/s,
+
+Total 3 (delta 2), reused @ (delta 0)
+
+remote: Resolving deltas: 100% (2/2), completed with 2
+
+To github.com:braindef/wordRandomizer.js.git
+0f0279e..b728613 master -> master
+
+marc@debian :~/disk/Daten.2020b/code/word-randomizer.js
+
+marc@debian :~/disk/Daten.2020b/code/word-randomizer.js
+
+done.
+
+local objects.
+
+killall firefox-esr
+ping grundrechte.ch
+
+PING grundrechte.ch (213.144.137.176) 56(84) bytes of data.
+“C
+
+--- grundrechte.ch ping statistics ---
+
+3 packets transmitted, @ received, 100% packet loss, time 51ms
+
+marc@debian :~/disk/Daten.2020b/code/word-randomizer.js
+PING ww.grundrechte.ch (213.144.137.176) 56(84) bytes
+“C
+
+--- ww.grundrechte.ch ping statistics ---
+
+ping ww.grundrechte.ch
+of data.
+
+2 packets transmitted, © received, 100% packet loss, time 8ms
+
+marc@debian : ~/disk/Daten.2020b/code/word-randomizer. js:
+

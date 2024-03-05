@@ -1,0 +1,35 @@
+oder ein Keterenztyp (ene Klasse oder interlace).
+Optional kann eine Variable bei Deklaration durch einen Ausdruck zur Laufzeit mit einem Wert initialisiert werden.
+
+Mit dem ebenfalls optionalen Schlasselwort final wird verhindert, dass der Wert einer Variablen nach dessen Deklaration geandert werden kann; lediglich eine erstmalige Zuweisut
+Instanzvariablen ist méglich
+
+Die Syntax einer Variablendeklaration:
+[ final ] [private|protected|public] Datentyp VARIABLENNAME [ = Ausdruck ] ;
+
+zum Beispiel
+
+public class Beispiel {
+static {
+int i = 0;
+// etwas Sinnvolles mit i anstellen
+}
+public void machWvas() {
+‘ong grosseGanzeZaht;
+String name;
+final float PI = 3.1415;
+boolean [] wahrheitswerte = new boolean{ 10];
+// etwas Sinnvolles mit grosseGanzeZahl, name und PI anstellen
+// Die Zuweisung PI = 1; verursacht einen Conpilerfehler
+// Ein Zugriff auf i verursacht einen Compiler fehter
+for (int i=0; i < wahrheitswerte.length; i++) {
+// hier existiert i (ein anderes als obiges im static Block)
+}
+}
+}
+
+Sichtbarkeits- und Zugriffsmodifizierer (cearbeiten }
+
+Die drei Schldsselworter private , protected und public dienen der Modifikation der Sichtbarkeit und des Zugriffs.
+
+a {RTS erkinn ist cur dar cinarmn Winena clan Fist

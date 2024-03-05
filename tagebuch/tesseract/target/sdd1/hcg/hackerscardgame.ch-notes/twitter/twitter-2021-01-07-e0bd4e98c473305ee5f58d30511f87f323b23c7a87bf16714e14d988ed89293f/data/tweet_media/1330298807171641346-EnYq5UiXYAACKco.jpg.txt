@@ -1,0 +1,75 @@
+WIKIPEDIA
+The Pre Eneycopedia
+
+Main page
+Contents
+Curent events
+Random ate
+‘About Wikipedia
+Contact us
+Donate
+
+Contribute
+Help
+
+Lear to edit
+Community portal
+Recent changes
+Upoad file
+
+Tools
+‘What inks here
+Related changes
+Special pages
+Permanent ink
+Page information
+Cite is page
+Wikidata tom
+
+Prinexport
+Download as PDF
+Printable version
+
+Languas
+
+on noe Pw
+
+Cry wkd org Bom
+2 /Notioagedin Talk Contnibutons Create account Log in
+
+ticle Tak Read | Edt Viewhistory | Search Wikipedia a
+R-905
+
+From Wikipedia, the tree encyclopedia
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be
+
+Find sources:"P-905° ~ news - newspapers - books - scholar - JSTOR (June 2013) (Learn how and when fo remove this template message)
+
+‘The R-905 is a microwave transmission station that is used in the Swiss Army. The directional station consists of a transmitting and receiving device (SE
+R-905) - In which the antenna reflector is also integrated - the operator terminal (BT) - a handset with Keypad and LCD - and a supply equipment (SA 95/1)
+There is a 24 V battery, a tripod with strap-down ropes, and a camouflage net. All mentioned equipment and material adds up to about 230 kg but can be
+carried by troops separately, or can be loaded on to a mule.
+
+‘Over a maximum of 4 km of optical fiber cable (OFC) a parabolic antenna *konnextop" (BSG 93) is connected to the SE. The optical signal has a usable Bit
+(EEESIEEEIers.
+
+‘The frequency range is from 14.64 to 17 GHz, with a frequency difference of atleast 150 MHz between Transmit (TX) and Receive (RX) channels.
+
+rate of ether 2 or
+
+‘The maximum range is about 3 km. The range can be increased by using up to two R-905 as relay stations. A relay station consists of two R-805s, which are
+connected with an optical fiber cable,
+
+‘Over an unencrypted service channel which is multiplexed to the utlity and remote control, conversations can be communicated with the other operators of the
+BSGO3s and the SEs.
+
+External links {e«it)
++ R908 bei richtstranl.ch®
+
+Microwave transmission staton ©
+
+BD This articte related to radio is a stub. You can help Wikipedia by expanding tt. “Richtstrahlanlage R-905"
+
+Categories: Miltary equipment of Switzeriand | Radio stubs
+

@@ -1,0 +1,32 @@
+Mouse Bindings (default values, not configurable)
+
+‘Command Action Buttons:
+‘set Selection Point Left-Clck
+Set Selection Range Left-Drag
+Extend Selection Range ShiftLeft-Clck
+‘Select Clip or Entire Track Left-Double-Clck
+‘Set Selection Point and Play. Ctrl-Left-Clck
+Zoom inon Point Left-Clice
+Zoom in.on a Range Left-Drag
+Zoom aut one step Right-Click
+Zoom inon a Range Right-Drag
+Zoom out on a Range Shift-Drag
+Zoom default Middle-Clck
+Time shift dip or move up/down between tracks Left Drag
+Time shift ll ipsin track ShiftLeftDrag
+‘Move dip up/down between tracks | CtrlLeft-Drag
+‘Change Amplification Envelope Left-Drag
+‘Change Sample _Left-Cick
+‘Smooth at Sample Alt-Left-Clck
+‘Change Several Samples Left Drag
+‘Change ONE Sample only Ctrl1eft-Drag
+‘set Selection Point Left-Clck
+Set Selection Range Left-Drag
+Zoom aut one step Right-Click
+Zoom inon a Range Right-Drag
+scrollup or down Wheel Rotate
+‘Scollleftorright  Shift-Wheel Rotate
+Zoom in or out _Ctr-Wheel Rotate
+
+(oc) Eecres 5)
+

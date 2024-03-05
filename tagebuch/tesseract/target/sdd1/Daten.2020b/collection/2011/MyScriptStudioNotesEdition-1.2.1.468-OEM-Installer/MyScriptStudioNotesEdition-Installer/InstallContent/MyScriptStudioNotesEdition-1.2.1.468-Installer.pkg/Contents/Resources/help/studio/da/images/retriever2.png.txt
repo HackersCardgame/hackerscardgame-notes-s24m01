@@ -1,0 +1,16 @@
+Se Moser tee,
+
+MyScript InkRetriever
+Om | Indstilinger for genfinding | Enhedsindstilinger_
+Indstilinger for gemning af black:
+\Veelg den mappe, hvor blzek-filer skal gemmes:
+\C:\Users \adrienne Documents \MyScript Documents |notes \ink Devices
+
+Avancerede indstilinger
+
+Ryd fler fra enhed efter overfarsel
+(Overshriv eksisterende fler med samme navn
+‘Scan alle USB-enheder
+
+‘Abn automatisk ved start af Windows
+

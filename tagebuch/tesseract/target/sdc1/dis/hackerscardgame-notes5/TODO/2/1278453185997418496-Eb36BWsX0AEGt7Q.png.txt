@@ -1,0 +1,49 @@
+).Ink: No such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/aktuell/BG iiber die Banken und Spark
+
+assen (BankG).Ink: No such file or directory
+
+diff: tagebuch/2006/toSortLaube/aktuel1/BG iiber die Invalidenversicherung (IVG).
+
+Ink: No such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/aktuell/BG liber die Invalidenversich
+
+erung (IVG).1nk: No such file or directory
+
+diff: tagebuch/2006/toSortLaube/aktuel1/BG tiber die Krankenversicherung (KVG).1n
+
+k: No such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/aktuell/BG liber die Krankenversicher
+
+ung (KVG).Ink: No such file or directory
+
+diff: tagebuch/2006/toSortLaube/aktuel1/BG tiber die Unfallversicherung (UVG) .1nk
+No such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/aktuell/BG liber die Unfallversicheru
+
+ng (UVG).Ink: No such file or directory
+
+diff: tagebuch/2006/toSortLaube/brandlifutter.txt: No such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/brandlifutter.txt: No such file or d
+
+irectory
+
+diff: tagebuch/2006/toSortLaube/Brandli many intrusiondetection systems.txt: No
+
+such file or directory
+
+diff: Daten.2020b/tagebuch/2006/toSortLaube/Brandli many intrusiondetection syst
+
+ems.txt: No such file or directory
+
+“C
+
+marc@debia
+
+/disk$ diff -r tagebuch Daten.2020b/tagebuch/ff
+

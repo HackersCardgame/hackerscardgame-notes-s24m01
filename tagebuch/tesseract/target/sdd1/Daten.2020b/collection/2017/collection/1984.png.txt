@@ -1,0 +1,7 @@
+men nur dann iiberein, wenn die Abtastrate mehr als dem Doppelten der héchsten im ana-
+logen Signal enthaltenen Frequenz entspricht. Soll ein Signal also bis zu einer Frequenz von
+100 Hz analysiert werden, muss das EEG-Signal mittels analogem Signalfilter im Messver-
+starker auf den Bereich bis 100 Hz begrenzt werden und die anschlieRende Abtastung mit
+mehr als 200 Hz erfolgen. Die halbe Abtastfrequenz wird auch als Nyquist-Frequenz bezeich-
+net. Wird die Abtastbedingung nicht eingehalten, werden alle Signalanteile mit Frequenzen
+oberhalb der Nyquist-Frequenz an dieser gespiegelt und iiberlagern sich untrennbar mit

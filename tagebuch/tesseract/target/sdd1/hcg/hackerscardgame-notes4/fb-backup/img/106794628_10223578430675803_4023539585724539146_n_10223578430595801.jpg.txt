@@ -1,0 +1,36 @@
+Act s © FirefoxESR + Sun 11:21 ao 8
+Q Notification | © Skype TweetDeck | ¥ Notification | Home/Tw: | Walkthrough: | | i 10663682¢ | 7 ForgetBig’ | w AMD-Rade | FJ (1)ArchLin’ | Kd (1)TobiasA | EY (1)MarcJri |  Home/Twi | ¥ Notification | C) braindes x | + x
+47 ¢@ sttps://github.com/braindef/par ~Or Lnoe Pa «
+tools tools 4 months ago
+Create a new release
+utils Removed deprecated scripts 9 years ago
+D gitignore Added .gitignore
+Packages
+DB ctravis ym travis 4 mont
+No packages published
+QB copyinc Repository cleanup 9 yea Publish your first package
+© ChangeLog Updated ChangeLog 9 yea
+DB Makefile removed debug msg 4 months ago Languages
+sD
+Q Makefile.old start cleanup 4 months ago © 736% © Python 16.2%
+( README.md Update README. md 3 months ago e Se 1m Melons 29%
+© Ruby
+(  changeRemoteToGit.sh start cleanup 4 months ago
+D common-auth working 4 mont
+(3 prerequisites.sh travis 4 months ago
+ setup.sh working 4 months ago
+README.md o
+
+pam_usb working with debian buster
+it seems to work with ubuntu eaon too
+
+at the moment it seems to work with debian bullseye too (still testing, things can
+change)
+
+https://www.travis-ci.org/github/braindef/pam_usb:
+SEE Eeies ees, possibly works also with debian bullseye
+pam_usb
+
+pam_usb provides hardware authentication for Linux using ordinary USB Flash Drives.
+
+Itworks with any application supporting PAM, such as su and login managers (GDM, KDM).

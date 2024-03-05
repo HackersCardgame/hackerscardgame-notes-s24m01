@@ -1,0 +1,15 @@
+ws Edit User Tags
+
+Menu 1
+
+Menu Item My environment
+eemyenvironment
+
+LaTeX Content
+
+Cancel
+
+B \begin{myenvi ronment}
+4 |
+
+15 \end{myenvironment}

@@ -1,0 +1,196 @@
+Zusammenspi
+
+ITFSysteme existieren nie im Vakuum. Sie kom-
+munizieren mit Anwendern ebenso wie mit po-
+fenziell unsicheren technischen Systemen. Ein
+Entwickler muss sich fragen, von welchen An-
+nahmen iiber die anderen Systeme sein Design
+ausgeht, welchen Kommunikationspartnern er
+vertraut und was passiert, wenn sie sein Ver-
+frauen verletzen. Das kann absichtlich passie-
+ren (nach einem Einbruch) oder versehentlich
+(durch fehlerhafte Software).
+
+Blindes Vertrauen
+
+Zum Beispiel sind einige SSH-Implementierun-
+gen implizit davon ausgegangen, dass sich
+ihr Gegeniiber nach einem erfolgreichen SSH-
+Handshake ausschlieflich freundlich verhalt. In
+der Folge fielen sie jeder bésartigen Aktion
+zum Opfer, die das fremde System nach der er-
+folgreichen Authentifizierung versuchte.
+
+Die beliebte Einteilung in gute und schlechte
+Systeme ist gefahrlich. Heutzutage stammt
+mehr Spam aus kompromittierten, bislang ver-
+trauenswiirdigen Quellen als von offensichtlich
+bésartigen Systemen. Ganz ahnlich verhalt es
+sich mit digital signiertem Code: Ein Wurm
+bleibt Schadsoftware, selbst wenn er eine gill
+tige Signatur tragt.
+
+Statt generell niemandem zu vertrauen, emp-
+fiehlt es sich, je nach auBerem Umstand unter-
+schiedliche Funktionalitat anzubieten. Ein File-
+server kénnte sich bei schwacher User-Authen-
+tifizierung auf den Lesezugriff beschranken
+und nur einen Teil seiner Dateien anbieten. Erst
+bei besserer Anmeldung wiirde er Schreib- und
+Leseoperationen auf den kompletten Datenbe-
+stand gestatten.
+
+Auch der Client sollte sich anpassen. Statt bei
+einem ungiiltigen Serverzertifikat die Verbin-
+dung zu trennen oder das Problem zu ignorie-
+ren, bietet sich ein Mittelweg an: das Pro-
+gramm in einem sicheren Modus betreiben so-
+wie berticksichtigen, dass der Server eventuell
+kompromittiert ist. Sinnvoll ware es in diesem
+Fall, Uploads zu verhindern und Informationen,
+die vom Server stammen, kritisch zu priifen.
+
+Falschen ist einfach
+
+Die VorsichtsmaBnahmen sind wichtig, weil es
+leicht ist, einen gefalschten Server aufzuset-
+zen und damit groBe Mengen an vertraulichen
+Informationen zu sammeln - und das mit direk-
+ter Hilfe der Opfer. WeiB ein Angreifer, dass
+sein Opfer Daten per SSH auf einen Server spie-
+gelt, dann reicht einfaches ARP-Spoofing [6],
+
+um den echten Server durch einen gefalschten
+zu ersetzen. Derzeit hat der User nur zwei Op-
+tionen: die Verbindung abzubrechen oder trotz
+des geanderten Keys dem Server zu vertrauen
+und arglos fortzufahren. Wiirde SSH die Verbin-
+dung zwar gestatten, danach Uploads aber
+verhindern und dem Server weniger Zugriffs-
+moglichkeiten auf den Client iiberlassen, hatte
+es der Angreifer bedeutend schwerer.
+
+Keine Auskunft
+
+Wenn ein Problem auftritt, ist es gefahrlich, die
+Gegenstelle dariiber zu unterrichten. Einem
+Angreifer helfen diese Informationen bei sei-
+nem dunklen Geschéaft. Zum Beispiel senden ei-
+nige SSH-Implementierungen ausfiihrliche Dia-
+gnosemeldungen. Bei der Fehlersuche sind die-
+se Informationen ein Segen - dummerweise
+gewahren sie einem Angreifer auch unndtig
+tiefe Einblicke aus der Ferne.
+
+Wenn ein Programm schon solche Diagnose-
+meldungen anbietet, dann gehdren sie in eine
+spezielle Debugging-Option, welche per De-
+fault deaktiviert bleibt. Idealerweise muss der
+Admin sie fiir jede untersuchte Verbindung neu
+einschalten. Das verhindert, dass der Debug-
+Modus versehentlich eingeschaltet bleibt.
+
+dem Entwickler keine andere sinnvolle
+Variante iibrig, um seine User zum Nach-
+denken zu bewegen. Klar ist aber auch,
+dass ihr Einsatz eine seltene Ausnahme
+bleiben muss. Gar nicht stérend, aber
+ebenfalls wichtig: In Sicherheits-Dialog-
+fenstern auf den »SchlieSen«-Button im
+Fensterrahmen verzichten.
+
+Pladoyer fiir Einfachheit
+
+Eine weitere Empfehlung lautet, den si-
+cheren Defaultfall einfacher zu gestalten
+als die riskante Variante, denn bei dieser
+muss dem Anwender klar sein, dass er
+etwas Gefahrliches unternimmt. Gut ge-
+lést hat dies ein Datenbank-Replikations-
+system, bei dem der Masterserver meh-
+rere Slaves steuert. Das Kommando zum
+Start eines Slaves lautet »start slave«. In
+dieser Form nutzt es SSL, um die Kom-
+munikation zu schiitzen. Um auf SSL zu
+verzichten, muss der Anwender »start
+slave without security« wahlen. Das kos-
+iet mehr Aufwand und hinterlasst ein
+unbehagliches Gefiihl.
+
+Ganz anders arbeiten E-Mail-Clients: Per
+Default kommunizieren sie im Klartext
+mit dem Mailserver. Das andert sich erst,
+
+wenn der User ein Hakchen vor »Use
+SSL« setzt. Zu allem Uberfluss versteckt
+sich diese Option tief in den Konfigura-
+tionsdialogen oder ist nur per Komman-
+dozeilenoption erreichbar. Klar, dass die
+meisten Benutzer gar nicht auf die Idee
+kommen, SSL anzuschalten.
+
+Kleine Anderungen mit
+groBer Wirkung
+
+Die vorgeschlagenen Anderungen in der
+Oberflache und beim Verhalten von Si-
+cherheitssoftware sind relativ klein. Den-
+noch entscheiden sie dartiber, ob Sicher-
+heitsfunktionen tiberhaupt zum Einsatz
+kommen oder einfach brachliegen. Statt
+lediglich auf den theoretisch erreichba-
+ren Schutz zu bauen, ist es beim Soft-
+ware-Entwurf entscheidend, ebenfalls die
+praktische Seite zu betrachten. (ff)
+
+Infos
+
+{{] Dirk Balfanz, Glenn Durfee, Rebecca Grin-
+ter und D. K. Smetters, ,,In Search of Usable
+Security: Five Lessons from the Field”: , IEEE
+Security and Privacy”, Vol. 2, No. 5 (Septem-
+ber/Oktober 2004), S. 19
+
+{2] Peter Gutmann, ,,Plug-and-Play PKI: A PKI
+Your Mother Can Use”: Proce. 12th Usenix
+Security Symposium, August 2003, S. 45
+
+{3] RFC 4279, ,,Pre-Shared Key Ciphersuites
+for Transport Layer Security (TLS)"':
+[http://www.ietf.org/rfc/ric4279.txt]
+
+[4] Melville Klein, ,,Securing Record Commu-
+nications: The TSEC/KW-26": Center for
+Cryptologic History, NSA, 2003
+
+[5] Min Wu, ,,Users are not dependable - how
+to make security indicators to better pro-
+tect them’: First Workshop on Trustworthy
+Interfaces for Passwords and Personal Infor-
+mation, Juni 2005
+
+[6] Thomas Demuth und Achim Leitner, ,.ARP-
+Spoofing und -Poisoning’: Linux-Magazin
+06/04, S. 34
+
+Der Autor
+
+Peter Gutmann ist Wissenschaftler im Depart-
+ment of Computer Science der University of
+Auckland, Neuseeland. Er arbeitet an Design und
+Analyse kryptographischer Sicherheitsarchitek-
+turen, ist auBerdem Koautor von PGP und hat
+verschiedene Berichte und RFCs iiber Sicherheit
+und Verschliisselung veréffentlicht. Auch das
+Buch ,,Cryptographic Security Architecture De-
+sign and Verification” (Springer Verlag, 2003)
+stammt von ihm.
+
+Anwender
+
+Sec-Usability
+
+73
+
+Attacken abwehren
+

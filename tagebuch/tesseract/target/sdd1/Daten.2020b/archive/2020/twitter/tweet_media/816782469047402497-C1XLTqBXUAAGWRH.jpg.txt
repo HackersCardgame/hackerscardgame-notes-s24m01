@@ -1,0 +1,41 @@
+v=FORrvs -W3tE#t=55m40s"
+v=0Sjau-PWuEk#t=2n05"
+v=foYclip40HTg#t=2n35s"
+v=XF 4SEVbxUdE#t=2m30s"
+v=K5CG-GFR4UU#t=7nd0s"
+vezW1U-JUL7tg#t=5m40s"
+veyW2ngYzZUUyc#t=0m40s"
+vegokTx_taakU#t=0m45s"
+v=i46RI2twVao#t=3n55s"
+v=GdE LENDVIZo#t=3m095"
+v=XBmJay_qdNc#t=8m25s"
+v=lLVucqEY-9s#t=1n28s,https: //twitter.com/FailDef/status/602823018600132608/photo/1"
+v=fTISeZUvR1k#t=9m30s"
+vefTJSeZUvRik#t=4m25s"
+vekpJilnJWPHwitt=3m18s"
+v=8dpRUQAA5Oc#t=3m0s"
+vesb0hgEJuExY#t=3m41s"
+v=- OB3PCeWMDA#t=1m35s"
+veyll2ngY2Uuyc#t=ond0s"
+v= j 4W3qyKWEk#t=1m00s"
+veihs3XxsR_F8#t=5md0s"
+v=id6RI2twVao#t=3n555"
+veVhqH f2Fzh04#t=1h43m30s"
+v=0- IMb90E -Dk#t=1m40s http: //en.wikipedia.org/wiki/2_%2B_2_%3D_5,https://twitter.com/FailDef /status/578364001102483457/photo/1"
+"08" 05 “https: //m. youtube .com/watch
+veeJF-kdutilxs#t=3n45s"
+i46RI2twVao#t=5m05"
+v=4RJ74-1Z9Bg#t=1m37"
+vezW1U-JUL7 tg#t=18m18s"
+v=zil1U-JUL7tg#t=6n515"
+v=ZG4FawUtYPA#t=12033"
+v=qpw5qIZ70eN#t=20n215, http: //fb.me/2hkoazWas"
+v=RLVTb3g-COY#t=420s"
+vesb0hgEJuex¥#t=2215,http: //fb.me/2LcUnRkaw"
+claude@debian:~$ cat tweets.csv [grep "#ts" [cut -d ‘7! t
+cut: :: No such file or directory
+claude@debian:~$ cat tweets.csv |grep "#ts" cut -d '?! Jwe +1
+497
+claude@debian:~$ cat tweets.csv |grep "#ts"  |cut -d '?' -f 2 > playlist. txt
+claude@debian:~$ cat tweets.csv |grep "#t="" |cut -d '?' -f 2 > playlist. txt []
+

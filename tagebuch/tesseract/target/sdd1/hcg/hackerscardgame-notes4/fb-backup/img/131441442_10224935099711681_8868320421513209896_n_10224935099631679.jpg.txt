@@ -1,0 +1,65 @@
+WIKIPEDIA
+Die freie Enzyklopadie
+
+Hauptseite
+Themenportale
+Zufalliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+
+Permanenter | ink
+
+& Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten Versionsgeschichte | Wikipedia durchsuchen Q
+
+Digital Light Processing
+
+Digital Light Processing (DLP, englisch) ist eine von dem US-Unternehmen Texas
+Instruments (TI) entwickelte und als Marke registrierte Projektionstechnik, bei der Bilder
+erzeugt werden, indem ein digitales Bild auf einen Lichtstrahl aufmoduliert wird. Dabei
+wird der Lichtstrahl durch eine rechteckige Anordnung von[PEWerleieinucsaleeels in
+Pixel zerlegt und dann pixelweise entweder in den Projektionsweg hinein oder aus dem
+Projektionsweg hinaus reflektiert.
+
+Das Herzsttick dieser Technik, das Bauteil, das die rechteckige Anordnung (Matrix) von
+Spiegeln und deren Ansteuerungstechnik enthalt, wird als DMD — Digital Micromirror
+
+Miki iegel: DLP-  Rickseite des Geha
+Device (zu deutsch etwa ,,Digitale Mikrospiegel-Einheit*) bezeichnet. iktaspiegelaray:< Se
+
+Chip) von Texas mit Anschlusskontakten
+Im Gegensatz zu anderen Verfahren, bei denen ein reales Bild oder ein realer Instruments im Gehause
+
+Gegenstand unmittelbar auf optischem Wege abgebildet wird, wird hier — ahnlich wie bei
+der Laserprojektion — das Bild optisch erst innerhalb des Projektionsweges erzeugt.
+Deshalb handelt es sich streng genommen nicht um eine Projektion wie sie in der physikalischen Optik
+
+definiert wird.
+DLP findet beiS@elsweise fur Videoprojek ctrl + N ektionsbildschirme im Heimkino- und
+Prasentationsbereich Verwendung; und unter der Bezeichnung ,DLP-Cinema* im Digitalkino-Bereich.
+
+ee sa i .4 141
+
+Ay | Alleherorheben Gro8-/Kleinschreibung Akzente GanzeWerter 1 von 5 Ubereinstimmungen x
+

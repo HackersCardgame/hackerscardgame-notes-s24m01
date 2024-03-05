@@ -1,0 +1,17 @@
+TOP LOWER
+
+Addition
+
+Multiplication
+
+PRECEDENCE
+
+|!
+
+HIGHER
+
+GRAMMAR
+
+|
+
+BOTTOM

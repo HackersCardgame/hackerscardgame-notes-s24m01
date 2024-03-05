@@ -1,0 +1,10 @@
+Problems| Tavadoc| Declaration |" Dependencies Inspector 88 \ Error Log
+
+Ee]
+
+Source Type | Target |
+
+'y G PropertyWatchdog - org.apache.log4j call, instantiate 2 matches
+
+© doOnChanged) call © ropertyConfigurator ~ o7g.apache.og4)
+

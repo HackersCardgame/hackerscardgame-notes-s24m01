@@ -1,0 +1,15 @@
+File Edit View Search Terminal Help
+
+marc@debian:~/Daten.2017/code$ git clone https://github.com/braindef/onetimepad
+Cloning into ‘onetimepad'...
+
+remote: Counting objects: 13, done.
+
+remote: Compressing objects: 100% (6/6), done.
+
+remote: Total 13 (delta 1), reused 0 (delta 0), pack-reused 0
+
+Unpacking objects: 100% (13/13), done.
+
+marc@debian:~/Daten.2017/code$ fj
+

@@ -1,0 +1,2 @@
+[x] Zeuge ist glaubwiirdig
+[x] Richter consensus detection

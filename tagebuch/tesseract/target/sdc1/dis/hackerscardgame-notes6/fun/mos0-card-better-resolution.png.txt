@@ -1,0 +1,80 @@
+public abstract class Kult
+{
+
+public String Helden
+public String Feinde
+
+public String Symbole
+
+protected String Rituale
+
+private String Geheimnisse
+
+protected String Triggerwort
+
+public void xyz
+
+Freimaurer
+
+XXXXXK
+unbildung
+
+Winkelmass
+Zirkel
+
+"schwarze"
+Messe
+
+x64-Ringd
+Malware
+
+222?
+
+Nazis Juden
+
+Hitler Anne Frank
+
+Juden Nazis
+
+Hakenkreuz Davidsstern
+
+Juden haven Sabbat
+
+Ahnenerbe 2222
+
+Vergasen
+
+<- Archnemesis ->
+
+Christen
+
+Jesus
+
+Romer, Atheisten
+
+Kreuz
+
+Weihnachten
+
+Gott kann
+Zaubern
+
+Satan,
+
+Siinde
+
+Rémer Mafiosi militar Hackerscene
+Caesar Don Corlenoe offizier Kevin Mitnik
+Sklaven  Kanarienvégel —Auslander CIA Zombis,NSA
+Jupiter Mafia Dienstwaffe | PiratenSymbol
+Tatovierung
+Panem et | Mafia Eid (Moor-)Huhn Lan-/Hacker
+Circenses Meucheln Party
+Ahnenerbe| "Polizei" Bunkerstandort Snowdens Flucht
+Unterwandert nur wegen
+Hack geklappt
+Asterix | Kokainnase — Militarmorde kein WLAN
+
+<- Archnemesis ->
+
+Hackerscene

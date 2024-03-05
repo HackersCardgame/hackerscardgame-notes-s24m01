@@ -1,0 +1,6 @@
+containing “movie”, but not “scary”, and with a
+
+movie -scary :)
+positive attitude.
+
+flight :¢ containing “flight” and with a negative attitude.
