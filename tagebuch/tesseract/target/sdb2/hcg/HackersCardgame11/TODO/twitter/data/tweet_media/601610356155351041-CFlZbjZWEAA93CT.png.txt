@@ -1,0 +1,54 @@
+root@tor:-~# tail
+
+May 22
+May 22 06:48:3
+to 20 minutes
+May 22 0 8
+May 22 0 9
+May 22 06:48:40.
+
+May 22 6.
+May 22 6
+May 22 7
+May 22 7.
+May 22 7
+
+7
+
+7
+
+“fT
+000
+
+-000
+-000
+
+000
+
+-000
+-000
+-000
+
+/var/log/tor/log
+
+[notice] We now have enough directory information to build circuits.
+
+[notice] Bootstrapped 80%: Connecting to the Tor network
+
+[notice] Bootstrapped 85%: Finishing handshake with first hop
+
+[notice] Bootstrapped 96%: Establishing a Tor circuit
+
+[notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+[notice] Bootstrapped 100%: Done
+
+[notice] Now checking whether ORPort 91.138.4.61:9001 and DirPort 91.138.4.61:9030 are reachable...
+
+look for log messages indicating success)
+
+008 [notice] Self-testing indicates your DirPort is reachable from the outside. Excellent.
+068 [notice] Self-testing indicates your ORPort is reachable from the outside. Excellent. Publishing server descriptor.
+
+008 [notice] Performing bandwidth self-test...done.
+
+(this may take up

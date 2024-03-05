@@ -1,0 +1,21 @@
+Failed to fetch http://httpredir.debian.org/debian/pool/main/d/debootst rap/c
+ootstrap_1.0.67 all.deb 503 Service Unavailable [IP: 128.31.0.66 80]
+
+Failed to fetch http://httpredir.debian.org/debian/pool/main/g/grub2/grub- xe
+-bin_2.02~beta2-22 amd64.deb 503 Service Unavailable [IP: 128.31.0.66 80]
+
+Failed to fetch http://httpredir.debian.org/debian/pool/main/g/grub2/grub- xe
+host_2.02~beta2-22 amd64.deb 503 Service Unavailable [IP: 128.31.0.66 80]
+
+Failed to fetch http://httpredir.debian.org/debian/pool/main/Libc/Libcontig-
+i files-perl/Libconfig-inifiles-perl_2.83-3 all.deb 503 Service Unavailable [
+>: 128.31.0.66 80]
+
+Failed to fetch http://httpredir.debian.org/debian/pool/main/r/rinse/rinse_:
+.9 all.deb 503 Service Unavailable [IP: 128.31.0.66 80]
+
+Failed to fetch http://httpredir.debian.org/debian/pool/main/x/xen-tools/xer
+ols 4.5-1 all.deb 503 Service Unavailable [IP: 128.31.0.66 80]
+
+Unable to fetch some archives, maybe run apt-get update or try with --fix-mi
+sing?

@@ -1,0 +1,35 @@
+closely.
+Differences from Native
+
+Oberon
+Originals at the University
+of Bremen
+
+Oberon for Linux PPC Unix/ppe Linux/
+
+Solaris Oberon for Solaris x86 Unix/x86 Solaris/
+
+Oberon for Solaris SPARC Unix/sparc.Solaris/
+MacOs X Oberon for MacOs X 10.2 Unix/ppe Darwin5
+Oberon for MacOs X 10.2 _ Unix/ppe Darwin62/
+
+‘Windows Plugin Oberon for Windows Win9SNT/Plugin/ Emil Zeller Integrates Oberon with
+‘Windows, Netscape and
+Activex
+
+Bluebottle Oberon for Bluebottle Bluebottle Pieter Muller Included on Bluebottle CD
+image
+
+Note: Apple changed the kernel interface for signal delivery. It was not possible to build an Oberon core which could run on top of both Darwin
+releases. The Darwin 5.1 port will not be updated in future Unix Oberon releases. Details.
+
+Mirror sites
+
++ University of Heidelberg, German
++ Sinica, Taiwan
+© Washington University, USA
+
+Oberon ports no longer updated
+
+os ETH Oberon Port Download Last maintainer Port Notes
+Native ‘SharkOberon for DNARD __ Native/SharkOberon/ Bernhard Egger

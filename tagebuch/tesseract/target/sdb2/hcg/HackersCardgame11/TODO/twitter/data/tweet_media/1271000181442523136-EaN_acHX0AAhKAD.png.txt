@@ -1,0 +1,31 @@
+create mode 100644 TODO/militaer/DSC01428. JPG
+create mode 100644 TODO/militaer/DSC01429. JPG
+create mode 100644 TODO/militaer/DSC01430. JPG
+create mode 100644 TODO/militaer/DSC01431. JPG
+create mode 100644 TODO/militaer/DSC01432. JPG
+create mode 100644 TODO/militaer/DSC01433. JPG
+create mode 100644 TODO/militaer/DSC01434. JPG
+create mode 100644 TODO/militaer/DSC01435.JPG
+create mode 100644 TODO/militaer/DSC01436. JPG
+create mode 100644 TODO/militaer/DSC01437.JPG
+create mode 100644 TODO/militaer/DSC01438. JPG
+create mode 100644 TODO/militaer/DSC01439. JPG
+create mode 100644 TODO/militaer/DSC01440. JPG
+ERROR: Permission to braindef/HackersCardgamel0.git denied to deploy key
+fatal: Could not read from remote repository
+
+Please make sure you have the correct access rights
+
+and the repository exists
+
+marc@debian :~/HackersCardgamel0$ cd
+
+marc@debian:~$ cd disk/Daten.2020b/tagebuch/2002/
+
+marc@debian :~/disk/Daten.2020b/tagebuch/2002$ fgrep -ri beerdigung
+evaluator/Wordcount. txt: 1 beerdigung
+
+evaluator/temp. txt: 1 beerdigung
+
+marc@debian :~/disk/Daten.2020b/tagebuch/2002$ §§
+

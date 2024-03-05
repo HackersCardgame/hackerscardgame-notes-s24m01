@@ -1,0 +1,31 @@
+public class
+protected class
+private class
+Berechtigung
+Schlusselwort dass jetzt
+
+eine eine Vorlage fur eine
+Klasse (Schablone) kommt
+
+Tell the computer to define an object, which is a
+element (al2) where the possible values are defined
+and and stored it in Memory (see also struct / C++ )
+but there are also "functions" that are called
+"methods". A class/members/methods can be public,
+protected and private. There are ( -truct speicherbereich
+static members/methods {
+
+int ;
+
+string Worti;
+int
+
+3
+char }|Buchstabel;
+
+speicherbereich J
+Byte Oo 1 = =| G] = =] 71
+J zahli ff Wort | fj Buchst abet]
+
+Bit 0125456001 23456701 23456701 23456701 23456701 23456701 23S4sS67
+

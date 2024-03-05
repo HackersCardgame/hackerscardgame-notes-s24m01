@@ -1,0 +1,39 @@
+ede
+
+Loa]
+O About Debian GettingDebian Support Developers’ Comer
+lebian / debian quality assurance
+
+https://qa.debian.org/developer.php?logi
+
+Oinittab.org
+
+tripi
+
+Packages overview for Alberto Gonzalez Iniesta
+
+Alberto Gonzalez Iniesta <agi@inittab.org> — Bugs: open - RC - all - submitted - wivPP - Gl — Reports: Dashboard - Buildd - Lintian - Debtags - Piuparts - Portfolio
+Alberto Gonzalez iniesta <agi@debian.org> — Bugs: open - BC - all- submitted - PP - lll — Reports: Dashboard - Buildd - Lintian - Debtags - Piuparts - Portfolio
+
+main (23)
+Bui Version [Lintian| a
+Source Name ad ubuntu |vcs} Buitaa | D8, Piu |S |popcon| Watch
+All [RC| _oldstable Stable [testing]unstable|exp| check] exw [parts] Rep
+easy-sa - 22.22 " : .
+eee @ a zza~pporoe| 22-22 2222 * rat u | om > | a42gs | s.0.0-re2
+eurephia : ' : L105 Vivveen .
+PTS Pool 2h oa cana oe) neveres| & | 8 lunrep] 42 —
+libapache-mod-evasive . ; . 41013 . 7 . "
+re ea ia 1d0dL 1.10.13 - a daxy 242 > | 538
+Tinux-ftpdyu) 7 017-35 ; = ;
+area iol 0.17-34 0.17-35 ne tax > | mo
+017.4340.
+ee | 0.17.33+0.3-1+deb7uL 0.17.35+0.3-2 Duraseo 82 Lay . >| am | oazsse
+0.17.33+0.3-1+deb8ul
+rivexare 3m@|-| o7s1 07.93 _ | o783 2] tax - [oe]. | 7 | 20 | oro
+modsecurity-apache | 3 2.6.6-6rdeb7u2| 2.8.03 29.04 Wadd
+PTS Pool @ @i|  |2.8.0-2~ppo70+1|2,8.0-4~np08+1| zat ‘Lbug verre ore v | 8 29.0
+modsecuitvers liga |-| 2252 2291 o | =e y | 32 | 300
+netkit-bootparamd : 0178 Teed KOe
+Btseead a 0.17-9 Mrerees +10 ? 2
+

@@ -1,0 +1,6 @@
+marc@windows :~/Downloads$ cat www.marclandolt.ch_logs\ \(1\).txt |grep -v 91.138. |wce -1
+305
+
+marc@windows :~/Downloads$ cat www.marclandolt.ch_logs\ \(1\).txt [we -1
+
+904

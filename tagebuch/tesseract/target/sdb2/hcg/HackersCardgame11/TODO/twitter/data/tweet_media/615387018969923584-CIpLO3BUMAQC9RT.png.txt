@@ -1,0 +1,36 @@
+RetinaCCD.PatternRecognition:
+
+onD-RaumObjekt( @F @©MA ).betrachten()
+
++ SendUS4877027StreamPerObjekt() [Psy:Streams ahnlicher Kontext]
+
+->erhoht Glaubwirdigkeit der "Geschichte" (CogScience::"Real")
+
+= Event() e =e
+
+© Event() <- mm +
+
+P[W] ® N[mol]
+
+© Event() , +
+
+—H
+
+Eventtrigger:onPegel(P grésser x) ->
+
+< Event() ©) +
+
+Patch:
+
+< Event() — H+
+
+>
+t[Min]
+
+ Event()e—_ & +
+
+Arzt! der mit Beruhigingsmittelspritze :
+> i[Min]
+
+Mikrowellen"spektroskopie" mit NeuroEndokrinem System
+->mit z.B, Frequenz des Adernalinmolekiils und/oder Dopamin... binomial(n;m)

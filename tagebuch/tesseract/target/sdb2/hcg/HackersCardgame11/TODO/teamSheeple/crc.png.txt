@@ -1,0 +1,47 @@
+Q marc@debian: ~/Daten.2019/code/Hackers-Cardgame Fl = - o @®
+
+narc@debian:~$ cd Daten.2019/code/Hackers-Cardgame
+
+marc@debian:~/Daten.2019/code/Hackers-Cardgame$ git add -A && git commit -m "tem
+
+psave" && git push
+
+[master 71edc16] tempsave
+
+3 files changed, @ insertions(+), @ deletions(-)
+
+create mode 100644 TODO/Retinal_prosthetic. jpg
+
+create mode 100644 TODO/eeg-enzephallograph.png
+
+create mode 100644 TODO/gehirnBereiche-1. jpg
+
+Username for ‘https://github.com': brainde
+
+Password for 'https://brainde@github.com':
+
+marc@debian:~/Daten.2019/code/Hackers-Cardgame$ git push
+
+Username for 'https://github.com': braindef
+
+Password for ‘https: //braindef@github.com':
+
+Enumerating objects: 7, done.
+
+Counting objects: 100% (7/7), done.
+
+Delta compression using up to 12 threads
+
+Compressing objects: 100% (6/6), done.
+
+Writing objects: 100% (6/6), 1.89 MiB | 686.00 KiB/s, done.
+
+Total 6 (delta 1), reused © (delta 0)
+
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+
+To https: //github.com/braindef /Hackers-Cardgame
+8b661b8..71edc16 master -> master
+
+marc@debian:~/Daten.2019/code/Hackers-Cardgane$ ff
+

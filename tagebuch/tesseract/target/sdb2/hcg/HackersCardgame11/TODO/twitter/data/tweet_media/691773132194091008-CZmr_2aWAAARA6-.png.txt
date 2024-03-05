@@ -1,0 +1,14 @@
+Local node: 192.168.1.41: Traffic on interface eth (3h)
+
+Local node: 192.168.1.40: Traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCIe (3h)
+
+15 Mbps 10 Mbps
+to Mbps
+SMbps.
+5 Mbps
+obps obps.
+S ahagdaaddeeeadegaaeeeeisei2ee2282 3 Sag hddaaadeegedacaaaeecesesae22208 3
+last min ag mi
+[incoming traffic on interface eth {avg} 2.72Mbps 767.98 Kbps. 5.24Mbps 11.08 J Incoming traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+Outgoing traffic on interface ethl [avg] 274Mbps 709.38 Kbps. 5.26Mbps 9.27 1 Ill Outgoing traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+

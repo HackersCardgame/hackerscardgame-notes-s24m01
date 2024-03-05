@@ -1,0 +1,17 @@
+<| ltt It
+AMIN
+
+-w200
+
+UND Lehrerer
+
+/\_|-|\_\.
+
+sollten das diskutieren "
+|
+
+10 marc@DESKTOP-B99KF62:~$ figlet “
+11 => EntwicklungsPsychologen
+
+38 marc@DESKTOP-B99KF62:~$
+

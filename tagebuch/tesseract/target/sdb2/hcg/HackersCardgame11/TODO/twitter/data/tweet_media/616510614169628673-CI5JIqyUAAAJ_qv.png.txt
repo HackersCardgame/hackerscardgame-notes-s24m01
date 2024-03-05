@@ -1,0 +1,37 @@
+aps|}ech Phone: +49.3587235310
+
+Tech Fax: +49.3587235330
+
+Tech Email: hostmaster@all-inkl .com
+
+Name Server: ns5.kasserver.com
+
+Name Server: ns6.kasserver.com
+
+Name Server: ns7.kasserver.com
+
+IDNSSEC: unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.:
+>> Last update of WHOIS database: 2008-10-30 <<<
+
+‘t|
+“For more information on WHOIS status codes, please visist: https:/,
+lg/resources/pages/epp-status-codes-2014-06-16-en"
+
+Registry Billing ID:
+“Billing Name: Werner Kaltofen
+
+Billing Organization: Neue Medien Muennich GmbH
+Billing Street: Hauptstr. 68
+
+Billing City: Friedersdort
+
+qBilling State/Province:
+
+Billing Postal Code: 62742
+
+Biting Country: DE
+
+IB4114nq Phone: +49. 3587235310
+

@@ -1,0 +1,19 @@
+Yetnet
+91.138.20.0/22
+
+Swisscom
+213.32420/23
+
+Cisco Kabelmodem, ADSL Router
+
+A Nevoes i
+
+Cisco 1812Router
+
+Cisco UBR
+
+\
+
+Intern
+
+192.168,179,0/22

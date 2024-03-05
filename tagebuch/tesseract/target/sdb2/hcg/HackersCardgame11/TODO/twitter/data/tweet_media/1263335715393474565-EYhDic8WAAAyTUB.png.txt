@@ -1,0 +1,56 @@
+[engine] Using backend https://wcth.ooni-io
+[engine] web connectivity: comparing control with experiment
+[engine] web_connectivity: no blocking detected
+
+99.85% ending the test (23.865 left)
+
+99.86% test complete (23.865 left)
+
+99.86% starting the test (9.235 left)
+
+99.86% Processing input: http://mw.dit-inc.us/ (9.23s left)
+[engine] web_connectivity: starting dns query for wiw.dit-inc.us
+[engine] web_connectivity: starting tep_connect
+[engine] web connectivity: success to connect to 65.49,38.217:80
+[engine] web_connectivity: starting http_request to http://mw.dit-inc.us/
+[engine] web_connectivity: doing control request
+[engine] Using backend https://wcth.ooni-io
+[engine] web connectivity: comparing control with experiment
+[engine] web_connectivity: no blocking detected
+
+99.93% ending the test (9.245 left)
+
+99.93% test complete (9.245 left)
+
+99.94% starting the test (4.625 left)
+
+99.94% Processing input: https://nastodon.host/ (4.62s left)
+[engine] web connectivity: starting dns_query for mastodon. host
+[engine] web_connectivity: starting tep_connect
+[engine] web connectivity: success to connect to 51,159.26.206:443
+[engine] web_connectivity: starting http_request to https://mastodon.host/
+[engine] web_connectivity: doing control request
+[engine] Using backend https://wcth.ooni-io
+[engine] web connectivity: comparing control with experiment
+[engine] web_connectivity: no blocking detected
+
+100.00% ending the test (4.625 left)
+
+100.0% test complete (4.625 left)
+
+00% streaming: server: neubot-mlab-mlab2-miled.mlab-oti .measurenent-Lab.org
+streaming: done
+download: server: ndt-iupui-nlab1-mil62.nlab-oti.measurenent-lab.org
+dowmload: speed 363 Mbit/s
+dovnload: speed 492 Mbit/s
+dovnload: speed 535 Mbit/s
+dovnload: speed 554 Mbit/s
+dovnload: speed 566 Mbit/s
+dovnload: speed 575 Mbit/s
+dovnload: speed 581 Mbit/s
+download: speed 585 Mbit/s
+dovnload: speed 590 Mbit/s
+dovnload: speed 592 Mbit/s
+dovnload: speed 595 Mbit/s
+dovnload: speed 597 Mbit/s
+

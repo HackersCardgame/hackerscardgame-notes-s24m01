@@ -1,0 +1,62 @@
+Return-Path: <abuseteam@veeble.org>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-1b1.adm.hostpoint.ch ([10.4.2.212])
+by popimap@18.mail.hostpoint internal with LMTP
+id @NPEINMOr2TCTwAApKpZRW
+(envelope-from <abuseteam@veeble.org>)
+for <mail@marclandolt.ch>; Sun, 19 Jun 2622 23:02:17 +0260
+Received: from mxin@12.mail.hostpoint.ch ([10.4.2.212])
+by mail-1b1.adm.hostpoint.ch with LMTP
+id QHXkINMOP2LjNBEASBAVOA
+(envelope-from <abuseteam@veeble.org>)
+for <mail@marclandolt.ch>; Sun, 19 Jun 2622 23:02:17 +0260
+Received: from [184.154.8@.106] (helo=artofrealitye1.chg.com)
+by mxin@12.mail.hostpoint.ch with esmtps (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+(Exim 4.95 (FreeBSD))
+(envelope-from <abuseteam@veeble.org>)
+id 103231-00035F-Eb
+for mail@marclandolt.ch;
+Sun, 19 Jun 2022 23:02:17 +6200
+Received: from [216.38.8.191] (port=S4608 helo-veeble.org)
+by stormcrow.awsdns-33.com with esmtpsa (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+(Exim 4.95)
+(envelope-from <abuseteam@veeble.org>)
+id 10323j-@0199w-1p;
+Sun, 19 Jun 2022 16:02:15 -@500
+From: SpamCop <abuseteam@veeble.org>
+To: mail@marclandolt.ch
+Subject: [SpamCop Abuse Report (172.66.41.77) id: 974749875] Spam
+Date: 19 Jun 2622 21:01:16 -0760
+Message-ID: <2220619210116 .89CCD7296F7A64C8@veeble.org>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-Antiabuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - stormcrow.awsdns-33.com
+X-AntiAbuse: Original Domain - marclandolt.ch
+X-Antiabuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - veeble.org
+X-Get-Message-Sender-Via: stormcrow.awsdns-33.com: authenticated_id: smtp17@aws.amazon.com
+X-Authenticated-Sender: stormcrow.awsdns-33.com: smtp17@aws. amazon.com
+X-Vs-State: SPAM
+X-Hostpoint-Spambox: NO
+
+<html><head>
+<meta name=3D"GENERATOR” content=3D"MSHTML 11.@0.960.19180">
+<meta http-equiv=3D"X-UA-Compatible” content=30"IE=3Dedge">
+</head>
+
+<body><p>[ SpamCop v5.4.0 ]<br>This message is brief for your comfort. Plea
+se use links below for details.</p><p>Email from 6/19/2022 9:61:16 p.m.<br>=
+<a href=3D"https: //www. spamcop. net/w3m71chdgd4hee7ha7edhjisgf7rey" >https: //:
+www. spamcop .net /w3m71chdgd4hee7h47edhjisgf7rey</a></p><p>[ Offending messag:
+e ]xbroReceived: from GTP marclandolt.ch ([@1.154.129.68]:5268@)<br>by marc:
+landolt.ch with esmtpsa (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384<.
+br>(PHTA 4.95)<br>
+
+(envelope-from mail@marclandolt.ch<br>id x<br>for x;<br>DATE 6/19/2022 9:01.
+:16 p.m.<br>From: support x mail@marclandolt.ch<br>To: x<br>Subject: E-mail.
+
+Account Notification For x 6 p.m.<br>Message-
+
+= OM B

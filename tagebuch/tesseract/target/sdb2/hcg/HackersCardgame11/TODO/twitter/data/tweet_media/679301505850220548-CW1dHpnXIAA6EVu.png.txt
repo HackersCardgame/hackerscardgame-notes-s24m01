@@ -1,0 +1,33 @@
+ee ee ee eee ee ee eee eee ee eee
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_t usb$ is
+
+ChangeLog COPYING doc Makefile pamusb-check pam_usb.so README.md src tools utils
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb$ cd src/
+marc@kalai:~/Daten .2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ 1s
+
+conf.c device.c hal.c local.c log.c marc.sh mem.o pad.o pamusb-check.c volume.c xpath.c
+conf.h device.h hal.h local.h log.h mem.c pad.c pam.c pamusb-check.o volume.h xpath.h
+conf.o device.o hal.o local.o log.o mem.h pad.h pam.o version.h volume.o xpath.o
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ pamusb-check marc
+* retval 1
+
+* retval 1
+
+* Authentication request for user “marc” (pamusb-check)
+* Device "seven" is connected (good).
+
+* Performing one time pad verification...
+
+* Pad checking failed !
+
+* Access denied.
+*
+*
+*
+*
+
+Device "seven" is connected (good).
+Performing one time pad verification...
+Pad checking failed !
+Access denied secondary device.
+marc@kalai:~/Daten .2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ fj

@@ -1,0 +1,10 @@
+local node: 192.168.1.41: Traffic on interface Broadcom Corporation Netktreme BCHS752 Gigabit Ethernet PCI Express (12h)
+
+15 Mbps
+10 Mbps
+S Mbps
+ee Le
+
+Incoming traffic on interface Broadcom Corporation NetXtreme BCMS752 Gigabit Ethernet PCI
+I Outgoing traffic on interface Broadcom Corporation NetXtreme BCM5752 Gigabit Ethernet PCI E|
+

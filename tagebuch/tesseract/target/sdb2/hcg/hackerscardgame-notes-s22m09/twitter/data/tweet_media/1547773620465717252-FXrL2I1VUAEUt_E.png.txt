@@ -1,0 +1,30 @@
+BE Windows Powershell
+‘Windows PowerShell
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+‘Installieren Sie die neueste PowerShell fiir neue Funktionen und Verbesserungen! https: //aka.ms/PSWindows
+
+|: C:\Users\marc> ssh 192.168.1.254
+PS C: MEE £ ssh marcland@ftp.marclandolt..ch
+
+IT TS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+
+“someone could be eavesdropping on you right now (man-in-the-middle attack)!
+
+It is also possible that a host key has just been changed.
+
+The fingerprint for the ED25519 key sent by the remote host is
+
+SHA256: iYXAiFn93Y93 j cG1wHaCYrO4mdnN@OCzycLM4p+Usqy .
+
+Please contact your system administrator.
+
+‘add correct host key in C:\\Users\\marc/.ssh/known_hosts to get rid of this message.
+
+vOffending £D25519 key in C:\\Users\\marc/.ssh/known_hosts:2
+
+*ED25519 host key for ftp.marclandolt.ch has changed and you have requested strict checking.
+Host key verification failed.
+
+PS C:\Users\marc>
+

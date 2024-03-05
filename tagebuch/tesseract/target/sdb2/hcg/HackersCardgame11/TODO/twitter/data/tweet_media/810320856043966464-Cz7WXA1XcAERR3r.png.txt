@@ -1,0 +1,31 @@
+Sales Properties
+
+Web Sharing
+Customize
+
+Access-based Enumeration makes visible only those files or
+folders that the user has the rights to access. When
+Access-based Enumeration is enabled, Windows will not
+display files or folders that the user does not have rights to
+access.
+
+Biv Enable access-based enumeration on this shared folde:
+
+T” Apply this folder's setting to all existing shared folders on this
+computer
+
+Inventor CIA Year ~?
+
+Depending on the authorization, folders are
+displayed or not in the Windows Network
+Neighbourhood. Can easily also be applied on
+social media or other platforms. You need
+something to assign the user to a record eg. IP,
+Face Recognition, RFID.... Then you can eg. split
+the society: access based censorship, send people
+in the right or wrong directing (discrimination /
+Stanford prison "experiment")
+
+Use Cases
+Censorship, manipulation or "secrecy"
+

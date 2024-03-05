@@ -1,0 +1,123 @@
+Approach properties
+44 |[eal| 4 et
+
+=|
+
+© Signal Processing
+E) SignaProcessing
+FiterOrdering
+Ei Resamping
+SamplingRate
+ChannelSelection
+Rereferencing
+[ch ICA
+SurfaceLaplacan
+FIRFiter
+Projection
+
+c
+
+Figure 2: Common Spatial Patt
+
+Fie Edt View Insert Tools Desk
+
+a SS ee
+
+‘New approach...
+‘Modify approach...
+Reviewledit approach...
+
+Investigate results,
+‘Transform data by model... Ct+P
+
+isles)
+Settings Help
+
+jastapproach (Spectraly Weighted C.... =
+Tastdata (“mag set") aa
+
+[automaticaly chosen a|
+
+jpproach
+
+Parameter Search
+LosePerformance Metric
+
+TIRFilter
+Standardization
+SparseReconstruction
+
+5) Epochextraction
+TimeWindow
+EventTypes
+
+BaselineRemoval
+WindonSelection
+Spectralfransform
+5 SpectralSelection
+FrequencySpectfcatic
+
+El Feature Extraction
+
+5) FeatureExtraction oO
+PatternPairs
+Parameter
+Parameter
+SpectralPrior
+Maxiterations
+
+) PluginFunctions
+FeatureAdaptor
+
+cA
+
+'Annotate the Signal with a spati
+
+ICA) (Flt_ica).
+
+0.04
+0.02
+
+0.08
+
+re
+
+@
+
+Spec-CSP Pattern 1
+
+o
+
+Spec-CSP Patter 2
+
+Spec-CSP Pattem 3
+
+Cross-validation folds 3
+Spacing around test trials 3
+“= Leal x] Fe estates
+‘a {te performance estimates
+}26-validation folds 10
+ls around test trials 3
+
+a computer cluster
+
+Node pool (use current config)
+
+a4 0.06 1 in workspace as Tastmodel
+Nyy foe Nally consecrao as
+Q Cancet | __oK
+fy 20 a 0 20 a 0 [cores f
+"20',0,'FL',4,'Err',2,'PRBEP',3,
+p-SlackShrink',1,'1-SlackPrimal',
+1y!,1, ‘bf! ,2,! sigmoid’ ,3, ‘user!
+setHeurstic!,1,'FixedPoint! ,2,'I
+Spec-CSP Pattem 6 Spec-CSP Pattem 5 Spec-CSP Patten 4 12) ,2)3
+0.06 a4 9, slack! ,1, margin’ ,2);
+hat | Lapel [om L fhe
+0 0 4d cl td cw 4a -e 4f -t sa anid
+fy 20 a 0 2D a 0 0 40
+
+a
+x| mLtrainsymightim x [mitrainswmperf.m =
+[in 145 Col 59° [ovr
+

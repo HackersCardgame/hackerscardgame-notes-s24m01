@@ -1,0 +1,31 @@
+Mai Dever Sytem <Mailer Dsemon@mcout7.maithortpoint.ch> 12 % Anwworten| - Weteseten | Archiveren| J Lachen | Mebry
+
+This message was created autonatical
+
+yy by mail delivery software.
+
+1A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+ost malt rks. govt. (91-259.165.6]
+Sard error from remote hati server after ACOT TO:<o=h soi
+
+550 5.7.1 <mxout@17 nail -hostpoint .ch{217.26.49.177]>
+Client host rejected: Connection rejected due to site policy
+
+Reporting-MTA: dns; sxoute17.mail.hostpoint .ch
+
+Action: Failed
+Final-recipient:
+
+status: 5.0.8
+
+Renote-NTA: dns; mail1.rks-gov-net
+
+Dlagnostic-code: smtp; 550 5.7.1 <axout017.mail.hostpoint..ch[27.26.49.177]>: Client host rejected: Connection rejected due to site policy
+
+15: UPC Schiz hack Nese im Kozov fr der
+
+om emeveo.
+
+a@=ag

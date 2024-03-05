@@ -1,0 +1,21 @@
+TOP SECRETICOMINTIIREL TO USA, FVEY
+
+(TSIISWIREL) IRATEMONK provides software application persistence on desktop
+{and laptop computers by implanting the hard drive firmware to gain execution
+through Master Boot Record (MBR) substitution.
+
+IRATEMONK
+ANT Product Data
+
+(TSIISUIREL) IRATEMONK Extended Concept of Operations
+
+(TSIISWIREL) This technique supports systems without RAID hardware that boot
+from a variety of Western Digital, Seagate, Maxtor, and Samsung hard drives. The
+‘Supported file systems are: FAT, NTFS, EXT3 and UFS.
+
+(TSIISWIREL) Through remote access or interdiction, UNITEDRAKE, or
+'STRAITBAZZARE are used in conjunction with SLICKERVICAR to upload the hard
+drive firmware onto the target machine to implant IRATEMONK and its payload (the
+implant installer). Once implanted, IRATEMONK's frequency of execution (dropping
+the payload) is configurable and will occur when the target machine powers on.
+

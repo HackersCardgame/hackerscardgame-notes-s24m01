@@ -1,0 +1,43 @@
+Rm marc@debian: ~/Daten.2019/tagebuch/2019/november
+
+/bin/bash: rdate: command not found
+Ishell returned 127
+
+Press ENTER or type command to continue
+
+Imarc@debian: ~/Daten.2019/tagebuch/2019/november$
+Imarc@debian:~/Daten.2019/tagebuch/2019/novenber$ vim we-need-a-patch-for-that.tx
+it
+
+Inarc@debian:~/Daten.2019/tagebuch/2019/novenber$ cat we-need-a-patch-for-that. tx
+it
+
+Mo Dez 2 15:45:04 CET 2019
+
+IMHO werden die MKULTRA Sklaven, die misshandelten und gepeinigten Kinder,
+die Sklaven, die Kinder die komplett devot sind, weil sie gelernt haben,
+dass wenn sie nicht "parieren" aufs Maul bekommen vorsdtzlich so "programmiert”
+
+Diese Kinder hatten um es im psychologischen Konzept Big5 auszudrucken wegen
+ihrer Devotheit hohe Werte in "agreeableness”
+
+Ich vermute, dass diese Kinder so ab 20 dazu missbraucht werden vertrauen
+laufzubauen Uber ein beliebiges Kommunikationssystem, sobald der "Trust"
+zur Zielperson aufgebaut ware, wirde das Kommunikationssystem umgeschaltet
+auf einen gottlosen Mensch[en|in] der dann den "Trust" den das devote
+IMKULTRA Opfer aufgebaut hat fdr gottloses missbraucht.
+
+Domain Model:
+ti... Karte
+Mainframe
+MKULTRA Opfer
+Empfanger des gottlosen Auftrags
+Kind Uber das der gottlose Auftrag Obermittelt wird
+(dass dann falls der Emfanger merkt dass der Auftrag nicht so toll
+ist auch noch als Sdndenbock missbraucht wurde, m50)
+viel andere technik Schiesse
+
+ISIGINT COMINT PROBLEM
+
+Imarc@debian:~/Daten.2019/tagebuch/2019/novemberS ff
+

@@ -1,0 +1,55 @@
+173.194.116.812
+173.198.116.81
+
+33407 31678401376 192.168.1.48
+533408 31678817856 173.198.116.61
+
+433412 3168.0165606 173.198.116.51
+439413 3169.0170796173.196.116.81
+39416 31690170976 192.168.1.48
+
+533416 3168.0176636 173.198.116.61
+433417 3168.0176696 192. 168.1.48
+
+‘33422 21692274066 192.168.
+33423 3169,2365686 173.194.116.281
+433428 3169, 3036056 173.196.116.61 192.168.1.44
+32425 3169,3613906 192. 168.1.48 173.198.116.81
+32427 31706185696 192.168.1.48 251
+33421 31746224006 192.168.1.48 251
+
+Se ree Sere ee ee ee
+722 [SSL segnent of 2 reassenbled POU]
+72 Change Cipher Spec
+111 Encrypted Handshake Message
+722 [SSL segnent of a reassenbled POU)
+166 443-16525 [ACK] Seq=138 Ack=575 Wine43640 Lene0 TSval=2387224796 Tsecr=51474710
+165 443-46524 [ACK] Seq=138 Ack=575 Wine43648 Len-0 Tsval=2387214964 Tsecr=51474710
+66443-96523 [ACK] Seq=138 Ack=1231 Win=44928 Len-O TSval=2387224841 TSecr=51474710
+(6443-46526 [ACK] Seq-136 Acke1231 Wine44928 Len-O TSval=2387215027 TSecr=S1474711
+573 [SSL segnent of a reassexbled POU)
+1383 [SSL segnent of a reassenbled POU}
+16 46523-443 [ACK] Seq=1231 Ack=1962 Win=34304 Len=9 TSval=51474735 TSecr=2387224970
+1434 [SSL seguent of a reassenbled POU]
+375 [SSL segnent of a reassenbled POU)
+16 46524-443 [ACK] Seq=1231 Ack=1815 Win-3596B Len=9 TSval=51474736 TSecr=2387215154
+82 Standard query @x86@0 PTR _pgpkey-kp. tcp. local, "OH" question
+768 [SSL segnent of a reassenbled POU)
+(6442-46524 [ACK] Seq=1E15 Ack=1933 Wine46226 Len=0 TSval=7387216375 Tsecr=51475058
+949 [SSL segnent of a reassexbled POU)
+16 46524-443 [ACK] Seq=1933 Ack=2698 Win-38656 Len=9 TSval=51475087 TSecr=2387216441
+82 Standard query ®x6600 PTR pgpkey-hkp. tcp. local, "OH" question
+482 Standard query ©x0000 PTR _pgpkey-hkp. tep.local, "OM" question
+
+Frame 33213: 69 bytes on wire (480 bits), 60 bytes captured (489 bits) on interface @
+
+pEthernet 11, Src: HonMaiPr 19:92:e4 (14:24:
+
+/$2:ed), Ost: Broadcast (ff:
+
+tf
+
+Sternt protorot version sre 192 18,248 (12, 260,44), Osts 19208-1239 (99 101.25)
+pUser Datagran Protocol, Src Port: 8612 (8612), Dst Port: 8612 (8612)
+canon BNP, Scanner Cosmand: Discover:
+

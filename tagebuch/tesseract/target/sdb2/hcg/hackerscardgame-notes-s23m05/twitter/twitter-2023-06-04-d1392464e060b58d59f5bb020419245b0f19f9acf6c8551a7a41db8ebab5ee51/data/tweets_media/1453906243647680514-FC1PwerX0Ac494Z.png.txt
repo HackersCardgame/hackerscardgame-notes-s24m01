@@ -1,0 +1,47 @@
+a marc@debian: /usr/share/dict
+
+devilry's
+devils
+
+deviltries
+
+deviltry
+
+deviltry's
+
+vaudeville
+
+vaudeville's
+
+marc@debian: /usr/share/dict$ cat american-english |grep -P "vil$"
+Advil
+
+anvil
+
+bedevil
+
+cavil
+
+chervil
+
+civil
+
+daredevil
+
+devil
+
+evil
+
+uncivil
+
+weevil
+
+marc@debian: /usr/share/dict$ cat ngerman |grep -P ".*eufel$"
+Feuerteufel
+
+Teufel
+
+verteufel
+
+marc@debian:/usr/share/dict$ J
+

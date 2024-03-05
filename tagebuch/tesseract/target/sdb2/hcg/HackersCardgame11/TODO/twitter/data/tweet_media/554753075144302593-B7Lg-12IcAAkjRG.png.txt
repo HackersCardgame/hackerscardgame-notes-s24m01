@@ -1,0 +1,12 @@
+bits/sec
+
+|< __ [zeemin|| zoom out | >
+
+80M}
+60 4
+40.4
+20
+Sun 12:00 Mon 00:00 Mon 12:00
+i Inbound cur:95.19M avg:77.28M max:96,11M
+
+i outbound cur:96.94M avg:77.93M max:97,61M
