@@ -1,0 +1,20 @@
+Inventor: xxxxx Year: ~??2?
+
+| guess there is some sort of electronic fluorescent pen whre
+the offender can mark things in text | wrote. The principle is
+quite simple, i guess one could make terror threat or a
+death threat out of every single page out of the bible if one
+would mark some words on the page. Not tested so far.
+Workaround would be to use color your own in the text you
+write, it then would still be possible, but much harder for
+those that uses this dirty trick.
+
+Technically one could implement that with things like t1
+card, or if you would know how many words a person reads
+per second you would for example send the word you would
+mark with a high frequency sound just above auditory
+threshold... or you could add a blinking effect around the
+perceptual threshold, if done directly in the hardware,
+garphics card or even in the screen it would be quit hard to
+prove that. See also m85 Card
+

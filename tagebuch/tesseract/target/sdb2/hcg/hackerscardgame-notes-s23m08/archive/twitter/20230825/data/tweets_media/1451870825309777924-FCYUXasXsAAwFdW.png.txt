@@ -1,0 +1,25 @@
+On my system, the following output was produced:
+
+2-MIB:
+2-MIB:
+
+:sysDescr.0 = STRING: Linux himanshu-desktop 3.13.0-32-g!
+isysObjectID.0 = OID: NET-SNMP-MIB: :netSnmpAgentOIDs .10
+
+N-EVENT-MIB: :sysUpTimeInstance = Timeticks: (6481067) 18:00:10
+
+2-MIB::
+2-MIB::
+2-MIB:
+
+2-MIB::
+
+:sysLocation.0 = STRING:
+2-MIB::
+
+sysContact.0 = STRING: Me <me@example.org>
+sysName.@ = STRING: himanshu-desktop
+on the Dock of the Bay
+
+sysServices.@ = INTEGER: 72
+sysORLastChange.0 = Timeticks: (22) 0:00:00.22

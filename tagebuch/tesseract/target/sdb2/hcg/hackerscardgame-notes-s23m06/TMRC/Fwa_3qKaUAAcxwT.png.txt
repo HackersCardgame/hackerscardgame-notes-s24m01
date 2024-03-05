@@ -1,0 +1,18 @@
+MC does not refer to Project Mac! While Macsyma was developed part of Project Mac,
+Project Mac had multiple machines, and Macsyma was originally develooped on a
+predecssor system, MIT-ML (ML for MathLab). MC stands for Macsyma Consortium, a
+consortium with governmental and industry funding that purchased the faster and larger
+DEC PDP KL-10 system.
+
+Thank you for the correction, and | apologize for the confusion. Your clarification is much
+appreciated.
+
+As per your information, the MIT-MC stands for MIT Macsyma Consortium, which used the
+DEC PDP KL-10 system for the development of Macsyma, the computer algebra system. This
+took place after the initial development of Macsyma as a part of Project MAC on the MIT-ML.
+(MathLab) system.
+
+Regarding your query about Bob Kerns or "rwk@mit-mc", as of my knowledge cutoff in
+September 2021, | don't have specific information about this individual and their role at the
+MIT Macsyma Consortium. For the most accurate and recent details, I recommend seeking
+out sources that have been updated more recently.

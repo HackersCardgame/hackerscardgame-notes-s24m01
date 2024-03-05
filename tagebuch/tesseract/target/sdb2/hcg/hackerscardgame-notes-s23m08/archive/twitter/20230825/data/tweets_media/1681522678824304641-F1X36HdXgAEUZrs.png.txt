@@ -1,0 +1,34 @@
+How much transmission power is required to induce 50mV to a golden wire that is 2em long
+and hasa diameter of O:imm at 30GHz
+
+To calculate the transmission power required to induce a specific voltage in a wire, we need.
+to consider the wire's resistance, length, and the desired voltage. However, the wire's,
+dimensions and material alone are not sufficient to determine its resistance at a given
+frequency. More information about the wire's resistivity is needed.
+
+‘The resistivity of gold is typically around 2.44 x 10*-8 ohm-meters at room temperature.
+‘However, the resistivity may vary with temperature and other factors. To proceed with the
+calculation, we will assume a resistivity of 2.44 x 10*-8 ohm-meters.
+
+First, let's calculate the wire's cross-sectional area:
+
+Area=m* (diameter/2)"2
+=m? (GAmm/2r2
+=344* (0.:05mmy2
+=814* (6 x10°-5 m2
+=814*25x 109 m2
+= 785x109 m2
+
+Next, let's calculate the wire's resistance using the resistivity and length:
+
+Resistance = (resistivity * length) / area
+= (2.44 x 10*-8 ohm-meters * 0.02 m) /(785 x 10%-9 m*2)
+= (4.88 x 1040 ohm-m) / (785 x 10*-9 m*2)
+
+= 6:22 10*-2ohms
+
+To induce a voltage of SOmV across the wire, we can use Ohm's law:
+
+V=IFR
+
+ooo

@@ -1,0 +1,42 @@
+v1 Kania (CO Rlindbanie RCC) 9.
+
+Von "Mare ir Landolt" <mail@marciandalt chs roa r
+BB Auswahlen marcland@s92: ~ - ag x
+
+, w[marcland@s92:~] $ who
+, [marcland@s92:~] $ whoami
+marcland
+[marcland@s92:~] $ git clone https://github.com/hackersCardgame/hackerscardgame-notes-s22me8
+{Cloning into 'hackerscardgame-notes-s22m@8'...
+remote: Enumerating objects: 11829, done.
+remote: Counting objects: 100% (9/9), done.
+22remote: Compressing objects: 100% (9/9), done.
+“remote: Total 11829 (delta @), reused 5 (delta @), pack-reused 11820
+“Receiving objects: 100% (11829/11829), 2.14 GiB | 21.48 MiB/s, done.
+heResolving deltas: 100% (604/604), done.
+wifatal: packfile /home/marcland/hackerscardgame-notes-s22me8/.git/objects/pack/pack-9@eeb252ec57cfel75af2f34ca7e60d5aalc3
+’“@c5.pack cannot be mapped: Cannot allocate memory
+‘warning: Clone succeeded , (Rel iaifelsltel colnet rs 0
+».You can inspect what was checked out with ‘git status’
+and retry with ‘git restore --source=HEAD :/'
+
+les
+
+*<Tmarcland@s92: ~] 128 $ git --verseion
+
+"dunknown option: --verseion
+
+stusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+
+a [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+
+Bz [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+
+[--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+[--super-prefix=<path>] [--config-env=<name>=<envvar>]
+<command> [<args>]
+[marcland@s92:~] 129 $ git --version
+git version 2.37.1
+a[marcland@s92:~] $
+
+17 KB

@@ -1,0 +1,16 @@
+Dendriten
+
+Aktivierungsfunktion
+mit Synapsen
+
+Ausgabe y!
+
+Eingabe
+
+Bias
+
+o
+
+Gewichte
+
+Abb. 1: Links: Nervenzelle (Neuron), Rechts: kunstliches Neuron (Perzeptron). Quelle: Nina Schaaf

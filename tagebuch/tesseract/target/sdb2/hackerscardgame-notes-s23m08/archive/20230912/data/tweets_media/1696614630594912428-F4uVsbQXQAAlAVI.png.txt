@@ -1,0 +1,44 @@
+[af
+
+[ 5542.602437] nouveau 0000:05:00.0: firmware: failed to load nouveau/nv106_fuco84d (-2)
+[ 5542.602442] nouveau 0000:05:00.0: firmware: failed to load nouveau/nv106_fuces4d (-2)
+
+[ 5542.602443] nouveau @000:05:00.0: Direct firmware load for nouveau/nv106_fuces4d failed with error -2
+C
+
+C
+
+5542.602444] nouveau 0000:05:00.0: msvid: unable to load firmware data
+
+5542.602446] nouveau 0000:05:00.0: msvid: init failed, -19
+[ 6163.799093] mpegaudioparse® [13190]: segfault at 78084000020 ip 00007f80d126a41f sp 00007f80a03Facd0 error 6 in libc.so.6[7f80d11fbe00+155000] |
+ikely on CPU 8 (core 2, socket 0)
+[ 6163.799104] Code: f6 48 89 df e8 42 c3 06 00 85 CO OF 85 52 01 00 00 48 Bb O5 Sb cf 13 OO 48 83 e8 O1 4c 39 FO OF 82 cb OO 00 00 66 OF OF Ac 24
+<4c> 89 6b 20 Of 11 4b 10 48 83 c4 18 48 89 d8 Sb Sd 41 Sc 41 Sd 41
+[ 6199.209665] mpegaudioparsed[13538]: segfault at 7f12bc000020 ip 00007f1313b6541f sp 00007F12d9bf8c00 error 6 in libc.so.6[71313af6000+155000) 1}
+ikely on CPU 6 (core @, socket 0)
+[ 6199.209675] Code: 6 48 89 df e8 42 c3 06 00 85 CO OF 85 52 01 00 00 48 Bb O5 Sb cf 13 G0 48 83 e8 O1 4c 39 FO OF 82 C6 00 00 00 66 OF GF Oc 24
+<4c> 89 6b 20 Of 11 4b 10 48 83 c4 18 48 89 d8 Sb Sd 41 Sc 41 Sd 41
+[ 6709.586494] aqueue:src[16039]: segfault at 7f7512ffeffo ip 00007f75641c63b1 sp C0007F7512Ffeffe error 6 in libc.so.6[7#7564157000+155000] 1ikely|
+on CPU 2 (core 2, socket 0)
+[ 6709.586507] Code: 01 00 00 48 89 f0 4d 89 ce 4a 8d 44 28 Ff 48 Bb 3d e4 40 14 00 83 c9 22 49 F7 de 41 89 cc 49 21 C6 66 49 OF Ge C6 66 OF 6c CO
+<Of> 29 04 24 48 85 ff Of 84 8d 0 00 00 45 31 c9 41 bs ff ff ff Tf
+[ 6800.154798] mpegaudioparse? [16485]: segfault at 7f84f8000020 ip Co007FsSSeGEd4if sp 0007FES0e7F9CeO error 6 in libc.so.6[7f855061e020+155000] |
+ikely on CPU 9 (core 3, socket 0)
+[ 6800.154810] Code: f6 48 89 df e8 42 c3 06 00 85 cO OF 85 52 01 00 00 48 Bb O5 Sb cf 13 C0 48 83 e8 O1 4c 39 FO OF 82 C6 00 00 00 66 OF GF Oc 24
+<4c> 89 6b 20 Of 11 4b 10 48 83 c4 18 48 89 dB Sb Sd 41 Sc 41 Sd 41
+[ 7085.583218] mpegaudioparsed[18377]: segfault at 7ff324000020 ip O00e7ff3ef72c41f sp C0007FF3adff9Ce0 error 6 in libc.so.6[7Ff3ef6bd000+155000] 1}
+ikely on CPU 8 (core 2, socket 0)
+[ 7085.583230] Code: f6 48 89 df e8 42 c3 06 20 85 cO OF 85 52 01 00 00 48 Bb O5 Sb cf 13 00 48 83 e8 C1 4c 39 TO OF 82 C6 00 00 00 66 OF EF Oc 24
+<4c> 89 6b 20 Of 11 4b 10 48 83 c4 18 48 89 d8 Sb Sd 41 Sc 41 Sd 41
+[ 7085.840123] mpegaudioparsed[18407]: segfault at 7fdsfdff7e33 ip 00007fd9386625Fa sp 00007Fd8fdFf7e40 error 6 likely on CPU 6 (core 0, socket 0)
+[ 7085.840131] Code: b8 ea ff ff ff 48 85 ff 74 2c 48 85 d2 74 27 49 89 cB bB b3 O1 00 00 OF 5 48 85 CO 7c 18 74 01 c3 31 ed 48 83 e4 FO 4c 89 C7
+<ff> d2 48 89 c7 b8 3c 00 20 00 Of 05 48 Bb Od d3 87 Oc 00 f7 dB 64
+[ 7085.840133] mpegaudioparsed[18408]: segfault at 7fdsfd7f6e38 ip 000e7fd9386625Fa sp O0007Fdsfd7TGe40 error 6 likely on CPU @ (core 0, socket 0)
+[ 7085.840137] Code: b8 ea ff ff ff 48 85 ff 74 2c 48 85 d2 74 27 49 89 cB bB b3 O1 00 00 OF 5 48 85 cO 7c 18 74 01 c3 31 ed 48 83 e4 FO 4c 89 C7
+<ff> d2 48 89 c7 b8 3c 00 00 00 Of 05 48 Bb Od d3 87 Oc 00 T7 dB 64
+[ 7085.840140] mpegaudioparse? [18405]: segfault at 7fd8f4000020 ip @0007fd938See41f sp OOCO7FdBfeff9Ce0 error 6 likely on CPU 2 (core 2, socket 0)
+[ 7085.840146] Code: f6 48 89 df e8 42 c3 06 0 85 cO OF 85 52 01 00 00 48 Bb O5 Sb cf 13 00 48 83 e8 O1 4c 39 TO OF 82 C6 00 00 00 66 OF EF Oc 24
+<4c> 89 6b 20 Of 11 4b 10 48 83 c4 18 48 89 d8 Sb Sd 41 Sc 41 Sd 41
+marc@debian::~/hackerscardgame-notes-s23m03$ ff
+

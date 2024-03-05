@@ -1,0 +1,2 @@
+Wwarc@DESKTOP-FT8AGVL :~/hackerscardgeme-notes-s21n09/tools$ ./sterFont. s
+

@@ -1,0 +1,17 @@
+16 31 46 61 76
+
+Abbildung 23: Die Entwicklung von Item 6 (,,In Bezug auf meine persénlichen Ziele erlebte ich
+mich heute als erfolgreich vs. erfolglos“), Item 37 (Auspriigung der ,,Beschwer-
+den“) und Item 40 (,,Heute habe ich mich meinen Problemen hilflos ausgeliefert
+gefiihlt*). Darunter die Ausprigung der dynamischen Komplexitit dieser Items
+(Berechnung in einem Gleitfenster von 7 Messpunkten [= Tagen] Breite). Die bei-
+den zusatzlichen Kurven im unteren Teil der Diagramme (hellblau) reprisentieren
+ein 95 % (untere Linie) und ein 99 % (obere Linie) Konfidenzintervall mit einem
+Gedichtnishorizont von 21 Messpunkten.
+
+@ Schreiben vom Gericht, ignorant, ungerecht, nicht auf
+dem neusten Stand wissenschaftlicher Forschung
+
+@ Mehrere Tage psychotisch durch das ignorante
+Schreiben von Gericht
+

@@ -1,0 +1,95 @@
+a ‘marc @debian: ~Wvosk-plpythonfexample Q x
+
+“text: "in nurt
+
+text": "bettina®
+
+text" : *herzlich wiltkomen bei methodische inkorrekt folge nummer eins der front nachrichten aus der wissenschaft mit mir heute hier wieder (EUMMEEUMEBHat1o und mein nane ist nicolas wohrt~
+
+text": chatlo herr hi spitze™
+
+text": "bucherkiste"
+
+“text i “Ja wie war dein tag in der wissenschaft dreifach in der wissenschaft ich habe heute dienstleistungen for den*
+
+“text" : ‘institutsleiter finsternis ende real was sie tut fleige fur fur unseren chef turke erbrach uns an meiner anlage weiter rungeschraubt hat spa gemacht schéner tag)
+
+stext" : "das freve sich jetzt"
+
+stext® : ‘aber Ach dbers wasser als wintermantel wobel mir wurde bier versprochen wesentlichen sind erhoht oder habe ich ein Kleines gesténdnis zu machen aber bevor wir dazu Konmen”
+
+text": wurde ich sagen hab ich hier in unseren sendungen plan eingetragen ein a rata h hab ich auch schon gesehen willst du etwa sagen wir haben letzte mal nicht die wahrheit gesagt aber ich wird nicht sow
+eit gehen dass wir nicht die wahrheit gesagt haben aber m-
+
+"text" 2 "getreu unserem sendung titel sethodisch inkorrekt wollen wir wirklich sachen richtig stellen ahm ich glaube das ware nicht schlecht wenn wir regelmaGig das 2u einer institution machen das wirfst am a
+nfang gleich mal klarstetlen was wir bein letzten mat”
+
+text" : "fur stuss geredet harter brocken aber bein 2veiten podcast meinst du so einen reinen ja mit oder hat genau methodisch inkorrekt errata Krippen essecke bléd wird dann nur bei dir quizsendungen Lega Ub
+erall kann man in pakistan als die eigentliche segnung neidisch gab so so schlina hat es uns nicht getroffen in der leteten sendung was haben ein falsches en ich"
+
+"text" + "mdchte also falsch weil sie nicht an einer stelle er habe aus verstandlichen grUnden sind wir ein bisschen an 2u Knapp. geworden”
+
+“text" : thin beispielsweise an der stelle als es eine kleine verputfung gab herhin ist es mégLich geholt un du in das sichtfelé in der missionar also das piepen hat mittterweite nachgelassen der briuten das
+freut mich sehr wenn santini tus kann ja auch schon mal bleiben richtig richtig also un nochmal a"
+
+"text" : "sozusagen den requip zu geben was wir letzte woche bel oder vor zwel wochen passiert ist wir haben eine kleine ein Kleines experiment mit wasserstoff in eiern gemacht”
+
+text": "bel der es 2u einer kleinen KontrotLierten explosion kan”
+
+text” : tah deswegen ist es fir die spuren sind mittlerweile beseitigt™
+
+“text: : “Je in unserem studio allerdings
+
+“text” : “Ja wir waren insgesamt etwas uberrascht auch von der lautstarke dieser explosion und deswegen bin ich*
+
+“text" : “unkonzentriert geworden auch vielleicht wegen der ravchentwicktung und Konmt. zum punkt begriff ahn ich habe vergessen zu sagen ich glaube wir haben noch davon gesprochen dass wir dort eine knallgasex
+plosion beobachtet haben ers was was ich interessant finde oder was fur glaube ich angefangen 20 20 erklaren ist es. dass das nach"
+
+“texts: "aktion aus oder von von wasserstoft den wir kunden gezielter eingegeben haben info hesrat nicht kontrolliert. sagen und schon erdffnet und saverstoff gevesen esel m das reaktions produkt dieser knallg
+asexplosion an habe ich nicht ervahnt in der sendung das find ich bisschen schade weil ich nicht nee hab ich nicht ich glaube nicht so. an”
+
+"text" : "das reaktion produkt 1st ndalich wasser ‘das find ich schon interessant dass man 2uel 2wel gase Zusamnentut und dann inner in einer explosion wasser erzeugt die die Ja dann doch deutLich”
+
+“text” : "Zu horen war hat auch so wissenschaftshistorisch fUr aufregung gesorgt als das irgendvann weise nicht siebenhundert irgendvann mal jemand rausgefunden hat ist er zu mehr wirklich ich hab dann beim be
+im nachlesen noch festgestellt dass
+
+text": "das al"
+
+stext® = "dun a"
+
+text” : “dann dann einen explosions fahiges gemtsch
+
+stext™ : *bildes wenn der wasserstoff der volume ein des wasserstoffs avischen vier und sieben siebzig prozent ist also schon relativ also den preis habe ich im revier oder absichtlich beschlossen ist es dean
+nicht besser”
+
+"text" : "heist hauses mehr allerdings diele die heftigkeit der explosion ist da naturLicher sehr unterschiedlich categories auch genutzt werden
+
+stext® : "aha um un"
+
+stext™ : *gerate zur wasserstofferzeugung an auf ihre richtigkeit zu dberprifen wird wohl auch so gemacht hab ich generell gas rein und ansatze ndnLich knallgas rein du du hast halt noten*
+
+stext™ : *aufbau der wasserstoff erzeugt rein wasserstoff hast kannst du den kontrolliert ab brennen”
+
+stext" : *m Uber der anlage je mehr Luft drin ist je mehr sauerstoff drin ist in deiner anlage"
+
+stext™ : "desto mehr verdndert sich das gerdusch welches bei der bei der verbrennung hn
+
+“text" : “erzeugt wird und deswegen Kénnen fachleute an diesen gerausch wohl erkennen wieviele sauerstoff oder wie dicht die anlage quasi holt im laufe der nichsten woche mal den wasserstoff generator und mein
+e anlage anschlieSen oder forum auffinden von flaanchen anzUnden mal gucken wenn es knallt ja ich schatze wissen doch du hast sicherlich beim letzten mal mehr”
+
+“text™ : "ich bin kein experte des deckels widerrede bein pe raus™
+
+“text® : “das war das eine ihr rate was ich bisschen schade fand dafr das nicht mehr erwahnt haben aber mehr ist es auch nur eine Kleinigkest wir hatten Uber methan und die geruch von methan gesprch aktien
+r mich 3hm ich hatte richtigerweise gesagt dass methan eigentlich keinen arm Kein geruch hat an ich war etwas ungenau als es darum ging”
+“CAC*C"CTraceback (most recent call Last)
+
+File */hone/sarc/vosk-api/python/exanple/./test_sinple.py", Line 28, in <module>
+
+print(ree-Resutt())
+File "/none/narc/.local/1ib/python3.9/site-packages/vosk/ init__.py", Line 82, in Result
+return ffi.string(_c-vosk recognizer result(self. handle)) .decode(“utf-8")
+
+Keyboardrnterrupt
+
+earinban:-/vonk-ph/eyton/exapa“¢
+srceiebian:-/osekapi/pyion/eroptes |

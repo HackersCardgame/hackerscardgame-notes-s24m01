@@ -1,0 +1,21 @@
+MIT-MC was the site where Macsyma as developed. It had nothing to do with the Tech Model
+Railroad Club.
+
+My apologies for the confusion. You're correct. The MIT-MC you're referring to is indeed
+associated with the development of the computer algebra system, Macsyma. In this context
+the "MC" in MIT-MC would likely refer to MIT's Project MAC, where Macsyma was developed,
+and not the Model Railroad Club.
+
+Project MAC (the Project on Mathematics and Computation, later renamed to the Laborator}
+for Computer Science) was a research project at the Massachusetts Institute of Technology
+(MIT) that brought many developments in computer science, including time-sharing
+systems, computer graphics, and computer-human interaction.
+
+Macsyma (or "MAC's S¥mbolic MAnipulator") was one of the first computer algebra systems
+developed in the late 1960s and 1970s at MIT's Project MAC. It was designed to perform
+complex mathematical computations and symbolic manipulation of mathematical
+equations.
+
+I'm afraid | still don't have specific information on Bob Kerns, known online as "rwk," in
+association with MIT-MC or Macsyma. As of my knowledge cutoff in September 2021, you
+would need to find more recent or specific sources for that information.

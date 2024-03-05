@@ -1,0 +1,14 @@
+Erfinder: Jahr:
+
+A tunnel diode or Esaki diode is a type of
+semiconductor that is capable of very fast operation,
+well into the microwave frequency region, made
+possible by the use of the quantum mechanical effect
+
+called tunneling.
+
+Anwendungsfalle
+Like an Electrone Tube, to create High Frequencies /
+
+Oscilators
+

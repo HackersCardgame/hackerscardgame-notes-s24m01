@@ -1,0 +1,30 @@
+marcQDESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ cp /nnt/f/Daten.2020b/tagebuch/20
+
+2008/ —-2002/ + 2004/  2006/ ~-2008/ += 2018/—2812/«-2014/ = 2016/ — 2018/ + -2626/
+
+2001/ —2003/ —-2005/ = 2087/ —-2009/ = -2011/—2813/_—«-2015/ _—-2617/~—«2819/—-2628-82/
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ cp /nnt/f/Daten.2020b/tagebuch/20
+
+2000/  2002/ + 2004/ + 2006/ += 2008/ += 2010/ = 2012/.««-2014/ + -2016/—2018/ —-2020/
+
+2001/ — 2003/—-2005/2007/ —-2009/ += -2011/_—-2013/—2015/ _—-2017/ +—-2819/_—-2620-02/
+marcQDESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ cp /nnt/f/Daten.2020b/tagebuch/2020-02 /nt/z/f/Daten.2020b/tagebuch/ -rvu
+* /mnt/f/Daten..2626b/tagebuch/2020-02' -> ' /nnt/z/f/Daten.2620b/tagebuch/2620-02"
+*/mnt/f/Daten..2626b/tagebuch/2020-02/26260624.txt' -> '/mnt/z/f/Daten.2626b/tagebuch/2020-02/26260624. txt’
+
+*/mnt/f/Daten .226b/tagebuch/2020-02/26280625.txt' -> '/mnt/z/f/Daten. 2626b/tagebuch/2020-02/26200625. txt’
+
+*/mnt/f/Daten .2020b/tagebuch/2020-02/26280626.txt' -> '/mnt/z/t/Daten. 2020b/tagebuch/2020-02/20200626. txt"
+*/mnt/f/Daten..2626b/tagebuch/2020-02/26200726.txt’ -> '/mnt/z/t/Daten.2626b/tagebuch/2020-02/20200726. txt’
+*/mnt/f/Daten..2626b/tagebuch/2020-02/februar’ -> '/mnt/z/f/Daten.2620b/tagebuch/2020-02/februar'
+"/mnt/f/Daten..2626b/tagebuch/2020-02/februar/Leak.txt' -> '/nnt/z/f/Daten.2620b/tagebuch/2626-62/februar/Leak. txt’
+*/mnt/f/Daten.2626b/tagebuch/2020-02/februar/m144. jpeg’ -> '/mnt/z/f/Daten.2620b/tagebuch/2626-62/februar/m144. jpeg
+*/mnt/f/Daten.. 2626b/tagebuch/2020-02/februar/262000201.txt' -> '/mnt/z/f/Daten.2020b/tagebuch/2620-02/februar/202000201. txt’
+‘/mnt/t/Daten..2020b/tagebuch/2020-02/februar/m146. jpeg’ -> '/mnt/z/f/Daten. 2020b/tagebuch/2620-62/februar/m146. jpeg’
+*/mnt/f/Daten..2626b/tagebuch/2020-02/februar/.200209.txt.swp' -> '/mnt/z/f/Daten.2020b/tagebuch/2620-02/februar/.260269. txt. swp"
+*/mnt/f/Daten..2626b/tagebuch/2020-02/februar/208225.txt' -> '/mnt/z/f/Daten.2020b/tagebuch/2626-62/februar/200225.txt'
+/mnt/f/Daten..2626b/tagebuch/2020-02/februar/doofes-netz.txt' -> ' /mnt/z/f/Daten..2020b/tagebuch/2626-02/februar/doofes-netz. txt’
+*/mnt/f/Daten..2626b/tagebuch/2020-02/februar/262000201b.txt' -> ' /mnt/z/f/Daten.2020b/tagebuch/ 2626 -02/februar/202600201b. txt’
+*/nnt/f/Daten..2626b/tagebuch/2020-02/februar/twitter-2020-02-03-7259172125307125dbdb89d1cc3f f2058e62b767a86054a2178191d135683ce7.zip' -> '/mnt/z/t/|
+Daten.2020b/tagebuch/2620-02/februar/twitter-2020-02-03-7259172125307125dbdb89d1cc3f f2058e62b767a86e54a2178191d135683ce7 .zip"
+

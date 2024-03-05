@@ -1,0 +1,69 @@
+Jager gegen Bomber
+
+Im Zweiten Weltkrieg griffen Kampfjagerpiloten feindliche Bomberflugzeuge in
+der Regel so an, sie aus der Richtung der Sonne auf sie herabstieBen, eine
+
+Kriegslist, die ,, Hun-in-the-Sun‘-Taktik hie. Als mit der Zeit simtliche Kampfpi-
+loten diese Taktik anwandten, zogen die Bomberpiloten einfach Sonnenbrillen an,
+schauten in die Sonne und paften auf. In der Folge kam eine andere Strategie auf:
+Angriff genau von unten. Diese Methode war auBerordentlich wirksam, wenn der
+Kampfjager nicht gesichtet wurde, doch wurde er bemerkt, konnte der Schu8 nach
+hinten losgehen, denn im Steigflug waren die Jager viel zu langsam, um dem
+Bomber zu entgehen. Diese Strategie kénnte man fast als Gegenstiick zum japani-
+schen Kamikaze-Angriff betrachten, deshalb wollen wir sie ,,Ezak-Imak**-Strategie
+
+nennen (Kamikaze von hinten gelesen). Uns liegt also ein Zweipersonen-Nullsum-
+menspiel zwischen der Jager- und der Bomberbesatzung vars Tiger haben
+Wahl zwischen den Strategien Serene und esta und die Bom-
+bermannschaften kénnen durch den Geschitzturm nach oben oder nach unten
+gucken. Wenn wir verabreden, die Auszahlung fiir den Kampfjager als seine
+Uberlebenschancen bei einem Angriff zu definieren, dann wird die spieltheoreti-
+
+sche Situation mit typischen Uberlebenswahrscheinlichkeiten mittels der folgenden
+Auszahlungsmatrix dargestellt:
+
+Bomber
+Nach oben Nach unten
+Jager Hun-in-the-Sun 0,95 J spurl
+Ezak-Imak 1 0
+Dieses Spiel besitzt offensichtlich keinen Sattelpunkt (warum?). Weder Jager noch
+Bomber haben reine Strategien, die sich nicht durch den Gegner zu dessen Vorteil
+ausniitzen lassen, wenn dieser die Strategie im voraus erfahrt. Beide Parteien
+
+Optimale gemischte Strategien ausgerechnet 29
+
+miissen also bei jedem Einsatz eine der beiden Strategien zufallig auswahlen — sie
+miissen ihre Aktionen mischen. Selbstverstindlich hei&t dies nicht, daB die Optio-
+nen mit gleicher Wahrscheinlichkeit gewahlt werden sollen. Die Auszahlungen fiir
+den Kampfpiloten zeigen, da8 ,,Hun-in-the-Sun“ fast immer zum Erfolg fiihrt,
+wihrend ,,Ezak-Imak“ recht riskant ist, denn wenn die Bomberbesatzung zufiallig
+nach unten blickt, bedeutet sie den sicheren Tod. Intuitiv ist klar, da in einer
+optimalen Mischung der beiden Strategien ,,Hun-in-the-Sun“ viel 6fter vorkommen
+muB, mit einer gelegentlichen Abweichung zu ,,Ezak-Imak*, gerade so oft, daB die
+Bomberbesatzung im Ungewissen bleibt, von wo der Angriff kommt. Die Methode,
+die wir weiter unten entwickeln werden, liefert uns die Losung, daB der Kampfpilot
+optimalerweise in 21 Einsatzen 20mal zu ,,Hun-in-the-Sun“ greifen sollte.
+
+Der Jager kénnte diese Strategie implementieren, indem er zwanzig weibe
+Kugeln und eine schwarze in einen Sack steckt und ihn gut schiittelt. Vor jedem
+Einsatz zieht er eine Kugel aus dem Sack; wei bedeutet, daB er von oben aus der
+Sonne kommen wird, schwarz, von unten herauf. Was die Bombermannschaft
+angeht, so sollte sie, wenn sie clever ist, von 21 Fallen 20mal nach unten schauen
+denn das ist optimal fiir sie. Man beachte, daB diese Zahlenverhalenaee Durch-
+schnittsverhdltnisse fiir eine groBe Anzahl von Einsatzen sind; sie bedeuten nicht,
+daB die Bombercrew, nachdem sie 20mal nach unten geschaut hat, das niichste Mal
+nach oben schauen mu8. Sowohl Jager als auch Bomber miissen ihre Kugel vor
+dem Einsatz ziehen und ihn dann der Farbe gemaB durchfiihren.
+
+Die erwihnten gemischten Strategien fiir Jager und Bomber fiihren zu einer
+mittleren Uberlebenschance von 0,9524 fiir den Jager, was ein wenig mehr ist als
+die sichere Uberlebenschance von 0,95, die aus der ausschlieBlichen Anwendung
+von ,,Hun-in-the-Sun“ resultiert. Um diese leicht bessere durchschnittliche Uber-
+lebensrate zu erzielen, mu8 der Pilot des Kampfjagers allerdings die Méglichkeit
+seines sicheren Todes in Kauf nehmen, wenn sowohl er als auch die Bombermann-
+schaft die schwarze Kugel ziehen (wofiir die Wahrscheinlichkeit 1/21 x 1/21,
+ungefahr 0,0023, ist). Woher kommen nun diese Zahlen?
+
+Optimale gemischte Strategien ausgerechnet
+
+Die groRen Funf -- John L. Casti

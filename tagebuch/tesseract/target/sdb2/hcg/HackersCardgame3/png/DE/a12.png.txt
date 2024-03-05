@@ -1,0 +1,18 @@
+@& S¥YSTEM-THEORIE
+
+Inventor: Niklas Lunmann Year: ~1914
+Ein System kann aus mehrerern Elementen oder mehreren
+Teil-Systemen bestehen. Die Elemente eines Systems
+haben untereinander Verbindungen (Relationen [R]) und
+die Konditionierende [K] auf eine Relation sagt wie
+diese Verbindungen sein dturfen. Z.B. Gesetzestexte,
+Die Bibel, die Tora, der Koran, das Kapital von Karl
+Marx, die Erwebsregeln der Ferengi. Niklas Luhmann
+galt als fthrend, diese Grafik ist aus seinem Buch
+
+Use Cases
+
+Um zu verstehen wie Beziehungsnetzwerke, Soziale-,
+Mechanische-, Biologische-, Informatik-Systeme oder
+Programme / Software funktionieren
+

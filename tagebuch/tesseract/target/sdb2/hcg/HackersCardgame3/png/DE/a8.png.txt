@@ -1,0 +1,40 @@
+@ Observer Pattern
+
+( Subject
+
+| +observerCollection
++registerObserver(observer)
+
+a +unregisterObserver(observer)
+\ + notifyObservers() )
+
+notifyObservers ()
+for observer in observercollection
+
+call observer.notify
+
+ConcreteObserverA
+cs |
+
++notify()
+UNIFIED ~>
+
+ConcreteObserverB MODELING
+——————————————————
+Fotity) LANGUAGE ™
+
+Erfinder Erich Gamma, Richard Helm... ~1994
+Das Beobachter-Muster (englisch observer
+pattern / listener pattern) ist ein
+Software Entwurfsmuster. Es gehort zur
+Kategorie der Verhaltensmuster (englisch
+behavioural patterns). In der Programmier-
+sprache Java ware es public interface
+Observer und verwendet wird es-~ mit
+"implements Observer" (Verwenduung braucht
+ein wenig Ubung & einen guten Tutor)
+
+Anwendungsfalle
+dient der Weitergabe von Anderungen§ an
+Objekte die von diesem Objekt abhangen.
+

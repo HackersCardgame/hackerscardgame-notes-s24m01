@@ -1,0 +1,39 @@
+@ Observer Pattern
+
+( Subject
+
+| +observerCollection
++registerObserver(observer)
+
+a +unregisterObserver(observer)
+\ + notifyObservers() )
+
+notifyObservers ()
+for observer in observerCollection
+call observer.notify()
+
+ConcreteObserverA
+cs |
+
++notify()
+UNIFIED ~>
+
+ConcreteObserverB MODELING
+——————————————————
+Fotity) LANGUAGE ™
+
+Erfinder Erich Gamma, Richard Helm... ~1994
+The observer pattern (also called listener
+pattern) is a design pattern in software
+development. It belongs to the category of
+behavior patterns. In the programming
+language Java it would be public interface
+Observer and it would be used _ with
+“implements Observer" (needs exercise)
+
+Anwendungsfalle
+To transfer changes to objects to a complete
+
+structures that dependent on this object, ev.
+an application with different views
+

@@ -1,0 +1,17 @@
+Hypophysc
+
+Erfinder Goit Jahr ~0
+Die Hypophyse (gr. bndgvotc hypdphysis ,,das
+unten anhangende Gewachs“) ist eine
+Hormondruse, der eine zentrale Ubergeordnete
+Rolle bei der Regulation des Hormonsystems im
+Korper zukommt. Sie ist eine Art Schnittstelle, mit
+der das Gehirn Uber die Freisetzung von
+Hormonen Vorgange wie Wachstum, Fortpflanzung
+und Stoffwechsel reguliert
+
+Anwendungsfalle
+Steuert Hormonsystem des (meschlichen) Korpers,
+kann sowohl mit chemischen Stoffen aber auch
+mit zB. antrainierten Stimuli beeinflusst werden
+

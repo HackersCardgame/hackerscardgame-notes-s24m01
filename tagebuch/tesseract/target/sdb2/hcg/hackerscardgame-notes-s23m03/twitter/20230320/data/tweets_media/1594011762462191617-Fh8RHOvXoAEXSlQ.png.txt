@@ -1,0 +1,17 @@
+Apps (2)
+» © Doxing durch Drogensiichtige
+> Gq Windows-Explorer
+Hintergrundprozesse (14)
+3 COM Surrogate
+> 3 COM Surrogate
+©) Device Association Framework...
+©) Hostprozess fur Windows-Aufg...
+> GS Microsoft Distributed Transacti..
+> Q Microsoft Windows Search-Inde..
+> thi Spoolersubsystem-Anwendung
+GB ThinPrint AutoConnect compo...
+
+© Weniger Details
+
+‘Task beenden
+

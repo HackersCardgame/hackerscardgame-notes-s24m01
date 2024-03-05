@@ -1,0 +1,84 @@
+4a
+
+Vorlage
+
+public abstract class Kult
+
+{
+
+public
+public
+public
+public
+public
+
+String Name
+String Helden
+String Feinde
+String Symbole
+String Rituale
+String Geheimnisse
+String Triggerwort
+
+Implementierung
+
+class EVP extends Kult
+{
+Name = "EVP"
+Helden = "Jesus", "Gott"
+Feinde = "Satan", "Todsiinden
+symbole = "Christen-Kreuz"
+Rituale = "Beichte"
+Geheimnisse = "Liebe Deinen nachsten wie dich selbst gilt auch fir die nachste Religion”
+Triggerwort = “ans Kreuz nageln"
+
+// da ware ein zwingendes Prarequisit zugriff mindestens auf
+
+7/ den Bildschirm oder schlimmer noch auf Neuralink oder was alteres
+// und beim Neuralink ware ein Prarequisit, dass die Inhalte irgendwie
+// sortiert sind, gleichgeschaltet sind oder es eine ProjektionsMatrix
+
+// won
+
+Gehirn 1 zu Gehrin 2 gibt
+
+public abstract class KultMember
+
+{
+
+public
+public
+public
+
+public
+public
+
+String glaube
+boolean istVonkultUberzeugt
+String manipulierbarUberThema
+
+float epilepsiePegel
+float incentivesPegel
+
+class Bauhofer extends KultMember
+{
+glaube = "Christentum" (kénnte auch Satan sein und man tarnt sich als Christ.
+istVonkultiberzeugt = true
+manipulierbarUberThema = "Christliche Geheimnisse", "von Gott eingefiigte geheime Botschaften"
+=> somit kénnte Satan sich Uber Informatik in Texten mit einem Typo (Rechtschreibfehler)
+den er in Texte von Zeugen oder Angeklagten einfiigt dem Richter sagen "der Verfasser ist
+[ schuldig | unschuldig ] und wenn der Richter diesen Trick Satans noch nicht kennt wiirde
+er sich allenfalls beeinflussen lassen.
+Wenn der Richter Uberlastet [ und | oder ] iberfittert ist, dann wiirde er mit "schnellem
+Denken" (Buch: Daniel Kahneman) sich zu Fehlurteilen treiben lassen
+Hat der Richter geniigend Zeit um alle Puzzleteile zu sichten und das Puzzle zusammen zu setzen
+wird dieser Angriffsvektor aber vermutlich nicht funktionieren.
+
+Mihsamer wiirde es wenn passenden Botschaft auf einem hidden Kommunikations-Kanal wie z.B.
+Neuralink ibermittelt werden, wenn eine schnelle KI oder ein Mensch schaut dass die Puzzle-
+Teile die zum richtigen Tater fiihren wiirden gleich mit falschen Beweisen auf den Siindenbock /
+Angeklagten verlinkt wiirde. Dazu brachte man aber eine Software die den Richter sehr genau
+aushorcht und merkt: “Der Richter glaubt dem falschlich Beschuldigten" (etwas wie ein
+
+EEG Liigendetektor in den Handen Satans)
+

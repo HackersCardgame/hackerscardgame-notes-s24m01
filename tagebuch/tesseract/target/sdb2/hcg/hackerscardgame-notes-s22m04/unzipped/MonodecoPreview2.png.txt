@@ -1,0 +1,11 @@
+0123456789
+ASCDEF GHI J RLMNOPQRS TUVWXYZ
+
+aocdef ghi jkLmnopor stuvwxyz
+po seS Pl USZNA*C)_4+-=4F D123 CH, 7?
+
+main()
+{
+
+printC"hello, world");
+}

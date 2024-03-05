@@ -1,0 +1,18 @@
+Erfinder Jahr
+
+Der Erfinder der Programmiersprache Smalltalk
+benutzte als erster den _ Begriff bjekt
+rientierte Programmierung, Schablonen gibt es
+schon langer, z.B. Gutenberg und die
+Buchstaben seiner Druckmaschinen. Eine Klasse
+(Class) ist eine einzelne Vorlage flr einen
+Teil einer kompletten Software, also 2z.B.
+Name, Adresse, Wohnort, Tel... ware eine
+Vorlage flr eine einzelne in einer
+Adress -Software
+
+Anwendungsfalle
+
+Vereinfachung / Standardisierung durch "vor-
+gedruckte" Vorlagen / (Software-) Schablonen
+

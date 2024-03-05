@@ -1,0 +1,42 @@
+Neuronexus
+Software
+
+1 B1 whisker stimulation s arrel cortex A Wistar P28-P42
+1 9, 17, 25, i
+
+Single-whisker
+up-down stimulus,
+2 ms duration
+
+B 8x16Probe C™
+
+2 B1 barreloid electrical stimulation
+$3
+
+thalamus |
+22}
+23
+
+EXC Cell INH Cell
+
+| | a 7
+fon] Lene
+| | LSA/B F
+
+https://0x8.ch/HackersCardgame_ 2.0
+
+Der Neuronexus 2021 Katalog scheint auch
+Software zu liefern. Wenn jetzt diese
+Software gehackt wird, oder eine
+Seintenband Attacke mit z.B. genug Sende-
+Energie auf A/2 also der halben
+(Wellen-)Lange der Elektroden’ gefahren
+wurde, z.B. mit einem RAGEMASTER (siehe
+Snowden Leaks’ prasentiert von Jacob
+Applebaum) der bist zu l1kW senden kann,
+dann kann man den Besitzer der vier- oder
+zwei-beinigen Laborratte einfach
+ubersteuern. Hat sich da je jemand
+Gedanken zur Sicherheit solcher Dinge
+gemacht?
+

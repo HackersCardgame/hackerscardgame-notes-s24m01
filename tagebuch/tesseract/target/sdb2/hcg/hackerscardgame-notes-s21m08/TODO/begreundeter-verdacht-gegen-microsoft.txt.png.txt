@@ -1,0 +1,65 @@
+Einstellungen
+
+@ Startseite Sicherung
+
+Einstellung suchen.
+
+¥ Sichern und Wiederherstelen (Windows 7)
+
+4 W > Systemsteuerung > System und Sicherhelt > Sichern und Wiederherstllen (Windows 7)
+
+Startseite der Systemsteuerung
+
+© Zeitplan deaktivieren
+© systemabbild erstellen
+
+© systemreparaturdatentrager
+estellen
+
+Fiction Nana!
+
+Siehe auch
+Sicherheit und Wartung
+
+Dateiversionsverlauf
+
+Eigene Dateien sichern oder wiederherstellen
+
+Wiederherstellen
+
+~] Windows-Sicherung: Problembehandlungsoptionen
+
+(x} Sicherung Uberpriifen
+
+Fehler beim Anfordern einer exklusiven Sperre fur die
+EFL-Systempartition (ESP) durch die Windows-Sicherung. Dies kann
+auftreten, wenn Dateien auf der ESP von einer anderen Anwendung
+verwendet werden. Wiederholen Sie den Vorgang.
+
+Details: Zugriff verweigert
+
+@ Sicherung emeut ausfiihren
+
+® Sicherungseinstellungen andern
+
+© Deals ausbenden
+
+‘Sicherungszeit: 08.07.2021 19:55
+Sicherungsort: backup (V:}
+Fehlercode: 0x8078011E
+
+‘Sie konnen die am aktuellen Speicherort gesicherten Dateien
+wiederherstellen,
+
+(Dateien far alle Benutzer wiedetherstellen
+
+Andere Sicherung zum Wiederherstellen von Dateien auswahlen
+
+Se
+
+z
+
+Hilfe anfordern
+
+Feedback senden
+
