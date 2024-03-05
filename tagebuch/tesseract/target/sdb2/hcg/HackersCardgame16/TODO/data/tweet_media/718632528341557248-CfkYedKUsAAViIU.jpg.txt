@@ -1,0 +1,37 @@
+lscatnode: 192.18.1.41; Trafic on interface Broadcom Corporation NetXreme BCMS7S2 Gigabie hermatPCIExprese (3h) _Local node: 192,168.1.40: Traffic on interface Qualcomm Atheros QCASSES / ARSSES Wireless Network Adapter (3h)
+
+30 Kbps 12 Kbps
+10 Kbps
+
+20 Kbps 8kbps
+6 kbps
+
+10 Kbps 4Kbps
+2Kbps
+
+Obps Obps
+
+09.04 01:56
+09.04 04:56,
+09.04 01:56
+09.04 04:56,
+
+Incoming traffic on interface Broadcom Corporation Netxtreme BCMS7S2 Gigabit Ethernet PCI E| Ml Incoming traffic on interface Qualcomm Atheros QCAQSES / AR9S6S Wireless Network Adapter
+Bi Outgoing traffic on interface Broadcom Corporation NetXtreme 8CM5752 Gigabit Ethernet PCIE| fll Outgoing trafic on interface Qualcomm Atheros QCAQS6S / ARGS6S Wireless Network Adapter
+
+Local node: 192.168,1.41: Traffic on interface eth1 (3h) Local node: 192.168.1 40; Traffic on interface Broadcom Corporation NetLink BCMS77E5 Gigabit Ethemet PCle (3h)
+
+10 Mbps. Mbps
+BMbps 6 Mbps
+pene 4Mbps
+4Mbps
+2Mbps 2Mbps
+
+obps obps
+
+g SSSSSESSSTERSSSSSSSSSSSzIIIIISII33 3 g SESSSSSSSSaR SSS SSSSSSsseITISIS3333 3
+last min ag mad
+
+incoming traffic on interface ethl [avg] 1.39Mbps 792.36 Kbps 331 Mbps 835M! Ml Incomingtraffic on interface Broadcom Corporation NetLink 8CMS7785 Gigabit Ethemet PCle
+Outgoing traffic on interface eth [avg] 1.45 Mbps 805.61 Kops. 334Mbps 873M) Bl Outgoing traffic on interface Broadcom Corporation NetLink BCM5S7785 Gigabit Ethemet PCle
+

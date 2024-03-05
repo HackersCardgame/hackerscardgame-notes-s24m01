@@ -1,0 +1,13 @@
+5eite
+
+nen
+
+3 Bus-otrukturen
+3.1 Signalreflexion und Terminierung
+3.2 Multiplexing
+4 Bus als Teil des Computers
+5 Adressierungsverfahren
+5.1 Adressierung in Parallelbussystemen
+5.2 Adressierung in seriellen Bussystemen
+6 Busmastering
+7 Geschichtliche Entwicklung

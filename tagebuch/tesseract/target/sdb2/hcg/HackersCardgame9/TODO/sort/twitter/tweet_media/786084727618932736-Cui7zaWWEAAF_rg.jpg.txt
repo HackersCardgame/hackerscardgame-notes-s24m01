@@ -1,0 +1,16 @@
+. .
+wagon
+
+VUOLS
+
+y
+Elements of Reusable
+Object-Oriented,Software
+Erich Gammat
+Richard Helm
+
+Ralph Johnson
+John Vilissides
+
+Foreword by Grady Booch
+

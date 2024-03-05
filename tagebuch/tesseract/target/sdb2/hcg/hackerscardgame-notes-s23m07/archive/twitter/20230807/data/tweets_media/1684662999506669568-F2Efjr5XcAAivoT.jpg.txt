@@ -1,0 +1,31 @@
+WIKIPEDIA.
+
+Search Wikipedia reate account Log in
+‘The Free Encyclopedia Q Search Create account Log
+
+Thrashing (computer science) 3A 14 languages v
+Contents [hide] Article Talk Read Edit Viewhistory Tools v
+(Top) From Wikipedia, the free encyclopedia
+V Overview
+
+— This article has multiple issues. Please help improve it or discuss these _{hide]
+st ewe issues on the talk page. (Lear how and when to remove these template messages)
+8 @ * This article includes a list of general references, but it lacks sufficient
+
+ee gee corresponding inline citations. (February 2010)
+
+References + This article may require copy editing for grammar, style, cohesion, tone, or
+spelling. (May 2023)
+
+In computer science, thrashing occurs in a system with virtual memory when a computer's real storage resources are
+overcommitted, leading to a constant state of paging and page faults, slowing most application-level processing.'"l This causes the
+performance of the computer to degrade or collapse. The situation can continue indefinitely until either the user closes some running
+applications or the active processes free up additional virtual memory resources.
+
+After completing initialization, most programs operate on a small number of code and data pages compared to the total memory the
+program requires. The pages most frequently accessed at any point are called the working set, which may change over time.
+
+When the working set is not significantly greater than the system's total number of real storage page frames, virtual memory systems
+work most efficiently and an insignificant amount of computing is spent resolving page faults. As the total of the working sets grow,
+resolving page faults remains manageable until the growth reaches a critical point. Then faults go up dramatically and the time spent
+

@@ -1,0 +1,32 @@
+E'DOCTYPE html
+html
+head.
+meta charset="utf-0
+Link rel="stylesheet” type="text/css" href=". /doc/small-style.css" target="_blank
+/head
+body class=center
+bro<br
+hi><font color=tonato>ii ker</font></h
+font colors ink>Jump to position (in Seconds) in any mp3 on the internet with a given URL</font:
+br
+br
+br
+br
+h3><font colorslightblue>" . $ GET[*URL"] . "<font colorswhite> jumping to </font><font colorspink>" . $ GET["t"] ."s</fontm</h
+bro<bro<br
+audio id=\"audio\" controls=! yes
+urce src=" . $ GET[MURL " ><faudio>" ;
+<script
+
+var aud = docum
+
+nt. getELemen tById(\"audio\")
+
+aud.currentTimes* . § GET[*t*
+aud. play ()
+/script
+
+/body:
+/ota
+
+seekTo.php" 58L, 1617C written wa Top

@@ -1,0 +1,4 @@
+‘Stealth.
+\ Whenever you play a 0-Cost card, this
+ains +1 Health. After ths effect
+

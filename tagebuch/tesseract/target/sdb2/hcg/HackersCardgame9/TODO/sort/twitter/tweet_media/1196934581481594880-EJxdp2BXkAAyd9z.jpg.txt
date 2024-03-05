@@ -1,0 +1,35 @@
+Jaro
+Winkler
+
+Dynamo Eg 0.33 094 0.77 0.33
+dynamo 0.33 ea 0.33 © 0.33
+
+yDnamo 098 0.33 Ea 0.58
+
+Dyno 0.77 0.33 0.58 B
+
+Dymamo 0.41 | 025 027 0.47
+
+Dynamo dynamo yDnamo Dyno Dymamo Dinomo
+
+Dinomo 0.33 0.22 025 04
+
+Inventor:
+If they want to make you
+
+eg. by Mail, Twitter or Facebook... there is some
+sort of pattern matching algorithm that then starts
+(distributed over several channels Twitter, Google,
+Facebook, Mail...) making you beleive in that lie.
+Since if your brain gets the same stimulus like the lie
+you initially got, it begins to
+
+and the possibility that i beleive it is bigger.
+
+Here you see an example of an implementation with
+Jaro-Winkler algorithm, the same possibly works also
+with images, speech and videos.
+
+btw: Great visual representation of Jaro Winkler by
+the way!
+

@@ -1,0 +1,10 @@
+PL AGENT Pa AGENT PL AGENT
+HOLD (MANIPULATION BEND-OVER: CHANGE-POSTURE DRAG: MANIPULATION sToP: MALT
+Bag. PATIENT
+
+>
+
+start-frame, end-frame, agent, object, verb, probability, importance, observed
+
+2, 1133, PERSON1, BAG2, “HAUL”, 0.966, 4,0
+

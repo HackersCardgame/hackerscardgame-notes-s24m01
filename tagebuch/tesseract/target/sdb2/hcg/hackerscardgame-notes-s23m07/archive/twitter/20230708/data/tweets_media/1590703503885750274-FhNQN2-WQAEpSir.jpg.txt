@@ -1,0 +1,39 @@
+Simplified Block Diagram of NooElec RTL-SDR
+
+0 | DSP
+protection | Vetabio  Tading =r sbitanc
+1S a Soares
+; i
+
+ar H
+I ny Cosi ; Low Pass Fittor USB H
+~ coupe) Cosine Downsample H
+
+1
+'
+
+I 24 MHz to 1.7 GHz
+i =
+
+'
+
+{cal Osciator i
+Rafael R820T2 ‘yest beste
+patter data |
+
+Receiver
+
+RTL2832U management
+| demodulator
+
+H control [71>
+
+USB to PC
+B-bit IQ
+samples
+
+Plus control
+signals
+
+SB clock =
+48 MHz

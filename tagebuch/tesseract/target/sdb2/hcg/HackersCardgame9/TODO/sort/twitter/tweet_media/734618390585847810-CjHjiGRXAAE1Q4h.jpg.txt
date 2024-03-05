@@ -1,0 +1,12 @@
+Mon ¢
+
+Disk or Device 4.0 GB Drive — USB Mass Storage Device [0500] (/dev/sdc)
+
+Last Benchmarked Mon 23 May 2016 07:30:56 AM CEST (Less than a minute ago)
+Sample Size 10.0 MIB (10,485,760 bytes)
+
+Average Read Rate 18.8 MB/s (100 samples)
+Average Write Rate 5.6 MB/s (100 samples)
+
+Average Access Time 1,09 msec (1000 samples)
+

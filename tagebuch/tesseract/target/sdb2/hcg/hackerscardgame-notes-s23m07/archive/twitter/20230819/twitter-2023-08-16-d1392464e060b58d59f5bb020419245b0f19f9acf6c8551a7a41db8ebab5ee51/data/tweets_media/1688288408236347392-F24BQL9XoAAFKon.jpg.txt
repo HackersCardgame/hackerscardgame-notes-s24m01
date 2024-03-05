@@ -1,0 +1,73 @@
+Seeing 9, remembering C: Ilusions in short-term memory
+Mane Oten, Arik. Se, Yar Pato
+
+Abstract
+Introduction
+Experiment 1
+Experiment2
+Experiment
+
+Experime
+
+Resuts
+General discussion
+Supporting informatio
+
+References
+
+Reader Comments.
+Figures
+
+© Accessible Data
+
+‘This article includes
+the Accessible Data
+icon, an experimental
+feature to encourage
+data sharing and
+reuse. Find out how
+research articles
+
+one
+
+‘weaker, and more prone o errors, and thus usions. Moreover, wil also make i more Ikely
+thatthe representation ofthe pseudo tt weakens (through decay or interference) compared
+to the strongly diferentated real letter representatons, thus making pseudoetters more prone
+to eros andilusory memories overtime and interference. However, our findings clearly show
+that pseudo ete targets do not simply lead to weaker memory traces. If that were the case,
+patticants remembering a pseudoetter target (or more accurately, participant easily
+forgetting a weakly estabished representation of a pseudo ‘ete target) should be selecting a
+items in the probe display with equal probably, asthe representation ofthe target has been
+lost This should result in similar rats of errors (Selecting probe items that are nol the target, oF
+a mirrored version of the target) and ilusions (selecting the mirored version ofthe target), Our
+results show that this is nat the case: lusory memories are much more common than other
+errors when te target was a pseudo letter. Moreover, the incidence of expectation induced
+ilsory memories increases asthe memory trace weakens, and this not or rather, much
+less) the case for other errs
+
+Athough predictive processing provides a comfortable framework with which to account for our
+results regarding STM, we recagnize that there is already a vast iterature about the theoretical
+foundations of false memary in LTM. For example, one explanation forthe occurrence of
+itusions in LTM comes fom [7]. FTT states that memory consists of two
+pats, a verbatim pat, representing the exact memory input, and a gist part, representing the
+meaning ofthe input, based on a semantic analyss. Could FTT also explain the current
+findings in STM? itis possible that the verbatim representation ofthe visual inputs the physical
+seudo-leter, and tha the high-level gist that is sored is something ike “eter and ‘mitrored”
+‘with such a representation, itis possible tha thelr’ gist is stronger than the “mirored” gs
+thus surviving longer. However, FTT predicts that high simianty between a target and is
+rictored counterpat should init false memories [4}. Ths isnot consistent withthe current
+‘data: The mirrored counterpart (he rea ltr) and the target (the pseudolete) are extremely
+simular, yet false memories ae abundant. Therefore, seems that FTT cannot accurately
+account or the occurrence of tis type of momoy lusions in STM. In contrast to FTT, which
+suggests that memory ilusions are the result of high-level semantic analysis, thus seems
+
+‘hat, atleast for memory ilusions in STM, very basic perceptual expectations can directly
+shape memory representations, Thereore, based on these considerations we argue that FTT
+‘cannot entirely explain the current findings.
+
+FTT does suggest that pseudo-oters have a verbal the eter iso) and agit level
+(Cmirored representation, while real lees can be stored purely atthe verbal level, This
+‘Would mean that verbal rehearsal is moc elective o store a complete representation of real
+lees in working memory, but nol for pseudoJetters. Removing verbal rehearsal asa strategy,
+for example trough articulatory suppression, would therefore impact the storage ofthe verbal
+

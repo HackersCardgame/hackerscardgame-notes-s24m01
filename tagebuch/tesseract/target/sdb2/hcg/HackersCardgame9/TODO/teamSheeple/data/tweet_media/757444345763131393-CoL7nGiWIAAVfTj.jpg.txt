@@ -1,0 +1,36 @@
+mkdir my_decks
+ooniresources --update-inputs --update-geoip
+oonideckgen -o my decks/
+
+#fuer die SCHWEIZ -> CH (Landercode)
+(crontab -l 2>/dev/null ; echo @daily /usr/local/bin/ooniprobe -i ~/my_decks/deck-ch/default-user.deck) | crontab -
+
+echo “http: //www.marclandolt.ch" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+echo “http://www.marclandolt.ch/ml_buzzernet™ >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+echo “http://marclandolt.ch" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+
+echo “http://marclandolt.ch/ml_buzzernet™ >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+echo “http://www. ignored.ch" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+
+echo “http://www. ignored.ch/ml_buzzernet®™ >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+
+echo “http://www. google. com/patents/US4877027" >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+echo “http: //www.google.com/patents/US6169924" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+
+echo “http: //www.google.com/patents/W02005055579A1" >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+echo “http://www. google. com/patents/W02005055579A1?cl=en" >> /root/my decks/deck-ch/citizenlab-urls-global. txt
+
+echo “http://marclandolt.ch/ml_buzzernet/2015/10/16/zusammentassung-von-pinkibrain/" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+echo "http: //marclandolt .ch/ml_buzzernet/2015/07/30/mental-operating-system-v1-0-0/" >> /root/my_decks/deck-ch/citizenlab-urls-global. txt
+echo “http: //neuronexus .com/images/NeurollexusCatalog.pdf" >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+echo “https://en.wikipedia.org/wiki/Jos%*C3%A9 Manuel Rodriguez Delgado" >> /root/my_decks/deck-ch/citizenlab-urls-global.txt
+
+#ooniresources --update-inputs --update-geoip
+#oonideckgen -o my decks/
+
+/usr/local/bin/ooniprobe -i ~/my_decks/deck-ch/default-user.deck

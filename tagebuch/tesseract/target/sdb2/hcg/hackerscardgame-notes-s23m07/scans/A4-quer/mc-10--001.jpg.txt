@@ -1,0 +1,72 @@
+Flipflop per
+Tasterdruck
+
+Eine Schaltung, die jeweils auf Tasten-
+druck zwischen zwei Zustanden wech-
+selt, nennt man ,,Flipflop”. Solche Flip-
+flops sind in der Computertechnik
+unverzichtbar.
+
+SO GEHT'S
+
+Nach dem Einschaltten Leuchtet eine der
+beiden LEDs.
+
+cniee Gie fine Lr ericre ierzeaen-
+
+oe
+ane ceaan Sieee eee
+
+linken Taster. Die griine ertischt, dafiir
+
+——
+
+Leuchtet zuerst die gelbe LED, driicke den
+rechten Taster: Das Licht wechselt von
+gelb zu griin. Durch abwechselndes
+Driicken der Taster kannst du zwischen
+den LEDs hin und her schatten.
+
+ete
+sta 3? fe
+Pigs o°
+De see
+ose “fhe 230
+ee? *e6
+ee ee
+e@ e ae & % Co
+ees ° Ro .
+as Wain
+ee we
+* ".. °
+84 oe ye
+
+?
+
+WAS PASSIERT
+
+Die Transistoren wirken gegenseitig aufeinander ein: Sperrt
+der eine, Gffnet er damit den anderen, und umgekehrt. Die
+Schaltung hat also zwei stabile Zustande — angezeigt durch
+
+die jeweilige LED. Durch ,Zwangssperren“, namlich Taster-
+druck, kannst du diese Zustande verdndern.
+
+Hier war eine Einschussloch. Gemass Schweizer Rechts-
+sprechung ware das eine Drohung (StGB 180) => Ich hab
+das Einschussloch mal entfernt, etwas was eiige
+WhiteHat Hacker tun
+
+Hier wiirde es eigentlich sinnvollerweise stat
+Einschussloch weitergehen mit:
+
+* vom FlipFlop zum Schieberegister
+
+* yom Schieberegister zu CPU Register
+
+* vom CPU Register zur ALU (Arithmetische Logische Einheit)
+* vom der ALU zum Microcode
+
+* vom Micorcode z.B. auch auf zB. das C64 Mainboard
+
+*und vom Microcode dann auch zu Assembler

@@ -1,0 +1,25 @@
+Disciplines
+Business Modeling
+Requirements
+Analysis & Design
+
+Implementation
+Test
+
+Deployment
+Configuration
+‘& Change Mgmt
+Project Management
+Environment,
+
+Phases
+
+Inception
+
+Elaboration Construction | Transition
+
+Initial
+
+[Bab #1) | eb 2)
+
+Iterations

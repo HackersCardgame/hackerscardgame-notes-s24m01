@@ -1,0 +1,28 @@
+H20: 100L
+CO2: 2?kg
+
+Fleisch
+H20: 2250L
+
+CO2: ??kg
+
+W: ??kW
+
+Fossil: ?7kW
+
+10g
+
+Brotchen
+
+H20: 35L
+
+10g
+
+Ketchup
+
+H20: 1L
+CO2: ??kg
+W: ?2kW
+Fossil: ?2kW
+10g
+

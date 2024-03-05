@@ -1,0 +1,90 @@
+2 of 7 |
+
+| ane EXIT
+
+_64; rv:102.0) Gecko/20100101
+
+User-Agent: Mozilla/5.0 (X11; Linu
+Thunderbird/102.3.3 i |
+From: "Marc jr. Landolt" <mail@marclandolt . ch>
+Subject: EXIT | i
+To: "claudine. bLum@ksa. ch" <claudine.blum@ksa.ch>,
+echristian.tanner@fedpol.a min.ch>, Stefan Ott <stefan@ott.net>, Blyzniuk
+
+Bohdan <Bohdan . Blyzniuk@pdag . ch>
+References: cpadc9cBdaald4beaBbdead6cet721342@infsge1303. health .root. Loc
+
+<c0885969 -77d6-d2aa-e3f9-58dbf8 3a286@marclandolt.ch>
+
+<b1b864403dat48beb6462eef 182323 b@infsge1303.health. root. loc>
+
+<7701916 -c2d2-7fb6-d8a3 -a87e83 26d46@marclandolt.ch>
+
+Content-Language: en-US
+
+Disposition-Notification-To: "Mare jr. Landolt" <mail@marclandolt.ch>
+In-Reply-To: <770f1916-c2d2-7fb6-d8a3-a 7e83026d46@marclandolt.ch>
+X-Proofpoint -ORIG-GUID: rhYPZsYS ane -W5yXlaGK2wm4z26
+X-Proofpoint-GUID: rhYPZsYSlaj cKYEa-W5y aGK2wm4z26
+X-Proofpoint-SPF-Result: pass
+X-Proofpoint -Virus-Version: vendor=fsec
+ee eong2022- 12-07 08:2022-a007,
+X-Proofpoint-Virus-Status: clea |
+X-Proofpoint -Spam-Details: rule=n tspam policy=default score=0 adultscore=0 mlxlogscore=999
+suspectscore=0 malwarescore=0 hishscore=0 bulkscore=0 mlxscore=0
+spamscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+engine=8.12.0-2210170000 detinttions-nin-2212070145
+Return-Path: mail@marclandolt.ch
+
+re engine=2.50.10434:6.0.545,18.0.923
+22-12-07 signatures=0
+
+N
+
+al
+
+Reporting-MTA: dns;$c005568.ksaintra. ch
+Received-From-MTA: Soo mad L. swill ae cae
+Arrival-Date: Wed, 7 Dec 2022 16:45:08 +0000
+Final-Recipient: -tepz2.claudislliuelta ch
+Action: failed I
+Status: 5.7.129 I | |
+Diagnostic-Code: smtp;550 5.7.129 RESOLVER.RST.RestrictedToRecipientsPermission; not authorized
+to send to recipient because | isn't on the recipient's list of senders to accept mail
+from |
+
+X-Display-Name: claudine.blumekse. ch
+
+|
+
+steens ForwardedMessage.eml — | eee nner een ene en
+
+|
+Subject: EXIT |
+From: "Marc jr. Landolt" <f ail@marclandolt.ch>
+Date: 12/7/22, 17:45 |
+To: "claudine.blum@ksa.c " <claudine.blum@ksa.ch>,
+<christian.tanner@fedpol.admin.ch>, Stefan Ott <stefan@ott.net>, "Blyzniuk Bohdan"
+<Bohdan.Blyzniuk@pdag.ch:
+Received: from 5c005568,ksaintfa.ch (10.137.241.38) by 5c005568.ksaintra.ch
+(10.137.241.38) with Microsoft SMTP Server (version=TLS1_2,
+cipher=TLS_ECDHE_RSA WITH AES_128_CBC_SHA256_P256) id 15.1.2507.16; Wed, 7
+Dec 2022 17:45:08 +0100 |
+Received: from mail.swis com.com (138.188.176.137) by 5c005568.ksaintra.ch
+(10.137.241.38) with Microsoft S ATP Server (version=TLS1_2,
+cipher=TLS_ECDHE_RSA_WITH_At S_128_CBC_SHA256_P256) id 15.1.2507.16 via
+Frontend Transport; Wed, 7 Dec 2022 17:45:08 +0100
+Received: from mail.swiss -9m.com (mail3.swisscom.com [138.188.176.200]) by
+custmail4.sharedit.ch (Sentrion- [TA-4.5.7/Sentrion-MTA-4.5.7) with ESMTPS id
+2B7Gj8XD021007 (using L | v1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256
+‘bits) verified NO) for <clau ine.blum@ksa.ch>; Wed, 7 Dec 2022 17:45:08 +0100
+Received: from pps.filter 59007452.sharedit.ch [127.0.0.1]) by
+sg007452.sharedit.ch (8.16, 1.2/8,16.1.2) with SMTP id 2B7GgcVZ032858 for
+
+~claudine .blum@ksa.ch>} Wed, 7 Dec 2022 17:45:08 +0100
+
+| |
+
+12/7/22, 17:5
+
+a

@@ -1,0 +1,65 @@
+a
+
+ichatterers
+
+chattering
+
+ichatters
+
+ichattier
+
+ichattiest
+
+Ichattily
+
+ichattiness
+
+ichattiness's
+
+chatting
+
+chatty
+
+ichitchat
+
+ichitchat's
+
+ichitchats
+
+ichitchatted
+
+Ichitchatting
+
+leschatology
+
+inarc@debian: /usr/share/dict$ cat words |grep -i triarchat
+jmarc@debian: /usr/share/dict$ cat ngerman |grep -i archat
+Patriarchat
+
+Patriarchats
+
+inarc@debian: /usr/share/dict$ cat ngerman |grep -Pi ".*triarchat"
+Patriarchat
+
+Patriarchats
+
+Inarc@debian: /usr/share/dict$ fj
+
+marc@debian: /usr/share/dict
+
+Nicht gesendete Tweets
+
+haft, aber ich hatte mal drauf geratet,
+als auch das #Patriarchat mit
+
+AgESEgeEsgEgEro gemacht habe ...
+
+it noch im Dict von #Linux
+“triarchat" [siehe #REGEX] ist
+iss ich weder der einen noch
+
+dass sie Dachschaden
+riarchat"
+
+da fehlt Eins
+

@@ -1,0 +1,24 @@
+hittps://isbgpsafeyet.com
+
+Is BGP safe yet? No.
+
+Border Gateway Protocol (BGP) is the postal service of the Internet. It’s
+responsible for looking at all of the available paths that data could travel and
+picking the best route.
+
+Unfortunately, it isn’t secure, and there have been some major Internet
+disruptions as a result. But fortunately there is a way to make it secure.
+
+ISPs and other major Internet players (Comcast, Sprint, Verizon, and others)
+would need to implement a certification system, called RPKI.
+
+Test your ISP Read FAQ
+FAILURE
+
+Your ISP (Liberty Global, AS6830) does not implement BGP safely.
+It should be using RPKI to protect the Internet from BGP hijacks.
+Tweet this >
+
+> Details
+
+“Or

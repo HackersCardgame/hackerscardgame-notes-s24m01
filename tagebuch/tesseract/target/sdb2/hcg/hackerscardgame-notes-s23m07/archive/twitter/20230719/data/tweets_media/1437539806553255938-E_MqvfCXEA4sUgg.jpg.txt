@@ -1,0 +1,60 @@
+Pi | HY Ste | Gem | ee | i | i |W Rev | Mi | GM! | OM! | |G Oi | w Poy |G poe | w Nor |B Zk | O vor | eM ee | J Ra | w Hor |@ two | @ m2] S der |G we |S on |
+
+© > © sting de gthbistboot-eappenda:-t?-operatorhin Dx
+sept @) Uirseamerisen fe De been Feu W So a UL eon WA ae Dow x
+s2Asblomnelstunttonsiatme =F Die Programmierspra Bo
+tesgeiebener ntlung erstellen
+
+‘25, ux umgebungevariblen
+
+arbeten
+
+126. Fetlermetdungen ne Anhang B: Operatoren und Symbole
+
+Standardfelerausgabeanstatt der
+
+Seniacdnceete ep Dieser Anhang enthalt ein Glossar der Rust Syntax, einschlieBlch Operatoren und anderer Symbole,
+
+13, Funktonalesprachelemente dle allein oder im Zusammenhang mit Pfaden, generischen Datentypen (generics),
+Itoren end renkionatcse Merkmalsabgrenzungen (trait bounds), Makros, tributen, Kommentaren, Tupeln und Klammern
+(eosures) aufreten,
+
+13.1. Funkvonsabschusse (closures:
+
+‘Anonyme Funktionen de hee
+
+‘Umgebungerfassen konnen Operatoren
+
+482. €ine Rene von Elementen
+
+verarbetten mi teratoren Tabelle 8-1 enthalt die Operatoren in Rust, ein Beisplel, wie der Operator im Kontexterschelnen
+
+TS Une eanaaieraem ‘Orde, eine kurze Erklarung und ob deser Operator MESA werden kann, Wenn ein Operator
+werden kann wird das celevante Merkmal alt) aufgefdhe, mit dem dieser Operator
+
+413.4, Perormanaverslech Sehefen werden kann,
+
+Ober Cargo und Cratesio « ‘abate 1 operateren >
+
+441, eaworgang anpassen mit
+
+Fretgabeprofilen (release profiles) orersten Bie Deseeate
+14.2. Kisten (crate) auf crates.io nt
+oben a Makro-Expansion
+ee Saones 200}
+2 Carer erveipertite : Bitweises oder logisches
+“WA. Kommandocelermertzeuge exo once we
+eee 1s var 12 expr ‘Vergleich auf Ungleichheit Parttateg
+Seen * expe % expe ArthmetscherRestbetag ten
+ete ervetem ArthmeuscherRestbetrag und
+re wae = expe wee femtsssgn
+15. inteligente Zeiger %.
+15.1, Mit Box<T> auf Daten im & pase Ausleihe
+aldenspeicner zee taut oor
+135.2. ttigente Zeiger we normale eeype,
+fefeenzendenandeln mt der # Coa Ausleh-Referen.Typ
+Mertens am Deret ws ey
+
+482. Prorammcode beim
+Aufeaumen austen mitdem . expr & expr Bitweises UND Bitand
+

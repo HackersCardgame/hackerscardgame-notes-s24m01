@@ -1,0 +1,13 @@
+File: Untitled Document 1 Page 1 of 1
+
+Thomas J, [1/24/23 4:03 PM]
+
+Mach mal auf deinem TOR-Node
+
+ip addr add dev eth® 2a02:aa10:237f: 7600: :23/64 preferred_lft 3620 scope global
+und schau, ob du die IP pingen kannst.
+
+Thomas J, [1/24/23 4:03 PM]
+Eth® und Prefix bei Bedarf anpassen
+
+E90 1s 9 tA

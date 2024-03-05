@@ -1,0 +1,17 @@
+The new study allowed a glimpse into the internal processes of diffusion
+‘models, the researchers concluded, noting that they provided a quantitative
+Interpretation of the model from a biological point of view for the first time,
+
+Researchers at the Graduate School of Frontier Biosciences at Osaka University
+said they frst predicted a latent representation, which is a model of image data,
+based on fMRI signals. The model was then processed and the noise was added
+tot using a diffusion process. Finally, the researchers deciphered the text
+Images from the fMRI signals in the higher visual cortex of the brain and used
+‘them as input to create the final constructed image.
+
+Noise Level = Low
+
+Ble
+
+Noise Level
+

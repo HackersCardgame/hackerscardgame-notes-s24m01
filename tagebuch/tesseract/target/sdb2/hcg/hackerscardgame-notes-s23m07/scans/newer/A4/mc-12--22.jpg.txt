@@ -1,0 +1,66 @@
+Logauszug zum Versand der betroffenen Nachricht:
+
+2023-06-18T19:18:48.831+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:18:48 1qAw35-9@@JUH-Kp => info@fedpol.admin.ch R=smtp_router
+T=remote_smtp_dane H=mailgate2.admin.ch [162.23.32.32]
+X=TLS1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=yes C="250 2.0.0 Ok: queued as
+AQkfkc4PVHZ2FLOXR" QT=1s
+
+2023-06-18T19:18:48.831+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:18:48 1qAw35-@@QJUH-Kp -> christian.tanner@fedpol.admin.ch
+R=smtp_router T=remote_smtp_dane H=mailgate2.admin.ch [162.23.32.32]
+X=TLS1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=yes C="25@ 2.0.0 Ok: queued as
+4Qkfkc4PVHzZ2FLOXR" QT=15s
+
+2023-06-18T19:18:51.593+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:18:51 1qAw35-@@@JUH-Kp => stefan@ott.net R=smtp_router
+T=remote_smtp_dane H=mail.ott.net [2001:1620:2092:1::13:1]
+X=TLS1.3:TLS_AES_ 256 GCM _SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 584324801023" QT=3s
+
+2023-06-18T19:18:55.815+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:18:55 1qAw35-@@QJUH-Kp => admin.technik@fhnw.ch R=smtp_router
+T=remote_smtp_dane H=mxnral11.fhnw.ch [147.86.3.32]
+
+X=TLS1.2: ECDHE-RSA-AES256-GCM-SHA384:256 CV=yes C="250@ 2.0.0 Ok: queued as
+5@C@F1EG099" QT=8s
+
+2023-@6-18T19:18:55.815+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:18:55 1qAw35-@@QJUH-Kp -> christoph.denzler@fhnw.ch R=smtp_router
+T=remote_smtp_dane H=mxnral11.fhnw.ch [147.86.3.32]
+
+X=TLS1. 2: ECDHE - RSA-AES256-GCM-SHA384:256 CV=yes C="250 2.0.0 Ok: queued as
+5@C@F1EG899" QT=8s
+
+2023-06-18T19:19:03.694+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:03 1qAw35-QQQJUH-Kp => advicum@me.com R=smtp_router
+T=remote_smtp_dane H=mx@2.mail.icloud.com [17.57.156. 30]
+X=TLS1.3:TLS_AES_256_GCM_SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 7AA2@240077" QT=15s
+
+2023-06-18T19:19:06.753+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:06 1qAw35-@@QJUH-Kp => alexander@zschokke.net R=smtp_router
+T=remote_smtp_dane H=mon.imoni.ch [2001:1680:101:427::1]
+X=TLS1.3:TLS_AES_256_GCM_SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 69463202EA" QT=18s
+
+2023-06-18T19:19:13.265+02:0@ mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:13 1qAw35-@@@JUH-Kp => ermittlungen.piboppard@polizei.rlp.de
+<Ermittlungen.PIBoppard@polizei.rlp.de> R=smtp_router T=remote_smtp_dane
+H=m1di@e@1in.rlp.de [83.243.48.77] X=TLS1.3:TLS_AES_ 256 _GCM_SHA384:256 CV=yes K
+C="25@ 2.0.0 Ok: 2164854 bytes queued as 16F6EC@D96" QT=25s
+2023-06-18T19:19:18.232+02:00 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:18 1qAw35-@@0JUH-Kp => info-bildungdpts@pukzh.ch R=smtp_router
+T=remote_smtp_dane H=pukzh2.cleanmail.ch [195.141.89.98] 7
+X=TLS1.3:TLS_AES_256_GCM_SHA384:256 CV=yes K C="25@ 2.0.0 Ok: 2164854 bytes
+queued as 4Qkf185zjbzlq6nH" QT=3@s
+
+2023-@6-18T19:19:18.232+02:60 mxout@17.mail.hostpoint.ch exim-mxout[74914]:
+2023-06-18 19:19:18 1qAw35-@@@JUH-Kp -> info-medizin@pukzh.ch R=smtp_ router
+T=remote_smtp_dane H=pukzh2.cleanmail.ch [195.141.89.98]
+
+X=TLS1.3:TLS_AES 256 _GCM_SHA384:256 CV=yes K C="250 2.0.0 Ok: 2164854 bytes
+queued as 4Qkf185zjbzlq6nH" QT=30s
+
+2023-06-18T19:19:18.232+02:00 mxout@17.mail.hostpoint. ch exim-mxout[74914]:
+2023-06-18 19:19:18 1qAw35-@@@JUH-Kp -> info-pflege@pukzh.ch R=smtp_router

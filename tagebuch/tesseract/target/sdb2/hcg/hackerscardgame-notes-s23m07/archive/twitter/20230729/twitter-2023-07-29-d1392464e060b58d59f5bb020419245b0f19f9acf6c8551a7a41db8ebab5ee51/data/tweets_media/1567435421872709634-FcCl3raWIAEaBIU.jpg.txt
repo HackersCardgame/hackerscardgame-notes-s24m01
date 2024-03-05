@@ -1,0 +1,32 @@
+4 Modulatorische Neurostimulation — Epilepsie und Schmerz
+
+10mvl 0,15nA
+
+K*-Stréme KCNQ2*/*
+zB RMP
+~~ -80mV.
+{KCNOUN) KCNQ2*!-
+uu RMP
+-80mV
+
+schneller
+Na*-Strom
+
+RMP tems,
+-80mV
+100ms
+z.B. persistierende 20mV
+
+a Na*-Stréme b
+
+epileptische Aktivitat
+
+0 1. 2 3 4 6 7 9 10
+c Simulationsartefakt Zeit [5]
+Hier schiage ih selber* meinen
+Kopf an die Wand oder den Boden
+Immer etwa hier hére ich Pfistrerer,
+Urs und Astrid B mit Morddrohungen, Messerdrohungen,
+AmoklaufDrohungen etc.
+
+Also die induzierte Epilepsie ware fur Operante Konditionierung gedacht

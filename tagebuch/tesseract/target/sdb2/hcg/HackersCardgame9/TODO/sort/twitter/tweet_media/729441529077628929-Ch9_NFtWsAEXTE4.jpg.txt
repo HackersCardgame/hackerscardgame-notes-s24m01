@@ -1,0 +1,17 @@
+apt-get update
+apt-get upgrade
+apt-get install torsocks apt-transport-tor
+my /etc/apt/sources.list /etc/apt/sources. list .bak$(date +%y%m%d'sH'M%S,
+echo “
+deb tor+http: //vwakviie2ienjx6t.onion/debian/ $(lsb_release -c -s) main contrib
+deb tor+http: //earthqfvaeuv5bla.onion/debian/ $(lsb_release -c -s) main contrib
+*“ >> /etc/apt/sources. list
+else
+
+echo Benutzer das Tor-Netzwerk nicht
+
+echo Not using Tor-Network
+fi
+
+echo
+Pe

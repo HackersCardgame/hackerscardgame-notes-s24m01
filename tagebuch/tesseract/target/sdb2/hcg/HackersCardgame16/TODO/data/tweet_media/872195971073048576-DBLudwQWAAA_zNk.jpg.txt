@@ -1,0 +1,34 @@
+Gyrophone: Recognizing Spi
+
+Yan Michalevsky Dan Boneh
+Computer Science Department
+
+Stanford University
+
+Abstract
+
+We show that the MEMS gyroscopes found on mod-
+ern smart phones are sufficiently sensitive to measure
+acoustic signals in the vicinity of the phone. The re-
+sulting signals contain only very low-frequency infor-
+mation (<200Hz). Nevertheless we show, using signal
+processing and machine learning, that this information is
+sufficient to identify speaker information and even parse
+speech. Since iOS and Android require no special per-
+missions to access the gyro, our results show that apps
+and active web content that cannot access the micro-
+phone can nevertheless eavesdrop on speech in the vicin-
+ity of the phone.
+
+1 Introduction
+
+Modern smartphones and mobile devices have many sen-
+sors that enable rich user experience. Being generally
+put to good use, they can sometimes unintentionally ex-
+pose information the user does not want to share. While
+the privacy risks associated with some sensors like a mi-
+crophone (eavesdropping), camera or GPS (tracking) are
+obvious and well understood, some of the risks remained
+under the radar for users and application developers. In
+particular, access to motion sensors such as gyroscope
+and accelerometer is unmitigated by mobile operating

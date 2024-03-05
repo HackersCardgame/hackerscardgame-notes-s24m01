@@ -1,0 +1,48 @@
+Pack] that makes
+
+2023-08-02 05:50:
+
+re-installed
+
+2023-08-02 05:50:
+
+ERROR_NOT_FOUND]
+
+2023-08-02 05:50:
+2023-08-02 05:50:
+
+it not superseded
+
+33,
+33,
+
+33,
+25)
+
+Info
+
+ces
+
+ces
+
+ces
+ces
+
+Missing Current State value for package
+
+Failed
+
+to get visibility for package:
+
+: Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, force absent so a’
+
+Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1 [HRESULT = 0x80070490
+
+to load package: MilerosotlOneCore=DinectXx=Database -FOD-Package~31bf3856ad364e35~amd64~~10.@.22621.1 [HRESULT
+
+to read manifest content.
+
+@x80070002 - ERROR FILE NOT_FOUND]
+
+= @x80070002 - ERROR FILE |
+

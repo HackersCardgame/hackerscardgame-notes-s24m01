@@ -1,0 +1,62 @@
+WIKIPEDIA.
+Die frele Enzyklopadie
+Haupiseite
+
+‘Themenportale
+Zufelliger Artikel
+
+Mitmachen
+
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+
+Hilfe
+
+Letzte Anderungen
+Kontakt
+
+Spenden
+
+Werkzeuge
+Links auf diese Seite
+
+Anderungen an
+verlinkten Seiten
+
+Spezialseiten
+Permanenter Link
+
+Nicht angemeldet Diskussionsseite Beitrage Benutzerkonto erstellen Anmelden
+
+ikipedia durchsuc
+
+Artikel Diskussion Lesen Bearbeiten Quelitext bearbeiten _Versionsgeschichte
+
+Endlicher Automat
+
+Ein endlicher Automat (EA, auch Zustandsmaschine, Zustandsautomat; englisch finite state
+machine, FSM) ist ein Modell eines Verhaltens, bestehend aus Zustanden, Zustandsubergéngen und Zustand
+Aktionen. Ein Automat heit endlich, wenn die Menge der Zustdinde, die er annehmen kann (spater S
+genannt), endlich ist. Ein endlicher Automat ist ein Speziaifall aus der Menge der Automaten
+
+Ein Zustand kann Information Uber die Vergangenheit beinhalten, da das System ihn ja auf dessen ‘Zustandstbergana
+bisherigem Weg erreicht hat, d. h., er reflektiert in gewissem Umfang die Anderungen der Eingabe seit
+
+dem Systemstart bis zum aktuellen Zeitpunkt. sehipben
+
+Ein Zustandsubergang ist ein Ubergang aus dem aktuellen Zustand in einen neuen (anderen) Zustand. Weddle
+jedingung fur den
+Zu diesem Ubergang kommt es, wenn die angegebenen logischen Bedingungen/,Eingaben* vorliegen, Zustandsubergang
+
+die erfullt sein massen, um den Ubergang zu erméglichen.
+
+Eine Aktion ist die Ausgabe" des EA, die in einer bestimmten Situation erfolgt. Es gibt vier Typen von
+Aktionen: Eingangsaktion
+
++ Eingangsaktion: Die Aktion wird ausgefuhrvausgegeben beim Eintrefen in einen Zustand (egal Uber prpigung 1: Beispiel eines EA, der ©
+welchen Zustandsibergang der Zustand erreicht wurde, falls es mehrere gibt). eine Tur beschreibt
+‘* Ausgangsaktion: Die Aktion wird beim Verlassen eines Zustandes generiert (egal Uber welchen
+
+Zustandsubergang der Zustand verlassen wird).
+

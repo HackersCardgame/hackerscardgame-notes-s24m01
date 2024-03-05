@@ -1,0 +1,35 @@
+File Edt _V
+
+h java.awt.Color;
+java. awt.Font;
+java. awt. Graphics,
+javax. swing. JFrame;
+
+Search Terminal i ale)
+
+public class HyFrame extends JFrame {
+public void paint (Graphics g) {
+super.paint (g);
+int n= 8;
+
+g.setFont (new Font( Dialog’, Font.PLAIN, 18);
+g.setColor(Color.BLUE) ;
+g.drawString("Yay, Schachbrett mit Onliner:", 20,60);
+
+Q.drawString("if ((i + j) % 2 == 6)", 20,85);
+g.setColor(Color.RED) ;
+j/zuerst die weise Quadrate, die in der ersten Spalte beginnen
+
+for (int iso; i<n; i++)
+for (int j=0; jen; j++)
+if (i+ j) %2 == 0) g.fillRect(40+j*40, 100+i*40, 40,40);
+
+}
+
+public static void main(String[] args) {
+IFrame frame = new HyFrame();
+Frame, setSize (100,405);
+/frane..setDefaul tClosedperation WindowConstants.EXIT_ON_CLOSE
+frame, setVisible((ruc);
+
+syntax on wa all

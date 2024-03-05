@@ -1,0 +1,7 @@
+marc@kalai:~/Daten.2015$ cat satan.sh
+#/bin/bash
+xdg-open https: //www. youtube. com/watch?v=f8N1F5soEll#t=83m7.4s
+
+for i in $(seq 1 2); do sleep 4.5 && xdotool key F5; done
+
+015$ rm -rf satan.sh | |

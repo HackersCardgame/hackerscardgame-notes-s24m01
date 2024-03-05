@@ -1,0 +1,132 @@
+File: /home/marc/hackerscardgame-no...23/mai/kurzzeit-vergessnis .txPage 1 of 6
+
+File: /home/marc/hackerscardgame-no...23/mai/kurzzeit-vergessnis txPage 2 of 6
+
+Mein Stuss Senf Gelaber zu: https: //minkorrekt .de/mi249-gefuehlte-kompetenz/
+#comment- 151041
+
+Hallo Nicholas und Daniel
+
+@ Daniel: die Registerkarte mit dieser Studie ist bei mir im Browser jetzt seit 3 Wochen
+offen, weil mir deucht auch dass da etwas merkwiirdig ist. Dann mach vielleicht auch mal
+einen Autisten-Test online. Autisten kénnen ja schlecht liigen und als Autist wie der
+Julian Assange wird man dann auch mit hohrer Wahrscheinlichkeit zu einer Petze oder einem
+Whistleblower werden. Aber da musst Du Dir wegen dem Test online keine Sorgen machen, das
+wiisste der NSA sowieso schon.
+
+@ Robert: Lass Dir den gescrambelten Text mal von Sprach-Synthese vorlesen. Das erkennt
+man dann nicht, weshalb?
+
+Ich hab das auch nicht studiert. Ich habe eine Schizophrenie-Erkrankung und diese zwingt
+mich genauer mit meinen Denkprozessen auseinander zu setzen. Mir hat es eigentlich sehr
+geholfen mal noch den Coursera Kurs zu Machine-Learning [1] zu machen um mein Gehirn
+selber Zu verstehen. Oft zwingt einem eine Schizophrenie-Erkrankung auch dazu Meta-
+Kognitive Fahigkeiten zu erwerben damit man sich besser stabil halten kann.
+
+[1] https://ww.coursera.org/learn/ machine-learning
+
+Aber zum Thema "Kurzzeit-Vergessnis": Mein Gehirn sagt “die Studie ist falsch oder zu
+indifferenziert." oder mindestens das Test-Setting.
+(und ja ich hab die ganze Studie sogar mehrfach gelesen)
+
+Schlussendlich um wirklich genaueres sagen zu kénnen miisste man aber das Experiment mit
+sich selber machen, vielleicht bekommt man die Files fiir das Mathlab Psychophysics Toolbox
+irgendwo von denen die die Studie gemacht haben.
+
+Jeder hat sein eigenes Weltbild, seine eigenen Worter, Abkiirzungen oder eine Art “Gehirn-
+Stenographie" um Dinge abzubilden. Bei Menschen mit Autismus oder Schizophrenie sind das
+vielleicht andere als bei den sogenannt neurotypischen Menschen.
+
+Ich hatte mit 6 meinen ersten C64 und tendiere extrem dazu mein Gehirn mit einem Computer
+bzw. einer CPU zu vergleichen. zB das was sie in der Studie mit der "Fuzzy Trace Theory"
+sagen wiirde ich aus meiner Informatiker-Perspektive als "Named Entity" bezeichnen, was man
+in Natural Language Processing verwendet.
+
+“perception shapes reality" sagt der Arne Vogelgesang in seinem geilen CCC Talk [1] aber
+diese Studie sagt ja eher "Weltverstandnis shapes memory", somit ware es naheliegend
+anzunehmen, dass ein Gehirn ahnlich funktioniert wie ein Computer welches bereits
+vorhandene Datenobjekte nur referenziert. Also so wie eine Pointer in C/C++ *int pl. Sie
+nennen das in der Studie eben "Fuzzy Trace Theory", aber mein Informatiker Gehirn kann mit
+C/C++ Pointern mehr anfangen.
+
+[1] https://media.ccc.de/v/rc3-11500 -this_is not_a_game_de
+
+p2: Der Joscha Bach sagt in Alternativlos 42 [2], dass wir Menschen "generische Funktions-
+Approximatoren" seien
+
+(2] https://alternativlos.org/42/
+p3: Wenn man ChatGPT fragt: "Ist ein Neuronales-Netzwerk invariant gegentiber
+
+Spiegelungen?" antwortet der "Ein neuronales Netzwerk ist im Allgemeinen nicht invariant
+gegeniiber Spiegelungen, es sei denn, es wurde > > speziell darauf trainiert <<..."
+
+Da vermutlich niemand Buchstaben spiegelverkehrt lernt, kann der "generische Funktions-
+Aproximator" das "“c" und das "spiegelverkehrte 2" nur auf das selbe selbe Obiekt "c" im
+
+Gehirn referenzieren oder PatterMatch'en und macht jedes mal den Pointer auf das normale
+"c", (Fuzzy Trace Theory)
+
+p4: Der Daniel Dennett redet aber von einem "Multiple Drafts Model", und wenn ich das
+richtig verstanden habe, dann wiirde das bedeuten, dass das Gehirn verschieden Module hat.
+Verschiedene Module wiirden wieder bedeuten, dass es zwischen den verschiednen Modulein ein
+Interface hat. Dieses Interface ware dann aber wieder ein Neuronales Netzwerk und weder
+diskret (abzahlbar) noch statisch. Somit hat der Immanuel Kant mit seinem "Ding an sich"
+meint. Man hat von sich auch nur ein Modell (prone to Sekundarer Rationalisierung) man
+wird sich oder einen anderen Menschen aber nie bis ganz auf das letzte einzelne Neuron
+verstehen kénnen. Aber selbst wenn man nur ein Modell hat, ich meine die Physiker haben es
+mit ihren Modellen ja auch geschafft auf den Mond zu kommen.
+
+Wenn ich jetzt das Multiple Drafts Modell so einigermassen richtig verstanen habe, dann
+wiirde der Visoelle Input von den Buchstaben in verschiedene Module im Gehirn
+weitergeleitet
+
+- "Named Entities"-Modul
+aber je nach dem wenn der Buchstaben spiegelverkehrt dargestellt wird erkennt das Gehirn
+diese Named Entity vielleicht gar nicht
+
+- "Pixel- / Augen- / Grafik-Speicher"-Modul
+
+in den Teil, der Bilder wie sie sind speichert, also so eine Art Puffer fiir Pixel, bzw.
+wird da dann sofort auch wieder die Komplexitat reduziert bzw komprimiert und es wird
+vermutlich zu einem Stilleben von Shapes [3] weiter verarbeitet
+
+- prozentual noch mit Farbe als Hinweis / bzw. komplett zufallige Farbe
+[3] https://en.wikipedia. org/wiki/Geon_(psychology)
+
+Dann wiirden wie im Space-Shuttel die verscheidenen Module oder Verschiedenen Computer
+wieder abstimmen, welches der Module jetzt beriicksichtigt wird: “The space shuttle flight
+control system uses four independent, parallel computers. At each step, the computers vote
+to determine the appropriate step.". Dann ist da wieder das Problem mit dem Interface oder
+der Zusammenfiihrung, die weder diskret noch statisch ist.
+
+Somit kann der Buchstabe nicht mit dem “Named Entities"-Modul identifiziert werden wiirde
+das dann z.B. vom "Pixel- / Augen- / Grafik-Speicher"-Modul gemacht. Da wir diese aber
+nicht schon 1000x geiibt haben ist das fehleranfalliger, was erklaren wiirde weshalb die
+Studie aufzeigt dass bei den speigelverkehrten Buchstaben-Suppe mehr Fehler vorkommen.
+
+Auch das mit den Pseudo-Buchstaben (Vierecken / Dreiecken) umgeht das Problem mit den
+"NamedEntities" nicht, weil dass jemand explizit verschiedene DatenObjekte fiir Dreiecke
+die in einem anderen Winkel “naturalisiert" (Benjamin Bloon Wort fiir gelernt) hat ware
+auch eher nicht zu erwarten. Das wirde wieder im “Named Entities"-Modul auf ein Dreick
+verweise, aber ohne Orientierungs-Informationen zum Dreieck.
+
+Der Hinweis von Nicolas das “mehr Demut" etwas gutes sei stimmt aber IMHO.
+
+Ab hier wird es sehr spekulativ um nicht SCHWURBELIG sagen zu mlssen:
+Die Studenten / Forscher verwenden
+
+* Mathlab
+
+* JASP ANOVA
+
+* Neurotask scripting
+
+* Zoom break-out room => ob den Forschern Corona deren Studie teilweise sabotiert hat?
+
+Kénnen sie oder ihr Professor oder ihre Uni gewahrleisten, dass der NSA/CIA/NDB/BND (die
+wie wir seit Snowden dankbarerweise wissen sowieso iberall ihre Wurstfinger drin haben),
+
+dass diese Software Produkte wirklich so funktionieren wie sie sollen, oder ware es nicht
+gescheiter das ganze Bayessche Statistik Dingsie nochmals von Hand nachzurechnen?
+
+Dann sind ja gemass einem Artikel oder einer Studie die google nicht mehr kennen will sind

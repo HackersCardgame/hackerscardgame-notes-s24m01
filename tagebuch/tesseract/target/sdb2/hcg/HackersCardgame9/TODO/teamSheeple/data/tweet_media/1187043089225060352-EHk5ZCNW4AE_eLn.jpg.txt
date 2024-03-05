@@ -1,0 +1,18 @@
+Action 1
+Action 2
+
+Specific Events can trigger Actions, Events could be
+Sounds, turning on Light-Switch (maybe evaluated by
+smartmeter and the a list of what device uses how many
+watts), images, Automatic Behavior Recognition, websites
+(urls), Buttions or Mouse gestures on a computer, Handy
+or even if you draw a circle with your hand in the air. One
+can racognize events with Al (Pattern Recognition, Deep
+Learning...)
+
+For Example if Jurg S. would have fired illegally with a
+weapon, this event would have been recorded and caused
+an event in a Gunfire locator system [1].
+
+[1] https://en.wikipedia.org/wiki/Gunfire_locator
+

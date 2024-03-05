@@ -1,0 +1,28 @@
+~$ dig @178.82.219.75 -p 5353 -t ptr_http._teplocal.
+
+: <<>> DIG 9.9.5-3ubuntu0.17-Ubuntu <<>> @178.82,219.75 -p 5363 +t ptr_http._tcp.local
++ (1 server found)
+
+; global options: +cmd
+
+: Got answer:
+
+>>HEADER<<- opcode: QUERY, status: NOERROR, id: 9596
+
+5 flags: qr aa; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+: QUESTION SECTION:
+“http. tep.local. IN PTR
+
+; ANSWER SECTION:
+“http. tep.local. 10 IN PTR debian._http._tcp.local.
+Gebian._http._tcp.local. 10 IN TXT.
+debian._hitp._tcp.local. 10 IN SRV 0 0 80 debian. local
+debian. local. 10 IN AAAA fe80::e54:a5tf-fefS:bad
+debian.local. 10 IN A 192.168.192.234
+
+: Query time: 20 msec
+; SERVER: 178.82.219.75#5353(178.82.219.75)
+: WHEN: Mon Jul 16 16:58:06 CEST 2018
+MSG SIZE revd: 139
+

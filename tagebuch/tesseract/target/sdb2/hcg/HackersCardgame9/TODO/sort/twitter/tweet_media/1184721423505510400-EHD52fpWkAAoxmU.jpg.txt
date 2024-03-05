@@ -1,0 +1,31 @@
+‘Activities (©) Terminal + Okt 17 08:42 va a>
+
+braindetfiackers-Cardgame: Productive Repository - Moslla Firefox x
+
+Bra marc@debian:~/Daten.209/codefackesCardgamejeonbinatonschlren mz -0®@
+< Be drugs/_tndex-php
+
+: ea iepiesen
+ects et lee Gy, dee
+pound bla bores dalle}
+
+: : a
+ad $ gl add -A aa git conntt -m “tenpsave™ 88 ott push
+Jon branch naster
+Hour branch ts ahead of ‘ortgtn/naster* by 1 comtt
+(use "git push to publish your Local conntts)
+
+nothing to comitt, working tree clean
+
+$ ott push
+lUsernane for ‘https://atthub.con’: bratndet
+password for ‘https: //bratndet@gtthub con’
+lenunerating objects: 7, done.
+counting objects: 100%" (7/7), done.
+betta conpression using up to 12 threads
+conpressing objects: 100% (5/3), done.
+lurtting objects: 100% (5/5), 1.47 KB | 1.47 MB/s, done.
+Hrotat 5 (detta 1), reused 0’ (detta 6)
+Jrenote: Resolving deltas: 100% (1/1), conpleted with 1 local object:
+To https: //9\thub.con/bratndef /Hacker's-Cardgane
+raster -> master (cannot lock ef ‘refs/heads/naster': 1s at 8b265c0221613688742a9eF6b4929755870070db but expected 18bc362423997309c432182b670783e63be703¢)

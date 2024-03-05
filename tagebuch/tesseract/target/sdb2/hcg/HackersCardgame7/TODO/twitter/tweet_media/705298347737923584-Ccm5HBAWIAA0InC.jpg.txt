@@ -1,0 +1,23 @@
+Results for admin. ch
+
+The following domain names are vulnerable to man-in-the-middle attacks
+Attackers may be able to impersonate the server and steal or change data
+
+Update server software at all IP addresses shown, and ensure SSLv2 i
+disabled
+
+Vulnerable Domains Vulnerable Because
+gpv.astra.admin.ch
+
+view certificate
+
+159,144.8, 60: 443
+
+is vulnerable to CVE-2016-0703
+certificate-renewal..pki.admin, ch
+certificaterenewal..pki.admin. ch
+certrenewal. pki.admin.ch
+
+cme. pki. admin..ch
+
+cee eid anata eh.

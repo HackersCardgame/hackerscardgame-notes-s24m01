@@ -1,0 +1,180 @@
+B ces
+
+Datei Bearbeiten
+
+2023-08-01 06:53
+state: Installed
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53:
+applicable state:
+2023-08-01 06:53:
+applicable state:
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53
+state: Installed
+2023-08-01 06:53:
+state: Installed
+2023-08-01 06:53:
+State: Tnetabied
+
+Ansicht
+
+219, Info
+
+19, Info
+19, Info
+19, Info
+19, Info
+19, Info
+Installed
+19, Info
+
+Installed
+19, Info
+
+219, Info
+
+19, Info
+
+19, Info
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+ces
+
+Appl:
+
+Appl:
+
+Appl:
+Appl:
+
+Appl:
+
+Appl:
+
+Appl:
+
+Evaluating
+Evaluating
+
+Evaluating
+
+: Evaluating
+
+Evaluating
+Evaluating
+
+Evaluating
+
+: Evaluating
+
+Evaluating
+
+Evaluating
+
+: Evaluating
+
+package
+package
+package
+package
+package
+package
+package
+package
+package
+package
+
+package
+
+applicability
+applicability
+applicability
+applicability
+applicability
+applicability
+applicability
+applicability
+applicability
+applicability
+
+applicability
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+for
+
+package
+package
+package
+package
+package
+package
+package
+package
+package
+package
+
+package
+
+8
+Microsoft-Windows-LanguageFeatures -Handwriting-ru-ru-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable
+
+Microsoft-Windows-LanguageFeatures -Handwriting-rw-rw-Package~31bf3856ad364e35~amd64~~/10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwriting-sk-sk-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwrating-s1-si-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwriting-sq-al-Package~31bf3856ad364e35~amd64~~-10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwriting-sr-cyrl-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1,
+
+Microsoft-Windows-LanguageFeatures -Handwriting-sr-latn-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1,
+
+Microsoft-Windows-LanguageFeatures -Handwriting-sv-se-Package~31bf3856ad364e35~amd64~~/10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwriting-sw-ke-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable
+Microsoft-Windows-LanguageFeatures -Handwriting-tn-za-Package~31bf3856ad364e35~amd64~~/10.0.22621.1, applicable
+
+Microsoft-Windows-LanguageFeatures -Handwriting-tr-tr-Package~31bf3856ad364e35~amd64~~1.0.22621.1, applicable

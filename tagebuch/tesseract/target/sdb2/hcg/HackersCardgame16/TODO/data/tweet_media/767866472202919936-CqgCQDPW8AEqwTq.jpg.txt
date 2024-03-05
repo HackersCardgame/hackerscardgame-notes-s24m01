@@ -1,0 +1,190 @@
+Top
+
+10 Cheapest
+
+dedi
+
+icated server hosters in europe 2016
+
+We will keep it short and sweet: find our list of cheapest dedicated server hosters in Europe. Our
+
+personal favorite is number 9, Oneprovider offers a lot of bang for your buck !
+
+Host
+
+Scaleway
+
+FinalHosting
+
+Kimsufi
+
+Digicube
+
+Ikoula
+
+Fusa
+
+EuServ
+
+Online.net
+
+Location
+
+France
+
+Czech
+
+(OVH
+France)
+
+France
+
+France
+
+Belgium
+
+Germany
+
+Paris
+
+Price
+
+€2,99 + €0.00
+Setup
+
+€3.20 + €0.00
+Setup
+
+€4,99 + €9,99
+Setup
+
+€4.99+
+€0.00 Setup
+
+€4.99+
+€9.99 Setup
+
+€5.00 + €0.00
+Setup
+
+€5,95 +
+€11.90 Setup
+
+cPU
+
+ARMv7
+Quadcore
+
+ARMvé @
+700Mhz
+
+Atom
+N2800 @
+1,86Ghz
+
+Atom 230
+@ 16Ghz
+
+Atom
+Ds10@
+1,6Ghz
+
+Atom 230
+@ 16Ghz
+
+Atom
+D425 @
+1,8Ghz
+
+Nano
+
+Memory
+
+2GB
+DDR3
+
+512MB
+DpR2
+
+2GB
+DDR3
+1GB
+DpR2
+4GB
+DDR2
+
+2GB
+DDR2
+
+Disk
+
+50GB SSD
+(SAN)
+32GB SSD
+
+500GB HDD
+
+30GB SSD
+
+17B HDD
+
+250GB HDD
+
+160GB HDD.
+
+500GB+SSD.
+
+Bandwidth
+
+Unmetered
+@ 200Mbit
+
+Unmetered
+@ 100Mbit
+
+Unmetered
+@ 100Mbit
+Unmetered
+@ 100Mbit
+Unmetered
+@ 100Mbit
+500GB @
+LOOMBit
+
+Unmetered
+
+@ 100Mbit
+
+Unmetered
+
+Ipva
+
+1
+
+CATEGORIES
+
+esxi
+hardware
+pve
+Linux
+a
+mobile
+news
+0
+PowerShell
+reviews
+script
+secur
+ea”
+tutorials
+
+Ungategorized
+Virtualmin
+
+Windows
+
+TAGS
+
+10TB arm bare metal server bbosio bittorrent sync
+
+blagjperry blackberry classic DISYNC cache

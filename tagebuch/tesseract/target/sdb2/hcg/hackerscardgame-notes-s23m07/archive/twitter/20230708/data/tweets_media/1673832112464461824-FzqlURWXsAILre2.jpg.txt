@@ -1,0 +1,66 @@
+Contents {hide}
+
+(Top)
+References
+
+WikipeDIA Q Search Wikipedia Search
+
+The Free Encyclopedia
+
+Eagle Vision 1 (Commercial Satellite Imagery)
+
+Article Talk
+
+From Wikipedia, the free encyclopedia
+
+Eagle Vision One (EV1) was a military based Commercial Satellite Imagery (CS!) capability
+programmed and funded by HQ AF/A2QS (Air Force ISR Innovations). It is located at Ramstein Air
+Base, Germany, and is staffed by intelligence personnel assigned to the 24th Intelligence Squadron
+(2418). The mission of EV1 is to maintain a deployable commercial satellite imagery system ready to
+‘support contingency operations, theater security cooperation events, and disaster relief efforts. The
+EV1 system consists of the two elements: a Data Acquisition Segment (DAS) which includes a direct,
+downlink antenna and a computer server shelter that collects and processes imagery into a standard
+format, and a transit-cased Data Integration Segment (DIS) that processes the standard format
+products into useful products.
+
+EV1 works with satelite vendors from France (Spot 6 & 7, Pléaiades 1A & 1B), Canada (RADARSAT
+1&2), and India (CARTOSAT1 & 2) to provide unclassified imagery to customers.
+
+EV is part of a larger Eagle Vision enterprise that consists of four other units stationed in South
+Carolina, Alabama, California, and Hawaii
+
+Newest tools at EV1: EVR2EST is an unclassified imagery server used to upload and share imagery
+products. See the link below to view the EVR2EST server.
+
+References {esit)
+
+https://docs.google. com/open ?id=0B7sPKUxQw6PSeEJIRDIZelVHY2M& hitp:/www.disam.dsca.m
+i/pubs/v.23_4/hartmetz.pdf{@) https://web.archive.org/web/2015040902054 1/https:/ifas.orgfirp/progr
+
+Active
+Country
+legiance
+Branch
+Tyre
+
+Role
+
+Part of
+
+Create account Login +!
+
+3% Add languages v
+
+Read Edit Viewhistory Tools v
+
+Eagle Vision 1 Logo
+2001 ~ present
+
+United States
+
+United States of America
+United States Air Force
+Commercial satelite imagery
+Commercial Satelite Imagery
+AFISRA, 480th Intotigence,
+

@@ -1,0 +1,25 @@
+Grundlagen der interventionellen Neurophysiologie — Physiologie
+
+absolute relative
+Refraktarzeit
+
+Kommandopotenzial
+
+T_T
+
+f Gesamtstrom
+
+einzelnen Kanal
+
+Omv =
+
+Membran-
+
+Auswartsstrom
+
+Einwartsstrom
+
+-20 0 10[mv]
+
+Abb. 2.2 a-f Eigenschaften spannungsabhangiger Natriumkanale und -stréme. Schematische Darstellung eines Neurons. Die
+Membran ist auch mit spannungsabhangigen Kanalen ausgestattet. Diese leiten selektiv Na* oder K* und werden durch Membran-

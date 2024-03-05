@@ -1,0 +1,22 @@
+Es gibt also insgesamt 4 mdgliche Rochadeziige:
+
+e Kel—ci1 und Ta1—d1 (lange wei®e Rochade)
+ Ke1-g1 und Thi-f1 (kurze weie Rochade)
+« Ke8—c8 und Ta8—d8 (lange schwarze Rochade)
+e Ke8-g8 und Th8-f8 (kurze schwarze Rochade)
+
+Eine Rochade kann nur dann ausgefiihrt werden, wenn
+
+1. der K6nig noch nicht gezogen wurde,
+
+2. der beteiligte Turm noch nicht gezogen wurde,
+
+3. zwischen dem K6nig und dem beteiligten Turm keine andere Figur steht,
+
+4. der Konig Uber kein Feld ziehen muss, das durch eine feindliche Figur bedroht wird,
+5. der K6nig vor und nach Ausfiihrung der Rochade nicht im Schach steht.
+
+Kurze Rochade - Kénigsfltigel: 0-0
+
+abedefé=3ogph
+Lange Rochade - Damenfitigel: 0-0-0

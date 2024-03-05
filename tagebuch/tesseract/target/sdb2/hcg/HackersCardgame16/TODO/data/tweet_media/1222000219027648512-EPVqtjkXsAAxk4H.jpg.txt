@@ -1,0 +1,19 @@
+Inventor: .1000x Year: ~?22?
+Audio TX
+
+- |Handy
+
+--|Kehlkopf Implantat
+|umgebende Elektronik, z.B.
+
+TV, Monitor, Toaster
+
+Person 2
+Person n
+Person self
+
+| Video RX
+
+-|Bild-Kanal 1
+=> wir gehen davon aus, dass immer nur einer
+

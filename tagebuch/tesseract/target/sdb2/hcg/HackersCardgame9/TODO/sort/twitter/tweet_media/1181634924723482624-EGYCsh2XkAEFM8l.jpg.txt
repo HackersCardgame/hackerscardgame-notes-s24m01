@@ -1,0 +1,33 @@
+STHTE DIHGRHM
+STATE MACHINE
+
+paz i
+
+sH Operand1 —
+
+. net te py
+Yv
+( _opEntered — ) ( ; ct ree
+_—_——— ©
+
+OFF
+
+0'..'9', "!
+
+Inventor: xxxx Year: ~xxxx
+https://en.wikipedia.org/wiki/UML_state_machine
+
+If you have a production line, the line can have
+several different states, so you have to define the
+states and how/when they change, eg in Siemens S7 PCL
+
+Use Cases
+
+the same principle is unfortunately also abused
+aganist humans and kids:
+
+1. Normal: loop { you will be raped } over US4877027 =
+2. ~~: «someone says "Fu** your Mother" =
+
+3. Rage
+

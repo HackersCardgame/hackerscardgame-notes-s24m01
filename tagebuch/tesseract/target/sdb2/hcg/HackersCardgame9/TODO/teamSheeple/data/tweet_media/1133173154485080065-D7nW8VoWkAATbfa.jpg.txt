@@ -1,0 +1,63 @@
+dpkg-genbuildinfo
+
+Can't stat /usr/local/etc: No such file or directory
+
+at /usr/share/perl5/Dpkg/Vendor/Debian.pm line 469.
+
+dpkg-genchanges >../jamulus 3.4.3 amd64.changes
+
+dpkg-genchanges: info: including full source code in upload
+
+dpkg-source --after-build .
+
+dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
+
+Now running lintian jamulus 3.4.3 amd64.changes ...
+
+jamulus source: diff-contains-git-control-dir .git
+
+jamulus source: source-contains-prebuilt-windows-binary windows/FindProcDLL.dll
+
+jamulus source: missing-debian-source-format
+
+: jamulus source: build-depends-on-build-essential-package-without-using-version libc6-dev [build-depends: libc6-dev]
+: jamulus source: build-depends-on-build-essential-package-without-using-version libc-dev [build-depends: libc-dev]
+: jamulus source: build-depends-on-build-essential-package-without-using-version g++ [build-depends: g++]
+
+: jamulus source: build-depends-on-build-essential-package-without-using-version make [build-depends: make]
+jamulus source: build-depends-on-build-essential-package-without-using-version dpkg-dev [build-depends: dpkg-dev]
+jamulus source: build-depends-on-metapackage build-depends: qt5-default
+
+jamulus source: ancient-standards-version 3.9.5 (released 2013-10-28) (current is 4.3.0)
+
+: jamulus: improbable-bug-number-in-closes 3
+
+: jamulus: copyright -should-refer-to-common-license-file-for-gpl
+
+: jamulus: copyright-without-copyright-notice
+
+: jamulus: depends-on-metapackage depends: qt5-default
+
+jamulus: icon-size-and-directory-name-mismatch usr/share/icons/hicolor/48x48/apps/jamulus.png 406x372
+
+jamulus: binary-without-manpage usr/bin/jamulus
+
+Finished running lintian.
+
+W:
+W:
+Ws
+E
+E
+E
+E
+E
+E
+Ws
+Wi:
+E
+W:
+E
+W:
+W:
+

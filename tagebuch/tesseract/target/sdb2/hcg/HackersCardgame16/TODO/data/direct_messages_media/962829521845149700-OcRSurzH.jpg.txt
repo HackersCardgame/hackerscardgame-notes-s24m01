@@ -1,0 +1,13 @@
+jarc@debian:~/Daten.2017/code$ git clone https://github.com/redundanceredundance/onetimepad
+'Cloning into 'onetimepad'...
+
+remote: Counting objects: 13, done.
+
+‘remote: Compressing objects: 100% (6/6), done.
+
+“remote: Total 13 (delta 1), reused @ (delta 0), pack-reused 0
+
+Unpacking objects: 100% (13/13), done.
+
+jarc@debian:~/Daten.2017/code$ §f
+

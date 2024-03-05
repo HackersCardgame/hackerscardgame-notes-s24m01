@@ -1,0 +1,34 @@
++41 41 9841212
+
+Beratui
+
+infosec@infosec.ch Blog Kontakt
+
+Ausbildung Services Uber uns
+
+Gehirn-Computer-Schnittstellen auf dem Weg
+vom Medizinlabor in die Anwendungspr
+
+Teil 2
+
+Angriffsszenarien
+
+Wege, um Angrife auf die Vertraulichkeit, Verfigbarkeit, Belastbarkeit und Integrtat von Gehirn-Computer-
+Schnittstellen zu veriiben, gibt es geniigend. So ist es denkbar, dass der Angreifer bereits den Stimulus
+beeinflusst, der beim Opfer bestimmte neuronale Signalmuster hervorruft. Wahrend der Aufnahme kann er
+rneuronale Signale stdren oder die aufgenommenen Daten verfilschen. Ein Eindringling kann ebenfalls
+
+die Verarbeitung der Rohdaten beim Messen der Gehirnaktivitten oder
+
+ihre Klassfizierung manipulieren. Kontroliert ein Angreifer etwa den Output der Klassifzierung, tbernimmt er
+ddas mit der Gehirn-Computer-Schnittstelle gesteuerte Gerit: Ein Patient knnte 2.8. die Gewalt ber die
+Bewegungsrichtung und Geschwindigkeit seines Rollstuhls verlieren, den er via Gehirn-Computer-Schnittstelle
+bedient. Auch mithilfe einer Schadsoftware lassen sich Gerate, die ein Patient mit einer aktiven Gehien
+‘Computer-Schnittstellen steuert, ibernehmen,
+
+Newsletter Anmeldung
+
+Bleiben Sie mit dem Newsletter immer up to date.
+
+Zur Anmeldung
+

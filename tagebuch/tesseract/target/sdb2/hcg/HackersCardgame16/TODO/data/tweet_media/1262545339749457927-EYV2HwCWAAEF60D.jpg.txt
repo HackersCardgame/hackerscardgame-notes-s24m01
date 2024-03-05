@@ -1,0 +1,66 @@
+WIKIPEDIA
+
+Hauptsete
+2uftge tel
+
+Neg ate
+Sriger
+
+peel meen
+
+inareen
+Engle
+asm
+
+Split Brain Gofrmatk) - Wikipeta- Menta Firefox x
+
+aM Bre | vie | She MH AE | Cow | Beith | @ Myo | MAA): | E21 | BME | w Hoo | DTwe | w Mar |W Mar | W Mar | hackers | W Diss | Goin [WS] > + v
+ratoet My Cy ostosson enstingen ext Beobachungsite Bet
+Anite biskussio lesen Bearbeiten Quetext bearbeiten Versionsgeschiehte Mehr a
+
+Split Brain (Informatik)
+
+(Dis Arte oae achogende Abst st ih Hnreihend mt Seegen epee Enzlnchwelen)ausgesiatet Angaben oie ausreichenden Belg Konntendemchst ener werden Bite hi Wikipedia ndem dy
+die Angaben recherchierst und gute Belege eins.
+
+‘split Brain stn der informatikc ein unerwunschter Zustand elnes Computerclusters, bel dem alle Zwischenverbindungen zwischen den Clustertellen gleichzeitig unterbrochen sind
+
+Inhattsverzelehnis iverborgon)
+1 Formen
+
+2 Zustandekommen
+
+23 Auswikungen
+
+4 Gegenma8nahmen
+
+5 Siene auch
+
+Formen (earbeten | oveitext bearbeiten}
+CGrundsatalich unterscheldet man zwischen
+
++ der (Ab-Trennung eines Einzelknotens, ein Extrembelspe!dafir ist de Tellung eines 2-Knoten Clusters
+
++ der Autrennung eines Mehv-knoten-custers(>2) in 2wel ungliche Tele
+
++ der Auftrennung eines Mehi-knoten-clusters(>2) in 2wei gleiche Tele
+
++ der Auftrennung eines Meh-knoten-clusters(>2) in mehr als 2wel Tell, Diese letzte Situation wied jedoch als mehereeinzeine Spit @rain-Szenarien betrachtet.
+
+Zustandekommen vessbaten | Queltext bearbeiten}
+
+ur Koordination der Transaktonen im Cluster wird in der Rege ein Cluster interconnect oder ein Quorum verwendet - je nach eingesetzter Technologie. Wid dle Verbindung zwischen einem oder
+‘mehreren Teen des Clusters Uber diesen Weg unterbrochen, kann keines mehr unterscheiden, ob es sich um einen partellen Ausfall oder eine Trennung handel. alle diese (nun isolierten)
+
+Clustertragmente arbeiten fr sich weiter, um aie Bereitstellung des Diensts (auch .Service”) aufreehtauerhalten. Da im Normalfall die Netawerkanbindung in das fentiche Net (aso in cheung
+Benutzer) noch funktioniert, ergeben sich Probleme: -
+
+Auswirkungen_(searbeten | queltext bearbeiten |
+‘Das Grundprobiem von Split Brain ist der Umstand, dass mindestens zwei Teile noch funktionieren, jedoch keine Koordination zwischen ihnen mehr méglich ist. Wahrend dies bei reinen Lesezugritten = =
+noch nicht unmittelbarproblematisch scheint, fuhrt ein Schreibzugrif zu massivenKonfikten: bie Schreibvorgange verte sch ber die (war funktionierenden, aber voneinandersolirten) elle des. nis pas veistinaige.
+Clusters, wobei aber aie Logikschint engl. middle ter baw. dee Benutzer nichts Ungewahniiches bemerkt: der Cluster verht sich aus Anwendersicht wie im Notmalbetrie, Dabei kann jedach durch die finktionerende cuter: Rechts
+
+‘unterbrochene Zwischenverbindung der von Knoten/Tell A gesehriebene Block durch Knoten/TelB nicht gelesen werden - und umgekeht. Eine Spit rain stuaton, bel dem
+Knoten€avsgeflen it.
+
+Die Datenstande laufen daher auseinander, die Konsstenz der Daten ist nicht mehr gewahrleistet. Die Wiederherstellung aller Daten nach einer solchen Situationist im Normalfall nicht mehr mit

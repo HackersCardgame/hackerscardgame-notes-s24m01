@@ -1,0 +1,17 @@
+203
+
+204
+
+‘05 Thu Jun 29 07:00:12 CEST 2023
+
+‘06 detail algorithmus zu meiner medulla spinalis typo malware gefunden:
+
+‘o8wenn ich schreiben will: “ich will nicht Rache iben" kommt eine ArrayList<drohungen> mit kleinen details
+
+09
+
+. Durchgang: "ich will nicht rache tiben" => wiirde rache hervorheben
+
+. Durchgang: “ich will nicht [lange pause] Rache iiben" => wiirde zynismus oder umgekehrte psycholgoie suggerieren
+. Durchgang: "..."
+

@@ -1,0 +1,49 @@
+Activities srminal Mon 07:22 dev FO Bw
+
+*OpenGroup: General /General
+
+*OpenUI ‘PageSize/Page Size: PickOne
+*OrderDependency: 100 AnySetup ‘PageSize
+
+*DefaultPageSize: Ad
+
+‘PageSize 11x14/11x14: "<</PageSize[792 1008] /ImagingBBox null>>setpagedevice"
+‘PageSize 11x17/11x17: "<</PageSize[792 1224]/ImagingBBox null>>setpagedevice”
+*PageSize 13x19/13x19: "<</PageSize[936 1368]/ImagingBBox null>>setpagedevice"
+*PageSize 16x20/16x20: "<</PageSize[1152 1440] /ImagingBBox null>>setpagedevice"
+*PageSize 16x24/16x24: "<</PageSize[1152 1728]/ImagingBBox null>>setpagedevice"
+‘PageS ize 24/28: “<</PageSize[3370 4768]/InagingBBox null>>setpagedevice"
+
+*PageSize 44/4\: “<</PageSize[4768 6749]/InagingBBox nul1>>setpagedevice"
+*PageSize 8x10/8x10: "<</PageSize[576 720]/ImagingBBox null>>setpagedevice"
+
+ze 8x12/8x12: "<</PageSize[576 864]/ImagingBBox null>>setpagedevice"
+*PageSize AQ/A0:
+
+“<</PageSize[2384 3370] /InagingBBox null>>setpagedevice"
+“<</PageSize[1684 2384] /ImagingBBox null>>setpagedevice"
+“<</PageSize[1191 1684] /TmagingBBox null>>setpagedev ice"
+
+*PageSize AnsiB/MISI B: "<</PageSize[792 1224]/InagingBBox nul1>>setpagedevice"
+*PageSize AnsiC/MISI C: "<</PageSize[1224 1584]/ImagingBBox null>>setpagedev ice”
+
+ize AnsiD/MISI D: "<</PageSize[1584 2448]/ImagingBBox null>>setpagedevice"
+*PageSize AnsiE/MISI E: "<</PageSize[2448 3168]/TmagingBBox null>>setpagedev ice"
+*PageSize ArchA/Arch A: “<</PageSize [648 864]/TmagingBBox null>>setpagedevice”
+*PageSize ArchB/Arch B: "<</PageSize[864_1296]/InagingBBox null>>setpagedevice"
+
+ize ArchC/Arch C: "<</PageSize[1296 1728]/InagingBBox nul1>>setpagedevice”
+*PageSize ArchD/Arch D: "<</PageSize[1728 2592]/ImagingBBox null>>setpagedev ice"
+*PageSize ArchE/Arch E: "<</PageSize[2592 3456]/ImagingBBox null>>setpagedev ice"
+*PageSize C8/CO: “<</PageSize[2599 3676] /InagingBBox nul1>>setpagedevice"
+*PageSize C1/C1: “<</PageSize[1836 2599]/InagingBBox nul1>>setpagedevice"
+*pageSize (2/(2: “<</PageSize[1298 1836]/InagingBBox nul1>>setpagedevice"
+
+“<</PageSize[918 1298] /Inaging8Box null>>setpagedevice”
+
+“<</PageSize[649 918] /ImagingBBox null>>setpagedevice"
+
+ize (5/C5: "<</PageSize[459 649]/ImagingBBox null>>setpagedevice"
+‘Pages ize Envl0/Envelope #10: "<</PageSize[297 684]/InagingBBox null>>setpagedevice”
+INSERT -- 79,72 16%
+

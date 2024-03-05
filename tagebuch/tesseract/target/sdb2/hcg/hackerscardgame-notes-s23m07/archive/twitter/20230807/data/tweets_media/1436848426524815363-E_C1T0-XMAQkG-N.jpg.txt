@@ -1,0 +1,32 @@
+ar Dest DoOOO praye
+(var i = 0; i < moves.lenc
+
+moves;
+
+/ braucht viel ressourcer *
+function isInCheck(player) {
+moves = possibleMoves (-playet
+
+in der obersten instanz aufgerufen
+
+(var i=0; icmoves. length;
+(board[moves[i] [1] [0] *8+n
+
+}
+var instances=0;
+
+/minmax algorithm that does tt
+function minimax(depth, player,
+{
+(resetCounter) instances=0;
+instances+=1;
+
+var bestMove = [[0,0],[0,0]]j
+(depth < 1) evaluate
+var moves = shuffle(possibleh
+
+var bestValue=-1000000*playe!
+(var i = 0; i < moves. lenc
+
+ao@es & al)
+

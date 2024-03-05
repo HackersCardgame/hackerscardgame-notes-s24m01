@@ -1,0 +1,18 @@
+aorhiETRICS — Total relay bandwidth in the network
+
+The following graph shows the total advertised and consumed bandwidth of all relays in the network, Note that the unit has recently changed from MiBis to Gbit/s.
+
+Total relay bandwidth
+
+— Advertised bandwicth — Bandwidth history
+
+Bandwidth (Gbit/s)
+
+aya 19d
+The Tor Project - https://metrics.torproject.org/
+Start date (yyyy-mm-dd): 2016-07-18
+
+End date (yyyy-mm-dd): (2016-07-23
+{ Update graph
+
+Download graph as PDE or SVG.

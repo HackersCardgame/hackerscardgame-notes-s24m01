@@ -1,0 +1,52 @@
+From abusedesk@upe.ch¥
+
+Subject RE: Kundennummer: - 660824 - Abuse Ref, -##9-151493# [T2020030900J1125137]
+
+To Me <mail@marclandolt.ch> We
+
+Weed, 11 Mar 2020 09:32:49 +0100 (CET)
+
+Message ID <; 7. wvaMail, CHZRHPAPPI
+
+Return-Path <abusedesk@upe.ch>
+
+Delivered-To mail@marctandott.ch
+
+HZRHPAPPL
+
+© Reply | > Forward | & Archive
+
+G Delete
+
+More
+9:32AM
+
+(iene Je |
+
+Guten Tag Herr Landolt
+
+Vielen Dank fiir Ihr Feedback. Der Fall wurde durch Meldungen von spamhaus.org und team-cymru.com ausgelést.
+Die Meldungen von Spamhaus kénnen Sie in realtime auf httos://www.abuseat.org/lookup.cal abfragen.
+
+‘Team Cymru hat uns verschiedene Netzwerkverbindungen zu Botnet Sinkholes gemeldet.
+
+Das sind die letzten beiden Meldungen:
+
+description: This host is most likely infected with malware.
+destination ip: 145.14.144.160/32
+
+destport: 80
+
+feeder: team cymru
+
+ip: 178.82.215.219
+
+malware family: azorult
+
+source port: 58288
+
+source time: 2020-03-09 12:19:38UTC-+0
+
+descrintion: This hast is mast likely infected with malware.
+
+AAAI:

@@ -1,0 +1,55 @@
+8 Pe | E]O A |O2 | OS |G |@e | @ S/O 2 | OM ter | M bi | 19 | M bn | 19 | G HH |S SH | HF | O nw | MMS |B HE |} HF | EV oC |M co | @ rw |G poi |G tee | w Pin wx + 60S es
+€ > Sf dawiipedinorgwiiMinimarAlgorthmus an a@
+@ ve
+
+Frangais
+Bahasa indonesia
+
+mecraien He Da benentreeae. WS
+
+Ue BUST Pewie  Auko Pugin.  ThebbenFAE Fa minis’:
+
+aufzubauen. Die Bewertungsfunktion wird modifiziert, sehr gute Spielpositionen fur A erhalten sehr hohe Werte, sehr gute Spielpositionen fur B erhalten sehr niedrige
+Werte. Zur Ermittiung der Werte bedient man sich Heuristiken zur Schaitzung,
+
+talano
+
+Portugues a
+
+Pycoxnit Suchbaum-Beispiel | Bearbeiten | Quolitext bearbeiten }
+
+os Das Bild rechts zeigt einen einfachen Baum mit Suchtiefe 4. Spieler Aist am Zug, © (max)
+
+bese daraleshd Die Knoten der Ebenen 0 und 2 entsprechen Spielsituationen, in denen Spieler A am Zug ist. Hier es
+‘inks bearbeiten wird jeweils die Bewertungsfunktion der untergeordneten Knoten maximiert, d.h. der fdr SpielerA 1 (min)
+
+gunstige Zug ausgewahit und dessen Wert dem Elternknoten zugewiesen. —~ ——
+
+denen Spieler B am Zug ist. Hier 2 tek) 22 @ 2 2)
+
+Die Knoten der Ebenen 1 und 3 entsprechen Spielsituationen, > ae é=.. Q
+wird jeweils die Bewertungsfunktion der untergeordneten Knoten minimiert, d. h. der far Spieler B 3 (min) ba
+
+=| [7
+
+glnstigste Zug ausgewahit und dessen Wert dem Elternknoten zugewiesen.
+
+Der Algorithmus beginnt unten bei den Blattern und geht dann nach oben bis zur Wurzel. In Ebene 4 (max) (otc) ee @ joo) @ ©®
+
+3 wahit der Algorithmus den kleinsten Wert der Kindknoten und weist diesen dem Elternknoten zu _-‘Minimax-Algorithmus: Die Kreise stellen die Zage der Spieler im
+
+Agortrsdaraxinirng), do Qsdrte do Zgo oo
+(es wird minimier) In Ebene 2 wird dann dr jewels rte Kindknoton dem Eternknoten pa a ei) ee A ZO oa
+
+zugewiesen (es wird maximiert). Dies wird abwechseind so lange durchgefuhrt, bis die Wurzel Wert a des Minimax-Algorithmus dar. Die roten Pfeile reprasentieren
+erreicht ist. Der Wurzel wird der Wert des gréRten Kindknotens zugewiesen. Dabei handelt es sich den gewahiten Zug, die Nummern links die Baumtiefe und die blauen
+
+dann um den Zug, der gespielt werden soll. iste den genreivien 2s.
+
+Anmerkungen [Bearbeiten | Quolitext bearbeiten )
+« Das Minimax-Verfahren ist im Kern vom speziellen Spiel unabhéngig, das hei8t zum Beispiel Schach und Reversi benutzen denselben Algorithmus
+‘* Schnittstellen zum speziellen Spiel sind lediglich die beiden folgenden Programmteile:
+* Welche Zuge sind in einer konkreten Spielsituation méglich?
+'* Wie wird eine Spielsituation numerisch bewertet?
++ Neben dem Minimax-Verfahren kann ein Spiel weitere spielspezifische Verfahren anwenden, beispielsweise vorberechnete Bibliotheken fur Eréffnungszge.
+

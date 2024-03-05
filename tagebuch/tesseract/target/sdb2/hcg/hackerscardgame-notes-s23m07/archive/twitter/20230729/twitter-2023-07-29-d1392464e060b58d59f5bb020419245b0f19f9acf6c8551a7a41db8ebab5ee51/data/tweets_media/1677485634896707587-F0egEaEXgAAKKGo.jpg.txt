@@ -1,0 +1,24 @@
+Nautral Language
+Processing
+
+us NIRA S AI roe vousuLu i ed veil
+
+= 208312271245 -
+
+https: 0x8. ch/HackersCardgame_ 2.0
+
+Natural Language Processing analysiert mit
+Vektoren bzw. mit Linearer Algebra welche
+Worter nahe beieinander sind. Wer das mal
+mit seinen Tagebiichern ausprobieren méchte
+und sich mit Programmieren auskennt
+empfehle ich mal mit GENSIM bisschen zu
+probieren.
+
+Fur die Anderen, dieser Talk erklart das
+relativ gut:
+
+https://media.ccc.de/v/30C3_-_5377_-_de_-
+_Saal_6_-_ 201312271245 _-
+_uberwachen_und_sprache_-_josch
+

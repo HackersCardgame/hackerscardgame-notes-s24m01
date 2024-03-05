@@ -1,0 +1,38 @@
+@ Fasteck ——@ Meson} Remon Ser HE TheSous O(a W Sates CHEN Dans Bl Shaopene. Aten te Genchimtin. Woesteck Wer toterOatn (INST) +
+<>0 © A mtps/imacandocynpuzen/2013/0/23/s- ons. eben kn 28) e
+am ee
+function minimax(depth, player, init, r
+{
+
+if(resetCounter) instances=0;
+
+else instances+=1;
+
+var bestMove = [10,0], [0,01];  _gqayammmemm
+if(depth < 1) return evaluateBoa NDB / ISAS DB Auszug (oder eben kein Auszug) ee
+
+var moves = shuffle(possibleMove Mota
+var bestValue=-1000000*player;
+for(var i = 0; i < moves. length; eet
+return moves;
+}
+//MQMD: braucht viel ressourcen wel r in der obersten instanz aufgerufen
+
+function isInCheck(player) {
+moves = possibleMoves(-player) ;
+
+for(var i=0; icmoves.length; i++
+if (board [moves [i] [1] [0] *8+move'
+return :
+return 4
+}
+
+var instances=0;
+
+//minmax algorithm that does the gj
+function minimax(depth, player, in
+
+{
+r Bompemeve@O-CAZa za
+
+BeEenone

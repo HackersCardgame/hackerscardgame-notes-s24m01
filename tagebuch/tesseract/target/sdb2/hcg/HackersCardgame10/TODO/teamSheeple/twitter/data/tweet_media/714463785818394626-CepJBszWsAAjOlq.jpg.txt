@@ -1,0 +1,50 @@
+fecainede 19248141: afc m trace radcom Carporasn Metrum SCHSTS2 Gabe terme FI Expe Ih)
+
+Zo Kbps
+1S Kbps
+oops
+skbps
+ee,
+
+coming traffic on interface Broadcom Corporation NetXtreme BCMS7S2 Gigabit Ethernet PC! E|
+Hl Outgoing traffic on interface Broadcom Corporation NetXtreme BCMS7S2 Gigabit Ethernet PC! E|
+
+{cal nade: 1921681 40: Talc on terface Quam Atheros OCASSES /ARSSSS Wireless Network Adapter (2)
+
+0Kbps
+axbps
+
+exbps
+
+Kbps
+
+2kbps
+
+ee Tea SHS SRERT RTS SSS ETRE RS ER
+
+coming traffic on interface Qualcomm Atheros QCAQS6S / ARGS6S Wireless Network Adopter
+Hl Outgoing traffic on interface Qualcomm Atheros QCAGSES / ARGS6S Wireless Network Adapter
+
+Local node: 192.168.1.41: Taffic on interface eth1 (1h)
+
+ro Mbps
+hb:
+Mbps
+Mbps
+2, ee,
+
+fast mn av
+comingtraffic on interface ath favs] 7.25Mbps 312 Mbps S07 Mbps 7.751
+WOutgoing traffic on interface eth [avg] &14Mbps | 326Mbps S21 Mbps @14Mbq
+
+Lacal node: 192 168..40. Tlic on terface Broadcom Corperaticn NetLink BCMS77ES Gigabit Ethemet Pte (2h)
+
+1S Mops
+rome:
+Shbps
+
+obps
+
+coming traffic on interface Broadcom Corporation NetLink BCMS778S Gigabit Ethemet Pcie
+1 Outgoing traffic on interface Broadcom Corporation NetLink BCMS7785 Gigabit Ethemet PCle
+

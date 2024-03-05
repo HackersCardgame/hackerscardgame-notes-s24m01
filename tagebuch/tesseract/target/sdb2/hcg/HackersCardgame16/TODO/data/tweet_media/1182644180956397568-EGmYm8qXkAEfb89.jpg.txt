@@ -1,0 +1,32 @@
+) HYSTERESIS / REMANENCE
+
+Induktion (B) Br Satig -
+Wgu
+
+Entmagneti- _~ Neukurve
+sierungskurve ~~ :
+He
+~s ~
+Koerzitiv-] Magnetische H
+feldstarke Feldstarke (H)
+
+L_— Hystereseschleife
+
+unmagnetischer
+Zustand
+
+Inventor James Alfred Ewing Year ~1890
+Describes the persistence of an effect after the
+causing force stopped e.g. In (electro-) magnetism
+reproducible
+Old electron tube televisions tended to become
+magnetic after a while, which resulted in a bad
+image, so they had to be "degaussed". The same
+principle maybe works also for psychological
+effects. see m15, m12, t10, t2, m19, col, m9 but
+sure t11
+
+Use Cases
+For example, Attempt to delete a deliberately
+incorrectly played behavior pattern again
+

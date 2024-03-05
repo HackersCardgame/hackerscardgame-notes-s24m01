@@ -1,0 +1,37 @@
+Activities GJ Terminal + Mon 06:08 dev A BY
+
+marc@debian: ~/sound/youtube
+
+Terminal Help
+
+convert. sh
+#1 /bin/bash
+
+sudo apt-get install cclive mpg123 vic
+
+mkdir workingDir
+
+ed workingDir
+
+for i in $(cat ../list.txt): do «live $isdone
+IFS=$'\n' # make newlines the only separator
+
+for i in $(1s); do ../convert.sh $i; done
+
+echo Bitte [TPR] driicken
+read
+
+mpg123 *.mp3
+all.sh
+
+#1 /bin/bash
+
+cvlc +I dummy "$1" --sout="#transcode{acodec=mp3, vcodec=dummy}: standard{access=file, mux=raw,dst=$1.mp3}" ylco://quit &
+list. txt
+
+https: //m. youtube. com/watch?v=0FGVBE2M8ts
+https: //wmw. youtube, com/watch?v=rFv7mHT fond
+https: //Amm. youtube. com/watch?v=vil3qbXolzw
+~ INSERT
+
+30,9 Top

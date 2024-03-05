@@ -1,0 +1,24 @@
+Deep Blue versus Kasparov
+
+Main article: Deep Blue versus Garry Kasparov
+‘Deep Blue and Kasparoy played eachother on two occasions. The fist match began on 10 February 1986, n which Deep Bue became the frst machine to win a chess game agains a eiging word champion (Garry Kasparov) under regular time contol, However,
+Kasparov won tree and drew two ofthe folowing five games, beating Deep Blue by a score of 4-2 (wins count point, draws count point). The match concluded on 17 February 1996.
+
+‘Deep Blue was then heavily upgraded (unofcially nicknamed "Deeper Blue")! and played Kasparov again in May 1997, winning the si-game rematch 3¥%-2%, ending on 11 May. Deep Blue won the deciding game six ater Kasparov made a mistake inthe opening,
+‘becoming the fist computer system to defeat a reigning world champion in a match under standard chess tournament time contals.
+
+‘The system derived its playing strength mainly from brut force computing power. twas a massively parallel, S/6000 SP Thin P2SC-based system wih 30 nodes, with each node containing a 120 MHz P2SC microprocessor, enhanced wth 480 special purpose VLSI
+chess chips. ts chess playing program was written in C and ran under the AIX operating system. was capable of evaluating 200 milion postions per second, twice as fast asthe 1996 version n June 1997, Deep Blue was the 259th most powerful supercomputer
+according to the TOPS0O list, achieving IERGERSELIGRS on the High-Performance LINPACK benchmark 26
+
+‘The Deep Blue chess computer that defeated Kasparov in 1997 would typically seach to a depth of between six and eight moves toa maximum of weny or even more moves in some situations. 7 David Levy and Mon Newborn estimate that one addtional ply (hal-
+‘mave) increases te playing strength $0 to 70 El points")
+
+‘Deep Blue's evaluation function was inal writen in a generalized form, with many to-be-determined parameters (e.g, how importants a safe king poston compared to a space advantage inthe center, et). The optimal values for these parameters were then
+determined by the system itsel,by analyzing thousands of master games. The evaluation function had been spit into 8,000 pars, many of them designed for special postions. n the opening book there were over 4,000 postions and 700,000 grandmaster games. The
+endgame database contained many si piece endgames and five or fewer piece postions. Before the second match, the chess knowedge ofthe program was ne tuned by grandmaster Joel Benjamin. The opening brary was provided by grandmasters Miguel ilescas,
+John Fedorowicz, and Nick de Frmian. 2! When Kasparov requested that he be allowed to study other games that Deep Blue hai played so as to better understand his opponent, IBM retused. However, Kasparov did study many popular PC games to become familia with
+‘computer game playin general #9 nose
+
+‘ter Nate Siver suggests that a bug in Deep Blue's software led to a seemingly random move (the 4th in the fist game ofthe second match) which Kasparov misatibuted to “superior intligence” 721] subsequent, Kasparov experienced a drop in performance due
+to anxiety inthe folowing game.

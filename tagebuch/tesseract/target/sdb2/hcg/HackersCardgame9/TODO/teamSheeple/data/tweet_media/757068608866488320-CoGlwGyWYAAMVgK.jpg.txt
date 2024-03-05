@@ -1,0 +1,33 @@
+whois: This information is subject to an Acceptable Use Policy
+See http://www .nic.ch/terms/aup.html
+
+Domain name:
+sgap.ch
+
+Holder of domain name:
+Schweizerische Gesellschaft fiir Analytische Psychologie
+Christoph Meier
+
+Laupenstrasse 2
+
+CH-3001 Bern
+
+Switzerland
+
+Contractual Language: German
+
+Registrar:
+switchplus AG
+
+First registration date
+2002-03-19
+
+DNSSEC:N
+
+Name servers:
+
+nsl.webland.ch [92.43.216.7]
+
+s2.webland.ch [92.43.217.7]
+
+Ds cgdats avis wbiiinfaare /oiaveyes fGud. Avia. Gaye asunebaydeda/homayaance | |

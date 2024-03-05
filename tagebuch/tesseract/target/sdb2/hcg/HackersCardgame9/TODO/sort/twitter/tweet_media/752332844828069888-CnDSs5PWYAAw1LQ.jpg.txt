@@ -1,0 +1,25 @@
+USB General Settings
+
+General Settings
+Simultaneous FTP Connections 5 (Maximum 6)
+Default Charset English y]
+
+‘Samba Service Settings(Network Neighborhood)
+
+@ Enable © Disable
+
+LAN Only @ LAN And WAN
+
+Workgroup Name
+
+Host Name
+
+Note: 1. i Charset is set to "English", only English long file name is supported
+2. Multi-session ftp download will be banned by Router FTP server. If your ftp client have multi-connection
+‘mechanism, such as FileZilla, you may limit client connections setting to 1 to get better performance.
+
+3. A workgroup name must not be the same as the host name. The workgroup name and the host name can have
+‘as many as 15 characters and a host name can have as many as 23 characters , but both cannot contain any of
+the following: .;:"<>*4=/\|?
+
+OK
