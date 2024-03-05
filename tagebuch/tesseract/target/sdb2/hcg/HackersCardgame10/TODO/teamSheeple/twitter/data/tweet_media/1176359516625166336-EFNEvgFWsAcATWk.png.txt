@@ -1,0 +1,29 @@
+Q
+
+marc@192.168.179.222's password:
+sending incremental file list
+Daten.2019/
+Daten.2019/40sec-suicide-calc.png
+Daten.2019/BACKUP-PURPOSE. txt
+Daten.2019/ChecklistePsychiatrie.odt
+Daten.2019/CornercardPIN. txt
+Daten.2019/DeadFrame.log
+Daten.2019/Kreditkarte. txt
+Daten.2019/Kreditkarte2. txt
+Daten.2019/backup.desktop.sh
+Daten.2019/backup.sh
+Daten.2019/coexist-unicode.png
+Daten.2019/del.sh
+Daten.2019/mann-notre-dame.png
+Daten.2019/monitor.sh
+Daten.2019/narzismus.png
+Daten.2019/parkplatz_92. jpg
+Daten.2019/parkplatz_92.png
+Daten.2019/pci30-2.txt
+Daten.2019/pci30-later.txt
+Daten.2019/pci30.txt
+Daten.2019/piraten-kalender.png
+Daten.2019/pointer.png
+
+Terminal
+

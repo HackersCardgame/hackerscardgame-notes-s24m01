@@ -1,0 +1,59 @@
+payee oo _
+
+20210828.txt
+
+20210828. txt
+
+85
+
+86 ich verpetz das nicht um recht zu bekommen oder einen prazedenzfall zu schafen, sondern um allenfalls anderen zu helfen in
+&hnlichen situationen dass sie diesen weg allenfalls umgehen kénnen
+
+87
+
+881. der Coop Chef telli hat gesagt im coop system stehe: wenn ich im laden sei soll man die polizei holen, er sei grossmiitig und
+hole die poizei nicht weil ich 2meter in der ladenflache (aber nihct im laden selber) stand
+
+892. ich hab ihm vorhin gesagt, dass die coop infrastruktur epilepsie bei mir ausgelést hat und dass ich das opfer und nicht der
+tater sei
+
+903. er hat gesagt er miisse die sicherheits-cheffin fragen, ruft an
+
+©14, ich bin dann nochmals dort hin und habe gefragt wer den eintrag gemacht habe dass man die polizei holen soll
+
+02 -->da sagt er es sei der mitarbeiter im coop am bahnhof geswesen, was vermutlcih eine lige war
+
+©35. ich frage den menschen, ob das coop informatik system eigentlich ein auftragssystem fir morde von dieser sorte von amerikanern
+sei
+
+946. da spilet der chef-npc wieder das endlos band “ich hole die polizei" ab und bei mir schaltet wieder icd10 g40.2 ein, obwohl
+ich nicht im laden bin, ausserdem filmt die kamera allenfalls auch ausserhalb der ladenflache was afaik ein straftatbestand
+darstellt
+
+95
+
+°6=> nicht perfekt im detail wiedergegen
+
+97
+
+986 impliziert, dass mitarbeiter wissen, dass sie im coop system auftragsmorde eintragen kénnen
+
+996 impliziert, dass coop die polizei zum vertuschen von mordversuchen an kunden verwendet
+
+100=> dieser mitarbeiter zieht den ruf der polizei in den dreck [bei mir schaltet jetzt wieder icd10 G40.2 ein]
+
+101
+
+102 Sat Aug 28 20:07:26 CEST 2021
+
+103 102 694 5433 20210828. txt
+
+104 [main af136a4] save
+
+105 1 file changed, 17 insertions(+)
+
+106 €9579292acSa6F17d1856b358c646e13082b34e484a3e4230Fa7 424228d39cc9269722f fd6a915ebd728123c0d5880698F fSdcafc9aeVacdad461lec1817567ae
+20210828. txt
+
+107
+

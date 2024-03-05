@@ -1,0 +1,75 @@
+Source of: imap://mail%40marclandolt%2Ech@imap.mail
+
+Jhostpoint.ch:143/fetch%63EUID%3E-INBOX9%3E136659 - Mozilla Thunderbird
+
+Eile Edit View Help
+
+Return-Path: <point@narclandolt .ch>
+Delivered-To: mailenarclandolt .ch
+Received: from mait-Ubl.ads.hostpoint.ch ({10.0.0.105})
+by popinapo18.nail.hostpoint.ch with LIT?
+{id UAIBOpLOCESDUAEAIESTA
+(envelope-From <point@narclandolt. ch>)
+for <nailgsarclandolt.ch>; Fri, 10 Jul 2020 13:18:53 +0200
+Received: from mxin018.sail .hostpoint.ch ({10.4.2.218])
+by mail-lb1.adn.hostpoint .ch with LTP id mEBHOpLOCF+jBgAAQBAVOA
+} Fri, 10 Jul 2020 13:18:53 +0200
+Received: fron ipS2.ip-51-210-160.eu ({51.210.160.52} helowntas3.autoneretto. con)
+by mxin018.nail-hostpoint .ch with esmtps (TLSv1.3:TLS AES 256 GCM SHA3B4:256)
+(Exim 4.92.3 (Freeasb))
+(envelope-from <point@narclandolt. ch>)
+id 1}traN-000afe-u5
+for infognarclandott .ch; Fri, 10 Jul 202 13:18:53 +0200
+Authentication-Results: mtal.autonerello.con; spfenone reason="no vespfi record published”
+(trace: RESTIHDLY29y2chzkToKICAgIGIhceNsYWSkb2xOLNoL iBUAFOgKG5vIHJLY29y24pCQ
+==) sntp.nailfronepoint@sarclandolt.ch;,
+kin-none reason="nessage not signed!
+Content-Type: sultipart/alternative; boundary="------------689493800509070704020402"
+MIME-Version: 1.0
+Date: Fri, 10 Jul 2020 11:18:53 GHT
+Subject: Erneverung Problen - narclandott .ch
+Fron: hostpoint <point@narclandolt.ch>
+Reply-To: hostpoint <point@narclandolt.ch>
+X-FAL: 1.16 53.0. 696E666F40606172636C616EG46F6C742E6368
+Message-ID: <NDQ2HYS. MTAMENUIN.5365107101118202053509413750@aarclandolt .ch>
+To: *zarclandolt.ch" <infognarclandolt .ch>
+X-Vs-State: LEGIT
+X-Forwarded-Original-Recipient: info@narclandolt .ch
+X-Original-To: infogearclandolt ch
+X-Hostpoint -Spanbox: NO
+
+- -040403000509070704020402
+Content-Transfer-Eneading: quoted-printable
+Content-Type: text/plain; charseteutf-8; fornateflowed
+
+Schr geehrter Kunde,
+
+Ihr Wir sind nicht in der Lage, thren Donain-Nasen marclandolt.ch mit der m=
+it
+
+Thren Konto verkn=C3-8¢pften TBAN 2u erneuern, Dies f=C2-8Chrt in den n=C3=
+ssAdchsten 24
+
+Stunden dazu. MeC3-B6glicherweise sind nicht alle zugeheC3+86rigen Dienste =
+(2. 8.
+
+Website, e-Mail) verfac3«Bcgbar. In =C3-9Cbereinstimmung mit den in unseren
+Vertrac-aégen
+
+festgelegten Bedingungen.
+
+Wenn Sie daran interessiert sind, Thren Donain-Nanen weiterhin beizubehalte=
+aktualisieren Sie bitte Ihre Zahlunginforsationen,
+
+Erneuern Sie Ihren Don=C3-Aénennanen:
+
+https//hostpoint. ch/apps/CustonerService#/skl?=30narclandolt.ch
+
+-<https://roygroup.it/marclandolt .ch> +
+Freundliche Gr=C3-8C=C3=9Fe
+
+Kerstin Schrac3<B6der
+Hostpoint-Kundenbetrewung
+
+=C2=A9 2001 - 2020 Hostpoint AG
+Neue Jonastrasse 68, 8640 Rapperswil-Jona, Suisse

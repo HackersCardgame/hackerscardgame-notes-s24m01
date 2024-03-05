@@ -1,0 +1,72 @@
+a marc@debian: ~
+
+disk/HackersCardgame11/jpg/EN/m41. jpg
+\disk/HackersCardgame11/jpg/EN/m42. jpg
+
+Jdisk/Hackerscardgame11/}pg/EN/n43.jp9
+
+disk/HackersCardgame11/jpg/EN/m44. jpg
+
+idisk/HackersCardgame11/jpg/EN/m45. jpg
+
+disk/HackersCardgame11/jpg/EN/m46. jpg
+
+disk/HackersCardgame11/jpg/EN/m47. jpg
+
+idisk/HackersCardgame11/jpg/EN/m48. jpg
+
+Jdisk/Hackerscardgame11/}p9/EN/n49..jp9
+
+jdisk/HackersCardgame11/jpg/EN/m4. jpg
+
+disk/HackersCardgame11/jpg/EN/m50. jpg
+
+disk/HackersCardgame11/jpg/EN/m51. jpg
+
+\disk/HackersCardgamel1/jpg/EN/m52. jpg
+
+disk/HackersCardgame11/jpg/EN/m53. jpg
+
+disk/HackersCardgame11/jpg/EN/m54. jpg
+
+ldisk/HackersCardgame11/jpg/EN/m55. jpg
+
+disk/HackersCardgame11/jpg/EN/m56. jpg
+
+disk/HackersCardgame11/jpg/EN/mS7. jpg
+
+idisk/HackersCardgame11/jpg/EN/m58. jpg
+
+Jdisk/Hackerscardgame11/}p9/EN/m59.jp9
+
+Jdisk/HackersCardgame11/jpg/EN/m5. jpg
+
+idisk/HackersCardgame11/jpg/EN/m60. jpg
+
+disk/HackersCardgame11/jpg/EN/m61. jpg
+
+\disk/HackersCardgame11/jpg/EN/m62. jpg
+
+--More-- 7c
+
+Imarc@debian:~$ rsync -avz /home/marc/disk/HackersCardgame11/jpg/EN/t1. jpg marcland@ftp.marclandolt . ch:~/www/0x8.ch/HackersCardgame10/jpg/EN/
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failures
+lbisconnected from 217.26.52.40 port 22
+
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+
+rsync error: unexplained error (code 255) at io.c(235) [sendet 2.2)
+Inarcedebian:~$ rsync -avz /home/marc/disk/HackersCardgamel1/}pg/EN/t1. jpg marcland@ftp.marclandolt.ch:~/www/0x8..ch/HackersCardgame10/ jpg/EN/
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failures
+Disconnected from 217.26.52.40 port 22
+
+rsync: connection unexpectedly closed (@ bytes received so far) [sender]
+
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.2.2]
+imarc@debian:~$ ssh marcland@ftp.marclandolt.ch
+
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failures
+[Disconnected from 217.26.52.40 port 22
+
+Imarc@debian:~$ ff
+

@@ -1,0 +1,35 @@
+5 http://ch.archive.ubuntu.com utopic-updates/main Translation-en [20.5 kB]|
+
+Get:16 http://ch.archive.ubuntu.com utopic-updates/universe Translation-en [10.5
+
+kB]
+Hit http://ch.archive.ubuntu.com
+Hit http://ch.archive.ubuntu.com
+Hit http://ch.archive.ubuntu.com
+Hit http://ch.archive.ubuntu.com
+Fetched 240 kB in 9s (24.1 kB/s)
+
+utopic-backports/universe
+utopic-backports/universe
+utopic-backports/universe
+utopic-backports/universe
+
+Sources
+amd64 Packages
+1386 Packages
+
+Translation-en
+
+W: Failed to fetch http://ch.archive.ubuntu.com/ubuntu/dists/utopic-updates/main
+/i18n/Translation-en Hash Sum mismatch
+
+W: Failed to fetch htt;
+
+erse/i18n/Translation-en Hash Sum mismatch
+
+/ch.archive.ubuntu.com/ubuntu/dists/utopic-updates/univ|
+
+E: Some index files failed to download. They have been ignored, or old ones used
+
+instead.
+root@kali:/home/marc/Daten.2014#

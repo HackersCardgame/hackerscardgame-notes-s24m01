@@ -1,0 +1,19 @@
+marc@debian:~/Daten.2019$ find . |grep ISAS
+
+. /tagebuch/clean/2006/toSortLaube/D > \SEMBLY. txt
+
+. /tagebuch/2004/Gedanken/D! )“SEMBLY. txt
+
+. /tagebuch/2006/toSortLaube/D! >) °SEMBLY. txt
+
+. /tagebuch/chaos /D 5) sSEMBLY. txt
+
+. /tagebuch/2005 /Gedanken/D! 5) “SEMBLY. txt
+./buero/datenauszuege/1 °°
+-/buero/datenauszuege/* = °° /abzokkeret
+./buero/datenauszuege/ ‘°° /abzokkerei/id-find-2.pages
+. /buero/datenauszuege/ ‘= °/abzokkerei/IDfind.pdf
+
+. /buero/datenauszuege/ 1 > /abzokkerei/id-find.pages
+. /buero/datenauszuege/' > /anfrage.pages
+marc@debian:~/Daten.2019$

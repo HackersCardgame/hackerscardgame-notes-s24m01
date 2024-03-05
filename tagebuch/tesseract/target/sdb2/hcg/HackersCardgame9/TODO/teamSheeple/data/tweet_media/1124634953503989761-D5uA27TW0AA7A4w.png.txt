@@ -1,0 +1,32 @@
+192.168.179.1: Traffic on interface wan-wan1 (1h)
+4Mbps
+
+3Mbps
+2Mbps
+Mbps
+
+obps
+
+12:20
+1228
+1230
+125
+1240
+1aas
+1250
+1258
+13:00
+13.05
+13:30
+ras
+
+05-04 12:17
+05-04 13:17,
+
+last min avg
+[i Incoming traffic on interface wan-wanl [avg] 1.04Mbps 92.06 Kbps 241.01 Kbps
+Bi Outgoing traffic on interface wan-wanl [avg] 62.08 Kbps 2.39Kbps 437.94 Kbps
+
+192, 168.179.1: Traffic on interface lan-lan3 (1h)
+
+on he

@@ -1,0 +1,59 @@
+August /130830. txt:
+
+) versicherungsbetrug und obfuscation (ber foucaoult generalisiserten kanit
+
+evaluator /wordcount . 1 versicherungsnitarbeiter
+evaluator/wordcount- 1 zrichversicherung
+evaluator/wordcount . 1 zirichversicherung
+evaluator /wordcount 4 Lebensversicherung
+
+evaluator/wordcount .. 4 versicherungsbetrug
+evaluator/wordcount .. 6 versicherung
+
+grep: evaluator/tenp.txt: binary file matches
+
+Januar/130130.txt:5. versicherung nach geld fragen, oder den mitarbeiter so versklaven
+Juli/130723. txt: ->drogenabschuss ZH, urs blum Zurich versicherung
+September/130914.txt:handlungen passen. -> spezifische lebensversicherung + gesundheitscheck???
+tenp.txt: binary file matches
+
+Wordcount.txt: binary file matches
+
+narc@debian:~/arc/txt/tagebuch/2012$ fgrep -ri versicherung *
+April/120414.txt:Vollstandige induktion --> meinem vater passt es also nicht, dass ich brav der rechtsschutzversicherung melde und die jungs minc jetzt rein lassen
+August /120819. txt: ->Sname von versicherungsvertreter
+
+evaluator/wordcount .. 1 Lebensversicherung
+evaluator/wordcount . 1 versicherungsnitarbeiter
+evaluator/wordcount .. 1 zrichversicherung
+evaluator/wordcount . 1 ziirichversicherung
+evaluator/wordcount .. 2 sozialversicherungsgelder
+evaluator/wordcount .. 2 versicherungsbet rug
+evaluator/Wordcount . 3 rechtsschutzversicherung
+evaluator/Wordcount .. 3 versicherung
+evaluator/wordcount .. 3 versicherungsschutz
+evaluator/wordcount . 3 versicherungsvertreter
+evaluator/wordcount .. 4 sozialversicherungsgelder
+evaluator/wordcount . 4 versicherungsbetrugtxt
+evaluator/wordcount .. 5 versicherungsbetrug
+
+grep: evaluator/Wordcount.txt: binary file matches
+evaluator/myfiles.txt:../Juni/Natel/Torax schmerzen, visual ich soll den kiosk abfackeln weil sie mich immer wieder vergiftet, versuchter versicherungsbetrug_.txt
+evaluator/temp. txt: 1 lebensversicherung
+
+grep: evaluator/temp.txt: binary file matches
+
+Januar/Natel/20120109141919. txt :Allenfalls zank um sozialversicherungsgelder.
+
+Januar/Natel/20111121131546.txt:Eigene firma sabotieren waere allenfalls versicherungsbetrug oder profit durch klage
+
+Juli/120715.txt:er macht auf risikoabschatzung und folgen <-- allenfalls riickstellungen... / versicherung.
+
+Juli/120707. txt:versicherungsbetrug. U was ned schén isch wird schonner we mes 2 bode brénnt
+Nai/120528.txt:ich habe noch kurze Zeit Versicherungsschutz bei Thnen und
+
+nyfiles.txt:./Juni/Natel/Torax schmerzen, visual ich soll den kiosk abfackeln weil sie mich inmer wieder vergiftet, versuchter versicherungsbetrug_.txt
+grep: Wordcount.txt: binary file matches
+
+narc@debian:~/arc/txt/tagebuch/2012S I
+

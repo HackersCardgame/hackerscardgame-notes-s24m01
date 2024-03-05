@@ -1,0 +1,18 @@
+marc@kalai:~/Daten.2015$ whois iway.ch
+Whois: This information is subject to an Acceptable Use Policy.
+See http: //www.nic.ch/terms/aup .html
+
+Domain name:
+
+Holder of domain name:
+
+iWay AG
+
+Matthias Oswald
+Badenerstrasse 569
+
+ICH-8048 Zuerich
+
+Switzerland
+
+Contractual Language: German

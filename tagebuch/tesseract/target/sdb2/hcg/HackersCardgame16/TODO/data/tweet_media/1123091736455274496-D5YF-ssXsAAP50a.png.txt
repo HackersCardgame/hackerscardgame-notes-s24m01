@@ -1,0 +1,25 @@
+(> ¢@
+
+| ® 192.168.179.141/values
+
+e)
+
+Ubersicht » Aktuelle Werte
+
+43 Sekunden seit der letzten Messung.
+
+Sensor | Parameter Wert
+
+SDS011 | PM2.5 23.5 ugim?
+SDS011 | PM10 25.3 ugim?
+DHT22_ | Temperatur 16.0 °C
+
+DHT22_ | rel. Luftfeuchte 69.8%
+
+WiFi — | Signal -60 dBm
+WiFi — | Qualitat 80%
+Anzahl Messungen: 1
+
+a
+
+© Open Knowledge Lab Stuttgart a.o. (Code for Germany)

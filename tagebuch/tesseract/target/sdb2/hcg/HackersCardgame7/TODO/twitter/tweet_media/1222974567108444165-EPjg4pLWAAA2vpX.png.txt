@@ -1,0 +1,8 @@
+ee
+
+marc@debian:~/Daten.2020/tagebuch/2020/januar$ sha256sum 200130.txt
+cec22787a0048b8bbObbbd2324d74e91b6b220c5460509850008669d26d42c77 = 200130.txt
+marc@debian:~/Daten.2020/tagebuch/2020/januar$ md5sum 200130.txt
+272318ae92a6eaf7ccO8d0369db97154 200130.txt |
+marc@debian:~/Daten.2020/tagebuch/2020/januar$ I
+

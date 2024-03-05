@@ -1,0 +1,31 @@
+Help | Get support | Print | Profile | Logout
+Monitoring Inventory Reports Configuration Administration
+I i
+
+Rombach Curent nove [air ___v | Select Wodes
+Dashboard Overview Web Latest data Events Graphs Screens | Maps Discovery | IT services | search]
+
+History: Configuration of templates » Configuration of host groups »» Host inventory overview » Dashboard » Status of triggers
+
+STATUS OF TRIGGERS [16 Sep 2015 03:
+
+25] (4
+
+Triggers Group [Local node: Network ¥) Host (all Y
+Displaying 2 to 6 of 6 found
+
+i
+
+O Status Info Lastchange 4 Age Acknowledged Host ‘Comments:
+O Waring oK 16 Sep 2015 03:09:01 9m24s Acknowledged waw.marclandolt.ch Response time is too high on www.marclandolt.ch Add
+
+© Average 0K 16.Sep 2015 03:00:01 9m 24s Acknowledged www.marclandott.ch 4 www. marclandolt.ch is unavailable by ICMP. add
+
+© Waming 0K 16 Sep 2015 03.00:0 9m 24s Acknowledged www.marclandott.ch Ping loss is too high on wew.marclandalt.ch Add
+Warning 0K 16Sep 201509:0659 11m26s Acknowedged —Router Yetnet 0 Geman neni A
+
+O Warning oK 6 Sep 2015 03:06:59  11m26s Acknowledged Router Yetnet } Ping toss is too high on Router Yetnet, Add
+average 16.Sep 2015 03:06:59 11m26s Acknowledged Router Yetnet # Router Yetnet is unavailable by ICMP add
+
+Copyright 2001.20:
+

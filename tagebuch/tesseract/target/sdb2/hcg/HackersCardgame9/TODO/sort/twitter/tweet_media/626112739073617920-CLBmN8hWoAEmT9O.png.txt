@@ -1,0 +1,75 @@
+@c«\ Oo:
+
+(oar
+
+Ws
+
+(Ot / mixer
+
+vi
+
+fil \vt
+
+Be
+
+¥ -} G |B 192.168.179.133/zabbix/screenedit. php ?delete= 18form=update&screenid= 100100000000020&screenitemid= 100100000000078&sid=694faf4ba82 79
+
+ZABBIX
+
+Host groups | Templates
+
+Monitoring Inventory Reports Configuration | Administration
+
+Hoste Maintenance
+
+Aotione
+
+Slide shows | Maps
+
+Discovery
+
+ITeervices
+
+Rombach
+
+Help | Getsuppor | Pint | Profle | Li
+
+Cument node [ait | [Select odes]
+
+Ie er EC ee Me Toe SCS Te ST
+tem deleted
+Network
+= = a
+Local node: 192.168.179.1: Traffic on interface LAN (1h)
+30 Mbps :
+20 Mbps A
+20 Mbps
+obps
+a & A
+last min ag last min ag mj
+Bi Incoming traffic on interface WAN2 [avg] 21.06Mbps 418Kbps 4.82 Mbps 23.9] MM Incoming traffic on interface LAN [avg] 392.7 Kbps 7.04Kbps 109.82Kbps 494.65
+BW Outgoing traffic on interface WAN2 [avg] 351.54Kbps 262Kbps 96.88Kbps 450.]| [ll Outgoingtraffic on interface LAN [avg] 21.06Mbps S.53Kbps  482Mbps 23.59]
+change chanas
+a :
+Iraffic on interface NC-6900h (1h) Local nod
+kbps 1sbps
+4 kbps 20 bps
+2kbps 05 bps
+ODS A a 5 5 |
+Fy & BEFEPPSLEGS ESSE SESS EELRSS EE S |
+4 SUSSRS ASHRAM aaa RA SR AAA a i
+last min avg last min’ avg max |
+Incoming traffic on interface NC-6900h [avg] 295Kbps 1.93Kbps _278Kbps 4.7: Incoming traffic on interface SoftwareLoopBack [avg] Obps Obps Obps Obps
+Hl Outgoing traffic on interface NC-6900h [avg] 112 bps 16 bps 167.86 bps —24| fl Outgoingtraffic on interface SoftwareLoopBack [avg] Obps Obps Obps Obps.
+
+® ‘tron-20-prison....jpg
+
+marcland_buzz....sql | ® iimages.ipg
+
+\® download (1).ipg
+
+| ® tittePic_cogSci.jpg
+
+# Show all downloads...
+
+x

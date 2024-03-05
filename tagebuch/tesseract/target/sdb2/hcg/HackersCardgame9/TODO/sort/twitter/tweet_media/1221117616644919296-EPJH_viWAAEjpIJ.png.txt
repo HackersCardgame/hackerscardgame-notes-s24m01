@@ -1,0 +1,39 @@
+What are good explanations for relay flags?
+
+| astev yeas. smnths ago Active 11 mnths a0 Viewed 12k times
+
+28
+
+We received an Atlas patch that adds tooltips to relay flags, so that relay operators can better
+understand what these flags mean. The patch author used dlr-spec.txt as their guide. | wonder if these
+are good explanations, or if they should be closer to the spec or even implementation, or if they should
+be more general. Here are the suggestions:
+
+BadExit: This relay breaks stuff, either maliciously or through misconfiguration.
+
+Fast: This relay has lots of bandwidth available.
+
+HSDir: This relay is a v2 hidden service directory.
+Named: This relay has a nickname.
+
+Running: This relay has been online within the past 45 minutes.
+Stable: This relay is considered stable,
+
+V2Dir: This relay supports the v2 directory protocol.
+
+Valid: This relay is running a version of Tor not known to be broken, and the directory authority has
+not blacklisted it as suspicious.
+
+Unnamed: This relay's configured nickname is used by another relay.
+
+Exit: This relay is configured to be the last hop (exit relay) in a Tor circuit.
+
+Are there better phrasings for some/all of these?
+
+relays flags
+
+this question adited Mara“ arian. sched Ort @ ya argn>
+
+Li
+
+Re

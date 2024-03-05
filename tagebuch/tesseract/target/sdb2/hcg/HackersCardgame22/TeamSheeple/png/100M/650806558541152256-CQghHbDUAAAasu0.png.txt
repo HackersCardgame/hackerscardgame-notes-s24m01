@@ -1,0 +1,17 @@
+800 Kbps
+600 Kbps
+400 Kbps
+200 Kbps
+
+Obps
+
+av
+HH incoming traffic on interface ethO [avg] 32.47 Kbps _ 952bps 39.88 Kbps. 750.4
+
+Local node: 192.168.1739.20: Traffic on interface ethO (6h)
+
+ee EEE.
+
+last min
+
+i Outgoing traffic on interface etho [avg] 195.98Kbps 262Kbps 49.28 Kbps 706.5

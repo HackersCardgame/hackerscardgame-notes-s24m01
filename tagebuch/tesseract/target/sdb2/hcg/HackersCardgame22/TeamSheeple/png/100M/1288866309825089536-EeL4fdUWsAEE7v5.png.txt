@@ -1,0 +1,90 @@
+Activities) Terminal ~ Aw ae
+
+# Test if user has given enough paraneters
+nareedebian:~/installation-scripts/desktop/debian/busters vin instal.sh
+nareedebian:~/installation-scripts/desktop/debian/busters vin install.sh
+narc@debian:-/installation-seripts/desktop /debian/busters 1s,
+fail.txt_dnstall.sh nofdleDin-sh
+sarcedebian:~/installation-scripts/desktop/debian/busters cot foil.txt
+apt-get -y -o Acquire: :ForcerPvéetrue install chromium
+apt-get -y -0 Acquire: ForcelPyéstrue install chronium-browser
+apt-get -y -0 Acquire: :ForcerPvéctrue install icedove
+
+apt-get -y -0 Acquire: :ForceIPvéstrue install vatkyrie
+
+pip instal youtube-dt
+
+pips instal music-dl
+
+apt-get -0 Acquire: :ForceIPvéstrue install arp-scan
+
+apt-get -0 Acquire: :ForcelPvéstrue install sshfs.
+
+apt-get autorenove
+
+apt renove gnone-shell-extension-ubuntu-dock
+
+apt-get 0 Acquire: sForcelpvéstrue install chrome-gnone-shelt
+sudo. apt instatl vaniLta-gnone-desktop
+
+apt-get -y -0 Acquire: :ForcerPvé=true install chroniun-browser
+apt-get -y -0 Acquire: :ForcelPvéstrue install icedove
+
+apt Fenove gnone-shell-extension-ubuntU-dock
+
+sudo apt instatt vanilta-gnone-desktop
+
+apt-get -y -0 Acquire: :ForcerPvé=true install chroniun-browser
+apt-get -y -0 Acquire: :ForcelPvéstrue install icedove
+
+apt Fenove gnone-shell-extension-ubuntU-dock
+
+sudo apt instatt vanilta-gnone-desktop.
+
+apt-get -y -0 Acquire: :ForcerPvé=true install chroniun-browser
+apt-get -y -0 Acquire: :ForcelPvéstrue install icedove
+
+apt Fenove gnone-shell-extension-ubuntU-dock
+
+sudo apt instatt vanilta-gnone-desktop
+
+apt-get -y -0 Acquire: :ForcerPvé=true update
+
+apt-file -o Acquire: :ForceIPvastrue update
+
+apt-get -y -0 Acquire: :ForcerPvi-true install. chromium-browser
+apt-get -y -0 Require: :ForcerPvéctrue install icedove
+
+apt-get -y -0 Acquire: :ForcerPvé-true install valkyrie
+apt-get -y -0 Acquire: :ForcelPvéstrue install mixxx
+
+pip install youtube-di
+
+apt-get update
+
+apt renove gnone-shell-extension-ubuntu-dock
+
+sudo apt intatl vanilta-gnone-desktop
+
+apt-get -y -0 Acquire: -rorcerPvsetrue update
+
+apt-file “0 Acquire: :ForceIPy
+
+apt-get -y -0 Acquire: ‘instal chromiun-browser
+apt-get -y -0 Acquire: :ForcelPvéstrue install icedove
+
+apt-get -y -0 Acquire: :ForcerPéctrue install valkyrie
+apt-get -y -0 Require: :ForcerPvéstrue install mixxx
+
+pip install youtube-dt
+
+apt-get update
+
+apt enove gnone-shell-extension-ubuntu-dock
+
+apt-get -y -0 Require: ForcerPvi=teue install chromiun-browser
+apt-get -y -0 Acquire: :ForcerPvéstrue install icedove
+
+apt renove_gnone.chellextension-ubunt- dock
+
+earcedebian:~/installation-scripts/desktop/debian/busters

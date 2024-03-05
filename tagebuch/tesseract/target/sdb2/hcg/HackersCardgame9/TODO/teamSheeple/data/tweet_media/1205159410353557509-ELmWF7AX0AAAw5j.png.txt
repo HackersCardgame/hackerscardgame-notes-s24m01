@@ -1,0 +1,27 @@
+marcland@s30: ~/www/Ox8.ch/HackersCardgames Qo = -
+
+1 marcland marcland 1024 Dec 6 00:19 prerequisites.sh
+2 marcland marcland 4096 Dec 12 00:24 scripts.eoan
+18 marcland marcland 4096 Dec 6 00:20 temp
+[marcland@s30:~/www/Ox8.ch] § rm HackersCardgame3/
+rm: HackersCardgame3/: is a directory
+[marcland@s30:~/www/@x8.ch] 1 § rm HackersCardgame3/ -rf
+rm: HackersCardgame3/: is a directory
+rm: -rf: No such file or directory
+[marcland@s30:~/www/@x8.ch] 1 § rm -rf HackersCardgame3/
+[marcland@s30:~/www/@x8.ch] § cd HackersCardgame5/
+[marcland@s30:~/www .. h/HackersCardgameS] master # git pull
+remote: Enumerating objects: 20, done.
+remote: Counting objects: 100% (20/20), done.
+remote: Compressing objects: 100% (7/7), done.
+fatal: packfile .git/objects/pack/pack-8ad6aa5fe9d784ac92cde76f326912fFO8F4e6591.
+pack cannot be mapped: Cannot allocate memory
+fatal: unpack-objects failed
+[marcland@s30:~/www .. h/HackersCardgame5] master 1 + hostname
+Is3@.server .hostpoint.ch
+[marcland@s30:~/www .. h/HackersCardgame5] master + uname -a
+FreeBSD s30.server.hostpoint.ch 11.3-RELEASE-p5 FreeBSD 11.3-RELEASE-p5 #11 r354
+I990M: Fri Nov 22 07:19:50 UTC 2019 root@port1@.adm.hostpoint.ch: /usr/obj/usr
+/src/sys/HOSTPOINT amd64 |
+[marcland@s30:~/www .. h/HackersCardgame5] master + ff
+

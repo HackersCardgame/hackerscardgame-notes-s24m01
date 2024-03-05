@@ -1,0 +1,75 @@
+Activities &) Terminal ~ Mo 02:02
+‘marc@deblan: -/post-e-voting/source-code x
+
+Fle Ea View Search Terminal Help
+maven-generic-conf/extibs/jmeter-maven-plugin/src/main/java/con/Lazerycode/ jmeter/ErrorScanner.java:  //TODO: where would such an elenent cone from?
+naven-generic-conf/extlibs/jmeter-maven-plugin/src/main/Java/con/lazerycode/jneter/Errorscanner-java: _ //TODO: where would such an elenent cone fron”
+naven-generic-cont/extlibs/jmeter-maven-plugin/src/main/Java/con/Lazerycode/jneter/MeterAbstractMojo.java: _ // TODO: what is an error?
+
+naven-generic-cont/extlibs/maven- jmeter-plugin/pom. xml: ‘<urlohttps://sauron.scytl.net/websvn/Listing.php’repnane=maven_generic_conf&anp; path=¥2Ftrunkt2FextLibst2Fmaven-jmeter-plugin’2
+F</url>
+onLine-voting-channel/ov-eLection-information/election-infornation-services/src/nain/java/con/scytl/products/ov/ei/services/donain/service/confirmation/ConfirmationMessageNathenaticalGroupVa
+Lidation. java: // is group menber?
+
+online-voting- channel /ov-authenticat ion/authentication-services/src/main/ java/con/scytl/products/ov/au/services/domain/model/authentication/AuthenticationPasswordFor0bjectRepository. java:
+
+7/ Watch out: alias is not being used. Is it really needed’ It was
+ontine-voting-channel/ov-vot ing work" ow/voting-werkflow-services/sre/nain/java/con/scytl/products/ov/Ww/services/intrastructure/renote/VoteCastCodeRepository apt. Java 11 the vot
+e cast code was not found?
+
+online-voting-channel/ov-vote-veri fication/vote-verification-services/src/main/ Java/con/scytl/products/ov/vv/donain/model/content/CodesSecretPasswordRepository. java: // Watch out: ali
+as is not being used. Is it really needed’ It was
+
+online-voting- channel /ov-commons/ov-connons-infrastructure/src/main/java/con/scytl/products/ov/commons/inf rastructure/health/CachingHealthCheck. java: //tirst time?
+online-voting-channel/THIRD-PARTY.txt:  (CDDL + GPLv2 with classpath exception) javax.annotation API (javax.annotation: javax.annotation-api:1.2 - http://jcp.org/en/jsr/detait?id=250)
+
+onLine-voting-channel/ov-extended-authentication/extended-authentication- services/src/test/java/con/scytl/products/ov/ea/services/inf rast ructure/persistence/ExtendedAuthenticationTest. java:
+7/ 109 message contains all the mandatory tokens?
+
+online-voting-client-Library/test/Lib/parsers/listsAndCandidates.spec.js: ___// If fails, probably is due to not being able to find the question (alias changed”)
+online-voting-client-Library/src/Lib/protocol/preconpute/partial -choice-codes. js: Af (HeodesPoot) { // no pool yet?
+online-voting-client-Library/src/1ib/protocol/preconpute/partial -choice-codes. }s: } else if (codesPoot[serializedOption]) { // pec already known?
+online-voting-secure-data-manager/secure-data-manager- frontend/src/app/views/election-event-List/election-event-List.js 7/00 selection?
+online-voting-secure-data-manager/secure-data-manager-frontend/src/app/views/ballots/ballots. Js 71 00 seiection?
+online-voting-secure-data-manager/secure-data-manager-frontend/src/app/ Views /balot -boxes/bal tot -boxes. js: 7/ no sevection?
+online-voting-secure-data-manager/secure-data-manager- frontend/src/app/views/ballot -boxes/bal Lot -boxes. j 17 no sevection?
+online-voting-secure-data-manager/secure-data-manager-frontend/src/app/Views/bal ot -boxes/bal Lot -boxes. } 77 aX from the same authority?
+online-voting-secure-data-manager/secure-data-manager- frontend/src/app/views/bal ot -boxes/bal tot -boxes.}5: 77 no setection?
+online-voting-secure-data-manager/secure-data-manager- frontend/sr¢/app/services/ job -queue/job-queue. js: 17 Stil active jobs ?
+online-voting-secure-data-manager/secure-data-manager- frontend/sr¢/app/services/job-queue/Job-queue.}s: 11 batch complete?
+online-voting-secure-data-manager/secure-data-manager- frontend/sr¢/app/services/job-queue/job-queue. js: 7/ anything went wrong?
+online-voting-secure-data-manager/secure-data-manager-frontend/src/app/services/endpoints.js: host : isNode() ? ‘nttp://Localhost:8090/sdn-ws-rest/" : ‘/sdn-ws-rest/",
+onLine-voting-secure-data-manager/secure-data-anager- frontend/src/app/services/endpoints.js:// progress bulk: '{type}/progress/jobs’status=started' // <- not a good idea
+online-voting-secure-data-manager/secure-data-manager-backend/sdn-ws-rest/src/main/ resources/sdmConfig.htal 71 do we have such elenent + is it a modal?
+online-voting-secure-data-manager/secure-data-nanager-backend/sdn-ws-rest/src/nain/resources/operations html 7/ do we have such elenent + is it a modal?
+
+online-voting-secure-data-manager/secure-data-nanager -backend/secure-data-nanager-services/src/main/Java/con/scytl/products/ov/sdn/donain/service/inpl/progress/GenericProgressManagerService.
+java: 7/8id someone forget to register the job?
+
+online-voting- secure-data-manager/secure-data-nanager-backend/secure-data-manager-services/src/main/java/con/scytl/products/ov/sda/application/service/SdaConfigService. javé Vives
+it the "default'? should only be one...
+
+onlLine-voting- secure-data-nanager/secure-data-manager-backend/secure-data-manager-services/sr¢/main/java/con/scytl/products/ov/sdn/application/service/BallotBoxService. java: sy
+“6483 also handle ERROR status 7
+online-voting-secure-data-nanager/secure-data-manager-backend/secure-data-manager-services/src/main/java/con/scyt\/products/ov/sdn/application/service/CountingService. java: U1 0K?
+online-voting-secure-data-manager/secure-data-manager -backend/secure-data-manager -services/src/main/}ava/con/scytl/products/ov/sdn/applicat ion/service/BalLotBoxDountoadservice. java: /
+/ Could the node outputs be dovnloaded regardless’
+
+online-voting-secure-data-manager/config-generator/config-engine/src/test/ java/con/scytl/products/ov/config/nodel/authentication/SingleSecretSt rategyTest.. java: Uhahy 1k? not reason
+online-voting- secure-data-nanager/contig-generator/contig-engine/src/main/java/con/scytl/products/ov/config/connands/api/ConfigurationService. java: 1/ why jobParaneters? well we might
+get a request before we have
+
+online-voting- secure-data-manager/config-generator/config-engine/src/nain/java/con/scytl/products/ov/config/conmands/api/ConfigurationService. java: // why jobParaneters for th
+
+e id? well we might get 2 request
+online-voting-secure-data-manager/THIRD-PARTY. txt:
+id=250)
+
+online-voting-secure-data-manager/mix-net/val idation-engine/src/main/java/con/scytl/products/ov/validation/services/ValidationServicelapl..j.
+narc@debian:~/post-e-voting/source-codes fgrep -r °//" * [grep -v www | grep “?” |grep -v ,y.putInt32. grep -v message:t,encoding [grep -v
+
+(CDDL + GPLv2 with classpath exception) javax.annotation API (javax.annotation: javax.annotation-api:1.2 - http://jep-org/en/jsr/detail?
+
+a: 11 Listener?
+fe.encryptedConte™ |grep "
+

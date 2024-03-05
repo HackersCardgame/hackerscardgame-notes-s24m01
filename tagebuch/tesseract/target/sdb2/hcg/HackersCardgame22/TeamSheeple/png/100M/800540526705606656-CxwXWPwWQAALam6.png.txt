@@ -1,0 +1,21 @@
+Hochbegabung
+
+01% 22% 22% 0,1%
+
++2 +3
+130 145
+97,7 99.9
+
+Erfinder: James Alfred Ewing Jahr:~1890
+
+Hier am Beispiel der Verteilung der Intelligenz in
+der Gesellschaft, aber man k6nnte auch die Grésse
+von Menschen nehmen, oder z.B. die Anzahl von
+Haushalten mit KiUchen-Mixer... aber da mUsste
+man dann rausfinden, ob es wirklich normalverteilt
+ist
+
+Anwendungsfalle:
+Statistik, Plausibilitaten von z.B. Aussagen
+abschatzen
+

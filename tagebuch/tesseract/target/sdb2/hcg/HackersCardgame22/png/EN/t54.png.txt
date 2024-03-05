@@ -1,0 +1,6 @@
+Recognize hand gestures
+(o,») with normal WiFi Gear
+
+Inventor: 2??? Year! ~xxxx
+TODO: Read Specs...
+

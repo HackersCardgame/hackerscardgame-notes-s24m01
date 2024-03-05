@@ -1,0 +1,96 @@
+POST / HTTP/LL
+Host:
+
+User-agent: Hozilla/S.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/s2.0
+Accept: text/html, application/xhtml+xal, application/xml;q=0.9,%/*;q=0.8
+‘Accept-Language: en-US,enjq=0.5
+
+‘Accept-Encoding: gzip, deflate
+Referer: nttp://
+
+Cookie: PHPSESSID:
+
+Connection: keep-alive
+
+upgrade-Insecure-Requests: 1
+
+Content-Type: application/x-ssw-form-urlencoded
+Content-Length: 45
+
+ake=sendauser-—N;2:s- MTT /1.1. 200 0K
+Transfer-encoding: chunked
+
+X-Powered-By: PHP/S.3.0
+
+Expires: Thu, 19 llov 1961 08:52:00 GHT
+
+cache-controi: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragna: no-cache
+
+Content-Type: text/html; charset=utf-«
+
+bate: Fri, 01 Sep 2017 23:56:34 GHT
+
+server: lighttpd/1.4.19
+
+afee
+
+<2xml_version="1.0"2>
+
+<IDOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//eN" "http://ww.W3.org/TR/xhtml1/DTD/xhtml1- transi tional.dtd’>
+http: //ae.w3.org/1999/xhtml" Lang="de">
+
+<title>STIEBEL ELTROW Reglersteuerunge/title>
+sneta http-equiv= "Content-Type" content="text/html; charset=utf-8" />
+sneta http-equiv="imagetoolbar” content="no" />
+
+<meta ‘content-language" content="de" />
+<meta robots" content="noindex, nofollow" />
+<meta keywords" content=" />
+
+«neta description" content="" />
+
+<link re
+<!-- does not exist Link rel="stylesheet" hre
+
+shortcut icon” href="./pics/brlogo.ico">
+-/ess/netzwerk.css" type="text/css" medi:
+./e8s/slider/ste_slider.css" />
+
+all" /=
+
+<link re
+
+stylesheet" type="text/css" href:
+<!-- Blueprint css framework -->
+<link rel="stylesheet" /css/blueprint/screen.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" 7css/blueprint/print.css" type="text/css" media="print" />
+
+<!--[if It Ie 8]><Link rel="stylesheet" href=",/css/blueprint/ie.css" type="text/css" media="screen, projection" /><! [endif] -
+
+<link rel="stylesheet" href=",/css/Layout.css" type="text/css" medias"all" />
+
+<link rel="stylesheet*
+<link rel="stylesheet"
+
+/ess/sifr.css" type="text/css" media="all" />
+7ess/thickbox.css" type="text/css" media="all" />
+
+<link rel="stylesheet" type="text/css" href=". /css/jquery. jqplot.min.css" />
+
+<script text/javascript” ./Js/Jquery min. js"></script>
+<script text/Javascript" src="./}s/thickbox. js"></script>
+<script ext/Javascript" src="./}s/sifr.js"></script>
+<script text/Javascript" sre="./}s/sifr_sw.js"></script>
+<script text/Javascript" src="./3s/scripts. js"></script>
+
+/js/json2. js"></script>
+/}s/plugins/jquery-ui-1.8.6.custom.min.js"></script>
++/J8/setousi. js"></script>
+
+<script type="text/Javascript" src=
+<script type="text/javascript" sri
+
+<t-+ (if Te] ==>
+4 client plts, 19 server pts, 5 turns,
+

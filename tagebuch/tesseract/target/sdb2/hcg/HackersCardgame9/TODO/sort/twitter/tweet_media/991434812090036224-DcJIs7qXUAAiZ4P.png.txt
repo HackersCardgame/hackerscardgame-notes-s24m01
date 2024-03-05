@@ -1,0 +1,8 @@
+marc@debian: ~/Daten.2017/code/landolts/fotoalbum/template2
+File Edit View Search Terminal Help
+
+marc@debian:~/Daten.2017/code/landolts/fotoalbum/template2$ ssh ftp.marclandolt.ch
+2G
+
+marc@debian:~/Daten.2017/code/Landolts/fotoalbum/template2$ ping www.marclandolt.ch
+PING www.marclandolt.ch (217.26.52.40) 56(84) bytes of data.

@@ -1,0 +1,41 @@
+Q marc@gfycia: ~/mirrors/sourceforge ic
+
+marc@gfycta:~/mirrors/sourceforge$ git clone https://git.code.sf.net/p/hackersca
+rdgame6/code hackerscardgame6-code
+Cloning into 'hackerscardgame6-code'
+remote: Enumerating objects: 3163, done.
+
+remote: Counting objects: 100% (3163/3163), done.
+
+remote: Compressing objects: 100% (2774/2774), done.
+
+error: RPC failed; curl 56 GnuTLS recv error (-110): The TLS connection was non-
+properly terminated.
+
+fatal: the remote end hung up unexpectedly
+
+fatal: early EOF
+
+fatal: index-pack failed
+marc@gfycia:~/mirrors/sourceforgeS 1s
+narcagfycia:~/mirrors/sourceforge$ git clone https: //git.code.sf.net/p/hackersca
+
+rdgame6/code hackerscardgame6-code
+Cloning into 'hackerscardgame6-code'
+remote: Enumerating objects: 3163, done.
+
+remote: Counting objects: 100% (3163/3163), done.
+
+remote: Compressing objects: 100% (2774/2774), done.
+
+error: RPC failed; curl 56 GnuTLS recv error (-110): The TLS connection was non-
+properly terminated.
+
+fatal: the remote end hung up unexpectedly
+
+fatal: early EOF
+
+fatal: index-pack failed
+
+marc@gfycia:~/mirrors/sourceforges 9
+

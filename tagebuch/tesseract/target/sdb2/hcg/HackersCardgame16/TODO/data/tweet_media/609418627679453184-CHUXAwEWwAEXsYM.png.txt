@@ -1,0 +1,4 @@
+Bedingungen, um die Dampfung aufzuheben (Schaffung eines negativen differentiellen Innenwiderstandes), konnte Habann
+prazise vorausberechnen, Zaéek konnte mit einer massiven Zylinderanode Frequenzen von 1 GHz erreichen. Durch Schlitze in
+der Anode gelang Kinjiré Okabe (ff2823488) an der Universitat Tohoku in Sendai (Japan) 92M mit Frequenzen von 5,35 GHz
+der Durchbruch fur Magnetrone im Zentimeter-Wellenbereich.

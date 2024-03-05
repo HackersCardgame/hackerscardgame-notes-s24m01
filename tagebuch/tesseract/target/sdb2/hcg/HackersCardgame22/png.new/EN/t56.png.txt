@@ -1,0 +1,56 @@
+Das R-905 ist eine Richtfunkstation, die in der Schweizer Armee verwendet vam
+besteht diese
+
+eT ac i i jert i Bedient 1 (BT
+Ich h di tegriert ist — d )
+
+mit Tastatur und LCD — und einer Speiseausriistung (SA 95/1). Dazu komme! 3
+V-Akku, ein Stativ mit Abspannseilen, ein Tarnnetz, eine Kabelrolle und ein Fig af
+Schutzschalter mit Erdpfahl. Das alles ist einzeln tragbar, wiegt aber zusami
+
+Uber einen maximal 4 km langen Lichtwellenleiter (LWL) wird ein Biindelschl|
+(BSG 93) an das SE angeschlossen. Das optische Signal hat eine Nutzdate! i
+entweder 2 Mibit/s oder 8 Mibit/s.
+
+nA GA GH
+
+15,21 GHz, mit einem Fi
+von ae 150 MHz. Die maximale Reichweite betragt etwa 50 km (gen
+
+, kK6nnen maximal zwei Re
+. Eine Relaisstation besteht R-905, d
+Lichtwellenleiter verbunden sind. Pas
+
+Uber einen unverschlisselten Dienstkanal, der zu den Nutz- und Fernbetriebj <
+
+ip! , kann n ib der BSGs und der SEs ‘aan
+werden.
+
+& bearbeiten
+
+Weblinks [ Bearbeiten | Quelltext bearbeiten ]
+
+¢ R-905 bei richtstrahl.ch&@
+a = =e
+
+“https: //0x8.ch/Hackers
+
+Inventor: ??? Year: ~xxxx
+TODO:
+
+Swiss Army has dishes to send data rather slow if
+you read the specs over discance up to 50 miles.
+They use the band around 15GHz (A = 20mm).
+Equipment to measure such high frequencies you
+need a device that costs ~20'000 sFR. Out of reach
+for many poor people in Switzerland. As soon as
+one would have an implant or only a golden wire of
+the length of A/n the energy would maybe
+sufficient to induce 50mV that would stimulate eg.
+the brain. If the implant is in the amygdala (bl
+card) it would possibly induce rage. WARNING: if
+true, you don't want to be the guy that found
+that out. With similar technology it would be quite
+easy to even force good judges to eg. extradite
+Julian Assange
+

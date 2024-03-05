@@ -1,0 +1,108 @@
+marc@debian:~/evaluator$ ./evaluateWordcount.sh
+
+12 who
+
+[13 euro }
+13 get
+
+13 interactors
+13 komplett
+
+13 lupuslotarius
+13 says
+
+13 uk
+
+14 actionscript
+14 bajic
+
+14 faznet
+
+14 follow
+
+14 how
+
+14 leave
+
+14 payer
+
+14 trendauditor
+14 vladimir
+
+15 finnland
+
+15 youtube
+
+16 be
+
+16 press
+
+16 thanks
+
+new
+17 us
+18 all
+18 at
+18 nigel
+18 nigelfarage
+
+a
+
+18 with
+19 berlin
+
+at a top
+oe
+
+3 f inbotschaftde
+
+23 online
+
+23 what
+
+23 world
+
+24 news
+
+th
+our
+portails
+ptsde
+
+we
+voteleave
+
+31 faznet
+tay
+
+33
+36
+36
+
+k
+quote
+
+baronvrenteln
+you
+
+h
+
+hours
+
+added
+
+ago
+
+via
+
+for
+
+on
+
+bewertet
+positiv
+youtubevideo
+conversation
+view
+
+and

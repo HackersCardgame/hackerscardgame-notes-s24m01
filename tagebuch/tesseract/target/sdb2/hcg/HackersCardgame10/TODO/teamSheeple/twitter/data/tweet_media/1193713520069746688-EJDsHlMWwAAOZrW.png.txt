@@ -1,0 +1,18 @@
+ee
+Binary file Juni/Default/History Index 2012-05 matches
+Binary file Wordcount.txt matches
+
+OE ERS EEE EES
+
+evaluator /Wordcount. txt: 1 capiphillipihrzuhlter
+evaluator /Wordcount. txt 1 phillipp
+
+evaluator /Wordcount. txt: 2 phillip
+
+evaluator /Wordcount. txt: 9 phillip
+
+Binary file evaluator/temp.txt matches
+
+evaluator /myfiles.txt:../Juni/Natel/Voice von phillip gloor.txt
+Binary file August/Default/History Index 2012-06 matches
+

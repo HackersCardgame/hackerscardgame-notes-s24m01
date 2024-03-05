@@ -1,0 +1,17 @@
+je! +2.2)
+
+marc@debian:~$ rsync -avz disk/HackersCardgamell marcland@ftp.marclandolt.ch:~/w|
+ww /Ox8.ch/
+
+Password for _marcland@s30.server.hostpoint.ch:
+
+HackersCardgame11/.git/objects/pack/pack-af8b858639ea4 fdefe6fcll128e7aaccf07c4d8c|
+8.pack
+
+deflate on token returned @ (15232 bytes left)
+
+rsync error: error in rsync protocol data stream (code 12) at token.c(476) [send
+jer=3.2.2]
+
+marc@debian:~$
+

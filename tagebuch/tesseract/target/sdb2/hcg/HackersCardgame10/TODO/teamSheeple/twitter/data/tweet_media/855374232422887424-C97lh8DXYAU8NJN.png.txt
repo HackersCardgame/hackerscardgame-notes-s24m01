@@ -1,0 +1,45 @@
+Open ~ || kaffee.htmt
+
+<!DOCTYPE html>
+<html>
+<body>
+<hl>Kaffee</h1>
+
+<button onclick="myFunction()">Permutationen berechnen</button>
+(dauert ein paar Sekunden. ..)
+
+<p id="demo"></p>
+
+<script>
+
+var words = [" |
+
+“nein", “ich", “brauche", "kaffee", “schnauze"];
+
+function myFunction() {
+
+for (i i < 6; i+) {
+for (j = 0; j <6; j++) {
+for (k = 0; k < 6; k#+) {
+for (l= 0; L< 6; U4) {
+for (m= 0; m< 6; m+) {
+document .getElementById("demo").innerHTML += words[i] +
+count+=1;
+
++ words[j] +" "+ words[k] +
+
++ words[l] +
+
++ words[m] + "<br>";
+
+if (count>50) break; //fiir schnelle Browser das hier entfernen, dann rechnet der weiter nach unten
+
+</script>
+</body>
+</html>
+
+HTML ~ Tab Width: 8 ~
+
+Ln 9, Col 16
+
+INS

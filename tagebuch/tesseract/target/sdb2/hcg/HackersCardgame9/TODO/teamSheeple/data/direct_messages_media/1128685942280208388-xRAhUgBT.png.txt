@@ -1,0 +1,32 @@
+Sehr geehrter Herr Landolt
+Wir bedauern sehr, dass wir Ihr Anliegen nicht zu Ihrer vollsten Zufriedenheit haben ldsen kénnen.
+
+Ihre Kiindigung beziehungsweise Umstellung auf PrePay am 29.5.2019 nehmen wir mit Bedauern zur
+Kenntnis.
+Nichts desto trotz machten wir Ihnen noch auf Ihre letzten Fragen eine Riickmeldung geben:
+
+1. Gibt es eine Méglichkeit IPv6 Adressen zu bekommen, da gibt es keinen
+Engpass, da braucht es kein NAT (Network Adress Translation) deswegen
+=> Nein, derzeit vergibt Salt keine IPv6é Adressen
+
+2. Falls es das nicht gibt, gibt es einen Proxy-Server bei Salt, den man
+angeben kann um das Problem zu umschiffen
+=> Nein, eine solche Méglichkeit besteht derzeit nicht.
+
+3. Was machen Sie mit Kunden, die beschlossen haben, keine fest
+
+installierte Internetverbindung mehr zu haben und alles tber das Handy
+
+zu machen
+
+=> Grundsatzlich sind mobile Datenverbindungsméglichkeiten, zusammen mit einem Tarif mit
+unbegrenzten Datenvolumen, eine mégliche Alternative zu einem Festnetzanschluss. Ich persénlich bin
+aber der Meinung, dass bei angedachten Verwendungsbereichen, wie denen, die Sie beschreiben, ein
+Festnetz- oder sogar Fiber-Anschluss doch die bessere Wahl darstellen.
+
+Unsere Antworten sind jeweils persénlich, somit knnen wir einer Verdffentlichung des Textes, auch wenn
+anonymisiert, nicht zustimmen.
+
+Wir wiinschen Ihnen bei der Suche nach einer fiir Sie geeigneten Lésung viel Erfolg und alles Gute.
+
+Freundliche Griisse

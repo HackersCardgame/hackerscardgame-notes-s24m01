@@ -1,0 +1,37 @@
+Configuration Guide
+
+In the previous section, you've learned about the various
+‘types and categories of probes that NeuroNexus has to
+offer. You also learned about the base probe com-
+ponents. A unique combination of Probe Design
+and Probe Package would result in a probe that
+‘supports drug delivery, for example. The con-
+figuration can be somewhat confusing, but
+once you understand it you will appreciate
+‘he flexibility and innovation of NeuroNexus
+products.
+NeuroNexus probes are batch-fabricated
+in a state-of-the-art microfabrication clean
+room. Although we offer a custom design
+service, this cutting edge technology does
+have a considerable cost commitment. To
+reduce costs to our customers, we have selected
+a variety of commonly requested electrode site ar-
+rangements as our standard catalog probes.
+
+In this section, you will learn how the probes are con-
+figured and how to properly generate a part number for
+order.
+
+EXPLANATION OF MODEL NUMBERS
+© STEP 1: IDENTIFY A PRODUCT LINE
+
+STEP 2: SELECT A PROBE MODEL
+
+STEP 3:SELECT A PROBE PACKAGE
+
+STEP 4: SELECT THE PROBE THICKNESS
+
+| STEP 5: GENERATE A PART NUMBER FOR ORDER
+ELECTRODE ORDER INFORMATION
+

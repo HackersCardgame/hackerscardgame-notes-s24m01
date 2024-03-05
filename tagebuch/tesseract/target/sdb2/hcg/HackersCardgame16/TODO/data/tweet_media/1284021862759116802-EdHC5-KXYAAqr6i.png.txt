@@ -1,0 +1,34 @@
+Activities) Terminal ~_ Jul17 09:06
+
+jseubitjan 200a.cue  blaming-user. jpeg,
+‘Jstublaning-first.png_upe gas 06976726a0c7b77cb9F9Fc6v95479031.. pdf
+Jeodisareedebian:~/Downloadss cat bitjan.200a.cue
+‘cod, PERFORHER “VA
+reQTITLE "Bitdan Podcast #200a - 2009 In The Mix - Dexo Soundtracks:
+maregiFILE “bitjam_200a.mp3" MP3
+TETLE “Intro
+TETLE "Dottop (‘DoUtop" by SaNY)
+TETLE “Blockparty 2009 Invtro (“Blockparty 2009 Invite’ by xplsv)
+PERFORMER “Gloom
+TETLE “Applied Mediocrity (‘Applied Mediocrity’ by KakiArts)
+TETLE “The Rewind (‘Actuator by Conspiracy)
+TETLE “Quantum (‘Qvantun’ by Outracks & nazareth)
+TETLE “stereotype (“Stereotype by Artway)
+TETLE “Elevated (‘Elevated' by r9ba and TEC)
+TETLE "Assenbly 2009 invtro (‘Assembly 2009 Invitation’ by Andromeda and Excess and Nooot)
+PERFORMER "Gloom
+TETLE “Etch-A-Sketch (*Eteh-A-Sketch’ by Candeta)
+
+(org.inkscape. Inkscape: 752444)
+
+(org.inkscape. Inkscape:752444): GLib-Gobject-WARNING **: 08:58:45.964: invalid (NULL) pointer instance
+
+(org.inkscape. Inkscape:752444): GLib-Gobject-CRITECAL **: ot
+are@debian:~/disk/MackersCardgane11 /cards/EN/technologiess [
+
+GLib-Gobject-CRITECAL **: 08:58:35.872: g_signal_enit_valist: assertion ‘6 TYPE CHECK INSTANCE (instance)
+
+45.964: 9 signal_enit_valist: assertion ‘G TYPE CHECK INSTANCE (instance)
+
+Awa
+

@@ -1,0 +1,27 @@
+jevice: 192.168.179.21 Component:
+
+witid Graph: Errors
+
+errors/sec
+
+oo
+
+Di Receive
+Di send
+
+on
+
+00:09,
+
+Mon 12:00
+
+cur: 0.00 avg: 0.00
+
+cur: 354,
+
+96m avg: 768. 60m
+
+Tue 00:00
+max: 0,00
+max: 3.58
+

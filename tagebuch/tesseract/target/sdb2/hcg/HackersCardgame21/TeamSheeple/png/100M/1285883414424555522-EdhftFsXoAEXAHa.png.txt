@@ -1,0 +1,57 @@
+1 Marc{LA!
+
+4 understans | EA Nevenbuio | Ml Flterkam | RB Stoppkincs | @ (4)Faceboo | ©) Hackerscar | G detuschan | He Autismus
+a allabouteruts om
+CIRCUITS Don’t Care Cell in the Kamnaugh Map
+
+That s, we do not care what output our logic crcult produces for these don't cares.
+
+jon’t Cares}
+
+Dorit cares in a Karnaugh map, or truth table, may be either 15 or Os, as long as we dort care
+What the output is for an input condition we never expect to see, We plot these cells with an
+asterisk, *, among the normal 1s and Os.
+
+When forming groups of cells, treat the don't care cell as either a1 or a 0, or ignore the dor't
+
+This is helpful fit allows us to form a larger group than would otherwise be possible without the
+don't cares, There iso requirement to group allor any of the dont cares.
+
+Only use them in a group if it simplifies the logic.
+
+ec. ec,
+Nooormto NXooornso 2
+
+ofoJofofo] oJofofoyo
+ibe} fo 7
+
+Ee ow =Ac
+
+(/—teput complement frm
+
+‘nec=xxo xx1 ©
+ABC=OXX 1XX A
+out = Ac (Pos)
+
+Above is an example of a logic function where the desired output is 1 for input ABC = 101 over the
+range from 000 to 101. We do not care what the output is forthe other possible inputs (110, 111).
+Map those two as dont cares. We show two solutions.
+
+The solution on the right Out = AB'C is the more complex solution since we did not use the don't
+©, isless complex because we grouped a don't care
+
+care cells. The solution in the middle, 0
+
+y Home
+
+6 thegehien
+
+a
+
+[a Tweetdeck
+
+“Ot
+
+1 Mare{LAN) | © Dont co x |
+
+noe Owe

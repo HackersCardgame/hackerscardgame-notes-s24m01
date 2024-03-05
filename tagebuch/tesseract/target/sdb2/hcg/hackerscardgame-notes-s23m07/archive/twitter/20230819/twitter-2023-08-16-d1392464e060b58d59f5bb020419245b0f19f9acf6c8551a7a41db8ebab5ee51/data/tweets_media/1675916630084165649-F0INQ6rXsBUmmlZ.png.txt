@@ -1,0 +1,20 @@
+“Cc
+
+marc@windoof :~/hackerscardgame-notes-s23m06$ find /mnt/e/hcg/hackerscardgame-notes-s23m05/ |grep parkhaus -i
+/mnt/e/hcg/hackerscardgame- notes -$23m05/parkhaus-migros-presse.png
+/mnt/e/hcg/hackerscardgame - notes -s23m05/parkhaus-migros.png
+
+/mnt/e/hcg/hackerscardgame- notes -$23m05/parkhaus -migros2-beide-daten-falsch-vermutlcih-nachtraeglicher-spam-und-goo
+gle-zeigt-das-vorsaetzlich-nicht-an.png
+/mnt/e/hcg/hackerscardgame- notes -s23m05/tagebuch/archive/tagebuch/2012/August/Natel/Uebermittlung von fotografierte
+m man, mein vater haette ein parkhaus in die luft gesprengt.txt
+/mnt/e/hcg/hackerscardgame- notes -s23m05/telli-Centurm-hochhaus/migros-parkhaus-einsturz. jpg
+/mnt/e/hcg/hackerscardgame- notes -s23m05/tun-parkhaus -migros-bernernzeitung.ch_Fake-News-Stafa_200567091356.cleaned.
+pdf
+
+marc@windoof : ~/hackerscardgame-notes-s23m06$ find /mnt/e/hcg/hackerscardgame-notes-s23m06/ |grep parkhaus -i
+/mnt/e/hcg/hackerscardgame- notes -s23m06/tagebuch/archive/tagebuch/2012/August/Natel/Uebermittlung von fotografierte
+m man, mein vater haette ein parkhaus in die luft gesprengt.txt
+
+marc@windoof : ~/hackerscardgame-notes-s23m06$ a
+

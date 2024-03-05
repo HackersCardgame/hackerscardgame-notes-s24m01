@@ -1,0 +1,60 @@
+Source of: imap://mail%4Omarclandolt%2Ech@imap.mail.hostpoint.ch:143/fetch%3EUID%3E.INBOX%3E115770 - Mozilla Thunderbird x
+
+File Edit View Help
+
+Return-Path: <mail@narclandolt .ch>
+Delivered-To: mail@narclandolt..ch
+Received: from zrh-1b3.core.hostpoint.net ({10.31.0.61])
+by popimap008.mail.hostpoint.ch with LMTP
+id wMexJdf VNFZD+AAADN/ONg
+(envelope-from <nail@narclandolt..ch>)
+for <nail@narclandolt.ch>; Tue, 68 Jan 2019 19:45:43 +0100
+Received: from mxin0l5.mail.hostpoint.ch ([10.0.2.42])
+by zrh-lb3.core.hostpoint.net with LMTP id 4NZOJdtNF23iwAAIMIL+g
+; Tue, 08 Jan 2019 19:45:43 +0100
+Received: from 177-124-3-113.imbranet.net.br ([177.124.3.113])
+by mxin15.mail.hostpoint.ch with esmtp (Exim 4.91 (FreeBSD))
+(envelope- from <nail@narclandolt.ch>)
+id Iggwlig-000925-Uw
+for mail@narclandolt.ch; Tue, 08 Jan 2019 19:45:43 +0100
+From: <nail@narclandolt .ch>
+To: <mail@narclandolt.ch>
+Subject: Hohe Gefahr. Konto wurde angegriffen
+Date: 2 Jan 2010 00:18:33 -0300
+Message-ID: <005001ca8b5d$034a67ad$oba46dbds@narclandolt .ch>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+boundary: - NextPart_000_004D_01CA8B5D.03445E20"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Aclvdnvubrby3p0vivdnvubrby3p0v—==
+Content-Language: en
+x-cr-hashedpuzzle: 2D4= dnvu brby 3p0v Ivdn vubr by3p Oviv dnvu brby 3p0v Ivdn vubr by3p Oviv dnyvu;1;brby3pevivdnvubrby3povivdnvubr
+x-cr-puzzleid: \{89985656-EC77-98EC-CD03-038922CDB998\}
+X-Vs-State: SPAM
+X-Hostpoint-Spambox: NO
+
+This is a multi-part message in MIME format
+
+NextPart_000_004D 61CA8B5D.03445E2D
+ype: text/plain;
+
+‘ibm852"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo!
+
+Wie Sie vieLleicht bemerkt haben, habe ich Thnen eine E-Mail von Thren =
+Konto aus gesendet
+Dies bedeutet, dass ich vollen Zugriff aut Thr Konto habe.
+
+Ich habe dich jetzt seit ein paar Monaten beobachtet
+Tatsache ist, dass Sie &#252;ber eine von Thnen besuchte Website =
+6#252;r Erwachsene mit Malware infiziert wurden
+
+Wenn Sie damit nicht vertraut sind, erkl&#228;re ich es Thnen
+Der Trojaner-Virus erm&#246;glicht mir den vollsté#228;ndigen Zugriff =
+und die Kontrolle &#252;ber einen Computer oder ein anderes Geré#228;t
+Das hei&#223;t, ich kann alles auf Ihrem Bildschirm sehen, Kamera und
+Mikrofon einschalten, aber Sie wissen nichts davon
+
+Teh habe auch Zunriff_auf_alle Thre Kontakte und Thre Karresnondenz

@@ -1,0 +1,107 @@
+Activities) Terminal ~ Aw ae
+
+~ >/ete/apt/sources. List
+
+ts
+
+f edit repository List after modification
+seach dnl nies
+if YESHO “Edit /etc/apt/sources. List?”
+
+then
+
+showandExecute “SEDITOR /etc/apt/sources.List™
+
+showandExecute " Updates
+
+ShowandExecute “apt-get -y upgrade’
+
+fs
+
+Lf YESHO “install r6168-dkns?*
+then
+
+‘ShowandExecute “apt-get install
+fl
+
+.68-dkns™
+
+showandexecute “apt-get
+showandexecite “apt-get
+Showkndexecute “apt-get
+ShowandExecute “apt-get
+showandExecute “apt-get
+
+install keepassx”
+install build-essentiat Linux-headers-$(unane -r)*
+install mdsdeep"
+
+install rating”
+
+Anstall xdg-utils®
+
+showandexecute Snstatl
+ShowkndExecute Snstall
+ShowandExecute “apt-get install
+showandExecute “apt-get Anstatt
+
+Snetall bulld-essentiat
+install pkg-config *
+install Ubébus-1-dev"
+install apt-fite"
+
+showandexecite “apt-get
+Showkndexecute “apt-get
+ShowandExecute “apt-get
+showandExecute “apt-get
+showandexecute
+
+ShowkndExecute
+ShowandExecute “apt-get
+showandExecute “apt-get
+showandexecite “apt-get
+Showkndexecute “apt-get
+ShowandExecute “apt-get
+showandExecute “apt-get
+showandexecute
+
+ShowkndExecute
+ShowandExecute “apt-get
+showandExecute “apt-get
+showandexecite “apt-get
+Showkndexecute “apt-get
+ShowandExecute “apt-get
+showandExecute “apt-get
+showandexecute
+
+ShowkndExecute
+ShowandExecute “apt-get
+
+Enetall figtet*
+install git
+install tepdunp"
+install iptrat=
+
+install gparted™
+
+install Ughtan Ue"
+
+install gda3 gnome gnone-shelt*
+install gconf-editor=
+
+install ehroniun
+
+install chromiun-browser*
+Anstall inks
+
+install ginp
+install Uibreoffice"
+install Libreoffice-help-de"
+Anstall Ubreoftice-Uon-de"
+install cups-pat™
+
+install icedove™
+
+install thunderbird?
+
+20,1 ox

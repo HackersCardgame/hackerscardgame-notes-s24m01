@@ -1,0 +1,63 @@
+Registry Domain ID: 1715914170_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.enterprice.net
+
+Registrar URL: http://www.epag.de/en/whois/
+
+Updated Dati 42Z
+
+Creation Date: 2012-04-25T12:54:09Z
+
+Registrar Registration Expiration Date: 2017-04-25T12:54:09Z
+Registrar: EPAG Domainservices GmbH
+
+Registrar IANA ID: 85
+
+Registrar Abuse Contact Email: legal @iTE (= 5 Mis
+Registrar Abuse Contact Phone: +1.416535012:
+
+Reseller: EASYNAME
+
+Domain Status: clientTransferProhibited https: //icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Harald Frohnwieser
+
+Registrant Organisation:
+
+Registrant Street: Gr ffergasse 5/4/9
+
+Registrant City: Wien
+
+Registrant State/Province:
+
+Registrant Postal Code: 1170
+
+Registrant Country: AT
+
+Registrant Phone: +43.69981451596
+
+Registrant Phone Ext:
+
+Registrant Fax: +43.12533033317
+
+Registrant Fax Ext: 1
+
+Registrant Email: harald. frohnwieser@ymail.com
+
+Registry Admin ID: Not Available From Registry
+
+Admin Name: Harald Frohnwieser
+
+Admin Organisation:
+
+Admin Street: Gr ffergasse 5/4/9
+
+Admin City: Wien
+
+Admin State/Province:
+
+Admin Postal Code: 1170
+
+Admin Country: AT
+
+Admin Phone: +43.69981451596
+

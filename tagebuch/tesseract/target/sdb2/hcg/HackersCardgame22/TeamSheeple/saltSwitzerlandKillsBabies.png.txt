@@ -1,0 +1,26 @@
+@ hitps://github.com/sessions/two-factor/recovery
+
+we)
+
+Two-factor recovery
+
+We tried sending an SMS to your, =X.
+configured number, but too many SMS.
+messages have been sent to this number
+recently. Please contact suppor if you
+continue to have problems.
+
+Recovery code
+
+“erify
+
+® You can enter one of your recovery codes in
+case you lost access to your mobile device.
+
+Still having problems?
+
+* Can't access your two-factor device or valid
+recovery codes?
+
+Terms Privacy Security Contact GitHub
+

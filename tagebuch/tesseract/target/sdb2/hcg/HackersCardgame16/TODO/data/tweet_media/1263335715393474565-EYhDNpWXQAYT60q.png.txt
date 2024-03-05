@@ -1,0 +1,50 @@
+Activities) Terminal ~ Thu06:58 Aw Bw
+
+[engine] download: websocket: close 1000 (normal): Done sending
+dowmload: done
+upload: server: ndt-iupui-mlabi-mil62.mlab-oti measurenent-lab.org
+upload: speed 42 Mbit/s
+upload: speed 50 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 55 Mbit/s
+upload: speed 60 Mbit/s
+upload: speed 67 Mbit/s
+upload: speed 67 Mbit/s
+upload: speed 63 Mbit/s
+upload: speed 63 Mbit/s
+upload: speed 64 Mbit/s
+upload: speed 61 Mbit/s
+upload: speed 62 Mbit/s
+upload: speed 62 Mbit/s
+upload: speed 60 Mbit/s
+upload: speed 60 Mbit/s
+upload: speed 59 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 60 Mbit/s
+upload: speed 58 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 59 Mbit/s
+upload: speed 58 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 58 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 57 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 56 Mbit/s
+upload: speed 57 Mbit/s
+
+91.25% upload: speed 56 Mbit/s
+
+100.00 upload: done
+
+narcedebian:~/Downtoads$ [|
+

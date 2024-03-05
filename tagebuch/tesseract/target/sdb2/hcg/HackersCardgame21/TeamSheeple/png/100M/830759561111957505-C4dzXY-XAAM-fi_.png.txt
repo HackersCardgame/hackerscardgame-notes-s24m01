@@ -1,0 +1,17 @@
+@® S¥STEM-THEORIE
+
+Inventor: xxxx ~XXXKX
+Ein System kann aus mehrerern Elementen oder mehreren
+Teil-Systemen bestehen. Die Elemente eines Systems
+haben untereinander Verbindungen (Relationen [R]) und
+die Konditionierende [K] auf eine Relation sagt wie
+diese Verbindungen sein diirfen. Fihrend war Niklas
+Luhmann, diese Grafik ist aus seinem Buch Soziale
+Systeme.
+
+Use Cases
+
+Um zu verstehen wie Beziehungsnetzwerke, Soziale-,
+Mechanische-, Biologische-, Informaitk-Systeme oder
+Programme / Software funktionieren
+

@@ -1,0 +1,41 @@
+Disput___ControllerEditor__OBS Studio notes Halions = Sprache OnG-1
+ntwort von 8.8.8.8: Zeit=429ms TT
+ntwort von 8.8.8.8: Zeit=417ms TTI
+ntwort von 8.8.8.8: Zeit=123ms TTI
+ntwort von 8.8.8.8: Zeit=666ms TTI
+ntwort von 8.8.8.8: Zeit=82ms TTL=114
+intwort von 8.8.8.8: Zeit=123ms TTL=114
+intwort von 8.8.8.8: Zeit=112ms TTL=114
+ntwort von 8.8.8.8: Zeit=633ms TT
+ntwort von 8.8.8.8: Zeit=684ms TTL=114
+ntwort von 8.8.8.8: Zeit=95ms TTL=114
+intwort von 8.8.8.8: Zeit=213ms TTL=114
+ntwort von 8.8.8.8: Zeit=110ms TTI 14
+
+Antwort von 8.8.8.8: Bytes=32 Zeit=601ms TTL=114
+Zeitiiberschreitung der Anforderung.
+Zeitiiberschreitung der Anforderung.
+~AZeitiberschreitung der Anforderung.
+Zeitiiberschreitung der Anforderung.
+Zeitiiberschreitung der Anforderung.
+
+a Zeitiberschreitung der Anforderung.
+Zeitiiberschreitung der Anforderung.
+Zeitiiberschreitung der Anforderung.
+
+ntwort von 8.8.8.8: Zeit=104ms TTL=114
+meAntwort von 8.8.8. Zeit=44ms TTL=114
+Antwort von 8.8.8. Zeit=288ms TTL=114
+Eirrwert von 8.8.8. Zeit=237ms TTI 14
+Mantwort von 8.8.8. Zeit=272ms TTL=114
+
+““"antwort von 8.8.8. Zeit=248ms TTL=114
+ntwort von 8.8.8. Zeit=298ms TTL=114
+
+Birtwort von 8.8.8. Zeit=166ms TTL=114
+
+management
+
+ot
+
+‘chipepesch x64

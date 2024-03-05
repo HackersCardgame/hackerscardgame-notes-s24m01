@@ -1,0 +1,41 @@
+NanoBeam M2
+
+1g Watchdog
+
+Ping Watchdog
+IP Address To Ping
+
+Ping interval
+
+Startup Delay
+
+Felure Count To Reboot
+
+‘Save Support info:
+Web Server
+Web Server:
+
+‘Secure Connection (HTTPS):
+
+Secure Server Port
+
+% Enable
+192.166.179.21
+{300 __|seconds
+{300 _|seconds
+3
+
+SNMP Agent
+
+SNMP Agent
+‘SNMP Community
+Contact:
+
+Location
+
+SSH Server
+
+SSH Server:
+Server Por:
+
+Password Authentication:

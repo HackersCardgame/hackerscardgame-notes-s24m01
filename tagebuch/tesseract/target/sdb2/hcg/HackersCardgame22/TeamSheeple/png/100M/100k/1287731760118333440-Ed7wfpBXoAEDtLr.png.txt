@@ -1,0 +1,35 @@
+a marc@debian: ~/disk Q
+
+lHackersCardgame11/.git/objects/17/
+
+lHackersCardgame11/.git/objects/17/6e688ef c9b6bfbe29dd75f6a4bcc8598al28e4
+lHackersCardgame11/.git/objects/17/d0ada26608db5b359ad9ba3 lacf8da64f83e35
+IHackersCardgame11/.git/objects/17/e71a7366f664900c7a54f582945aal9db7b17F
+HackersCardgame11/.git/objects/18/
+lHackersCardgame11/.git/objects/18/381e11934f544d3d4974f204d6152b5alcfosa
+lHackersCardgame11/.git/objects/18/3981bba12b243a58a74bc6a9ebdb4ae95b6855
+lHackersCardgame11/.git/objects/18/44df7e7cc70dedc7c946edafbf89fe8ss7co9a
+IHackersCardgamel11/.git/objects/18/5d355639803b56f9ea57b1c0d6452925fdled5
+lHackersCardgamel11/.git/objects/18/6c8073a7 f4d28a0d668baGadb04a7b43d2b25a
+IHackersCardgamel11/.git/objects/18/9c10858f8aa4ed18cc7022e99C381149be4025
+
+“Crsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(688) [se
+Inder=3.2.2]
+
+rsync: [sender] write error: Broken pipe (32)
+
+Imarc@debian:~/disk$ rsync -avz HackersCardgamell marcland@ftp.marclandolt.ch:~/w
+ww/Ox8.ch/
+
+Password for marcland@s30.server.hostpoint.ch:
+
+sending incremental file list
+lHackersCardgame11/.git/objects/pack/pack-af8b858639ea4 fdefe6fcll128e7aaccf07c4d8c|
+8. pack
+
+ldeflate on token returned @ (15232 bytes left)
+
+rsync error: error in rsync protocol data stream (code 12) at token.c(476) [send
+ler=3.2.2] |
+marc@debian:~/disk$ ff
+

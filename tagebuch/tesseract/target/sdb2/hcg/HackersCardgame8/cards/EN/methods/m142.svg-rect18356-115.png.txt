@@ -1,0 +1,47 @@
+Auglo 1A
+Hand
+Kehlkopf Implan
+
++umgebende eet conik, z.B. TV, Monitor, Toaster
+Person 2
+
+Person self
+
+Video RX
+Bild- Kanal 1 => wir gehen davon aus, dass immer nur ein
+
+Bild-Kanal n wird erahnen weshalb... grundsatzlich etwas wie FrequenzHopping denkbar
+Video
+fend Kamery, Laptop Kamera, Kamera im Toaster oder in der LED Lamp
+RetinaCCD => Frequenz(en) kénnte man mit einem StérSender jennen
+(ev. ninklusive Nacht-Sicht mit Restlichtverstarker oder Infra
+Denkbar auch z.B. ein Implantat im Sehzentrum / Sehnerv,
+Positionsdaten TX
+tion KoortinatenUrsprung, z.B. Hand, Laptop, TV, Toaster, Leuchtstoffrére.
+(je nach dem werden merere bendtigt, Vektoralgebra 3+, ausser Gerat hat selber nehrere)
+a: Blickrichtung => bendtigt fiir Augmented Reality, erhdht Glaubwiirdigket
+6: Positionsdaten link
+¢: Positionsdaten rechte Hand
+ie des etones ev.
+
+AM)
+
+whee Auflésung zu erwarten
+
+sogar der einzelne Finger, RFID < mm?
+
+|Kehlkopf Implantat
+|umgebende Elektronik, z.B.
+TV, Monitor, Toaster
+
+Person 2
+
+Person n
+Person self
+
+Video RX
+
+|Bild-Kanal 1
+
+=> wir gehen davon aus, dass immer nur einer
+

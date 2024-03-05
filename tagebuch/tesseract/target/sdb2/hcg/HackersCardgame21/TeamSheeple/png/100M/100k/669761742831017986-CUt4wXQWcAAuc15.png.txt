@@ -1,0 +1,3 @@
+Create video from image sequence (really good quality)
+
+avcony -framerate 25 -f image2 -i X04d.png -c:v h264 -crf 1 out.mov

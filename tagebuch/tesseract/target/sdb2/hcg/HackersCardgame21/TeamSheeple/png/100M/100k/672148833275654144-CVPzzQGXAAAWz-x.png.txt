@@ -1,0 +1,10 @@
+Article Talk Read Edit View history
+
+TURBINE (US government project)
+
+From Wikipedia, the free encyclopedia
+
+TURBINE is the codename of an automated system which in essence enables the
+automated management and control of a large network of implants (a form of remotely
+transmitted malware on selected individual computer devices or in bulk on tens of
+thousands of devices).

@@ -1,0 +1,10 @@
+Home SMB
+
+O bytes free
+media/cdrom
+|
+
+date perm
+
+126.5kB 07/18/2006 02:00 —r-xr-xr-x root root
+

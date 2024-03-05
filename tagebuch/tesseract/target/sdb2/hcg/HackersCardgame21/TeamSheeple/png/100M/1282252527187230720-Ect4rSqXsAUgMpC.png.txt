@@ -1,0 +1,57 @@
+IK ESR ~
+
+X | (1789) Top1OHardstyle «x. | IF Facebook x | ¥ JosephWade Pauison(© | FB Kundencenter-Die Post x | EY Enemy Territory by «x | @ NewTab | Ww TOPSOO-
+
+a iipeia.org a -oF snoeconra
+
+wikipedia |b
+
+Architecture and operating systems («xt
+{As of November 2018, all supercomputers on TOPS00 are 63-bit, mostly based on CPUS Using the x86-64 instruction set architecture (of which 474
+are Intel EMT64-based and 6 are AMD AMD-based). The few exceptions are al based on RISC architectures). Thirteen supercomputers, including
+the top two, are based on the Power ISA used by IBM POWER microprocessors, three on Fujsu-designed SPARC64 chips, two on ARM architecture,
+‘and one on the Chinese Sunway SW/26010 design, One computer uses another non-US design the Japanese PEZY'SC (based on the British ARM!) as
+an accelerator paired with intel's xeon.
+
+In recent years heterogeneous computing, mostly using Nvidia's graphics processing units (GPU) or Intel's x86-based Xeon Phi as coprocessors, has
+dominated the TOPS00 because of better performance per watratios and higher absolute performance; tis almost requited to make the top 10 of
+the top spat; the only major recent exception being the aforementioned K computer an Sunway TaihuLigh. Tianhe:2 is alzo an interesting
+exception, as while itd use accelerators Gust not GPUS), ie. Xeon Phi, US sanctions blocked the upgrade, but stil the upgraded Tianhe-2A is faster
+with non-US-based Matrix-2000,91 accelerators which where exploited ahead of schedule, Frontera supercomputer, ranked Sth, based on 28-core
+(S6:thread) Intl Xeon Platinum is alzo an exception, as i was measured without help of GPUs which were later added) butit has two subsystems,
+both with nvidia GPUS, and one of them additionally with POWERS CPUs, and the other lquld immersion cooing 2122)
+
+“wo computers which fst appeared onthe list in 2018 are based on architectures never before seen on the TopS00, One was a new x86-64
+mmicroarchitecture from Chinese vendor Sugon, using Hygon Ohyana CPUs (these result from a collaboration with AMD, and are a minor variant of
+Zenvbased AMD EPYC) andi ranked 3ath,"9) and the other was the first ever ARM¢-based computer an the list then upgraded fr june 2029) —using
+CCavium Thunderk2 CPUS!" Before the ascendancy of 32-bit x86 and later 64-bit x86-68 In the early 2000s, a varity of RISC processor families
+‘made up most TOP500 supercomputers, including RISC architectures such as SPARC, MIPS, PA-RISC and Alpha
+
+All the fastest supercomputers in the decade since the Earth Simulator supercomputer have used operating systems based on Linux Since SSI SSIS SSIES SSSESSS
+November 2017, SEEN ST ee SES) Torso0 ose
+Since November 2015, o computer onthe lit uns Windows. n November 2014, Windows Azure cloud computer Wasno longer on thelstot __ Stare afacesorarchtecture fies in TOPSOD sipercompuersby ne end
+
+fastest supercomputers its best rank was 165 in 2012), leaving the Shanghai Supercomputer Center's Magic Cube asthe only Windows-based
+supercomputer onthe lit unt i was also dropped off from the lst. twas ranked 436 nits last appearance onthe lst released in une 2025, while its best rank was 21 in 2008!" There are no longer any Mac OS computers on the ist. It
+had at most five such systems ata time, one more than the Windows systems that came later, while the foal performance share for Windows was higher. The relative performance share ofthe whole lst was however similar, and never
+high for ether.
+
+Iehas been well over a decade since MIPS systems dropped entirely ofthe list!) but the Gyoukow supercomputer that jumped to 4th place in November 2017 (after a huge upgrade) has MIPS as a small partof the coprocessor. Use of
+2,088-core coprocessor (plus 8x 6-core MIPS, foreach, that “no longer require to rely on an external ntl Xeon E5 host processor“) make the supercomputer much more energy efficient than the other top 10 (ie. tis Sth on Green500
+land other such ZettaScaler2.2:baced systems take frst three spots)21]At 19.86 milion cores, tis by far the biggest system: almost double that ofthe best manycore system in the TOPS0O, the Chinese Sunway TalhuLigh, ranked 3rd
+
+TOP 500 esie)
+
+From the 52nd lst Novernber 2016) tothe 53st june 2019), the Xeon Platinum-based Frontera I the only new supercomputer in the top 10 (at number 5) and the upgraded POWERS-based Lassen moved from 11th to 10th) Titan
+and Sequoia became the last Blue Gene/O models to drop out ofthe top10; they had been ranked Sth and 10th inthe S2nd list (and 2st and 2nd inthe November 2012, 40th lit) and are now 12th and 13th
+
+For the first time, all 500 systems deliver a petaflop or more on the High Performance Linpack (HPL) benchmark, with the entry level tothe list now at 1.022 petaflops” However, fora different benchmark “Summit and Sierra remain the
+only two systems to exceed a petalop on the HPCG benchmark, delivering 2.9 petaflops and 1.8 ptaflops, respectively. The average HPCG result onthe current lists 213.3 teraflps, a marginal increase from 221.2 six menths ago.)
+
+Of the top 10 computers in the Sth Top500 list, four are inthe top 10 ofthe November 2019 Greens00 list (most energy-efficient supercomputers
+
+‘Summitis #5 in the Green500 and #1 inthe Top500
+Al Bridging Cloud (RBC is #6 in the Green500 and #8 inthe Top500
+
+AY Highlight All MatenCase Whole Words
+

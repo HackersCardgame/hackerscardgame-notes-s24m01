@@ -1,0 +1,35 @@
+https://Login.oracle.com/mysso/signon.jsp
+
+RACLE
+
+Sign In
+
+Username
+‘Your username is usually your email address
+
+Forgot Username?
+
+Password
+
+Forgot Password?
+
+Need Help?
+
+Don't have an
+Oracle Account?
+
+A free Oracle Account gives you
+access to Oracle online
+applications and services, support,
+events, communities, and more
+
+Create Account
+
+This site ie intended solely for use by Oracle's authorized users. Use ofthis site is subject to the Legal Notices, Terme of Use, and Privacy Statement located on thie site, Use of the site by
+customers and partnes, if authorized, is also subject tothe terms of your contracts) wth Oracle. Use of this site by Oracle employees is also subject to company policies, including the Code
+of Conduct, Unauthorized accessor breach of these teims may result in teimination of your authorization to use thie ste and/or civil and criminal penalties.
+
+Integrated Cloud Applications & Platform Services
+
+About Oracle | Contact Us| Legal Notices | Terms of Use | Privacy Policy
+

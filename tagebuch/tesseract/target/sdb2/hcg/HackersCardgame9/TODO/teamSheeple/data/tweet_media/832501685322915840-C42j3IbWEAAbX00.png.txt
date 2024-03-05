@@ -1,0 +1,16 @@
+b—¥ KUENSTLICHE INTELLIGENZ
+
+Erfinder: xxxx Jahr: ~xxxx
+
+Kiinstliche  intelligenz, von Aussagenlogik, uber
+Pradikatenlogik (Programmiersprache PROLOG) bis zu
+selbstlernenden Algorithmen, sowohl in direkter
+Kommunikation aber auch unscheinbar z.B. als Formulare
+die den Verlauf von Vorgangen in Juristischen Personen
+steuern.
+
+Use Cases
+
+kénnen Nattirliche wie auch Juristische Personen
+positiv oder negativ beeinflussen.
+

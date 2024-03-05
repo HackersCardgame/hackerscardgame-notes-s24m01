@@ -1,0 +1,14 @@
+% This query was served by the RIPE Database Query Service version 1.84.1 (DB-3)
+
+marc@windows :~/Downloads$ whois 91.138.20.50 |grep inetn
+
+inetnum: 91.138.1.0 - 91.138.63.255
+
+marc@windows :~/Downloads$ cat www.marclandolt.ch_logs.txt |grep pinki |wc -1
+
+21
+
+marc@windows :~/Downloads$ cat www.marclandolt.ch_logs.txt |grep pinki |grep 91.138 |we -1
+4
+
+marc@windows :~/Downloads$ I

@@ -1,0 +1,32 @@
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status
+and retry with 'git restore --source=HEAD :/'
+
+[marcland@s92:~] 128 $ cd hackerscardgame-notes-s22m10/
+[marcland@s92:~/hackerscardgame-notes-s22m10] main + git restore --source=HEAD :
+/
+
+fatal: packfile .git/objects/pack/pack-dbec7c270a8e5101f3cledee17707a450811b837.
+pack cannot be mapped: Cannot allocate memory
+[marcland@s92:~/hackerscardgame-notes-s22m10] main 128 + client_loop: send disco
+nnect: Broken pipe
+
+marc@debian : ~/hackerscardgame-notes-s22m10$ ssh marcland@ftp.marclandolt.ch
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failure
+
+s
+
+Disconnected from 217.26.52.40 port 22
+
+marc@debian: ~/hackerscardgame-notes-s22m10$ ssh marcland@ftp.marclandolt.ch
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication failure
+
+s
+
+Disconnected from 217.26.52.40 port 22
+marc@debian: ~/hackerscardgame-notes-s22m10$ ssh marcland@ftp.marclandolt.
+Received disconnect from 217.26.52.40 port 22:2: Too many authentication
+
+s
+Disconnected from 217.26.52.40 port 22
+marc@debian : ~/hackerscardgame-notes-s22m10$ I

@@ -1,0 +1,12 @@
+Local node: 192,168,179.20: Traffic on interface athO (3h)
+
+400 Kbps
+300 Kbps
+200 kbps
+300 kbps
+Opps eee
+last min avg
+
+[Incoming traffic on interface athO [avg] 140.77 Kbps 36.66 Kbps 253.61 Kbps 378
+Outgoing traffic on interface athO [avg] 173.76Kbps 23.45Kbps —61.53Kbps_ 173
+

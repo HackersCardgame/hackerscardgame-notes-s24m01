@@ -1,0 +1,53 @@
+marc@debian: ~/Daten.2019/tagebuch Q
+36 +0000", "web”,"Hasn J0rg Pfisterer: Ich werde jetzt Marc Jr. “<0 fnen und thn die Bluns Abraunen lassen.
+
+2614/Januar /tweetsText.txt:Hasn J0rg Pfisterer: Ich werde jetzt Marc Jr. oo. /fnen und thn die Bluns Abraunen lassen.
+
+2014/Junt/hanno/tweets.txt.old: "text" : "Hasn J\u0eFCrg Pfisterer: Ich werde jetzt Marc Jr. ©. fnen und thn die Bluns Abr\ueeEdunen Lassen.”,
+2014/Junt/hanno/2013 11.js: "text" : "Hasn 3\u0OFCrg Pfisterer: Ich werde jetzt Marc Jr. “= fnen und thn die Bluns Abr\ueeEdunen Lassen.”,
+2014/oktober/twitter-rebutld-project.txt:Hasn Jurg Pfisterer: Ich werde jetzt Marc Ir. ©". fnen und thn die Bluns Abraunen lassen.
+
+nc
+
+narcedebtan:~/Daten.2019/tagebuch$ Fgrep -ri pfisterer lgrep marc -t [grep blum -i |grep -i bewaf
+
+clean/2014/Januar/tweetsText.txt:Hasn J0rg Pfisterer: Ich werde jetzt Marc Jr.» fmen und thn die Bluns Abraunen Lassen.
+clean/2014/oktober/twitter-rebutld-project.txt:Hasn JUrg Pfisterer: Ich werde Jetzt Marc Jr. ‘fen und thn die Bluns Abraunen lassen.
+
+2017/junt /hannoMatts/twitter /2013_11.js: “text” : "Hasn \ueeFCrg Pfisterer: Ich werde jetzt Marc Jr. \-»/fnen und tha die Bluns Abr\uO0Edunen lassen.",
+2019/august /Last-nessage. txt:"398804749320859649","","","2013-11-08 13:30:36 +0000","<a href=""http://twitter.con™” rel
+
+er: Ich werde jetzt Harc Jr. © fnen und thn die Biuns Abraunen lassen.","","",""
+2019/naerz/wahnvorsteLLnugen.txt:Dann dass der Psychtater zwar zuerst zun cheff Sagt, "Der Marc ist nicht gewalttatig” man dann aber trotzden von etnen Sonderkonmando abgeholt
+wird und in Hanschetten in die Psychiatrie verfrachtet wird. Dass dann der Staatsanwalt Harco Spring sagt man brauche keinen Antwalt mitzubringen, die gegenpartet aber mit 2
+anwalten dort auftaucht ist auch nicht gerade forderlich. Dass dann der behinderte Polizist Michael Ritter noch den angeblich Drohenden Tweet abandert, so dass er wirklich wie
+eine Drohung aussieht auch nicht wirklich. Dann wurde man vor der Gerichtsverhandlung 3 Honate mit agressiven Medikanenten "fornatiert” so dass man es nicht mal schafft zu er
+klaren was der Tweet zu bedeuten hatte, der Wortlaut: "Hansj0rg Pfisterer: Marc jr Landolt >. fnen und Bluns abraunen" war definittv keine Drohung, dant wollte ich den Pfis
+terer verpetzen, dass er das gesagt hat. Bzw. hab ich das ja etnfach gehdrt wegen meiner Schtzophrente, und das analystert bedeutet ja nur, dass mein Gehirn solch Manipulative
+s Zeugs den Pfisterer zugetraut hatte, deshalb verpetzen. Und des wettern habe ich 20 Jahre nach der Diagnose von Pfisterer nner noch ein Trauna und Angst vor Pfisterer, das
+spricht nicht gerade dafUr, dass der Pfisterer seinen Job richtig genacht hat. Noch inner hallt das satanische Lachen von Pfisterer in meinen Kopf nach, als er die Diagnose Sc
+hizophrente gestellt hat. Und dass man das nach 2 Jahren noch wetss bedeutet ja auch dass es traunatisch war
+
+chaos/wahnvorsteLlnugen.txt:0ann dass der Psychiater zwar zuerst zum cheff sagt, "Der Marc ist nicht gewalttatig” man dann aber trotzdem von einen Sonderkonmando abgeholt wird
+und in Hanschellen in die Psychtatrie verfrachtet wird. Dass dann der staatsanvalt Marco Spring sagt man brauche ketnen Antwalt nitzubringen, die gegenpartet aber mit 2 Anwal
+ten dort auftaucht ist auch nicht gerade forderlich. Dass dann der behinderte Polizist Michael Ritter noch den angeblich Drohenden Tweet abandert, so dass er wirklich wie eine
+Drohung aussieht auch nicht wirklich. Dann wurde man vor der Gerichtsverhandlung 3 Honate mit agressiven Medikanenten "formatiert" so dass nan es nicht mal schafft zu erklare
+n was der Tweet zu bedeuten hatte, der Wortlaut: "Hansjarg Pfisterer: Marc jr Landolt ».fnen und Bluns abraumen” war definttiv keine Drohung, damit wollte ich den Pfisterer
+verpetzen, dass er das gesagt hat. B2w. hab ich das ja einfach gehort wegen meiner Schizophrente, und das analysiert bedeutet ja nur, dass nein Gehirn solch Manipulatives Zeu
+gs den Pfisterer zugetraut hatte, deshalb verpetzen. Und des wettern habe ich 20 Jahre nach der Diagnose von Pfisterer inner noch etn Trauna und Angst vor Pfisterer, das spric
+ht nicht gerade dafir, dass der Pfisterer seinen Job richtig genacht hat. Noch inner hallt das satantsche Lachen von Pfisterer in meinen Kopf nach, als er die Diagnose Schizop
+hrente gestellt hat. Und dass man das nach 20 Jahren noch weiss bedeutet Ja auch dass es traunatisch war
+
+chaos/tweetsText.txt:Hasn J0rg Pfisterer: Ich werde jetzt Marc Jr. fnen und thn die Bluns Abraunen lassen.
+
+chaos/twitter-rebutld-project.txt:Hasn JUrg Pfisterer: Ich werde jetzt Marc Jr. °o/fnen und thn die Bluns Abraunen Lassen.
+
+2014/Januar /tweets.csv:"398804749320859649","","","2013-11-08 13:30:36 +0000", "web", "Hasn JUrg Pfisterer: Ich werde jetzt Marc Ir. \-\0/fnen und thn die Bluns Abraunen Lassen.
+2014/ Januar /tweetsText.txt:Hasn Jorg Pfisterer: Ich werde Jetzt Marc Ir. sv/fnen und thn die Bluns Abraunen lassen.
+2014/Juni/hanno/tweets.txt.old: “text” : "Hasn I\uOeFCrg PFisterer: Ich werde jetzt Marc Jr. ©... fnen und thn die Bluns Abr\udeEduNen Lassen.”,
+2014/Junt/hanno/2013_11.}s: "text" : "Hasn J\uoOFCrg Pfisterer: Ich werde jetzt Marc Jr. \-  fnen und thn die Bluns Abr\ueeEdunen Lassen.”,
+2014/oktober/twitter-rebutld-project.txt:Hasn J0rg Pfisterer: Ich werde jetzt Marc Jr. © fnen und thn die Bluns Abraunen lassen.
+marc@debian:~/Daten.2019/tagebuch$ ff
+
+Twitter Web Client</a>","Hasn Jorg Pfister
+

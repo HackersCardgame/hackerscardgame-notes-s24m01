@@ -1,0 +1,24 @@
+Hacker
+
+Inventor: 2???
+
+Stupid people seem to aggregate or to attack in
+groups. see dt6 card!
+
+If people attack in are groups it would be likely that
+there are some that are able to eg. write c/c++ code
+(real hacking) and many are not.
+
+Inclusion principle would mean that you sould also
+include those people that can not write code. And
+unfortunately they did. They wrote some software that
+seems to be primarily to annoy the real hackers. As
+soon they have a communication channel to the target
+(this tends to be me) they mansplain things like: "we
+now hacked your computer because we can remotely
+switch it on, hahaha" like today. The funny thing was,
+that i unplugged the power cable of my desktop, so
+this was a lie for weaken me before the real hackers
+attack, i'm not sure what this tells us about the
+aggregated blackhat team that attacks me...
+

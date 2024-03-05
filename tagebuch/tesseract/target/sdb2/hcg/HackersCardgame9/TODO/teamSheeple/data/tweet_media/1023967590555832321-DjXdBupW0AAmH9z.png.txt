@@ -1,0 +1,6 @@
+marc@debian: ~
+File Edit View Search Terminal Tabs Help
+marc@debian: ~ marc@debian: ~
+
+marc@debian:~$ ping ftp.marclandolt.ch
+PING ftp.marclandolt.ch (217.26.52.40) 56(84) bytes of data.

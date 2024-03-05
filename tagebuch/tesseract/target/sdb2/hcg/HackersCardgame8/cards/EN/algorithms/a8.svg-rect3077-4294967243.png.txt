@@ -1,0 +1,33 @@
+Subject
+
+Observer +observerCollection
++registerObserver (observer)
++notify() +unregisterObserver (observer)
++notifyObservers()
+
+notify0bservers()
+for observer in observerCollection
+call observer. notify()
+
+oncreteObserverA ConcreteObserverB
+
+ify() +notify()
+Ox8 ‘Ss
+
+Inventor: Year:
+
+The observer pattern (also called listener pattern) is
+a design pattern in software development. It belongs
+to the category of behavior patterns. In the
+programming language Java it would need an
+interface (public interface Observer) and it would be
+used with "implements Observer" (needs exercise
+and maybe qfire, quantumInserts, Turbine, Tarmoil
+tries to make it hard for you to learn) It does not
+mean "survaillance" its a computer science Term,
+
+, and eg trigger al6 Card.
+
+To use Design Patterns you first need to learn an
+OOP Programming Language
+

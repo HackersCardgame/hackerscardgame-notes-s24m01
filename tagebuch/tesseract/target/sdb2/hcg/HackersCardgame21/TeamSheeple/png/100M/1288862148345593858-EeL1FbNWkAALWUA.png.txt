@@ -1,0 +1,60 @@
+Activities) Terminal ~ Aw ae
+
+>
+# configuration for user korzendorfer
+
+korzendorfer = {
+
+G biwetooth device nae
+ane = tx?
+
+# bluetooth mac address
+Wuemae = 542 347 342 34: 34: 34;
+
+4 a seaparate tineout
+‘timeout = 1
+
+»
+“/ >> /etc/security/bluesscan.cont
+vim /etc/security/bluesscan.cont
+‘add sudo for echo and vin
+|; revive Uibusb for poor children
+
+ts
+
+if YESNO “Use TOR (The Onion Router) for APT Transport? (only debian, needs sudo)
+then
+‘ep /etc/apt/sources. List /etc/apt/sources. List.$(date seytmauirums)
+
+Showandexecute “apt-get -y $ip install torsocks apt-transport-tor™
+
+ep /etc/apt/sources. Uist /etc/apt/sources. List-${date s8amtd-AHWNS. bak)
+echo
+
+ded torshttp://wakvile2ienjx6t-onion/debian/ $distro main contrib
+
+deb torehttp://earthafvaewSbla.onion/debian/ $distro main contrib
+
+“> /etc/apt/sources. List
+
+ShowandExecute “apt-get -y updates
+Showandexecute “apt-get -y upgrade’
+
+ShowandExecute “apt-get -y $ip install tor tor-arat
+a
+
+if YESHO “Use normal httpredir.debian.org for APT Transport?=
+then
+“ep /ete/apt/sources. Uist /ete/apt/sources. List-S{date +8eatd-AMWNS. bak)
+echo."
+deb nttp://nttpredir.debian.org/debian/ $distro main contrib
+deb-sre http://httpredir.debian-org/debian/ $distro main contrib
+
+ded nttp://security.debian.org/ $distro/updates main contrib
+deb-sre http://security.debian.org/ $distro/updates main contrib
+
+ded nttp://nttpredir.debian.org/debian/ $4istro-updates main contrib
+deb-sre http://httpredir.debian-org/debian/ Sdistro-updates main contrib
+* >/etesapt/sources. List
+
+159.6 46%

@@ -1,0 +1,9 @@
+Fetch Www.navy.mils SSH banner.
+This is one way to getit
+Example: SSH-2.0-OpenSSH_38.1p1 Debian-8.sarge.6
+WARMUP2 doesnt work at this moment, just type Ta to continue.
+
+a
+10:1. PxL (50) 2. cOd (50) 3.fry (60) 4. gondil (50) 5. deaden (50) 6. m00 (50) 7.
+nnok (50) 8. phoenix (50) 9. Reaper (50) 10. Hamstah (50)
+

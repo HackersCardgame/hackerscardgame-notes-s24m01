@@ -1,0 +1,34 @@
+[PANS STSER Ge AT YE PUESR LEONE LAN LE OUP LS) }
+pamusb-check.c: if (!pusb_conf_parse(conf_file, &opts, user, service))
+
+pamusb-check. pusb_check_conf_dump(&opts, user, service) ;
+
+pamusb-check.c: return (!pusb_check_perform_authentication(Sopts, user, service));
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ fgrep ‘&opt' **C
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ sudo pamusb-check marc
+
+[sudo] password for marc:
+
+ona
+
+* retval 1
+
+* retval 1
+
+* Authentication request for user “marc" (pamusb-check)
+* Device "seven" is connected (good).
+
+* Performing one time pad verification...
+* Regenerating new pads...
+
+* Access granted.
+
+* Device “six” is connected (good).
+
+* Performing one time pad verification...
+* Regenerating new pads...
+
+*
+
+Access granted secondary device.
+marc@kalai:~/Daten.2015/Studium/Selbststudium/Informatik/Security/pamusb/pam_usb/src$ | |

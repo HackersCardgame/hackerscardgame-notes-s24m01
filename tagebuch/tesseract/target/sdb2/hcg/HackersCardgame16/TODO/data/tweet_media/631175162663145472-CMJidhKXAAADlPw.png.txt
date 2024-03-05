@@ -1,0 +1,27 @@
+Technical contact:
+Hostpoint AG
+
+Dario Baumgartner
+
+St. Dionysstrasse 31
+CH-8645 Rapperswil -Jona
+Switzerland
+
+Registrar:
+Hostpoint AG
+
+First registration date:
+2000-07-24
+
+DNSSEC:N
+Name servers:
+
+ns.hostpoint .ch [217.26.51.254]
+ns.hostpoint .ch [2a00:d70:0:b: :d]
+
+ns2.hostpoint .ch [217.26.53.254]
+ns2.hostpoint .ch [2a00:d70:0:b::1d]
+ns3.hostpoint .ch [217.26.48.126]
+ns3.hostpoint .ch [2a00:d70:
+
+marcAkali:¢ &

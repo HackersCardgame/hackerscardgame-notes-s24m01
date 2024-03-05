@@ -1,0 +1,33 @@
+Ay marc@debian: ~/pdag
+2020-01-25 18:39:29 ERROR 403: Forbidden.
+
+--2020-01-25 18:39:29-- http://youporn.com/
+Resolving youporn.com (youporn.com)... 66.254.114.79
+
+Connecting to youporn.com (youporn.com) |66.254.114.79|:80... connected.
+
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in
+headers.
+
+Retrying.
+
+--2020-01-25 18:39:30-- (try: 2) http://youporn.com/
+Connecting to youporn.com (youporn.com) |66.254.114.79|:80... connected.
+
+HTTP request sent, awaiting response... 403 Forbidden
+2020-01-25 18:39:30 ERROR 403: Forbidden.
+
+--2020-01-25 18:39:30-- http://youporn.com/
+Resolving youporn.com (youporn.com)... 66.254.114.79
+
+Connecting to youporn.com (youporn.com) |66.254.114.79|:80... connected.
+
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in
+headers.
+
+Retrying.
+
+“Cc
+marc@debian:~/pdag$ for i in $(seq 1 1000000); do wget http://youporn.com/; done:
+U
+

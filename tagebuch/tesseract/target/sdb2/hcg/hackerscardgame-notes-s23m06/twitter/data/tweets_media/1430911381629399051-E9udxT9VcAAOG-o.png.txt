@@ -1,0 +1,11 @@
+def get Sol s (navigationCode):
+
+foel Stop Cost = IS
+extraComputation Cost = 8
+
+this AlgorthmBecomingSkynetCost = 999999999
+water CrossingCost= 45
+
+GENETIC ALGORITHMS TIP:
+ALWAYS \NCLUDE THIS IN YOUR FITNESS FUNCTION
+

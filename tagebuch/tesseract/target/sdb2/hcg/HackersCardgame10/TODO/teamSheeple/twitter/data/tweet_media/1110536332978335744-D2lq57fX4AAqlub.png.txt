@@ -1,0 +1,25 @@
+Starting Nmap 7.40 ( https://nmap.org ) at 2019-03-26 14:36 CET
+Nmap scan report for 178-82-219-75.dynamic.hispeed.ch (178.82.219.75)
+Host is up (0.0285 latency).
+
+Not shown: 993 closed ports
+
+PORT STATE SERVICE
+
+21/tcp open ftp
+
+22/tcp open ssh
+
+53/tcp open domain
+
+80/tcp open http
+
+139/tcp open netbios-ssn
+
+445/tcp open microsoft-ds
+
+1723/tcp open pptp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.65 seconds
+You have new mail in /var/mail/marc
+marc@debian:~/Daten.2019/musik$ Jf

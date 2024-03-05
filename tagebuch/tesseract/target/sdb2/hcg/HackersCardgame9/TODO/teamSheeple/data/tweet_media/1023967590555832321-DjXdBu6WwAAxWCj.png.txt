@@ -1,0 +1,5 @@
+marc@debian: ~
+File Edit View Search Terminal Tabs Help
+marc@debian: ~ marc@debian: ~
+
+marc@debian:~$ ssh marcland@ftp.marclandolt.ch

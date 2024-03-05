@@ -1,0 +1,22 @@
+Local node: 192.168.1.41: Traffic on interface eth (2h)
+
+2s mtps
+1oMtps
+
+oboe
+
+Incomingtrafic on interface ath
+Outgoing trate on interface th
+
+last
+avg) 51281 Kops
+vg) “48.5 Kops
+
+148.2 Kips
+
+29
+498thbps
+So Mepe
+
+ny
+

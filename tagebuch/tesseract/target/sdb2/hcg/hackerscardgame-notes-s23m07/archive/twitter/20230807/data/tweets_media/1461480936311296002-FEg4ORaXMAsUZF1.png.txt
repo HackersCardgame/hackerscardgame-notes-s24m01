@@ -1,0 +1,14 @@
+Frequenz / Wellenlange berechnen
+Was soll berechnet werden ?
+
+Wellenlange O.
+Frequenz {0}
+Eingabe und Auswahl des Mediums
+
+were
+
+Dezimalstellen _Rechnen |
+Resuitat
+
+Frequenz 299.79 GHz
+

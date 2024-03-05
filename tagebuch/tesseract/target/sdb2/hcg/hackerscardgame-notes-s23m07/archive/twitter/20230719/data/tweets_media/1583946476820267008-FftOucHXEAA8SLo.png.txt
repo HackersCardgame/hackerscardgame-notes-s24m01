@@ -1,0 +1,18 @@
+TorServer
+
+140 Mbps:
+
+120 Mbps.
+
+1100 Mbps:
+
+80 Mops
+
+60 Mops
+
+40 Mops
+
+20 Mops
+10-22 13:04 10-22 14:39 10-22 16:15 10-2217:50 10-22 19:25 10-22.21:00 10-22.22:35  10-2300:11
+
+'= 192.168.1.203: Interface port 6: Gigabit Copper(): Bits recelved ~ 192.168.1.203: Interface port 6: Gigabit Copper(): Bits sent

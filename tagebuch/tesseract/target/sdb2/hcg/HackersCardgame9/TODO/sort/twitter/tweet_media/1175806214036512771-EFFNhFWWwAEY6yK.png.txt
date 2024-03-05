@@ -1,0 +1,38 @@
+Q root@degian: /home/marc m
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: Log Level: 0x13
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: [Network filtering settin
+gs]
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: Enabled : F
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: Entries: (null)
+
+Sep 22 18:16:48 degian dbus-daemon[2874]: [session uid=1000 pid=2874] Successful
+ly activated service ‘com.intel.dleyna-renderer'
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: Calling GetRenderers meth
+od
+
+Sep 22 18:16:48 degian dleyna-renderer-service[14783]: Client :1.1002 lost
+
+Sep 22 18:16:48 degian gnome-shell[3282]: Received error from DBus search provid
+er org.gnome.Photos.desktop during GetResultMetas: Gio.DBusError: GDBus.Error:or
+g.freedesktop.DBus.Error.ServiceUnknown: The name :1.1002 was not provided by an
+y .service files
+
+Sep 22 18:16:48 degian gnome-shell[3282]: Wrong number of result metas returned
+by search provider org.gnome.Photos.desktop: expected 4 but got 0
+
+Sep 22 18:16:49 degian dbus-daemon[2874]: [session uid=1000 pid=2874] Activating
+service name='org.gnome.Screenshot' requested by ':1.25' (uid=1000 pid=3282 com
+Jusr/bin/gnome-shell " Label="unconfined")
+
+Sep 22 18:16:49 degian dbus-daemon[2874]: [session uid=1000 pid=2874] Successful
+ly activated service 'org.gnome.Screenshot'
+
+Sep 22 18:16:49 degian dleyna-renderer-service[14783]: dLeyna: Exit
+
+Sep 22 18:16:49 degian dleyna-renderer-service[14752]: dLeyna: Exit
+

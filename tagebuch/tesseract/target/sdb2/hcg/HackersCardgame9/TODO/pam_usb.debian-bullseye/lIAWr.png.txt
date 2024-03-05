@@ -1,0 +1,30 @@
+System Bus % SessionBus %
+Filter:| nel }
+
+unique bus name .
+
+unix:path=/var/run/dbus/system_b
+org.freedesktop.NetworkManager
+
+-v Interfaces
+
+> org.freedesktop.DBus.Introspectable
+
+Program Object Path
+
+Interface
+ActivateConnection (Object Path connection, 0.
+AddAndActivateConnection (Dict of (String, D
+
+Method checkConnectivity () + (uint32 connectivity)
+
+DeactivateConnection (Object Path active_conr
+
+Enable (Boolean enable) + ()
+
+Name: org.freedesktop.NetworkManager
+Process ID: 923
+Command line: NetworkManager
+
+GetDeviceBylpiface (String iface) + (Object Pat
+(array of [Object Path] devices)

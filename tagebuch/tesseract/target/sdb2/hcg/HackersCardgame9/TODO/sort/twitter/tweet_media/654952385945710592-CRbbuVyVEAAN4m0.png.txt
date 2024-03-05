@@ -1,0 +1,28 @@
+nterface WAN2 (1h)
+
+ez:TL OT st
+ezitt
+sett
+ett
+zt
+ozitt
+ect
+str
+out
+ect
+ort
+e0ett
+90:11
+
+2
+
+avg
+836.99 Kbps
+85.58 Kbps
+
+min
+57.46 Kbps
+7.28 Kbps
+
+ps
+ps

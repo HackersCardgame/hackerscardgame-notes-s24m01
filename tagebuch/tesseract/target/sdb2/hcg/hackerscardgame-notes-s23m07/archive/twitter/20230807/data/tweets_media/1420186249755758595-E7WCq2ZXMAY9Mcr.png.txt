@@ -1,0 +1,5 @@
+,.
+
+5
+‘© marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet DEFCON2
+

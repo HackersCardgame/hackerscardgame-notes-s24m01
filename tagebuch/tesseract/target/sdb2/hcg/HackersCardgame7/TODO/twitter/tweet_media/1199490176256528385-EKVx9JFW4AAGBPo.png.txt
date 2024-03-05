@@ -1,0 +1,19 @@
+marc@debian: ~/Daten.2019/code/HackersCardgame3/scripts.e.
+
+Imarc@debian:~/Daten.2019/code/HackersCardgane3/scripts.eoan$ ./printPDFs.sh
+
+To print PDFs English: ./printPDFs.sh EN AG
+To print PDFs German: ./generatePDF.sh DE A4
+
+Imarc@debian:~/Daten.2019/code/HackersCardgame3/scripts.eoan$ ./printPDFs.sh EN A
+set the printer you would like to print as default printer.
+
+Then press any key to continuej: ./pdf_EN_A4.txt
+
+i: ../pdf/EN/A4/Print_ja5-scg3-ja3-ha1-ra5-ma3-ja7-ja4.svg__ted_files-job_369.pd
+printed «+ /pdf /EN/A4/Print_ja5-scg3-ja3-ha1-ra5-ma3-ja7-ja4.svg__ted_files-job_3
+My ypdt/eN/aa/erint_stscti-stsct3-stsct2-e3-e4-e2-e1-e5.svg__ftles-Job_394.9d
+printed - + /pdf/EN/A4/Print_stsct1-stsct3-stsct2-e3-e4-e2-e1-e5.svg__files-job_3
+Le ypdt/EN/aa/Print_nS7-né1-n15-nod-ns0-n69-n77-n19-ns2.svg___ftles-ob_378.pd
+printed ~./pdf /EN/A4/Print_m57-m41-m15-mod-m50-m69-m77-m19-m52.svg__files-job_3
+

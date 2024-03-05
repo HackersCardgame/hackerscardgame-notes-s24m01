@@ -1,0 +1,26 @@
+marc@gfynsa:~/Daten.2020/code/HackersCardgame5/scripts.eoan$ sudo apt-get update
+&& sudo apt-get upgrade
+
+Hit:1 http://deb.debian.org/debian buster InRelease
+
+Ign:2 http://security.debian.org/debian-security buster InRelease
+
+Err:3 http://security.debian.org/debian-security buster Release
+404 Not Found [IP: 151.101.12.204 80]
+
+Reading package lists... Done
+
+E: The repository 'http://security.debian.org/debian-security buster Release' do!
+
+es not have a Release file.
+
+N: Updating from such a repository can't be done securely, and is therefore disa’
+
+bled by default.
+
+N: See apt-secure(8) manpage for repository creation and user configuration deta
+
+ils.
+
+marc@gfynsa:~/Daten.2020/code/HackersCardgame5/scripts.eoan$ fj
+

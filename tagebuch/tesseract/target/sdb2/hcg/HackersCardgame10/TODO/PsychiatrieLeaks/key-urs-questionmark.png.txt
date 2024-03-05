@@ -1,0 +1,26 @@
+Ay marc@debian: ~/Daten.2020/code/HackersCardgame6
+
+Imarc@debian:~$ cd Daten.2020/code/HackersCardgame6/
+Imarc@debian : ~/Daten.2020/code/HackersCardgame6$ git pull
+
+The authenticity of host 'github.com (140.82.118.4)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGL7E1IGOCspRomTxdCARLVikw6E5SY8
+Are you sure you want to continue connecting (yes/no/[fingerprint])? no
+Host key verification failed.
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+
+land the repository exists.
+marc@debian : ~/Daten. 2020/code/HackersCardgame6$ git pull
+
+The authenticity of host 'github.com (140.82.118.4)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGL7E11GOCspRomTxdCARLVikw6E5SY8
+Are you sure you want to continue connecting (yes/no/[fingerprint])? *C
+Imarc@debian : ~/Daten.2020/code/HackersCardgame6$ 1s ~/.s
+
+.ssh/ .sudo_as_admin_successful
+
+marc@debian : ~/Daten.2020/code/HackersCardgame6$ ls ~/.ssh/known_hosts
+

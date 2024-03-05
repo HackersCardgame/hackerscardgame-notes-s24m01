@@ -1,0 +1,23 @@
+In der Psychiatrie K6nigsfelden ist es Ublich,
+dass man irgendwelche Dinge malt, bastelt,
+schreinert, naht. In diesen Dingen bin ich
+grotten schlecht. Aber ich fur diejenigen die
+sich 28. far #Linux interessieren:
+
+Es ist immer massig toll fur Anfanger das auf
+den (einzigen) Laptop zu installieren den man
+hat, weil das geht beim ersten Mal sowieso
+schief.
+
+Also nimmt man einen alten occasion Laptop
+von 28. Ebay und probiert damit.
+
+- dieses Modell D420 scheint es jetzt auf Ebay
+nicht mehr so gunstig zu geben
+
+- da war keine Festplatte drin (vermutlich
+deshalb so gunstig) also boot ab USB Stick
+
+- War eine Bridge/Router/Firewall, hatte war
+interne Netzwerk-Karte aber brauchte eine
+aweite

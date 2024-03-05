@@ -1,0 +1,98 @@
+3046.653635) pcieport 0000:00:14.0: (12) Timeout
+3050019940) Usb 1-3: USB disconnect, device nusber 18
+
+3053.966297] peieport HER: Multiple Corrected error received: 0000:00:14.0
+
+3053966372] peieport Pete Bus Error: severity=Corrected, type*Data Link Layer, (Transmitter 1D)
+3053-96300] peieport ‘device (9086:a335) error status/mask=00001000/00002000
+
+3053.966385) peieport (22) Tineout
+
+3086 590208] Usb 1-3: new high-speed USB device nuaber 19 using xhci_hed
+
+3086.739118] usb 1-3: New USB device found, idvendors0781, idProduct=5s83, bedDevice= 1.00
+
+3086739119] Usb 1-3: New USB device strings: Mfr=1, Products2, SerialNunber=3
+
+3086.739120) Product: Ultra Fit
+
+3086.739120) Manufacturer: SanDisk
+
+3086.739121} sac tessooidoal0835ss107b4a65bad
+3086743711)
+
+3086.743988)
+
+3087759145) Direct-Access SanDisk Ultra Fit 1.00 Pa: @ ANSI: 6
+
+3087759741}
+
+3087. 760162) {sde] 30031672 512-byte Logical blocks: (15.4 66/14.3 GiB)
+
+3087760976) {sde} write Protect 1s off
+
+3087760979} [sde] Mode sense: 43 60 00 00
+
+3087761361) : [Se] write cache: disabled, read cache: enabled, doesn't support OPO or FUA
+3087. 768506),
+
+3087-70591} {sde} Attached SCSI renovable disk
+
+3088.298553] peieport ‘AER: Corrected error received: 0000:00:14.0
+
+3085.298575] peieport PCIe Bus Error: severity=corrected, typesbata Link Layer, (Transmitter
+3085.298593) peieport ‘device (9086:a335) error status/mask=00001000/00002000
+
+3088.298591] peieport (22) Timeout
+
+3086.906537] peieport AER: Multiple Corrected error received: 0000:09:14.0
+
+3085.906613] peieport PCIe Bus Error: severity=Corrected, typesData Link Layer, (Transmitter
+3085.906623) peieport ‘device (9086:a335) error status/mask=00001000/00002000
+
+3088906631) peieport (22) Timeout
+
+3092642018] peieport AER: Corrected error received: 0000:00:14.0
+
+3092642040] peieport PCIe Bus Error: severity=corrected, typesbata Link Layer, (Transmitter
+3092642048) peieport ‘device (9086:a335) error status/mask=00001000/00002000
+
+3092.642053) peieport (22) Timeout
+
+3093038911] FAT-fs.(sdel)
+
+3119494847] peieport ‘AER: Corrected error received: 0000:00:1d.0
+
+3119.494861] peieport Pete Bus Error: severity=corrected, type*bata Link Layer, (Transmitter
+31191494868) pedeport ‘device (8086:9335] error status/nask=00001000/00002000
+
+31191494865] peseport (22) Tineout
+
+3139635435] peieport AER: Corrected error received: 0000:00:14.0
+
+3139635848) peieport Pete Bus Error: severity=corrected, type*bata Link Layer, (Transmitter
+3139635850] peseport ‘device (8086:9335] error status/nask=00001000/00002000
+
+3139635452] peieport (22) Tineout
+
+3165 165625] peieport AER: Corrected error received: 0000:00:14.0
+
+3165-16640] peieport Pete Bus Error: severity=corrected, type*bata Link Layer, (Transmitter
+3165.165642] peseport ‘device (8086:9335] error status/nask=00001000/00002000
+
+3165166643] pedeport (22) Tineout
+
+3181675720] peieport AER: Corrected error received: 0000:00:14.0
+
+3161675735] peieport Pete Bus Error: severity=corrected, type*bata Link Layer, (Transmitter
+3161.675738) peieport ‘device (8086:9335] error status/nask=00001000/00002000
+
+3181675739] peieport (22) Tineout
+
+3184.218725] peieport AER: Corrected error received: 0000:00:14.0
+
+3168.218737] peieport Pete Bus Error: severity=corrected, type=bata Link Layer, (Transmitter
+3184.218739) peieport ‘device (8086:9335] error status/nask=00001000/00002000
+
+pirttertind termed iz) Timeout
+

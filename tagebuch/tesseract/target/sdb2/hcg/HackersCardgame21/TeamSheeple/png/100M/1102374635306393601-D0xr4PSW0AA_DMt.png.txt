@@ -1,0 +1,36 @@
+Silber il lla ee eee eH cance: Soaney jerere: © rovider serguoouncyeesem
+
+EPROM FERDIONS Ee ae) ~ MELD Ses Mew DONC Castres Orgs eve. Nieey
+
+narc@debian:~/post-e-voting/source-codes fgrep -r *//" * [grep -v TODO |grep java |grep TODO
+narc@debian:~/post-e-voting/source-codes fgrep -r "//" * |grep java lgrep TODO
+
+maven.
+odity
+odity
+
+maven.
+
+generic-cont /extibs/ec2-plugin/sr¢/main/java/hudson/plugins/ec2/EC2Retent ionStrateay. java: // 1000: really think about the right strategy here
+generic-conf/extlibs/ec2-plugin/sr¢/main/java/hudson/plugins/ec2/EC2CLoud. java: 71 10001 record the output somewhere
+generic-conf/extibs/ec2-plugin/sr¢/main/java/hudson/plugins/ec2/ssh/EC2UnixLauncher. java: // 1000: parse the version number. maven-enforcer-plugin might help
+-generic-conf/extLibs/ec2-plugin/sr¢/main/java/hudson/plugins/ec2/ssh/EC2UnixLauncher. java: 7/ 7000: on Windows with ec2-sshd, this scp conmand ends up just putting stave. jar
+\tmp
+
+generic-conf/ext1ibs/ec2-plugin/src/main/java/hudson/plugins/ec2/one/OneSLaveTenplate. java: // 1000: Include more fitters
+generic-conf/extibs/ec2-plugin/sr¢/main/}ava/hudson/plugins/ec2/one/OneSlaveTemplate. java: 7/ 7000: Inprove filtering necanism
+‘generic-cont/extlibs/ec2-plugin/src/main/java/hudson/plugins/ec2/one/OneEC2CLoud. java: 7/ 1000: record the output somewhere
+‘generic-cont/extlibs/jmeter-maven-plugin/src/test/java/con/lazerycode/jmeter/IMeterMojoTest. java://T0D0 write tests for IMeterHojo
+‘generic-cont/extlibs/jmeter-maven-plugin/src/nain/java/con/\azerycode/jmeter/configuration/JMeterArgunentsArray. java:  //7000 We should support this rather than expecting people to =
+thier jmeter.properties
+
+generic-conf/extlibs/ jmeter-maven-plugin/src/main/java/con/Lazerycode/ jmeter/configuration/JMeterArgumentsArray.java:  //70D0 we should support this rather than expecting people to =
+thier jneter.properties
+
+-generic-conf/extLibs/jmeter-naven-plugin/src/main/java/con/lazerycode/jmeter/ErrorScanner-java:  //70D0: where would such an elenent cone fron?
+Generic-conf/extlibs/Jmeter-maven-plugin/src/main/Java/con/lazerycode/jmeter/ErrorScanner.java: _//70D0: where would such an elenent cone fron?
+generic-conf/extibs/jmeter-maven-plugin/src/main/java/con/Lazerycode/ jmeter/IMeterAbstractMojo.java:  // 1000: what is an error?
+generic-conf/extibs/jmeter-maven-plugin/src/main/Java/con/Lazerycode/ jneter/MeterAbstractMo}o. java: 11 *000 Check if we really need to do this
+-generic-cont/extlibs/}meter-maven-plugin/stc/nain/java/con/lazerycode/jneter/IMeterHojo. java: 1/7000: may not work if SecurityManager is enabled. Needs
+
+marc@debian:~/post-e-voting/source-codes. ff

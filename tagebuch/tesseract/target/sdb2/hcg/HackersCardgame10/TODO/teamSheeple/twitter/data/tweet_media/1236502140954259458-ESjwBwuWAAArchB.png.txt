@@ -1,0 +1,39 @@
+a marc@debian: ~ Q
+
+ime=104 ms
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=4
+ime=127 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=5
+ime=110 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=6
+ime=171 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=7
+|ime=39.6 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=8
+|ime=39.2 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=9
+Jime=42.6 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=10 tt
+time=30.5 ms
+
+64 bytes from lb-140-82-118-4-ams.github. (140.82.118.4): icmp_seq=11 ttl=52
+time=35.9 ms
+
+nc
+
+--- github.com ping statistics ---
+
+11 packets transmitted, 11 received, 0% packet loss, time 10014ms
+
+rtt min/avg/max/mdev = 30.452/71.856/170.513/45.422 ms
+
+Imarc@debian:~$ ping www.github.com
+
+PING github.com (140.82.118.4) 56(84) bytes of data
+

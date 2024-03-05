@@ -1,0 +1,28 @@
+Nanobeam Mz
+
+SYSTEM.
+
+Firmware Update
+
+Firmware Version: XW.v6 5.10 Upload Firmware: | Choose Fie |No file chosen
+Build Number: 24238
+
+Check for Updates: @) Enable [ Check Now,
+
+Device Date Settings
+Device Name: [NanoBeam\l2 400 Time Zone: [(GMT) Western Europe T_¥
+Interface Language: [English ¥ Startup Date: () Enable
+Startup Date
+
+System Accounts
+
+‘Adhinistrator Username: unt
+
+Read-Only Account: (2) Enable
+
+Miscellaneous Location
+
+Reset Button: [7] (#) Enable Latitude:
+
+Longitude:
+

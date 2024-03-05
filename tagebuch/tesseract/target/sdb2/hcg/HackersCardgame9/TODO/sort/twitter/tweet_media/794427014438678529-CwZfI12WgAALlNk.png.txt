@@ -1,0 +1,25 @@
+Abstract Factory Proxy
+Observer
+Singleton
+State
+Chain of Responsibility Iterator Strategy
+Command i Template Method
+Composite Visitor
+
+Erfinder Jahr
+Architekt Christopher Alexander ~1977
+
+Funktionsweise
+
+Entwurfsmuster (englisch design patterns) sind
+bewahrte Lésungsschablonen fur wiederkehrende
+Entwurfsprobleme sowohl in der Architektur als auch
+in der Softwarearchitektur und -entwicklung.
+
+In der Software Entwicklung eine Klasse oder eine
+Kombination von Klassen
+
+Anwendungsfalle
+Architektur, Software Entwicklung, aber auch in der
+Psychologie / Soziologie (Archetypen Kombination)
+

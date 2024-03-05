@@ -1,0 +1,42 @@
+Domain Name Space
+
+Pome
+
+a
+fei
+=] 7
+
+7
+
+\
+
+..
+
+r S,
+
+/
+
+paas
+
+te] I
+
+Hee
+
+Wels
+
+NS RR ("resource record")
+
+names the nameserver
+authoritative for Ar resource records
+delegated subzone Ax | = associated with name
+Nn ” TTF a
+EE ]\, “delegated subzone TN zone of authority,
+ES {== managed by a name server
+when a system administrator Ly
+\. wants to let another administrator ”
+
+manage a patt of a zone, the first
+administrator's nameserver delegates see also: RFC 1034 4.2
+
+part of the zone to another How the database is divided into zones.
+

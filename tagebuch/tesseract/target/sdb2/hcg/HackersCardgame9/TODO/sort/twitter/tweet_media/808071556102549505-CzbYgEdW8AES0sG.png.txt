@@ -1,0 +1,29 @@
+) DESIGN PATTERN (5)
+
+Abstract Factory [S$] Facade
+[s] Adapter Factory Method
+[[S] Bridge [S] Foweignt
+[EE] Builder [B] Interpreter
+Chain of Responsibility Iterator
+Mediator Template Method
+
+Prototype
+
+Erfinder Architekt Christopher Alexander ~1977
+Entwurfsmuster (engl.: design patterns) sind
+bewahrte Lésungsschablonen fiir wiederkehrende
+Entwurfsprobleme sowohl in der Architektur als
+auch in der Softwareentwicklung.
+
+Ein Design Pattern enthalt meist mehrere
+Klassen (Schablonen) also ein einzelnes Design
+Pattern ist somit eine Sammlung von
+verschiedenen Schablonen. Also z.B. die
+Gussform einer einzelnen Treppe (z.B. Beton)
+UND das Gelander (StahlFachWerk, Holz) dazu
+
+Anwendungsfalle
+
+Architektur, Softwareentwicklung, Psychologe
+& Soziologie (z.B. Archetypen-Kombinationen)
+

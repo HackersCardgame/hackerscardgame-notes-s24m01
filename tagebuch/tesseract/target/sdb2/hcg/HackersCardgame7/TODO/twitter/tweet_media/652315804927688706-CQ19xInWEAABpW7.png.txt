@@ -1,0 +1,65 @@
+Local node: 192,168,179.20: Traffic on
+
+100 Kbps:
+80 Kbps L
+60 Kbps
+40 Kbps
+20 Kbps
+
+interface ethO (1h)
+
+obps
+
+038
+03:50,
+03:52
+os4
+03:56
+03:58
+
+04:00
+oaso2
+oa:04
+04.06
+
+09.10 03:46
+
+Bi Incoming traffic on interface etho
+Bl Outgoing traffic on interface etho
+
+ose
+oa:10
+
+aval
+laval
+
+oas12
+
+oat
+oas16
+owe
+0:20
+
+last
+79.38 Kbps
+47.71. Kbps
+
+oai22
+
+oa24
+04:26
+0:28
+04:20
+oasa2
+oa34
+04:36
+04:38
+o:a0
+oasaz
+aaa
+09.10 04:46
+
+min avg ma
+47.92 Kbps 65.31 Kbps. 82.15
+LL. kbps 27.55 Kbps 88.3
+

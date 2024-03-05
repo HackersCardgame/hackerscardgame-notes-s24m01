@@ -1,0 +1,18 @@
+Hi! /bin/bash
+
+for i in $(seq 1 10000)
+do
+sleep $(( ( RANDOM % 10) +1)
+xdotool key ctrl#Tab
+xdotool key F5
+for j in $(seq 0 $(( ( RANDOM % 10 ) +1 )))
+do
+sleep $(( ( RANDOM % 10) +1)
+xdotool key End
+done
+done
+
+syntax on
+
+ALL
+

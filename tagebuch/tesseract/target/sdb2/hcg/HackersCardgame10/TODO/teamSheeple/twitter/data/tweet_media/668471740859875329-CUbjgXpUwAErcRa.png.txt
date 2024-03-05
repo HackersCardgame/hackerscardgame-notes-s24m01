@@ -1,0 +1,20 @@
+Local node: 192.168.1.41: Traffic on interface eth (2h)
+
+2s mtps
+1oMtps
+obs
+
+erat elalaiabe Sialaieialeinie ciel sieiesiaiene
+
+min 9
+a koee a77hops 12.45
+e2kbps R67Mbps La)
+
+Incomingtrafic on interface ath
+Outgoing trate on interface th
+
+ADEE RRS SOUP eS SS ePPee
+
+Incoming trafic on interface Broadcom Corportin Netlink 8CMS77@5 Giga Ethemet PCIe
+I Outgoing trate on interface Broadcom Cerperaton Netlink BCMS?785 Gigabt Ethemet Pele
+

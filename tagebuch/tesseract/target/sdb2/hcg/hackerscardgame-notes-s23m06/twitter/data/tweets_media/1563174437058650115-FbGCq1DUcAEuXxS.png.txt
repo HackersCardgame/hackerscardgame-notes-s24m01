@@ -1,0 +1,29 @@
+Ih /c/Users/marc/Downloads
+
+$ 1s linux
+Tinux/ Tinux-0.01.tar.gz Tinux-1.0.patch.alpha
+
+marc@windows MSYS /c/Users/marc/Downloads
+$ 1s linux
+Makefile boot fs include init kernel lib mm tools
+
+marc@windows MSYS /c/Users/marc/Downloads
+$ 1s linux -la
+
+total 120
+
+drwxr-xr-x 1 mare Kein 0 sep 17 1991.
+drwxr-xr-x 1 mare Kein 0 Aug 24 21:40 ..
+-rw-r--r-- 1 marc Kein 2186 Sep 17 1991 Makefile
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 boot
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 fs
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 include
+drwxr-xr-x 1 mare Kein 0 sep 17 1991 init
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 kernel
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 lib
+drwxr-xr-x 1 mare Kein 0 sep 17 1991 mm
+drwxr-xr-x 1 mare Kein 0 Sep 17 1991 tools
+
+marc@windows MSYS /c/Users/marc/Downloads
+
+$

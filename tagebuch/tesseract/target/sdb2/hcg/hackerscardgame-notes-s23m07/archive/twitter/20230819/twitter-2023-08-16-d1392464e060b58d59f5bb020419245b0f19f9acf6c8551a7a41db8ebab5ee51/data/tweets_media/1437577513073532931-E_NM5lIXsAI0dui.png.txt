@@ -1,0 +1,43 @@
+background-color: black;
+
+font-family: serif;
+
+text-align: center}
+
+font-size: 150pts
+
+padding-top: 10%;
+
+color: reds
+
+swebkit-animation: fade 5s;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-direction: alternates
+animation: fade 55;
+‘animation-iteration-count: infinites
+anination-direction: alternate;
+
++
+Q-webkit-keyfranes fade
+
+from { color: red; }
+to { color: #fF6900; }
+
+}
+Gkeyfranes fade
+{
+from { color: reds }
+to { color: #f#200; }
+3
+span.inner
+{
+color: whites
+?
+span.left,
+spon. riaht
+font-size: 200pt;
+?
+p.sub
+{
+
+letter-spacing: 1.5en;

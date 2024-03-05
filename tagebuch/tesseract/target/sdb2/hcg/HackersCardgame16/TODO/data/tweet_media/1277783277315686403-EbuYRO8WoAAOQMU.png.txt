@@ -1,0 +1,25 @@
+"hackerscardgame10/TODO/teamSheeple/mail/in meinem Schlafzimmer wihlen, WTF! - "
+Marc jr. Landolt" <mail@marclandolt.ch> - 2020-02-09 1632.eml' -> '/media/marc/0
+C6A-BEBA/TODO/teamSheeple/mail/in meinem Schlafzimmer wihlen, WTF! - "Marc jr. L
+andolt" <mail@marclandolt.ch> - 2020-02-09 1632.eml
+cp: cannot create regular file '/media/marc/OC6A-BEBA/TODO/teamSheeple/mail/in m
+einem Schlafzimmer wiihlen, WTF! - "Marc jr. Landolt" <mail@marclandolt.ch> - 202)
+0-02-09 1632.emL': Invalid argument
+"hackerscardgame10/TODO/teamSheeple/mail/keine Unterlassene Hilfeleistung bei Ma
+rgrit & Georg Landolt - "Marc jr. Landolt" <mail@marclandolt.ch> - 2020-01-10 19)
+53.eml' -> '/media/marc/@C6A-BEBA/TODO/teamSheeple/mail/keine Unterlassene Hilfe
+leistung bei Margrit & Georg Landolt - "Marc jr. Landolt" <mail@marclandolt.ch>
+- 2020-01-10 1953.eml'
+cp: cannot create regular file '/media/marc/OC6A-BEBA/TODO/teamSheeple/mail/kein
+e Unterlassene Hilfeleistung bei Margrit & Georg Landolt - "Marc jr. Landolt" <m
+ail@marclandolt.ch> - 2020-01-10 1953.eml': Invalid argument
+‘hackerscardgame10/TODO/teamSheeple/mail/Uberwachung = Zensur - Marc Jr Landolt
+<mail@marclandolt.ch> - 2016-11-21 1554.eml' -> '/media/marc/OC6A-BEBA/TODO/team|
+Sheeple/mail/Uberwachung = Zensur - Marc Jr Landolt <mail@marclandolt.ch> - 2016
+-11-21 1554.eml'
+cp: cannot create regular file '/media/marc/OC6A-BEBA/TODO/teamSheeple/mail/Uber
+wachung = Zensur - Marc Jr Landolt <mail@marclandolt.ch> - 2016-11-21 1554.eml':
+Invalid argument
+"hackerscardgame10/TODO/evidence/thunderbird.tar.gz.part.ai' -> '/media/marc/0C6
+A-BEBA/TODO/evidence/thunderbird.tar.gz.part.ai
+

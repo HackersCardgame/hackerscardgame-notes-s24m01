@@ -1,0 +1,13 @@
++ ee a
++ Allows encryption of files and folders saved to cloud storage (Dropbox, Google Drive, OneDrive, ete).
+«+ allows portable encryption of file folders on removable disks.
+
++ Available as a cross-platform folder encryption mechanism.
+
+rectory and into a physically
+
+increases security by adaing a wo factor authentication (2FA. For example, reFS sable to store each unique volume Key anywhere else than the actual encrypted data, sich as ona USB Nash dive network mount, eptal deo
+loud.!1In addition to that a password could be required to decrypt this volume key.
+
+Advantages (est
+

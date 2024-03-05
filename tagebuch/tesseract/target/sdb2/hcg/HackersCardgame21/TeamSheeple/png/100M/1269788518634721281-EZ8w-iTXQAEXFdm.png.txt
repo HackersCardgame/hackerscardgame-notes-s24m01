@@ -1,0 +1,85 @@
+EXNevends | w HZrytho | w Verfolgu | AgeReduct | Ml cou
+
+<>o¢e@ a e2<om)
+
+}S"= The Ken Thompson
+Ph Hack
+
+In 1984 KenThompson was presented with the ACM
+‘Turingaward. Ken's acceptance speech Reflections On
+
+Trusting Trust (http:jom.bell-abs.com/whoyken/trust html)
+escribes a hack (in every sense), the most subversive ever
+perpetrated, nothing less than the root password of all ev.
+
+Ken describes how he injected a virus into a compiler. Not
+only did his compiler know it was compiling the login function
+fand inject a backdoor, but it also knew when it was compiling
+Itself and injected the backdoor generator into the compiler it
+was creating. The source code for the compiler thereafter
+Contains no evidence of either virus
+
+Ken wrote, In demonstrating the possibility ofthis kind of
+attack, I picked on the C compiler I could have picked on any
+rogram-handling program such as an assembler, a loader, or
+even hardware microcode. As the level of program gets
+Tower, these bugs will be harder and harder to detect. A well
+instalied microcode bug will be almost impossible to detect.
+
+en does not mean bug in the sense of error, but inthe sense
+of listening device. And itis “almost” impossible to detect
+because TheKenThompsontack easily propagates into the
+binaries of all the inspectors, debuggers, disassemblers, and
+dumpers a programmer would use to tr to detect it. And
+defeats them. Unless you're coding in binary, or you're using
+tools compiled before the KTH was installed, you simply have
+no access to an uncompromised tool,
+
+In fact, given the amenability of microcode to the KTH, not
+even then,
+
+All manner of controls and monitors could be secreted this
+‘way in the OSes of all the devices we all use day to day. It
+Isn't very far fetched to suggest that the hack, in software,
+can create an updatable backdoor. This way every plece of
+software on the planet can be KTH bugged without any
+possiblity of detection by any mortal engineer anywhere,
+
+Well, maybe with the diligent use of an electron microscope.
+Given last week's horrifying revelations concerning the US
+
+government's TotallnformationAwareness of every US
+domestic phone call, it is difficult to imagine that the
+
+@ Shope
+
+© 0209)
+
+totaliti.se
+
+‘The Ken Thompson Hack - Mozilla Firefox
+
+¥ (Ho
+
+© 159)
+
+My co
+
+W Dish
+
+2 Tweet
+
+¥ amar
+
+(Mar
+
+t
+
+v war
+
+¥
+
+compl
+
+noe
+

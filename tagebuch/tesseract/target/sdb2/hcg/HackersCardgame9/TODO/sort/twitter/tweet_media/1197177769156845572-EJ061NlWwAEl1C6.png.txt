@@ -1,0 +1,31 @@
+4.0K —. /reverseEngtneering
+4.0K. /screenshots
+
+4.0K —./studium
+
+4.0K —./tagebuch
+
+4.0K —./templates
+
+/backup/Daten.2019] $ git pull
+
+fatal: not a git repository (or any of the parent directories): .git
+1d [marcland@s30:~/backup/Daten.2019] 128 $ cd
+
+lad [marcland@s30:~] $ cd www/marclandolt.ch/HackersCardgame3/
+
+ad [marcland@s30:~/www/marclandolt.ch/HackersCardgame3] master # git pull
+remote: Enumerating objects: 44, done.
+
+: Counting objects: 100% (44/44), done.
+
+Compressing objects: 100% (15/15), done.
+
+unable to create temporary file: Disc quota exceeded
+
+failed to write object
+
+: unpack-objects failed
+
+lad [marcland@s30:~/www/marclandolt.ch/HackersCardgame3] master 1+ ff
+
