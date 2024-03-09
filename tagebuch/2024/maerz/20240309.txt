@@ -143,7 +143,15 @@ jemand spiuelt jetzt ein Audiosample von "Haus am See" -- Peter Fox ein "gott ha
 
 also ich bin ganz ganz fest in Versuchung wenn mich ein Kind fragen WÜRDE, was ein Nazi ist dem Kind zu erklären
 
-Nazis sind Eltern die Buchstabensuppe hassen
+marc@debian:~/hackerscardgame-notes-s24m01$ figlet AnitSEMitismus
+    _          _ _   ____  _____ __  __ _ _   _                         
+   / \   _ __ (_) |_/ ___|| ____|  \/  (_) |_(_)___ _ __ ___  _   _ ___ 
+  / _ \ | '_ \| | __\___ \|  _| | |\/| | | __| / __| '_ ` _ \| | | / __|
+ / ___ \| | | | | |_ ___) | |___| |  | | | |_| \__ \ | | | | | |_| \__ \
+/_/   \_\_| |_|_|\__|____/|_____|_|  |_|_|\__|_|___/_| |_| |_|\__,_|___/
+==============================================
+ Nazis sind Eltern die Buchstabensuppe hassen
+==============================================
 
 zu diesem gelösten Puzzle gibt es logischerweise auch eine Herleitung  
 
