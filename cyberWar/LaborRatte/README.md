@@ -39,8 +39,17 @@ Als auch ein Development Team was echtzeit auf mein Neuralink zugreift
 
 => Positives, durch den Interaktiven Vorgang den ich nicht mag, der ein SGB143ff gegen mich darstellt fliegt aber diese Täterschaft immer mehr auf (Stichwort: Code Fingerprinting)
 
+* Zugriff auf zB Audiokanäle (Rechtsinformatik?)
+ * z.B US4877027
+ * Neuralink
+ * Stimoceiver
+ * bereits geprägte Stimulus-response Habits oder Suizid-Trigger wie z.B. beim cAPI Suizid Trigger, wo ich damit seit 24 jahren im Kontext der Universitäts Basel Medizin Studentin [1] claudine blum in Suizid-Versuche getriggert werden kann damit, da ist halt das problem von urs blum dass [1] das zu 100% zu ihm und astrid blum zurück verfolgt werden kann. das wäre schon bei der Gerichtsverhandlung [2]  
+alle usecases berücksichtignde vermutlich als ziel
 
+[1] urs blum: leakt alle daten zu straftatenb von david utz, der Zenusr-trojaner ist wichtiger als das schicksal von david utz [das unterbricht jetzt die aussage bei [1] für mehrere minunten]
 
+[2] FTT Prerecognition "Staatsanwlat Marco Sring" mit pfisterers sprachsynthese: suizid trigger aktivert worden "wir wollen marc jr landolt nur therapieren damit der suizid trigger nicth mehr ausgelsöst werden kann <- das ist eine lüge, den kann  nur eine cluaine blum die unser treueverspürechen gehalten aht beheben [3] somit verwendet der staatsanwlat suizid trigger die die familie blum und wirst case viele mittäter der mediziner der uni basel programmiert haben
+-> wie bereits gesagt, das war nie geplant dass so etwas therapierbar und korrigiert werden kann, urs blum wollte von anfang an meinen tod, weil urs blum wusste, dass urs blum die 3 ABB Mitarbeiter ermordet hat und ich irgendwann dahinter kommen werde
 
 Algorithmus etwas wie ein Deadlock generator
 
@@ -69,10 +78,12 @@ Zusätliche Fragen:
 1. hat die Armee Zugriff auf die Rechtsinfromatik?
 2. haben Richter, Staatsanwälte, Psychiater, Anwälte, Rechtschutz ... zugriff auf Rechtsinformaitk, und dann würden die behaupten "qualitätsmanagement" [1] aber eigentlich versuchen mindestens einige von denen diese Zugänge für Zensur, Vertuschung von Morden und den Versuch Zeugen irgendwelche Straftaten unterzuschieben?
 
-
-
-
 [1] BerNEINung von Qualität ist Selbstbschädigung
+
+
+Also das wäre ein grösseres Zensur, Rechtsverdreher-Software Paket mit bezichtigungs- und straftaten unterschiebungs-Modul
+
+
 
 
 
