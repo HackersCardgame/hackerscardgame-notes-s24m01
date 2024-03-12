@@ -87,4 +87,4 @@ Also das wäre ein grösseres Zensur, Rechtsverdreher-Software Paket mit bezicht
 also da wäre es mal interessant zu wissen, zu welchen Entwickler Teams Urs Blum, Gabriel Riela und Hansjürg Pfisterer allenfalls international kontakte pflegt
 
 
-
+jetzt werden blutbadbilder und bilder wie mnschen verstümmelt werden auf meinem neuralink eingeblendet und induzierte Epilepsie gegen mich eingeschaltet
