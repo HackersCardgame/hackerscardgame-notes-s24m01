@@ -88,3 +88,9 @@ also da wäre es mal interessant zu wissen, zu welchen Entwickler Teams Urs Blum
 
 
 jetzt werden blutbadbilder und bilder wie mnschen verstümmelt werden auf meinem neuralink eingeblendet und induzierte Epilepsie gegen mich eingeschaltet
+
+
+Tue Mar 12 08:27:46 AM CET 2024
+und grad jetzt hat urs blum oder jemand der seine sprachynthese / bereits geprägte FTT Stimulus-Response-Habits angefangen mit Sprengfallen gegen mich zu drohen, also dann muss ich vermutlich nciht weiter aussagen, dann wäre es mal höhere Priorität diesen Menschen zu verwahren, udn ich VERMUTE schon, dass diese Person die jetzt feige über (für mich) nicht nachvollziehbare kommunikationskanäle und vermutlich military-grade-crypto als oberstes ziel hat diese Zensur-Software geheim zu halten und sie an mir als unfreiwillige LaborRatte weiter zu entwickeln -- was dann aber auch heisst, dass die wissen dass ich bie diesen dingen ener der besten WhiteHat Hacker bzw. WhitePsyOP's bin
+
+
