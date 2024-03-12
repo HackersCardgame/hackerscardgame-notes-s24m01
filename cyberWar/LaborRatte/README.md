@@ -27,7 +27,13 @@ also meine Wohnung wäre etwas wie eine Skinner-Box, bzw. die ganze Telli wo sog
 
 * Dann wirkt es immer so, als ob etwas wie ein militärsicher Abschirmdienst aktiv ist, auf vielen oder allen kanälne, internet, handy, telegram, Raumüberwachung, Rechtsinformaitk
 
-* Dann wirkt es immer so, als ob etwas wie ein militärsicher Abschirmdienst aktiv ist, auf vielen oder allen kanälne, internet, handy, telegram, Raumüberwachung, Rechtsinformaitk
+* Dann wirkt es immer so, als ob etwas wie ein militärsicher Abschirmdienst aktiv ist, auf vielen oder allen kanälne, internet, handy, telegram, Raumüberwachung, Rechtsinformaitk 
+
+* dann automated targeting, zB. wenn mein Computer online ist, dann wird grad über Google oder youtube malware ausgerollt sobald die erkennen dass ich der user bin, bzw. mittlerweile bereits wenn ich der user sein könnte, also wenn jetzt der pädophile alte ältere nachbar meine internetleitung braucht, würde er auch geownt
+
+* Teile sind vermutlich in der File Allocation Table (ev. IRATEMONK Modul?)
+
+* dann scheint es "Dump Files zu machen" sobald bisschen knapp ist mit Festplatten-Speicher wird der rest mit einem Dump File gefüllt (allenfalls auch File Allocation Table) so dass man dann selber wichtige Dinge aus Platzgründen löschen würde
 
 Als auch ein Development Team was echtzeit auf mein Neuralink zugreift
 
@@ -37,6 +43,14 @@ Als auch ein Development Team was echtzeit auf mein Neuralink zugreift
 
 
 Algorithmus etwas wie ein Deadlock generator
+
+dann teilweiste ein Autonomes System (also Algorithmen AS nicht Netz AS), also etwas wie STUXNET was permanent noch mühsamer gemacht wird -- das wäre allenfalls ein "Standardprodukt" was aber vermutlich parametrisiert oder personalisiert werden könnte
+
+STUXNET wurde auch nur bekannt gemacht weil man dann jeden dem die das antun anhängen könnten "der ist auch ein Terrorist, wir müssen dem seine Zentrifugen auch sabotieren, qualitäts-sabotage weil er ein Terrorist ist und nciht weil er urs blum mit 3 Morden in verbindung bringen kann
+
+dann etweder und/oder über logitech Unify Funktastatur injections oder intel ME oder etwas wie RemoteZugäng auf das USB system auch wenn kein Netzwerkkabel angeschlossen ist
+
+* dann VERMUTE ich auch, dass es so etwas wie TrueCrypt mit Plausible Deniability Fragment-Verzeichnisse / Fragment-Partitionen hat, wo dann für den Wrist case urs blum schon mal pädophilefotos von melanie blum oder so drauf geladen hätte, die ich nie sehe, aber die dann z.B. beim Pornofahnder der Polizei plötzlich freigeschalttet wurden <= dieser angriffsvektor wird aber nicht funktionieren, denn wiedererkennung würde man im MRI/MRT oder EEG oder im Lügendetektor erkennen, also wäre der polizei dann klar, dass das jemand ungesehen über agency grade oder military grade backdoors auf den rechner geladen hätte
 
 
 
