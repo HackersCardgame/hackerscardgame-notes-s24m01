@@ -21,7 +21,13 @@ also meine Wohnung wäre etwas wie eine Skinner-Box, bzw. die ganze Telli wo sog
 * scheinbar wird CPU runtergetaktet, allenfalls IntelME Hardware Backdoor mit zusätzlicher Funkfrequenz wie z.B. AX.25 wirst case mit etwas wie Frequenz Hopping
 
  
-* dann weiss ich noch nicht genau wie das geht, aber über USB hat es eine Funktion die das Kopieren von Daten drosselt, so bei 90%, weil man dann denkt "jetzt ist das ja dann irgendwann durch" --> so erhöhen die Täter die Zeit wo der Datenträger mit den beweismitteln und aussagen dieDann scheinbar sowohl ein Development Team für PC Malware das echtzeit auf mich zugreift, so dass der datenträger mit aussagen und beweismitteln die Urs Blum mit 3 Morden bei ABB und allenfalls mit Genozid in Verbindung bringen möglichst lange online ist
+* dann weiss ich noch nicht genau wie das geht, aber über USB hat es eine Funktion die das Kopieren von Daten drosselt, so bei 90%, weil man dann denkt "jetzt ist das ja dann irgendwann durch" --> so erhöhen die Täter die Zeit wo der Datenträger mit den beweismitteln und aussagen dieDann scheinbar sowohl ein Development Team für PC Malware das echtzeit auf mich zugreift, so dass der datenträger mit aussagen und beweismitteln die Urs Blum mit 3 Morden bei ABB und allenfalls mit Genozid in Verbindung bringen möglichst lange online ist. Oder allenfalls etwas wie IRATEMONK / Equation Group Malware, bzw. jake appelbaum sagt ja, dass die soweiso alles brauchen was die haben
+
+* dann VERMUTE ich, gibt es hardware interne Intel oder IntelME  escape Sequenzen, wo man über einen beliebigen kanals direkt auf den CPU zugreifen kann, dann Shell code, and your done
+
+* Dann wirkt es immer so, als ob etwas wie ein militärsicher Abschirmdienst aktiv ist, auf vielen oder allen kanälne, internet, handy, telegram, Raumüberwachung, Rechtsinformaitk
+
+* Dann wirkt es immer so, als ob etwas wie ein militärsicher Abschirmdienst aktiv ist, auf vielen oder allen kanälne, internet, handy, telegram, Raumüberwachung, Rechtsinformaitk
 
 Als auch ein Development Team was echtzeit auf mein Neuralink zugreift
 
@@ -41,6 +47,18 @@ Als auch ein Development Team was echtzeit auf mein Neuralink zugreift
 
 => Positives, durch den Interaktiven Vorgang den ich nicht mag, der ein StGB143ff gegen mich darstellt fliegt aber diese Täterschaft immer mehr auf (Stichwort: Code Fingerprinting)
 
+
+
+
+Zusätliche Fragen:
+
+1. hat die Armee Zugriff auf die Rechtsinfromatik?
+2. haben Richter, Staatsanwälte, Psychiater, Anwälte, Rechtschutz ... zugriff auf Rechtsinformaitk, und dann würden die behaupten "qualitätsmanagement" [1] aber eigentlich versuchen mindestens einige von denen diese Zugänge für Zensur, Vertuschung von Morden und den Versuch Zeugen irgendwelche Straftaten unterzuschieben?
+
+
+
+
+[1] BerNEINung von Qualität ist Selbstbschädigung
 
 
 
