@@ -84,6 +84,7 @@ Zusätliche Fragen:
 Also das wäre ein grösseres Zensur, Rechtsverdreher-Software Paket mit bezichtigungs- und straftaten unterschiebungs-Modul
 
 
+also da wäre es mal interessant zu wissen, zu welchen Entwickler Teams Urs Blum, Gabriel Riela und Hansjürg Pfisterer allenfalls international kontakte pflegt
 
 
 
