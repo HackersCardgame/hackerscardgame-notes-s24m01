@@ -85,3 +85,8 @@ Firmware / Software Update System der Neuralink und vermutlich auch ein Update-S
 -=[ Thu Mar 14 10:55:20 AM CET 2024 ]=-
     ==============================
 
+zeitgleich scheint auch endpoint malware ausgerollt zu werden die mein Gnome-Boxes sabotiert
+
+frage: tweet an jake @ioerror appelbaum oder an den global assensination talk typen, apropos fishng crusades
+
+
